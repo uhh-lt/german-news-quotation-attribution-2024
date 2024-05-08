@@ -1,0 +1,1594 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 3,
+                        "charBegin": 17,
+                        "charEnd": 21,
+                        "end": 4
+                    }
+                ],
+                "text": "nach",
+                "tokenIds": [
+                    3
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 3,
+                        "charBegin": 17,
+                        "charEnd": 48,
+                        "end": 8
+                    }
+                ],
+                "text": "nach Angaben der Deutschen Post",
+                "tokenIds": [
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 16,
+                        "end": 3
+                    },
+                    {
+                        "begin": 8,
+                        "charBegin": 49,
+                        "charEnd": 117,
+                        "end": 16
+                    }
+                ],
+                "text": "Am Freitag haben 1,3 Millionen deutsche Bundesbürger ein kostenloses Paket verschickt",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 4,
+                        "charBegin": 22,
+                        "charEnd": 48,
+                        "end": 8
+                    }
+                ],
+                "text": "Angaben der Deutschen Post",
+                "tokenIds": [
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 19,
+                        "charBegin": 128,
+                        "charEnd": 134,
+                        "end": 20
+                    },
+                    {
+                        "begin": 23,
+                        "charBegin": 160,
+                        "charEnd": 163,
+                        "end": 24
+                    }
+                ],
+                "text": "teilte mit",
+                "tokenIds": [
+                    19,
+                    23
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 17,
+                        "charBegin": 119,
+                        "charEnd": 164,
+                        "end": 25
+                    }
+                ],
+                "text": "Die Post teilte am vorherigen Wochenende mit,",
+                "tokenIds": [
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 25,
+                        "charBegin": 165,
+                        "charEnd": 261,
+                        "end": 38
+                    }
+                ],
+                "text": "dass jeder Haushalt in Deutschland kostenlos ein Inlandspaket bis 20 Kilogramm verschicken könne",
+                "tokenIds": [
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 17,
+                        "charBegin": 119,
+                        "charEnd": 127,
+                        "end": 19
+                    }
+                ],
+                "text": "Die Post",
+                "tokenIds": [
+                    17,
+                    18
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "3560 - 1,3 Millionen Bundesbürger in Deutschland haben kostenlos Pakete verschickt (2005-02-27)",
+    "originalText": "Am Freitag haben nach Angaben der Deutschen Post 1,3 Millionen deutsche Bundesbürger ein kostenloses Paket verschickt. Die Post teilte am vorherigen Wochenende mit, dass jeder Haushalt in Deutschland kostenlos ein Inlandspaket bis 20 Kilogramm verschicken könne.\n\nAnlass dafür war das zehnjährige Bestehen der Deutschen Post als Aktiengesellschaft. Bundesweit waren dafür 35 Millionen Jubiläumsmarken verschickt worden. Die Zusendungen waren als Wurfsendungen deklariert und galten daher als Werbung. Wer also einen Aufkleber an seinem Briefkasten hatte, dass Werbesendungen unerwünscht sind, bekam keine Marke zugestellt.\n\nFür die Paketzusteller waren am darauffolgenden Samstag und Montag Sonderschichten angesagt. Die drei- bis vierfache Menge an Paketen musste zugestellt werden. Dafür durften sich zahlreiche Empfänger über unerwartete Pakete freuen – dank der deutschen Post.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 118,
+            "end": 17,
+            "id": 0,
+            "text": "Am Freitag haben nach Angaben der Deutschen Post 1,3 Millionen deutsche Bundesbürger ein kostenloses Paket verschickt. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ],
+            "tokens": [
+                "Am",
+                "Freitag",
+                "haben",
+                "nach",
+                "Angaben",
+                "der",
+                "Deutschen",
+                "Post",
+                "1,3",
+                "Millionen",
+                "deutsche",
+                "Bundesbürger",
+                "ein",
+                "kostenloses",
+                "Paket",
+                "verschickt",
+                "."
+            ]
+        },
+        {
+            "begin": 17,
+            "charBegin": 119,
+            "charEnd": 262,
+            "end": 39,
+            "id": 1,
+            "text": "Die Post teilte am vorherigen Wochenende mit, dass jeder Haushalt in Deutschland kostenlos ein Inlandspaket bis 20 Kilogramm verschicken könne.",
+            "tokenIds": [
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38
+            ],
+            "tokens": [
+                "Die",
+                "Post",
+                "teilte",
+                "am",
+                "vorherigen",
+                "Wochenende",
+                "mit",
+                ",",
+                "dass",
+                "jeder",
+                "Haushalt",
+                "in",
+                "Deutschland",
+                "kostenlos",
+                "ein",
+                "Inlandspaket",
+                "bis",
+                "20",
+                "Kilogramm",
+                "verschicken",
+                "könne",
+                "."
+            ]
+        },
+        {
+            "begin": 39,
+            "charBegin": 264,
+            "charEnd": 348,
+            "end": 51,
+            "id": 2,
+            "text": "Anlass dafür war das zehnjährige Bestehen der Deutschen Post als Aktiengesellschaft. ",
+            "tokenIds": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50
+            ],
+            "tokens": [
+                "Anlass",
+                "dafür",
+                "war",
+                "das",
+                "zehnjährige",
+                "Bestehen",
+                "der",
+                "Deutschen",
+                "Post",
+                "als",
+                "Aktiengesellschaft",
+                "."
+            ]
+        },
+        {
+            "begin": 51,
+            "charBegin": 349,
+            "charEnd": 419,
+            "end": 60,
+            "id": 3,
+            "text": "Bundesweit waren dafür 35 Millionen Jubiläumsmarken verschickt worden. ",
+            "tokenIds": [
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59
+            ],
+            "tokens": [
+                "Bundesweit",
+                "waren",
+                "dafür",
+                "35",
+                "Millionen",
+                "Jubiläumsmarken",
+                "verschickt",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "begin": 60,
+            "charBegin": 420,
+            "charEnd": 500,
+            "end": 72,
+            "id": 4,
+            "text": "Die Zusendungen waren als Wurfsendungen deklariert und galten daher als Werbung. ",
+            "tokenIds": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71
+            ],
+            "tokens": [
+                "Die",
+                "Zusendungen",
+                "waren",
+                "als",
+                "Wurfsendungen",
+                "deklariert",
+                "und",
+                "galten",
+                "daher",
+                "als",
+                "Werbung",
+                "."
+            ]
+        },
+        {
+            "begin": 72,
+            "charBegin": 501,
+            "charEnd": 622,
+            "end": 91,
+            "id": 5,
+            "text": "Wer also einen Aufkleber an seinem Briefkasten hatte, dass Werbesendungen unerwünscht sind, bekam keine Marke zugestellt.",
+            "tokenIds": [
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90
+            ],
+            "tokens": [
+                "Wer",
+                "also",
+                "einen",
+                "Aufkleber",
+                "an",
+                "seinem",
+                "Briefkasten",
+                "hatte",
+                ",",
+                "dass",
+                "Werbesendungen",
+                "unerwünscht",
+                "sind",
+                ",",
+                "bekam",
+                "keine",
+                "Marke",
+                "zugestellt",
+                "."
+            ]
+        },
+        {
+            "begin": 91,
+            "charBegin": 624,
+            "charEnd": 716,
+            "end": 103,
+            "id": 6,
+            "text": "Für die Paketzusteller waren am darauffolgenden Samstag und Montag Sonderschichten angesagt. ",
+            "tokenIds": [
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102
+            ],
+            "tokens": [
+                "Für",
+                "die",
+                "Paketzusteller",
+                "waren",
+                "am",
+                "darauffolgenden",
+                "Samstag",
+                "und",
+                "Montag",
+                "Sonderschichten",
+                "angesagt",
+                "."
+            ]
+        },
+        {
+            "begin": 103,
+            "charBegin": 717,
+            "charEnd": 783,
+            "end": 114,
+            "id": 7,
+            "text": "Die drei- bis vierfache Menge an Paketen musste zugestellt werden. ",
+            "tokenIds": [
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113
+            ],
+            "tokens": [
+                "Die",
+                "drei-",
+                "bis",
+                "vierfache",
+                "Menge",
+                "an",
+                "Paketen",
+                "musste",
+                "zugestellt",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 114,
+            "charBegin": 784,
+            "charEnd": 881,
+            "end": 129,
+            "id": 8,
+            "text": "Dafür durften sich zahlreiche Empfänger über unerwartete Pakete freuen – dank der deutschen Post.",
+            "tokenIds": [
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128
+            ],
+            "tokens": [
+                "Dafür",
+                "durften",
+                "sich",
+                "zahlreiche",
+                "Empfänger",
+                "über",
+                "unerwartete",
+                "Pakete",
+                "freuen",
+                "–",
+                "dank",
+                "der",
+                "deutschen",
+                "Post",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 10,
+            "id": 1,
+            "sentence": 1,
+            "text": "Freitag",
+            "word": 2
+        },
+        {
+            "charBegin": 11,
+            "charEnd": 16,
+            "id": 2,
+            "sentence": 1,
+            "text": "haben",
+            "word": 3
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 21,
+            "id": 3,
+            "sentence": 1,
+            "text": "nach",
+            "word": 4
+        },
+        {
+            "charBegin": 22,
+            "charEnd": 29,
+            "id": 4,
+            "sentence": 1,
+            "text": "Angaben",
+            "word": 5
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 33,
+            "id": 5,
+            "sentence": 1,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 34,
+            "charEnd": 43,
+            "id": 6,
+            "sentence": 1,
+            "text": "Deutschen",
+            "word": 7
+        },
+        {
+            "charBegin": 44,
+            "charEnd": 48,
+            "id": 7,
+            "sentence": 1,
+            "text": "Post",
+            "word": 8
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 52,
+            "id": 8,
+            "sentence": 1,
+            "text": "1,3",
+            "word": 9
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 62,
+            "id": 9,
+            "sentence": 1,
+            "text": "Millionen",
+            "word": 10
+        },
+        {
+            "charBegin": 63,
+            "charEnd": 71,
+            "id": 10,
+            "sentence": 1,
+            "text": "deutsche",
+            "word": 11
+        },
+        {
+            "charBegin": 72,
+            "charEnd": 84,
+            "id": 11,
+            "sentence": 1,
+            "text": "Bundesbürger",
+            "word": 12
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 88,
+            "id": 12,
+            "sentence": 1,
+            "text": "ein",
+            "word": 13
+        },
+        {
+            "charBegin": 89,
+            "charEnd": 100,
+            "id": 13,
+            "sentence": 1,
+            "text": "kostenloses",
+            "word": 14
+        },
+        {
+            "charBegin": 101,
+            "charEnd": 106,
+            "id": 14,
+            "sentence": 1,
+            "text": "Paket",
+            "word": 15
+        },
+        {
+            "charBegin": 107,
+            "charEnd": 117,
+            "id": 15,
+            "sentence": 1,
+            "text": "verschickt",
+            "word": 16
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 118,
+            "id": 16,
+            "sentence": 1,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 119,
+            "charEnd": 122,
+            "id": 17,
+            "sentence": 2,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 127,
+            "id": 18,
+            "sentence": 2,
+            "text": "Post",
+            "word": 2
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 134,
+            "id": 19,
+            "sentence": 2,
+            "text": "teilte",
+            "word": 3
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 137,
+            "id": 20,
+            "sentence": 2,
+            "text": "am",
+            "word": 4
+        },
+        {
+            "charBegin": 138,
+            "charEnd": 148,
+            "id": 21,
+            "sentence": 2,
+            "text": "vorherigen",
+            "word": 5
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 159,
+            "id": 22,
+            "sentence": 2,
+            "text": "Wochenende",
+            "word": 6
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 163,
+            "id": 23,
+            "sentence": 2,
+            "text": "mit",
+            "word": 7
+        },
+        {
+            "charBegin": 163,
+            "charEnd": 164,
+            "id": 24,
+            "sentence": 2,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 169,
+            "id": 25,
+            "sentence": 2,
+            "text": "dass",
+            "word": 9
+        },
+        {
+            "charBegin": 170,
+            "charEnd": 175,
+            "id": 26,
+            "sentence": 2,
+            "text": "jeder",
+            "word": 10
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 184,
+            "id": 27,
+            "sentence": 2,
+            "text": "Haushalt",
+            "word": 11
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 187,
+            "id": 28,
+            "sentence": 2,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 199,
+            "id": 29,
+            "sentence": 2,
+            "text": "Deutschland",
+            "word": 13
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 209,
+            "id": 30,
+            "sentence": 2,
+            "text": "kostenlos",
+            "word": 14
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 213,
+            "id": 31,
+            "sentence": 2,
+            "text": "ein",
+            "word": 15
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 226,
+            "id": 32,
+            "sentence": 2,
+            "text": "Inlandspaket",
+            "word": 16
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 230,
+            "id": 33,
+            "sentence": 2,
+            "text": "bis",
+            "word": 17
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 233,
+            "id": 34,
+            "sentence": 2,
+            "text": "20",
+            "word": 18
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 243,
+            "id": 35,
+            "sentence": 2,
+            "text": "Kilogramm",
+            "word": 19
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 255,
+            "id": 36,
+            "sentence": 2,
+            "text": "verschicken",
+            "word": 20
+        },
+        {
+            "charBegin": 256,
+            "charEnd": 261,
+            "id": 37,
+            "sentence": 2,
+            "text": "könne",
+            "word": 21
+        },
+        {
+            "charBegin": 261,
+            "charEnd": 262,
+            "id": 38,
+            "sentence": 2,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 270,
+            "id": 39,
+            "sentence": 3,
+            "text": "Anlass",
+            "word": 1
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 276,
+            "id": 40,
+            "sentence": 3,
+            "text": "dafür",
+            "word": 2
+        },
+        {
+            "charBegin": 277,
+            "charEnd": 280,
+            "id": 41,
+            "sentence": 3,
+            "text": "war",
+            "word": 3
+        },
+        {
+            "charBegin": 281,
+            "charEnd": 284,
+            "id": 42,
+            "sentence": 3,
+            "text": "das",
+            "word": 4
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 296,
+            "id": 43,
+            "sentence": 3,
+            "text": "zehnjährige",
+            "word": 5
+        },
+        {
+            "charBegin": 297,
+            "charEnd": 305,
+            "id": 44,
+            "sentence": 3,
+            "text": "Bestehen",
+            "word": 6
+        },
+        {
+            "charBegin": 306,
+            "charEnd": 309,
+            "id": 45,
+            "sentence": 3,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 310,
+            "charEnd": 319,
+            "id": 46,
+            "sentence": 3,
+            "text": "Deutschen",
+            "word": 8
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 324,
+            "id": 47,
+            "sentence": 3,
+            "text": "Post",
+            "word": 9
+        },
+        {
+            "charBegin": 325,
+            "charEnd": 328,
+            "id": 48,
+            "sentence": 3,
+            "text": "als",
+            "word": 10
+        },
+        {
+            "charBegin": 329,
+            "charEnd": 347,
+            "id": 49,
+            "sentence": 3,
+            "text": "Aktiengesellschaft",
+            "word": 11
+        },
+        {
+            "charBegin": 347,
+            "charEnd": 348,
+            "id": 50,
+            "sentence": 3,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 349,
+            "charEnd": 359,
+            "id": 51,
+            "sentence": 4,
+            "text": "Bundesweit",
+            "word": 1
+        },
+        {
+            "charBegin": 360,
+            "charEnd": 365,
+            "id": 52,
+            "sentence": 4,
+            "text": "waren",
+            "word": 2
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 371,
+            "id": 53,
+            "sentence": 4,
+            "text": "dafür",
+            "word": 3
+        },
+        {
+            "charBegin": 372,
+            "charEnd": 374,
+            "id": 54,
+            "sentence": 4,
+            "text": "35",
+            "word": 4
+        },
+        {
+            "charBegin": 375,
+            "charEnd": 384,
+            "id": 55,
+            "sentence": 4,
+            "text": "Millionen",
+            "word": 5
+        },
+        {
+            "charBegin": 385,
+            "charEnd": 400,
+            "id": 56,
+            "sentence": 4,
+            "text": "Jubiläumsmarken",
+            "word": 6
+        },
+        {
+            "charBegin": 401,
+            "charEnd": 411,
+            "id": 57,
+            "sentence": 4,
+            "text": "verschickt",
+            "word": 7
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 418,
+            "id": 58,
+            "sentence": 4,
+            "text": "worden",
+            "word": 8
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 419,
+            "id": 59,
+            "sentence": 4,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 423,
+            "id": 60,
+            "sentence": 5,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 435,
+            "id": 61,
+            "sentence": 5,
+            "text": "Zusendungen",
+            "word": 2
+        },
+        {
+            "charBegin": 436,
+            "charEnd": 441,
+            "id": 62,
+            "sentence": 5,
+            "text": "waren",
+            "word": 3
+        },
+        {
+            "charBegin": 442,
+            "charEnd": 445,
+            "id": 63,
+            "sentence": 5,
+            "text": "als",
+            "word": 4
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 459,
+            "id": 64,
+            "sentence": 5,
+            "text": "Wurfsendungen",
+            "word": 5
+        },
+        {
+            "charBegin": 460,
+            "charEnd": 470,
+            "id": 65,
+            "sentence": 5,
+            "text": "deklariert",
+            "word": 6
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 474,
+            "id": 66,
+            "sentence": 5,
+            "text": "und",
+            "word": 7
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 481,
+            "id": 67,
+            "sentence": 5,
+            "text": "galten",
+            "word": 8
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 487,
+            "id": 68,
+            "sentence": 5,
+            "text": "daher",
+            "word": 9
+        },
+        {
+            "charBegin": 488,
+            "charEnd": 491,
+            "id": 69,
+            "sentence": 5,
+            "text": "als",
+            "word": 10
+        },
+        {
+            "charBegin": 492,
+            "charEnd": 499,
+            "id": 70,
+            "sentence": 5,
+            "text": "Werbung",
+            "word": 11
+        },
+        {
+            "charBegin": 499,
+            "charEnd": 500,
+            "id": 71,
+            "sentence": 5,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 501,
+            "charEnd": 504,
+            "id": 72,
+            "sentence": 6,
+            "text": "Wer",
+            "word": 1
+        },
+        {
+            "charBegin": 505,
+            "charEnd": 509,
+            "id": 73,
+            "sentence": 6,
+            "text": "also",
+            "word": 2
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 515,
+            "id": 74,
+            "sentence": 6,
+            "text": "einen",
+            "word": 3
+        },
+        {
+            "charBegin": 516,
+            "charEnd": 525,
+            "id": 75,
+            "sentence": 6,
+            "text": "Aufkleber",
+            "word": 4
+        },
+        {
+            "charBegin": 526,
+            "charEnd": 528,
+            "id": 76,
+            "sentence": 6,
+            "text": "an",
+            "word": 5
+        },
+        {
+            "charBegin": 529,
+            "charEnd": 535,
+            "id": 77,
+            "sentence": 6,
+            "text": "seinem",
+            "word": 6
+        },
+        {
+            "charBegin": 536,
+            "charEnd": 547,
+            "id": 78,
+            "sentence": 6,
+            "text": "Briefkasten",
+            "word": 7
+        },
+        {
+            "charBegin": 548,
+            "charEnd": 553,
+            "id": 79,
+            "sentence": 6,
+            "text": "hatte",
+            "word": 8
+        },
+        {
+            "charBegin": 553,
+            "charEnd": 554,
+            "id": 80,
+            "sentence": 6,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 555,
+            "charEnd": 559,
+            "id": 81,
+            "sentence": 6,
+            "text": "dass",
+            "word": 10
+        },
+        {
+            "charBegin": 560,
+            "charEnd": 574,
+            "id": 82,
+            "sentence": 6,
+            "text": "Werbesendungen",
+            "word": 11
+        },
+        {
+            "charBegin": 575,
+            "charEnd": 586,
+            "id": 83,
+            "sentence": 6,
+            "text": "unerwünscht",
+            "word": 12
+        },
+        {
+            "charBegin": 587,
+            "charEnd": 591,
+            "id": 84,
+            "sentence": 6,
+            "text": "sind",
+            "word": 13
+        },
+        {
+            "charBegin": 591,
+            "charEnd": 592,
+            "id": 85,
+            "sentence": 6,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 593,
+            "charEnd": 598,
+            "id": 86,
+            "sentence": 6,
+            "text": "bekam",
+            "word": 15
+        },
+        {
+            "charBegin": 599,
+            "charEnd": 604,
+            "id": 87,
+            "sentence": 6,
+            "text": "keine",
+            "word": 16
+        },
+        {
+            "charBegin": 605,
+            "charEnd": 610,
+            "id": 88,
+            "sentence": 6,
+            "text": "Marke",
+            "word": 17
+        },
+        {
+            "charBegin": 611,
+            "charEnd": 621,
+            "id": 89,
+            "sentence": 6,
+            "text": "zugestellt",
+            "word": 18
+        },
+        {
+            "charBegin": 621,
+            "charEnd": 622,
+            "id": 90,
+            "sentence": 6,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 627,
+            "id": 91,
+            "sentence": 7,
+            "text": "Für",
+            "word": 1
+        },
+        {
+            "charBegin": 628,
+            "charEnd": 631,
+            "id": 92,
+            "sentence": 7,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 632,
+            "charEnd": 646,
+            "id": 93,
+            "sentence": 7,
+            "text": "Paketzusteller",
+            "word": 3
+        },
+        {
+            "charBegin": 647,
+            "charEnd": 652,
+            "id": 94,
+            "sentence": 7,
+            "text": "waren",
+            "word": 4
+        },
+        {
+            "charBegin": 653,
+            "charEnd": 655,
+            "id": 95,
+            "sentence": 7,
+            "text": "am",
+            "word": 5
+        },
+        {
+            "charBegin": 656,
+            "charEnd": 671,
+            "id": 96,
+            "sentence": 7,
+            "text": "darauffolgenden",
+            "word": 6
+        },
+        {
+            "charBegin": 672,
+            "charEnd": 679,
+            "id": 97,
+            "sentence": 7,
+            "text": "Samstag",
+            "word": 7
+        },
+        {
+            "charBegin": 680,
+            "charEnd": 683,
+            "id": 98,
+            "sentence": 7,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 684,
+            "charEnd": 690,
+            "id": 99,
+            "sentence": 7,
+            "text": "Montag",
+            "word": 9
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 706,
+            "id": 100,
+            "sentence": 7,
+            "text": "Sonderschichten",
+            "word": 10
+        },
+        {
+            "charBegin": 707,
+            "charEnd": 715,
+            "id": 101,
+            "sentence": 7,
+            "text": "angesagt",
+            "word": 11
+        },
+        {
+            "charBegin": 715,
+            "charEnd": 716,
+            "id": 102,
+            "sentence": 7,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 720,
+            "id": 103,
+            "sentence": 8,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 726,
+            "id": 104,
+            "sentence": 8,
+            "text": "drei-",
+            "word": 2
+        },
+        {
+            "charBegin": 727,
+            "charEnd": 730,
+            "id": 105,
+            "sentence": 8,
+            "text": "bis",
+            "word": 3
+        },
+        {
+            "charBegin": 731,
+            "charEnd": 740,
+            "id": 106,
+            "sentence": 8,
+            "text": "vierfache",
+            "word": 4
+        },
+        {
+            "charBegin": 741,
+            "charEnd": 746,
+            "id": 107,
+            "sentence": 8,
+            "text": "Menge",
+            "word": 5
+        },
+        {
+            "charBegin": 747,
+            "charEnd": 749,
+            "id": 108,
+            "sentence": 8,
+            "text": "an",
+            "word": 6
+        },
+        {
+            "charBegin": 750,
+            "charEnd": 757,
+            "id": 109,
+            "sentence": 8,
+            "text": "Paketen",
+            "word": 7
+        },
+        {
+            "charBegin": 758,
+            "charEnd": 764,
+            "id": 110,
+            "sentence": 8,
+            "text": "musste",
+            "word": 8
+        },
+        {
+            "charBegin": 765,
+            "charEnd": 775,
+            "id": 111,
+            "sentence": 8,
+            "text": "zugestellt",
+            "word": 9
+        },
+        {
+            "charBegin": 776,
+            "charEnd": 782,
+            "id": 112,
+            "sentence": 8,
+            "text": "werden",
+            "word": 10
+        },
+        {
+            "charBegin": 782,
+            "charEnd": 783,
+            "id": 113,
+            "sentence": 8,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 784,
+            "charEnd": 789,
+            "id": 114,
+            "sentence": 9,
+            "text": "Dafür",
+            "word": 1
+        },
+        {
+            "charBegin": 790,
+            "charEnd": 797,
+            "id": 115,
+            "sentence": 9,
+            "text": "durften",
+            "word": 2
+        },
+        {
+            "charBegin": 798,
+            "charEnd": 802,
+            "id": 116,
+            "sentence": 9,
+            "text": "sich",
+            "word": 3
+        },
+        {
+            "charBegin": 803,
+            "charEnd": 813,
+            "id": 117,
+            "sentence": 9,
+            "text": "zahlreiche",
+            "word": 4
+        },
+        {
+            "charBegin": 814,
+            "charEnd": 823,
+            "id": 118,
+            "sentence": 9,
+            "text": "Empfänger",
+            "word": 5
+        },
+        {
+            "charBegin": 824,
+            "charEnd": 828,
+            "id": 119,
+            "sentence": 9,
+            "text": "über",
+            "word": 6
+        },
+        {
+            "charBegin": 829,
+            "charEnd": 840,
+            "id": 120,
+            "sentence": 9,
+            "text": "unerwartete",
+            "word": 7
+        },
+        {
+            "charBegin": 841,
+            "charEnd": 847,
+            "id": 121,
+            "sentence": 9,
+            "text": "Pakete",
+            "word": 8
+        },
+        {
+            "charBegin": 848,
+            "charEnd": 854,
+            "id": 122,
+            "sentence": 9,
+            "text": "freuen",
+            "word": 9
+        },
+        {
+            "charBegin": 855,
+            "charEnd": 856,
+            "id": 123,
+            "sentence": 9,
+            "text": "–",
+            "word": 10
+        },
+        {
+            "charBegin": 857,
+            "charEnd": 861,
+            "id": 124,
+            "sentence": 9,
+            "text": "dank",
+            "word": 11
+        },
+        {
+            "charBegin": 862,
+            "charEnd": 865,
+            "id": 125,
+            "sentence": 9,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 866,
+            "charEnd": 875,
+            "id": 126,
+            "sentence": 9,
+            "text": "deutschen",
+            "word": 13
+        },
+        {
+            "charBegin": 876,
+            "charEnd": 880,
+            "id": 127,
+            "sentence": 9,
+            "text": "Post",
+            "word": 14
+        },
+        {
+            "charBegin": 880,
+            "charEnd": 881,
+            "id": 128,
+            "sentence": 9,
+            "text": ".",
+            "word": 15
+        }
+    ]
+}

@@ -1,0 +1,2256 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 170,
+                        "charBegin": 1193,
+                        "charEnd": 1200,
+                        "end": 171
+                    }
+                ],
+                "text": "demnach",
+                "tokenIds": [
+                    170
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 170,
+                        "charBegin": 1193,
+                        "charEnd": 1200,
+                        "end": 171
+                    }
+                ],
+                "text": "demnach",
+                "tokenIds": [
+                    170
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 166,
+                        "charBegin": 1171,
+                        "charEnd": 1192,
+                        "end": 170
+                    },
+                    {
+                        "begin": 171,
+                        "charBegin": 1201,
+                        "charEnd": 1263,
+                        "end": 182
+                    }
+                ],
+                "text": "Nils Schmid wird sich ein Rennen mit dem grünen „Realo“ Winfried Kretschmann liefern",
+                "tokenIds": [
+                    166,
+                    167,
+                    168,
+                    169,
+                    171,
+                    172,
+                    173,
+                    174,
+                    175,
+                    176,
+                    177,
+                    178,
+                    179,
+                    180,
+                    181
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 170,
+                        "charBegin": 1193,
+                        "charEnd": 1200,
+                        "end": 171
+                    }
+                ],
+                "text": "demnach",
+                "tokenIds": [
+                    170
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "64095 - Nils Schmid zum SPD-Spitzenkandidaten bei den baden-württembergischen Landtagswahlen gewählt (2010-10-18)",
+    "originalText": "Der Ulmer Parteitag der baden-württembergischen SPD hat den Landesvorsitzenden Nils Schmid zum Spitzenkandidaten für die anstehende Landtagswahl am 27.03.2011 gewählt; als einziger Kandidat konnte er 92 Prozent der Delegiertenstimmen auf sich vereinigen. Schmid hatte bereits 2009 in einer Urabstimmung den Parteivorsitz errungen, indem er seine beiden Mitbewerber, die parteilinke Hilde Mattheis und den Fraktionsvorsitzenden Claus Schmiedel, auf die Plätze verweisen konnte.\n\nDer Wahlkampf Schmids wird ganz überwiegend vor dem Hintergrund der gesellschaftlichen Auseinandersetzungen um das Bahninfrastruktur-Großprojekt „Stuttgart 21“ ablaufen. Die SPD im „Ländle“ steht zwar für das Projekt, will ihr Schicksal aber angesichts der zunehmend eskalierenden Proteste von einem Plebiszit abhängig machen. Sowohl dem Bundestrend folgend, als auch vor dem Hintergrund der „Stuttgart 21“-Auseinandersetzungen sehen Umfragen derzeit die Grünen vor der SPD und eine potentielle grün-rote Mehrheit im zu wählenden Stuttgarter Landtag. Die baden-württembergische SPD scheint zur Übernahme der Juniorpartnerschaft in einer solchen Koalition bereitzustehen (Wikinews berichtete). Nils Schmid wird sich demnach ein Rennen mit dem grünen „Realo“ Winfried Kretschmann liefern. Aber auch die traditionell in Baden-Württemberg dominierende CDU unter dem Spitzenkandidaten Stefan Mappus wird bei der Koalitionsbildung ein Wörtchen mitzureden haben.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 167,
+            "end": 21,
+            "id": 0,
+            "text": "Der Ulmer Parteitag der baden-württembergischen SPD hat den Landesvorsitzenden Nils Schmid zum Spitzenkandidaten für die anstehende Landtagswahl am 27.03.2011 gewählt; ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "Der",
+                "Ulmer",
+                "Parteitag",
+                "der",
+                "baden-württembergischen",
+                "SPD",
+                "hat",
+                "den",
+                "Landesvorsitzenden",
+                "Nils",
+                "Schmid",
+                "zum",
+                "Spitzenkandidaten",
+                "für",
+                "die",
+                "anstehende",
+                "Landtagswahl",
+                "am",
+                "27.03.2011",
+                "gewählt",
+                ";"
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 168,
+            "charEnd": 254,
+            "end": 34,
+            "id": 1,
+            "text": "als einziger Kandidat konnte er 92 Prozent der Delegiertenstimmen auf sich vereinigen. ",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33
+            ],
+            "tokens": [
+                "als",
+                "einziger",
+                "Kandidat",
+                "konnte",
+                "er",
+                "92",
+                "Prozent",
+                "der",
+                "Delegiertenstimmen",
+                "auf",
+                "sich",
+                "vereinigen",
+                "."
+            ]
+        },
+        {
+            "begin": 34,
+            "charBegin": 255,
+            "charEnd": 476,
+            "end": 67,
+            "id": 2,
+            "text": "Schmid hatte bereits 2009 in einer Urabstimmung den Parteivorsitz errungen, indem er seine beiden Mitbewerber, die parteilinke Hilde Mattheis und den Fraktionsvorsitzenden Claus Schmiedel, auf die Plätze verweisen konnte.",
+            "tokenIds": [
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66
+            ],
+            "tokens": [
+                "Schmid",
+                "hatte",
+                "bereits",
+                "2009",
+                "in",
+                "einer",
+                "Urabstimmung",
+                "den",
+                "Parteivorsitz",
+                "errungen",
+                ",",
+                "indem",
+                "er",
+                "seine",
+                "beiden",
+                "Mitbewerber",
+                ",",
+                "die",
+                "parteilinke",
+                "Hilde",
+                "Mattheis",
+                "und",
+                "den",
+                "Fraktionsvorsitzenden",
+                "Claus",
+                "Schmiedel",
+                ",",
+                "auf",
+                "die",
+                "Plätze",
+                "verweisen",
+                "konnte",
+                "."
+            ]
+        },
+        {
+            "begin": 67,
+            "charBegin": 478,
+            "charEnd": 647,
+            "end": 88,
+            "id": 3,
+            "text": "Der Wahlkampf Schmids wird ganz überwiegend vor dem Hintergrund der gesellschaftlichen Auseinandersetzungen um das Bahninfrastruktur-Großprojekt „Stuttgart 21“ ablaufen. ",
+            "tokenIds": [
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "tokens": [
+                "Der",
+                "Wahlkampf",
+                "Schmids",
+                "wird",
+                "ganz",
+                "überwiegend",
+                "vor",
+                "dem",
+                "Hintergrund",
+                "der",
+                "gesellschaftlichen",
+                "Auseinandersetzungen",
+                "um",
+                "das",
+                "Bahninfrastruktur-Großprojekt",
+                "„",
+                "Stuttgart",
+                "21",
+                "“",
+                "ablaufen",
+                "."
+            ]
+        },
+        {
+            "begin": 88,
+            "charBegin": 648,
+            "charEnd": 804,
+            "end": 115,
+            "id": 4,
+            "text": "Die SPD im „Ländle“ steht zwar für das Projekt, will ihr Schicksal aber angesichts der zunehmend eskalierenden Proteste von einem Plebiszit abhängig machen. ",
+            "tokenIds": [
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114
+            ],
+            "tokens": [
+                "Die",
+                "SPD",
+                "im",
+                "„",
+                "Ländle",
+                "“",
+                "steht",
+                "zwar",
+                "für",
+                "das",
+                "Projekt",
+                ",",
+                "will",
+                "ihr",
+                "Schicksal",
+                "aber",
+                "angesichts",
+                "der",
+                "zunehmend",
+                "eskalierenden",
+                "Proteste",
+                "von",
+                "einem",
+                "Plebiszit",
+                "abhängig",
+                "machen",
+                "."
+            ]
+        },
+        {
+            "begin": 115,
+            "charBegin": 805,
+            "charEnd": 1028,
+            "end": 148,
+            "id": 5,
+            "text": "Sowohl dem Bundestrend folgend, als auch vor dem Hintergrund der „Stuttgart 21“-Auseinandersetzungen sehen Umfragen derzeit die Grünen vor der SPD und eine potentielle grün-rote Mehrheit im zu wählenden Stuttgarter Landtag. ",
+            "tokenIds": [
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147
+            ],
+            "tokens": [
+                "Sowohl",
+                "dem",
+                "Bundestrend",
+                "folgend",
+                ",",
+                "als",
+                "auch",
+                "vor",
+                "dem",
+                "Hintergrund",
+                "der",
+                "„",
+                "Stuttgart",
+                "21“-Auseinandersetzungen",
+                "sehen",
+                "Umfragen",
+                "derzeit",
+                "die",
+                "Grünen",
+                "vor",
+                "der",
+                "SPD",
+                "und",
+                "eine",
+                "potentielle",
+                "grün-rote",
+                "Mehrheit",
+                "im",
+                "zu",
+                "wählenden",
+                "Stuttgarter",
+                "Landtag",
+                "."
+            ]
+        },
+        {
+            "begin": 148,
+            "charBegin": 1029,
+            "charEnd": 1170,
+            "end": 166,
+            "id": 6,
+            "text": "Die baden-württembergische SPD scheint zur Übernahme der Juniorpartnerschaft in einer solchen Koalition bereitzustehen (Wikinews berichtete). ",
+            "tokenIds": [
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165
+            ],
+            "tokens": [
+                "Die",
+                "baden-württembergische",
+                "SPD",
+                "scheint",
+                "zur",
+                "Übernahme",
+                "der",
+                "Juniorpartnerschaft",
+                "in",
+                "einer",
+                "solchen",
+                "Koalition",
+                "bereitzustehen",
+                "(",
+                "Wikinews",
+                "berichtete",
+                ")",
+                "."
+            ]
+        },
+        {
+            "begin": 166,
+            "charBegin": 1171,
+            "charEnd": 1264,
+            "end": 183,
+            "id": 7,
+            "text": "Nils Schmid wird sich demnach ein Rennen mit dem grünen „Realo“ Winfried Kretschmann liefern. ",
+            "tokenIds": [
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182
+            ],
+            "tokens": [
+                "Nils",
+                "Schmid",
+                "wird",
+                "sich",
+                "demnach",
+                "ein",
+                "Rennen",
+                "mit",
+                "dem",
+                "grünen",
+                "„",
+                "Realo",
+                "“",
+                "Winfried",
+                "Kretschmann",
+                "liefern",
+                "."
+            ]
+        },
+        {
+            "begin": 183,
+            "charBegin": 1265,
+            "charEnd": 1433,
+            "end": 205,
+            "id": 8,
+            "text": "Aber auch die traditionell in Baden-Württemberg dominierende CDU unter dem Spitzenkandidaten Stefan Mappus wird bei der Koalitionsbildung ein Wörtchen mitzureden haben.",
+            "tokenIds": [
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204
+            ],
+            "tokens": [
+                "Aber",
+                "auch",
+                "die",
+                "traditionell",
+                "in",
+                "Baden-Württemberg",
+                "dominierende",
+                "CDU",
+                "unter",
+                "dem",
+                "Spitzenkandidaten",
+                "Stefan",
+                "Mappus",
+                "wird",
+                "bei",
+                "der",
+                "Koalitionsbildung",
+                "ein",
+                "Wörtchen",
+                "mitzureden",
+                "haben",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 9,
+            "id": 1,
+            "sentence": 1,
+            "text": "Ulmer",
+            "word": 2
+        },
+        {
+            "charBegin": 10,
+            "charEnd": 19,
+            "id": 2,
+            "sentence": 1,
+            "text": "Parteitag",
+            "word": 3
+        },
+        {
+            "charBegin": 20,
+            "charEnd": 23,
+            "id": 3,
+            "sentence": 1,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 47,
+            "id": 4,
+            "sentence": 1,
+            "text": "baden-württembergischen",
+            "word": 5
+        },
+        {
+            "charBegin": 48,
+            "charEnd": 51,
+            "id": 5,
+            "sentence": 1,
+            "text": "SPD",
+            "word": 6
+        },
+        {
+            "charBegin": 52,
+            "charEnd": 55,
+            "id": 6,
+            "sentence": 1,
+            "text": "hat",
+            "word": 7
+        },
+        {
+            "charBegin": 56,
+            "charEnd": 59,
+            "id": 7,
+            "sentence": 1,
+            "text": "den",
+            "word": 8
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 78,
+            "id": 8,
+            "sentence": 1,
+            "text": "Landesvorsitzenden",
+            "word": 9
+        },
+        {
+            "charBegin": 79,
+            "charEnd": 83,
+            "id": 9,
+            "sentence": 1,
+            "text": "Nils",
+            "word": 10
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 90,
+            "id": 10,
+            "sentence": 1,
+            "text": "Schmid",
+            "word": 11
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 94,
+            "id": 11,
+            "sentence": 1,
+            "text": "zum",
+            "word": 12
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 112,
+            "id": 12,
+            "sentence": 1,
+            "text": "Spitzenkandidaten",
+            "word": 13
+        },
+        {
+            "charBegin": 113,
+            "charEnd": 116,
+            "id": 13,
+            "sentence": 1,
+            "text": "für",
+            "word": 14
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 120,
+            "id": 14,
+            "sentence": 1,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 121,
+            "charEnd": 131,
+            "id": 15,
+            "sentence": 1,
+            "text": "anstehende",
+            "word": 16
+        },
+        {
+            "charBegin": 132,
+            "charEnd": 144,
+            "id": 16,
+            "sentence": 1,
+            "text": "Landtagswahl",
+            "word": 17
+        },
+        {
+            "charBegin": 145,
+            "charEnd": 147,
+            "id": 17,
+            "sentence": 1,
+            "text": "am",
+            "word": 18
+        },
+        {
+            "charBegin": 148,
+            "charEnd": 158,
+            "id": 18,
+            "sentence": 1,
+            "text": "27.03.2011",
+            "word": 19
+        },
+        {
+            "charBegin": 159,
+            "charEnd": 166,
+            "id": 19,
+            "sentence": 1,
+            "text": "gewählt",
+            "word": 20
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 167,
+            "id": 20,
+            "sentence": 1,
+            "text": ";",
+            "word": 21
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 171,
+            "id": 21,
+            "sentence": 2,
+            "text": "als",
+            "word": 1
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 180,
+            "id": 22,
+            "sentence": 2,
+            "text": "einziger",
+            "word": 2
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 189,
+            "id": 23,
+            "sentence": 2,
+            "text": "Kandidat",
+            "word": 3
+        },
+        {
+            "charBegin": 190,
+            "charEnd": 196,
+            "id": 24,
+            "sentence": 2,
+            "text": "konnte",
+            "word": 4
+        },
+        {
+            "charBegin": 197,
+            "charEnd": 199,
+            "id": 25,
+            "sentence": 2,
+            "text": "er",
+            "word": 5
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 202,
+            "id": 26,
+            "sentence": 2,
+            "text": "92",
+            "word": 6
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 210,
+            "id": 27,
+            "sentence": 2,
+            "text": "Prozent",
+            "word": 7
+        },
+        {
+            "charBegin": 211,
+            "charEnd": 214,
+            "id": 28,
+            "sentence": 2,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 215,
+            "charEnd": 233,
+            "id": 29,
+            "sentence": 2,
+            "text": "Delegiertenstimmen",
+            "word": 9
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 237,
+            "id": 30,
+            "sentence": 2,
+            "text": "auf",
+            "word": 10
+        },
+        {
+            "charBegin": 238,
+            "charEnd": 242,
+            "id": 31,
+            "sentence": 2,
+            "text": "sich",
+            "word": 11
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 253,
+            "id": 32,
+            "sentence": 2,
+            "text": "vereinigen",
+            "word": 12
+        },
+        {
+            "charBegin": 253,
+            "charEnd": 254,
+            "id": 33,
+            "sentence": 2,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 255,
+            "charEnd": 261,
+            "id": 34,
+            "sentence": 3,
+            "text": "Schmid",
+            "word": 1
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 267,
+            "id": 35,
+            "sentence": 3,
+            "text": "hatte",
+            "word": 2
+        },
+        {
+            "charBegin": 268,
+            "charEnd": 275,
+            "id": 36,
+            "sentence": 3,
+            "text": "bereits",
+            "word": 3
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 280,
+            "id": 37,
+            "sentence": 3,
+            "text": "2009",
+            "word": 4
+        },
+        {
+            "charBegin": 281,
+            "charEnd": 283,
+            "id": 38,
+            "sentence": 3,
+            "text": "in",
+            "word": 5
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 289,
+            "id": 39,
+            "sentence": 3,
+            "text": "einer",
+            "word": 6
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 302,
+            "id": 40,
+            "sentence": 3,
+            "text": "Urabstimmung",
+            "word": 7
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 306,
+            "id": 41,
+            "sentence": 3,
+            "text": "den",
+            "word": 8
+        },
+        {
+            "charBegin": 307,
+            "charEnd": 320,
+            "id": 42,
+            "sentence": 3,
+            "text": "Parteivorsitz",
+            "word": 9
+        },
+        {
+            "charBegin": 321,
+            "charEnd": 329,
+            "id": 43,
+            "sentence": 3,
+            "text": "errungen",
+            "word": 10
+        },
+        {
+            "charBegin": 329,
+            "charEnd": 330,
+            "id": 44,
+            "sentence": 3,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 331,
+            "charEnd": 336,
+            "id": 45,
+            "sentence": 3,
+            "text": "indem",
+            "word": 12
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 339,
+            "id": 46,
+            "sentence": 3,
+            "text": "er",
+            "word": 13
+        },
+        {
+            "charBegin": 340,
+            "charEnd": 345,
+            "id": 47,
+            "sentence": 3,
+            "text": "seine",
+            "word": 14
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 352,
+            "id": 48,
+            "sentence": 3,
+            "text": "beiden",
+            "word": 15
+        },
+        {
+            "charBegin": 353,
+            "charEnd": 364,
+            "id": 49,
+            "sentence": 3,
+            "text": "Mitbewerber",
+            "word": 16
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 365,
+            "id": 50,
+            "sentence": 3,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 369,
+            "id": 51,
+            "sentence": 3,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 370,
+            "charEnd": 381,
+            "id": 52,
+            "sentence": 3,
+            "text": "parteilinke",
+            "word": 19
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 387,
+            "id": 53,
+            "sentence": 3,
+            "text": "Hilde",
+            "word": 20
+        },
+        {
+            "charBegin": 388,
+            "charEnd": 396,
+            "id": 54,
+            "sentence": 3,
+            "text": "Mattheis",
+            "word": 21
+        },
+        {
+            "charBegin": 397,
+            "charEnd": 400,
+            "id": 55,
+            "sentence": 3,
+            "text": "und",
+            "word": 22
+        },
+        {
+            "charBegin": 401,
+            "charEnd": 404,
+            "id": 56,
+            "sentence": 3,
+            "text": "den",
+            "word": 23
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 426,
+            "id": 57,
+            "sentence": 3,
+            "text": "Fraktionsvorsitzenden",
+            "word": 24
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 432,
+            "id": 58,
+            "sentence": 3,
+            "text": "Claus",
+            "word": 25
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 442,
+            "id": 59,
+            "sentence": 3,
+            "text": "Schmiedel",
+            "word": 26
+        },
+        {
+            "charBegin": 442,
+            "charEnd": 443,
+            "id": 60,
+            "sentence": 3,
+            "text": ",",
+            "word": 27
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 447,
+            "id": 61,
+            "sentence": 3,
+            "text": "auf",
+            "word": 28
+        },
+        {
+            "charBegin": 448,
+            "charEnd": 451,
+            "id": 62,
+            "sentence": 3,
+            "text": "die",
+            "word": 29
+        },
+        {
+            "charBegin": 452,
+            "charEnd": 458,
+            "id": 63,
+            "sentence": 3,
+            "text": "Plätze",
+            "word": 30
+        },
+        {
+            "charBegin": 459,
+            "charEnd": 468,
+            "id": 64,
+            "sentence": 3,
+            "text": "verweisen",
+            "word": 31
+        },
+        {
+            "charBegin": 469,
+            "charEnd": 475,
+            "id": 65,
+            "sentence": 3,
+            "text": "konnte",
+            "word": 32
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 476,
+            "id": 66,
+            "sentence": 3,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 478,
+            "charEnd": 481,
+            "id": 67,
+            "sentence": 4,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 491,
+            "id": 68,
+            "sentence": 4,
+            "text": "Wahlkampf",
+            "word": 2
+        },
+        {
+            "charBegin": 492,
+            "charEnd": 499,
+            "id": 69,
+            "sentence": 4,
+            "text": "Schmids",
+            "word": 3
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 504,
+            "id": 70,
+            "sentence": 4,
+            "text": "wird",
+            "word": 4
+        },
+        {
+            "charBegin": 505,
+            "charEnd": 509,
+            "id": 71,
+            "sentence": 4,
+            "text": "ganz",
+            "word": 5
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 521,
+            "id": 72,
+            "sentence": 4,
+            "text": "überwiegend",
+            "word": 6
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 525,
+            "id": 73,
+            "sentence": 4,
+            "text": "vor",
+            "word": 7
+        },
+        {
+            "charBegin": 526,
+            "charEnd": 529,
+            "id": 74,
+            "sentence": 4,
+            "text": "dem",
+            "word": 8
+        },
+        {
+            "charBegin": 530,
+            "charEnd": 541,
+            "id": 75,
+            "sentence": 4,
+            "text": "Hintergrund",
+            "word": 9
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 545,
+            "id": 76,
+            "sentence": 4,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 546,
+            "charEnd": 564,
+            "id": 77,
+            "sentence": 4,
+            "text": "gesellschaftlichen",
+            "word": 11
+        },
+        {
+            "charBegin": 565,
+            "charEnd": 585,
+            "id": 78,
+            "sentence": 4,
+            "text": "Auseinandersetzungen",
+            "word": 12
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 588,
+            "id": 79,
+            "sentence": 4,
+            "text": "um",
+            "word": 13
+        },
+        {
+            "charBegin": 589,
+            "charEnd": 592,
+            "id": 80,
+            "sentence": 4,
+            "text": "das",
+            "word": 14
+        },
+        {
+            "charBegin": 593,
+            "charEnd": 622,
+            "id": 81,
+            "sentence": 4,
+            "text": "Bahninfrastruktur-Großprojekt",
+            "word": 15
+        },
+        {
+            "charBegin": 623,
+            "charEnd": 624,
+            "id": 82,
+            "sentence": 4,
+            "text": "„",
+            "word": 16
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 633,
+            "id": 83,
+            "sentence": 4,
+            "text": "Stuttgart",
+            "word": 17
+        },
+        {
+            "charBegin": 634,
+            "charEnd": 636,
+            "id": 84,
+            "sentence": 4,
+            "text": "21",
+            "word": 18
+        },
+        {
+            "charBegin": 636,
+            "charEnd": 637,
+            "id": 85,
+            "sentence": 4,
+            "text": "“",
+            "word": 19
+        },
+        {
+            "charBegin": 638,
+            "charEnd": 646,
+            "id": 86,
+            "sentence": 4,
+            "text": "ablaufen",
+            "word": 20
+        },
+        {
+            "charBegin": 646,
+            "charEnd": 647,
+            "id": 87,
+            "sentence": 4,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 651,
+            "id": 88,
+            "sentence": 5,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 652,
+            "charEnd": 655,
+            "id": 89,
+            "sentence": 5,
+            "text": "SPD",
+            "word": 2
+        },
+        {
+            "charBegin": 656,
+            "charEnd": 658,
+            "id": 90,
+            "sentence": 5,
+            "text": "im",
+            "word": 3
+        },
+        {
+            "charBegin": 659,
+            "charEnd": 660,
+            "id": 91,
+            "sentence": 5,
+            "text": "„",
+            "word": 4
+        },
+        {
+            "charBegin": 660,
+            "charEnd": 666,
+            "id": 92,
+            "sentence": 5,
+            "text": "Ländle",
+            "word": 5
+        },
+        {
+            "charBegin": 666,
+            "charEnd": 667,
+            "id": 93,
+            "sentence": 5,
+            "text": "“",
+            "word": 6
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 673,
+            "id": 94,
+            "sentence": 5,
+            "text": "steht",
+            "word": 7
+        },
+        {
+            "charBegin": 674,
+            "charEnd": 678,
+            "id": 95,
+            "sentence": 5,
+            "text": "zwar",
+            "word": 8
+        },
+        {
+            "charBegin": 679,
+            "charEnd": 682,
+            "id": 96,
+            "sentence": 5,
+            "text": "für",
+            "word": 9
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 686,
+            "id": 97,
+            "sentence": 5,
+            "text": "das",
+            "word": 10
+        },
+        {
+            "charBegin": 687,
+            "charEnd": 694,
+            "id": 98,
+            "sentence": 5,
+            "text": "Projekt",
+            "word": 11
+        },
+        {
+            "charBegin": 694,
+            "charEnd": 695,
+            "id": 99,
+            "sentence": 5,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 696,
+            "charEnd": 700,
+            "id": 100,
+            "sentence": 5,
+            "text": "will",
+            "word": 13
+        },
+        {
+            "charBegin": 701,
+            "charEnd": 704,
+            "id": 101,
+            "sentence": 5,
+            "text": "ihr",
+            "word": 14
+        },
+        {
+            "charBegin": 705,
+            "charEnd": 714,
+            "id": 102,
+            "sentence": 5,
+            "text": "Schicksal",
+            "word": 15
+        },
+        {
+            "charBegin": 715,
+            "charEnd": 719,
+            "id": 103,
+            "sentence": 5,
+            "text": "aber",
+            "word": 16
+        },
+        {
+            "charBegin": 720,
+            "charEnd": 730,
+            "id": 104,
+            "sentence": 5,
+            "text": "angesichts",
+            "word": 17
+        },
+        {
+            "charBegin": 731,
+            "charEnd": 734,
+            "id": 105,
+            "sentence": 5,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 735,
+            "charEnd": 744,
+            "id": 106,
+            "sentence": 5,
+            "text": "zunehmend",
+            "word": 19
+        },
+        {
+            "charBegin": 745,
+            "charEnd": 758,
+            "id": 107,
+            "sentence": 5,
+            "text": "eskalierenden",
+            "word": 20
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 767,
+            "id": 108,
+            "sentence": 5,
+            "text": "Proteste",
+            "word": 21
+        },
+        {
+            "charBegin": 768,
+            "charEnd": 771,
+            "id": 109,
+            "sentence": 5,
+            "text": "von",
+            "word": 22
+        },
+        {
+            "charBegin": 772,
+            "charEnd": 777,
+            "id": 110,
+            "sentence": 5,
+            "text": "einem",
+            "word": 23
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 787,
+            "id": 111,
+            "sentence": 5,
+            "text": "Plebiszit",
+            "word": 24
+        },
+        {
+            "charBegin": 788,
+            "charEnd": 796,
+            "id": 112,
+            "sentence": 5,
+            "text": "abhängig",
+            "word": 25
+        },
+        {
+            "charBegin": 797,
+            "charEnd": 803,
+            "id": 113,
+            "sentence": 5,
+            "text": "machen",
+            "word": 26
+        },
+        {
+            "charBegin": 803,
+            "charEnd": 804,
+            "id": 114,
+            "sentence": 5,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 805,
+            "charEnd": 811,
+            "id": 115,
+            "sentence": 6,
+            "text": "Sowohl",
+            "word": 1
+        },
+        {
+            "charBegin": 812,
+            "charEnd": 815,
+            "id": 116,
+            "sentence": 6,
+            "text": "dem",
+            "word": 2
+        },
+        {
+            "charBegin": 816,
+            "charEnd": 827,
+            "id": 117,
+            "sentence": 6,
+            "text": "Bundestrend",
+            "word": 3
+        },
+        {
+            "charBegin": 828,
+            "charEnd": 835,
+            "id": 118,
+            "sentence": 6,
+            "text": "folgend",
+            "word": 4
+        },
+        {
+            "charBegin": 835,
+            "charEnd": 836,
+            "id": 119,
+            "sentence": 6,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 837,
+            "charEnd": 840,
+            "id": 120,
+            "sentence": 6,
+            "text": "als",
+            "word": 6
+        },
+        {
+            "charBegin": 841,
+            "charEnd": 845,
+            "id": 121,
+            "sentence": 6,
+            "text": "auch",
+            "word": 7
+        },
+        {
+            "charBegin": 846,
+            "charEnd": 849,
+            "id": 122,
+            "sentence": 6,
+            "text": "vor",
+            "word": 8
+        },
+        {
+            "charBegin": 850,
+            "charEnd": 853,
+            "id": 123,
+            "sentence": 6,
+            "text": "dem",
+            "word": 9
+        },
+        {
+            "charBegin": 854,
+            "charEnd": 865,
+            "id": 124,
+            "sentence": 6,
+            "text": "Hintergrund",
+            "word": 10
+        },
+        {
+            "charBegin": 866,
+            "charEnd": 869,
+            "id": 125,
+            "sentence": 6,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 870,
+            "charEnd": 871,
+            "id": 126,
+            "sentence": 6,
+            "text": "„",
+            "word": 12
+        },
+        {
+            "charBegin": 871,
+            "charEnd": 880,
+            "id": 127,
+            "sentence": 6,
+            "text": "Stuttgart",
+            "word": 13
+        },
+        {
+            "charBegin": 881,
+            "charEnd": 905,
+            "id": 128,
+            "sentence": 6,
+            "text": "21“-Auseinandersetzungen",
+            "word": 14
+        },
+        {
+            "charBegin": 906,
+            "charEnd": 911,
+            "id": 129,
+            "sentence": 6,
+            "text": "sehen",
+            "word": 15
+        },
+        {
+            "charBegin": 912,
+            "charEnd": 920,
+            "id": 130,
+            "sentence": 6,
+            "text": "Umfragen",
+            "word": 16
+        },
+        {
+            "charBegin": 921,
+            "charEnd": 928,
+            "id": 131,
+            "sentence": 6,
+            "text": "derzeit",
+            "word": 17
+        },
+        {
+            "charBegin": 929,
+            "charEnd": 932,
+            "id": 132,
+            "sentence": 6,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 933,
+            "charEnd": 939,
+            "id": 133,
+            "sentence": 6,
+            "text": "Grünen",
+            "word": 19
+        },
+        {
+            "charBegin": 940,
+            "charEnd": 943,
+            "id": 134,
+            "sentence": 6,
+            "text": "vor",
+            "word": 20
+        },
+        {
+            "charBegin": 944,
+            "charEnd": 947,
+            "id": 135,
+            "sentence": 6,
+            "text": "der",
+            "word": 21
+        },
+        {
+            "charBegin": 948,
+            "charEnd": 951,
+            "id": 136,
+            "sentence": 6,
+            "text": "SPD",
+            "word": 22
+        },
+        {
+            "charBegin": 952,
+            "charEnd": 955,
+            "id": 137,
+            "sentence": 6,
+            "text": "und",
+            "word": 23
+        },
+        {
+            "charBegin": 956,
+            "charEnd": 960,
+            "id": 138,
+            "sentence": 6,
+            "text": "eine",
+            "word": 24
+        },
+        {
+            "charBegin": 961,
+            "charEnd": 972,
+            "id": 139,
+            "sentence": 6,
+            "text": "potentielle",
+            "word": 25
+        },
+        {
+            "charBegin": 973,
+            "charEnd": 982,
+            "id": 140,
+            "sentence": 6,
+            "text": "grün-rote",
+            "word": 26
+        },
+        {
+            "charBegin": 983,
+            "charEnd": 991,
+            "id": 141,
+            "sentence": 6,
+            "text": "Mehrheit",
+            "word": 27
+        },
+        {
+            "charBegin": 992,
+            "charEnd": 994,
+            "id": 142,
+            "sentence": 6,
+            "text": "im",
+            "word": 28
+        },
+        {
+            "charBegin": 995,
+            "charEnd": 997,
+            "id": 143,
+            "sentence": 6,
+            "text": "zu",
+            "word": 29
+        },
+        {
+            "charBegin": 998,
+            "charEnd": 1007,
+            "id": 144,
+            "sentence": 6,
+            "text": "wählenden",
+            "word": 30
+        },
+        {
+            "charBegin": 1008,
+            "charEnd": 1019,
+            "id": 145,
+            "sentence": 6,
+            "text": "Stuttgarter",
+            "word": 31
+        },
+        {
+            "charBegin": 1020,
+            "charEnd": 1027,
+            "id": 146,
+            "sentence": 6,
+            "text": "Landtag",
+            "word": 32
+        },
+        {
+            "charBegin": 1027,
+            "charEnd": 1028,
+            "id": 147,
+            "sentence": 6,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 1029,
+            "charEnd": 1032,
+            "id": 148,
+            "sentence": 7,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1033,
+            "charEnd": 1055,
+            "id": 149,
+            "sentence": 7,
+            "text": "baden-württembergische",
+            "word": 2
+        },
+        {
+            "charBegin": 1056,
+            "charEnd": 1059,
+            "id": 150,
+            "sentence": 7,
+            "text": "SPD",
+            "word": 3
+        },
+        {
+            "charBegin": 1060,
+            "charEnd": 1067,
+            "id": 151,
+            "sentence": 7,
+            "text": "scheint",
+            "word": 4
+        },
+        {
+            "charBegin": 1068,
+            "charEnd": 1071,
+            "id": 152,
+            "sentence": 7,
+            "text": "zur",
+            "word": 5
+        },
+        {
+            "charBegin": 1072,
+            "charEnd": 1081,
+            "id": 153,
+            "sentence": 7,
+            "text": "Übernahme",
+            "word": 6
+        },
+        {
+            "charBegin": 1082,
+            "charEnd": 1085,
+            "id": 154,
+            "sentence": 7,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 1086,
+            "charEnd": 1105,
+            "id": 155,
+            "sentence": 7,
+            "text": "Juniorpartnerschaft",
+            "word": 8
+        },
+        {
+            "charBegin": 1106,
+            "charEnd": 1108,
+            "id": 156,
+            "sentence": 7,
+            "text": "in",
+            "word": 9
+        },
+        {
+            "charBegin": 1109,
+            "charEnd": 1114,
+            "id": 157,
+            "sentence": 7,
+            "text": "einer",
+            "word": 10
+        },
+        {
+            "charBegin": 1115,
+            "charEnd": 1122,
+            "id": 158,
+            "sentence": 7,
+            "text": "solchen",
+            "word": 11
+        },
+        {
+            "charBegin": 1123,
+            "charEnd": 1132,
+            "id": 159,
+            "sentence": 7,
+            "text": "Koalition",
+            "word": 12
+        },
+        {
+            "charBegin": 1133,
+            "charEnd": 1147,
+            "id": 160,
+            "sentence": 7,
+            "text": "bereitzustehen",
+            "word": 13
+        },
+        {
+            "charBegin": 1148,
+            "charEnd": 1149,
+            "id": 161,
+            "sentence": 7,
+            "text": "(",
+            "word": 14
+        },
+        {
+            "charBegin": 1149,
+            "charEnd": 1157,
+            "id": 162,
+            "sentence": 7,
+            "text": "Wikinews",
+            "word": 15
+        },
+        {
+            "charBegin": 1158,
+            "charEnd": 1168,
+            "id": 163,
+            "sentence": 7,
+            "text": "berichtete",
+            "word": 16
+        },
+        {
+            "charBegin": 1168,
+            "charEnd": 1169,
+            "id": 164,
+            "sentence": 7,
+            "text": ")",
+            "word": 17
+        },
+        {
+            "charBegin": 1169,
+            "charEnd": 1170,
+            "id": 165,
+            "sentence": 7,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 1171,
+            "charEnd": 1175,
+            "id": 166,
+            "sentence": 8,
+            "text": "Nils",
+            "word": 1
+        },
+        {
+            "charBegin": 1176,
+            "charEnd": 1182,
+            "id": 167,
+            "sentence": 8,
+            "text": "Schmid",
+            "word": 2
+        },
+        {
+            "charBegin": 1183,
+            "charEnd": 1187,
+            "id": 168,
+            "sentence": 8,
+            "text": "wird",
+            "word": 3
+        },
+        {
+            "charBegin": 1188,
+            "charEnd": 1192,
+            "id": 169,
+            "sentence": 8,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 1193,
+            "charEnd": 1200,
+            "id": 170,
+            "sentence": 8,
+            "text": "demnach",
+            "word": 5
+        },
+        {
+            "charBegin": 1201,
+            "charEnd": 1204,
+            "id": 171,
+            "sentence": 8,
+            "text": "ein",
+            "word": 6
+        },
+        {
+            "charBegin": 1205,
+            "charEnd": 1211,
+            "id": 172,
+            "sentence": 8,
+            "text": "Rennen",
+            "word": 7
+        },
+        {
+            "charBegin": 1212,
+            "charEnd": 1215,
+            "id": 173,
+            "sentence": 8,
+            "text": "mit",
+            "word": 8
+        },
+        {
+            "charBegin": 1216,
+            "charEnd": 1219,
+            "id": 174,
+            "sentence": 8,
+            "text": "dem",
+            "word": 9
+        },
+        {
+            "charBegin": 1220,
+            "charEnd": 1226,
+            "id": 175,
+            "sentence": 8,
+            "text": "grünen",
+            "word": 10
+        },
+        {
+            "charBegin": 1227,
+            "charEnd": 1228,
+            "id": 176,
+            "sentence": 8,
+            "text": "„",
+            "word": 11
+        },
+        {
+            "charBegin": 1228,
+            "charEnd": 1233,
+            "id": 177,
+            "sentence": 8,
+            "text": "Realo",
+            "word": 12
+        },
+        {
+            "charBegin": 1233,
+            "charEnd": 1234,
+            "id": 178,
+            "sentence": 8,
+            "text": "“",
+            "word": 13
+        },
+        {
+            "charBegin": 1235,
+            "charEnd": 1243,
+            "id": 179,
+            "sentence": 8,
+            "text": "Winfried",
+            "word": 14
+        },
+        {
+            "charBegin": 1244,
+            "charEnd": 1255,
+            "id": 180,
+            "sentence": 8,
+            "text": "Kretschmann",
+            "word": 15
+        },
+        {
+            "charBegin": 1256,
+            "charEnd": 1263,
+            "id": 181,
+            "sentence": 8,
+            "text": "liefern",
+            "word": 16
+        },
+        {
+            "charBegin": 1263,
+            "charEnd": 1264,
+            "id": 182,
+            "sentence": 8,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 1265,
+            "charEnd": 1269,
+            "id": 183,
+            "sentence": 9,
+            "text": "Aber",
+            "word": 1
+        },
+        {
+            "charBegin": 1270,
+            "charEnd": 1274,
+            "id": 184,
+            "sentence": 9,
+            "text": "auch",
+            "word": 2
+        },
+        {
+            "charBegin": 1275,
+            "charEnd": 1278,
+            "id": 185,
+            "sentence": 9,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 1279,
+            "charEnd": 1291,
+            "id": 186,
+            "sentence": 9,
+            "text": "traditionell",
+            "word": 4
+        },
+        {
+            "charBegin": 1292,
+            "charEnd": 1294,
+            "id": 187,
+            "sentence": 9,
+            "text": "in",
+            "word": 5
+        },
+        {
+            "charBegin": 1295,
+            "charEnd": 1312,
+            "id": 188,
+            "sentence": 9,
+            "text": "Baden-Württemberg",
+            "word": 6
+        },
+        {
+            "charBegin": 1313,
+            "charEnd": 1325,
+            "id": 189,
+            "sentence": 9,
+            "text": "dominierende",
+            "word": 7
+        },
+        {
+            "charBegin": 1326,
+            "charEnd": 1329,
+            "id": 190,
+            "sentence": 9,
+            "text": "CDU",
+            "word": 8
+        },
+        {
+            "charBegin": 1330,
+            "charEnd": 1335,
+            "id": 191,
+            "sentence": 9,
+            "text": "unter",
+            "word": 9
+        },
+        {
+            "charBegin": 1336,
+            "charEnd": 1339,
+            "id": 192,
+            "sentence": 9,
+            "text": "dem",
+            "word": 10
+        },
+        {
+            "charBegin": 1340,
+            "charEnd": 1357,
+            "id": 193,
+            "sentence": 9,
+            "text": "Spitzenkandidaten",
+            "word": 11
+        },
+        {
+            "charBegin": 1358,
+            "charEnd": 1364,
+            "id": 194,
+            "sentence": 9,
+            "text": "Stefan",
+            "word": 12
+        },
+        {
+            "charBegin": 1365,
+            "charEnd": 1371,
+            "id": 195,
+            "sentence": 9,
+            "text": "Mappus",
+            "word": 13
+        },
+        {
+            "charBegin": 1372,
+            "charEnd": 1376,
+            "id": 196,
+            "sentence": 9,
+            "text": "wird",
+            "word": 14
+        },
+        {
+            "charBegin": 1377,
+            "charEnd": 1380,
+            "id": 197,
+            "sentence": 9,
+            "text": "bei",
+            "word": 15
+        },
+        {
+            "charBegin": 1381,
+            "charEnd": 1384,
+            "id": 198,
+            "sentence": 9,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 1385,
+            "charEnd": 1402,
+            "id": 199,
+            "sentence": 9,
+            "text": "Koalitionsbildung",
+            "word": 17
+        },
+        {
+            "charBegin": 1403,
+            "charEnd": 1406,
+            "id": 200,
+            "sentence": 9,
+            "text": "ein",
+            "word": 18
+        },
+        {
+            "charBegin": 1407,
+            "charEnd": 1415,
+            "id": 201,
+            "sentence": 9,
+            "text": "Wörtchen",
+            "word": 19
+        },
+        {
+            "charBegin": 1416,
+            "charEnd": 1426,
+            "id": 202,
+            "sentence": 9,
+            "text": "mitzureden",
+            "word": 20
+        },
+        {
+            "charBegin": 1427,
+            "charEnd": 1432,
+            "id": 203,
+            "sentence": 9,
+            "text": "haben",
+            "word": 21
+        },
+        {
+            "charBegin": 1432,
+            "charEnd": 1433,
+            "id": 204,
+            "sentence": 9,
+            "text": ".",
+            "word": 22
+        }
+    ]
+}

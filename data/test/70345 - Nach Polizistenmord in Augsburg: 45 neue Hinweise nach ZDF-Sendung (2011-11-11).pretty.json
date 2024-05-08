@@ -1,0 +1,2736 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 24,
+                        "charBegin": 135,
+                        "charEnd": 188,
+                        "end": 34
+                    }
+                ],
+                "text": "Es soll ein Vorname eines Täters genannt worden sein.",
+                "tokenIds": [
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "FreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 52,
+                        "charBegin": 303,
+                        "charEnd": 305,
+                        "end": 53
+                    }
+                ],
+                "text": "so",
+                "tokenIds": [
+                    52
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 51,
+                        "charBegin": 301,
+                        "charEnd": 349,
+                        "end": 58
+                    }
+                ],
+                "text": ", so Alfred Hettmer vom Landeskriminalamt Bayern",
+                "tokenIds": [
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 42,
+                        "charBegin": 248,
+                        "charEnd": 301,
+                        "end": 51
+                    }
+                ],
+                "text": "Der Tipp sei von einem Zuschauer der Sendung gekommen",
+                "tokenIds": [
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 53,
+                        "charBegin": 306,
+                        "charEnd": 349,
+                        "end": 58
+                    }
+                ],
+                "text": "Alfred Hettmer vom Landeskriminalamt Bayern",
+                "tokenIds": [
+                    53,
+                    54,
+                    55,
+                    56,
+                    57
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "70345 - Nach Polizistenmord in Augsburg: 45 neue Hinweise nach ZDF-Sendung (2011-11-11)",
+    "originalText": "Nach der ZDF-Sendung „Aktenzeichen XY … ungelöst“ gibt es 45 neue Hinweise zum Mord an dem Polizeibeamten Matthias Vieth bei Augsburg. Es soll ein Vorname eines Täters genannt worden sein. Hintergrund der Tat ist möglicherweise ein Drogengeschäft. Der Tipp sei von einem Zuschauer der Sendung gekommen, so Alfred Hettmer vom Landeskriminalamt Bayern.\n\nDie weiteren Hinweise bezogen sich zumeist auf das von den Tätern zurückgelassene Motorrad und deren Tasche. Zwischenzeitlich hat die Sonderkommission (SOKO) „Spickel“ ein Fahndungsplakat herausgegeben und hofft auf weitere Mithilfe der Bevölkerung. \n\nDie auf 50 Mann aufgestockte SOKO ermittelt in dem Mordfall vom Freitag, den 28. Oktober 2011. Gegen drei Uhr morgens versuchte eine Streifenbesatzung der Augsburger Polizei im Stadtteil Augsburg-Hochzoll, ein Motorrad, das mit zwei Personen besetzt war, zu kontrollieren. Die beiden dunkel gekleideten Personen flüchteten mit dem Motorrad, und es wurden Schüsse auf die verfolgenden Polizisten, eine 30-jährige Beamtin und einen 41-jährigen Beamten, abgegeben. Die Täter setzten die weitere Flucht zu Fuß fort und ließen das Motorrad zurück. Der Beamte verstarb noch am Tatort.\n\nEine Belohnung von 55.000 Euro ist ausgesetzt. Ein Zusammenhang mit den Ermittlungen in dem Jahre zurückliegenden Polizistenmordfall in Heilbronn wird zwischenzeitlich nicht mehr angenommen. \n\nVor dem Polizeipräsidium Schwaben Nord wurden von der Bevölkerung in Anteilnahme Blumen abgelegt. Stiftungen griffen den Hinterbliebenen finanziell unter die Arme.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 134,
+            "end": 24,
+            "id": 0,
+            "text": "Nach der ZDF-Sendung „Aktenzeichen XY … ungelöst“ gibt es 45 neue Hinweise zum Mord an dem Polizeibeamten Matthias Vieth bei Augsburg. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ],
+            "tokens": [
+                "Nach",
+                "der",
+                "ZDF-Sendung",
+                "„",
+                "Aktenzeichen",
+                "XY",
+                "…",
+                "ungelöst",
+                "“",
+                "gibt",
+                "es",
+                "45",
+                "neue",
+                "Hinweise",
+                "zum",
+                "Mord",
+                "an",
+                "dem",
+                "Polizeibeamten",
+                "Matthias",
+                "Vieth",
+                "bei",
+                "Augsburg",
+                "."
+            ]
+        },
+        {
+            "begin": 24,
+            "charBegin": 135,
+            "charEnd": 188,
+            "end": 34,
+            "id": 1,
+            "text": "Es soll ein Vorname eines Täters genannt worden sein. ",
+            "tokenIds": [
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33
+            ],
+            "tokens": [
+                "Es",
+                "soll",
+                "ein",
+                "Vorname",
+                "eines",
+                "Täters",
+                "genannt",
+                "worden",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "begin": 34,
+            "charBegin": 189,
+            "charEnd": 247,
+            "end": 42,
+            "id": 2,
+            "text": "Hintergrund der Tat ist möglicherweise ein Drogengeschäft. ",
+            "tokenIds": [
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "tokens": [
+                "Hintergrund",
+                "der",
+                "Tat",
+                "ist",
+                "möglicherweise",
+                "ein",
+                "Drogengeschäft",
+                "."
+            ]
+        },
+        {
+            "begin": 42,
+            "charBegin": 248,
+            "charEnd": 350,
+            "end": 59,
+            "id": 3,
+            "text": "Der Tipp sei von einem Zuschauer der Sendung gekommen, so Alfred Hettmer vom Landeskriminalamt Bayern.",
+            "tokenIds": [
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58
+            ],
+            "tokens": [
+                "Der",
+                "Tipp",
+                "sei",
+                "von",
+                "einem",
+                "Zuschauer",
+                "der",
+                "Sendung",
+                "gekommen",
+                ",",
+                "so",
+                "Alfred",
+                "Hettmer",
+                "vom",
+                "Landeskriminalamt",
+                "Bayern",
+                "."
+            ]
+        },
+        {
+            "begin": 59,
+            "charBegin": 352,
+            "charEnd": 460,
+            "end": 76,
+            "id": 4,
+            "text": "Die weiteren Hinweise bezogen sich zumeist auf das von den Tätern zurückgelassene Motorrad und deren Tasche. ",
+            "tokenIds": [
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75
+            ],
+            "tokens": [
+                "Die",
+                "weiteren",
+                "Hinweise",
+                "bezogen",
+                "sich",
+                "zumeist",
+                "auf",
+                "das",
+                "von",
+                "den",
+                "Tätern",
+                "zurückgelassene",
+                "Motorrad",
+                "und",
+                "deren",
+                "Tasche",
+                "."
+            ]
+        },
+        {
+            "begin": 76,
+            "charBegin": 461,
+            "charEnd": 601,
+            "end": 97,
+            "id": 5,
+            "text": "Zwischenzeitlich hat die Sonderkommission (SOKO) „Spickel“ ein Fahndungsplakat herausgegeben und hofft auf weitere Mithilfe der Bevölkerung. ",
+            "tokenIds": [
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96
+            ],
+            "tokens": [
+                "Zwischenzeitlich",
+                "hat",
+                "die",
+                "Sonderkommission",
+                "(",
+                "SOKO",
+                ")",
+                "„",
+                "Spickel",
+                "“",
+                "ein",
+                "Fahndungsplakat",
+                "herausgegeben",
+                "und",
+                "hofft",
+                "auf",
+                "weitere",
+                "Mithilfe",
+                "der",
+                "Bevölkerung",
+                "."
+            ]
+        },
+        {
+            "begin": 97,
+            "charBegin": 604,
+            "charEnd": 698,
+            "end": 114,
+            "id": 6,
+            "text": "Die auf 50 Mann aufgestockte SOKO ermittelt in dem Mordfall vom Freitag, den 28. Oktober 2011. ",
+            "tokenIds": [
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113
+            ],
+            "tokens": [
+                "Die",
+                "auf",
+                "50",
+                "Mann",
+                "aufgestockte",
+                "SOKO",
+                "ermittelt",
+                "in",
+                "dem",
+                "Mordfall",
+                "vom",
+                "Freitag",
+                ",",
+                "den",
+                "28.",
+                "Oktober",
+                "2011."
+            ]
+        },
+        {
+            "begin": 114,
+            "charBegin": 699,
+            "charEnd": 876,
+            "end": 141,
+            "id": 7,
+            "text": "Gegen drei Uhr morgens versuchte eine Streifenbesatzung der Augsburger Polizei im Stadtteil Augsburg-Hochzoll, ein Motorrad, das mit zwei Personen besetzt war, zu kontrollieren. ",
+            "tokenIds": [
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140
+            ],
+            "tokens": [
+                "Gegen",
+                "drei",
+                "Uhr",
+                "morgens",
+                "versuchte",
+                "eine",
+                "Streifenbesatzung",
+                "der",
+                "Augsburger",
+                "Polizei",
+                "im",
+                "Stadtteil",
+                "Augsburg-Hochzoll",
+                ",",
+                "ein",
+                "Motorrad",
+                ",",
+                "das",
+                "mit",
+                "zwei",
+                "Personen",
+                "besetzt",
+                "war",
+                ",",
+                "zu",
+                "kontrollieren",
+                "."
+            ]
+        },
+        {
+            "begin": 141,
+            "charBegin": 877,
+            "charEnd": 1065,
+            "end": 170,
+            "id": 8,
+            "text": "Die beiden dunkel gekleideten Personen flüchteten mit dem Motorrad, und es wurden Schüsse auf die verfolgenden Polizisten, eine 30-jährige Beamtin und einen 41-jährigen Beamten, abgegeben. ",
+            "tokenIds": [
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169
+            ],
+            "tokens": [
+                "Die",
+                "beiden",
+                "dunkel",
+                "gekleideten",
+                "Personen",
+                "flüchteten",
+                "mit",
+                "dem",
+                "Motorrad",
+                ",",
+                "und",
+                "es",
+                "wurden",
+                "Schüsse",
+                "auf",
+                "die",
+                "verfolgenden",
+                "Polizisten",
+                ",",
+                "eine",
+                "30-jährige",
+                "Beamtin",
+                "und",
+                "einen",
+                "41-jährigen",
+                "Beamten",
+                ",",
+                "abgegeben",
+                "."
+            ]
+        },
+        {
+            "begin": 170,
+            "charBegin": 1066,
+            "charEnd": 1146,
+            "end": 185,
+            "id": 9,
+            "text": "Die Täter setzten die weitere Flucht zu Fuß fort und ließen das Motorrad zurück. ",
+            "tokenIds": [
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184
+            ],
+            "tokens": [
+                "Die",
+                "Täter",
+                "setzten",
+                "die",
+                "weitere",
+                "Flucht",
+                "zu",
+                "Fuß",
+                "fort",
+                "und",
+                "ließen",
+                "das",
+                "Motorrad",
+                "zurück",
+                "."
+            ]
+        },
+        {
+            "begin": 185,
+            "charBegin": 1147,
+            "charEnd": 1182,
+            "end": 192,
+            "id": 10,
+            "text": "Der Beamte verstarb noch am Tatort.",
+            "tokenIds": [
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191
+            ],
+            "tokens": [
+                "Der",
+                "Beamte",
+                "verstarb",
+                "noch",
+                "am",
+                "Tatort",
+                "."
+            ]
+        },
+        {
+            "begin": 192,
+            "charBegin": 1184,
+            "charEnd": 1230,
+            "end": 200,
+            "id": 11,
+            "text": "Eine Belohnung von 55.000 Euro ist ausgesetzt. ",
+            "tokenIds": [
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199
+            ],
+            "tokens": [
+                "Eine",
+                "Belohnung",
+                "von",
+                "55.000",
+                "Euro",
+                "ist",
+                "ausgesetzt",
+                "."
+            ]
+        },
+        {
+            "begin": 200,
+            "charBegin": 1231,
+            "charEnd": 1374,
+            "end": 218,
+            "id": 12,
+            "text": "Ein Zusammenhang mit den Ermittlungen in dem Jahre zurückliegenden Polizistenmordfall in Heilbronn wird zwischenzeitlich nicht mehr angenommen. ",
+            "tokenIds": [
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217
+            ],
+            "tokens": [
+                "Ein",
+                "Zusammenhang",
+                "mit",
+                "den",
+                "Ermittlungen",
+                "in",
+                "dem",
+                "Jahre",
+                "zurückliegenden",
+                "Polizistenmordfall",
+                "in",
+                "Heilbronn",
+                "wird",
+                "zwischenzeitlich",
+                "nicht",
+                "mehr",
+                "angenommen",
+                "."
+            ]
+        },
+        {
+            "begin": 218,
+            "charBegin": 1377,
+            "charEnd": 1474,
+            "end": 232,
+            "id": 13,
+            "text": "Vor dem Polizeipräsidium Schwaben Nord wurden von der Bevölkerung in Anteilnahme Blumen abgelegt. ",
+            "tokenIds": [
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231
+            ],
+            "tokens": [
+                "Vor",
+                "dem",
+                "Polizeipräsidium",
+                "Schwaben",
+                "Nord",
+                "wurden",
+                "von",
+                "der",
+                "Bevölkerung",
+                "in",
+                "Anteilnahme",
+                "Blumen",
+                "abgelegt",
+                "."
+            ]
+        },
+        {
+            "begin": 232,
+            "charBegin": 1475,
+            "charEnd": 1540,
+            "end": 241,
+            "id": 14,
+            "text": "Stiftungen griffen den Hinterbliebenen finanziell unter die Arme.",
+            "tokenIds": [
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240
+            ],
+            "tokens": [
+                "Stiftungen",
+                "griffen",
+                "den",
+                "Hinterbliebenen",
+                "finanziell",
+                "unter",
+                "die",
+                "Arme",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 4,
+            "id": 0,
+            "sentence": 1,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 5,
+            "charEnd": 8,
+            "id": 1,
+            "sentence": 1,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 9,
+            "charEnd": 20,
+            "id": 2,
+            "sentence": 1,
+            "text": "ZDF-Sendung",
+            "word": 3
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 22,
+            "id": 3,
+            "sentence": 1,
+            "text": "„",
+            "word": 4
+        },
+        {
+            "charBegin": 22,
+            "charEnd": 34,
+            "id": 4,
+            "sentence": 1,
+            "text": "Aktenzeichen",
+            "word": 5
+        },
+        {
+            "charBegin": 35,
+            "charEnd": 37,
+            "id": 5,
+            "sentence": 1,
+            "text": "XY",
+            "word": 6
+        },
+        {
+            "charBegin": 38,
+            "charEnd": 39,
+            "id": 6,
+            "sentence": 1,
+            "text": "…",
+            "word": 7
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 48,
+            "id": 7,
+            "sentence": 1,
+            "text": "ungelöst",
+            "word": 8
+        },
+        {
+            "charBegin": 48,
+            "charEnd": 49,
+            "id": 8,
+            "sentence": 1,
+            "text": "“",
+            "word": 9
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 54,
+            "id": 9,
+            "sentence": 1,
+            "text": "gibt",
+            "word": 10
+        },
+        {
+            "charBegin": 55,
+            "charEnd": 57,
+            "id": 10,
+            "sentence": 1,
+            "text": "es",
+            "word": 11
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 60,
+            "id": 11,
+            "sentence": 1,
+            "text": "45",
+            "word": 12
+        },
+        {
+            "charBegin": 61,
+            "charEnd": 65,
+            "id": 12,
+            "sentence": 1,
+            "text": "neue",
+            "word": 13
+        },
+        {
+            "charBegin": 66,
+            "charEnd": 74,
+            "id": 13,
+            "sentence": 1,
+            "text": "Hinweise",
+            "word": 14
+        },
+        {
+            "charBegin": 75,
+            "charEnd": 78,
+            "id": 14,
+            "sentence": 1,
+            "text": "zum",
+            "word": 15
+        },
+        {
+            "charBegin": 79,
+            "charEnd": 83,
+            "id": 15,
+            "sentence": 1,
+            "text": "Mord",
+            "word": 16
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 86,
+            "id": 16,
+            "sentence": 1,
+            "text": "an",
+            "word": 17
+        },
+        {
+            "charBegin": 87,
+            "charEnd": 90,
+            "id": 17,
+            "sentence": 1,
+            "text": "dem",
+            "word": 18
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 105,
+            "id": 18,
+            "sentence": 1,
+            "text": "Polizeibeamten",
+            "word": 19
+        },
+        {
+            "charBegin": 106,
+            "charEnd": 114,
+            "id": 19,
+            "sentence": 1,
+            "text": "Matthias",
+            "word": 20
+        },
+        {
+            "charBegin": 115,
+            "charEnd": 120,
+            "id": 20,
+            "sentence": 1,
+            "text": "Vieth",
+            "word": 21
+        },
+        {
+            "charBegin": 121,
+            "charEnd": 124,
+            "id": 21,
+            "sentence": 1,
+            "text": "bei",
+            "word": 22
+        },
+        {
+            "charBegin": 125,
+            "charEnd": 133,
+            "id": 22,
+            "sentence": 1,
+            "text": "Augsburg",
+            "word": 23
+        },
+        {
+            "charBegin": 133,
+            "charEnd": 134,
+            "id": 23,
+            "sentence": 1,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 137,
+            "id": 24,
+            "sentence": 2,
+            "text": "Es",
+            "word": 1
+        },
+        {
+            "charBegin": 138,
+            "charEnd": 142,
+            "id": 25,
+            "sentence": 2,
+            "text": "soll",
+            "word": 2
+        },
+        {
+            "charBegin": 143,
+            "charEnd": 146,
+            "id": 26,
+            "sentence": 2,
+            "text": "ein",
+            "word": 3
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 154,
+            "id": 27,
+            "sentence": 2,
+            "text": "Vorname",
+            "word": 4
+        },
+        {
+            "charBegin": 155,
+            "charEnd": 160,
+            "id": 28,
+            "sentence": 2,
+            "text": "eines",
+            "word": 5
+        },
+        {
+            "charBegin": 161,
+            "charEnd": 167,
+            "id": 29,
+            "sentence": 2,
+            "text": "Täters",
+            "word": 6
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 175,
+            "id": 30,
+            "sentence": 2,
+            "text": "genannt",
+            "word": 7
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 182,
+            "id": 31,
+            "sentence": 2,
+            "text": "worden",
+            "word": 8
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 187,
+            "id": 32,
+            "sentence": 2,
+            "text": "sein",
+            "word": 9
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 188,
+            "id": 33,
+            "sentence": 2,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 200,
+            "id": 34,
+            "sentence": 3,
+            "text": "Hintergrund",
+            "word": 1
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 204,
+            "id": 35,
+            "sentence": 3,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 205,
+            "charEnd": 208,
+            "id": 36,
+            "sentence": 3,
+            "text": "Tat",
+            "word": 3
+        },
+        {
+            "charBegin": 209,
+            "charEnd": 212,
+            "id": 37,
+            "sentence": 3,
+            "text": "ist",
+            "word": 4
+        },
+        {
+            "charBegin": 213,
+            "charEnd": 227,
+            "id": 38,
+            "sentence": 3,
+            "text": "möglicherweise",
+            "word": 5
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 231,
+            "id": 39,
+            "sentence": 3,
+            "text": "ein",
+            "word": 6
+        },
+        {
+            "charBegin": 232,
+            "charEnd": 246,
+            "id": 40,
+            "sentence": 3,
+            "text": "Drogengeschäft",
+            "word": 7
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 247,
+            "id": 41,
+            "sentence": 3,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 248,
+            "charEnd": 251,
+            "id": 42,
+            "sentence": 4,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 252,
+            "charEnd": 256,
+            "id": 43,
+            "sentence": 4,
+            "text": "Tipp",
+            "word": 2
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 260,
+            "id": 44,
+            "sentence": 4,
+            "text": "sei",
+            "word": 3
+        },
+        {
+            "charBegin": 261,
+            "charEnd": 264,
+            "id": 45,
+            "sentence": 4,
+            "text": "von",
+            "word": 4
+        },
+        {
+            "charBegin": 265,
+            "charEnd": 270,
+            "id": 46,
+            "sentence": 4,
+            "text": "einem",
+            "word": 5
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 280,
+            "id": 47,
+            "sentence": 4,
+            "text": "Zuschauer",
+            "word": 6
+        },
+        {
+            "charBegin": 281,
+            "charEnd": 284,
+            "id": 48,
+            "sentence": 4,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 292,
+            "id": 49,
+            "sentence": 4,
+            "text": "Sendung",
+            "word": 8
+        },
+        {
+            "charBegin": 293,
+            "charEnd": 301,
+            "id": 50,
+            "sentence": 4,
+            "text": "gekommen",
+            "word": 9
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 302,
+            "id": 51,
+            "sentence": 4,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 305,
+            "id": 52,
+            "sentence": 4,
+            "text": "so",
+            "word": 11
+        },
+        {
+            "charBegin": 306,
+            "charEnd": 312,
+            "id": 53,
+            "sentence": 4,
+            "text": "Alfred",
+            "word": 12
+        },
+        {
+            "charBegin": 313,
+            "charEnd": 320,
+            "id": 54,
+            "sentence": 4,
+            "text": "Hettmer",
+            "word": 13
+        },
+        {
+            "charBegin": 321,
+            "charEnd": 324,
+            "id": 55,
+            "sentence": 4,
+            "text": "vom",
+            "word": 14
+        },
+        {
+            "charBegin": 325,
+            "charEnd": 342,
+            "id": 56,
+            "sentence": 4,
+            "text": "Landeskriminalamt",
+            "word": 15
+        },
+        {
+            "charBegin": 343,
+            "charEnd": 349,
+            "id": 57,
+            "sentence": 4,
+            "text": "Bayern",
+            "word": 16
+        },
+        {
+            "charBegin": 349,
+            "charEnd": 350,
+            "id": 58,
+            "sentence": 4,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 352,
+            "charEnd": 355,
+            "id": 59,
+            "sentence": 5,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 356,
+            "charEnd": 364,
+            "id": 60,
+            "sentence": 5,
+            "text": "weiteren",
+            "word": 2
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 373,
+            "id": 61,
+            "sentence": 5,
+            "text": "Hinweise",
+            "word": 3
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 381,
+            "id": 62,
+            "sentence": 5,
+            "text": "bezogen",
+            "word": 4
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 386,
+            "id": 63,
+            "sentence": 5,
+            "text": "sich",
+            "word": 5
+        },
+        {
+            "charBegin": 387,
+            "charEnd": 394,
+            "id": 64,
+            "sentence": 5,
+            "text": "zumeist",
+            "word": 6
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 398,
+            "id": 65,
+            "sentence": 5,
+            "text": "auf",
+            "word": 7
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 402,
+            "id": 66,
+            "sentence": 5,
+            "text": "das",
+            "word": 8
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 406,
+            "id": 67,
+            "sentence": 5,
+            "text": "von",
+            "word": 9
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 410,
+            "id": 68,
+            "sentence": 5,
+            "text": "den",
+            "word": 10
+        },
+        {
+            "charBegin": 411,
+            "charEnd": 417,
+            "id": 69,
+            "sentence": 5,
+            "text": "Tätern",
+            "word": 11
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 433,
+            "id": 70,
+            "sentence": 5,
+            "text": "zurückgelassene",
+            "word": 12
+        },
+        {
+            "charBegin": 434,
+            "charEnd": 442,
+            "id": 71,
+            "sentence": 5,
+            "text": "Motorrad",
+            "word": 13
+        },
+        {
+            "charBegin": 443,
+            "charEnd": 446,
+            "id": 72,
+            "sentence": 5,
+            "text": "und",
+            "word": 14
+        },
+        {
+            "charBegin": 447,
+            "charEnd": 452,
+            "id": 73,
+            "sentence": 5,
+            "text": "deren",
+            "word": 15
+        },
+        {
+            "charBegin": 453,
+            "charEnd": 459,
+            "id": 74,
+            "sentence": 5,
+            "text": "Tasche",
+            "word": 16
+        },
+        {
+            "charBegin": 459,
+            "charEnd": 460,
+            "id": 75,
+            "sentence": 5,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 477,
+            "id": 76,
+            "sentence": 6,
+            "text": "Zwischenzeitlich",
+            "word": 1
+        },
+        {
+            "charBegin": 478,
+            "charEnd": 481,
+            "id": 77,
+            "sentence": 6,
+            "text": "hat",
+            "word": 2
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 485,
+            "id": 78,
+            "sentence": 6,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 502,
+            "id": 79,
+            "sentence": 6,
+            "text": "Sonderkommission",
+            "word": 4
+        },
+        {
+            "charBegin": 503,
+            "charEnd": 504,
+            "id": 80,
+            "sentence": 6,
+            "text": "(",
+            "word": 5
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 508,
+            "id": 81,
+            "sentence": 6,
+            "text": "SOKO",
+            "word": 6
+        },
+        {
+            "charBegin": 508,
+            "charEnd": 509,
+            "id": 82,
+            "sentence": 6,
+            "text": ")",
+            "word": 7
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 511,
+            "id": 83,
+            "sentence": 6,
+            "text": "„",
+            "word": 8
+        },
+        {
+            "charBegin": 511,
+            "charEnd": 518,
+            "id": 84,
+            "sentence": 6,
+            "text": "Spickel",
+            "word": 9
+        },
+        {
+            "charBegin": 518,
+            "charEnd": 519,
+            "id": 85,
+            "sentence": 6,
+            "text": "“",
+            "word": 10
+        },
+        {
+            "charBegin": 520,
+            "charEnd": 523,
+            "id": 86,
+            "sentence": 6,
+            "text": "ein",
+            "word": 11
+        },
+        {
+            "charBegin": 524,
+            "charEnd": 539,
+            "id": 87,
+            "sentence": 6,
+            "text": "Fahndungsplakat",
+            "word": 12
+        },
+        {
+            "charBegin": 540,
+            "charEnd": 553,
+            "id": 88,
+            "sentence": 6,
+            "text": "herausgegeben",
+            "word": 13
+        },
+        {
+            "charBegin": 554,
+            "charEnd": 557,
+            "id": 89,
+            "sentence": 6,
+            "text": "und",
+            "word": 14
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 563,
+            "id": 90,
+            "sentence": 6,
+            "text": "hofft",
+            "word": 15
+        },
+        {
+            "charBegin": 564,
+            "charEnd": 567,
+            "id": 91,
+            "sentence": 6,
+            "text": "auf",
+            "word": 16
+        },
+        {
+            "charBegin": 568,
+            "charEnd": 575,
+            "id": 92,
+            "sentence": 6,
+            "text": "weitere",
+            "word": 17
+        },
+        {
+            "charBegin": 576,
+            "charEnd": 584,
+            "id": 93,
+            "sentence": 6,
+            "text": "Mithilfe",
+            "word": 18
+        },
+        {
+            "charBegin": 585,
+            "charEnd": 588,
+            "id": 94,
+            "sentence": 6,
+            "text": "der",
+            "word": 19
+        },
+        {
+            "charBegin": 589,
+            "charEnd": 600,
+            "id": 95,
+            "sentence": 6,
+            "text": "Bevölkerung",
+            "word": 20
+        },
+        {
+            "charBegin": 600,
+            "charEnd": 601,
+            "id": 96,
+            "sentence": 6,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 604,
+            "charEnd": 607,
+            "id": 97,
+            "sentence": 7,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 611,
+            "id": 98,
+            "sentence": 7,
+            "text": "auf",
+            "word": 2
+        },
+        {
+            "charBegin": 612,
+            "charEnd": 614,
+            "id": 99,
+            "sentence": 7,
+            "text": "50",
+            "word": 3
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 619,
+            "id": 100,
+            "sentence": 7,
+            "text": "Mann",
+            "word": 4
+        },
+        {
+            "charBegin": 620,
+            "charEnd": 632,
+            "id": 101,
+            "sentence": 7,
+            "text": "aufgestockte",
+            "word": 5
+        },
+        {
+            "charBegin": 633,
+            "charEnd": 637,
+            "id": 102,
+            "sentence": 7,
+            "text": "SOKO",
+            "word": 6
+        },
+        {
+            "charBegin": 638,
+            "charEnd": 647,
+            "id": 103,
+            "sentence": 7,
+            "text": "ermittelt",
+            "word": 7
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 650,
+            "id": 104,
+            "sentence": 7,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 651,
+            "charEnd": 654,
+            "id": 105,
+            "sentence": 7,
+            "text": "dem",
+            "word": 9
+        },
+        {
+            "charBegin": 655,
+            "charEnd": 663,
+            "id": 106,
+            "sentence": 7,
+            "text": "Mordfall",
+            "word": 10
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 667,
+            "id": 107,
+            "sentence": 7,
+            "text": "vom",
+            "word": 11
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 675,
+            "id": 108,
+            "sentence": 7,
+            "text": "Freitag",
+            "word": 12
+        },
+        {
+            "charBegin": 675,
+            "charEnd": 676,
+            "id": 109,
+            "sentence": 7,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 677,
+            "charEnd": 680,
+            "id": 110,
+            "sentence": 7,
+            "text": "den",
+            "word": 14
+        },
+        {
+            "charBegin": 681,
+            "charEnd": 684,
+            "id": 111,
+            "sentence": 7,
+            "text": "28.",
+            "word": 15
+        },
+        {
+            "charBegin": 685,
+            "charEnd": 692,
+            "id": 112,
+            "sentence": 7,
+            "text": "Oktober",
+            "word": 16
+        },
+        {
+            "charBegin": 693,
+            "charEnd": 698,
+            "id": 113,
+            "sentence": 7,
+            "text": "2011.",
+            "word": 17
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 704,
+            "id": 114,
+            "sentence": 8,
+            "text": "Gegen",
+            "word": 1
+        },
+        {
+            "charBegin": 705,
+            "charEnd": 709,
+            "id": 115,
+            "sentence": 8,
+            "text": "drei",
+            "word": 2
+        },
+        {
+            "charBegin": 710,
+            "charEnd": 713,
+            "id": 116,
+            "sentence": 8,
+            "text": "Uhr",
+            "word": 3
+        },
+        {
+            "charBegin": 714,
+            "charEnd": 721,
+            "id": 117,
+            "sentence": 8,
+            "text": "morgens",
+            "word": 4
+        },
+        {
+            "charBegin": 722,
+            "charEnd": 731,
+            "id": 118,
+            "sentence": 8,
+            "text": "versuchte",
+            "word": 5
+        },
+        {
+            "charBegin": 732,
+            "charEnd": 736,
+            "id": 119,
+            "sentence": 8,
+            "text": "eine",
+            "word": 6
+        },
+        {
+            "charBegin": 737,
+            "charEnd": 754,
+            "id": 120,
+            "sentence": 8,
+            "text": "Streifenbesatzung",
+            "word": 7
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 758,
+            "id": 121,
+            "sentence": 8,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 769,
+            "id": 122,
+            "sentence": 8,
+            "text": "Augsburger",
+            "word": 9
+        },
+        {
+            "charBegin": 770,
+            "charEnd": 777,
+            "id": 123,
+            "sentence": 8,
+            "text": "Polizei",
+            "word": 10
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 780,
+            "id": 124,
+            "sentence": 8,
+            "text": "im",
+            "word": 11
+        },
+        {
+            "charBegin": 781,
+            "charEnd": 790,
+            "id": 125,
+            "sentence": 8,
+            "text": "Stadtteil",
+            "word": 12
+        },
+        {
+            "charBegin": 791,
+            "charEnd": 808,
+            "id": 126,
+            "sentence": 8,
+            "text": "Augsburg-Hochzoll",
+            "word": 13
+        },
+        {
+            "charBegin": 808,
+            "charEnd": 809,
+            "id": 127,
+            "sentence": 8,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 810,
+            "charEnd": 813,
+            "id": 128,
+            "sentence": 8,
+            "text": "ein",
+            "word": 15
+        },
+        {
+            "charBegin": 814,
+            "charEnd": 822,
+            "id": 129,
+            "sentence": 8,
+            "text": "Motorrad",
+            "word": 16
+        },
+        {
+            "charBegin": 822,
+            "charEnd": 823,
+            "id": 130,
+            "sentence": 8,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 824,
+            "charEnd": 827,
+            "id": 131,
+            "sentence": 8,
+            "text": "das",
+            "word": 18
+        },
+        {
+            "charBegin": 828,
+            "charEnd": 831,
+            "id": 132,
+            "sentence": 8,
+            "text": "mit",
+            "word": 19
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 836,
+            "id": 133,
+            "sentence": 8,
+            "text": "zwei",
+            "word": 20
+        },
+        {
+            "charBegin": 837,
+            "charEnd": 845,
+            "id": 134,
+            "sentence": 8,
+            "text": "Personen",
+            "word": 21
+        },
+        {
+            "charBegin": 846,
+            "charEnd": 853,
+            "id": 135,
+            "sentence": 8,
+            "text": "besetzt",
+            "word": 22
+        },
+        {
+            "charBegin": 854,
+            "charEnd": 857,
+            "id": 136,
+            "sentence": 8,
+            "text": "war",
+            "word": 23
+        },
+        {
+            "charBegin": 857,
+            "charEnd": 858,
+            "id": 137,
+            "sentence": 8,
+            "text": ",",
+            "word": 24
+        },
+        {
+            "charBegin": 859,
+            "charEnd": 861,
+            "id": 138,
+            "sentence": 8,
+            "text": "zu",
+            "word": 25
+        },
+        {
+            "charBegin": 862,
+            "charEnd": 875,
+            "id": 139,
+            "sentence": 8,
+            "text": "kontrollieren",
+            "word": 26
+        },
+        {
+            "charBegin": 875,
+            "charEnd": 876,
+            "id": 140,
+            "sentence": 8,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 877,
+            "charEnd": 880,
+            "id": 141,
+            "sentence": 9,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 881,
+            "charEnd": 887,
+            "id": 142,
+            "sentence": 9,
+            "text": "beiden",
+            "word": 2
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 894,
+            "id": 143,
+            "sentence": 9,
+            "text": "dunkel",
+            "word": 3
+        },
+        {
+            "charBegin": 895,
+            "charEnd": 906,
+            "id": 144,
+            "sentence": 9,
+            "text": "gekleideten",
+            "word": 4
+        },
+        {
+            "charBegin": 907,
+            "charEnd": 915,
+            "id": 145,
+            "sentence": 9,
+            "text": "Personen",
+            "word": 5
+        },
+        {
+            "charBegin": 916,
+            "charEnd": 926,
+            "id": 146,
+            "sentence": 9,
+            "text": "flüchteten",
+            "word": 6
+        },
+        {
+            "charBegin": 927,
+            "charEnd": 930,
+            "id": 147,
+            "sentence": 9,
+            "text": "mit",
+            "word": 7
+        },
+        {
+            "charBegin": 931,
+            "charEnd": 934,
+            "id": 148,
+            "sentence": 9,
+            "text": "dem",
+            "word": 8
+        },
+        {
+            "charBegin": 935,
+            "charEnd": 943,
+            "id": 149,
+            "sentence": 9,
+            "text": "Motorrad",
+            "word": 9
+        },
+        {
+            "charBegin": 943,
+            "charEnd": 944,
+            "id": 150,
+            "sentence": 9,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 948,
+            "id": 151,
+            "sentence": 9,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 949,
+            "charEnd": 951,
+            "id": 152,
+            "sentence": 9,
+            "text": "es",
+            "word": 12
+        },
+        {
+            "charBegin": 952,
+            "charEnd": 958,
+            "id": 153,
+            "sentence": 9,
+            "text": "wurden",
+            "word": 13
+        },
+        {
+            "charBegin": 959,
+            "charEnd": 966,
+            "id": 154,
+            "sentence": 9,
+            "text": "Schüsse",
+            "word": 14
+        },
+        {
+            "charBegin": 967,
+            "charEnd": 970,
+            "id": 155,
+            "sentence": 9,
+            "text": "auf",
+            "word": 15
+        },
+        {
+            "charBegin": 971,
+            "charEnd": 974,
+            "id": 156,
+            "sentence": 9,
+            "text": "die",
+            "word": 16
+        },
+        {
+            "charBegin": 975,
+            "charEnd": 987,
+            "id": 157,
+            "sentence": 9,
+            "text": "verfolgenden",
+            "word": 17
+        },
+        {
+            "charBegin": 988,
+            "charEnd": 998,
+            "id": 158,
+            "sentence": 9,
+            "text": "Polizisten",
+            "word": 18
+        },
+        {
+            "charBegin": 998,
+            "charEnd": 999,
+            "id": 159,
+            "sentence": 9,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 1000,
+            "charEnd": 1004,
+            "id": 160,
+            "sentence": 9,
+            "text": "eine",
+            "word": 20
+        },
+        {
+            "charBegin": 1005,
+            "charEnd": 1015,
+            "id": 161,
+            "sentence": 9,
+            "text": "30-jährige",
+            "word": 21
+        },
+        {
+            "charBegin": 1016,
+            "charEnd": 1023,
+            "id": 162,
+            "sentence": 9,
+            "text": "Beamtin",
+            "word": 22
+        },
+        {
+            "charBegin": 1024,
+            "charEnd": 1027,
+            "id": 163,
+            "sentence": 9,
+            "text": "und",
+            "word": 23
+        },
+        {
+            "charBegin": 1028,
+            "charEnd": 1033,
+            "id": 164,
+            "sentence": 9,
+            "text": "einen",
+            "word": 24
+        },
+        {
+            "charBegin": 1034,
+            "charEnd": 1045,
+            "id": 165,
+            "sentence": 9,
+            "text": "41-jährigen",
+            "word": 25
+        },
+        {
+            "charBegin": 1046,
+            "charEnd": 1053,
+            "id": 166,
+            "sentence": 9,
+            "text": "Beamten",
+            "word": 26
+        },
+        {
+            "charBegin": 1053,
+            "charEnd": 1054,
+            "id": 167,
+            "sentence": 9,
+            "text": ",",
+            "word": 27
+        },
+        {
+            "charBegin": 1055,
+            "charEnd": 1064,
+            "id": 168,
+            "sentence": 9,
+            "text": "abgegeben",
+            "word": 28
+        },
+        {
+            "charBegin": 1064,
+            "charEnd": 1065,
+            "id": 169,
+            "sentence": 9,
+            "text": ".",
+            "word": 29
+        },
+        {
+            "charBegin": 1066,
+            "charEnd": 1069,
+            "id": 170,
+            "sentence": 10,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1070,
+            "charEnd": 1075,
+            "id": 171,
+            "sentence": 10,
+            "text": "Täter",
+            "word": 2
+        },
+        {
+            "charBegin": 1076,
+            "charEnd": 1083,
+            "id": 172,
+            "sentence": 10,
+            "text": "setzten",
+            "word": 3
+        },
+        {
+            "charBegin": 1084,
+            "charEnd": 1087,
+            "id": 173,
+            "sentence": 10,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 1088,
+            "charEnd": 1095,
+            "id": 174,
+            "sentence": 10,
+            "text": "weitere",
+            "word": 5
+        },
+        {
+            "charBegin": 1096,
+            "charEnd": 1102,
+            "id": 175,
+            "sentence": 10,
+            "text": "Flucht",
+            "word": 6
+        },
+        {
+            "charBegin": 1103,
+            "charEnd": 1105,
+            "id": 176,
+            "sentence": 10,
+            "text": "zu",
+            "word": 7
+        },
+        {
+            "charBegin": 1106,
+            "charEnd": 1109,
+            "id": 177,
+            "sentence": 10,
+            "text": "Fuß",
+            "word": 8
+        },
+        {
+            "charBegin": 1110,
+            "charEnd": 1114,
+            "id": 178,
+            "sentence": 10,
+            "text": "fort",
+            "word": 9
+        },
+        {
+            "charBegin": 1115,
+            "charEnd": 1118,
+            "id": 179,
+            "sentence": 10,
+            "text": "und",
+            "word": 10
+        },
+        {
+            "charBegin": 1119,
+            "charEnd": 1125,
+            "id": 180,
+            "sentence": 10,
+            "text": "ließen",
+            "word": 11
+        },
+        {
+            "charBegin": 1126,
+            "charEnd": 1129,
+            "id": 181,
+            "sentence": 10,
+            "text": "das",
+            "word": 12
+        },
+        {
+            "charBegin": 1130,
+            "charEnd": 1138,
+            "id": 182,
+            "sentence": 10,
+            "text": "Motorrad",
+            "word": 13
+        },
+        {
+            "charBegin": 1139,
+            "charEnd": 1145,
+            "id": 183,
+            "sentence": 10,
+            "text": "zurück",
+            "word": 14
+        },
+        {
+            "charBegin": 1145,
+            "charEnd": 1146,
+            "id": 184,
+            "sentence": 10,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 1147,
+            "charEnd": 1150,
+            "id": 185,
+            "sentence": 11,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1151,
+            "charEnd": 1157,
+            "id": 186,
+            "sentence": 11,
+            "text": "Beamte",
+            "word": 2
+        },
+        {
+            "charBegin": 1158,
+            "charEnd": 1166,
+            "id": 187,
+            "sentence": 11,
+            "text": "verstarb",
+            "word": 3
+        },
+        {
+            "charBegin": 1167,
+            "charEnd": 1171,
+            "id": 188,
+            "sentence": 11,
+            "text": "noch",
+            "word": 4
+        },
+        {
+            "charBegin": 1172,
+            "charEnd": 1174,
+            "id": 189,
+            "sentence": 11,
+            "text": "am",
+            "word": 5
+        },
+        {
+            "charBegin": 1175,
+            "charEnd": 1181,
+            "id": 190,
+            "sentence": 11,
+            "text": "Tatort",
+            "word": 6
+        },
+        {
+            "charBegin": 1181,
+            "charEnd": 1182,
+            "id": 191,
+            "sentence": 11,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 1184,
+            "charEnd": 1188,
+            "id": 192,
+            "sentence": 12,
+            "text": "Eine",
+            "word": 1
+        },
+        {
+            "charBegin": 1189,
+            "charEnd": 1198,
+            "id": 193,
+            "sentence": 12,
+            "text": "Belohnung",
+            "word": 2
+        },
+        {
+            "charBegin": 1199,
+            "charEnd": 1202,
+            "id": 194,
+            "sentence": 12,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 1203,
+            "charEnd": 1209,
+            "id": 195,
+            "sentence": 12,
+            "text": "55.000",
+            "word": 4
+        },
+        {
+            "charBegin": 1210,
+            "charEnd": 1214,
+            "id": 196,
+            "sentence": 12,
+            "text": "Euro",
+            "word": 5
+        },
+        {
+            "charBegin": 1215,
+            "charEnd": 1218,
+            "id": 197,
+            "sentence": 12,
+            "text": "ist",
+            "word": 6
+        },
+        {
+            "charBegin": 1219,
+            "charEnd": 1229,
+            "id": 198,
+            "sentence": 12,
+            "text": "ausgesetzt",
+            "word": 7
+        },
+        {
+            "charBegin": 1229,
+            "charEnd": 1230,
+            "id": 199,
+            "sentence": 12,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 1231,
+            "charEnd": 1234,
+            "id": 200,
+            "sentence": 13,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 1235,
+            "charEnd": 1247,
+            "id": 201,
+            "sentence": 13,
+            "text": "Zusammenhang",
+            "word": 2
+        },
+        {
+            "charBegin": 1248,
+            "charEnd": 1251,
+            "id": 202,
+            "sentence": 13,
+            "text": "mit",
+            "word": 3
+        },
+        {
+            "charBegin": 1252,
+            "charEnd": 1255,
+            "id": 203,
+            "sentence": 13,
+            "text": "den",
+            "word": 4
+        },
+        {
+            "charBegin": 1256,
+            "charEnd": 1268,
+            "id": 204,
+            "sentence": 13,
+            "text": "Ermittlungen",
+            "word": 5
+        },
+        {
+            "charBegin": 1269,
+            "charEnd": 1271,
+            "id": 205,
+            "sentence": 13,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 1272,
+            "charEnd": 1275,
+            "id": 206,
+            "sentence": 13,
+            "text": "dem",
+            "word": 7
+        },
+        {
+            "charBegin": 1276,
+            "charEnd": 1281,
+            "id": 207,
+            "sentence": 13,
+            "text": "Jahre",
+            "word": 8
+        },
+        {
+            "charBegin": 1282,
+            "charEnd": 1297,
+            "id": 208,
+            "sentence": 13,
+            "text": "zurückliegenden",
+            "word": 9
+        },
+        {
+            "charBegin": 1298,
+            "charEnd": 1316,
+            "id": 209,
+            "sentence": 13,
+            "text": "Polizistenmordfall",
+            "word": 10
+        },
+        {
+            "charBegin": 1317,
+            "charEnd": 1319,
+            "id": 210,
+            "sentence": 13,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 1320,
+            "charEnd": 1329,
+            "id": 211,
+            "sentence": 13,
+            "text": "Heilbronn",
+            "word": 12
+        },
+        {
+            "charBegin": 1330,
+            "charEnd": 1334,
+            "id": 212,
+            "sentence": 13,
+            "text": "wird",
+            "word": 13
+        },
+        {
+            "charBegin": 1335,
+            "charEnd": 1351,
+            "id": 213,
+            "sentence": 13,
+            "text": "zwischenzeitlich",
+            "word": 14
+        },
+        {
+            "charBegin": 1352,
+            "charEnd": 1357,
+            "id": 214,
+            "sentence": 13,
+            "text": "nicht",
+            "word": 15
+        },
+        {
+            "charBegin": 1358,
+            "charEnd": 1362,
+            "id": 215,
+            "sentence": 13,
+            "text": "mehr",
+            "word": 16
+        },
+        {
+            "charBegin": 1363,
+            "charEnd": 1373,
+            "id": 216,
+            "sentence": 13,
+            "text": "angenommen",
+            "word": 17
+        },
+        {
+            "charBegin": 1373,
+            "charEnd": 1374,
+            "id": 217,
+            "sentence": 13,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 1377,
+            "charEnd": 1380,
+            "id": 218,
+            "sentence": 14,
+            "text": "Vor",
+            "word": 1
+        },
+        {
+            "charBegin": 1381,
+            "charEnd": 1384,
+            "id": 219,
+            "sentence": 14,
+            "text": "dem",
+            "word": 2
+        },
+        {
+            "charBegin": 1385,
+            "charEnd": 1401,
+            "id": 220,
+            "sentence": 14,
+            "text": "Polizeipräsidium",
+            "word": 3
+        },
+        {
+            "charBegin": 1402,
+            "charEnd": 1410,
+            "id": 221,
+            "sentence": 14,
+            "text": "Schwaben",
+            "word": 4
+        },
+        {
+            "charBegin": 1411,
+            "charEnd": 1415,
+            "id": 222,
+            "sentence": 14,
+            "text": "Nord",
+            "word": 5
+        },
+        {
+            "charBegin": 1416,
+            "charEnd": 1422,
+            "id": 223,
+            "sentence": 14,
+            "text": "wurden",
+            "word": 6
+        },
+        {
+            "charBegin": 1423,
+            "charEnd": 1426,
+            "id": 224,
+            "sentence": 14,
+            "text": "von",
+            "word": 7
+        },
+        {
+            "charBegin": 1427,
+            "charEnd": 1430,
+            "id": 225,
+            "sentence": 14,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 1431,
+            "charEnd": 1442,
+            "id": 226,
+            "sentence": 14,
+            "text": "Bevölkerung",
+            "word": 9
+        },
+        {
+            "charBegin": 1443,
+            "charEnd": 1445,
+            "id": 227,
+            "sentence": 14,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 1446,
+            "charEnd": 1457,
+            "id": 228,
+            "sentence": 14,
+            "text": "Anteilnahme",
+            "word": 11
+        },
+        {
+            "charBegin": 1458,
+            "charEnd": 1464,
+            "id": 229,
+            "sentence": 14,
+            "text": "Blumen",
+            "word": 12
+        },
+        {
+            "charBegin": 1465,
+            "charEnd": 1473,
+            "id": 230,
+            "sentence": 14,
+            "text": "abgelegt",
+            "word": 13
+        },
+        {
+            "charBegin": 1473,
+            "charEnd": 1474,
+            "id": 231,
+            "sentence": 14,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1475,
+            "charEnd": 1485,
+            "id": 232,
+            "sentence": 15,
+            "text": "Stiftungen",
+            "word": 1
+        },
+        {
+            "charBegin": 1486,
+            "charEnd": 1493,
+            "id": 233,
+            "sentence": 15,
+            "text": "griffen",
+            "word": 2
+        },
+        {
+            "charBegin": 1494,
+            "charEnd": 1497,
+            "id": 234,
+            "sentence": 15,
+            "text": "den",
+            "word": 3
+        },
+        {
+            "charBegin": 1498,
+            "charEnd": 1513,
+            "id": 235,
+            "sentence": 15,
+            "text": "Hinterbliebenen",
+            "word": 4
+        },
+        {
+            "charBegin": 1514,
+            "charEnd": 1524,
+            "id": 236,
+            "sentence": 15,
+            "text": "finanziell",
+            "word": 5
+        },
+        {
+            "charBegin": 1525,
+            "charEnd": 1530,
+            "id": 237,
+            "sentence": 15,
+            "text": "unter",
+            "word": 6
+        },
+        {
+            "charBegin": 1531,
+            "charEnd": 1534,
+            "id": 238,
+            "sentence": 15,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 1535,
+            "charEnd": 1539,
+            "id": 239,
+            "sentence": 15,
+            "text": "Arme",
+            "word": 8
+        },
+        {
+            "charBegin": 1539,
+            "charEnd": 1540,
+            "id": 240,
+            "sentence": 15,
+            "text": ".",
+            "word": 9
+        }
+    ]
+}

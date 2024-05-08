@@ -1,0 +1,996 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 3,
+                        "charBegin": 26,
+                        "charEnd": 33,
+                        "end": 4
+                    },
+                    {
+                        "begin": 6,
+                        "charBegin": 54,
+                        "charEnd": 58,
+                        "end": 7
+                    }
+                ],
+                "text": "stellte fest",
+                "tokenIds": [
+                    3,
+                    6
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 59,
+                        "end": 8
+                    }
+                ],
+                "text": "Am gestrigen Montagmorgen stellte eine Polizeistreife fest,",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "none",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 8,
+                        "charBegin": 60,
+                        "charEnd": 152,
+                        "end": 20
+                    }
+                ],
+                "text": "dass ein Rotorblatt des zwischen Ebern und Untermerzbach stehenden Windrades abgebrochen war",
+                "tokenIds": [
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 4,
+                        "charBegin": 34,
+                        "charEnd": 53,
+                        "end": 6
+                    }
+                ],
+                "text": "eine Polizeistreife",
+                "tokenIds": [
+                    4,
+                    5
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "71365 - Unterfranken: Rotorblatt eines 80 Meter hohen Windkraftrades abgebrochen (2012-01-24)",
+    "originalText": "Am gestrigen Montagmorgen stellte eine Polizeistreife fest, dass ein Rotorblatt des zwischen Ebern und Untermerzbach stehenden Windrades abgebrochen war. Die Anlage zur Stromerzeugung ist 80 Meter hoch. Teile des Rotorblattes lagen im Umkreis von 200 Metern verstreut, ein Teil hing noch in luftiger Höhe fest. Der Gefahrenbereich musste durch Mitarbeiter der Stadt abgesperrt werden. Die Anlage war im Jahr 2001 errichtet worden und steht auf einer Anhöhe. Die Ursache für die Beschädigung ist unbekannt.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 153,
+            "end": 21,
+            "id": 0,
+            "text": "Am gestrigen Montagmorgen stellte eine Polizeistreife fest, dass ein Rotorblatt des zwischen Ebern und Untermerzbach stehenden Windrades abgebrochen war. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "Am",
+                "gestrigen",
+                "Montagmorgen",
+                "stellte",
+                "eine",
+                "Polizeistreife",
+                "fest",
+                ",",
+                "dass",
+                "ein",
+                "Rotorblatt",
+                "des",
+                "zwischen",
+                "Ebern",
+                "und",
+                "Untermerzbach",
+                "stehenden",
+                "Windrades",
+                "abgebrochen",
+                "war",
+                "."
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 154,
+            "charEnd": 202,
+            "end": 30,
+            "id": 1,
+            "text": "Die Anlage zur Stromerzeugung ist 80 Meter hoch. ",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "tokens": [
+                "Die",
+                "Anlage",
+                "zur",
+                "Stromerzeugung",
+                "ist",
+                "80",
+                "Meter",
+                "hoch",
+                "."
+            ]
+        },
+        {
+            "begin": 30,
+            "charBegin": 203,
+            "charEnd": 310,
+            "end": 50,
+            "id": 2,
+            "text": "Teile des Rotorblattes lagen im Umkreis von 200 Metern verstreut, ein Teil hing noch in luftiger Höhe fest. ",
+            "tokenIds": [
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ],
+            "tokens": [
+                "Teile",
+                "des",
+                "Rotorblattes",
+                "lagen",
+                "im",
+                "Umkreis",
+                "von",
+                "200",
+                "Metern",
+                "verstreut",
+                ",",
+                "ein",
+                "Teil",
+                "hing",
+                "noch",
+                "in",
+                "luftiger",
+                "Höhe",
+                "fest",
+                "."
+            ]
+        },
+        {
+            "begin": 50,
+            "charBegin": 311,
+            "charEnd": 384,
+            "end": 60,
+            "id": 3,
+            "text": "Der Gefahrenbereich musste durch Mitarbeiter der Stadt abgesperrt werden. ",
+            "tokenIds": [
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59
+            ],
+            "tokens": [
+                "Der",
+                "Gefahrenbereich",
+                "musste",
+                "durch",
+                "Mitarbeiter",
+                "der",
+                "Stadt",
+                "abgesperrt",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 60,
+            "charBegin": 385,
+            "charEnd": 457,
+            "end": 74,
+            "id": 4,
+            "text": "Die Anlage war im Jahr 2001 errichtet worden und steht auf einer Anhöhe. ",
+            "tokenIds": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73
+            ],
+            "tokens": [
+                "Die",
+                "Anlage",
+                "war",
+                "im",
+                "Jahr",
+                "2001",
+                "errichtet",
+                "worden",
+                "und",
+                "steht",
+                "auf",
+                "einer",
+                "Anhöhe",
+                "."
+            ]
+        },
+        {
+            "begin": 74,
+            "charBegin": 458,
+            "charEnd": 505,
+            "end": 82,
+            "id": 5,
+            "text": "Die Ursache für die Beschädigung ist unbekannt.",
+            "tokenIds": [
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81
+            ],
+            "tokens": [
+                "Die",
+                "Ursache",
+                "für",
+                "die",
+                "Beschädigung",
+                "ist",
+                "unbekannt",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 12,
+            "id": 1,
+            "sentence": 1,
+            "text": "gestrigen",
+            "word": 2
+        },
+        {
+            "charBegin": 13,
+            "charEnd": 25,
+            "id": 2,
+            "sentence": 1,
+            "text": "Montagmorgen",
+            "word": 3
+        },
+        {
+            "charBegin": 26,
+            "charEnd": 33,
+            "id": 3,
+            "sentence": 1,
+            "text": "stellte",
+            "word": 4
+        },
+        {
+            "charBegin": 34,
+            "charEnd": 38,
+            "id": 4,
+            "sentence": 1,
+            "text": "eine",
+            "word": 5
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 53,
+            "id": 5,
+            "sentence": 1,
+            "text": "Polizeistreife",
+            "word": 6
+        },
+        {
+            "charBegin": 54,
+            "charEnd": 58,
+            "id": 6,
+            "sentence": 1,
+            "text": "fest",
+            "word": 7
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 59,
+            "id": 7,
+            "sentence": 1,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 64,
+            "id": 8,
+            "sentence": 1,
+            "text": "dass",
+            "word": 9
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 68,
+            "id": 9,
+            "sentence": 1,
+            "text": "ein",
+            "word": 10
+        },
+        {
+            "charBegin": 69,
+            "charEnd": 79,
+            "id": 10,
+            "sentence": 1,
+            "text": "Rotorblatt",
+            "word": 11
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 83,
+            "id": 11,
+            "sentence": 1,
+            "text": "des",
+            "word": 12
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 92,
+            "id": 12,
+            "sentence": 1,
+            "text": "zwischen",
+            "word": 13
+        },
+        {
+            "charBegin": 93,
+            "charEnd": 98,
+            "id": 13,
+            "sentence": 1,
+            "text": "Ebern",
+            "word": 14
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 102,
+            "id": 14,
+            "sentence": 1,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 103,
+            "charEnd": 116,
+            "id": 15,
+            "sentence": 1,
+            "text": "Untermerzbach",
+            "word": 16
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 126,
+            "id": 16,
+            "sentence": 1,
+            "text": "stehenden",
+            "word": 17
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 136,
+            "id": 17,
+            "sentence": 1,
+            "text": "Windrades",
+            "word": 18
+        },
+        {
+            "charBegin": 137,
+            "charEnd": 148,
+            "id": 18,
+            "sentence": 1,
+            "text": "abgebrochen",
+            "word": 19
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 152,
+            "id": 19,
+            "sentence": 1,
+            "text": "war",
+            "word": 20
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 153,
+            "id": 20,
+            "sentence": 1,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 157,
+            "id": 21,
+            "sentence": 2,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 164,
+            "id": 22,
+            "sentence": 2,
+            "text": "Anlage",
+            "word": 2
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 168,
+            "id": 23,
+            "sentence": 2,
+            "text": "zur",
+            "word": 3
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 183,
+            "id": 24,
+            "sentence": 2,
+            "text": "Stromerzeugung",
+            "word": 4
+        },
+        {
+            "charBegin": 184,
+            "charEnd": 187,
+            "id": 25,
+            "sentence": 2,
+            "text": "ist",
+            "word": 5
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 190,
+            "id": 26,
+            "sentence": 2,
+            "text": "80",
+            "word": 6
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 196,
+            "id": 27,
+            "sentence": 2,
+            "text": "Meter",
+            "word": 7
+        },
+        {
+            "charBegin": 197,
+            "charEnd": 201,
+            "id": 28,
+            "sentence": 2,
+            "text": "hoch",
+            "word": 8
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 202,
+            "id": 29,
+            "sentence": 2,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 208,
+            "id": 30,
+            "sentence": 3,
+            "text": "Teile",
+            "word": 1
+        },
+        {
+            "charBegin": 209,
+            "charEnd": 212,
+            "id": 31,
+            "sentence": 3,
+            "text": "des",
+            "word": 2
+        },
+        {
+            "charBegin": 213,
+            "charEnd": 225,
+            "id": 32,
+            "sentence": 3,
+            "text": "Rotorblattes",
+            "word": 3
+        },
+        {
+            "charBegin": 226,
+            "charEnd": 231,
+            "id": 33,
+            "sentence": 3,
+            "text": "lagen",
+            "word": 4
+        },
+        {
+            "charBegin": 232,
+            "charEnd": 234,
+            "id": 34,
+            "sentence": 3,
+            "text": "im",
+            "word": 5
+        },
+        {
+            "charBegin": 235,
+            "charEnd": 242,
+            "id": 35,
+            "sentence": 3,
+            "text": "Umkreis",
+            "word": 6
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 246,
+            "id": 36,
+            "sentence": 3,
+            "text": "von",
+            "word": 7
+        },
+        {
+            "charBegin": 247,
+            "charEnd": 250,
+            "id": 37,
+            "sentence": 3,
+            "text": "200",
+            "word": 8
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 257,
+            "id": 38,
+            "sentence": 3,
+            "text": "Metern",
+            "word": 9
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 267,
+            "id": 39,
+            "sentence": 3,
+            "text": "verstreut",
+            "word": 10
+        },
+        {
+            "charBegin": 267,
+            "charEnd": 268,
+            "id": 40,
+            "sentence": 3,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 272,
+            "id": 41,
+            "sentence": 3,
+            "text": "ein",
+            "word": 12
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 277,
+            "id": 42,
+            "sentence": 3,
+            "text": "Teil",
+            "word": 13
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 282,
+            "id": 43,
+            "sentence": 3,
+            "text": "hing",
+            "word": 14
+        },
+        {
+            "charBegin": 283,
+            "charEnd": 287,
+            "id": 44,
+            "sentence": 3,
+            "text": "noch",
+            "word": 15
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 290,
+            "id": 45,
+            "sentence": 3,
+            "text": "in",
+            "word": 16
+        },
+        {
+            "charBegin": 291,
+            "charEnd": 299,
+            "id": 46,
+            "sentence": 3,
+            "text": "luftiger",
+            "word": 17
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 304,
+            "id": 47,
+            "sentence": 3,
+            "text": "Höhe",
+            "word": 18
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 309,
+            "id": 48,
+            "sentence": 3,
+            "text": "fest",
+            "word": 19
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 310,
+            "id": 49,
+            "sentence": 3,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 311,
+            "charEnd": 314,
+            "id": 50,
+            "sentence": 4,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 330,
+            "id": 51,
+            "sentence": 4,
+            "text": "Gefahrenbereich",
+            "word": 2
+        },
+        {
+            "charBegin": 331,
+            "charEnd": 337,
+            "id": 52,
+            "sentence": 4,
+            "text": "musste",
+            "word": 3
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 343,
+            "id": 53,
+            "sentence": 4,
+            "text": "durch",
+            "word": 4
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 355,
+            "id": 54,
+            "sentence": 4,
+            "text": "Mitarbeiter",
+            "word": 5
+        },
+        {
+            "charBegin": 356,
+            "charEnd": 359,
+            "id": 55,
+            "sentence": 4,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 360,
+            "charEnd": 365,
+            "id": 56,
+            "sentence": 4,
+            "text": "Stadt",
+            "word": 7
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 376,
+            "id": 57,
+            "sentence": 4,
+            "text": "abgesperrt",
+            "word": 8
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 383,
+            "id": 58,
+            "sentence": 4,
+            "text": "werden",
+            "word": 9
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 384,
+            "id": 59,
+            "sentence": 4,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 385,
+            "charEnd": 388,
+            "id": 60,
+            "sentence": 5,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 395,
+            "id": 61,
+            "sentence": 5,
+            "text": "Anlage",
+            "word": 2
+        },
+        {
+            "charBegin": 396,
+            "charEnd": 399,
+            "id": 62,
+            "sentence": 5,
+            "text": "war",
+            "word": 3
+        },
+        {
+            "charBegin": 400,
+            "charEnd": 402,
+            "id": 63,
+            "sentence": 5,
+            "text": "im",
+            "word": 4
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 407,
+            "id": 64,
+            "sentence": 5,
+            "text": "Jahr",
+            "word": 5
+        },
+        {
+            "charBegin": 408,
+            "charEnd": 412,
+            "id": 65,
+            "sentence": 5,
+            "text": "2001",
+            "word": 6
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 422,
+            "id": 66,
+            "sentence": 5,
+            "text": "errichtet",
+            "word": 7
+        },
+        {
+            "charBegin": 423,
+            "charEnd": 429,
+            "id": 67,
+            "sentence": 5,
+            "text": "worden",
+            "word": 8
+        },
+        {
+            "charBegin": 430,
+            "charEnd": 433,
+            "id": 68,
+            "sentence": 5,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 434,
+            "charEnd": 439,
+            "id": 69,
+            "sentence": 5,
+            "text": "steht",
+            "word": 10
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 443,
+            "id": 70,
+            "sentence": 5,
+            "text": "auf",
+            "word": 11
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 449,
+            "id": 71,
+            "sentence": 5,
+            "text": "einer",
+            "word": 12
+        },
+        {
+            "charBegin": 450,
+            "charEnd": 456,
+            "id": 72,
+            "sentence": 5,
+            "text": "Anhöhe",
+            "word": 13
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 457,
+            "id": 73,
+            "sentence": 5,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 458,
+            "charEnd": 461,
+            "id": 74,
+            "sentence": 6,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 462,
+            "charEnd": 469,
+            "id": 75,
+            "sentence": 6,
+            "text": "Ursache",
+            "word": 2
+        },
+        {
+            "charBegin": 470,
+            "charEnd": 473,
+            "id": 76,
+            "sentence": 6,
+            "text": "für",
+            "word": 3
+        },
+        {
+            "charBegin": 474,
+            "charEnd": 477,
+            "id": 77,
+            "sentence": 6,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 478,
+            "charEnd": 490,
+            "id": 78,
+            "sentence": 6,
+            "text": "Beschädigung",
+            "word": 5
+        },
+        {
+            "charBegin": 491,
+            "charEnd": 494,
+            "id": 79,
+            "sentence": 6,
+            "text": "ist",
+            "word": 6
+        },
+        {
+            "charBegin": 495,
+            "charEnd": 504,
+            "id": 80,
+            "sentence": 6,
+            "text": "unbekannt",
+            "word": 7
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 505,
+            "id": 81,
+            "sentence": 6,
+            "text": ".",
+            "word": 8
+        }
+    ]
+}

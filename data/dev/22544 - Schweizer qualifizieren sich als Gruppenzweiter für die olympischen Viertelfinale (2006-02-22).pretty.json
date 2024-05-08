@@ -1,0 +1,1488 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 116,
+                        "charBegin": 819,
+                        "charEnd": 822,
+                        "end": 117
+                    },
+                    {
+                        "begin": 118,
+                        "charBegin": 832,
+                        "charEnd": 846,
+                        "end": 119
+                    }
+                ],
+                "text": "ist zuversichtlich",
+                "tokenIds": [
+                    116,
+                    118
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 111,
+                        "charBegin": 775,
+                        "charEnd": 847,
+                        "end": 120
+                    }
+                ],
+                "text": "Der Schweizer Nationaltrainer Ralph Krueger ist hingegen zuversichtlich,",
+                "tokenIds": [
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 120,
+                        "charBegin": 848,
+                        "charEnd": 913,
+                        "end": 130
+                    }
+                ],
+                "text": "die Schweden mit dem aktuellen Schweizer Kader schlagen zu können",
+                "tokenIds": [
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 111,
+                        "charBegin": 775,
+                        "charEnd": 818,
+                        "end": 116
+                    }
+                ],
+                "text": "Der Schweizer Nationaltrainer Ralph Krueger",
+                "tokenIds": [
+                    111,
+                    112,
+                    113,
+                    114,
+                    115
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "22544 - Schweizer qualifizieren sich als Gruppenzweiter für die olympischen Viertelfinale (2006-02-22)",
+    "originalText": "Nach einem ungewohnt passiven Spiel gegen den Gastgeber Italien konnte sich die Schweizer Eishockey-Nationalmannschaft für das Viertelfinale qualifizieren. Im Gegensatz zu den überraschenden Erfolgen gegen den amtierenden Weltmeister Tschechien (3:2) und aktuellen Olympiasieger Kanada (0:2) sowie das erkämpfte Unentschieden gegen den deutschen Nachbarn spielten die Eidgenossen gegen Italien eher eine Pflichtpartie ohne Zulagen. Nach 60 Minuten konnte sich die Schweizer Nationalmannschaft mit Beihilfe in ein 3:3-Unentschieden retten und somit in der Gruppe A an zweiter Stelle für die Viertelfinalrunde qualifizieren.\n\nSeit heute Nachmittag steht Schweden als Viertelfinalgegner fest. Diese treffen mit der Schweiz als Kontrahenten auf ihren so genannten „Traumgegner“. Der Schweizer Nationaltrainer Ralph Krueger ist hingegen zuversichtlich, die Schweden mit dem aktuellen Schweizer Kader schlagen zu können.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 155,
+            "end": 19,
+            "id": 0,
+            "text": "Nach einem ungewohnt passiven Spiel gegen den Gastgeber Italien konnte sich die Schweizer Eishockey-Nationalmannschaft für das Viertelfinale qualifizieren. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "tokens": [
+                "Nach",
+                "einem",
+                "ungewohnt",
+                "passiven",
+                "Spiel",
+                "gegen",
+                "den",
+                "Gastgeber",
+                "Italien",
+                "konnte",
+                "sich",
+                "die",
+                "Schweizer",
+                "Eishockey-Nationalmannschaft",
+                "für",
+                "das",
+                "Viertelfinale",
+                "qualifizieren",
+                "."
+            ]
+        },
+        {
+            "begin": 19,
+            "charBegin": 156,
+            "charEnd": 431,
+            "end": 59,
+            "id": 1,
+            "text": "Im Gegensatz zu den überraschenden Erfolgen gegen den amtierenden Weltmeister Tschechien (3:2) und aktuellen Olympiasieger Kanada (0:2) sowie das erkämpfte Unentschieden gegen den deutschen Nachbarn spielten die Eidgenossen gegen Italien eher eine Pflichtpartie ohne Zulagen. ",
+            "tokenIds": [
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58
+            ],
+            "tokens": [
+                "Im",
+                "Gegensatz",
+                "zu",
+                "den",
+                "überraschenden",
+                "Erfolgen",
+                "gegen",
+                "den",
+                "amtierenden",
+                "Weltmeister",
+                "Tschechien",
+                "(",
+                "3:2",
+                ")",
+                "und",
+                "aktuellen",
+                "Olympiasieger",
+                "Kanada",
+                "(",
+                "0:2",
+                ")",
+                "sowie",
+                "das",
+                "erkämpfte",
+                "Unentschieden",
+                "gegen",
+                "den",
+                "deutschen",
+                "Nachbarn",
+                "spielten",
+                "die",
+                "Eidgenossen",
+                "gegen",
+                "Italien",
+                "eher",
+                "eine",
+                "Pflichtpartie",
+                "ohne",
+                "Zulagen",
+                "."
+            ]
+        },
+        {
+            "begin": 59,
+            "charBegin": 432,
+            "charEnd": 622,
+            "end": 87,
+            "id": 2,
+            "text": "Nach 60 Minuten konnte sich die Schweizer Nationalmannschaft mit Beihilfe in ein 3:3-Unentschieden retten und somit in der Gruppe A an zweiter Stelle für die Viertelfinalrunde qualifizieren.",
+            "tokenIds": [
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+            ],
+            "tokens": [
+                "Nach",
+                "60",
+                "Minuten",
+                "konnte",
+                "sich",
+                "die",
+                "Schweizer",
+                "Nationalmannschaft",
+                "mit",
+                "Beihilfe",
+                "in",
+                "ein",
+                "3:3-Unentschieden",
+                "retten",
+                "und",
+                "somit",
+                "in",
+                "der",
+                "Gruppe",
+                "A",
+                "an",
+                "zweiter",
+                "Stelle",
+                "für",
+                "die",
+                "Viertelfinalrunde",
+                "qualifizieren",
+                "."
+            ]
+        },
+        {
+            "begin": 87,
+            "charBegin": 624,
+            "charEnd": 689,
+            "end": 96,
+            "id": 3,
+            "text": "Seit heute Nachmittag steht Schweden als Viertelfinalgegner fest. ",
+            "tokenIds": [
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95
+            ],
+            "tokens": [
+                "Seit",
+                "heute",
+                "Nachmittag",
+                "steht",
+                "Schweden",
+                "als",
+                "Viertelfinalgegner",
+                "fest",
+                "."
+            ]
+        },
+        {
+            "begin": 96,
+            "charBegin": 690,
+            "charEnd": 774,
+            "end": 111,
+            "id": 4,
+            "text": "Diese treffen mit der Schweiz als Kontrahenten auf ihren so genannten „Traumgegner“. ",
+            "tokenIds": [
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110
+            ],
+            "tokens": [
+                "Diese",
+                "treffen",
+                "mit",
+                "der",
+                "Schweiz",
+                "als",
+                "Kontrahenten",
+                "auf",
+                "ihren",
+                "so",
+                "genannten",
+                "„",
+                "Traumgegner",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 111,
+            "charBegin": 775,
+            "charEnd": 914,
+            "end": 131,
+            "id": 5,
+            "text": "Der Schweizer Nationaltrainer Ralph Krueger ist hingegen zuversichtlich, die Schweden mit dem aktuellen Schweizer Kader schlagen zu können.",
+            "tokenIds": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130
+            ],
+            "tokens": [
+                "Der",
+                "Schweizer",
+                "Nationaltrainer",
+                "Ralph",
+                "Krueger",
+                "ist",
+                "hingegen",
+                "zuversichtlich",
+                ",",
+                "die",
+                "Schweden",
+                "mit",
+                "dem",
+                "aktuellen",
+                "Schweizer",
+                "Kader",
+                "schlagen",
+                "zu",
+                "können",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 4,
+            "id": 0,
+            "sentence": 1,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 5,
+            "charEnd": 10,
+            "id": 1,
+            "sentence": 1,
+            "text": "einem",
+            "word": 2
+        },
+        {
+            "charBegin": 11,
+            "charEnd": 20,
+            "id": 2,
+            "sentence": 1,
+            "text": "ungewohnt",
+            "word": 3
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 29,
+            "id": 3,
+            "sentence": 1,
+            "text": "passiven",
+            "word": 4
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 35,
+            "id": 4,
+            "sentence": 1,
+            "text": "Spiel",
+            "word": 5
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 41,
+            "id": 5,
+            "sentence": 1,
+            "text": "gegen",
+            "word": 6
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 45,
+            "id": 6,
+            "sentence": 1,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 46,
+            "charEnd": 55,
+            "id": 7,
+            "sentence": 1,
+            "text": "Gastgeber",
+            "word": 8
+        },
+        {
+            "charBegin": 56,
+            "charEnd": 63,
+            "id": 8,
+            "sentence": 1,
+            "text": "Italien",
+            "word": 9
+        },
+        {
+            "charBegin": 64,
+            "charEnd": 70,
+            "id": 9,
+            "sentence": 1,
+            "text": "konnte",
+            "word": 10
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 75,
+            "id": 10,
+            "sentence": 1,
+            "text": "sich",
+            "word": 11
+        },
+        {
+            "charBegin": 76,
+            "charEnd": 79,
+            "id": 11,
+            "sentence": 1,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 89,
+            "id": 12,
+            "sentence": 1,
+            "text": "Schweizer",
+            "word": 13
+        },
+        {
+            "charBegin": 90,
+            "charEnd": 118,
+            "id": 13,
+            "sentence": 1,
+            "text": "Eishockey-Nationalmannschaft",
+            "word": 14
+        },
+        {
+            "charBegin": 119,
+            "charEnd": 122,
+            "id": 14,
+            "sentence": 1,
+            "text": "für",
+            "word": 15
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 126,
+            "id": 15,
+            "sentence": 1,
+            "text": "das",
+            "word": 16
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 140,
+            "id": 16,
+            "sentence": 1,
+            "text": "Viertelfinale",
+            "word": 17
+        },
+        {
+            "charBegin": 141,
+            "charEnd": 154,
+            "id": 17,
+            "sentence": 1,
+            "text": "qualifizieren",
+            "word": 18
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 155,
+            "id": 18,
+            "sentence": 1,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 158,
+            "id": 19,
+            "sentence": 2,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 159,
+            "charEnd": 168,
+            "id": 20,
+            "sentence": 2,
+            "text": "Gegensatz",
+            "word": 2
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 171,
+            "id": 21,
+            "sentence": 2,
+            "text": "zu",
+            "word": 3
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 175,
+            "id": 22,
+            "sentence": 2,
+            "text": "den",
+            "word": 4
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 190,
+            "id": 23,
+            "sentence": 2,
+            "text": "überraschenden",
+            "word": 5
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 199,
+            "id": 24,
+            "sentence": 2,
+            "text": "Erfolgen",
+            "word": 6
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 205,
+            "id": 25,
+            "sentence": 2,
+            "text": "gegen",
+            "word": 7
+        },
+        {
+            "charBegin": 206,
+            "charEnd": 209,
+            "id": 26,
+            "sentence": 2,
+            "text": "den",
+            "word": 8
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 221,
+            "id": 27,
+            "sentence": 2,
+            "text": "amtierenden",
+            "word": 9
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 233,
+            "id": 28,
+            "sentence": 2,
+            "text": "Weltmeister",
+            "word": 10
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 244,
+            "id": 29,
+            "sentence": 2,
+            "text": "Tschechien",
+            "word": 11
+        },
+        {
+            "charBegin": 245,
+            "charEnd": 246,
+            "id": 30,
+            "sentence": 2,
+            "text": "(",
+            "word": 12
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 249,
+            "id": 31,
+            "sentence": 2,
+            "text": "3:2",
+            "word": 13
+        },
+        {
+            "charBegin": 249,
+            "charEnd": 250,
+            "id": 32,
+            "sentence": 2,
+            "text": ")",
+            "word": 14
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 254,
+            "id": 33,
+            "sentence": 2,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 255,
+            "charEnd": 264,
+            "id": 34,
+            "sentence": 2,
+            "text": "aktuellen",
+            "word": 16
+        },
+        {
+            "charBegin": 265,
+            "charEnd": 278,
+            "id": 35,
+            "sentence": 2,
+            "text": "Olympiasieger",
+            "word": 17
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 285,
+            "id": 36,
+            "sentence": 2,
+            "text": "Kanada",
+            "word": 18
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 287,
+            "id": 37,
+            "sentence": 2,
+            "text": "(",
+            "word": 19
+        },
+        {
+            "charBegin": 287,
+            "charEnd": 290,
+            "id": 38,
+            "sentence": 2,
+            "text": "0:2",
+            "word": 20
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 291,
+            "id": 39,
+            "sentence": 2,
+            "text": ")",
+            "word": 21
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 297,
+            "id": 40,
+            "sentence": 2,
+            "text": "sowie",
+            "word": 22
+        },
+        {
+            "charBegin": 298,
+            "charEnd": 301,
+            "id": 41,
+            "sentence": 2,
+            "text": "das",
+            "word": 23
+        },
+        {
+            "charBegin": 302,
+            "charEnd": 311,
+            "id": 42,
+            "sentence": 2,
+            "text": "erkämpfte",
+            "word": 24
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 325,
+            "id": 43,
+            "sentence": 2,
+            "text": "Unentschieden",
+            "word": 25
+        },
+        {
+            "charBegin": 326,
+            "charEnd": 331,
+            "id": 44,
+            "sentence": 2,
+            "text": "gegen",
+            "word": 26
+        },
+        {
+            "charBegin": 332,
+            "charEnd": 335,
+            "id": 45,
+            "sentence": 2,
+            "text": "den",
+            "word": 27
+        },
+        {
+            "charBegin": 336,
+            "charEnd": 345,
+            "id": 46,
+            "sentence": 2,
+            "text": "deutschen",
+            "word": 28
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 354,
+            "id": 47,
+            "sentence": 2,
+            "text": "Nachbarn",
+            "word": 29
+        },
+        {
+            "charBegin": 355,
+            "charEnd": 363,
+            "id": 48,
+            "sentence": 2,
+            "text": "spielten",
+            "word": 30
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 367,
+            "id": 49,
+            "sentence": 2,
+            "text": "die",
+            "word": 31
+        },
+        {
+            "charBegin": 368,
+            "charEnd": 379,
+            "id": 50,
+            "sentence": 2,
+            "text": "Eidgenossen",
+            "word": 32
+        },
+        {
+            "charBegin": 380,
+            "charEnd": 385,
+            "id": 51,
+            "sentence": 2,
+            "text": "gegen",
+            "word": 33
+        },
+        {
+            "charBegin": 386,
+            "charEnd": 393,
+            "id": 52,
+            "sentence": 2,
+            "text": "Italien",
+            "word": 34
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 398,
+            "id": 53,
+            "sentence": 2,
+            "text": "eher",
+            "word": 35
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 403,
+            "id": 54,
+            "sentence": 2,
+            "text": "eine",
+            "word": 36
+        },
+        {
+            "charBegin": 404,
+            "charEnd": 417,
+            "id": 55,
+            "sentence": 2,
+            "text": "Pflichtpartie",
+            "word": 37
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 422,
+            "id": 56,
+            "sentence": 2,
+            "text": "ohne",
+            "word": 38
+        },
+        {
+            "charBegin": 423,
+            "charEnd": 430,
+            "id": 57,
+            "sentence": 2,
+            "text": "Zulagen",
+            "word": 39
+        },
+        {
+            "charBegin": 430,
+            "charEnd": 431,
+            "id": 58,
+            "sentence": 2,
+            "text": ".",
+            "word": 40
+        },
+        {
+            "charBegin": 432,
+            "charEnd": 436,
+            "id": 59,
+            "sentence": 3,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 437,
+            "charEnd": 439,
+            "id": 60,
+            "sentence": 3,
+            "text": "60",
+            "word": 2
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 447,
+            "id": 61,
+            "sentence": 3,
+            "text": "Minuten",
+            "word": 3
+        },
+        {
+            "charBegin": 448,
+            "charEnd": 454,
+            "id": 62,
+            "sentence": 3,
+            "text": "konnte",
+            "word": 4
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 459,
+            "id": 63,
+            "sentence": 3,
+            "text": "sich",
+            "word": 5
+        },
+        {
+            "charBegin": 460,
+            "charEnd": 463,
+            "id": 64,
+            "sentence": 3,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 473,
+            "id": 65,
+            "sentence": 3,
+            "text": "Schweizer",
+            "word": 7
+        },
+        {
+            "charBegin": 474,
+            "charEnd": 492,
+            "id": 66,
+            "sentence": 3,
+            "text": "Nationalmannschaft",
+            "word": 8
+        },
+        {
+            "charBegin": 493,
+            "charEnd": 496,
+            "id": 67,
+            "sentence": 3,
+            "text": "mit",
+            "word": 9
+        },
+        {
+            "charBegin": 497,
+            "charEnd": 505,
+            "id": 68,
+            "sentence": 3,
+            "text": "Beihilfe",
+            "word": 10
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 508,
+            "id": 69,
+            "sentence": 3,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 509,
+            "charEnd": 512,
+            "id": 70,
+            "sentence": 3,
+            "text": "ein",
+            "word": 12
+        },
+        {
+            "charBegin": 513,
+            "charEnd": 530,
+            "id": 71,
+            "sentence": 3,
+            "text": "3:3-Unentschieden",
+            "word": 13
+        },
+        {
+            "charBegin": 531,
+            "charEnd": 537,
+            "id": 72,
+            "sentence": 3,
+            "text": "retten",
+            "word": 14
+        },
+        {
+            "charBegin": 538,
+            "charEnd": 541,
+            "id": 73,
+            "sentence": 3,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 547,
+            "id": 74,
+            "sentence": 3,
+            "text": "somit",
+            "word": 16
+        },
+        {
+            "charBegin": 548,
+            "charEnd": 550,
+            "id": 75,
+            "sentence": 3,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 551,
+            "charEnd": 554,
+            "id": 76,
+            "sentence": 3,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 555,
+            "charEnd": 561,
+            "id": 77,
+            "sentence": 3,
+            "text": "Gruppe",
+            "word": 19
+        },
+        {
+            "charBegin": 562,
+            "charEnd": 563,
+            "id": 78,
+            "sentence": 3,
+            "text": "A",
+            "word": 20
+        },
+        {
+            "charBegin": 564,
+            "charEnd": 566,
+            "id": 79,
+            "sentence": 3,
+            "text": "an",
+            "word": 21
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 574,
+            "id": 80,
+            "sentence": 3,
+            "text": "zweiter",
+            "word": 22
+        },
+        {
+            "charBegin": 575,
+            "charEnd": 581,
+            "id": 81,
+            "sentence": 3,
+            "text": "Stelle",
+            "word": 23
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 585,
+            "id": 82,
+            "sentence": 3,
+            "text": "für",
+            "word": 24
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 589,
+            "id": 83,
+            "sentence": 3,
+            "text": "die",
+            "word": 25
+        },
+        {
+            "charBegin": 590,
+            "charEnd": 607,
+            "id": 84,
+            "sentence": 3,
+            "text": "Viertelfinalrunde",
+            "word": 26
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 621,
+            "id": 85,
+            "sentence": 3,
+            "text": "qualifizieren",
+            "word": 27
+        },
+        {
+            "charBegin": 621,
+            "charEnd": 622,
+            "id": 86,
+            "sentence": 3,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 628,
+            "id": 87,
+            "sentence": 4,
+            "text": "Seit",
+            "word": 1
+        },
+        {
+            "charBegin": 629,
+            "charEnd": 634,
+            "id": 88,
+            "sentence": 4,
+            "text": "heute",
+            "word": 2
+        },
+        {
+            "charBegin": 635,
+            "charEnd": 645,
+            "id": 89,
+            "sentence": 4,
+            "text": "Nachmittag",
+            "word": 3
+        },
+        {
+            "charBegin": 646,
+            "charEnd": 651,
+            "id": 90,
+            "sentence": 4,
+            "text": "steht",
+            "word": 4
+        },
+        {
+            "charBegin": 652,
+            "charEnd": 660,
+            "id": 91,
+            "sentence": 4,
+            "text": "Schweden",
+            "word": 5
+        },
+        {
+            "charBegin": 661,
+            "charEnd": 664,
+            "id": 92,
+            "sentence": 4,
+            "text": "als",
+            "word": 6
+        },
+        {
+            "charBegin": 665,
+            "charEnd": 683,
+            "id": 93,
+            "sentence": 4,
+            "text": "Viertelfinalgegner",
+            "word": 7
+        },
+        {
+            "charBegin": 684,
+            "charEnd": 688,
+            "id": 94,
+            "sentence": 4,
+            "text": "fest",
+            "word": 8
+        },
+        {
+            "charBegin": 688,
+            "charEnd": 689,
+            "id": 95,
+            "sentence": 4,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 690,
+            "charEnd": 695,
+            "id": 96,
+            "sentence": 5,
+            "text": "Diese",
+            "word": 1
+        },
+        {
+            "charBegin": 696,
+            "charEnd": 703,
+            "id": 97,
+            "sentence": 5,
+            "text": "treffen",
+            "word": 2
+        },
+        {
+            "charBegin": 704,
+            "charEnd": 707,
+            "id": 98,
+            "sentence": 5,
+            "text": "mit",
+            "word": 3
+        },
+        {
+            "charBegin": 708,
+            "charEnd": 711,
+            "id": 99,
+            "sentence": 5,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 712,
+            "charEnd": 719,
+            "id": 100,
+            "sentence": 5,
+            "text": "Schweiz",
+            "word": 5
+        },
+        {
+            "charBegin": 720,
+            "charEnd": 723,
+            "id": 101,
+            "sentence": 5,
+            "text": "als",
+            "word": 6
+        },
+        {
+            "charBegin": 724,
+            "charEnd": 736,
+            "id": 102,
+            "sentence": 5,
+            "text": "Kontrahenten",
+            "word": 7
+        },
+        {
+            "charBegin": 737,
+            "charEnd": 740,
+            "id": 103,
+            "sentence": 5,
+            "text": "auf",
+            "word": 8
+        },
+        {
+            "charBegin": 741,
+            "charEnd": 746,
+            "id": 104,
+            "sentence": 5,
+            "text": "ihren",
+            "word": 9
+        },
+        {
+            "charBegin": 747,
+            "charEnd": 749,
+            "id": 105,
+            "sentence": 5,
+            "text": "so",
+            "word": 10
+        },
+        {
+            "charBegin": 750,
+            "charEnd": 759,
+            "id": 106,
+            "sentence": 5,
+            "text": "genannten",
+            "word": 11
+        },
+        {
+            "charBegin": 760,
+            "charEnd": 761,
+            "id": 107,
+            "sentence": 5,
+            "text": "„",
+            "word": 12
+        },
+        {
+            "charBegin": 761,
+            "charEnd": 772,
+            "id": 108,
+            "sentence": 5,
+            "text": "Traumgegner",
+            "word": 13
+        },
+        {
+            "charBegin": 772,
+            "charEnd": 773,
+            "id": 109,
+            "sentence": 5,
+            "text": "“",
+            "word": 14
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 774,
+            "id": 110,
+            "sentence": 5,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 778,
+            "id": 111,
+            "sentence": 6,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 779,
+            "charEnd": 788,
+            "id": 112,
+            "sentence": 6,
+            "text": "Schweizer",
+            "word": 2
+        },
+        {
+            "charBegin": 789,
+            "charEnd": 804,
+            "id": 113,
+            "sentence": 6,
+            "text": "Nationaltrainer",
+            "word": 3
+        },
+        {
+            "charBegin": 805,
+            "charEnd": 810,
+            "id": 114,
+            "sentence": 6,
+            "text": "Ralph",
+            "word": 4
+        },
+        {
+            "charBegin": 811,
+            "charEnd": 818,
+            "id": 115,
+            "sentence": 6,
+            "text": "Krueger",
+            "word": 5
+        },
+        {
+            "charBegin": 819,
+            "charEnd": 822,
+            "id": 116,
+            "sentence": 6,
+            "text": "ist",
+            "word": 6
+        },
+        {
+            "charBegin": 823,
+            "charEnd": 831,
+            "id": 117,
+            "sentence": 6,
+            "text": "hingegen",
+            "word": 7
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 846,
+            "id": 118,
+            "sentence": 6,
+            "text": "zuversichtlich",
+            "word": 8
+        },
+        {
+            "charBegin": 846,
+            "charEnd": 847,
+            "id": 119,
+            "sentence": 6,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 848,
+            "charEnd": 851,
+            "id": 120,
+            "sentence": 6,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 852,
+            "charEnd": 860,
+            "id": 121,
+            "sentence": 6,
+            "text": "Schweden",
+            "word": 11
+        },
+        {
+            "charBegin": 861,
+            "charEnd": 864,
+            "id": 122,
+            "sentence": 6,
+            "text": "mit",
+            "word": 12
+        },
+        {
+            "charBegin": 865,
+            "charEnd": 868,
+            "id": 123,
+            "sentence": 6,
+            "text": "dem",
+            "word": 13
+        },
+        {
+            "charBegin": 869,
+            "charEnd": 878,
+            "id": 124,
+            "sentence": 6,
+            "text": "aktuellen",
+            "word": 14
+        },
+        {
+            "charBegin": 879,
+            "charEnd": 888,
+            "id": 125,
+            "sentence": 6,
+            "text": "Schweizer",
+            "word": 15
+        },
+        {
+            "charBegin": 889,
+            "charEnd": 894,
+            "id": 126,
+            "sentence": 6,
+            "text": "Kader",
+            "word": 16
+        },
+        {
+            "charBegin": 895,
+            "charEnd": 903,
+            "id": 127,
+            "sentence": 6,
+            "text": "schlagen",
+            "word": 17
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 906,
+            "id": 128,
+            "sentence": 6,
+            "text": "zu",
+            "word": 18
+        },
+        {
+            "charBegin": 907,
+            "charEnd": 913,
+            "id": 129,
+            "sentence": 6,
+            "text": "können",
+            "word": 19
+        },
+        {
+            "charBegin": 913,
+            "charEnd": 914,
+            "id": 130,
+            "sentence": 6,
+            "text": ".",
+            "word": 20
+        }
+    ]
+}

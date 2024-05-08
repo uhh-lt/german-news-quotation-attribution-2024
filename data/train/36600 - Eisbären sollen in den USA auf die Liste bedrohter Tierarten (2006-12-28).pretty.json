@@ -1,0 +1,3478 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 3,
+                        "charBegin": 24,
+                        "charEnd": 43,
+                        "end": 6
+                    }
+                ],
+                "text": "denken darüber nach",
+                "tokenIds": [
+                    3,
+                    4,
+                    5
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 44,
+                        "end": 7
+                    }
+                ],
+                "text": "Die Vereinigten Staaten denken darüber nach,",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 7,
+                        "charBegin": 45,
+                        "charEnd": 93,
+                        "end": 15
+                    }
+                ],
+                "text": "Eisbären auf die Liste bedrohter Arten zu setzen",
+                "tokenIds": [
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 38,
+                        "charBegin": 222,
+                        "charEnd": 324,
+                        "end": 52
+                    }
+                ],
+                "text": "Als Ursache für die schwindenden Eisbärpopulationen wird das Abschmelzen des arktischen Eises genannt.",
+                "tokenIds": [
+                    38,
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 23,
+                        "end": 3
+                    }
+                ],
+                "text": "Die Vereinigten Staaten",
+                "tokenIds": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 136,
+                        "charBegin": 864,
+                        "charEnd": 869,
+                        "end": 137
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    136
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 135,
+                        "charBegin": 862,
+                        "charEnd": 902,
+                        "end": 140
+                    }
+                ],
+                "text": ", sagte US-Innenminister Dirk Kempthorne",
+                "tokenIds": [
+                    135,
+                    136,
+                    137,
+                    138,
+                    139
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 52,
+                        "charBegin": 326,
+                        "charEnd": 862,
+                        "end": 135
+                    }
+                ],
+                "text": "„Heute legt das Fisch- und Wildamt des US-Innenministeriums einen Vorschlag vor, Eisbären als eine bedrohte Art im Sinne der Verordnung für bedrohte Arten aufzulisten. Wir bringen diesen Vorschlag ein, weil eine wissenschaftliche Überprüfung der Art durch das Fisch- und Wildamt ergeben hat, dass Populationen durch das zurückgehende Meereseis bedroht sein könnten. Eisbären benutzen dieses Eis als Grundlage für viele Aktivitäten, die entscheidend für ihren Lebensablauf sind, einschließlich Jagd auf ihre Hauptbeute, arktische Robben“",
+                "tokenIds": [
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84,
+                    85,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 137,
+                        "charBegin": 870,
+                        "charEnd": 902,
+                        "end": 140
+                    }
+                ],
+                "text": "US-Innenminister Dirk Kempthorne",
+                "tokenIds": [
+                    137,
+                    138,
+                    139
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 165,
+                        "charBegin": 1051,
+                        "charEnd": 1056,
+                        "end": 166
+                    },
+                    {
+                        "begin": 167,
+                        "charBegin": 1068,
+                        "charEnd": 1073,
+                        "end": 168
+                    }
+                ],
+                "text": "fügte hinzu",
+                "tokenIds": [
+                    165,
+                    167
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 164,
+                        "charBegin": 1049,
+                        "charEnd": 1073,
+                        "end": 168
+                    }
+                ],
+                "text": ", fügte Kempthorne hinzu",
+                "tokenIds": [
+                    164,
+                    165,
+                    166,
+                    167
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 141,
+                        "charBegin": 905,
+                        "charEnd": 1049,
+                        "end": 164
+                    }
+                ],
+                "text": "„[Eisbären] gehören zu den ultimativen Überlebenskünstlern der Natur, aber wir befürchten, dass ihr Lebensraum buchstäblich wegschmelzen könnte“",
+                "tokenIds": [
+                    141,
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    162,
+                    163
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 166,
+                        "charBegin": 1057,
+                        "charEnd": 1067,
+                        "end": 167
+                    }
+                ],
+                "text": "Kempthorne",
+                "tokenIds": [
+                    166
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 192,
+                        "charBegin": 1176,
+                        "charEnd": 1248,
+                        "end": 204
+                    },
+                    {
+                        "begin": 193,
+                        "charBegin": 1178,
+                        "charEnd": 1183,
+                        "end": 194
+                    }
+                ],
+                "text": ", sagte Andrew Wetzler, ein Anwalt des Natural Resources Defense Council sagte",
+                "tokenIds": [
+                    192,
+                    193,
+                    194,
+                    195,
+                    196,
+                    197,
+                    198,
+                    199,
+                    200,
+                    201,
+                    202,
+                    203,
+                    193
+                ]
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 169,
+                        "charBegin": 1076,
+                        "charEnd": 1176,
+                        "end": 192
+                    }
+                ],
+                "text": "„[Es gab bisher noch keine Art], die in so engem Zusammenhang mit dem Klimawandel auf die Liste kam“",
+                "tokenIds": [
+                    169,
+                    170,
+                    171,
+                    172,
+                    173,
+                    174,
+                    175,
+                    176,
+                    177,
+                    178,
+                    179,
+                    180,
+                    181,
+                    182,
+                    183,
+                    184,
+                    185,
+                    186,
+                    187,
+                    188,
+                    189,
+                    190,
+                    191
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 194,
+                        "charBegin": 1184,
+                        "charEnd": 1248,
+                        "end": 204
+                    }
+                ],
+                "text": "Andrew Wetzler, ein Anwalt des Natural Resources Defense Council",
+                "tokenIds": [
+                    194,
+                    195,
+                    196,
+                    197,
+                    198,
+                    199,
+                    200,
+                    201,
+                    202,
+                    203
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 206,
+                        "charBegin": 1254,
+                        "charEnd": 1259,
+                        "end": 207
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    206
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 205,
+                        "charBegin": 1251,
+                        "charEnd": 1267,
+                        "end": 209
+                    }
+                ],
+                "text": "Er sagte weiter:",
+                "tokenIds": [
+                    205,
+                    206,
+                    207,
+                    208
+                ]
+            },
+            "hasNested": false,
+            "id": 5,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 209,
+                        "charBegin": 1268,
+                        "charEnd": 1440,
+                        "end": 240
+                    }
+                ],
+                "text": "„Die globale Erwärmung ist die mit Abstand größte Bedrohung für das Überleben der Eisbären, und es bedarf der Regierung, sich der Auswirkungen auf die Eisbären anzunehmen.“",
+                "tokenIds": [
+                    209,
+                    210,
+                    211,
+                    212,
+                    213,
+                    214,
+                    215,
+                    216,
+                    217,
+                    218,
+                    219,
+                    220,
+                    221,
+                    222,
+                    223,
+                    224,
+                    225,
+                    226,
+                    227,
+                    228,
+                    229,
+                    230,
+                    231,
+                    232,
+                    233,
+                    234,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 205,
+                        "charBegin": 1251,
+                        "charEnd": 1253,
+                        "end": 206
+                    }
+                ],
+                "text": "Er",
+                "tokenIds": [
+                    205
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "36600 - Eisbären sollen in den USA auf die Liste bedrohter Tierarten (2006-12-28)",
+    "originalText": "Die Vereinigten Staaten denken darüber nach, Eisbären auf die Liste bedrohter Arten zu setzen. Falls die Eisbären als bedroht eingestuft werden, wäre es die erste Art, die aufgrund der globalen Klimaerwärmung dazu kommt.\n\nAls Ursache für die schwindenden Eisbärpopulationen wird das Abschmelzen des arktischen Eises genannt.\n\n„Heute legt das Fisch- und Wildamt des US-Innenministeriums einen Vorschlag vor, Eisbären als eine bedrohte Art im Sinne der Verordnung für bedrohte Arten aufzulisten. Wir bringen diesen Vorschlag ein, weil eine wissenschaftliche Überprüfung der Art durch das Fisch- und Wildamt ergeben hat, dass Populationen durch das zurückgehende Meereseis bedroht sein könnten. Eisbären benutzen dieses Eis als Grundlage für viele Aktivitäten, die entscheidend für ihren Lebensablauf sind, einschließlich Jagd auf ihre Hauptbeute, arktische Robben“, sagte US-Innenminister Dirk Kempthorne.\n\n„[Eisbären] gehören zu den ultimativen Überlebenskünstlern der Natur, aber wir befürchten, dass ihr Lebensraum buchstäblich wegschmelzen könnte“, fügte Kempthorne hinzu.\n\n„[Es gab bisher noch keine Art], die in so engem Zusammenhang mit dem Klimawandel auf die Liste kam“, sagte Andrew Wetzler, ein Anwalt des Natural Resources Defense Council.\n\nEr sagte weiter: „Die globale Erwärmung ist die mit Abstand größte Bedrohung für das Überleben der Eisbären, und es bedarf der Regierung, sich der Auswirkungen auf die Eisbären anzunehmen.“\n\nArten auf der Liste bedrohter Arten stehen eine Stufe unter der Einstufung für gefährdete Arten.\n\nIm Moment leben weltweit mindestens 25.000 Eisbären, mit mindestens 4.700 davon im Bundesstaat Alaska.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 94,
+            "end": 16,
+            "id": 0,
+            "text": "Die Vereinigten Staaten denken darüber nach, Eisbären auf die Liste bedrohter Arten zu setzen. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "tokens": [
+                "Die",
+                "Vereinigten",
+                "Staaten",
+                "denken",
+                "darüber",
+                "nach",
+                ",",
+                "Eisbären",
+                "auf",
+                "die",
+                "Liste",
+                "bedrohter",
+                "Arten",
+                "zu",
+                "setzen",
+                "."
+            ]
+        },
+        {
+            "begin": 16,
+            "charBegin": 95,
+            "charEnd": 220,
+            "end": 38,
+            "id": 1,
+            "text": "Falls die Eisbären als bedroht eingestuft werden, wäre es die erste Art, die aufgrund der globalen Klimaerwärmung dazu kommt.",
+            "tokenIds": [
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37
+            ],
+            "tokens": [
+                "Falls",
+                "die",
+                "Eisbären",
+                "als",
+                "bedroht",
+                "eingestuft",
+                "werden",
+                ",",
+                "wäre",
+                "es",
+                "die",
+                "erste",
+                "Art",
+                ",",
+                "die",
+                "aufgrund",
+                "der",
+                "globalen",
+                "Klimaerwärmung",
+                "dazu",
+                "kommt",
+                "."
+            ]
+        },
+        {
+            "begin": 38,
+            "charBegin": 222,
+            "charEnd": 324,
+            "end": 52,
+            "id": 2,
+            "text": "Als Ursache für die schwindenden Eisbärpopulationen wird das Abschmelzen des arktischen Eises genannt.",
+            "tokenIds": [
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51
+            ],
+            "tokens": [
+                "Als",
+                "Ursache",
+                "für",
+                "die",
+                "schwindenden",
+                "Eisbärpopulationen",
+                "wird",
+                "das",
+                "Abschmelzen",
+                "des",
+                "arktischen",
+                "Eises",
+                "genannt",
+                "."
+            ]
+        },
+        {
+            "begin": 52,
+            "charBegin": 326,
+            "charEnd": 327,
+            "end": 53,
+            "id": 3,
+            "text": "„",
+            "tokenIds": [
+                52
+            ],
+            "tokens": [
+                "„"
+            ]
+        },
+        {
+            "begin": 53,
+            "charBegin": 327,
+            "charEnd": 493,
+            "end": 79,
+            "id": 4,
+            "text": "Heute legt das Fisch- und Wildamt des US-Innenministeriums einen Vorschlag vor, Eisbären als eine bedrohte Art im Sinne der Verordnung für bedrohte Arten aufzulisten. ",
+            "tokenIds": [
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78
+            ],
+            "tokens": [
+                "Heute",
+                "legt",
+                "das",
+                "Fisch-",
+                "und",
+                "Wildamt",
+                "des",
+                "US-Innenministeriums",
+                "einen",
+                "Vorschlag",
+                "vor",
+                ",",
+                "Eisbären",
+                "als",
+                "eine",
+                "bedrohte",
+                "Art",
+                "im",
+                "Sinne",
+                "der",
+                "Verordnung",
+                "für",
+                "bedrohte",
+                "Arten",
+                "aufzulisten",
+                "."
+            ]
+        },
+        {
+            "begin": 79,
+            "charBegin": 494,
+            "charEnd": 691,
+            "end": 109,
+            "id": 5,
+            "text": "Wir bringen diesen Vorschlag ein, weil eine wissenschaftliche Überprüfung der Art durch das Fisch- und Wildamt ergeben hat, dass Populationen durch das zurückgehende Meereseis bedroht sein könnten. ",
+            "tokenIds": [
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108
+            ],
+            "tokens": [
+                "Wir",
+                "bringen",
+                "diesen",
+                "Vorschlag",
+                "ein",
+                ",",
+                "weil",
+                "eine",
+                "wissenschaftliche",
+                "Überprüfung",
+                "der",
+                "Art",
+                "durch",
+                "das",
+                "Fisch-",
+                "und",
+                "Wildamt",
+                "ergeben",
+                "hat",
+                ",",
+                "dass",
+                "Populationen",
+                "durch",
+                "das",
+                "zurückgehende",
+                "Meereseis",
+                "bedroht",
+                "sein",
+                "könnten",
+                "."
+            ]
+        },
+        {
+            "begin": 109,
+            "charBegin": 692,
+            "charEnd": 903,
+            "end": 141,
+            "id": 6,
+            "text": "Eisbären benutzen dieses Eis als Grundlage für viele Aktivitäten, die entscheidend für ihren Lebensablauf sind, einschließlich Jagd auf ihre Hauptbeute, arktische Robben“, sagte US-Innenminister Dirk Kempthorne.",
+            "tokenIds": [
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140
+            ],
+            "tokens": [
+                "Eisbären",
+                "benutzen",
+                "dieses",
+                "Eis",
+                "als",
+                "Grundlage",
+                "für",
+                "viele",
+                "Aktivitäten",
+                ",",
+                "die",
+                "entscheidend",
+                "für",
+                "ihren",
+                "Lebensablauf",
+                "sind",
+                ",",
+                "einschließlich",
+                "Jagd",
+                "auf",
+                "ihre",
+                "Hauptbeute",
+                ",",
+                "arktische",
+                "Robben",
+                "“",
+                ",",
+                "sagte",
+                "US-Innenminister",
+                "Dirk",
+                "Kempthorne",
+                "."
+            ]
+        },
+        {
+            "begin": 141,
+            "charBegin": 905,
+            "charEnd": 1074,
+            "end": 169,
+            "id": 7,
+            "text": "„[Eisbären] gehören zu den ultimativen Überlebenskünstlern der Natur, aber wir befürchten, dass ihr Lebensraum buchstäblich wegschmelzen könnte“, fügte Kempthorne hinzu.",
+            "tokenIds": [
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168
+            ],
+            "tokens": [
+                "„",
+                "[",
+                "Eisbären",
+                "]",
+                "gehören",
+                "zu",
+                "den",
+                "ultimativen",
+                "Überlebenskünstlern",
+                "der",
+                "Natur",
+                ",",
+                "aber",
+                "wir",
+                "befürchten",
+                ",",
+                "dass",
+                "ihr",
+                "Lebensraum",
+                "buchstäblich",
+                "wegschmelzen",
+                "könnte",
+                "“",
+                ",",
+                "fügte",
+                "Kempthorne",
+                "hinzu",
+                "."
+            ]
+        },
+        {
+            "begin": 169,
+            "charBegin": 1076,
+            "charEnd": 1249,
+            "end": 205,
+            "id": 8,
+            "text": "„[Es gab bisher noch keine Art], die in so engem Zusammenhang mit dem Klimawandel auf die Liste kam“, sagte Andrew Wetzler, ein Anwalt des Natural Resources Defense Council.",
+            "tokenIds": [
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204
+            ],
+            "tokens": [
+                "„",
+                "[",
+                "Es",
+                "gab",
+                "bisher",
+                "noch",
+                "keine",
+                "Art",
+                "]",
+                ",",
+                "die",
+                "in",
+                "so",
+                "engem",
+                "Zusammenhang",
+                "mit",
+                "dem",
+                "Klimawandel",
+                "auf",
+                "die",
+                "Liste",
+                "kam",
+                "“",
+                ",",
+                "sagte",
+                "Andrew",
+                "Wetzler",
+                ",",
+                "ein",
+                "Anwalt",
+                "des",
+                "Natural",
+                "Resources",
+                "Defense",
+                "Council",
+                "."
+            ]
+        },
+        {
+            "begin": 205,
+            "charBegin": 1251,
+            "charEnd": 1440,
+            "end": 240,
+            "id": 9,
+            "text": "Er sagte weiter: „Die globale Erwärmung ist die mit Abstand größte Bedrohung für das Überleben der Eisbären, und es bedarf der Regierung, sich der Auswirkungen auf die Eisbären anzunehmen.“",
+            "tokenIds": [
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239
+            ],
+            "tokens": [
+                "Er",
+                "sagte",
+                "weiter",
+                ":",
+                "„",
+                "Die",
+                "globale",
+                "Erwärmung",
+                "ist",
+                "die",
+                "mit",
+                "Abstand",
+                "größte",
+                "Bedrohung",
+                "für",
+                "das",
+                "Überleben",
+                "der",
+                "Eisbären",
+                ",",
+                "und",
+                "es",
+                "bedarf",
+                "der",
+                "Regierung",
+                ",",
+                "sich",
+                "der",
+                "Auswirkungen",
+                "auf",
+                "die",
+                "Eisbären",
+                "anzunehmen",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "begin": 240,
+            "charBegin": 1442,
+            "charEnd": 1538,
+            "end": 256,
+            "id": 10,
+            "text": "Arten auf der Liste bedrohter Arten stehen eine Stufe unter der Einstufung für gefährdete Arten.",
+            "tokenIds": [
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255
+            ],
+            "tokens": [
+                "Arten",
+                "auf",
+                "der",
+                "Liste",
+                "bedrohter",
+                "Arten",
+                "stehen",
+                "eine",
+                "Stufe",
+                "unter",
+                "der",
+                "Einstufung",
+                "für",
+                "gefährdete",
+                "Arten",
+                "."
+            ]
+        },
+        {
+            "begin": 256,
+            "charBegin": 1540,
+            "charEnd": 1642,
+            "end": 272,
+            "id": 11,
+            "text": "Im Moment leben weltweit mindestens 25.000 Eisbären, mit mindestens 4.700 davon im Bundesstaat Alaska.",
+            "tokenIds": [
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271
+            ],
+            "tokens": [
+                "Im",
+                "Moment",
+                "leben",
+                "weltweit",
+                "mindestens",
+                "25.000",
+                "Eisbären",
+                ",",
+                "mit",
+                "mindestens",
+                "4.700",
+                "davon",
+                "im",
+                "Bundesstaat",
+                "Alaska",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 15,
+            "id": 1,
+            "sentence": 1,
+            "text": "Vereinigten",
+            "word": 2
+        },
+        {
+            "charBegin": 16,
+            "charEnd": 23,
+            "id": 2,
+            "sentence": 1,
+            "text": "Staaten",
+            "word": 3
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 30,
+            "id": 3,
+            "sentence": 1,
+            "text": "denken",
+            "word": 4
+        },
+        {
+            "charBegin": 31,
+            "charEnd": 38,
+            "id": 4,
+            "sentence": 1,
+            "text": "darüber",
+            "word": 5
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 43,
+            "id": 5,
+            "sentence": 1,
+            "text": "nach",
+            "word": 6
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 44,
+            "id": 6,
+            "sentence": 1,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 53,
+            "id": 7,
+            "sentence": 1,
+            "text": "Eisbären",
+            "word": 8
+        },
+        {
+            "charBegin": 54,
+            "charEnd": 57,
+            "id": 8,
+            "sentence": 1,
+            "text": "auf",
+            "word": 9
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 61,
+            "id": 9,
+            "sentence": 1,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 62,
+            "charEnd": 67,
+            "id": 10,
+            "sentence": 1,
+            "text": "Liste",
+            "word": 11
+        },
+        {
+            "charBegin": 68,
+            "charEnd": 77,
+            "id": 11,
+            "sentence": 1,
+            "text": "bedrohter",
+            "word": 12
+        },
+        {
+            "charBegin": 78,
+            "charEnd": 83,
+            "id": 12,
+            "sentence": 1,
+            "text": "Arten",
+            "word": 13
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 86,
+            "id": 13,
+            "sentence": 1,
+            "text": "zu",
+            "word": 14
+        },
+        {
+            "charBegin": 87,
+            "charEnd": 93,
+            "id": 14,
+            "sentence": 1,
+            "text": "setzen",
+            "word": 15
+        },
+        {
+            "charBegin": 93,
+            "charEnd": 94,
+            "id": 15,
+            "sentence": 1,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 100,
+            "id": 16,
+            "sentence": 2,
+            "text": "Falls",
+            "word": 1
+        },
+        {
+            "charBegin": 101,
+            "charEnd": 104,
+            "id": 17,
+            "sentence": 2,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 105,
+            "charEnd": 113,
+            "id": 18,
+            "sentence": 2,
+            "text": "Eisbären",
+            "word": 3
+        },
+        {
+            "charBegin": 114,
+            "charEnd": 117,
+            "id": 19,
+            "sentence": 2,
+            "text": "als",
+            "word": 4
+        },
+        {
+            "charBegin": 118,
+            "charEnd": 125,
+            "id": 20,
+            "sentence": 2,
+            "text": "bedroht",
+            "word": 5
+        },
+        {
+            "charBegin": 126,
+            "charEnd": 136,
+            "id": 21,
+            "sentence": 2,
+            "text": "eingestuft",
+            "word": 6
+        },
+        {
+            "charBegin": 137,
+            "charEnd": 143,
+            "id": 22,
+            "sentence": 2,
+            "text": "werden",
+            "word": 7
+        },
+        {
+            "charBegin": 143,
+            "charEnd": 144,
+            "id": 23,
+            "sentence": 2,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 145,
+            "charEnd": 149,
+            "id": 24,
+            "sentence": 2,
+            "text": "wäre",
+            "word": 9
+        },
+        {
+            "charBegin": 150,
+            "charEnd": 152,
+            "id": 25,
+            "sentence": 2,
+            "text": "es",
+            "word": 10
+        },
+        {
+            "charBegin": 153,
+            "charEnd": 156,
+            "id": 26,
+            "sentence": 2,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 162,
+            "id": 27,
+            "sentence": 2,
+            "text": "erste",
+            "word": 12
+        },
+        {
+            "charBegin": 163,
+            "charEnd": 166,
+            "id": 28,
+            "sentence": 2,
+            "text": "Art",
+            "word": 13
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 167,
+            "id": 29,
+            "sentence": 2,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 171,
+            "id": 30,
+            "sentence": 2,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 180,
+            "id": 31,
+            "sentence": 2,
+            "text": "aufgrund",
+            "word": 16
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 184,
+            "id": 32,
+            "sentence": 2,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 193,
+            "id": 33,
+            "sentence": 2,
+            "text": "globalen",
+            "word": 18
+        },
+        {
+            "charBegin": 194,
+            "charEnd": 208,
+            "id": 34,
+            "sentence": 2,
+            "text": "Klimaerwärmung",
+            "word": 19
+        },
+        {
+            "charBegin": 209,
+            "charEnd": 213,
+            "id": 35,
+            "sentence": 2,
+            "text": "dazu",
+            "word": 20
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 219,
+            "id": 36,
+            "sentence": 2,
+            "text": "kommt",
+            "word": 21
+        },
+        {
+            "charBegin": 219,
+            "charEnd": 220,
+            "id": 37,
+            "sentence": 2,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 225,
+            "id": 38,
+            "sentence": 3,
+            "text": "Als",
+            "word": 1
+        },
+        {
+            "charBegin": 226,
+            "charEnd": 233,
+            "id": 39,
+            "sentence": 3,
+            "text": "Ursache",
+            "word": 2
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 237,
+            "id": 40,
+            "sentence": 3,
+            "text": "für",
+            "word": 3
+        },
+        {
+            "charBegin": 238,
+            "charEnd": 241,
+            "id": 41,
+            "sentence": 3,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 242,
+            "charEnd": 254,
+            "id": 42,
+            "sentence": 3,
+            "text": "schwindenden",
+            "word": 5
+        },
+        {
+            "charBegin": 255,
+            "charEnd": 273,
+            "id": 43,
+            "sentence": 3,
+            "text": "Eisbärpopulationen",
+            "word": 6
+        },
+        {
+            "charBegin": 274,
+            "charEnd": 278,
+            "id": 44,
+            "sentence": 3,
+            "text": "wird",
+            "word": 7
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 282,
+            "id": 45,
+            "sentence": 3,
+            "text": "das",
+            "word": 8
+        },
+        {
+            "charBegin": 283,
+            "charEnd": 294,
+            "id": 46,
+            "sentence": 3,
+            "text": "Abschmelzen",
+            "word": 9
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 298,
+            "id": 47,
+            "sentence": 3,
+            "text": "des",
+            "word": 10
+        },
+        {
+            "charBegin": 299,
+            "charEnd": 309,
+            "id": 48,
+            "sentence": 3,
+            "text": "arktischen",
+            "word": 11
+        },
+        {
+            "charBegin": 310,
+            "charEnd": 315,
+            "id": 49,
+            "sentence": 3,
+            "text": "Eises",
+            "word": 12
+        },
+        {
+            "charBegin": 316,
+            "charEnd": 323,
+            "id": 50,
+            "sentence": 3,
+            "text": "genannt",
+            "word": 13
+        },
+        {
+            "charBegin": 323,
+            "charEnd": 324,
+            "id": 51,
+            "sentence": 3,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 326,
+            "charEnd": 327,
+            "id": 52,
+            "sentence": 4,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 327,
+            "charEnd": 332,
+            "id": 53,
+            "sentence": 5,
+            "text": "Heute",
+            "word": 1
+        },
+        {
+            "charBegin": 333,
+            "charEnd": 337,
+            "id": 54,
+            "sentence": 5,
+            "text": "legt",
+            "word": 2
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 341,
+            "id": 55,
+            "sentence": 5,
+            "text": "das",
+            "word": 3
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 348,
+            "id": 56,
+            "sentence": 5,
+            "text": "Fisch-",
+            "word": 4
+        },
+        {
+            "charBegin": 349,
+            "charEnd": 352,
+            "id": 57,
+            "sentence": 5,
+            "text": "und",
+            "word": 5
+        },
+        {
+            "charBegin": 353,
+            "charEnd": 360,
+            "id": 58,
+            "sentence": 5,
+            "text": "Wildamt",
+            "word": 6
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 364,
+            "id": 59,
+            "sentence": 5,
+            "text": "des",
+            "word": 7
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 385,
+            "id": 60,
+            "sentence": 5,
+            "text": "US-Innenministeriums",
+            "word": 8
+        },
+        {
+            "charBegin": 386,
+            "charEnd": 391,
+            "id": 61,
+            "sentence": 5,
+            "text": "einen",
+            "word": 9
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 401,
+            "id": 62,
+            "sentence": 5,
+            "text": "Vorschlag",
+            "word": 10
+        },
+        {
+            "charBegin": 402,
+            "charEnd": 405,
+            "id": 63,
+            "sentence": 5,
+            "text": "vor",
+            "word": 11
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 406,
+            "id": 64,
+            "sentence": 5,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 415,
+            "id": 65,
+            "sentence": 5,
+            "text": "Eisbären",
+            "word": 13
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 419,
+            "id": 66,
+            "sentence": 5,
+            "text": "als",
+            "word": 14
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 424,
+            "id": 67,
+            "sentence": 5,
+            "text": "eine",
+            "word": 15
+        },
+        {
+            "charBegin": 425,
+            "charEnd": 433,
+            "id": 68,
+            "sentence": 5,
+            "text": "bedrohte",
+            "word": 16
+        },
+        {
+            "charBegin": 434,
+            "charEnd": 437,
+            "id": 69,
+            "sentence": 5,
+            "text": "Art",
+            "word": 17
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 440,
+            "id": 70,
+            "sentence": 5,
+            "text": "im",
+            "word": 18
+        },
+        {
+            "charBegin": 441,
+            "charEnd": 446,
+            "id": 71,
+            "sentence": 5,
+            "text": "Sinne",
+            "word": 19
+        },
+        {
+            "charBegin": 447,
+            "charEnd": 450,
+            "id": 72,
+            "sentence": 5,
+            "text": "der",
+            "word": 20
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 461,
+            "id": 73,
+            "sentence": 5,
+            "text": "Verordnung",
+            "word": 21
+        },
+        {
+            "charBegin": 462,
+            "charEnd": 465,
+            "id": 74,
+            "sentence": 5,
+            "text": "für",
+            "word": 22
+        },
+        {
+            "charBegin": 466,
+            "charEnd": 474,
+            "id": 75,
+            "sentence": 5,
+            "text": "bedrohte",
+            "word": 23
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 480,
+            "id": 76,
+            "sentence": 5,
+            "text": "Arten",
+            "word": 24
+        },
+        {
+            "charBegin": 481,
+            "charEnd": 492,
+            "id": 77,
+            "sentence": 5,
+            "text": "aufzulisten",
+            "word": 25
+        },
+        {
+            "charBegin": 492,
+            "charEnd": 493,
+            "id": 78,
+            "sentence": 5,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 494,
+            "charEnd": 497,
+            "id": 79,
+            "sentence": 6,
+            "text": "Wir",
+            "word": 1
+        },
+        {
+            "charBegin": 498,
+            "charEnd": 505,
+            "id": 80,
+            "sentence": 6,
+            "text": "bringen",
+            "word": 2
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 512,
+            "id": 81,
+            "sentence": 6,
+            "text": "diesen",
+            "word": 3
+        },
+        {
+            "charBegin": 513,
+            "charEnd": 522,
+            "id": 82,
+            "sentence": 6,
+            "text": "Vorschlag",
+            "word": 4
+        },
+        {
+            "charBegin": 523,
+            "charEnd": 526,
+            "id": 83,
+            "sentence": 6,
+            "text": "ein",
+            "word": 5
+        },
+        {
+            "charBegin": 526,
+            "charEnd": 527,
+            "id": 84,
+            "sentence": 6,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 528,
+            "charEnd": 532,
+            "id": 85,
+            "sentence": 6,
+            "text": "weil",
+            "word": 7
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 537,
+            "id": 86,
+            "sentence": 6,
+            "text": "eine",
+            "word": 8
+        },
+        {
+            "charBegin": 538,
+            "charEnd": 555,
+            "id": 87,
+            "sentence": 6,
+            "text": "wissenschaftliche",
+            "word": 9
+        },
+        {
+            "charBegin": 556,
+            "charEnd": 567,
+            "id": 88,
+            "sentence": 6,
+            "text": "Überprüfung",
+            "word": 10
+        },
+        {
+            "charBegin": 568,
+            "charEnd": 571,
+            "id": 89,
+            "sentence": 6,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 572,
+            "charEnd": 575,
+            "id": 90,
+            "sentence": 6,
+            "text": "Art",
+            "word": 12
+        },
+        {
+            "charBegin": 576,
+            "charEnd": 581,
+            "id": 91,
+            "sentence": 6,
+            "text": "durch",
+            "word": 13
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 585,
+            "id": 92,
+            "sentence": 6,
+            "text": "das",
+            "word": 14
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 592,
+            "id": 93,
+            "sentence": 6,
+            "text": "Fisch-",
+            "word": 15
+        },
+        {
+            "charBegin": 593,
+            "charEnd": 596,
+            "id": 94,
+            "sentence": 6,
+            "text": "und",
+            "word": 16
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 604,
+            "id": 95,
+            "sentence": 6,
+            "text": "Wildamt",
+            "word": 17
+        },
+        {
+            "charBegin": 605,
+            "charEnd": 612,
+            "id": 96,
+            "sentence": 6,
+            "text": "ergeben",
+            "word": 18
+        },
+        {
+            "charBegin": 613,
+            "charEnd": 616,
+            "id": 97,
+            "sentence": 6,
+            "text": "hat",
+            "word": 19
+        },
+        {
+            "charBegin": 616,
+            "charEnd": 617,
+            "id": 98,
+            "sentence": 6,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 618,
+            "charEnd": 622,
+            "id": 99,
+            "sentence": 6,
+            "text": "dass",
+            "word": 21
+        },
+        {
+            "charBegin": 623,
+            "charEnd": 635,
+            "id": 100,
+            "sentence": 6,
+            "text": "Populationen",
+            "word": 22
+        },
+        {
+            "charBegin": 636,
+            "charEnd": 641,
+            "id": 101,
+            "sentence": 6,
+            "text": "durch",
+            "word": 23
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 645,
+            "id": 102,
+            "sentence": 6,
+            "text": "das",
+            "word": 24
+        },
+        {
+            "charBegin": 646,
+            "charEnd": 659,
+            "id": 103,
+            "sentence": 6,
+            "text": "zurückgehende",
+            "word": 25
+        },
+        {
+            "charBegin": 660,
+            "charEnd": 669,
+            "id": 104,
+            "sentence": 6,
+            "text": "Meereseis",
+            "word": 26
+        },
+        {
+            "charBegin": 670,
+            "charEnd": 677,
+            "id": 105,
+            "sentence": 6,
+            "text": "bedroht",
+            "word": 27
+        },
+        {
+            "charBegin": 678,
+            "charEnd": 682,
+            "id": 106,
+            "sentence": 6,
+            "text": "sein",
+            "word": 28
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 690,
+            "id": 107,
+            "sentence": 6,
+            "text": "könnten",
+            "word": 29
+        },
+        {
+            "charBegin": 690,
+            "charEnd": 691,
+            "id": 108,
+            "sentence": 6,
+            "text": ".",
+            "word": 30
+        },
+        {
+            "charBegin": 692,
+            "charEnd": 700,
+            "id": 109,
+            "sentence": 7,
+            "text": "Eisbären",
+            "word": 1
+        },
+        {
+            "charBegin": 701,
+            "charEnd": 709,
+            "id": 110,
+            "sentence": 7,
+            "text": "benutzen",
+            "word": 2
+        },
+        {
+            "charBegin": 710,
+            "charEnd": 716,
+            "id": 111,
+            "sentence": 7,
+            "text": "dieses",
+            "word": 3
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 720,
+            "id": 112,
+            "sentence": 7,
+            "text": "Eis",
+            "word": 4
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 724,
+            "id": 113,
+            "sentence": 7,
+            "text": "als",
+            "word": 5
+        },
+        {
+            "charBegin": 725,
+            "charEnd": 734,
+            "id": 114,
+            "sentence": 7,
+            "text": "Grundlage",
+            "word": 6
+        },
+        {
+            "charBegin": 735,
+            "charEnd": 738,
+            "id": 115,
+            "sentence": 7,
+            "text": "für",
+            "word": 7
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 744,
+            "id": 116,
+            "sentence": 7,
+            "text": "viele",
+            "word": 8
+        },
+        {
+            "charBegin": 745,
+            "charEnd": 756,
+            "id": 117,
+            "sentence": 7,
+            "text": "Aktivitäten",
+            "word": 9
+        },
+        {
+            "charBegin": 756,
+            "charEnd": 757,
+            "id": 118,
+            "sentence": 7,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 758,
+            "charEnd": 761,
+            "id": 119,
+            "sentence": 7,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 762,
+            "charEnd": 774,
+            "id": 120,
+            "sentence": 7,
+            "text": "entscheidend",
+            "word": 12
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 778,
+            "id": 121,
+            "sentence": 7,
+            "text": "für",
+            "word": 13
+        },
+        {
+            "charBegin": 779,
+            "charEnd": 784,
+            "id": 122,
+            "sentence": 7,
+            "text": "ihren",
+            "word": 14
+        },
+        {
+            "charBegin": 785,
+            "charEnd": 797,
+            "id": 123,
+            "sentence": 7,
+            "text": "Lebensablauf",
+            "word": 15
+        },
+        {
+            "charBegin": 798,
+            "charEnd": 802,
+            "id": 124,
+            "sentence": 7,
+            "text": "sind",
+            "word": 16
+        },
+        {
+            "charBegin": 802,
+            "charEnd": 803,
+            "id": 125,
+            "sentence": 7,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 804,
+            "charEnd": 818,
+            "id": 126,
+            "sentence": 7,
+            "text": "einschließlich",
+            "word": 18
+        },
+        {
+            "charBegin": 819,
+            "charEnd": 823,
+            "id": 127,
+            "sentence": 7,
+            "text": "Jagd",
+            "word": 19
+        },
+        {
+            "charBegin": 824,
+            "charEnd": 827,
+            "id": 128,
+            "sentence": 7,
+            "text": "auf",
+            "word": 20
+        },
+        {
+            "charBegin": 828,
+            "charEnd": 832,
+            "id": 129,
+            "sentence": 7,
+            "text": "ihre",
+            "word": 21
+        },
+        {
+            "charBegin": 833,
+            "charEnd": 843,
+            "id": 130,
+            "sentence": 7,
+            "text": "Hauptbeute",
+            "word": 22
+        },
+        {
+            "charBegin": 843,
+            "charEnd": 844,
+            "id": 131,
+            "sentence": 7,
+            "text": ",",
+            "word": 23
+        },
+        {
+            "charBegin": 845,
+            "charEnd": 854,
+            "id": 132,
+            "sentence": 7,
+            "text": "arktische",
+            "word": 24
+        },
+        {
+            "charBegin": 855,
+            "charEnd": 861,
+            "id": 133,
+            "sentence": 7,
+            "text": "Robben",
+            "word": 25
+        },
+        {
+            "charBegin": 861,
+            "charEnd": 862,
+            "id": 134,
+            "sentence": 7,
+            "text": "“",
+            "word": 26
+        },
+        {
+            "charBegin": 862,
+            "charEnd": 863,
+            "id": 135,
+            "sentence": 7,
+            "text": ",",
+            "word": 27
+        },
+        {
+            "charBegin": 864,
+            "charEnd": 869,
+            "id": 136,
+            "sentence": 7,
+            "text": "sagte",
+            "word": 28
+        },
+        {
+            "charBegin": 870,
+            "charEnd": 886,
+            "id": 137,
+            "sentence": 7,
+            "text": "US-Innenminister",
+            "word": 29
+        },
+        {
+            "charBegin": 887,
+            "charEnd": 891,
+            "id": 138,
+            "sentence": 7,
+            "text": "Dirk",
+            "word": 30
+        },
+        {
+            "charBegin": 892,
+            "charEnd": 902,
+            "id": 139,
+            "sentence": 7,
+            "text": "Kempthorne",
+            "word": 31
+        },
+        {
+            "charBegin": 902,
+            "charEnd": 903,
+            "id": 140,
+            "sentence": 7,
+            "text": ".",
+            "word": 32
+        },
+        {
+            "charBegin": 905,
+            "charEnd": 906,
+            "id": 141,
+            "sentence": 8,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 906,
+            "charEnd": 907,
+            "id": 142,
+            "sentence": 8,
+            "text": "[",
+            "word": 2
+        },
+        {
+            "charBegin": 907,
+            "charEnd": 915,
+            "id": 143,
+            "sentence": 8,
+            "text": "Eisbären",
+            "word": 3
+        },
+        {
+            "charBegin": 915,
+            "charEnd": 916,
+            "id": 144,
+            "sentence": 8,
+            "text": "]",
+            "word": 4
+        },
+        {
+            "charBegin": 917,
+            "charEnd": 924,
+            "id": 145,
+            "sentence": 8,
+            "text": "gehören",
+            "word": 5
+        },
+        {
+            "charBegin": 925,
+            "charEnd": 927,
+            "id": 146,
+            "sentence": 8,
+            "text": "zu",
+            "word": 6
+        },
+        {
+            "charBegin": 928,
+            "charEnd": 931,
+            "id": 147,
+            "sentence": 8,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 932,
+            "charEnd": 943,
+            "id": 148,
+            "sentence": 8,
+            "text": "ultimativen",
+            "word": 8
+        },
+        {
+            "charBegin": 944,
+            "charEnd": 963,
+            "id": 149,
+            "sentence": 8,
+            "text": "Überlebenskünstlern",
+            "word": 9
+        },
+        {
+            "charBegin": 964,
+            "charEnd": 967,
+            "id": 150,
+            "sentence": 8,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 968,
+            "charEnd": 973,
+            "id": 151,
+            "sentence": 8,
+            "text": "Natur",
+            "word": 11
+        },
+        {
+            "charBegin": 973,
+            "charEnd": 974,
+            "id": 152,
+            "sentence": 8,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 975,
+            "charEnd": 979,
+            "id": 153,
+            "sentence": 8,
+            "text": "aber",
+            "word": 13
+        },
+        {
+            "charBegin": 980,
+            "charEnd": 983,
+            "id": 154,
+            "sentence": 8,
+            "text": "wir",
+            "word": 14
+        },
+        {
+            "charBegin": 984,
+            "charEnd": 994,
+            "id": 155,
+            "sentence": 8,
+            "text": "befürchten",
+            "word": 15
+        },
+        {
+            "charBegin": 994,
+            "charEnd": 995,
+            "id": 156,
+            "sentence": 8,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 996,
+            "charEnd": 1000,
+            "id": 157,
+            "sentence": 8,
+            "text": "dass",
+            "word": 17
+        },
+        {
+            "charBegin": 1001,
+            "charEnd": 1004,
+            "id": 158,
+            "sentence": 8,
+            "text": "ihr",
+            "word": 18
+        },
+        {
+            "charBegin": 1005,
+            "charEnd": 1015,
+            "id": 159,
+            "sentence": 8,
+            "text": "Lebensraum",
+            "word": 19
+        },
+        {
+            "charBegin": 1016,
+            "charEnd": 1028,
+            "id": 160,
+            "sentence": 8,
+            "text": "buchstäblich",
+            "word": 20
+        },
+        {
+            "charBegin": 1029,
+            "charEnd": 1041,
+            "id": 161,
+            "sentence": 8,
+            "text": "wegschmelzen",
+            "word": 21
+        },
+        {
+            "charBegin": 1042,
+            "charEnd": 1048,
+            "id": 162,
+            "sentence": 8,
+            "text": "könnte",
+            "word": 22
+        },
+        {
+            "charBegin": 1048,
+            "charEnd": 1049,
+            "id": 163,
+            "sentence": 8,
+            "text": "“",
+            "word": 23
+        },
+        {
+            "charBegin": 1049,
+            "charEnd": 1050,
+            "id": 164,
+            "sentence": 8,
+            "text": ",",
+            "word": 24
+        },
+        {
+            "charBegin": 1051,
+            "charEnd": 1056,
+            "id": 165,
+            "sentence": 8,
+            "text": "fügte",
+            "word": 25
+        },
+        {
+            "charBegin": 1057,
+            "charEnd": 1067,
+            "id": 166,
+            "sentence": 8,
+            "text": "Kempthorne",
+            "word": 26
+        },
+        {
+            "charBegin": 1068,
+            "charEnd": 1073,
+            "id": 167,
+            "sentence": 8,
+            "text": "hinzu",
+            "word": 27
+        },
+        {
+            "charBegin": 1073,
+            "charEnd": 1074,
+            "id": 168,
+            "sentence": 8,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 1076,
+            "charEnd": 1077,
+            "id": 169,
+            "sentence": 9,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 1077,
+            "charEnd": 1078,
+            "id": 170,
+            "sentence": 9,
+            "text": "[",
+            "word": 2
+        },
+        {
+            "charBegin": 1078,
+            "charEnd": 1080,
+            "id": 171,
+            "sentence": 9,
+            "text": "Es",
+            "word": 3
+        },
+        {
+            "charBegin": 1081,
+            "charEnd": 1084,
+            "id": 172,
+            "sentence": 9,
+            "text": "gab",
+            "word": 4
+        },
+        {
+            "charBegin": 1085,
+            "charEnd": 1091,
+            "id": 173,
+            "sentence": 9,
+            "text": "bisher",
+            "word": 5
+        },
+        {
+            "charBegin": 1092,
+            "charEnd": 1096,
+            "id": 174,
+            "sentence": 9,
+            "text": "noch",
+            "word": 6
+        },
+        {
+            "charBegin": 1097,
+            "charEnd": 1102,
+            "id": 175,
+            "sentence": 9,
+            "text": "keine",
+            "word": 7
+        },
+        {
+            "charBegin": 1103,
+            "charEnd": 1106,
+            "id": 176,
+            "sentence": 9,
+            "text": "Art",
+            "word": 8
+        },
+        {
+            "charBegin": 1106,
+            "charEnd": 1107,
+            "id": 177,
+            "sentence": 9,
+            "text": "]",
+            "word": 9
+        },
+        {
+            "charBegin": 1107,
+            "charEnd": 1108,
+            "id": 178,
+            "sentence": 9,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 1109,
+            "charEnd": 1112,
+            "id": 179,
+            "sentence": 9,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 1113,
+            "charEnd": 1115,
+            "id": 180,
+            "sentence": 9,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 1116,
+            "charEnd": 1118,
+            "id": 181,
+            "sentence": 9,
+            "text": "so",
+            "word": 13
+        },
+        {
+            "charBegin": 1119,
+            "charEnd": 1124,
+            "id": 182,
+            "sentence": 9,
+            "text": "engem",
+            "word": 14
+        },
+        {
+            "charBegin": 1125,
+            "charEnd": 1137,
+            "id": 183,
+            "sentence": 9,
+            "text": "Zusammenhang",
+            "word": 15
+        },
+        {
+            "charBegin": 1138,
+            "charEnd": 1141,
+            "id": 184,
+            "sentence": 9,
+            "text": "mit",
+            "word": 16
+        },
+        {
+            "charBegin": 1142,
+            "charEnd": 1145,
+            "id": 185,
+            "sentence": 9,
+            "text": "dem",
+            "word": 17
+        },
+        {
+            "charBegin": 1146,
+            "charEnd": 1157,
+            "id": 186,
+            "sentence": 9,
+            "text": "Klimawandel",
+            "word": 18
+        },
+        {
+            "charBegin": 1158,
+            "charEnd": 1161,
+            "id": 187,
+            "sentence": 9,
+            "text": "auf",
+            "word": 19
+        },
+        {
+            "charBegin": 1162,
+            "charEnd": 1165,
+            "id": 188,
+            "sentence": 9,
+            "text": "die",
+            "word": 20
+        },
+        {
+            "charBegin": 1166,
+            "charEnd": 1171,
+            "id": 189,
+            "sentence": 9,
+            "text": "Liste",
+            "word": 21
+        },
+        {
+            "charBegin": 1172,
+            "charEnd": 1175,
+            "id": 190,
+            "sentence": 9,
+            "text": "kam",
+            "word": 22
+        },
+        {
+            "charBegin": 1175,
+            "charEnd": 1176,
+            "id": 191,
+            "sentence": 9,
+            "text": "“",
+            "word": 23
+        },
+        {
+            "charBegin": 1176,
+            "charEnd": 1177,
+            "id": 192,
+            "sentence": 9,
+            "text": ",",
+            "word": 24
+        },
+        {
+            "charBegin": 1178,
+            "charEnd": 1183,
+            "id": 193,
+            "sentence": 9,
+            "text": "sagte",
+            "word": 25
+        },
+        {
+            "charBegin": 1184,
+            "charEnd": 1190,
+            "id": 194,
+            "sentence": 9,
+            "text": "Andrew",
+            "word": 26
+        },
+        {
+            "charBegin": 1191,
+            "charEnd": 1198,
+            "id": 195,
+            "sentence": 9,
+            "text": "Wetzler",
+            "word": 27
+        },
+        {
+            "charBegin": 1198,
+            "charEnd": 1199,
+            "id": 196,
+            "sentence": 9,
+            "text": ",",
+            "word": 28
+        },
+        {
+            "charBegin": 1200,
+            "charEnd": 1203,
+            "id": 197,
+            "sentence": 9,
+            "text": "ein",
+            "word": 29
+        },
+        {
+            "charBegin": 1204,
+            "charEnd": 1210,
+            "id": 198,
+            "sentence": 9,
+            "text": "Anwalt",
+            "word": 30
+        },
+        {
+            "charBegin": 1211,
+            "charEnd": 1214,
+            "id": 199,
+            "sentence": 9,
+            "text": "des",
+            "word": 31
+        },
+        {
+            "charBegin": 1215,
+            "charEnd": 1222,
+            "id": 200,
+            "sentence": 9,
+            "text": "Natural",
+            "word": 32
+        },
+        {
+            "charBegin": 1223,
+            "charEnd": 1232,
+            "id": 201,
+            "sentence": 9,
+            "text": "Resources",
+            "word": 33
+        },
+        {
+            "charBegin": 1233,
+            "charEnd": 1240,
+            "id": 202,
+            "sentence": 9,
+            "text": "Defense",
+            "word": 34
+        },
+        {
+            "charBegin": 1241,
+            "charEnd": 1248,
+            "id": 203,
+            "sentence": 9,
+            "text": "Council",
+            "word": 35
+        },
+        {
+            "charBegin": 1248,
+            "charEnd": 1249,
+            "id": 204,
+            "sentence": 9,
+            "text": ".",
+            "word": 36
+        },
+        {
+            "charBegin": 1251,
+            "charEnd": 1253,
+            "id": 205,
+            "sentence": 10,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 1254,
+            "charEnd": 1259,
+            "id": 206,
+            "sentence": 10,
+            "text": "sagte",
+            "word": 2
+        },
+        {
+            "charBegin": 1260,
+            "charEnd": 1266,
+            "id": 207,
+            "sentence": 10,
+            "text": "weiter",
+            "word": 3
+        },
+        {
+            "charBegin": 1266,
+            "charEnd": 1267,
+            "id": 208,
+            "sentence": 10,
+            "text": ":",
+            "word": 4
+        },
+        {
+            "charBegin": 1268,
+            "charEnd": 1269,
+            "id": 209,
+            "sentence": 10,
+            "text": "„",
+            "word": 5
+        },
+        {
+            "charBegin": 1269,
+            "charEnd": 1272,
+            "id": 210,
+            "sentence": 10,
+            "text": "Die",
+            "word": 6
+        },
+        {
+            "charBegin": 1273,
+            "charEnd": 1280,
+            "id": 211,
+            "sentence": 10,
+            "text": "globale",
+            "word": 7
+        },
+        {
+            "charBegin": 1281,
+            "charEnd": 1290,
+            "id": 212,
+            "sentence": 10,
+            "text": "Erwärmung",
+            "word": 8
+        },
+        {
+            "charBegin": 1291,
+            "charEnd": 1294,
+            "id": 213,
+            "sentence": 10,
+            "text": "ist",
+            "word": 9
+        },
+        {
+            "charBegin": 1295,
+            "charEnd": 1298,
+            "id": 214,
+            "sentence": 10,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 1299,
+            "charEnd": 1302,
+            "id": 215,
+            "sentence": 10,
+            "text": "mit",
+            "word": 11
+        },
+        {
+            "charBegin": 1303,
+            "charEnd": 1310,
+            "id": 216,
+            "sentence": 10,
+            "text": "Abstand",
+            "word": 12
+        },
+        {
+            "charBegin": 1311,
+            "charEnd": 1317,
+            "id": 217,
+            "sentence": 10,
+            "text": "größte",
+            "word": 13
+        },
+        {
+            "charBegin": 1318,
+            "charEnd": 1327,
+            "id": 218,
+            "sentence": 10,
+            "text": "Bedrohung",
+            "word": 14
+        },
+        {
+            "charBegin": 1328,
+            "charEnd": 1331,
+            "id": 219,
+            "sentence": 10,
+            "text": "für",
+            "word": 15
+        },
+        {
+            "charBegin": 1332,
+            "charEnd": 1335,
+            "id": 220,
+            "sentence": 10,
+            "text": "das",
+            "word": 16
+        },
+        {
+            "charBegin": 1336,
+            "charEnd": 1345,
+            "id": 221,
+            "sentence": 10,
+            "text": "Überleben",
+            "word": 17
+        },
+        {
+            "charBegin": 1346,
+            "charEnd": 1349,
+            "id": 222,
+            "sentence": 10,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 1350,
+            "charEnd": 1358,
+            "id": 223,
+            "sentence": 10,
+            "text": "Eisbären",
+            "word": 19
+        },
+        {
+            "charBegin": 1358,
+            "charEnd": 1359,
+            "id": 224,
+            "sentence": 10,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 1360,
+            "charEnd": 1363,
+            "id": 225,
+            "sentence": 10,
+            "text": "und",
+            "word": 21
+        },
+        {
+            "charBegin": 1364,
+            "charEnd": 1366,
+            "id": 226,
+            "sentence": 10,
+            "text": "es",
+            "word": 22
+        },
+        {
+            "charBegin": 1367,
+            "charEnd": 1373,
+            "id": 227,
+            "sentence": 10,
+            "text": "bedarf",
+            "word": 23
+        },
+        {
+            "charBegin": 1374,
+            "charEnd": 1377,
+            "id": 228,
+            "sentence": 10,
+            "text": "der",
+            "word": 24
+        },
+        {
+            "charBegin": 1378,
+            "charEnd": 1387,
+            "id": 229,
+            "sentence": 10,
+            "text": "Regierung",
+            "word": 25
+        },
+        {
+            "charBegin": 1387,
+            "charEnd": 1388,
+            "id": 230,
+            "sentence": 10,
+            "text": ",",
+            "word": 26
+        },
+        {
+            "charBegin": 1389,
+            "charEnd": 1393,
+            "id": 231,
+            "sentence": 10,
+            "text": "sich",
+            "word": 27
+        },
+        {
+            "charBegin": 1394,
+            "charEnd": 1397,
+            "id": 232,
+            "sentence": 10,
+            "text": "der",
+            "word": 28
+        },
+        {
+            "charBegin": 1398,
+            "charEnd": 1410,
+            "id": 233,
+            "sentence": 10,
+            "text": "Auswirkungen",
+            "word": 29
+        },
+        {
+            "charBegin": 1411,
+            "charEnd": 1414,
+            "id": 234,
+            "sentence": 10,
+            "text": "auf",
+            "word": 30
+        },
+        {
+            "charBegin": 1415,
+            "charEnd": 1418,
+            "id": 235,
+            "sentence": 10,
+            "text": "die",
+            "word": 31
+        },
+        {
+            "charBegin": 1419,
+            "charEnd": 1427,
+            "id": 236,
+            "sentence": 10,
+            "text": "Eisbären",
+            "word": 32
+        },
+        {
+            "charBegin": 1428,
+            "charEnd": 1438,
+            "id": 237,
+            "sentence": 10,
+            "text": "anzunehmen",
+            "word": 33
+        },
+        {
+            "charBegin": 1438,
+            "charEnd": 1439,
+            "id": 238,
+            "sentence": 10,
+            "text": ".",
+            "word": 34
+        },
+        {
+            "charBegin": 1439,
+            "charEnd": 1440,
+            "id": 239,
+            "sentence": 10,
+            "text": "“",
+            "word": 35
+        },
+        {
+            "charBegin": 1442,
+            "charEnd": 1447,
+            "id": 240,
+            "sentence": 11,
+            "text": "Arten",
+            "word": 1
+        },
+        {
+            "charBegin": 1448,
+            "charEnd": 1451,
+            "id": 241,
+            "sentence": 11,
+            "text": "auf",
+            "word": 2
+        },
+        {
+            "charBegin": 1452,
+            "charEnd": 1455,
+            "id": 242,
+            "sentence": 11,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 1456,
+            "charEnd": 1461,
+            "id": 243,
+            "sentence": 11,
+            "text": "Liste",
+            "word": 4
+        },
+        {
+            "charBegin": 1462,
+            "charEnd": 1471,
+            "id": 244,
+            "sentence": 11,
+            "text": "bedrohter",
+            "word": 5
+        },
+        {
+            "charBegin": 1472,
+            "charEnd": 1477,
+            "id": 245,
+            "sentence": 11,
+            "text": "Arten",
+            "word": 6
+        },
+        {
+            "charBegin": 1478,
+            "charEnd": 1484,
+            "id": 246,
+            "sentence": 11,
+            "text": "stehen",
+            "word": 7
+        },
+        {
+            "charBegin": 1485,
+            "charEnd": 1489,
+            "id": 247,
+            "sentence": 11,
+            "text": "eine",
+            "word": 8
+        },
+        {
+            "charBegin": 1490,
+            "charEnd": 1495,
+            "id": 248,
+            "sentence": 11,
+            "text": "Stufe",
+            "word": 9
+        },
+        {
+            "charBegin": 1496,
+            "charEnd": 1501,
+            "id": 249,
+            "sentence": 11,
+            "text": "unter",
+            "word": 10
+        },
+        {
+            "charBegin": 1502,
+            "charEnd": 1505,
+            "id": 250,
+            "sentence": 11,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 1506,
+            "charEnd": 1516,
+            "id": 251,
+            "sentence": 11,
+            "text": "Einstufung",
+            "word": 12
+        },
+        {
+            "charBegin": 1517,
+            "charEnd": 1520,
+            "id": 252,
+            "sentence": 11,
+            "text": "für",
+            "word": 13
+        },
+        {
+            "charBegin": 1521,
+            "charEnd": 1531,
+            "id": 253,
+            "sentence": 11,
+            "text": "gefährdete",
+            "word": 14
+        },
+        {
+            "charBegin": 1532,
+            "charEnd": 1537,
+            "id": 254,
+            "sentence": 11,
+            "text": "Arten",
+            "word": 15
+        },
+        {
+            "charBegin": 1537,
+            "charEnd": 1538,
+            "id": 255,
+            "sentence": 11,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 1540,
+            "charEnd": 1542,
+            "id": 256,
+            "sentence": 12,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 1543,
+            "charEnd": 1549,
+            "id": 257,
+            "sentence": 12,
+            "text": "Moment",
+            "word": 2
+        },
+        {
+            "charBegin": 1550,
+            "charEnd": 1555,
+            "id": 258,
+            "sentence": 12,
+            "text": "leben",
+            "word": 3
+        },
+        {
+            "charBegin": 1556,
+            "charEnd": 1564,
+            "id": 259,
+            "sentence": 12,
+            "text": "weltweit",
+            "word": 4
+        },
+        {
+            "charBegin": 1565,
+            "charEnd": 1575,
+            "id": 260,
+            "sentence": 12,
+            "text": "mindestens",
+            "word": 5
+        },
+        {
+            "charBegin": 1576,
+            "charEnd": 1582,
+            "id": 261,
+            "sentence": 12,
+            "text": "25.000",
+            "word": 6
+        },
+        {
+            "charBegin": 1583,
+            "charEnd": 1591,
+            "id": 262,
+            "sentence": 12,
+            "text": "Eisbären",
+            "word": 7
+        },
+        {
+            "charBegin": 1591,
+            "charEnd": 1592,
+            "id": 263,
+            "sentence": 12,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 1593,
+            "charEnd": 1596,
+            "id": 264,
+            "sentence": 12,
+            "text": "mit",
+            "word": 9
+        },
+        {
+            "charBegin": 1597,
+            "charEnd": 1607,
+            "id": 265,
+            "sentence": 12,
+            "text": "mindestens",
+            "word": 10
+        },
+        {
+            "charBegin": 1608,
+            "charEnd": 1613,
+            "id": 266,
+            "sentence": 12,
+            "text": "4.700",
+            "word": 11
+        },
+        {
+            "charBegin": 1614,
+            "charEnd": 1619,
+            "id": 267,
+            "sentence": 12,
+            "text": "davon",
+            "word": 12
+        },
+        {
+            "charBegin": 1620,
+            "charEnd": 1622,
+            "id": 268,
+            "sentence": 12,
+            "text": "im",
+            "word": 13
+        },
+        {
+            "charBegin": 1623,
+            "charEnd": 1634,
+            "id": 269,
+            "sentence": 12,
+            "text": "Bundesstaat",
+            "word": 14
+        },
+        {
+            "charBegin": 1635,
+            "charEnd": 1641,
+            "id": 270,
+            "sentence": 12,
+            "text": "Alaska",
+            "word": 15
+        },
+        {
+            "charBegin": 1641,
+            "charEnd": 1642,
+            "id": 271,
+            "sentence": 12,
+            "text": ".",
+            "word": 16
+        }
+    ]
+}

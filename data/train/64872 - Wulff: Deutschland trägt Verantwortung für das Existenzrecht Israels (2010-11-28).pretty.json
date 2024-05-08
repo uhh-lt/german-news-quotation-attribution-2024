@@ -1,0 +1,918 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 11,
+                        "charBegin": 64,
+                        "charEnd": 143,
+                        "end": 24
+                    }
+                ],
+                "text": "seinem israelischen Amtskollegen Schimon Peres (Awoda, dt. etwa Arbeiterpartei)",
+                "tokenIds": [
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 6,
+                        "charBegin": 38,
+                        "charEnd": 41,
+                        "end": 7
+                    },
+                    {
+                        "begin": 24,
+                        "charBegin": 144,
+                        "charEnd": 154,
+                        "end": 25
+                    }
+                ],
+                "text": "hat bekräftigt",
+                "tokenIds": [
+                    6,
+                    24
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 155,
+                        "end": 26
+                    }
+                ],
+                "text": "Bundespräsident Christian Wulff (CDU) hat in einem Gespräch mit seinem israelischen Amtskollegen Schimon Peres (Awoda, dt. etwa Arbeiterpartei) bekräftigt,",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 26,
+                        "charBegin": 156,
+                        "charEnd": 270,
+                        "end": 41
+                    }
+                ],
+                "text": "die Bundesrepublik Deutschland bekenne sich zu ihrer besonderen Verantwortung für die Existenz der Republik Israel",
+                "tokenIds": [
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 37,
+                        "end": 6
+                    }
+                ],
+                "text": "Bundespräsident Christian Wulff (CDU)",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 42,
+                        "charBegin": 272,
+                        "charEnd": 446,
+                        "end": 67
+                    }
+                ],
+                "text": "Gleichzeitig sprach er sich für eine Zwei-Staaten-Regelung mit Israel und einem Staat der arabischen Palästinenser mit endgültig und von allen Seiten anerkannten Grenzen aus.",
+                "tokenIds": [
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 44,
+                        "charBegin": 292,
+                        "charEnd": 294,
+                        "end": 45
+                    }
+                ],
+                "text": "er",
+                "tokenIds": [
+                    44
+                ]
+            },
+            "type": "Reported"
+        }
+    ],
+    "documentName": "64872 - Wulff: Deutschland trägt Verantwortung für das Existenzrecht Israels (2010-11-28)",
+    "originalText": "Bundespräsident Christian Wulff (CDU) hat in einem Gespräch mit seinem israelischen Amtskollegen Schimon Peres (Awoda, dt. etwa Arbeiterpartei) bekräftigt, die Bundesrepublik Deutschland bekenne sich zu ihrer besonderen Verantwortung für die Existenz der Republik Israel. Gleichzeitig sprach er sich für eine Zwei-Staaten-Regelung mit Israel und einem Staat der arabischen Palästinenser mit endgültig und von allen Seiten anerkannten Grenzen aus.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 271,
+            "end": 42,
+            "id": 0,
+            "text": "Bundespräsident Christian Wulff (CDU) hat in einem Gespräch mit seinem israelischen Amtskollegen Schimon Peres (Awoda, dt. etwa Arbeiterpartei) bekräftigt, die Bundesrepublik Deutschland bekenne sich zu ihrer besonderen Verantwortung für die Existenz der Republik Israel. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "tokens": [
+                "Bundespräsident",
+                "Christian",
+                "Wulff",
+                "(",
+                "CDU",
+                ")",
+                "hat",
+                "in",
+                "einem",
+                "Gespräch",
+                "mit",
+                "seinem",
+                "israelischen",
+                "Amtskollegen",
+                "Schimon",
+                "Peres",
+                "(",
+                "Awoda",
+                ",",
+                "dt",
+                ".",
+                "etwa",
+                "Arbeiterpartei",
+                ")",
+                "bekräftigt",
+                ",",
+                "die",
+                "Bundesrepublik",
+                "Deutschland",
+                "bekenne",
+                "sich",
+                "zu",
+                "ihrer",
+                "besonderen",
+                "Verantwortung",
+                "für",
+                "die",
+                "Existenz",
+                "der",
+                "Republik",
+                "Israel",
+                "."
+            ]
+        },
+        {
+            "begin": 42,
+            "charBegin": 272,
+            "charEnd": 446,
+            "end": 67,
+            "id": 1,
+            "text": "Gleichzeitig sprach er sich für eine Zwei-Staaten-Regelung mit Israel und einem Staat der arabischen Palästinenser mit endgültig und von allen Seiten anerkannten Grenzen aus.",
+            "tokenIds": [
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66
+            ],
+            "tokens": [
+                "Gleichzeitig",
+                "sprach",
+                "er",
+                "sich",
+                "für",
+                "eine",
+                "Zwei-Staaten-Regelung",
+                "mit",
+                "Israel",
+                "und",
+                "einem",
+                "Staat",
+                "der",
+                "arabischen",
+                "Palästinenser",
+                "mit",
+                "endgültig",
+                "und",
+                "von",
+                "allen",
+                "Seiten",
+                "anerkannten",
+                "Grenzen",
+                "aus",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 15,
+            "id": 0,
+            "sentence": 1,
+            "text": "Bundespräsident",
+            "word": 1
+        },
+        {
+            "charBegin": 16,
+            "charEnd": 25,
+            "id": 1,
+            "sentence": 1,
+            "text": "Christian",
+            "word": 2
+        },
+        {
+            "charBegin": 26,
+            "charEnd": 31,
+            "id": 2,
+            "sentence": 1,
+            "text": "Wulff",
+            "word": 3
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 33,
+            "id": 3,
+            "sentence": 1,
+            "text": "(",
+            "word": 4
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 36,
+            "id": 4,
+            "sentence": 1,
+            "text": "CDU",
+            "word": 5
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 37,
+            "id": 5,
+            "sentence": 1,
+            "text": ")",
+            "word": 6
+        },
+        {
+            "charBegin": 38,
+            "charEnd": 41,
+            "id": 6,
+            "sentence": 1,
+            "text": "hat",
+            "word": 7
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 44,
+            "id": 7,
+            "sentence": 1,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 50,
+            "id": 8,
+            "sentence": 1,
+            "text": "einem",
+            "word": 9
+        },
+        {
+            "charBegin": 51,
+            "charEnd": 59,
+            "id": 9,
+            "sentence": 1,
+            "text": "Gespräch",
+            "word": 10
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 63,
+            "id": 10,
+            "sentence": 1,
+            "text": "mit",
+            "word": 11
+        },
+        {
+            "charBegin": 64,
+            "charEnd": 70,
+            "id": 11,
+            "sentence": 1,
+            "text": "seinem",
+            "word": 12
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 83,
+            "id": 12,
+            "sentence": 1,
+            "text": "israelischen",
+            "word": 13
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 96,
+            "id": 13,
+            "sentence": 1,
+            "text": "Amtskollegen",
+            "word": 14
+        },
+        {
+            "charBegin": 97,
+            "charEnd": 104,
+            "id": 14,
+            "sentence": 1,
+            "text": "Schimon",
+            "word": 15
+        },
+        {
+            "charBegin": 105,
+            "charEnd": 110,
+            "id": 15,
+            "sentence": 1,
+            "text": "Peres",
+            "word": 16
+        },
+        {
+            "charBegin": 111,
+            "charEnd": 112,
+            "id": 16,
+            "sentence": 1,
+            "text": "(",
+            "word": 17
+        },
+        {
+            "charBegin": 112,
+            "charEnd": 117,
+            "id": 17,
+            "sentence": 1,
+            "text": "Awoda",
+            "word": 18
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 118,
+            "id": 18,
+            "sentence": 1,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 119,
+            "charEnd": 121,
+            "id": 19,
+            "sentence": 1,
+            "text": "dt",
+            "word": 20
+        },
+        {
+            "charBegin": 121,
+            "charEnd": 122,
+            "id": 20,
+            "sentence": 1,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 127,
+            "id": 21,
+            "sentence": 1,
+            "text": "etwa",
+            "word": 22
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 142,
+            "id": 22,
+            "sentence": 1,
+            "text": "Arbeiterpartei",
+            "word": 23
+        },
+        {
+            "charBegin": 142,
+            "charEnd": 143,
+            "id": 23,
+            "sentence": 1,
+            "text": ")",
+            "word": 24
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 154,
+            "id": 24,
+            "sentence": 1,
+            "text": "bekräftigt",
+            "word": 25
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 155,
+            "id": 25,
+            "sentence": 1,
+            "text": ",",
+            "word": 26
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 159,
+            "id": 26,
+            "sentence": 1,
+            "text": "die",
+            "word": 27
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 174,
+            "id": 27,
+            "sentence": 1,
+            "text": "Bundesrepublik",
+            "word": 28
+        },
+        {
+            "charBegin": 175,
+            "charEnd": 186,
+            "id": 28,
+            "sentence": 1,
+            "text": "Deutschland",
+            "word": 29
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 194,
+            "id": 29,
+            "sentence": 1,
+            "text": "bekenne",
+            "word": 30
+        },
+        {
+            "charBegin": 195,
+            "charEnd": 199,
+            "id": 30,
+            "sentence": 1,
+            "text": "sich",
+            "word": 31
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 202,
+            "id": 31,
+            "sentence": 1,
+            "text": "zu",
+            "word": 32
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 208,
+            "id": 32,
+            "sentence": 1,
+            "text": "ihrer",
+            "word": 33
+        },
+        {
+            "charBegin": 209,
+            "charEnd": 219,
+            "id": 33,
+            "sentence": 1,
+            "text": "besonderen",
+            "word": 34
+        },
+        {
+            "charBegin": 220,
+            "charEnd": 233,
+            "id": 34,
+            "sentence": 1,
+            "text": "Verantwortung",
+            "word": 35
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 237,
+            "id": 35,
+            "sentence": 1,
+            "text": "für",
+            "word": 36
+        },
+        {
+            "charBegin": 238,
+            "charEnd": 241,
+            "id": 36,
+            "sentence": 1,
+            "text": "die",
+            "word": 37
+        },
+        {
+            "charBegin": 242,
+            "charEnd": 250,
+            "id": 37,
+            "sentence": 1,
+            "text": "Existenz",
+            "word": 38
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 254,
+            "id": 38,
+            "sentence": 1,
+            "text": "der",
+            "word": 39
+        },
+        {
+            "charBegin": 255,
+            "charEnd": 263,
+            "id": 39,
+            "sentence": 1,
+            "text": "Republik",
+            "word": 40
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 270,
+            "id": 40,
+            "sentence": 1,
+            "text": "Israel",
+            "word": 41
+        },
+        {
+            "charBegin": 270,
+            "charEnd": 271,
+            "id": 41,
+            "sentence": 1,
+            "text": ".",
+            "word": 42
+        },
+        {
+            "charBegin": 272,
+            "charEnd": 284,
+            "id": 42,
+            "sentence": 2,
+            "text": "Gleichzeitig",
+            "word": 1
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 291,
+            "id": 43,
+            "sentence": 2,
+            "text": "sprach",
+            "word": 2
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 294,
+            "id": 44,
+            "sentence": 2,
+            "text": "er",
+            "word": 3
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 299,
+            "id": 45,
+            "sentence": 2,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 303,
+            "id": 46,
+            "sentence": 2,
+            "text": "für",
+            "word": 5
+        },
+        {
+            "charBegin": 304,
+            "charEnd": 308,
+            "id": 47,
+            "sentence": 2,
+            "text": "eine",
+            "word": 6
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 330,
+            "id": 48,
+            "sentence": 2,
+            "text": "Zwei-Staaten-Regelung",
+            "word": 7
+        },
+        {
+            "charBegin": 331,
+            "charEnd": 334,
+            "id": 49,
+            "sentence": 2,
+            "text": "mit",
+            "word": 8
+        },
+        {
+            "charBegin": 335,
+            "charEnd": 341,
+            "id": 50,
+            "sentence": 2,
+            "text": "Israel",
+            "word": 9
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 345,
+            "id": 51,
+            "sentence": 2,
+            "text": "und",
+            "word": 10
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 351,
+            "id": 52,
+            "sentence": 2,
+            "text": "einem",
+            "word": 11
+        },
+        {
+            "charBegin": 352,
+            "charEnd": 357,
+            "id": 53,
+            "sentence": 2,
+            "text": "Staat",
+            "word": 12
+        },
+        {
+            "charBegin": 358,
+            "charEnd": 361,
+            "id": 54,
+            "sentence": 2,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 372,
+            "id": 55,
+            "sentence": 2,
+            "text": "arabischen",
+            "word": 14
+        },
+        {
+            "charBegin": 373,
+            "charEnd": 386,
+            "id": 56,
+            "sentence": 2,
+            "text": "Palästinenser",
+            "word": 15
+        },
+        {
+            "charBegin": 387,
+            "charEnd": 390,
+            "id": 57,
+            "sentence": 2,
+            "text": "mit",
+            "word": 16
+        },
+        {
+            "charBegin": 391,
+            "charEnd": 400,
+            "id": 58,
+            "sentence": 2,
+            "text": "endgültig",
+            "word": 17
+        },
+        {
+            "charBegin": 401,
+            "charEnd": 404,
+            "id": 59,
+            "sentence": 2,
+            "text": "und",
+            "word": 18
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 408,
+            "id": 60,
+            "sentence": 2,
+            "text": "von",
+            "word": 19
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 414,
+            "id": 61,
+            "sentence": 2,
+            "text": "allen",
+            "word": 20
+        },
+        {
+            "charBegin": 415,
+            "charEnd": 421,
+            "id": 62,
+            "sentence": 2,
+            "text": "Seiten",
+            "word": 21
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 433,
+            "id": 63,
+            "sentence": 2,
+            "text": "anerkannten",
+            "word": 22
+        },
+        {
+            "charBegin": 434,
+            "charEnd": 441,
+            "id": 64,
+            "sentence": 2,
+            "text": "Grenzen",
+            "word": 23
+        },
+        {
+            "charBegin": 442,
+            "charEnd": 445,
+            "id": 65,
+            "sentence": 2,
+            "text": "aus",
+            "word": 24
+        },
+        {
+            "charBegin": 445,
+            "charEnd": 446,
+            "id": 66,
+            "sentence": 2,
+            "text": ".",
+            "word": 25
+        }
+    ]
+}

@@ -1,0 +1,5175 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 26,
+                        "charBegin": 152,
+                        "charEnd": 154,
+                        "end": 27
+                    }
+                ],
+                "text": "so",
+                "tokenIds": [
+                    26
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 179,
+                        "end": 32
+                    }
+                ],
+                "text": "In der Montagsausgabe der „Münsterschen Zeitung“ war vieles neu: eine neue Gestaltung, eine zukünftige „Verschränkung“ mit multimedialen Inhalten und – so der eigene Wunsch – eine",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 32,
+                        "charBegin": 180,
+                        "charEnd": 220,
+                        "end": 38
+                    }
+                ],
+                "text": "„Schärfung des journalistischen Profils“",
+                "tokenIds": [
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 42,
+                        "charBegin": 237,
+                        "charEnd": 268,
+                        "end": 47
+                    }
+                ],
+                "text": "fand sich dazu die Feststellung",
+                "tokenIds": [
+                    42,
+                    43,
+                    44,
+                    45,
+                    46
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 39,
+                        "charBegin": 222,
+                        "charEnd": 268,
+                        "end": 47
+                    }
+                ],
+                "text": "In der Zeitung fand sich dazu die Feststellung",
+                "tokenIds": [
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 47,
+                        "charBegin": 269,
+                        "charEnd": 388,
+                        "end": 65
+                    }
+                ],
+                "text": "„Mit diesem Ziel stellt die Münstersche Zeitung mit dieser Montagsausgabe ihre redaktionelle Produktion auf neue Beine“",
+                "tokenIds": [
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 40,
+                        "charBegin": 225,
+                        "charEnd": 236,
+                        "end": 42
+                    }
+                ],
+                "text": "der Zeitung",
+                "tokenIds": [
+                    40,
+                    41
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 122,
+                        "charBegin": 727,
+                        "charEnd": 746,
+                        "end": 126
+                    },
+                    {
+                        "begin": 136,
+                        "charBegin": 820,
+                        "charEnd": 910,
+                        "end": 150
+                    }
+                ],
+                "text": "Mit der Begründung, , wurden die Redakteure in einen Anbau des am Stadtrand liegenden Druckhauses verfrachtet.",
+                "tokenIds": [
+                    122,
+                    123,
+                    124,
+                    125,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 126,
+                        "charBegin": 747,
+                        "charEnd": 820,
+                        "end": 136
+                    }
+                ],
+                "text": "dass die in bester Innenstadtlage liegenden Räume vermietet werden sollen",
+                "tokenIds": [
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 4,
+                        "charBegin": 26,
+                        "charEnd": 48,
+                        "end": 8
+                    },
+                    {
+                        "begin": 123,
+                        "charBegin": 731,
+                        "charEnd": 745,
+                        "end": 125
+                    }
+                ],
+                "text": "„Münsterschen Zeitung“ der Begründung",
+                "tokenIds": [
+                    4,
+                    5,
+                    6,
+                    7,
+                    123,
+                    124
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 163,
+                        "charBegin": 991,
+                        "charEnd": 995,
+                        "end": 164
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    163
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 163,
+                        "charBegin": 991,
+                        "charEnd": 1022,
+                        "end": 167
+                    }
+                ],
+                "text": "Nach Angaben eines Mitarbeiters",
+                "tokenIds": [
+                    163,
+                    164,
+                    165,
+                    166
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 167,
+                        "charBegin": 1023,
+                        "charEnd": 1180,
+                        "end": 187
+                    }
+                ],
+                "text": "hätten freie Mitarbeiter gar in einer Damenumkleidekabine Unterkunft gefunden, und manche Kollegen hätten sich behelfsmäßige Ablagen aus Umzugskartons gebaut",
+                "tokenIds": [
+                    167,
+                    168,
+                    169,
+                    170,
+                    171,
+                    172,
+                    173,
+                    174,
+                    175,
+                    176,
+                    177,
+                    178,
+                    179,
+                    180,
+                    181,
+                    182,
+                    183,
+                    184,
+                    185,
+                    186
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 164,
+                        "charBegin": 996,
+                        "charEnd": 1022,
+                        "end": 167
+                    }
+                ],
+                "text": "Angaben eines Mitarbeiters",
+                "tokenIds": [
+                    164,
+                    165,
+                    166
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 198,
+                        "charBegin": 1254,
+                        "charEnd": 1273,
+                        "end": 201
+                    }
+                ],
+                "text": "den 18 Mitarbeitern",
+                "tokenIds": [
+                    198,
+                    199,
+                    200
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 201,
+                        "charBegin": 1274,
+                        "charEnd": 1281,
+                        "end": 202
+                    }
+                ],
+                "text": "erklärt",
+                "tokenIds": [
+                    201
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 188,
+                        "charBegin": 1182,
+                        "charEnd": 1282,
+                        "end": 203
+                    }
+                ],
+                "text": "Am Freitag dann hatte Verlagsleiter Lutz Schumacher aus heiterem Himmel den 18 Mitarbeitern erklärt,",
+                "tokenIds": [
+                    188,
+                    189,
+                    190,
+                    191,
+                    192,
+                    193,
+                    194,
+                    195,
+                    196,
+                    197,
+                    198,
+                    199,
+                    200,
+                    201,
+                    202
+                ]
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 203,
+                        "charBegin": 1283,
+                        "charEnd": 1337,
+                        "end": 211
+                    }
+                ],
+                "text": "dass sie nunmehr ihre letzte Ausgabe produziert hätten",
+                "tokenIds": [
+                    203,
+                    204,
+                    205,
+                    206,
+                    207,
+                    208,
+                    209,
+                    210
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 192,
+                        "charBegin": 1204,
+                        "charEnd": 1233,
+                        "end": 195
+                    }
+                ],
+                "text": "Verlagsleiter Lutz Schumacher",
+                "tokenIds": [
+                    192,
+                    193,
+                    194
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 5,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 212,
+                        "charBegin": 1339,
+                        "charEnd": 1484,
+                        "end": 234
+                    }
+                ],
+                "text": "Den Erfordernissen der Zukunft sei das Team nicht gewachsen, weswegen der Verleger die Produktion des Lokalteiles an eine Tochterfirma auslagere.",
+                "tokenIds": [
+                    212,
+                    213,
+                    214,
+                    215,
+                    216,
+                    217,
+                    218,
+                    219,
+                    220,
+                    221,
+                    222,
+                    223,
+                    224,
+                    225,
+                    226,
+                    227,
+                    228,
+                    229,
+                    230,
+                    231,
+                    232,
+                    233
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 192,
+                        "charBegin": 1204,
+                        "charEnd": 1233,
+                        "end": 195
+                    }
+                ],
+                "text": "Verlagsleiter Lutz Schumacher",
+                "tokenIds": [
+                    192,
+                    193,
+                    194
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 247,
+                        "charBegin": 1589,
+                        "charEnd": 1594,
+                        "end": 248
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    247
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 234,
+                        "charBegin": 1485,
+                        "charEnd": 1619,
+                        "end": 252
+                    }
+                ],
+                "text": "Frank Biermann, Vorsitzender der Deutschen Journalistinnen- und Journalisten-Union für das Münsterland, sagte angesichts der Umstände,",
+                "tokenIds": [
+                    234,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241,
+                    242,
+                    243,
+                    244,
+                    245,
+                    246,
+                    247,
+                    248,
+                    249,
+                    250,
+                    251
+                ]
+            },
+            "hasNested": true,
+            "id": 6,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 252,
+                        "charBegin": 1620,
+                        "charEnd": 1773,
+                        "end": 277
+                    }
+                ],
+                "text": "es sei „unfassbar, mit welcher sozialen Kälte und Gleichgültigkeit von heute auf morgen gestandenen Lokaljournalisten der Stuhl vor die Tür gesetzt wird“",
+                "tokenIds": [
+                    252,
+                    253,
+                    254,
+                    255,
+                    256,
+                    257,
+                    258,
+                    259,
+                    260,
+                    261,
+                    262,
+                    263,
+                    264,
+                    265,
+                    266,
+                    267,
+                    268,
+                    269,
+                    270,
+                    271,
+                    272,
+                    273,
+                    274,
+                    275,
+                    276
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 234,
+                        "charBegin": 1485,
+                        "charEnd": 1587,
+                        "end": 246
+                    }
+                ],
+                "text": "Frank Biermann, Vorsitzender der Deutschen Journalistinnen- und Journalisten-Union für das Münsterland",
+                "tokenIds": [
+                    234,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241,
+                    242,
+                    243,
+                    244,
+                    245
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 247,
+                        "charBegin": 1589,
+                        "charEnd": 1594,
+                        "end": 248
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    247
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 234,
+                        "charBegin": 1485,
+                        "charEnd": 1619,
+                        "end": 252
+                    }
+                ],
+                "text": "Frank Biermann, Vorsitzender der Deutschen Journalistinnen- und Journalisten-Union für das Münsterland, sagte angesichts der Umstände,",
+                "tokenIds": [
+                    234,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241,
+                    242,
+                    243,
+                    244,
+                    245,
+                    246,
+                    247,
+                    248,
+                    249,
+                    250,
+                    251
+                ]
+            },
+            "hasNested": false,
+            "id": 7,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 254,
+                        "charBegin": 1627,
+                        "charEnd": 1773,
+                        "end": 277
+                    }
+                ],
+                "text": "„unfassbar, mit welcher sozialen Kälte und Gleichgültigkeit von heute auf morgen gestandenen Lokaljournalisten der Stuhl vor die Tür gesetzt wird“",
+                "tokenIds": [
+                    254,
+                    255,
+                    256,
+                    257,
+                    258,
+                    259,
+                    260,
+                    261,
+                    262,
+                    263,
+                    264,
+                    265,
+                    266,
+                    267,
+                    268,
+                    269,
+                    270,
+                    271,
+                    272,
+                    273,
+                    274,
+                    275,
+                    276
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 234,
+                        "charBegin": 1485,
+                        "charEnd": 1587,
+                        "end": 246
+                    }
+                ],
+                "text": "Frank Biermann, Vorsitzender der Deutschen Journalistinnen- und Journalisten-Union für das Münsterland",
+                "tokenIds": [
+                    234,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241,
+                    242,
+                    243,
+                    244,
+                    245
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 281,
+                        "charBegin": 1802,
+                        "charEnd": 1810,
+                        "end": 282
+                    }
+                ],
+                "text": "erklärte",
+                "tokenIds": [
+                    281
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 278,
+                        "charBegin": 1776,
+                        "charEnd": 1900,
+                        "end": 297
+                    }
+                ],
+                "text": "In einer Pressemitteilung erklärte der Eigentümer, das auch die Dortmunder „Ruhr Nachrichten“ verlegende Medienhaus Lensing,",
+                "tokenIds": [
+                    278,
+                    279,
+                    280,
+                    281,
+                    282,
+                    283,
+                    284,
+                    285,
+                    286,
+                    287,
+                    288,
+                    289,
+                    290,
+                    291,
+                    292,
+                    293,
+                    294,
+                    295,
+                    296
+                ]
+            },
+            "hasNested": true,
+            "id": 8,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 297,
+                        "charBegin": 1901,
+                        "charEnd": 1960,
+                        "end": 307
+                    }
+                ],
+                "text": "dass das Blatt in einer „schwierigen Marktsituation“ stecke",
+                "tokenIds": [
+                    297,
+                    298,
+                    299,
+                    300,
+                    301,
+                    302,
+                    303,
+                    304,
+                    305,
+                    306
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 282,
+                        "charBegin": 1811,
+                        "charEnd": 1899,
+                        "end": 296
+                    }
+                ],
+                "text": "der Eigentümer, das auch die Dortmunder „Ruhr Nachrichten“ verlegende Medienhaus Lensing",
+                "tokenIds": [
+                    282,
+                    283,
+                    284,
+                    285,
+                    286,
+                    287,
+                    288,
+                    289,
+                    290,
+                    291,
+                    292,
+                    293,
+                    294,
+                    295
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 281,
+                        "charBegin": 1802,
+                        "charEnd": 1810,
+                        "end": 282
+                    }
+                ],
+                "text": "erklärte",
+                "tokenIds": [
+                    281
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 278,
+                        "charBegin": 1776,
+                        "charEnd": 1900,
+                        "end": 297
+                    }
+                ],
+                "text": "In einer Pressemitteilung erklärte der Eigentümer, das auch die Dortmunder „Ruhr Nachrichten“ verlegende Medienhaus Lensing,",
+                "tokenIds": [
+                    278,
+                    279,
+                    280,
+                    281,
+                    282,
+                    283,
+                    284,
+                    285,
+                    286,
+                    287,
+                    288,
+                    289,
+                    290,
+                    291,
+                    292,
+                    293,
+                    294,
+                    295,
+                    296
+                ]
+            },
+            "hasNested": false,
+            "id": 9,
+            "isNested": true,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 302,
+                        "charBegin": 1925,
+                        "charEnd": 1953,
+                        "end": 306
+                    }
+                ],
+                "text": "„schwierigen Marktsituation“",
+                "tokenIds": [
+                    302,
+                    303,
+                    304,
+                    305
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 282,
+                        "charBegin": 1811,
+                        "charEnd": 1899,
+                        "end": 296
+                    }
+                ],
+                "text": "der Eigentümer, das auch die Dortmunder „Ruhr Nachrichten“ verlegende Medienhaus Lensing",
+                "tokenIds": [
+                    282,
+                    283,
+                    284,
+                    285,
+                    286,
+                    287,
+                    288,
+                    289,
+                    290,
+                    291,
+                    292,
+                    293,
+                    294,
+                    295
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 319,
+                        "charBegin": 2032,
+                        "charEnd": 2060,
+                        "end": 322
+                    }
+                ],
+                "text": "den entlassenen Mitarbeitern",
+                "tokenIds": [
+                    319,
+                    320,
+                    321
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 318,
+                        "charBegin": 2025,
+                        "charEnd": 2031,
+                        "end": 319
+                    },
+                    {
+                        "begin": 322,
+                        "charBegin": 2061,
+                        "charEnd": 2064,
+                        "end": 323
+                    }
+                ],
+                "text": "schlug vor",
+                "tokenIds": [
+                    318,
+                    322
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 316,
+                        "charBegin": 2014,
+                        "charEnd": 2065,
+                        "end": 324
+                    }
+                ],
+                "text": "Der Verlag schlug den entlassenen Mitarbeitern vor,",
+                "tokenIds": [
+                    316,
+                    317,
+                    318,
+                    319,
+                    320,
+                    321,
+                    322,
+                    323
+                ]
+            },
+            "hasNested": false,
+            "id": 10,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 324,
+                        "charBegin": 2066,
+                        "charEnd": 2109,
+                        "end": 331
+                    }
+                ],
+                "text": "sich bei der neuen Tochterfirma zu bewerben",
+                "tokenIds": [
+                    324,
+                    325,
+                    326,
+                    327,
+                    328,
+                    329,
+                    330
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 316,
+                        "charBegin": 2014,
+                        "charEnd": 2024,
+                        "end": 318
+                    }
+                ],
+                "text": "Der Verlag",
+                "tokenIds": [
+                    316,
+                    317
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "37530 - „Münstersche Zeitung“: Über Nacht komplette Redaktion ausgetauscht (2007-01-25)",
+    "originalText": "In der Montagsausgabe der „Münsterschen Zeitung“ war vieles neu: eine neue Gestaltung, eine zukünftige „Verschränkung“ mit multimedialen Inhalten und – so der eigene Wunsch – eine „Schärfung des journalistischen Profils“. In der Zeitung fand sich dazu die Feststellung „Mit diesem Ziel stellt die Münstersche Zeitung mit dieser Montagsausgabe ihre redaktionelle Produktion auf neue Beine“. Wie wörtlich „neue Beine“ zu verstehen ist, wurde gestern bekannt: Denn außer Layout und Inhalt ist noch etwas neu: die komplette Lokalredaktion.\n\nBereits seit November hatte die Redaktion unter ungewöhnlichen Umständen arbeiten müssen. So wurden ihr nicht nur die Produktion neuer Stadtteilseiten entzogen, sondern auch ihre Büroräume. Mit der Begründung, dass die in bester Innenstadtlage liegenden Räume vermietet werden sollen, wurden die Redakteure in einen Anbau des am Stadtrand liegenden Druckhauses verfrachtet. Dort mussten sie in behelfsmäßigen Büros wie der Kantine des Gebäudes arbeiten. Nach Angaben eines Mitarbeiters hätten freie Mitarbeiter gar in einer Damenumkleidekabine Unterkunft gefunden, und manche Kollegen hätten sich behelfsmäßige Ablagen aus Umzugskartons gebaut. Am Freitag dann hatte Verlagsleiter Lutz Schumacher aus heiterem Himmel den 18 Mitarbeitern erklärt, dass sie nunmehr ihre letzte Ausgabe produziert hätten. Den Erfordernissen der Zukunft sei das Team nicht gewachsen, weswegen der Verleger die Produktion des Lokalteiles an eine Tochterfirma auslagere. Frank Biermann, Vorsitzender der Deutschen Journalistinnen- und Journalisten-Union für das Münsterland, sagte angesichts der Umstände, es sei „unfassbar, mit welcher sozialen Kälte und Gleichgültigkeit von heute auf morgen gestandenen Lokaljournalisten der Stuhl vor die Tür gesetzt wird“.\n\nIn einer Pressemitteilung erklärte der Eigentümer, das auch die Dortmunder „Ruhr Nachrichten“ verlegende Medienhaus Lensing, dass das Blatt in einer „schwierigen Marktsituation“ stecke. Die aktuelle Auflage beträgt etwa 38.000 Exemplare. Der Verlag schlug den entlassenen Mitarbeitern vor, sich bei der neuen Tochterfirma zu bewerben. Dort stehen allerdings bei weitem nicht ausreichend Stellen für alle ehemaligen Mitarbeiter der Lokalredaktion zur Verfügung. Über die Vorgänge im eigenen Haus hat die neue Redaktion der „Münsterschen Zeitung“ bislang nicht berichtet. Arbeitsplatz der neuen Redaktion: Die alten Redaktionsräume – nun offenbar nicht mehr zu vermieten.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 221,
+            "end": 39,
+            "id": 0,
+            "text": "In der Montagsausgabe der „Münsterschen Zeitung“ war vieles neu: eine neue Gestaltung, eine zukünftige „Verschränkung“ mit multimedialen Inhalten und – so der eigene Wunsch – eine „Schärfung des journalistischen Profils“. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38
+            ],
+            "tokens": [
+                "In",
+                "der",
+                "Montagsausgabe",
+                "der",
+                "„",
+                "Münsterschen",
+                "Zeitung",
+                "“",
+                "war",
+                "vieles",
+                "neu",
+                ":",
+                "eine",
+                "neue",
+                "Gestaltung",
+                ",",
+                "eine",
+                "zukünftige",
+                "„",
+                "Verschränkung",
+                "“",
+                "mit",
+                "multimedialen",
+                "Inhalten",
+                "und",
+                "–",
+                "so",
+                "der",
+                "eigene",
+                "Wunsch",
+                "–",
+                "eine",
+                "„",
+                "Schärfung",
+                "des",
+                "journalistischen",
+                "Profils",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 39,
+            "charBegin": 222,
+            "charEnd": 389,
+            "end": 66,
+            "id": 1,
+            "text": "In der Zeitung fand sich dazu die Feststellung „Mit diesem Ziel stellt die Münstersche Zeitung mit dieser Montagsausgabe ihre redaktionelle Produktion auf neue Beine“. ",
+            "tokenIds": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65
+            ],
+            "tokens": [
+                "In",
+                "der",
+                "Zeitung",
+                "fand",
+                "sich",
+                "dazu",
+                "die",
+                "Feststellung",
+                "„",
+                "Mit",
+                "diesem",
+                "Ziel",
+                "stellt",
+                "die",
+                "Münstersche",
+                "Zeitung",
+                "mit",
+                "dieser",
+                "Montagsausgabe",
+                "ihre",
+                "redaktionelle",
+                "Produktion",
+                "auf",
+                "neue",
+                "Beine",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 66,
+            "charBegin": 390,
+            "charEnd": 456,
+            "end": 80,
+            "id": 2,
+            "text": "Wie wörtlich „neue Beine“ zu verstehen ist, wurde gestern bekannt: ",
+            "tokenIds": [
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79
+            ],
+            "tokens": [
+                "Wie",
+                "wörtlich",
+                "„",
+                "neue",
+                "Beine",
+                "“",
+                "zu",
+                "verstehen",
+                "ist",
+                ",",
+                "wurde",
+                "gestern",
+                "bekannt",
+                ":"
+            ]
+        },
+        {
+            "begin": 80,
+            "charBegin": 457,
+            "charEnd": 535,
+            "end": 94,
+            "id": 3,
+            "text": "Denn außer Layout und Inhalt ist noch etwas neu: die komplette Lokalredaktion.",
+            "tokenIds": [
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93
+            ],
+            "tokens": [
+                "Denn",
+                "außer",
+                "Layout",
+                "und",
+                "Inhalt",
+                "ist",
+                "noch",
+                "etwas",
+                "neu",
+                ":",
+                "die",
+                "komplette",
+                "Lokalredaktion",
+                "."
+            ]
+        },
+        {
+            "begin": 94,
+            "charBegin": 537,
+            "charEnd": 626,
+            "end": 106,
+            "id": 4,
+            "text": "Bereits seit November hatte die Redaktion unter ungewöhnlichen Umständen arbeiten müssen. ",
+            "tokenIds": [
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "tokens": [
+                "Bereits",
+                "seit",
+                "November",
+                "hatte",
+                "die",
+                "Redaktion",
+                "unter",
+                "ungewöhnlichen",
+                "Umständen",
+                "arbeiten",
+                "müssen",
+                "."
+            ]
+        },
+        {
+            "begin": 106,
+            "charBegin": 627,
+            "charEnd": 726,
+            "end": 122,
+            "id": 5,
+            "text": "So wurden ihr nicht nur die Produktion neuer Stadtteilseiten entzogen, sondern auch ihre Büroräume. ",
+            "tokenIds": [
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ],
+            "tokens": [
+                "So",
+                "wurden",
+                "ihr",
+                "nicht",
+                "nur",
+                "die",
+                "Produktion",
+                "neuer",
+                "Stadtteilseiten",
+                "entzogen",
+                ",",
+                "sondern",
+                "auch",
+                "ihre",
+                "Büroräume",
+                "."
+            ]
+        },
+        {
+            "begin": 122,
+            "charBegin": 727,
+            "charEnd": 910,
+            "end": 150,
+            "id": 6,
+            "text": "Mit der Begründung, dass die in bester Innenstadtlage liegenden Räume vermietet werden sollen, wurden die Redakteure in einen Anbau des am Stadtrand liegenden Druckhauses verfrachtet. ",
+            "tokenIds": [
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149
+            ],
+            "tokens": [
+                "Mit",
+                "der",
+                "Begründung",
+                ",",
+                "dass",
+                "die",
+                "in",
+                "bester",
+                "Innenstadtlage",
+                "liegenden",
+                "Räume",
+                "vermietet",
+                "werden",
+                "sollen",
+                ",",
+                "wurden",
+                "die",
+                "Redakteure",
+                "in",
+                "einen",
+                "Anbau",
+                "des",
+                "am",
+                "Stadtrand",
+                "liegenden",
+                "Druckhauses",
+                "verfrachtet",
+                "."
+            ]
+        },
+        {
+            "begin": 150,
+            "charBegin": 911,
+            "charEnd": 990,
+            "end": 163,
+            "id": 7,
+            "text": "Dort mussten sie in behelfsmäßigen Büros wie der Kantine des Gebäudes arbeiten. ",
+            "tokenIds": [
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162
+            ],
+            "tokens": [
+                "Dort",
+                "mussten",
+                "sie",
+                "in",
+                "behelfsmäßigen",
+                "Büros",
+                "wie",
+                "der",
+                "Kantine",
+                "des",
+                "Gebäudes",
+                "arbeiten",
+                "."
+            ]
+        },
+        {
+            "begin": 163,
+            "charBegin": 991,
+            "charEnd": 1181,
+            "end": 188,
+            "id": 8,
+            "text": "Nach Angaben eines Mitarbeiters hätten freie Mitarbeiter gar in einer Damenumkleidekabine Unterkunft gefunden, und manche Kollegen hätten sich behelfsmäßige Ablagen aus Umzugskartons gebaut. ",
+            "tokenIds": [
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187
+            ],
+            "tokens": [
+                "Nach",
+                "Angaben",
+                "eines",
+                "Mitarbeiters",
+                "hätten",
+                "freie",
+                "Mitarbeiter",
+                "gar",
+                "in",
+                "einer",
+                "Damenumkleidekabine",
+                "Unterkunft",
+                "gefunden",
+                ",",
+                "und",
+                "manche",
+                "Kollegen",
+                "hätten",
+                "sich",
+                "behelfsmäßige",
+                "Ablagen",
+                "aus",
+                "Umzugskartons",
+                "gebaut",
+                "."
+            ]
+        },
+        {
+            "begin": 188,
+            "charBegin": 1182,
+            "charEnd": 1338,
+            "end": 212,
+            "id": 9,
+            "text": "Am Freitag dann hatte Verlagsleiter Lutz Schumacher aus heiterem Himmel den 18 Mitarbeitern erklärt, dass sie nunmehr ihre letzte Ausgabe produziert hätten. ",
+            "tokenIds": [
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211
+            ],
+            "tokens": [
+                "Am",
+                "Freitag",
+                "dann",
+                "hatte",
+                "Verlagsleiter",
+                "Lutz",
+                "Schumacher",
+                "aus",
+                "heiterem",
+                "Himmel",
+                "den",
+                "18",
+                "Mitarbeitern",
+                "erklärt",
+                ",",
+                "dass",
+                "sie",
+                "nunmehr",
+                "ihre",
+                "letzte",
+                "Ausgabe",
+                "produziert",
+                "hätten",
+                "."
+            ]
+        },
+        {
+            "begin": 212,
+            "charBegin": 1339,
+            "charEnd": 1484,
+            "end": 234,
+            "id": 10,
+            "text": "Den Erfordernissen der Zukunft sei das Team nicht gewachsen, weswegen der Verleger die Produktion des Lokalteiles an eine Tochterfirma auslagere. ",
+            "tokenIds": [
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233
+            ],
+            "tokens": [
+                "Den",
+                "Erfordernissen",
+                "der",
+                "Zukunft",
+                "sei",
+                "das",
+                "Team",
+                "nicht",
+                "gewachsen",
+                ",",
+                "weswegen",
+                "der",
+                "Verleger",
+                "die",
+                "Produktion",
+                "des",
+                "Lokalteiles",
+                "an",
+                "eine",
+                "Tochterfirma",
+                "auslagere",
+                "."
+            ]
+        },
+        {
+            "begin": 234,
+            "charBegin": 1485,
+            "charEnd": 1774,
+            "end": 278,
+            "id": 11,
+            "text": "Frank Biermann, Vorsitzender der Deutschen Journalistinnen- und Journalisten-Union für das Münsterland, sagte angesichts der Umstände, es sei „unfassbar, mit welcher sozialen Kälte und Gleichgültigkeit von heute auf morgen gestandenen Lokaljournalisten der Stuhl vor die Tür gesetzt wird“.",
+            "tokenIds": [
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273,
+                274,
+                275,
+                276,
+                277
+            ],
+            "tokens": [
+                "Frank",
+                "Biermann",
+                ",",
+                "Vorsitzender",
+                "der",
+                "Deutschen",
+                "Journalistinnen-",
+                "und",
+                "Journalisten-Union",
+                "für",
+                "das",
+                "Münsterland",
+                ",",
+                "sagte",
+                "angesichts",
+                "der",
+                "Umstände",
+                ",",
+                "es",
+                "sei",
+                "„",
+                "unfassbar",
+                ",",
+                "mit",
+                "welcher",
+                "sozialen",
+                "Kälte",
+                "und",
+                "Gleichgültigkeit",
+                "von",
+                "heute",
+                "auf",
+                "morgen",
+                "gestandenen",
+                "Lokaljournalisten",
+                "der",
+                "Stuhl",
+                "vor",
+                "die",
+                "Tür",
+                "gesetzt",
+                "wird",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 278,
+            "charBegin": 1776,
+            "charEnd": 1961,
+            "end": 308,
+            "id": 12,
+            "text": "In einer Pressemitteilung erklärte der Eigentümer, das auch die Dortmunder „Ruhr Nachrichten“ verlegende Medienhaus Lensing, dass das Blatt in einer „schwierigen Marktsituation“ stecke. ",
+            "tokenIds": [
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292,
+                293,
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306,
+                307
+            ],
+            "tokens": [
+                "In",
+                "einer",
+                "Pressemitteilung",
+                "erklärte",
+                "der",
+                "Eigentümer",
+                ",",
+                "das",
+                "auch",
+                "die",
+                "Dortmunder",
+                "„",
+                "Ruhr",
+                "Nachrichten",
+                "“",
+                "verlegende",
+                "Medienhaus",
+                "Lensing",
+                ",",
+                "dass",
+                "das",
+                "Blatt",
+                "in",
+                "einer",
+                "„",
+                "schwierigen",
+                "Marktsituation",
+                "“",
+                "stecke",
+                "."
+            ]
+        },
+        {
+            "begin": 308,
+            "charBegin": 1962,
+            "charEnd": 2013,
+            "end": 316,
+            "id": 13,
+            "text": "Die aktuelle Auflage beträgt etwa 38.000 Exemplare. ",
+            "tokenIds": [
+                308,
+                309,
+                310,
+                311,
+                312,
+                313,
+                314,
+                315
+            ],
+            "tokens": [
+                "Die",
+                "aktuelle",
+                "Auflage",
+                "beträgt",
+                "etwa",
+                "38.000",
+                "Exemplare",
+                "."
+            ]
+        },
+        {
+            "begin": 316,
+            "charBegin": 2014,
+            "charEnd": 2110,
+            "end": 332,
+            "id": 14,
+            "text": "Der Verlag schlug den entlassenen Mitarbeitern vor, sich bei der neuen Tochterfirma zu bewerben. ",
+            "tokenIds": [
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322,
+                323,
+                324,
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331
+            ],
+            "tokens": [
+                "Der",
+                "Verlag",
+                "schlug",
+                "den",
+                "entlassenen",
+                "Mitarbeitern",
+                "vor",
+                ",",
+                "sich",
+                "bei",
+                "der",
+                "neuen",
+                "Tochterfirma",
+                "zu",
+                "bewerben",
+                "."
+            ]
+        },
+        {
+            "begin": 332,
+            "charBegin": 2111,
+            "charEnd": 2236,
+            "end": 349,
+            "id": 15,
+            "text": "Dort stehen allerdings bei weitem nicht ausreichend Stellen für alle ehemaligen Mitarbeiter der Lokalredaktion zur Verfügung. ",
+            "tokenIds": [
+                332,
+                333,
+                334,
+                335,
+                336,
+                337,
+                338,
+                339,
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346,
+                347,
+                348
+            ],
+            "tokens": [
+                "Dort",
+                "stehen",
+                "allerdings",
+                "bei",
+                "weitem",
+                "nicht",
+                "ausreichend",
+                "Stellen",
+                "für",
+                "alle",
+                "ehemaligen",
+                "Mitarbeiter",
+                "der",
+                "Lokalredaktion",
+                "zur",
+                "Verfügung",
+                "."
+            ]
+        },
+        {
+            "begin": 349,
+            "charBegin": 2237,
+            "charEnd": 2345,
+            "end": 368,
+            "id": 16,
+            "text": "Über die Vorgänge im eigenen Haus hat die neue Redaktion der „Münsterschen Zeitung“ bislang nicht berichtet. ",
+            "tokenIds": [
+                349,
+                350,
+                351,
+                352,
+                353,
+                354,
+                355,
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365,
+                366,
+                367
+            ],
+            "tokens": [
+                "Über",
+                "die",
+                "Vorgänge",
+                "im",
+                "eigenen",
+                "Haus",
+                "hat",
+                "die",
+                "neue",
+                "Redaktion",
+                "der",
+                "„",
+                "Münsterschen",
+                "Zeitung",
+                "“",
+                "bislang",
+                "nicht",
+                "berichtet",
+                "."
+            ]
+        },
+        {
+            "begin": 368,
+            "charBegin": 2346,
+            "charEnd": 2445,
+            "end": 384,
+            "id": 17,
+            "text": "Arbeitsplatz der neuen Redaktion: Die alten Redaktionsräume – nun offenbar nicht mehr zu vermieten.",
+            "tokenIds": [
+                368,
+                369,
+                370,
+                371,
+                372,
+                373,
+                374,
+                375,
+                376,
+                377,
+                378,
+                379,
+                380,
+                381,
+                382,
+                383
+            ],
+            "tokens": [
+                "Arbeitsplatz",
+                "der",
+                "neuen",
+                "Redaktion",
+                ":",
+                "Die",
+                "alten",
+                "Redaktionsräume",
+                "–",
+                "nun",
+                "offenbar",
+                "nicht",
+                "mehr",
+                "zu",
+                "vermieten",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 6,
+            "id": 1,
+            "sentence": 1,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 7,
+            "charEnd": 21,
+            "id": 2,
+            "sentence": 1,
+            "text": "Montagsausgabe",
+            "word": 3
+        },
+        {
+            "charBegin": 22,
+            "charEnd": 25,
+            "id": 3,
+            "sentence": 1,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 26,
+            "charEnd": 27,
+            "id": 4,
+            "sentence": 1,
+            "text": "„",
+            "word": 5
+        },
+        {
+            "charBegin": 27,
+            "charEnd": 39,
+            "id": 5,
+            "sentence": 1,
+            "text": "Münsterschen",
+            "word": 6
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 47,
+            "id": 6,
+            "sentence": 1,
+            "text": "Zeitung",
+            "word": 7
+        },
+        {
+            "charBegin": 47,
+            "charEnd": 48,
+            "id": 7,
+            "sentence": 1,
+            "text": "“",
+            "word": 8
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 52,
+            "id": 8,
+            "sentence": 1,
+            "text": "war",
+            "word": 9
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 59,
+            "id": 9,
+            "sentence": 1,
+            "text": "vieles",
+            "word": 10
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 63,
+            "id": 10,
+            "sentence": 1,
+            "text": "neu",
+            "word": 11
+        },
+        {
+            "charBegin": 63,
+            "charEnd": 64,
+            "id": 11,
+            "sentence": 1,
+            "text": ":",
+            "word": 12
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 69,
+            "id": 12,
+            "sentence": 1,
+            "text": "eine",
+            "word": 13
+        },
+        {
+            "charBegin": 70,
+            "charEnd": 74,
+            "id": 13,
+            "sentence": 1,
+            "text": "neue",
+            "word": 14
+        },
+        {
+            "charBegin": 75,
+            "charEnd": 85,
+            "id": 14,
+            "sentence": 1,
+            "text": "Gestaltung",
+            "word": 15
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 86,
+            "id": 15,
+            "sentence": 1,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 87,
+            "charEnd": 91,
+            "id": 16,
+            "sentence": 1,
+            "text": "eine",
+            "word": 17
+        },
+        {
+            "charBegin": 92,
+            "charEnd": 102,
+            "id": 17,
+            "sentence": 1,
+            "text": "zukünftige",
+            "word": 18
+        },
+        {
+            "charBegin": 103,
+            "charEnd": 104,
+            "id": 18,
+            "sentence": 1,
+            "text": "„",
+            "word": 19
+        },
+        {
+            "charBegin": 104,
+            "charEnd": 117,
+            "id": 19,
+            "sentence": 1,
+            "text": "Verschränkung",
+            "word": 20
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 118,
+            "id": 20,
+            "sentence": 1,
+            "text": "“",
+            "word": 21
+        },
+        {
+            "charBegin": 119,
+            "charEnd": 122,
+            "id": 21,
+            "sentence": 1,
+            "text": "mit",
+            "word": 22
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 136,
+            "id": 22,
+            "sentence": 1,
+            "text": "multimedialen",
+            "word": 23
+        },
+        {
+            "charBegin": 137,
+            "charEnd": 145,
+            "id": 23,
+            "sentence": 1,
+            "text": "Inhalten",
+            "word": 24
+        },
+        {
+            "charBegin": 146,
+            "charEnd": 149,
+            "id": 24,
+            "sentence": 1,
+            "text": "und",
+            "word": 25
+        },
+        {
+            "charBegin": 150,
+            "charEnd": 151,
+            "id": 25,
+            "sentence": 1,
+            "text": "–",
+            "word": 26
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 154,
+            "id": 26,
+            "sentence": 1,
+            "text": "so",
+            "word": 27
+        },
+        {
+            "charBegin": 155,
+            "charEnd": 158,
+            "id": 27,
+            "sentence": 1,
+            "text": "der",
+            "word": 28
+        },
+        {
+            "charBegin": 159,
+            "charEnd": 165,
+            "id": 28,
+            "sentence": 1,
+            "text": "eigene",
+            "word": 29
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 172,
+            "id": 29,
+            "sentence": 1,
+            "text": "Wunsch",
+            "word": 30
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 174,
+            "id": 30,
+            "sentence": 1,
+            "text": "–",
+            "word": 31
+        },
+        {
+            "charBegin": 175,
+            "charEnd": 179,
+            "id": 31,
+            "sentence": 1,
+            "text": "eine",
+            "word": 32
+        },
+        {
+            "charBegin": 180,
+            "charEnd": 181,
+            "id": 32,
+            "sentence": 1,
+            "text": "„",
+            "word": 33
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 190,
+            "id": 33,
+            "sentence": 1,
+            "text": "Schärfung",
+            "word": 34
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 194,
+            "id": 34,
+            "sentence": 1,
+            "text": "des",
+            "word": 35
+        },
+        {
+            "charBegin": 195,
+            "charEnd": 211,
+            "id": 35,
+            "sentence": 1,
+            "text": "journalistischen",
+            "word": 36
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 219,
+            "id": 36,
+            "sentence": 1,
+            "text": "Profils",
+            "word": 37
+        },
+        {
+            "charBegin": 219,
+            "charEnd": 220,
+            "id": 37,
+            "sentence": 1,
+            "text": "“",
+            "word": 38
+        },
+        {
+            "charBegin": 220,
+            "charEnd": 221,
+            "id": 38,
+            "sentence": 1,
+            "text": ".",
+            "word": 39
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 224,
+            "id": 39,
+            "sentence": 2,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 225,
+            "charEnd": 228,
+            "id": 40,
+            "sentence": 2,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 229,
+            "charEnd": 236,
+            "id": 41,
+            "sentence": 2,
+            "text": "Zeitung",
+            "word": 3
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 241,
+            "id": 42,
+            "sentence": 2,
+            "text": "fand",
+            "word": 4
+        },
+        {
+            "charBegin": 242,
+            "charEnd": 246,
+            "id": 43,
+            "sentence": 2,
+            "text": "sich",
+            "word": 5
+        },
+        {
+            "charBegin": 247,
+            "charEnd": 251,
+            "id": 44,
+            "sentence": 2,
+            "text": "dazu",
+            "word": 6
+        },
+        {
+            "charBegin": 252,
+            "charEnd": 255,
+            "id": 45,
+            "sentence": 2,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 256,
+            "charEnd": 268,
+            "id": 46,
+            "sentence": 2,
+            "text": "Feststellung",
+            "word": 8
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 270,
+            "id": 47,
+            "sentence": 2,
+            "text": "„",
+            "word": 9
+        },
+        {
+            "charBegin": 270,
+            "charEnd": 273,
+            "id": 48,
+            "sentence": 2,
+            "text": "Mit",
+            "word": 10
+        },
+        {
+            "charBegin": 274,
+            "charEnd": 280,
+            "id": 49,
+            "sentence": 2,
+            "text": "diesem",
+            "word": 11
+        },
+        {
+            "charBegin": 281,
+            "charEnd": 285,
+            "id": 50,
+            "sentence": 2,
+            "text": "Ziel",
+            "word": 12
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 292,
+            "id": 51,
+            "sentence": 2,
+            "text": "stellt",
+            "word": 13
+        },
+        {
+            "charBegin": 293,
+            "charEnd": 296,
+            "id": 52,
+            "sentence": 2,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 297,
+            "charEnd": 308,
+            "id": 53,
+            "sentence": 2,
+            "text": "Münstersche",
+            "word": 15
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 316,
+            "id": 54,
+            "sentence": 2,
+            "text": "Zeitung",
+            "word": 16
+        },
+        {
+            "charBegin": 317,
+            "charEnd": 320,
+            "id": 55,
+            "sentence": 2,
+            "text": "mit",
+            "word": 17
+        },
+        {
+            "charBegin": 321,
+            "charEnd": 327,
+            "id": 56,
+            "sentence": 2,
+            "text": "dieser",
+            "word": 18
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 342,
+            "id": 57,
+            "sentence": 2,
+            "text": "Montagsausgabe",
+            "word": 19
+        },
+        {
+            "charBegin": 343,
+            "charEnd": 347,
+            "id": 58,
+            "sentence": 2,
+            "text": "ihre",
+            "word": 20
+        },
+        {
+            "charBegin": 348,
+            "charEnd": 361,
+            "id": 59,
+            "sentence": 2,
+            "text": "redaktionelle",
+            "word": 21
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 372,
+            "id": 60,
+            "sentence": 2,
+            "text": "Produktion",
+            "word": 22
+        },
+        {
+            "charBegin": 373,
+            "charEnd": 376,
+            "id": 61,
+            "sentence": 2,
+            "text": "auf",
+            "word": 23
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 381,
+            "id": 62,
+            "sentence": 2,
+            "text": "neue",
+            "word": 24
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 387,
+            "id": 63,
+            "sentence": 2,
+            "text": "Beine",
+            "word": 25
+        },
+        {
+            "charBegin": 387,
+            "charEnd": 388,
+            "id": 64,
+            "sentence": 2,
+            "text": "“",
+            "word": 26
+        },
+        {
+            "charBegin": 388,
+            "charEnd": 389,
+            "id": 65,
+            "sentence": 2,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 390,
+            "charEnd": 393,
+            "id": 66,
+            "sentence": 3,
+            "text": "Wie",
+            "word": 1
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 402,
+            "id": 67,
+            "sentence": 3,
+            "text": "wörtlich",
+            "word": 2
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 404,
+            "id": 68,
+            "sentence": 3,
+            "text": "„",
+            "word": 3
+        },
+        {
+            "charBegin": 404,
+            "charEnd": 408,
+            "id": 69,
+            "sentence": 3,
+            "text": "neue",
+            "word": 4
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 414,
+            "id": 70,
+            "sentence": 3,
+            "text": "Beine",
+            "word": 5
+        },
+        {
+            "charBegin": 414,
+            "charEnd": 415,
+            "id": 71,
+            "sentence": 3,
+            "text": "“",
+            "word": 6
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 418,
+            "id": 72,
+            "sentence": 3,
+            "text": "zu",
+            "word": 7
+        },
+        {
+            "charBegin": 419,
+            "charEnd": 428,
+            "id": 73,
+            "sentence": 3,
+            "text": "verstehen",
+            "word": 8
+        },
+        {
+            "charBegin": 429,
+            "charEnd": 432,
+            "id": 74,
+            "sentence": 3,
+            "text": "ist",
+            "word": 9
+        },
+        {
+            "charBegin": 432,
+            "charEnd": 433,
+            "id": 75,
+            "sentence": 3,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 434,
+            "charEnd": 439,
+            "id": 76,
+            "sentence": 3,
+            "text": "wurde",
+            "word": 11
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 447,
+            "id": 77,
+            "sentence": 3,
+            "text": "gestern",
+            "word": 12
+        },
+        {
+            "charBegin": 448,
+            "charEnd": 455,
+            "id": 78,
+            "sentence": 3,
+            "text": "bekannt",
+            "word": 13
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 456,
+            "id": 79,
+            "sentence": 3,
+            "text": ":",
+            "word": 14
+        },
+        {
+            "charBegin": 457,
+            "charEnd": 461,
+            "id": 80,
+            "sentence": 4,
+            "text": "Denn",
+            "word": 1
+        },
+        {
+            "charBegin": 462,
+            "charEnd": 467,
+            "id": 81,
+            "sentence": 4,
+            "text": "außer",
+            "word": 2
+        },
+        {
+            "charBegin": 468,
+            "charEnd": 474,
+            "id": 82,
+            "sentence": 4,
+            "text": "Layout",
+            "word": 3
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 478,
+            "id": 83,
+            "sentence": 4,
+            "text": "und",
+            "word": 4
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 485,
+            "id": 84,
+            "sentence": 4,
+            "text": "Inhalt",
+            "word": 5
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 489,
+            "id": 85,
+            "sentence": 4,
+            "text": "ist",
+            "word": 6
+        },
+        {
+            "charBegin": 490,
+            "charEnd": 494,
+            "id": 86,
+            "sentence": 4,
+            "text": "noch",
+            "word": 7
+        },
+        {
+            "charBegin": 495,
+            "charEnd": 500,
+            "id": 87,
+            "sentence": 4,
+            "text": "etwas",
+            "word": 8
+        },
+        {
+            "charBegin": 501,
+            "charEnd": 504,
+            "id": 88,
+            "sentence": 4,
+            "text": "neu",
+            "word": 9
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 505,
+            "id": 89,
+            "sentence": 4,
+            "text": ":",
+            "word": 10
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 509,
+            "id": 90,
+            "sentence": 4,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 519,
+            "id": 91,
+            "sentence": 4,
+            "text": "komplette",
+            "word": 12
+        },
+        {
+            "charBegin": 520,
+            "charEnd": 534,
+            "id": 92,
+            "sentence": 4,
+            "text": "Lokalredaktion",
+            "word": 13
+        },
+        {
+            "charBegin": 534,
+            "charEnd": 535,
+            "id": 93,
+            "sentence": 4,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 537,
+            "charEnd": 544,
+            "id": 94,
+            "sentence": 5,
+            "text": "Bereits",
+            "word": 1
+        },
+        {
+            "charBegin": 545,
+            "charEnd": 549,
+            "id": 95,
+            "sentence": 5,
+            "text": "seit",
+            "word": 2
+        },
+        {
+            "charBegin": 550,
+            "charEnd": 558,
+            "id": 96,
+            "sentence": 5,
+            "text": "November",
+            "word": 3
+        },
+        {
+            "charBegin": 559,
+            "charEnd": 564,
+            "id": 97,
+            "sentence": 5,
+            "text": "hatte",
+            "word": 4
+        },
+        {
+            "charBegin": 565,
+            "charEnd": 568,
+            "id": 98,
+            "sentence": 5,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 578,
+            "id": 99,
+            "sentence": 5,
+            "text": "Redaktion",
+            "word": 6
+        },
+        {
+            "charBegin": 579,
+            "charEnd": 584,
+            "id": 100,
+            "sentence": 5,
+            "text": "unter",
+            "word": 7
+        },
+        {
+            "charBegin": 585,
+            "charEnd": 599,
+            "id": 101,
+            "sentence": 5,
+            "text": "ungewöhnlichen",
+            "word": 8
+        },
+        {
+            "charBegin": 600,
+            "charEnd": 609,
+            "id": 102,
+            "sentence": 5,
+            "text": "Umständen",
+            "word": 9
+        },
+        {
+            "charBegin": 610,
+            "charEnd": 618,
+            "id": 103,
+            "sentence": 5,
+            "text": "arbeiten",
+            "word": 10
+        },
+        {
+            "charBegin": 619,
+            "charEnd": 625,
+            "id": 104,
+            "sentence": 5,
+            "text": "müssen",
+            "word": 11
+        },
+        {
+            "charBegin": 625,
+            "charEnd": 626,
+            "id": 105,
+            "sentence": 5,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 627,
+            "charEnd": 629,
+            "id": 106,
+            "sentence": 6,
+            "text": "So",
+            "word": 1
+        },
+        {
+            "charBegin": 630,
+            "charEnd": 636,
+            "id": 107,
+            "sentence": 6,
+            "text": "wurden",
+            "word": 2
+        },
+        {
+            "charBegin": 637,
+            "charEnd": 640,
+            "id": 108,
+            "sentence": 6,
+            "text": "ihr",
+            "word": 3
+        },
+        {
+            "charBegin": 641,
+            "charEnd": 646,
+            "id": 109,
+            "sentence": 6,
+            "text": "nicht",
+            "word": 4
+        },
+        {
+            "charBegin": 647,
+            "charEnd": 650,
+            "id": 110,
+            "sentence": 6,
+            "text": "nur",
+            "word": 5
+        },
+        {
+            "charBegin": 651,
+            "charEnd": 654,
+            "id": 111,
+            "sentence": 6,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 655,
+            "charEnd": 665,
+            "id": 112,
+            "sentence": 6,
+            "text": "Produktion",
+            "word": 7
+        },
+        {
+            "charBegin": 666,
+            "charEnd": 671,
+            "id": 113,
+            "sentence": 6,
+            "text": "neuer",
+            "word": 8
+        },
+        {
+            "charBegin": 672,
+            "charEnd": 687,
+            "id": 114,
+            "sentence": 6,
+            "text": "Stadtteilseiten",
+            "word": 9
+        },
+        {
+            "charBegin": 688,
+            "charEnd": 696,
+            "id": 115,
+            "sentence": 6,
+            "text": "entzogen",
+            "word": 10
+        },
+        {
+            "charBegin": 696,
+            "charEnd": 697,
+            "id": 116,
+            "sentence": 6,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 698,
+            "charEnd": 705,
+            "id": 117,
+            "sentence": 6,
+            "text": "sondern",
+            "word": 12
+        },
+        {
+            "charBegin": 706,
+            "charEnd": 710,
+            "id": 118,
+            "sentence": 6,
+            "text": "auch",
+            "word": 13
+        },
+        {
+            "charBegin": 711,
+            "charEnd": 715,
+            "id": 119,
+            "sentence": 6,
+            "text": "ihre",
+            "word": 14
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 725,
+            "id": 120,
+            "sentence": 6,
+            "text": "Büroräume",
+            "word": 15
+        },
+        {
+            "charBegin": 725,
+            "charEnd": 726,
+            "id": 121,
+            "sentence": 6,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 727,
+            "charEnd": 730,
+            "id": 122,
+            "sentence": 7,
+            "text": "Mit",
+            "word": 1
+        },
+        {
+            "charBegin": 731,
+            "charEnd": 734,
+            "id": 123,
+            "sentence": 7,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 735,
+            "charEnd": 745,
+            "id": 124,
+            "sentence": 7,
+            "text": "Begründung",
+            "word": 3
+        },
+        {
+            "charBegin": 745,
+            "charEnd": 746,
+            "id": 125,
+            "sentence": 7,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 747,
+            "charEnd": 751,
+            "id": 126,
+            "sentence": 7,
+            "text": "dass",
+            "word": 5
+        },
+        {
+            "charBegin": 752,
+            "charEnd": 755,
+            "id": 127,
+            "sentence": 7,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 756,
+            "charEnd": 758,
+            "id": 128,
+            "sentence": 7,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 765,
+            "id": 129,
+            "sentence": 7,
+            "text": "bester",
+            "word": 8
+        },
+        {
+            "charBegin": 766,
+            "charEnd": 780,
+            "id": 130,
+            "sentence": 7,
+            "text": "Innenstadtlage",
+            "word": 9
+        },
+        {
+            "charBegin": 781,
+            "charEnd": 790,
+            "id": 131,
+            "sentence": 7,
+            "text": "liegenden",
+            "word": 10
+        },
+        {
+            "charBegin": 791,
+            "charEnd": 796,
+            "id": 132,
+            "sentence": 7,
+            "text": "Räume",
+            "word": 11
+        },
+        {
+            "charBegin": 797,
+            "charEnd": 806,
+            "id": 133,
+            "sentence": 7,
+            "text": "vermietet",
+            "word": 12
+        },
+        {
+            "charBegin": 807,
+            "charEnd": 813,
+            "id": 134,
+            "sentence": 7,
+            "text": "werden",
+            "word": 13
+        },
+        {
+            "charBegin": 814,
+            "charEnd": 820,
+            "id": 135,
+            "sentence": 7,
+            "text": "sollen",
+            "word": 14
+        },
+        {
+            "charBegin": 820,
+            "charEnd": 821,
+            "id": 136,
+            "sentence": 7,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 822,
+            "charEnd": 828,
+            "id": 137,
+            "sentence": 7,
+            "text": "wurden",
+            "word": 16
+        },
+        {
+            "charBegin": 829,
+            "charEnd": 832,
+            "id": 138,
+            "sentence": 7,
+            "text": "die",
+            "word": 17
+        },
+        {
+            "charBegin": 833,
+            "charEnd": 843,
+            "id": 139,
+            "sentence": 7,
+            "text": "Redakteure",
+            "word": 18
+        },
+        {
+            "charBegin": 844,
+            "charEnd": 846,
+            "id": 140,
+            "sentence": 7,
+            "text": "in",
+            "word": 19
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 852,
+            "id": 141,
+            "sentence": 7,
+            "text": "einen",
+            "word": 20
+        },
+        {
+            "charBegin": 853,
+            "charEnd": 858,
+            "id": 142,
+            "sentence": 7,
+            "text": "Anbau",
+            "word": 21
+        },
+        {
+            "charBegin": 859,
+            "charEnd": 862,
+            "id": 143,
+            "sentence": 7,
+            "text": "des",
+            "word": 22
+        },
+        {
+            "charBegin": 863,
+            "charEnd": 865,
+            "id": 144,
+            "sentence": 7,
+            "text": "am",
+            "word": 23
+        },
+        {
+            "charBegin": 866,
+            "charEnd": 875,
+            "id": 145,
+            "sentence": 7,
+            "text": "Stadtrand",
+            "word": 24
+        },
+        {
+            "charBegin": 876,
+            "charEnd": 885,
+            "id": 146,
+            "sentence": 7,
+            "text": "liegenden",
+            "word": 25
+        },
+        {
+            "charBegin": 886,
+            "charEnd": 897,
+            "id": 147,
+            "sentence": 7,
+            "text": "Druckhauses",
+            "word": 26
+        },
+        {
+            "charBegin": 898,
+            "charEnd": 909,
+            "id": 148,
+            "sentence": 7,
+            "text": "verfrachtet",
+            "word": 27
+        },
+        {
+            "charBegin": 909,
+            "charEnd": 910,
+            "id": 149,
+            "sentence": 7,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 911,
+            "charEnd": 915,
+            "id": 150,
+            "sentence": 8,
+            "text": "Dort",
+            "word": 1
+        },
+        {
+            "charBegin": 916,
+            "charEnd": 923,
+            "id": 151,
+            "sentence": 8,
+            "text": "mussten",
+            "word": 2
+        },
+        {
+            "charBegin": 924,
+            "charEnd": 927,
+            "id": 152,
+            "sentence": 8,
+            "text": "sie",
+            "word": 3
+        },
+        {
+            "charBegin": 928,
+            "charEnd": 930,
+            "id": 153,
+            "sentence": 8,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 931,
+            "charEnd": 945,
+            "id": 154,
+            "sentence": 8,
+            "text": "behelfsmäßigen",
+            "word": 5
+        },
+        {
+            "charBegin": 946,
+            "charEnd": 951,
+            "id": 155,
+            "sentence": 8,
+            "text": "Büros",
+            "word": 6
+        },
+        {
+            "charBegin": 952,
+            "charEnd": 955,
+            "id": 156,
+            "sentence": 8,
+            "text": "wie",
+            "word": 7
+        },
+        {
+            "charBegin": 956,
+            "charEnd": 959,
+            "id": 157,
+            "sentence": 8,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 960,
+            "charEnd": 967,
+            "id": 158,
+            "sentence": 8,
+            "text": "Kantine",
+            "word": 9
+        },
+        {
+            "charBegin": 968,
+            "charEnd": 971,
+            "id": 159,
+            "sentence": 8,
+            "text": "des",
+            "word": 10
+        },
+        {
+            "charBegin": 972,
+            "charEnd": 980,
+            "id": 160,
+            "sentence": 8,
+            "text": "Gebäudes",
+            "word": 11
+        },
+        {
+            "charBegin": 981,
+            "charEnd": 989,
+            "id": 161,
+            "sentence": 8,
+            "text": "arbeiten",
+            "word": 12
+        },
+        {
+            "charBegin": 989,
+            "charEnd": 990,
+            "id": 162,
+            "sentence": 8,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 991,
+            "charEnd": 995,
+            "id": 163,
+            "sentence": 9,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 996,
+            "charEnd": 1003,
+            "id": 164,
+            "sentence": 9,
+            "text": "Angaben",
+            "word": 2
+        },
+        {
+            "charBegin": 1004,
+            "charEnd": 1009,
+            "id": 165,
+            "sentence": 9,
+            "text": "eines",
+            "word": 3
+        },
+        {
+            "charBegin": 1010,
+            "charEnd": 1022,
+            "id": 166,
+            "sentence": 9,
+            "text": "Mitarbeiters",
+            "word": 4
+        },
+        {
+            "charBegin": 1023,
+            "charEnd": 1029,
+            "id": 167,
+            "sentence": 9,
+            "text": "hätten",
+            "word": 5
+        },
+        {
+            "charBegin": 1030,
+            "charEnd": 1035,
+            "id": 168,
+            "sentence": 9,
+            "text": "freie",
+            "word": 6
+        },
+        {
+            "charBegin": 1036,
+            "charEnd": 1047,
+            "id": 169,
+            "sentence": 9,
+            "text": "Mitarbeiter",
+            "word": 7
+        },
+        {
+            "charBegin": 1048,
+            "charEnd": 1051,
+            "id": 170,
+            "sentence": 9,
+            "text": "gar",
+            "word": 8
+        },
+        {
+            "charBegin": 1052,
+            "charEnd": 1054,
+            "id": 171,
+            "sentence": 9,
+            "text": "in",
+            "word": 9
+        },
+        {
+            "charBegin": 1055,
+            "charEnd": 1060,
+            "id": 172,
+            "sentence": 9,
+            "text": "einer",
+            "word": 10
+        },
+        {
+            "charBegin": 1061,
+            "charEnd": 1080,
+            "id": 173,
+            "sentence": 9,
+            "text": "Damenumkleidekabine",
+            "word": 11
+        },
+        {
+            "charBegin": 1081,
+            "charEnd": 1091,
+            "id": 174,
+            "sentence": 9,
+            "text": "Unterkunft",
+            "word": 12
+        },
+        {
+            "charBegin": 1092,
+            "charEnd": 1100,
+            "id": 175,
+            "sentence": 9,
+            "text": "gefunden",
+            "word": 13
+        },
+        {
+            "charBegin": 1100,
+            "charEnd": 1101,
+            "id": 176,
+            "sentence": 9,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 1102,
+            "charEnd": 1105,
+            "id": 177,
+            "sentence": 9,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 1106,
+            "charEnd": 1112,
+            "id": 178,
+            "sentence": 9,
+            "text": "manche",
+            "word": 16
+        },
+        {
+            "charBegin": 1113,
+            "charEnd": 1121,
+            "id": 179,
+            "sentence": 9,
+            "text": "Kollegen",
+            "word": 17
+        },
+        {
+            "charBegin": 1122,
+            "charEnd": 1128,
+            "id": 180,
+            "sentence": 9,
+            "text": "hätten",
+            "word": 18
+        },
+        {
+            "charBegin": 1129,
+            "charEnd": 1133,
+            "id": 181,
+            "sentence": 9,
+            "text": "sich",
+            "word": 19
+        },
+        {
+            "charBegin": 1134,
+            "charEnd": 1147,
+            "id": 182,
+            "sentence": 9,
+            "text": "behelfsmäßige",
+            "word": 20
+        },
+        {
+            "charBegin": 1148,
+            "charEnd": 1155,
+            "id": 183,
+            "sentence": 9,
+            "text": "Ablagen",
+            "word": 21
+        },
+        {
+            "charBegin": 1156,
+            "charEnd": 1159,
+            "id": 184,
+            "sentence": 9,
+            "text": "aus",
+            "word": 22
+        },
+        {
+            "charBegin": 1160,
+            "charEnd": 1173,
+            "id": 185,
+            "sentence": 9,
+            "text": "Umzugskartons",
+            "word": 23
+        },
+        {
+            "charBegin": 1174,
+            "charEnd": 1180,
+            "id": 186,
+            "sentence": 9,
+            "text": "gebaut",
+            "word": 24
+        },
+        {
+            "charBegin": 1180,
+            "charEnd": 1181,
+            "id": 187,
+            "sentence": 9,
+            "text": ".",
+            "word": 25
+        },
+        {
+            "charBegin": 1182,
+            "charEnd": 1184,
+            "id": 188,
+            "sentence": 10,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 1185,
+            "charEnd": 1192,
+            "id": 189,
+            "sentence": 10,
+            "text": "Freitag",
+            "word": 2
+        },
+        {
+            "charBegin": 1193,
+            "charEnd": 1197,
+            "id": 190,
+            "sentence": 10,
+            "text": "dann",
+            "word": 3
+        },
+        {
+            "charBegin": 1198,
+            "charEnd": 1203,
+            "id": 191,
+            "sentence": 10,
+            "text": "hatte",
+            "word": 4
+        },
+        {
+            "charBegin": 1204,
+            "charEnd": 1217,
+            "id": 192,
+            "sentence": 10,
+            "text": "Verlagsleiter",
+            "word": 5
+        },
+        {
+            "charBegin": 1218,
+            "charEnd": 1222,
+            "id": 193,
+            "sentence": 10,
+            "text": "Lutz",
+            "word": 6
+        },
+        {
+            "charBegin": 1223,
+            "charEnd": 1233,
+            "id": 194,
+            "sentence": 10,
+            "text": "Schumacher",
+            "word": 7
+        },
+        {
+            "charBegin": 1234,
+            "charEnd": 1237,
+            "id": 195,
+            "sentence": 10,
+            "text": "aus",
+            "word": 8
+        },
+        {
+            "charBegin": 1238,
+            "charEnd": 1246,
+            "id": 196,
+            "sentence": 10,
+            "text": "heiterem",
+            "word": 9
+        },
+        {
+            "charBegin": 1247,
+            "charEnd": 1253,
+            "id": 197,
+            "sentence": 10,
+            "text": "Himmel",
+            "word": 10
+        },
+        {
+            "charBegin": 1254,
+            "charEnd": 1257,
+            "id": 198,
+            "sentence": 10,
+            "text": "den",
+            "word": 11
+        },
+        {
+            "charBegin": 1258,
+            "charEnd": 1260,
+            "id": 199,
+            "sentence": 10,
+            "text": "18",
+            "word": 12
+        },
+        {
+            "charBegin": 1261,
+            "charEnd": 1273,
+            "id": 200,
+            "sentence": 10,
+            "text": "Mitarbeitern",
+            "word": 13
+        },
+        {
+            "charBegin": 1274,
+            "charEnd": 1281,
+            "id": 201,
+            "sentence": 10,
+            "text": "erklärt",
+            "word": 14
+        },
+        {
+            "charBegin": 1281,
+            "charEnd": 1282,
+            "id": 202,
+            "sentence": 10,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 1283,
+            "charEnd": 1287,
+            "id": 203,
+            "sentence": 10,
+            "text": "dass",
+            "word": 16
+        },
+        {
+            "charBegin": 1288,
+            "charEnd": 1291,
+            "id": 204,
+            "sentence": 10,
+            "text": "sie",
+            "word": 17
+        },
+        {
+            "charBegin": 1292,
+            "charEnd": 1299,
+            "id": 205,
+            "sentence": 10,
+            "text": "nunmehr",
+            "word": 18
+        },
+        {
+            "charBegin": 1300,
+            "charEnd": 1304,
+            "id": 206,
+            "sentence": 10,
+            "text": "ihre",
+            "word": 19
+        },
+        {
+            "charBegin": 1305,
+            "charEnd": 1311,
+            "id": 207,
+            "sentence": 10,
+            "text": "letzte",
+            "word": 20
+        },
+        {
+            "charBegin": 1312,
+            "charEnd": 1319,
+            "id": 208,
+            "sentence": 10,
+            "text": "Ausgabe",
+            "word": 21
+        },
+        {
+            "charBegin": 1320,
+            "charEnd": 1330,
+            "id": 209,
+            "sentence": 10,
+            "text": "produziert",
+            "word": 22
+        },
+        {
+            "charBegin": 1331,
+            "charEnd": 1337,
+            "id": 210,
+            "sentence": 10,
+            "text": "hätten",
+            "word": 23
+        },
+        {
+            "charBegin": 1337,
+            "charEnd": 1338,
+            "id": 211,
+            "sentence": 10,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 1339,
+            "charEnd": 1342,
+            "id": 212,
+            "sentence": 11,
+            "text": "Den",
+            "word": 1
+        },
+        {
+            "charBegin": 1343,
+            "charEnd": 1357,
+            "id": 213,
+            "sentence": 11,
+            "text": "Erfordernissen",
+            "word": 2
+        },
+        {
+            "charBegin": 1358,
+            "charEnd": 1361,
+            "id": 214,
+            "sentence": 11,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 1362,
+            "charEnd": 1369,
+            "id": 215,
+            "sentence": 11,
+            "text": "Zukunft",
+            "word": 4
+        },
+        {
+            "charBegin": 1370,
+            "charEnd": 1373,
+            "id": 216,
+            "sentence": 11,
+            "text": "sei",
+            "word": 5
+        },
+        {
+            "charBegin": 1374,
+            "charEnd": 1377,
+            "id": 217,
+            "sentence": 11,
+            "text": "das",
+            "word": 6
+        },
+        {
+            "charBegin": 1378,
+            "charEnd": 1382,
+            "id": 218,
+            "sentence": 11,
+            "text": "Team",
+            "word": 7
+        },
+        {
+            "charBegin": 1383,
+            "charEnd": 1388,
+            "id": 219,
+            "sentence": 11,
+            "text": "nicht",
+            "word": 8
+        },
+        {
+            "charBegin": 1389,
+            "charEnd": 1398,
+            "id": 220,
+            "sentence": 11,
+            "text": "gewachsen",
+            "word": 9
+        },
+        {
+            "charBegin": 1398,
+            "charEnd": 1399,
+            "id": 221,
+            "sentence": 11,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 1400,
+            "charEnd": 1408,
+            "id": 222,
+            "sentence": 11,
+            "text": "weswegen",
+            "word": 11
+        },
+        {
+            "charBegin": 1409,
+            "charEnd": 1412,
+            "id": 223,
+            "sentence": 11,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 1413,
+            "charEnd": 1421,
+            "id": 224,
+            "sentence": 11,
+            "text": "Verleger",
+            "word": 13
+        },
+        {
+            "charBegin": 1422,
+            "charEnd": 1425,
+            "id": 225,
+            "sentence": 11,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 1426,
+            "charEnd": 1436,
+            "id": 226,
+            "sentence": 11,
+            "text": "Produktion",
+            "word": 15
+        },
+        {
+            "charBegin": 1437,
+            "charEnd": 1440,
+            "id": 227,
+            "sentence": 11,
+            "text": "des",
+            "word": 16
+        },
+        {
+            "charBegin": 1441,
+            "charEnd": 1452,
+            "id": 228,
+            "sentence": 11,
+            "text": "Lokalteiles",
+            "word": 17
+        },
+        {
+            "charBegin": 1453,
+            "charEnd": 1455,
+            "id": 229,
+            "sentence": 11,
+            "text": "an",
+            "word": 18
+        },
+        {
+            "charBegin": 1456,
+            "charEnd": 1460,
+            "id": 230,
+            "sentence": 11,
+            "text": "eine",
+            "word": 19
+        },
+        {
+            "charBegin": 1461,
+            "charEnd": 1473,
+            "id": 231,
+            "sentence": 11,
+            "text": "Tochterfirma",
+            "word": 20
+        },
+        {
+            "charBegin": 1474,
+            "charEnd": 1483,
+            "id": 232,
+            "sentence": 11,
+            "text": "auslagere",
+            "word": 21
+        },
+        {
+            "charBegin": 1483,
+            "charEnd": 1484,
+            "id": 233,
+            "sentence": 11,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 1485,
+            "charEnd": 1490,
+            "id": 234,
+            "sentence": 12,
+            "text": "Frank",
+            "word": 1
+        },
+        {
+            "charBegin": 1491,
+            "charEnd": 1499,
+            "id": 235,
+            "sentence": 12,
+            "text": "Biermann",
+            "word": 2
+        },
+        {
+            "charBegin": 1499,
+            "charEnd": 1500,
+            "id": 236,
+            "sentence": 12,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 1501,
+            "charEnd": 1513,
+            "id": 237,
+            "sentence": 12,
+            "text": "Vorsitzender",
+            "word": 4
+        },
+        {
+            "charBegin": 1514,
+            "charEnd": 1517,
+            "id": 238,
+            "sentence": 12,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 1518,
+            "charEnd": 1527,
+            "id": 239,
+            "sentence": 12,
+            "text": "Deutschen",
+            "word": 6
+        },
+        {
+            "charBegin": 1528,
+            "charEnd": 1544,
+            "id": 240,
+            "sentence": 12,
+            "text": "Journalistinnen-",
+            "word": 7
+        },
+        {
+            "charBegin": 1545,
+            "charEnd": 1548,
+            "id": 241,
+            "sentence": 12,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 1549,
+            "charEnd": 1567,
+            "id": 242,
+            "sentence": 12,
+            "text": "Journalisten-Union",
+            "word": 9
+        },
+        {
+            "charBegin": 1568,
+            "charEnd": 1571,
+            "id": 243,
+            "sentence": 12,
+            "text": "für",
+            "word": 10
+        },
+        {
+            "charBegin": 1572,
+            "charEnd": 1575,
+            "id": 244,
+            "sentence": 12,
+            "text": "das",
+            "word": 11
+        },
+        {
+            "charBegin": 1576,
+            "charEnd": 1587,
+            "id": 245,
+            "sentence": 12,
+            "text": "Münsterland",
+            "word": 12
+        },
+        {
+            "charBegin": 1587,
+            "charEnd": 1588,
+            "id": 246,
+            "sentence": 12,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 1589,
+            "charEnd": 1594,
+            "id": 247,
+            "sentence": 12,
+            "text": "sagte",
+            "word": 14
+        },
+        {
+            "charBegin": 1595,
+            "charEnd": 1605,
+            "id": 248,
+            "sentence": 12,
+            "text": "angesichts",
+            "word": 15
+        },
+        {
+            "charBegin": 1606,
+            "charEnd": 1609,
+            "id": 249,
+            "sentence": 12,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 1610,
+            "charEnd": 1618,
+            "id": 250,
+            "sentence": 12,
+            "text": "Umstände",
+            "word": 17
+        },
+        {
+            "charBegin": 1618,
+            "charEnd": 1619,
+            "id": 251,
+            "sentence": 12,
+            "text": ",",
+            "word": 18
+        },
+        {
+            "charBegin": 1620,
+            "charEnd": 1622,
+            "id": 252,
+            "sentence": 12,
+            "text": "es",
+            "word": 19
+        },
+        {
+            "charBegin": 1623,
+            "charEnd": 1626,
+            "id": 253,
+            "sentence": 12,
+            "text": "sei",
+            "word": 20
+        },
+        {
+            "charBegin": 1627,
+            "charEnd": 1628,
+            "id": 254,
+            "sentence": 12,
+            "text": "„",
+            "word": 21
+        },
+        {
+            "charBegin": 1628,
+            "charEnd": 1637,
+            "id": 255,
+            "sentence": 12,
+            "text": "unfassbar",
+            "word": 22
+        },
+        {
+            "charBegin": 1637,
+            "charEnd": 1638,
+            "id": 256,
+            "sentence": 12,
+            "text": ",",
+            "word": 23
+        },
+        {
+            "charBegin": 1639,
+            "charEnd": 1642,
+            "id": 257,
+            "sentence": 12,
+            "text": "mit",
+            "word": 24
+        },
+        {
+            "charBegin": 1643,
+            "charEnd": 1650,
+            "id": 258,
+            "sentence": 12,
+            "text": "welcher",
+            "word": 25
+        },
+        {
+            "charBegin": 1651,
+            "charEnd": 1659,
+            "id": 259,
+            "sentence": 12,
+            "text": "sozialen",
+            "word": 26
+        },
+        {
+            "charBegin": 1660,
+            "charEnd": 1665,
+            "id": 260,
+            "sentence": 12,
+            "text": "Kälte",
+            "word": 27
+        },
+        {
+            "charBegin": 1666,
+            "charEnd": 1669,
+            "id": 261,
+            "sentence": 12,
+            "text": "und",
+            "word": 28
+        },
+        {
+            "charBegin": 1670,
+            "charEnd": 1686,
+            "id": 262,
+            "sentence": 12,
+            "text": "Gleichgültigkeit",
+            "word": 29
+        },
+        {
+            "charBegin": 1687,
+            "charEnd": 1690,
+            "id": 263,
+            "sentence": 12,
+            "text": "von",
+            "word": 30
+        },
+        {
+            "charBegin": 1691,
+            "charEnd": 1696,
+            "id": 264,
+            "sentence": 12,
+            "text": "heute",
+            "word": 31
+        },
+        {
+            "charBegin": 1697,
+            "charEnd": 1700,
+            "id": 265,
+            "sentence": 12,
+            "text": "auf",
+            "word": 32
+        },
+        {
+            "charBegin": 1701,
+            "charEnd": 1707,
+            "id": 266,
+            "sentence": 12,
+            "text": "morgen",
+            "word": 33
+        },
+        {
+            "charBegin": 1708,
+            "charEnd": 1719,
+            "id": 267,
+            "sentence": 12,
+            "text": "gestandenen",
+            "word": 34
+        },
+        {
+            "charBegin": 1720,
+            "charEnd": 1737,
+            "id": 268,
+            "sentence": 12,
+            "text": "Lokaljournalisten",
+            "word": 35
+        },
+        {
+            "charBegin": 1738,
+            "charEnd": 1741,
+            "id": 269,
+            "sentence": 12,
+            "text": "der",
+            "word": 36
+        },
+        {
+            "charBegin": 1742,
+            "charEnd": 1747,
+            "id": 270,
+            "sentence": 12,
+            "text": "Stuhl",
+            "word": 37
+        },
+        {
+            "charBegin": 1748,
+            "charEnd": 1751,
+            "id": 271,
+            "sentence": 12,
+            "text": "vor",
+            "word": 38
+        },
+        {
+            "charBegin": 1752,
+            "charEnd": 1755,
+            "id": 272,
+            "sentence": 12,
+            "text": "die",
+            "word": 39
+        },
+        {
+            "charBegin": 1756,
+            "charEnd": 1759,
+            "id": 273,
+            "sentence": 12,
+            "text": "Tür",
+            "word": 40
+        },
+        {
+            "charBegin": 1760,
+            "charEnd": 1767,
+            "id": 274,
+            "sentence": 12,
+            "text": "gesetzt",
+            "word": 41
+        },
+        {
+            "charBegin": 1768,
+            "charEnd": 1772,
+            "id": 275,
+            "sentence": 12,
+            "text": "wird",
+            "word": 42
+        },
+        {
+            "charBegin": 1772,
+            "charEnd": 1773,
+            "id": 276,
+            "sentence": 12,
+            "text": "“",
+            "word": 43
+        },
+        {
+            "charBegin": 1773,
+            "charEnd": 1774,
+            "id": 277,
+            "sentence": 12,
+            "text": ".",
+            "word": 44
+        },
+        {
+            "charBegin": 1776,
+            "charEnd": 1778,
+            "id": 278,
+            "sentence": 13,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 1779,
+            "charEnd": 1784,
+            "id": 279,
+            "sentence": 13,
+            "text": "einer",
+            "word": 2
+        },
+        {
+            "charBegin": 1785,
+            "charEnd": 1801,
+            "id": 280,
+            "sentence": 13,
+            "text": "Pressemitteilung",
+            "word": 3
+        },
+        {
+            "charBegin": 1802,
+            "charEnd": 1810,
+            "id": 281,
+            "sentence": 13,
+            "text": "erklärte",
+            "word": 4
+        },
+        {
+            "charBegin": 1811,
+            "charEnd": 1814,
+            "id": 282,
+            "sentence": 13,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 1815,
+            "charEnd": 1825,
+            "id": 283,
+            "sentence": 13,
+            "text": "Eigentümer",
+            "word": 6
+        },
+        {
+            "charBegin": 1825,
+            "charEnd": 1826,
+            "id": 284,
+            "sentence": 13,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 1827,
+            "charEnd": 1830,
+            "id": 285,
+            "sentence": 13,
+            "text": "das",
+            "word": 8
+        },
+        {
+            "charBegin": 1831,
+            "charEnd": 1835,
+            "id": 286,
+            "sentence": 13,
+            "text": "auch",
+            "word": 9
+        },
+        {
+            "charBegin": 1836,
+            "charEnd": 1839,
+            "id": 287,
+            "sentence": 13,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 1840,
+            "charEnd": 1850,
+            "id": 288,
+            "sentence": 13,
+            "text": "Dortmunder",
+            "word": 11
+        },
+        {
+            "charBegin": 1851,
+            "charEnd": 1852,
+            "id": 289,
+            "sentence": 13,
+            "text": "„",
+            "word": 12
+        },
+        {
+            "charBegin": 1852,
+            "charEnd": 1856,
+            "id": 290,
+            "sentence": 13,
+            "text": "Ruhr",
+            "word": 13
+        },
+        {
+            "charBegin": 1857,
+            "charEnd": 1868,
+            "id": 291,
+            "sentence": 13,
+            "text": "Nachrichten",
+            "word": 14
+        },
+        {
+            "charBegin": 1868,
+            "charEnd": 1869,
+            "id": 292,
+            "sentence": 13,
+            "text": "“",
+            "word": 15
+        },
+        {
+            "charBegin": 1870,
+            "charEnd": 1880,
+            "id": 293,
+            "sentence": 13,
+            "text": "verlegende",
+            "word": 16
+        },
+        {
+            "charBegin": 1881,
+            "charEnd": 1891,
+            "id": 294,
+            "sentence": 13,
+            "text": "Medienhaus",
+            "word": 17
+        },
+        {
+            "charBegin": 1892,
+            "charEnd": 1899,
+            "id": 295,
+            "sentence": 13,
+            "text": "Lensing",
+            "word": 18
+        },
+        {
+            "charBegin": 1899,
+            "charEnd": 1900,
+            "id": 296,
+            "sentence": 13,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 1901,
+            "charEnd": 1905,
+            "id": 297,
+            "sentence": 13,
+            "text": "dass",
+            "word": 20
+        },
+        {
+            "charBegin": 1906,
+            "charEnd": 1909,
+            "id": 298,
+            "sentence": 13,
+            "text": "das",
+            "word": 21
+        },
+        {
+            "charBegin": 1910,
+            "charEnd": 1915,
+            "id": 299,
+            "sentence": 13,
+            "text": "Blatt",
+            "word": 22
+        },
+        {
+            "charBegin": 1916,
+            "charEnd": 1918,
+            "id": 300,
+            "sentence": 13,
+            "text": "in",
+            "word": 23
+        },
+        {
+            "charBegin": 1919,
+            "charEnd": 1924,
+            "id": 301,
+            "sentence": 13,
+            "text": "einer",
+            "word": 24
+        },
+        {
+            "charBegin": 1925,
+            "charEnd": 1926,
+            "id": 302,
+            "sentence": 13,
+            "text": "„",
+            "word": 25
+        },
+        {
+            "charBegin": 1926,
+            "charEnd": 1937,
+            "id": 303,
+            "sentence": 13,
+            "text": "schwierigen",
+            "word": 26
+        },
+        {
+            "charBegin": 1938,
+            "charEnd": 1952,
+            "id": 304,
+            "sentence": 13,
+            "text": "Marktsituation",
+            "word": 27
+        },
+        {
+            "charBegin": 1952,
+            "charEnd": 1953,
+            "id": 305,
+            "sentence": 13,
+            "text": "“",
+            "word": 28
+        },
+        {
+            "charBegin": 1954,
+            "charEnd": 1960,
+            "id": 306,
+            "sentence": 13,
+            "text": "stecke",
+            "word": 29
+        },
+        {
+            "charBegin": 1960,
+            "charEnd": 1961,
+            "id": 307,
+            "sentence": 13,
+            "text": ".",
+            "word": 30
+        },
+        {
+            "charBegin": 1962,
+            "charEnd": 1965,
+            "id": 308,
+            "sentence": 14,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1966,
+            "charEnd": 1974,
+            "id": 309,
+            "sentence": 14,
+            "text": "aktuelle",
+            "word": 2
+        },
+        {
+            "charBegin": 1975,
+            "charEnd": 1982,
+            "id": 310,
+            "sentence": 14,
+            "text": "Auflage",
+            "word": 3
+        },
+        {
+            "charBegin": 1983,
+            "charEnd": 1990,
+            "id": 311,
+            "sentence": 14,
+            "text": "beträgt",
+            "word": 4
+        },
+        {
+            "charBegin": 1991,
+            "charEnd": 1995,
+            "id": 312,
+            "sentence": 14,
+            "text": "etwa",
+            "word": 5
+        },
+        {
+            "charBegin": 1996,
+            "charEnd": 2002,
+            "id": 313,
+            "sentence": 14,
+            "text": "38.000",
+            "word": 6
+        },
+        {
+            "charBegin": 2003,
+            "charEnd": 2012,
+            "id": 314,
+            "sentence": 14,
+            "text": "Exemplare",
+            "word": 7
+        },
+        {
+            "charBegin": 2012,
+            "charEnd": 2013,
+            "id": 315,
+            "sentence": 14,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 2014,
+            "charEnd": 2017,
+            "id": 316,
+            "sentence": 15,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 2018,
+            "charEnd": 2024,
+            "id": 317,
+            "sentence": 15,
+            "text": "Verlag",
+            "word": 2
+        },
+        {
+            "charBegin": 2025,
+            "charEnd": 2031,
+            "id": 318,
+            "sentence": 15,
+            "text": "schlug",
+            "word": 3
+        },
+        {
+            "charBegin": 2032,
+            "charEnd": 2035,
+            "id": 319,
+            "sentence": 15,
+            "text": "den",
+            "word": 4
+        },
+        {
+            "charBegin": 2036,
+            "charEnd": 2047,
+            "id": 320,
+            "sentence": 15,
+            "text": "entlassenen",
+            "word": 5
+        },
+        {
+            "charBegin": 2048,
+            "charEnd": 2060,
+            "id": 321,
+            "sentence": 15,
+            "text": "Mitarbeitern",
+            "word": 6
+        },
+        {
+            "charBegin": 2061,
+            "charEnd": 2064,
+            "id": 322,
+            "sentence": 15,
+            "text": "vor",
+            "word": 7
+        },
+        {
+            "charBegin": 2064,
+            "charEnd": 2065,
+            "id": 323,
+            "sentence": 15,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 2066,
+            "charEnd": 2070,
+            "id": 324,
+            "sentence": 15,
+            "text": "sich",
+            "word": 9
+        },
+        {
+            "charBegin": 2071,
+            "charEnd": 2074,
+            "id": 325,
+            "sentence": 15,
+            "text": "bei",
+            "word": 10
+        },
+        {
+            "charBegin": 2075,
+            "charEnd": 2078,
+            "id": 326,
+            "sentence": 15,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 2079,
+            "charEnd": 2084,
+            "id": 327,
+            "sentence": 15,
+            "text": "neuen",
+            "word": 12
+        },
+        {
+            "charBegin": 2085,
+            "charEnd": 2097,
+            "id": 328,
+            "sentence": 15,
+            "text": "Tochterfirma",
+            "word": 13
+        },
+        {
+            "charBegin": 2098,
+            "charEnd": 2100,
+            "id": 329,
+            "sentence": 15,
+            "text": "zu",
+            "word": 14
+        },
+        {
+            "charBegin": 2101,
+            "charEnd": 2109,
+            "id": 330,
+            "sentence": 15,
+            "text": "bewerben",
+            "word": 15
+        },
+        {
+            "charBegin": 2109,
+            "charEnd": 2110,
+            "id": 331,
+            "sentence": 15,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 2111,
+            "charEnd": 2115,
+            "id": 332,
+            "sentence": 16,
+            "text": "Dort",
+            "word": 1
+        },
+        {
+            "charBegin": 2116,
+            "charEnd": 2122,
+            "id": 333,
+            "sentence": 16,
+            "text": "stehen",
+            "word": 2
+        },
+        {
+            "charBegin": 2123,
+            "charEnd": 2133,
+            "id": 334,
+            "sentence": 16,
+            "text": "allerdings",
+            "word": 3
+        },
+        {
+            "charBegin": 2134,
+            "charEnd": 2137,
+            "id": 335,
+            "sentence": 16,
+            "text": "bei",
+            "word": 4
+        },
+        {
+            "charBegin": 2138,
+            "charEnd": 2144,
+            "id": 336,
+            "sentence": 16,
+            "text": "weitem",
+            "word": 5
+        },
+        {
+            "charBegin": 2145,
+            "charEnd": 2150,
+            "id": 337,
+            "sentence": 16,
+            "text": "nicht",
+            "word": 6
+        },
+        {
+            "charBegin": 2151,
+            "charEnd": 2162,
+            "id": 338,
+            "sentence": 16,
+            "text": "ausreichend",
+            "word": 7
+        },
+        {
+            "charBegin": 2163,
+            "charEnd": 2170,
+            "id": 339,
+            "sentence": 16,
+            "text": "Stellen",
+            "word": 8
+        },
+        {
+            "charBegin": 2171,
+            "charEnd": 2174,
+            "id": 340,
+            "sentence": 16,
+            "text": "für",
+            "word": 9
+        },
+        {
+            "charBegin": 2175,
+            "charEnd": 2179,
+            "id": 341,
+            "sentence": 16,
+            "text": "alle",
+            "word": 10
+        },
+        {
+            "charBegin": 2180,
+            "charEnd": 2190,
+            "id": 342,
+            "sentence": 16,
+            "text": "ehemaligen",
+            "word": 11
+        },
+        {
+            "charBegin": 2191,
+            "charEnd": 2202,
+            "id": 343,
+            "sentence": 16,
+            "text": "Mitarbeiter",
+            "word": 12
+        },
+        {
+            "charBegin": 2203,
+            "charEnd": 2206,
+            "id": 344,
+            "sentence": 16,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 2207,
+            "charEnd": 2221,
+            "id": 345,
+            "sentence": 16,
+            "text": "Lokalredaktion",
+            "word": 14
+        },
+        {
+            "charBegin": 2222,
+            "charEnd": 2225,
+            "id": 346,
+            "sentence": 16,
+            "text": "zur",
+            "word": 15
+        },
+        {
+            "charBegin": 2226,
+            "charEnd": 2235,
+            "id": 347,
+            "sentence": 16,
+            "text": "Verfügung",
+            "word": 16
+        },
+        {
+            "charBegin": 2235,
+            "charEnd": 2236,
+            "id": 348,
+            "sentence": 16,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 2237,
+            "charEnd": 2241,
+            "id": 349,
+            "sentence": 17,
+            "text": "Über",
+            "word": 1
+        },
+        {
+            "charBegin": 2242,
+            "charEnd": 2245,
+            "id": 350,
+            "sentence": 17,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 2246,
+            "charEnd": 2254,
+            "id": 351,
+            "sentence": 17,
+            "text": "Vorgänge",
+            "word": 3
+        },
+        {
+            "charBegin": 2255,
+            "charEnd": 2257,
+            "id": 352,
+            "sentence": 17,
+            "text": "im",
+            "word": 4
+        },
+        {
+            "charBegin": 2258,
+            "charEnd": 2265,
+            "id": 353,
+            "sentence": 17,
+            "text": "eigenen",
+            "word": 5
+        },
+        {
+            "charBegin": 2266,
+            "charEnd": 2270,
+            "id": 354,
+            "sentence": 17,
+            "text": "Haus",
+            "word": 6
+        },
+        {
+            "charBegin": 2271,
+            "charEnd": 2274,
+            "id": 355,
+            "sentence": 17,
+            "text": "hat",
+            "word": 7
+        },
+        {
+            "charBegin": 2275,
+            "charEnd": 2278,
+            "id": 356,
+            "sentence": 17,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 2279,
+            "charEnd": 2283,
+            "id": 357,
+            "sentence": 17,
+            "text": "neue",
+            "word": 9
+        },
+        {
+            "charBegin": 2284,
+            "charEnd": 2293,
+            "id": 358,
+            "sentence": 17,
+            "text": "Redaktion",
+            "word": 10
+        },
+        {
+            "charBegin": 2294,
+            "charEnd": 2297,
+            "id": 359,
+            "sentence": 17,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 2298,
+            "charEnd": 2299,
+            "id": 360,
+            "sentence": 17,
+            "text": "„",
+            "word": 12
+        },
+        {
+            "charBegin": 2299,
+            "charEnd": 2311,
+            "id": 361,
+            "sentence": 17,
+            "text": "Münsterschen",
+            "word": 13
+        },
+        {
+            "charBegin": 2312,
+            "charEnd": 2319,
+            "id": 362,
+            "sentence": 17,
+            "text": "Zeitung",
+            "word": 14
+        },
+        {
+            "charBegin": 2319,
+            "charEnd": 2320,
+            "id": 363,
+            "sentence": 17,
+            "text": "“",
+            "word": 15
+        },
+        {
+            "charBegin": 2321,
+            "charEnd": 2328,
+            "id": 364,
+            "sentence": 17,
+            "text": "bislang",
+            "word": 16
+        },
+        {
+            "charBegin": 2329,
+            "charEnd": 2334,
+            "id": 365,
+            "sentence": 17,
+            "text": "nicht",
+            "word": 17
+        },
+        {
+            "charBegin": 2335,
+            "charEnd": 2344,
+            "id": 366,
+            "sentence": 17,
+            "text": "berichtet",
+            "word": 18
+        },
+        {
+            "charBegin": 2344,
+            "charEnd": 2345,
+            "id": 367,
+            "sentence": 17,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 2346,
+            "charEnd": 2358,
+            "id": 368,
+            "sentence": 18,
+            "text": "Arbeitsplatz",
+            "word": 1
+        },
+        {
+            "charBegin": 2359,
+            "charEnd": 2362,
+            "id": 369,
+            "sentence": 18,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 2363,
+            "charEnd": 2368,
+            "id": 370,
+            "sentence": 18,
+            "text": "neuen",
+            "word": 3
+        },
+        {
+            "charBegin": 2369,
+            "charEnd": 2378,
+            "id": 371,
+            "sentence": 18,
+            "text": "Redaktion",
+            "word": 4
+        },
+        {
+            "charBegin": 2378,
+            "charEnd": 2379,
+            "id": 372,
+            "sentence": 18,
+            "text": ":",
+            "word": 5
+        },
+        {
+            "charBegin": 2380,
+            "charEnd": 2383,
+            "id": 373,
+            "sentence": 18,
+            "text": "Die",
+            "word": 6
+        },
+        {
+            "charBegin": 2384,
+            "charEnd": 2389,
+            "id": 374,
+            "sentence": 18,
+            "text": "alten",
+            "word": 7
+        },
+        {
+            "charBegin": 2390,
+            "charEnd": 2405,
+            "id": 375,
+            "sentence": 18,
+            "text": "Redaktionsräume",
+            "word": 8
+        },
+        {
+            "charBegin": 2406,
+            "charEnd": 2407,
+            "id": 376,
+            "sentence": 18,
+            "text": "–",
+            "word": 9
+        },
+        {
+            "charBegin": 2408,
+            "charEnd": 2411,
+            "id": 377,
+            "sentence": 18,
+            "text": "nun",
+            "word": 10
+        },
+        {
+            "charBegin": 2412,
+            "charEnd": 2420,
+            "id": 378,
+            "sentence": 18,
+            "text": "offenbar",
+            "word": 11
+        },
+        {
+            "charBegin": 2421,
+            "charEnd": 2426,
+            "id": 379,
+            "sentence": 18,
+            "text": "nicht",
+            "word": 12
+        },
+        {
+            "charBegin": 2427,
+            "charEnd": 2431,
+            "id": 380,
+            "sentence": 18,
+            "text": "mehr",
+            "word": 13
+        },
+        {
+            "charBegin": 2432,
+            "charEnd": 2434,
+            "id": 381,
+            "sentence": 18,
+            "text": "zu",
+            "word": 14
+        },
+        {
+            "charBegin": 2435,
+            "charEnd": 2444,
+            "id": 382,
+            "sentence": 18,
+            "text": "vermieten",
+            "word": 15
+        },
+        {
+            "charBegin": 2444,
+            "charEnd": 2445,
+            "id": 383,
+            "sentence": 18,
+            "text": ".",
+            "word": 16
+        }
+    ]
+}

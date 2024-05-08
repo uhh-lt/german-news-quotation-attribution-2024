@@ -1,0 +1,2759 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 117,
+                        "charBegin": 705,
+                        "charEnd": 722,
+                        "end": 119
+                    }
+                ],
+                "text": "angekündigt hatte",
+                "tokenIds": [
+                    117,
+                    118
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 97,
+                        "charBegin": 582,
+                        "charEnd": 723,
+                        "end": 120
+                    }
+                ],
+                "text": "Ob es zu einer Koalition des antikommunistischen Bündnisses kommen wird, ist allerdings noch nicht entschieden, da die PDM angekündigt hatte,",
+                "tokenIds": [
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 120,
+                        "charBegin": 724,
+                        "charEnd": 783,
+                        "end": 132
+                    }
+                ],
+                "text": "mit allen Parteien, als auch der PCRM, verhandeln zu wollen",
+                "tokenIds": [
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 115,
+                        "charBegin": 697,
+                        "charEnd": 704,
+                        "end": 117
+                    }
+                ],
+                "text": "die PDM",
+                "tokenIds": [
+                    115,
+                    116
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "64897 - Parlamentswahl in Moldawien: weiterhin keine klaren Mehrheiten (2010-11-30)",
+    "originalText": "Die Parlamentswahlen vom vergangenen Sonntag haben die bisherige Pattsituation zwischen den beiden politischen Lagern in der ehemaligen Sowjetrepublik östlich Rumäniens verlängert. Die Kommunistische Partei Moldawiens (PCRM) erreichte mit 41 Prozent der Stimmen 44 der 101 Sitze im Parlament. Das Bündnis aus Liberaldemokraten (PLDM), Demokratischer Partei (PDM) und Liberalen (PL), das sich selbst „Allianz zur Europäischen Integration“ (AIE) nennt, kam mit zusammen 48 Prozent auf 57 Sitze. Bisher regiert ein antikommunistisches Bündnis unter Premierminister Vlad Filat (PLDM).\n\nOb es zu einer Koalition des antikommunistischen Bündnisses kommen wird, ist allerdings noch nicht entschieden, da die PDM angekündigt hatte, mit allen Parteien, als auch der PCRM, verhandeln zu wollen. PDM-Chef Lupu war bis April 2009 ein führender PCRM-Politiker. Damals kam es aufgrund eines umstrittenen Wahlergebnisses zu Unruhen und Lupu wechselte das Lager.\n\nSeit April 2009 ist auch das Amt des Präsidenten der Republik vakant. Vorher wurde es von PCRM-Chef Wladimir Woronin bekleidet. Der Präsident wird in Moldawien nicht vom Volk, sondern vom Parlament gewählt. Dazu ist allerdings eine Dreifünftelmehrheit (61 Stimmen) notwendig, die seither nicht zustandegekommen ist. Aufgrund der Stärke der PCRM kann ohne ihre Zustimmung kein Präsident gewählt werden. Da allerdings auch eine etwaige PCRM-PDM-Koalition nur auf 59 Stimmen kommt, wird keine der beiden möglichen Koalitionen eine ausreichende Mehrheit aufbringen können.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 180,
+            "end": 22,
+            "id": 0,
+            "text": "Die Parlamentswahlen vom vergangenen Sonntag haben die bisherige Pattsituation zwischen den beiden politischen Lagern in der ehemaligen Sowjetrepublik östlich Rumäniens verlängert. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Die",
+                "Parlamentswahlen",
+                "vom",
+                "vergangenen",
+                "Sonntag",
+                "haben",
+                "die",
+                "bisherige",
+                "Pattsituation",
+                "zwischen",
+                "den",
+                "beiden",
+                "politischen",
+                "Lagern",
+                "in",
+                "der",
+                "ehemaligen",
+                "Sowjetrepublik",
+                "östlich",
+                "Rumäniens",
+                "verlängert",
+                "."
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 181,
+            "charEnd": 292,
+            "end": 42,
+            "id": 1,
+            "text": "Die Kommunistische Partei Moldawiens (PCRM) erreichte mit 41 Prozent der Stimmen 44 der 101 Sitze im Parlament. ",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "tokens": [
+                "Die",
+                "Kommunistische",
+                "Partei",
+                "Moldawiens",
+                "(",
+                "PCRM",
+                ")",
+                "erreichte",
+                "mit",
+                "41",
+                "Prozent",
+                "der",
+                "Stimmen",
+                "44",
+                "der",
+                "101",
+                "Sitze",
+                "im",
+                "Parlament",
+                "."
+            ]
+        },
+        {
+            "begin": 42,
+            "charBegin": 293,
+            "charEnd": 492,
+            "end": 84,
+            "id": 2,
+            "text": "Das Bündnis aus Liberaldemokraten (PLDM), Demokratischer Partei (PDM) und Liberalen (PL), das sich selbst „Allianz zur Europäischen Integration“ (AIE) nennt, kam mit zusammen 48 Prozent auf 57 Sitze. ",
+            "tokenIds": [
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83
+            ],
+            "tokens": [
+                "Das",
+                "Bündnis",
+                "aus",
+                "Liberaldemokraten",
+                "(",
+                "PLDM",
+                ")",
+                ",",
+                "Demokratischer",
+                "Partei",
+                "(",
+                "PDM",
+                ")",
+                "und",
+                "Liberalen",
+                "(",
+                "PL",
+                ")",
+                ",",
+                "das",
+                "sich",
+                "selbst",
+                "„",
+                "Allianz",
+                "zur",
+                "Europäischen",
+                "Integration",
+                "“",
+                "(",
+                "AIE",
+                ")",
+                "nennt",
+                ",",
+                "kam",
+                "mit",
+                "zusammen",
+                "48",
+                "Prozent",
+                "auf",
+                "57",
+                "Sitze",
+                "."
+            ]
+        },
+        {
+            "begin": 84,
+            "charBegin": 493,
+            "charEnd": 580,
+            "end": 97,
+            "id": 3,
+            "text": "Bisher regiert ein antikommunistisches Bündnis unter Premierminister Vlad Filat (PLDM).",
+            "tokenIds": [
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96
+            ],
+            "tokens": [
+                "Bisher",
+                "regiert",
+                "ein",
+                "antikommunistisches",
+                "Bündnis",
+                "unter",
+                "Premierminister",
+                "Vlad",
+                "Filat",
+                "(",
+                "PLDM",
+                ")",
+                "."
+            ]
+        },
+        {
+            "begin": 97,
+            "charBegin": 582,
+            "charEnd": 784,
+            "end": 133,
+            "id": 4,
+            "text": "Ob es zu einer Koalition des antikommunistischen Bündnisses kommen wird, ist allerdings noch nicht entschieden, da die PDM angekündigt hatte, mit allen Parteien, als auch der PCRM, verhandeln zu wollen. ",
+            "tokenIds": [
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132
+            ],
+            "tokens": [
+                "Ob",
+                "es",
+                "zu",
+                "einer",
+                "Koalition",
+                "des",
+                "antikommunistischen",
+                "Bündnisses",
+                "kommen",
+                "wird",
+                ",",
+                "ist",
+                "allerdings",
+                "noch",
+                "nicht",
+                "entschieden",
+                ",",
+                "da",
+                "die",
+                "PDM",
+                "angekündigt",
+                "hatte",
+                ",",
+                "mit",
+                "allen",
+                "Parteien",
+                ",",
+                "als",
+                "auch",
+                "der",
+                "PCRM",
+                ",",
+                "verhandeln",
+                "zu",
+                "wollen",
+                "."
+            ]
+        },
+        {
+            "begin": 133,
+            "charBegin": 785,
+            "charEnd": 847,
+            "end": 143,
+            "id": 5,
+            "text": "PDM-Chef Lupu war bis April 2009 ein führender PCRM-Politiker. ",
+            "tokenIds": [
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142
+            ],
+            "tokens": [
+                "PDM-Chef",
+                "Lupu",
+                "war",
+                "bis",
+                "April",
+                "2009",
+                "ein",
+                "führender",
+                "PCRM-Politiker",
+                "."
+            ]
+        },
+        {
+            "begin": 143,
+            "charBegin": 848,
+            "charEnd": 946,
+            "end": 158,
+            "id": 6,
+            "text": "Damals kam es aufgrund eines umstrittenen Wahlergebnisses zu Unruhen und Lupu wechselte das Lager.",
+            "tokenIds": [
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157
+            ],
+            "tokens": [
+                "Damals",
+                "kam",
+                "es",
+                "aufgrund",
+                "eines",
+                "umstrittenen",
+                "Wahlergebnisses",
+                "zu",
+                "Unruhen",
+                "und",
+                "Lupu",
+                "wechselte",
+                "das",
+                "Lager",
+                "."
+            ]
+        },
+        {
+            "begin": 158,
+            "charBegin": 948,
+            "charEnd": 1017,
+            "end": 171,
+            "id": 7,
+            "text": "Seit April 2009 ist auch das Amt des Präsidenten der Republik vakant. ",
+            "tokenIds": [
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170
+            ],
+            "tokens": [
+                "Seit",
+                "April",
+                "2009",
+                "ist",
+                "auch",
+                "das",
+                "Amt",
+                "des",
+                "Präsidenten",
+                "der",
+                "Republik",
+                "vakant",
+                "."
+            ]
+        },
+        {
+            "begin": 171,
+            "charBegin": 1018,
+            "charEnd": 1075,
+            "end": 180,
+            "id": 8,
+            "text": "Vorher wurde es von PCRM-Chef Wladimir Woronin bekleidet. ",
+            "tokenIds": [
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179
+            ],
+            "tokens": [
+                "Vorher",
+                "wurde",
+                "es",
+                "von",
+                "PCRM-Chef",
+                "Wladimir",
+                "Woronin",
+                "bekleidet",
+                "."
+            ]
+        },
+        {
+            "begin": 180,
+            "charBegin": 1076,
+            "charEnd": 1154,
+            "end": 194,
+            "id": 9,
+            "text": "Der Präsident wird in Moldawien nicht vom Volk, sondern vom Parlament gewählt. ",
+            "tokenIds": [
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193
+            ],
+            "tokens": [
+                "Der",
+                "Präsident",
+                "wird",
+                "in",
+                "Moldawien",
+                "nicht",
+                "vom",
+                "Volk",
+                ",",
+                "sondern",
+                "vom",
+                "Parlament",
+                "gewählt",
+                "."
+            ]
+        },
+        {
+            "begin": 194,
+            "charBegin": 1155,
+            "charEnd": 1263,
+            "end": 211,
+            "id": 10,
+            "text": "Dazu ist allerdings eine Dreifünftelmehrheit (61 Stimmen) notwendig, die seither nicht zustandegekommen ist. ",
+            "tokenIds": [
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210
+            ],
+            "tokens": [
+                "Dazu",
+                "ist",
+                "allerdings",
+                "eine",
+                "Dreifünftelmehrheit",
+                "(",
+                "61",
+                "Stimmen",
+                ")",
+                "notwendig",
+                ",",
+                "die",
+                "seither",
+                "nicht",
+                "zustandegekommen",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "begin": 211,
+            "charBegin": 1264,
+            "charEnd": 1349,
+            "end": 225,
+            "id": 11,
+            "text": "Aufgrund der Stärke der PCRM kann ohne ihre Zustimmung kein Präsident gewählt werden. ",
+            "tokenIds": [
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224
+            ],
+            "tokens": [
+                "Aufgrund",
+                "der",
+                "Stärke",
+                "der",
+                "PCRM",
+                "kann",
+                "ohne",
+                "ihre",
+                "Zustimmung",
+                "kein",
+                "Präsident",
+                "gewählt",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 225,
+            "charBegin": 1350,
+            "charEnd": 1516,
+            "end": 249,
+            "id": 12,
+            "text": "Da allerdings auch eine etwaige PCRM-PDM-Koalition nur auf 59 Stimmen kommt, wird keine der beiden möglichen Koalitionen eine ausreichende Mehrheit aufbringen können.",
+            "tokenIds": [
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248
+            ],
+            "tokens": [
+                "Da",
+                "allerdings",
+                "auch",
+                "eine",
+                "etwaige",
+                "PCRM-PDM-Koalition",
+                "nur",
+                "auf",
+                "59",
+                "Stimmen",
+                "kommt",
+                ",",
+                "wird",
+                "keine",
+                "der",
+                "beiden",
+                "möglichen",
+                "Koalitionen",
+                "eine",
+                "ausreichende",
+                "Mehrheit",
+                "aufbringen",
+                "können",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 20,
+            "id": 1,
+            "sentence": 1,
+            "text": "Parlamentswahlen",
+            "word": 2
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 24,
+            "id": 2,
+            "sentence": 1,
+            "text": "vom",
+            "word": 3
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 36,
+            "id": 3,
+            "sentence": 1,
+            "text": "vergangenen",
+            "word": 4
+        },
+        {
+            "charBegin": 37,
+            "charEnd": 44,
+            "id": 4,
+            "sentence": 1,
+            "text": "Sonntag",
+            "word": 5
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 50,
+            "id": 5,
+            "sentence": 1,
+            "text": "haben",
+            "word": 6
+        },
+        {
+            "charBegin": 51,
+            "charEnd": 54,
+            "id": 6,
+            "sentence": 1,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 55,
+            "charEnd": 64,
+            "id": 7,
+            "sentence": 1,
+            "text": "bisherige",
+            "word": 8
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 78,
+            "id": 8,
+            "sentence": 1,
+            "text": "Pattsituation",
+            "word": 9
+        },
+        {
+            "charBegin": 79,
+            "charEnd": 87,
+            "id": 9,
+            "sentence": 1,
+            "text": "zwischen",
+            "word": 10
+        },
+        {
+            "charBegin": 88,
+            "charEnd": 91,
+            "id": 10,
+            "sentence": 1,
+            "text": "den",
+            "word": 11
+        },
+        {
+            "charBegin": 92,
+            "charEnd": 98,
+            "id": 11,
+            "sentence": 1,
+            "text": "beiden",
+            "word": 12
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 110,
+            "id": 12,
+            "sentence": 1,
+            "text": "politischen",
+            "word": 13
+        },
+        {
+            "charBegin": 111,
+            "charEnd": 117,
+            "id": 13,
+            "sentence": 1,
+            "text": "Lagern",
+            "word": 14
+        },
+        {
+            "charBegin": 118,
+            "charEnd": 120,
+            "id": 14,
+            "sentence": 1,
+            "text": "in",
+            "word": 15
+        },
+        {
+            "charBegin": 121,
+            "charEnd": 124,
+            "id": 15,
+            "sentence": 1,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 125,
+            "charEnd": 135,
+            "id": 16,
+            "sentence": 1,
+            "text": "ehemaligen",
+            "word": 17
+        },
+        {
+            "charBegin": 136,
+            "charEnd": 150,
+            "id": 17,
+            "sentence": 1,
+            "text": "Sowjetrepublik",
+            "word": 18
+        },
+        {
+            "charBegin": 151,
+            "charEnd": 158,
+            "id": 18,
+            "sentence": 1,
+            "text": "östlich",
+            "word": 19
+        },
+        {
+            "charBegin": 159,
+            "charEnd": 168,
+            "id": 19,
+            "sentence": 1,
+            "text": "Rumäniens",
+            "word": 20
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 179,
+            "id": 20,
+            "sentence": 1,
+            "text": "verlängert",
+            "word": 21
+        },
+        {
+            "charBegin": 179,
+            "charEnd": 180,
+            "id": 21,
+            "sentence": 1,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 184,
+            "id": 22,
+            "sentence": 2,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 199,
+            "id": 23,
+            "sentence": 2,
+            "text": "Kommunistische",
+            "word": 2
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 206,
+            "id": 24,
+            "sentence": 2,
+            "text": "Partei",
+            "word": 3
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 217,
+            "id": 25,
+            "sentence": 2,
+            "text": "Moldawiens",
+            "word": 4
+        },
+        {
+            "charBegin": 218,
+            "charEnd": 219,
+            "id": 26,
+            "sentence": 2,
+            "text": "(",
+            "word": 5
+        },
+        {
+            "charBegin": 219,
+            "charEnd": 223,
+            "id": 27,
+            "sentence": 2,
+            "text": "PCRM",
+            "word": 6
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 224,
+            "id": 28,
+            "sentence": 2,
+            "text": ")",
+            "word": 7
+        },
+        {
+            "charBegin": 225,
+            "charEnd": 234,
+            "id": 29,
+            "sentence": 2,
+            "text": "erreichte",
+            "word": 8
+        },
+        {
+            "charBegin": 235,
+            "charEnd": 238,
+            "id": 30,
+            "sentence": 2,
+            "text": "mit",
+            "word": 9
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 241,
+            "id": 31,
+            "sentence": 2,
+            "text": "41",
+            "word": 10
+        },
+        {
+            "charBegin": 242,
+            "charEnd": 249,
+            "id": 32,
+            "sentence": 2,
+            "text": "Prozent",
+            "word": 11
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 253,
+            "id": 33,
+            "sentence": 2,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 254,
+            "charEnd": 261,
+            "id": 34,
+            "sentence": 2,
+            "text": "Stimmen",
+            "word": 13
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 264,
+            "id": 35,
+            "sentence": 2,
+            "text": "44",
+            "word": 14
+        },
+        {
+            "charBegin": 265,
+            "charEnd": 268,
+            "id": 36,
+            "sentence": 2,
+            "text": "der",
+            "word": 15
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 272,
+            "id": 37,
+            "sentence": 2,
+            "text": "101",
+            "word": 16
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 278,
+            "id": 38,
+            "sentence": 2,
+            "text": "Sitze",
+            "word": 17
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 281,
+            "id": 39,
+            "sentence": 2,
+            "text": "im",
+            "word": 18
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 291,
+            "id": 40,
+            "sentence": 2,
+            "text": "Parlament",
+            "word": 19
+        },
+        {
+            "charBegin": 291,
+            "charEnd": 292,
+            "id": 41,
+            "sentence": 2,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 293,
+            "charEnd": 296,
+            "id": 42,
+            "sentence": 3,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 297,
+            "charEnd": 304,
+            "id": 43,
+            "sentence": 3,
+            "text": "Bündnis",
+            "word": 2
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 308,
+            "id": 44,
+            "sentence": 3,
+            "text": "aus",
+            "word": 3
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 326,
+            "id": 45,
+            "sentence": 3,
+            "text": "Liberaldemokraten",
+            "word": 4
+        },
+        {
+            "charBegin": 327,
+            "charEnd": 328,
+            "id": 46,
+            "sentence": 3,
+            "text": "(",
+            "word": 5
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 332,
+            "id": 47,
+            "sentence": 3,
+            "text": "PLDM",
+            "word": 6
+        },
+        {
+            "charBegin": 332,
+            "charEnd": 333,
+            "id": 48,
+            "sentence": 3,
+            "text": ")",
+            "word": 7
+        },
+        {
+            "charBegin": 333,
+            "charEnd": 334,
+            "id": 49,
+            "sentence": 3,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 335,
+            "charEnd": 349,
+            "id": 50,
+            "sentence": 3,
+            "text": "Demokratischer",
+            "word": 9
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 356,
+            "id": 51,
+            "sentence": 3,
+            "text": "Partei",
+            "word": 10
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 358,
+            "id": 52,
+            "sentence": 3,
+            "text": "(",
+            "word": 11
+        },
+        {
+            "charBegin": 358,
+            "charEnd": 361,
+            "id": 53,
+            "sentence": 3,
+            "text": "PDM",
+            "word": 12
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 362,
+            "id": 54,
+            "sentence": 3,
+            "text": ")",
+            "word": 13
+        },
+        {
+            "charBegin": 363,
+            "charEnd": 366,
+            "id": 55,
+            "sentence": 3,
+            "text": "und",
+            "word": 14
+        },
+        {
+            "charBegin": 367,
+            "charEnd": 376,
+            "id": 56,
+            "sentence": 3,
+            "text": "Liberalen",
+            "word": 15
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 378,
+            "id": 57,
+            "sentence": 3,
+            "text": "(",
+            "word": 16
+        },
+        {
+            "charBegin": 378,
+            "charEnd": 380,
+            "id": 58,
+            "sentence": 3,
+            "text": "PL",
+            "word": 17
+        },
+        {
+            "charBegin": 380,
+            "charEnd": 381,
+            "id": 59,
+            "sentence": 3,
+            "text": ")",
+            "word": 18
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 382,
+            "id": 60,
+            "sentence": 3,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 386,
+            "id": 61,
+            "sentence": 3,
+            "text": "das",
+            "word": 20
+        },
+        {
+            "charBegin": 387,
+            "charEnd": 391,
+            "id": 62,
+            "sentence": 3,
+            "text": "sich",
+            "word": 21
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 398,
+            "id": 63,
+            "sentence": 3,
+            "text": "selbst",
+            "word": 22
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 400,
+            "id": 64,
+            "sentence": 3,
+            "text": "„",
+            "word": 23
+        },
+        {
+            "charBegin": 400,
+            "charEnd": 407,
+            "id": 65,
+            "sentence": 3,
+            "text": "Allianz",
+            "word": 24
+        },
+        {
+            "charBegin": 408,
+            "charEnd": 411,
+            "id": 66,
+            "sentence": 3,
+            "text": "zur",
+            "word": 25
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 424,
+            "id": 67,
+            "sentence": 3,
+            "text": "Europäischen",
+            "word": 26
+        },
+        {
+            "charBegin": 425,
+            "charEnd": 436,
+            "id": 68,
+            "sentence": 3,
+            "text": "Integration",
+            "word": 27
+        },
+        {
+            "charBegin": 436,
+            "charEnd": 437,
+            "id": 69,
+            "sentence": 3,
+            "text": "“",
+            "word": 28
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 439,
+            "id": 70,
+            "sentence": 3,
+            "text": "(",
+            "word": 29
+        },
+        {
+            "charBegin": 439,
+            "charEnd": 442,
+            "id": 71,
+            "sentence": 3,
+            "text": "AIE",
+            "word": 30
+        },
+        {
+            "charBegin": 442,
+            "charEnd": 443,
+            "id": 72,
+            "sentence": 3,
+            "text": ")",
+            "word": 31
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 449,
+            "id": 73,
+            "sentence": 3,
+            "text": "nennt",
+            "word": 32
+        },
+        {
+            "charBegin": 449,
+            "charEnd": 450,
+            "id": 74,
+            "sentence": 3,
+            "text": ",",
+            "word": 33
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 454,
+            "id": 75,
+            "sentence": 3,
+            "text": "kam",
+            "word": 34
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 458,
+            "id": 76,
+            "sentence": 3,
+            "text": "mit",
+            "word": 35
+        },
+        {
+            "charBegin": 459,
+            "charEnd": 467,
+            "id": 77,
+            "sentence": 3,
+            "text": "zusammen",
+            "word": 36
+        },
+        {
+            "charBegin": 468,
+            "charEnd": 470,
+            "id": 78,
+            "sentence": 3,
+            "text": "48",
+            "word": 37
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 478,
+            "id": 79,
+            "sentence": 3,
+            "text": "Prozent",
+            "word": 38
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 482,
+            "id": 80,
+            "sentence": 3,
+            "text": "auf",
+            "word": 39
+        },
+        {
+            "charBegin": 483,
+            "charEnd": 485,
+            "id": 81,
+            "sentence": 3,
+            "text": "57",
+            "word": 40
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 491,
+            "id": 82,
+            "sentence": 3,
+            "text": "Sitze",
+            "word": 41
+        },
+        {
+            "charBegin": 491,
+            "charEnd": 492,
+            "id": 83,
+            "sentence": 3,
+            "text": ".",
+            "word": 42
+        },
+        {
+            "charBegin": 493,
+            "charEnd": 499,
+            "id": 84,
+            "sentence": 4,
+            "text": "Bisher",
+            "word": 1
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 507,
+            "id": 85,
+            "sentence": 4,
+            "text": "regiert",
+            "word": 2
+        },
+        {
+            "charBegin": 508,
+            "charEnd": 511,
+            "id": 86,
+            "sentence": 4,
+            "text": "ein",
+            "word": 3
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 531,
+            "id": 87,
+            "sentence": 4,
+            "text": "antikommunistisches",
+            "word": 4
+        },
+        {
+            "charBegin": 532,
+            "charEnd": 539,
+            "id": 88,
+            "sentence": 4,
+            "text": "Bündnis",
+            "word": 5
+        },
+        {
+            "charBegin": 540,
+            "charEnd": 545,
+            "id": 89,
+            "sentence": 4,
+            "text": "unter",
+            "word": 6
+        },
+        {
+            "charBegin": 546,
+            "charEnd": 561,
+            "id": 90,
+            "sentence": 4,
+            "text": "Premierminister",
+            "word": 7
+        },
+        {
+            "charBegin": 562,
+            "charEnd": 566,
+            "id": 91,
+            "sentence": 4,
+            "text": "Vlad",
+            "word": 8
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 572,
+            "id": 92,
+            "sentence": 4,
+            "text": "Filat",
+            "word": 9
+        },
+        {
+            "charBegin": 573,
+            "charEnd": 574,
+            "id": 93,
+            "sentence": 4,
+            "text": "(",
+            "word": 10
+        },
+        {
+            "charBegin": 574,
+            "charEnd": 578,
+            "id": 94,
+            "sentence": 4,
+            "text": "PLDM",
+            "word": 11
+        },
+        {
+            "charBegin": 578,
+            "charEnd": 579,
+            "id": 95,
+            "sentence": 4,
+            "text": ")",
+            "word": 12
+        },
+        {
+            "charBegin": 579,
+            "charEnd": 580,
+            "id": 96,
+            "sentence": 4,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 584,
+            "id": 97,
+            "sentence": 5,
+            "text": "Ob",
+            "word": 1
+        },
+        {
+            "charBegin": 585,
+            "charEnd": 587,
+            "id": 98,
+            "sentence": 5,
+            "text": "es",
+            "word": 2
+        },
+        {
+            "charBegin": 588,
+            "charEnd": 590,
+            "id": 99,
+            "sentence": 5,
+            "text": "zu",
+            "word": 3
+        },
+        {
+            "charBegin": 591,
+            "charEnd": 596,
+            "id": 100,
+            "sentence": 5,
+            "text": "einer",
+            "word": 4
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 606,
+            "id": 101,
+            "sentence": 5,
+            "text": "Koalition",
+            "word": 5
+        },
+        {
+            "charBegin": 607,
+            "charEnd": 610,
+            "id": 102,
+            "sentence": 5,
+            "text": "des",
+            "word": 6
+        },
+        {
+            "charBegin": 611,
+            "charEnd": 630,
+            "id": 103,
+            "sentence": 5,
+            "text": "antikommunistischen",
+            "word": 7
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 641,
+            "id": 104,
+            "sentence": 5,
+            "text": "Bündnisses",
+            "word": 8
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 648,
+            "id": 105,
+            "sentence": 5,
+            "text": "kommen",
+            "word": 9
+        },
+        {
+            "charBegin": 649,
+            "charEnd": 653,
+            "id": 106,
+            "sentence": 5,
+            "text": "wird",
+            "word": 10
+        },
+        {
+            "charBegin": 653,
+            "charEnd": 654,
+            "id": 107,
+            "sentence": 5,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 655,
+            "charEnd": 658,
+            "id": 108,
+            "sentence": 5,
+            "text": "ist",
+            "word": 12
+        },
+        {
+            "charBegin": 659,
+            "charEnd": 669,
+            "id": 109,
+            "sentence": 5,
+            "text": "allerdings",
+            "word": 13
+        },
+        {
+            "charBegin": 670,
+            "charEnd": 674,
+            "id": 110,
+            "sentence": 5,
+            "text": "noch",
+            "word": 14
+        },
+        {
+            "charBegin": 675,
+            "charEnd": 680,
+            "id": 111,
+            "sentence": 5,
+            "text": "nicht",
+            "word": 15
+        },
+        {
+            "charBegin": 681,
+            "charEnd": 692,
+            "id": 112,
+            "sentence": 5,
+            "text": "entschieden",
+            "word": 16
+        },
+        {
+            "charBegin": 692,
+            "charEnd": 693,
+            "id": 113,
+            "sentence": 5,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 694,
+            "charEnd": 696,
+            "id": 114,
+            "sentence": 5,
+            "text": "da",
+            "word": 18
+        },
+        {
+            "charBegin": 697,
+            "charEnd": 700,
+            "id": 115,
+            "sentence": 5,
+            "text": "die",
+            "word": 19
+        },
+        {
+            "charBegin": 701,
+            "charEnd": 704,
+            "id": 116,
+            "sentence": 5,
+            "text": "PDM",
+            "word": 20
+        },
+        {
+            "charBegin": 705,
+            "charEnd": 716,
+            "id": 117,
+            "sentence": 5,
+            "text": "angekündigt",
+            "word": 21
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 722,
+            "id": 118,
+            "sentence": 5,
+            "text": "hatte",
+            "word": 22
+        },
+        {
+            "charBegin": 722,
+            "charEnd": 723,
+            "id": 119,
+            "sentence": 5,
+            "text": ",",
+            "word": 23
+        },
+        {
+            "charBegin": 724,
+            "charEnd": 727,
+            "id": 120,
+            "sentence": 5,
+            "text": "mit",
+            "word": 24
+        },
+        {
+            "charBegin": 728,
+            "charEnd": 733,
+            "id": 121,
+            "sentence": 5,
+            "text": "allen",
+            "word": 25
+        },
+        {
+            "charBegin": 734,
+            "charEnd": 742,
+            "id": 122,
+            "sentence": 5,
+            "text": "Parteien",
+            "word": 26
+        },
+        {
+            "charBegin": 742,
+            "charEnd": 743,
+            "id": 123,
+            "sentence": 5,
+            "text": ",",
+            "word": 27
+        },
+        {
+            "charBegin": 744,
+            "charEnd": 747,
+            "id": 124,
+            "sentence": 5,
+            "text": "als",
+            "word": 28
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 752,
+            "id": 125,
+            "sentence": 5,
+            "text": "auch",
+            "word": 29
+        },
+        {
+            "charBegin": 753,
+            "charEnd": 756,
+            "id": 126,
+            "sentence": 5,
+            "text": "der",
+            "word": 30
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 761,
+            "id": 127,
+            "sentence": 5,
+            "text": "PCRM",
+            "word": 31
+        },
+        {
+            "charBegin": 761,
+            "charEnd": 762,
+            "id": 128,
+            "sentence": 5,
+            "text": ",",
+            "word": 32
+        },
+        {
+            "charBegin": 763,
+            "charEnd": 773,
+            "id": 129,
+            "sentence": 5,
+            "text": "verhandeln",
+            "word": 33
+        },
+        {
+            "charBegin": 774,
+            "charEnd": 776,
+            "id": 130,
+            "sentence": 5,
+            "text": "zu",
+            "word": 34
+        },
+        {
+            "charBegin": 777,
+            "charEnd": 783,
+            "id": 131,
+            "sentence": 5,
+            "text": "wollen",
+            "word": 35
+        },
+        {
+            "charBegin": 783,
+            "charEnd": 784,
+            "id": 132,
+            "sentence": 5,
+            "text": ".",
+            "word": 36
+        },
+        {
+            "charBegin": 785,
+            "charEnd": 793,
+            "id": 133,
+            "sentence": 6,
+            "text": "PDM-Chef",
+            "word": 1
+        },
+        {
+            "charBegin": 794,
+            "charEnd": 798,
+            "id": 134,
+            "sentence": 6,
+            "text": "Lupu",
+            "word": 2
+        },
+        {
+            "charBegin": 799,
+            "charEnd": 802,
+            "id": 135,
+            "sentence": 6,
+            "text": "war",
+            "word": 3
+        },
+        {
+            "charBegin": 803,
+            "charEnd": 806,
+            "id": 136,
+            "sentence": 6,
+            "text": "bis",
+            "word": 4
+        },
+        {
+            "charBegin": 807,
+            "charEnd": 812,
+            "id": 137,
+            "sentence": 6,
+            "text": "April",
+            "word": 5
+        },
+        {
+            "charBegin": 813,
+            "charEnd": 817,
+            "id": 138,
+            "sentence": 6,
+            "text": "2009",
+            "word": 6
+        },
+        {
+            "charBegin": 818,
+            "charEnd": 821,
+            "id": 139,
+            "sentence": 6,
+            "text": "ein",
+            "word": 7
+        },
+        {
+            "charBegin": 822,
+            "charEnd": 831,
+            "id": 140,
+            "sentence": 6,
+            "text": "führender",
+            "word": 8
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 846,
+            "id": 141,
+            "sentence": 6,
+            "text": "PCRM-Politiker",
+            "word": 9
+        },
+        {
+            "charBegin": 846,
+            "charEnd": 847,
+            "id": 142,
+            "sentence": 6,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 848,
+            "charEnd": 854,
+            "id": 143,
+            "sentence": 7,
+            "text": "Damals",
+            "word": 1
+        },
+        {
+            "charBegin": 855,
+            "charEnd": 858,
+            "id": 144,
+            "sentence": 7,
+            "text": "kam",
+            "word": 2
+        },
+        {
+            "charBegin": 859,
+            "charEnd": 861,
+            "id": 145,
+            "sentence": 7,
+            "text": "es",
+            "word": 3
+        },
+        {
+            "charBegin": 862,
+            "charEnd": 870,
+            "id": 146,
+            "sentence": 7,
+            "text": "aufgrund",
+            "word": 4
+        },
+        {
+            "charBegin": 871,
+            "charEnd": 876,
+            "id": 147,
+            "sentence": 7,
+            "text": "eines",
+            "word": 5
+        },
+        {
+            "charBegin": 877,
+            "charEnd": 889,
+            "id": 148,
+            "sentence": 7,
+            "text": "umstrittenen",
+            "word": 6
+        },
+        {
+            "charBegin": 890,
+            "charEnd": 905,
+            "id": 149,
+            "sentence": 7,
+            "text": "Wahlergebnisses",
+            "word": 7
+        },
+        {
+            "charBegin": 906,
+            "charEnd": 908,
+            "id": 150,
+            "sentence": 7,
+            "text": "zu",
+            "word": 8
+        },
+        {
+            "charBegin": 909,
+            "charEnd": 916,
+            "id": 151,
+            "sentence": 7,
+            "text": "Unruhen",
+            "word": 9
+        },
+        {
+            "charBegin": 917,
+            "charEnd": 920,
+            "id": 152,
+            "sentence": 7,
+            "text": "und",
+            "word": 10
+        },
+        {
+            "charBegin": 921,
+            "charEnd": 925,
+            "id": 153,
+            "sentence": 7,
+            "text": "Lupu",
+            "word": 11
+        },
+        {
+            "charBegin": 926,
+            "charEnd": 935,
+            "id": 154,
+            "sentence": 7,
+            "text": "wechselte",
+            "word": 12
+        },
+        {
+            "charBegin": 936,
+            "charEnd": 939,
+            "id": 155,
+            "sentence": 7,
+            "text": "das",
+            "word": 13
+        },
+        {
+            "charBegin": 940,
+            "charEnd": 945,
+            "id": 156,
+            "sentence": 7,
+            "text": "Lager",
+            "word": 14
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 946,
+            "id": 157,
+            "sentence": 7,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 948,
+            "charEnd": 952,
+            "id": 158,
+            "sentence": 8,
+            "text": "Seit",
+            "word": 1
+        },
+        {
+            "charBegin": 953,
+            "charEnd": 958,
+            "id": 159,
+            "sentence": 8,
+            "text": "April",
+            "word": 2
+        },
+        {
+            "charBegin": 959,
+            "charEnd": 963,
+            "id": 160,
+            "sentence": 8,
+            "text": "2009",
+            "word": 3
+        },
+        {
+            "charBegin": 964,
+            "charEnd": 967,
+            "id": 161,
+            "sentence": 8,
+            "text": "ist",
+            "word": 4
+        },
+        {
+            "charBegin": 968,
+            "charEnd": 972,
+            "id": 162,
+            "sentence": 8,
+            "text": "auch",
+            "word": 5
+        },
+        {
+            "charBegin": 973,
+            "charEnd": 976,
+            "id": 163,
+            "sentence": 8,
+            "text": "das",
+            "word": 6
+        },
+        {
+            "charBegin": 977,
+            "charEnd": 980,
+            "id": 164,
+            "sentence": 8,
+            "text": "Amt",
+            "word": 7
+        },
+        {
+            "charBegin": 981,
+            "charEnd": 984,
+            "id": 165,
+            "sentence": 8,
+            "text": "des",
+            "word": 8
+        },
+        {
+            "charBegin": 985,
+            "charEnd": 996,
+            "id": 166,
+            "sentence": 8,
+            "text": "Präsidenten",
+            "word": 9
+        },
+        {
+            "charBegin": 997,
+            "charEnd": 1000,
+            "id": 167,
+            "sentence": 8,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 1001,
+            "charEnd": 1009,
+            "id": 168,
+            "sentence": 8,
+            "text": "Republik",
+            "word": 11
+        },
+        {
+            "charBegin": 1010,
+            "charEnd": 1016,
+            "id": 169,
+            "sentence": 8,
+            "text": "vakant",
+            "word": 12
+        },
+        {
+            "charBegin": 1016,
+            "charEnd": 1017,
+            "id": 170,
+            "sentence": 8,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 1018,
+            "charEnd": 1024,
+            "id": 171,
+            "sentence": 9,
+            "text": "Vorher",
+            "word": 1
+        },
+        {
+            "charBegin": 1025,
+            "charEnd": 1030,
+            "id": 172,
+            "sentence": 9,
+            "text": "wurde",
+            "word": 2
+        },
+        {
+            "charBegin": 1031,
+            "charEnd": 1033,
+            "id": 173,
+            "sentence": 9,
+            "text": "es",
+            "word": 3
+        },
+        {
+            "charBegin": 1034,
+            "charEnd": 1037,
+            "id": 174,
+            "sentence": 9,
+            "text": "von",
+            "word": 4
+        },
+        {
+            "charBegin": 1038,
+            "charEnd": 1047,
+            "id": 175,
+            "sentence": 9,
+            "text": "PCRM-Chef",
+            "word": 5
+        },
+        {
+            "charBegin": 1048,
+            "charEnd": 1056,
+            "id": 176,
+            "sentence": 9,
+            "text": "Wladimir",
+            "word": 6
+        },
+        {
+            "charBegin": 1057,
+            "charEnd": 1064,
+            "id": 177,
+            "sentence": 9,
+            "text": "Woronin",
+            "word": 7
+        },
+        {
+            "charBegin": 1065,
+            "charEnd": 1074,
+            "id": 178,
+            "sentence": 9,
+            "text": "bekleidet",
+            "word": 8
+        },
+        {
+            "charBegin": 1074,
+            "charEnd": 1075,
+            "id": 179,
+            "sentence": 9,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 1076,
+            "charEnd": 1079,
+            "id": 180,
+            "sentence": 10,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1080,
+            "charEnd": 1089,
+            "id": 181,
+            "sentence": 10,
+            "text": "Präsident",
+            "word": 2
+        },
+        {
+            "charBegin": 1090,
+            "charEnd": 1094,
+            "id": 182,
+            "sentence": 10,
+            "text": "wird",
+            "word": 3
+        },
+        {
+            "charBegin": 1095,
+            "charEnd": 1097,
+            "id": 183,
+            "sentence": 10,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 1098,
+            "charEnd": 1107,
+            "id": 184,
+            "sentence": 10,
+            "text": "Moldawien",
+            "word": 5
+        },
+        {
+            "charBegin": 1108,
+            "charEnd": 1113,
+            "id": 185,
+            "sentence": 10,
+            "text": "nicht",
+            "word": 6
+        },
+        {
+            "charBegin": 1114,
+            "charEnd": 1117,
+            "id": 186,
+            "sentence": 10,
+            "text": "vom",
+            "word": 7
+        },
+        {
+            "charBegin": 1118,
+            "charEnd": 1122,
+            "id": 187,
+            "sentence": 10,
+            "text": "Volk",
+            "word": 8
+        },
+        {
+            "charBegin": 1122,
+            "charEnd": 1123,
+            "id": 188,
+            "sentence": 10,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 1124,
+            "charEnd": 1131,
+            "id": 189,
+            "sentence": 10,
+            "text": "sondern",
+            "word": 10
+        },
+        {
+            "charBegin": 1132,
+            "charEnd": 1135,
+            "id": 190,
+            "sentence": 10,
+            "text": "vom",
+            "word": 11
+        },
+        {
+            "charBegin": 1136,
+            "charEnd": 1145,
+            "id": 191,
+            "sentence": 10,
+            "text": "Parlament",
+            "word": 12
+        },
+        {
+            "charBegin": 1146,
+            "charEnd": 1153,
+            "id": 192,
+            "sentence": 10,
+            "text": "gewählt",
+            "word": 13
+        },
+        {
+            "charBegin": 1153,
+            "charEnd": 1154,
+            "id": 193,
+            "sentence": 10,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1155,
+            "charEnd": 1159,
+            "id": 194,
+            "sentence": 11,
+            "text": "Dazu",
+            "word": 1
+        },
+        {
+            "charBegin": 1160,
+            "charEnd": 1163,
+            "id": 195,
+            "sentence": 11,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 1164,
+            "charEnd": 1174,
+            "id": 196,
+            "sentence": 11,
+            "text": "allerdings",
+            "word": 3
+        },
+        {
+            "charBegin": 1175,
+            "charEnd": 1179,
+            "id": 197,
+            "sentence": 11,
+            "text": "eine",
+            "word": 4
+        },
+        {
+            "charBegin": 1180,
+            "charEnd": 1199,
+            "id": 198,
+            "sentence": 11,
+            "text": "Dreifünftelmehrheit",
+            "word": 5
+        },
+        {
+            "charBegin": 1200,
+            "charEnd": 1201,
+            "id": 199,
+            "sentence": 11,
+            "text": "(",
+            "word": 6
+        },
+        {
+            "charBegin": 1201,
+            "charEnd": 1203,
+            "id": 200,
+            "sentence": 11,
+            "text": "61",
+            "word": 7
+        },
+        {
+            "charBegin": 1204,
+            "charEnd": 1211,
+            "id": 201,
+            "sentence": 11,
+            "text": "Stimmen",
+            "word": 8
+        },
+        {
+            "charBegin": 1211,
+            "charEnd": 1212,
+            "id": 202,
+            "sentence": 11,
+            "text": ")",
+            "word": 9
+        },
+        {
+            "charBegin": 1213,
+            "charEnd": 1222,
+            "id": 203,
+            "sentence": 11,
+            "text": "notwendig",
+            "word": 10
+        },
+        {
+            "charBegin": 1222,
+            "charEnd": 1223,
+            "id": 204,
+            "sentence": 11,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1224,
+            "charEnd": 1227,
+            "id": 205,
+            "sentence": 11,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 1228,
+            "charEnd": 1235,
+            "id": 206,
+            "sentence": 11,
+            "text": "seither",
+            "word": 13
+        },
+        {
+            "charBegin": 1236,
+            "charEnd": 1241,
+            "id": 207,
+            "sentence": 11,
+            "text": "nicht",
+            "word": 14
+        },
+        {
+            "charBegin": 1242,
+            "charEnd": 1258,
+            "id": 208,
+            "sentence": 11,
+            "text": "zustandegekommen",
+            "word": 15
+        },
+        {
+            "charBegin": 1259,
+            "charEnd": 1262,
+            "id": 209,
+            "sentence": 11,
+            "text": "ist",
+            "word": 16
+        },
+        {
+            "charBegin": 1262,
+            "charEnd": 1263,
+            "id": 210,
+            "sentence": 11,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 1264,
+            "charEnd": 1272,
+            "id": 211,
+            "sentence": 12,
+            "text": "Aufgrund",
+            "word": 1
+        },
+        {
+            "charBegin": 1273,
+            "charEnd": 1276,
+            "id": 212,
+            "sentence": 12,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 1277,
+            "charEnd": 1283,
+            "id": 213,
+            "sentence": 12,
+            "text": "Stärke",
+            "word": 3
+        },
+        {
+            "charBegin": 1284,
+            "charEnd": 1287,
+            "id": 214,
+            "sentence": 12,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 1288,
+            "charEnd": 1292,
+            "id": 215,
+            "sentence": 12,
+            "text": "PCRM",
+            "word": 5
+        },
+        {
+            "charBegin": 1293,
+            "charEnd": 1297,
+            "id": 216,
+            "sentence": 12,
+            "text": "kann",
+            "word": 6
+        },
+        {
+            "charBegin": 1298,
+            "charEnd": 1302,
+            "id": 217,
+            "sentence": 12,
+            "text": "ohne",
+            "word": 7
+        },
+        {
+            "charBegin": 1303,
+            "charEnd": 1307,
+            "id": 218,
+            "sentence": 12,
+            "text": "ihre",
+            "word": 8
+        },
+        {
+            "charBegin": 1308,
+            "charEnd": 1318,
+            "id": 219,
+            "sentence": 12,
+            "text": "Zustimmung",
+            "word": 9
+        },
+        {
+            "charBegin": 1319,
+            "charEnd": 1323,
+            "id": 220,
+            "sentence": 12,
+            "text": "kein",
+            "word": 10
+        },
+        {
+            "charBegin": 1324,
+            "charEnd": 1333,
+            "id": 221,
+            "sentence": 12,
+            "text": "Präsident",
+            "word": 11
+        },
+        {
+            "charBegin": 1334,
+            "charEnd": 1341,
+            "id": 222,
+            "sentence": 12,
+            "text": "gewählt",
+            "word": 12
+        },
+        {
+            "charBegin": 1342,
+            "charEnd": 1348,
+            "id": 223,
+            "sentence": 12,
+            "text": "werden",
+            "word": 13
+        },
+        {
+            "charBegin": 1348,
+            "charEnd": 1349,
+            "id": 224,
+            "sentence": 12,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1350,
+            "charEnd": 1352,
+            "id": 225,
+            "sentence": 13,
+            "text": "Da",
+            "word": 1
+        },
+        {
+            "charBegin": 1353,
+            "charEnd": 1363,
+            "id": 226,
+            "sentence": 13,
+            "text": "allerdings",
+            "word": 2
+        },
+        {
+            "charBegin": 1364,
+            "charEnd": 1368,
+            "id": 227,
+            "sentence": 13,
+            "text": "auch",
+            "word": 3
+        },
+        {
+            "charBegin": 1369,
+            "charEnd": 1373,
+            "id": 228,
+            "sentence": 13,
+            "text": "eine",
+            "word": 4
+        },
+        {
+            "charBegin": 1374,
+            "charEnd": 1381,
+            "id": 229,
+            "sentence": 13,
+            "text": "etwaige",
+            "word": 5
+        },
+        {
+            "charBegin": 1382,
+            "charEnd": 1400,
+            "id": 230,
+            "sentence": 13,
+            "text": "PCRM-PDM-Koalition",
+            "word": 6
+        },
+        {
+            "charBegin": 1401,
+            "charEnd": 1404,
+            "id": 231,
+            "sentence": 13,
+            "text": "nur",
+            "word": 7
+        },
+        {
+            "charBegin": 1405,
+            "charEnd": 1408,
+            "id": 232,
+            "sentence": 13,
+            "text": "auf",
+            "word": 8
+        },
+        {
+            "charBegin": 1409,
+            "charEnd": 1411,
+            "id": 233,
+            "sentence": 13,
+            "text": "59",
+            "word": 9
+        },
+        {
+            "charBegin": 1412,
+            "charEnd": 1419,
+            "id": 234,
+            "sentence": 13,
+            "text": "Stimmen",
+            "word": 10
+        },
+        {
+            "charBegin": 1420,
+            "charEnd": 1425,
+            "id": 235,
+            "sentence": 13,
+            "text": "kommt",
+            "word": 11
+        },
+        {
+            "charBegin": 1425,
+            "charEnd": 1426,
+            "id": 236,
+            "sentence": 13,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 1427,
+            "charEnd": 1431,
+            "id": 237,
+            "sentence": 13,
+            "text": "wird",
+            "word": 13
+        },
+        {
+            "charBegin": 1432,
+            "charEnd": 1437,
+            "id": 238,
+            "sentence": 13,
+            "text": "keine",
+            "word": 14
+        },
+        {
+            "charBegin": 1438,
+            "charEnd": 1441,
+            "id": 239,
+            "sentence": 13,
+            "text": "der",
+            "word": 15
+        },
+        {
+            "charBegin": 1442,
+            "charEnd": 1448,
+            "id": 240,
+            "sentence": 13,
+            "text": "beiden",
+            "word": 16
+        },
+        {
+            "charBegin": 1449,
+            "charEnd": 1458,
+            "id": 241,
+            "sentence": 13,
+            "text": "möglichen",
+            "word": 17
+        },
+        {
+            "charBegin": 1459,
+            "charEnd": 1470,
+            "id": 242,
+            "sentence": 13,
+            "text": "Koalitionen",
+            "word": 18
+        },
+        {
+            "charBegin": 1471,
+            "charEnd": 1475,
+            "id": 243,
+            "sentence": 13,
+            "text": "eine",
+            "word": 19
+        },
+        {
+            "charBegin": 1476,
+            "charEnd": 1488,
+            "id": 244,
+            "sentence": 13,
+            "text": "ausreichende",
+            "word": 20
+        },
+        {
+            "charBegin": 1489,
+            "charEnd": 1497,
+            "id": 245,
+            "sentence": 13,
+            "text": "Mehrheit",
+            "word": 21
+        },
+        {
+            "charBegin": 1498,
+            "charEnd": 1508,
+            "id": 246,
+            "sentence": 13,
+            "text": "aufbringen",
+            "word": 22
+        },
+        {
+            "charBegin": 1509,
+            "charEnd": 1515,
+            "id": 247,
+            "sentence": 13,
+            "text": "können",
+            "word": 23
+        },
+        {
+            "charBegin": 1515,
+            "charEnd": 1516,
+            "id": 248,
+            "sentence": 13,
+            "text": ".",
+            "word": 24
+        }
+    ]
+}

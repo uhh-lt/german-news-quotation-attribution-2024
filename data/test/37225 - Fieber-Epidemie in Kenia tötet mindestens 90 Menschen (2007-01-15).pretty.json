@@ -1,0 +1,1398 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 28,
+                        "charBegin": 167,
+                        "charEnd": 170,
+                        "end": 29
+                    },
+                    {
+                        "begin": 31,
+                        "charBegin": 192,
+                        "charEnd": 202,
+                        "end": 32
+                    }
+                ],
+                "text": "Wie mitteilten",
+                "tokenIds": [
+                    28,
+                    31
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 28,
+                        "charBegin": 167,
+                        "charEnd": 203,
+                        "end": 33
+                    }
+                ],
+                "text": "Wie kenianische Behörden mitteilten,",
+                "tokenIds": [
+                    28,
+                    29,
+                    30,
+                    31,
+                    32
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 33,
+                        "charBegin": 204,
+                        "charEnd": 316,
+                        "end": 51
+                    }
+                ],
+                "text": "handelt es sich um das Rift-Valley-Fieber, dessen Erreger durch Mücken vom Tier auf den Menschen übertragen wird",
+                "tokenIds": [
+                    33,
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 29,
+                        "charBegin": 171,
+                        "charEnd": 191,
+                        "end": 31
+                    }
+                ],
+                "text": "kenianische Behörden",
+                "tokenIds": [
+                    29,
+                    30
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 102,
+                        "charBegin": 651,
+                        "charEnd": 655,
+                        "end": 103
+                    }
+                ],
+                "text": "nach",
+                "tokenIds": [
+                    102
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 102,
+                        "charBegin": 651,
+                        "charEnd": 706,
+                        "end": 108
+                    }
+                ],
+                "text": "nach Angaben der amerikanischen Hilfsorganisation USAID",
+                "tokenIds": [
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 88,
+                        "charBegin": 552,
+                        "charEnd": 650,
+                        "end": 102
+                    },
+                    {
+                        "begin": 108,
+                        "charBegin": 707,
+                        "charEnd": 732,
+                        "end": 111
+                    }
+                ],
+                "text": "Da Schlachthäuser und Viehmärkte geschlossen wurden, um die weitere Ausbreitung einzudämmen, droht nun eine Versorgungskrise",
+                "tokenIds": [
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    108,
+                    109,
+                    110
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 103,
+                        "charBegin": 656,
+                        "charEnd": 706,
+                        "end": 108
+                    }
+                ],
+                "text": "Angaben der amerikanischen Hilfsorganisation USAID",
+                "tokenIds": [
+                    103,
+                    104,
+                    105,
+                    106,
+                    107
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "37225 - Fieber-Epidemie in Kenia tötet mindestens 90 Menschen (2007-01-15)",
+    "originalText": "Im Nordosten Kenias greift seit einem Monat eine Fieberepidemie um sich, die bisher mindestens 90 Menschen das Leben gekostet hat. Weitere 245 Menschen sind erkrankt. Wie kenianische Behörden mitteilten, handelt es sich um das Rift-Valley-Fieber, dessen Erreger durch Mücken vom Tier auf den Menschen übertragen wird.\n\nBesonders betroffen sind grenznahe Gebiete an den Grenzen zu Äthiopien und Somalia, in denen Nomaden mit großen Tierherden beheimatet sind. Ein Team der Weltgesundheitsorganisation hat inzwischen damit begonnen, die Tiere zu impfen. Da Schlachthäuser und Viehmärkte geschlossen wurden, um die weitere Ausbreitung einzudämmen, droht nach Angaben der amerikanischen Hilfsorganisation USAID nun eine Versorgungskrise.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 130,
+            "end": 22,
+            "id": 0,
+            "text": "Im Nordosten Kenias greift seit einem Monat eine Fieberepidemie um sich, die bisher mindestens 90 Menschen das Leben gekostet hat. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Im",
+                "Nordosten",
+                "Kenias",
+                "greift",
+                "seit",
+                "einem",
+                "Monat",
+                "eine",
+                "Fieberepidemie",
+                "um",
+                "sich",
+                ",",
+                "die",
+                "bisher",
+                "mindestens",
+                "90",
+                "Menschen",
+                "das",
+                "Leben",
+                "gekostet",
+                "hat",
+                "."
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 131,
+            "charEnd": 166,
+            "end": 28,
+            "id": 1,
+            "text": "Weitere 245 Menschen sind erkrankt. ",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27
+            ],
+            "tokens": [
+                "Weitere",
+                "245",
+                "Menschen",
+                "sind",
+                "erkrankt",
+                "."
+            ]
+        },
+        {
+            "begin": 28,
+            "charBegin": 167,
+            "charEnd": 317,
+            "end": 52,
+            "id": 2,
+            "text": "Wie kenianische Behörden mitteilten, handelt es sich um das Rift-Valley-Fieber, dessen Erreger durch Mücken vom Tier auf den Menschen übertragen wird.",
+            "tokenIds": [
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51
+            ],
+            "tokens": [
+                "Wie",
+                "kenianische",
+                "Behörden",
+                "mitteilten",
+                ",",
+                "handelt",
+                "es",
+                "sich",
+                "um",
+                "das",
+                "Rift-Valley-Fieber",
+                ",",
+                "dessen",
+                "Erreger",
+                "durch",
+                "Mücken",
+                "vom",
+                "Tier",
+                "auf",
+                "den",
+                "Menschen",
+                "übertragen",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "begin": 52,
+            "charBegin": 319,
+            "charEnd": 458,
+            "end": 74,
+            "id": 3,
+            "text": "Besonders betroffen sind grenznahe Gebiete an den Grenzen zu Äthiopien und Somalia, in denen Nomaden mit großen Tierherden beheimatet sind. ",
+            "tokenIds": [
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73
+            ],
+            "tokens": [
+                "Besonders",
+                "betroffen",
+                "sind",
+                "grenznahe",
+                "Gebiete",
+                "an",
+                "den",
+                "Grenzen",
+                "zu",
+                "Äthiopien",
+                "und",
+                "Somalia",
+                ",",
+                "in",
+                "denen",
+                "Nomaden",
+                "mit",
+                "großen",
+                "Tierherden",
+                "beheimatet",
+                "sind",
+                "."
+            ]
+        },
+        {
+            "begin": 74,
+            "charBegin": 459,
+            "charEnd": 551,
+            "end": 88,
+            "id": 4,
+            "text": "Ein Team der Weltgesundheitsorganisation hat inzwischen damit begonnen, die Tiere zu impfen. ",
+            "tokenIds": [
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "tokens": [
+                "Ein",
+                "Team",
+                "der",
+                "Weltgesundheitsorganisation",
+                "hat",
+                "inzwischen",
+                "damit",
+                "begonnen",
+                ",",
+                "die",
+                "Tiere",
+                "zu",
+                "impfen",
+                "."
+            ]
+        },
+        {
+            "begin": 88,
+            "charBegin": 552,
+            "charEnd": 733,
+            "end": 112,
+            "id": 5,
+            "text": "Da Schlachthäuser und Viehmärkte geschlossen wurden, um die weitere Ausbreitung einzudämmen, droht nach Angaben der amerikanischen Hilfsorganisation USAID nun eine Versorgungskrise.",
+            "tokenIds": [
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111
+            ],
+            "tokens": [
+                "Da",
+                "Schlachthäuser",
+                "und",
+                "Viehmärkte",
+                "geschlossen",
+                "wurden",
+                ",",
+                "um",
+                "die",
+                "weitere",
+                "Ausbreitung",
+                "einzudämmen",
+                ",",
+                "droht",
+                "nach",
+                "Angaben",
+                "der",
+                "amerikanischen",
+                "Hilfsorganisation",
+                "USAID",
+                "nun",
+                "eine",
+                "Versorgungskrise",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 12,
+            "id": 1,
+            "sentence": 1,
+            "text": "Nordosten",
+            "word": 2
+        },
+        {
+            "charBegin": 13,
+            "charEnd": 19,
+            "id": 2,
+            "sentence": 1,
+            "text": "Kenias",
+            "word": 3
+        },
+        {
+            "charBegin": 20,
+            "charEnd": 26,
+            "id": 3,
+            "sentence": 1,
+            "text": "greift",
+            "word": 4
+        },
+        {
+            "charBegin": 27,
+            "charEnd": 31,
+            "id": 4,
+            "sentence": 1,
+            "text": "seit",
+            "word": 5
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 37,
+            "id": 5,
+            "sentence": 1,
+            "text": "einem",
+            "word": 6
+        },
+        {
+            "charBegin": 38,
+            "charEnd": 43,
+            "id": 6,
+            "sentence": 1,
+            "text": "Monat",
+            "word": 7
+        },
+        {
+            "charBegin": 44,
+            "charEnd": 48,
+            "id": 7,
+            "sentence": 1,
+            "text": "eine",
+            "word": 8
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 63,
+            "id": 8,
+            "sentence": 1,
+            "text": "Fieberepidemie",
+            "word": 9
+        },
+        {
+            "charBegin": 64,
+            "charEnd": 66,
+            "id": 9,
+            "sentence": 1,
+            "text": "um",
+            "word": 10
+        },
+        {
+            "charBegin": 67,
+            "charEnd": 71,
+            "id": 10,
+            "sentence": 1,
+            "text": "sich",
+            "word": 11
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 72,
+            "id": 11,
+            "sentence": 1,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 76,
+            "id": 12,
+            "sentence": 1,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 83,
+            "id": 13,
+            "sentence": 1,
+            "text": "bisher",
+            "word": 14
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 94,
+            "id": 14,
+            "sentence": 1,
+            "text": "mindestens",
+            "word": 15
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 97,
+            "id": 15,
+            "sentence": 1,
+            "text": "90",
+            "word": 16
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 106,
+            "id": 16,
+            "sentence": 1,
+            "text": "Menschen",
+            "word": 17
+        },
+        {
+            "charBegin": 107,
+            "charEnd": 110,
+            "id": 17,
+            "sentence": 1,
+            "text": "das",
+            "word": 18
+        },
+        {
+            "charBegin": 111,
+            "charEnd": 116,
+            "id": 18,
+            "sentence": 1,
+            "text": "Leben",
+            "word": 19
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 125,
+            "id": 19,
+            "sentence": 1,
+            "text": "gekostet",
+            "word": 20
+        },
+        {
+            "charBegin": 126,
+            "charEnd": 129,
+            "id": 20,
+            "sentence": 1,
+            "text": "hat",
+            "word": 21
+        },
+        {
+            "charBegin": 129,
+            "charEnd": 130,
+            "id": 21,
+            "sentence": 1,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 138,
+            "id": 22,
+            "sentence": 2,
+            "text": "Weitere",
+            "word": 1
+        },
+        {
+            "charBegin": 139,
+            "charEnd": 142,
+            "id": 23,
+            "sentence": 2,
+            "text": "245",
+            "word": 2
+        },
+        {
+            "charBegin": 143,
+            "charEnd": 151,
+            "id": 24,
+            "sentence": 2,
+            "text": "Menschen",
+            "word": 3
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 156,
+            "id": 25,
+            "sentence": 2,
+            "text": "sind",
+            "word": 4
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 165,
+            "id": 26,
+            "sentence": 2,
+            "text": "erkrankt",
+            "word": 5
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 166,
+            "id": 27,
+            "sentence": 2,
+            "text": ".",
+            "word": 6
+        },
+        {
+            "charBegin": 167,
+            "charEnd": 170,
+            "id": 28,
+            "sentence": 3,
+            "text": "Wie",
+            "word": 1
+        },
+        {
+            "charBegin": 171,
+            "charEnd": 182,
+            "id": 29,
+            "sentence": 3,
+            "text": "kenianische",
+            "word": 2
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 191,
+            "id": 30,
+            "sentence": 3,
+            "text": "Behörden",
+            "word": 3
+        },
+        {
+            "charBegin": 192,
+            "charEnd": 202,
+            "id": 31,
+            "sentence": 3,
+            "text": "mitteilten",
+            "word": 4
+        },
+        {
+            "charBegin": 202,
+            "charEnd": 203,
+            "id": 32,
+            "sentence": 3,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 211,
+            "id": 33,
+            "sentence": 3,
+            "text": "handelt",
+            "word": 6
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 214,
+            "id": 34,
+            "sentence": 3,
+            "text": "es",
+            "word": 7
+        },
+        {
+            "charBegin": 215,
+            "charEnd": 219,
+            "id": 35,
+            "sentence": 3,
+            "text": "sich",
+            "word": 8
+        },
+        {
+            "charBegin": 220,
+            "charEnd": 222,
+            "id": 36,
+            "sentence": 3,
+            "text": "um",
+            "word": 9
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 226,
+            "id": 37,
+            "sentence": 3,
+            "text": "das",
+            "word": 10
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 245,
+            "id": 38,
+            "sentence": 3,
+            "text": "Rift-Valley-Fieber",
+            "word": 11
+        },
+        {
+            "charBegin": 245,
+            "charEnd": 246,
+            "id": 39,
+            "sentence": 3,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 247,
+            "charEnd": 253,
+            "id": 40,
+            "sentence": 3,
+            "text": "dessen",
+            "word": 13
+        },
+        {
+            "charBegin": 254,
+            "charEnd": 261,
+            "id": 41,
+            "sentence": 3,
+            "text": "Erreger",
+            "word": 14
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 267,
+            "id": 42,
+            "sentence": 3,
+            "text": "durch",
+            "word": 15
+        },
+        {
+            "charBegin": 268,
+            "charEnd": 274,
+            "id": 43,
+            "sentence": 3,
+            "text": "Mücken",
+            "word": 16
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 278,
+            "id": 44,
+            "sentence": 3,
+            "text": "vom",
+            "word": 17
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 283,
+            "id": 45,
+            "sentence": 3,
+            "text": "Tier",
+            "word": 18
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 287,
+            "id": 46,
+            "sentence": 3,
+            "text": "auf",
+            "word": 19
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 291,
+            "id": 47,
+            "sentence": 3,
+            "text": "den",
+            "word": 20
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 300,
+            "id": 48,
+            "sentence": 3,
+            "text": "Menschen",
+            "word": 21
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 311,
+            "id": 49,
+            "sentence": 3,
+            "text": "übertragen",
+            "word": 22
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 316,
+            "id": 50,
+            "sentence": 3,
+            "text": "wird",
+            "word": 23
+        },
+        {
+            "charBegin": 316,
+            "charEnd": 317,
+            "id": 51,
+            "sentence": 3,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 328,
+            "id": 52,
+            "sentence": 4,
+            "text": "Besonders",
+            "word": 1
+        },
+        {
+            "charBegin": 329,
+            "charEnd": 338,
+            "id": 53,
+            "sentence": 4,
+            "text": "betroffen",
+            "word": 2
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 343,
+            "id": 54,
+            "sentence": 4,
+            "text": "sind",
+            "word": 3
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 353,
+            "id": 55,
+            "sentence": 4,
+            "text": "grenznahe",
+            "word": 4
+        },
+        {
+            "charBegin": 354,
+            "charEnd": 361,
+            "id": 56,
+            "sentence": 4,
+            "text": "Gebiete",
+            "word": 5
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 364,
+            "id": 57,
+            "sentence": 4,
+            "text": "an",
+            "word": 6
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 368,
+            "id": 58,
+            "sentence": 4,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 369,
+            "charEnd": 376,
+            "id": 59,
+            "sentence": 4,
+            "text": "Grenzen",
+            "word": 8
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 379,
+            "id": 60,
+            "sentence": 4,
+            "text": "zu",
+            "word": 9
+        },
+        {
+            "charBegin": 380,
+            "charEnd": 389,
+            "id": 61,
+            "sentence": 4,
+            "text": "Äthiopien",
+            "word": 10
+        },
+        {
+            "charBegin": 390,
+            "charEnd": 393,
+            "id": 62,
+            "sentence": 4,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 401,
+            "id": 63,
+            "sentence": 4,
+            "text": "Somalia",
+            "word": 12
+        },
+        {
+            "charBegin": 401,
+            "charEnd": 402,
+            "id": 64,
+            "sentence": 4,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 405,
+            "id": 65,
+            "sentence": 4,
+            "text": "in",
+            "word": 14
+        },
+        {
+            "charBegin": 406,
+            "charEnd": 411,
+            "id": 66,
+            "sentence": 4,
+            "text": "denen",
+            "word": 15
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 419,
+            "id": 67,
+            "sentence": 4,
+            "text": "Nomaden",
+            "word": 16
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 423,
+            "id": 68,
+            "sentence": 4,
+            "text": "mit",
+            "word": 17
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 430,
+            "id": 69,
+            "sentence": 4,
+            "text": "großen",
+            "word": 18
+        },
+        {
+            "charBegin": 431,
+            "charEnd": 441,
+            "id": 70,
+            "sentence": 4,
+            "text": "Tierherden",
+            "word": 19
+        },
+        {
+            "charBegin": 442,
+            "charEnd": 452,
+            "id": 71,
+            "sentence": 4,
+            "text": "beheimatet",
+            "word": 20
+        },
+        {
+            "charBegin": 453,
+            "charEnd": 457,
+            "id": 72,
+            "sentence": 4,
+            "text": "sind",
+            "word": 21
+        },
+        {
+            "charBegin": 457,
+            "charEnd": 458,
+            "id": 73,
+            "sentence": 4,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 459,
+            "charEnd": 462,
+            "id": 74,
+            "sentence": 5,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 463,
+            "charEnd": 467,
+            "id": 75,
+            "sentence": 5,
+            "text": "Team",
+            "word": 2
+        },
+        {
+            "charBegin": 468,
+            "charEnd": 471,
+            "id": 76,
+            "sentence": 5,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 472,
+            "charEnd": 499,
+            "id": 77,
+            "sentence": 5,
+            "text": "Weltgesundheitsorganisation",
+            "word": 4
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 503,
+            "id": 78,
+            "sentence": 5,
+            "text": "hat",
+            "word": 5
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 514,
+            "id": 79,
+            "sentence": 5,
+            "text": "inzwischen",
+            "word": 6
+        },
+        {
+            "charBegin": 515,
+            "charEnd": 520,
+            "id": 80,
+            "sentence": 5,
+            "text": "damit",
+            "word": 7
+        },
+        {
+            "charBegin": 521,
+            "charEnd": 529,
+            "id": 81,
+            "sentence": 5,
+            "text": "begonnen",
+            "word": 8
+        },
+        {
+            "charBegin": 529,
+            "charEnd": 530,
+            "id": 82,
+            "sentence": 5,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 531,
+            "charEnd": 534,
+            "id": 83,
+            "sentence": 5,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 535,
+            "charEnd": 540,
+            "id": 84,
+            "sentence": 5,
+            "text": "Tiere",
+            "word": 11
+        },
+        {
+            "charBegin": 541,
+            "charEnd": 543,
+            "id": 85,
+            "sentence": 5,
+            "text": "zu",
+            "word": 12
+        },
+        {
+            "charBegin": 544,
+            "charEnd": 550,
+            "id": 86,
+            "sentence": 5,
+            "text": "impfen",
+            "word": 13
+        },
+        {
+            "charBegin": 550,
+            "charEnd": 551,
+            "id": 87,
+            "sentence": 5,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 552,
+            "charEnd": 554,
+            "id": 88,
+            "sentence": 6,
+            "text": "Da",
+            "word": 1
+        },
+        {
+            "charBegin": 555,
+            "charEnd": 569,
+            "id": 89,
+            "sentence": 6,
+            "text": "Schlachthäuser",
+            "word": 2
+        },
+        {
+            "charBegin": 570,
+            "charEnd": 573,
+            "id": 90,
+            "sentence": 6,
+            "text": "und",
+            "word": 3
+        },
+        {
+            "charBegin": 574,
+            "charEnd": 584,
+            "id": 91,
+            "sentence": 6,
+            "text": "Viehmärkte",
+            "word": 4
+        },
+        {
+            "charBegin": 585,
+            "charEnd": 596,
+            "id": 92,
+            "sentence": 6,
+            "text": "geschlossen",
+            "word": 5
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 603,
+            "id": 93,
+            "sentence": 6,
+            "text": "wurden",
+            "word": 6
+        },
+        {
+            "charBegin": 603,
+            "charEnd": 604,
+            "id": 94,
+            "sentence": 6,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 605,
+            "charEnd": 607,
+            "id": 95,
+            "sentence": 6,
+            "text": "um",
+            "word": 8
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 611,
+            "id": 96,
+            "sentence": 6,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 612,
+            "charEnd": 619,
+            "id": 97,
+            "sentence": 6,
+            "text": "weitere",
+            "word": 10
+        },
+        {
+            "charBegin": 620,
+            "charEnd": 631,
+            "id": 98,
+            "sentence": 6,
+            "text": "Ausbreitung",
+            "word": 11
+        },
+        {
+            "charBegin": 632,
+            "charEnd": 643,
+            "id": 99,
+            "sentence": 6,
+            "text": "einzudämmen",
+            "word": 12
+        },
+        {
+            "charBegin": 643,
+            "charEnd": 644,
+            "id": 100,
+            "sentence": 6,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 645,
+            "charEnd": 650,
+            "id": 101,
+            "sentence": 6,
+            "text": "droht",
+            "word": 14
+        },
+        {
+            "charBegin": 651,
+            "charEnd": 655,
+            "id": 102,
+            "sentence": 6,
+            "text": "nach",
+            "word": 15
+        },
+        {
+            "charBegin": 656,
+            "charEnd": 663,
+            "id": 103,
+            "sentence": 6,
+            "text": "Angaben",
+            "word": 16
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 667,
+            "id": 104,
+            "sentence": 6,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 682,
+            "id": 105,
+            "sentence": 6,
+            "text": "amerikanischen",
+            "word": 18
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 700,
+            "id": 106,
+            "sentence": 6,
+            "text": "Hilfsorganisation",
+            "word": 19
+        },
+        {
+            "charBegin": 701,
+            "charEnd": 706,
+            "id": 107,
+            "sentence": 6,
+            "text": "USAID",
+            "word": 20
+        },
+        {
+            "charBegin": 707,
+            "charEnd": 710,
+            "id": 108,
+            "sentence": 6,
+            "text": "nun",
+            "word": 21
+        },
+        {
+            "charBegin": 711,
+            "charEnd": 715,
+            "id": 109,
+            "sentence": 6,
+            "text": "eine",
+            "word": 22
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 732,
+            "id": 110,
+            "sentence": 6,
+            "text": "Versorgungskrise",
+            "word": 23
+        },
+        {
+            "charBegin": 732,
+            "charEnd": 733,
+            "id": 111,
+            "sentence": 6,
+            "text": ".",
+            "word": 24
+        }
+    ]
+}

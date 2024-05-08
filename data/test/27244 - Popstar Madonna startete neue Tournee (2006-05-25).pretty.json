@@ -1,0 +1,1555 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 68,
+                        "charBegin": 373,
+                        "charEnd": 472,
+                        "end": 83
+                    }
+                ],
+                "text": "Madonnas Management erwartet von dieser Tournee Einnahmen in Höhe von über 200 Millionen US-Dollar.",
+                "tokenIds": [
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 68,
+                        "charBegin": 373,
+                        "charEnd": 392,
+                        "end": 70
+                    }
+                ],
+                "text": "Madonnas Management",
+                "tokenIds": [
+                    68,
+                    69
+                ]
+            },
+            "type": "Reported"
+        }
+    ],
+    "documentName": "27244 - Popstar Madonna startete neue Tournee (2006-05-25)",
+    "originalText": "US-Popstar Madonna bereitete ihre neue Welttournee vor: „Confessions on a Dance Floor“. Das „Material Girl“ wird mit dieser Show drei Monate durch die Welt touren. Am Sonntag fand die Premieren-Vorstellung der neuen Show in Los Angeles statt.\n\nIhre Tournee führt Madonna am 20. August nach Düsseldorf und am 22. August nach Hannover. Insgesamt werden es über 50 Auftritte. Madonnas Management erwartet von dieser Tournee Einnahmen in Höhe von über 200 Millionen US-Dollar. Der Ticket-Vorverkauf läuft sehr gut. Innerhalb der ersten vier Tage nach Verkaufsstart war die Hälfte der Tickets für die Auftritte in den USA und in Europa abgesetzt. Madonna wird mit dieser Tournee die best verdienende Frau im Musikgeschäft der Popmusik. Eine Eintrittskarte für die Show kostet rund 300 Euro.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 87,
+            "end": 16,
+            "id": 0,
+            "text": "US-Popstar Madonna bereitete ihre neue Welttournee vor: „Confessions on a Dance Floor“. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "tokens": [
+                "US-Popstar",
+                "Madonna",
+                "bereitete",
+                "ihre",
+                "neue",
+                "Welttournee",
+                "vor",
+                ":",
+                "„",
+                "Confessions",
+                "on",
+                "a",
+                "Dance",
+                "Floor",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 16,
+            "charBegin": 88,
+            "charEnd": 163,
+            "end": 32,
+            "id": 1,
+            "text": "Das „Material Girl“ wird mit dieser Show drei Monate durch die Welt touren. ",
+            "tokenIds": [
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31
+            ],
+            "tokens": [
+                "Das",
+                "„",
+                "Material",
+                "Girl",
+                "“",
+                "wird",
+                "mit",
+                "dieser",
+                "Show",
+                "drei",
+                "Monate",
+                "durch",
+                "die",
+                "Welt",
+                "touren",
+                "."
+            ]
+        },
+        {
+            "begin": 32,
+            "charBegin": 164,
+            "charEnd": 242,
+            "end": 45,
+            "id": 2,
+            "text": "Am Sonntag fand die Premieren-Vorstellung der neuen Show in Los Angeles statt.",
+            "tokenIds": [
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44
+            ],
+            "tokens": [
+                "Am",
+                "Sonntag",
+                "fand",
+                "die",
+                "Premieren-Vorstellung",
+                "der",
+                "neuen",
+                "Show",
+                "in",
+                "Los",
+                "Angeles",
+                "statt",
+                "."
+            ]
+        },
+        {
+            "begin": 45,
+            "charBegin": 244,
+            "charEnd": 333,
+            "end": 61,
+            "id": 3,
+            "text": "Ihre Tournee führt Madonna am 20. August nach Düsseldorf und am 22. August nach Hannover. ",
+            "tokenIds": [
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60
+            ],
+            "tokens": [
+                "Ihre",
+                "Tournee",
+                "führt",
+                "Madonna",
+                "am",
+                "20.",
+                "August",
+                "nach",
+                "Düsseldorf",
+                "und",
+                "am",
+                "22.",
+                "August",
+                "nach",
+                "Hannover",
+                "."
+            ]
+        },
+        {
+            "begin": 61,
+            "charBegin": 334,
+            "charEnd": 372,
+            "end": 68,
+            "id": 4,
+            "text": "Insgesamt werden es über 50 Auftritte. ",
+            "tokenIds": [
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67
+            ],
+            "tokens": [
+                "Insgesamt",
+                "werden",
+                "es",
+                "über",
+                "50",
+                "Auftritte",
+                "."
+            ]
+        },
+        {
+            "begin": 68,
+            "charBegin": 373,
+            "charEnd": 472,
+            "end": 83,
+            "id": 5,
+            "text": "Madonnas Management erwartet von dieser Tournee Einnahmen in Höhe von über 200 Millionen US-Dollar. ",
+            "tokenIds": [
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82
+            ],
+            "tokens": [
+                "Madonnas",
+                "Management",
+                "erwartet",
+                "von",
+                "dieser",
+                "Tournee",
+                "Einnahmen",
+                "in",
+                "Höhe",
+                "von",
+                "über",
+                "200",
+                "Millionen",
+                "US-Dollar",
+                "."
+            ]
+        },
+        {
+            "begin": 83,
+            "charBegin": 473,
+            "charEnd": 510,
+            "end": 89,
+            "id": 6,
+            "text": "Der Ticket-Vorverkauf läuft sehr gut. ",
+            "tokenIds": [
+                83,
+                84,
+                85,
+                86,
+                87,
+                88
+            ],
+            "tokens": [
+                "Der",
+                "Ticket-Vorverkauf",
+                "läuft",
+                "sehr",
+                "gut",
+                "."
+            ]
+        },
+        {
+            "begin": 89,
+            "charBegin": 511,
+            "charEnd": 641,
+            "end": 112,
+            "id": 7,
+            "text": "Innerhalb der ersten vier Tage nach Verkaufsstart war die Hälfte der Tickets für die Auftritte in den USA und in Europa abgesetzt. ",
+            "tokenIds": [
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111
+            ],
+            "tokens": [
+                "Innerhalb",
+                "der",
+                "ersten",
+                "vier",
+                "Tage",
+                "nach",
+                "Verkaufsstart",
+                "war",
+                "die",
+                "Hälfte",
+                "der",
+                "Tickets",
+                "für",
+                "die",
+                "Auftritte",
+                "in",
+                "den",
+                "USA",
+                "und",
+                "in",
+                "Europa",
+                "abgesetzt",
+                "."
+            ]
+        },
+        {
+            "begin": 112,
+            "charBegin": 642,
+            "charEnd": 730,
+            "end": 126,
+            "id": 8,
+            "text": "Madonna wird mit dieser Tournee die best verdienende Frau im Musikgeschäft der Popmusik. ",
+            "tokenIds": [
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125
+            ],
+            "tokens": [
+                "Madonna",
+                "wird",
+                "mit",
+                "dieser",
+                "Tournee",
+                "die",
+                "best",
+                "verdienende",
+                "Frau",
+                "im",
+                "Musikgeschäft",
+                "der",
+                "Popmusik",
+                "."
+            ]
+        },
+        {
+            "begin": 126,
+            "charBegin": 731,
+            "charEnd": 785,
+            "end": 136,
+            "id": 9,
+            "text": "Eine Eintrittskarte für die Show kostet rund 300 Euro.",
+            "tokenIds": [
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135
+            ],
+            "tokens": [
+                "Eine",
+                "Eintrittskarte",
+                "für",
+                "die",
+                "Show",
+                "kostet",
+                "rund",
+                "300",
+                "Euro",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 10,
+            "id": 0,
+            "sentence": 1,
+            "text": "US-Popstar",
+            "word": 1
+        },
+        {
+            "charBegin": 11,
+            "charEnd": 18,
+            "id": 1,
+            "sentence": 1,
+            "text": "Madonna",
+            "word": 2
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 28,
+            "id": 2,
+            "sentence": 1,
+            "text": "bereitete",
+            "word": 3
+        },
+        {
+            "charBegin": 29,
+            "charEnd": 33,
+            "id": 3,
+            "sentence": 1,
+            "text": "ihre",
+            "word": 4
+        },
+        {
+            "charBegin": 34,
+            "charEnd": 38,
+            "id": 4,
+            "sentence": 1,
+            "text": "neue",
+            "word": 5
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 50,
+            "id": 5,
+            "sentence": 1,
+            "text": "Welttournee",
+            "word": 6
+        },
+        {
+            "charBegin": 51,
+            "charEnd": 54,
+            "id": 6,
+            "sentence": 1,
+            "text": "vor",
+            "word": 7
+        },
+        {
+            "charBegin": 54,
+            "charEnd": 55,
+            "id": 7,
+            "sentence": 1,
+            "text": ":",
+            "word": 8
+        },
+        {
+            "charBegin": 56,
+            "charEnd": 57,
+            "id": 8,
+            "sentence": 1,
+            "text": "„",
+            "word": 9
+        },
+        {
+            "charBegin": 57,
+            "charEnd": 68,
+            "id": 9,
+            "sentence": 1,
+            "text": "Confessions",
+            "word": 10
+        },
+        {
+            "charBegin": 69,
+            "charEnd": 71,
+            "id": 10,
+            "sentence": 1,
+            "text": "on",
+            "word": 11
+        },
+        {
+            "charBegin": 72,
+            "charEnd": 73,
+            "id": 11,
+            "sentence": 1,
+            "text": "a",
+            "word": 12
+        },
+        {
+            "charBegin": 74,
+            "charEnd": 79,
+            "id": 12,
+            "sentence": 1,
+            "text": "Dance",
+            "word": 13
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 85,
+            "id": 13,
+            "sentence": 1,
+            "text": "Floor",
+            "word": 14
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 86,
+            "id": 14,
+            "sentence": 1,
+            "text": "“",
+            "word": 15
+        },
+        {
+            "charBegin": 86,
+            "charEnd": 87,
+            "id": 15,
+            "sentence": 1,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 88,
+            "charEnd": 91,
+            "id": 16,
+            "sentence": 2,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 92,
+            "charEnd": 93,
+            "id": 17,
+            "sentence": 2,
+            "text": "„",
+            "word": 2
+        },
+        {
+            "charBegin": 93,
+            "charEnd": 101,
+            "id": 18,
+            "sentence": 2,
+            "text": "Material",
+            "word": 3
+        },
+        {
+            "charBegin": 102,
+            "charEnd": 106,
+            "id": 19,
+            "sentence": 2,
+            "text": "Girl",
+            "word": 4
+        },
+        {
+            "charBegin": 106,
+            "charEnd": 107,
+            "id": 20,
+            "sentence": 2,
+            "text": "“",
+            "word": 5
+        },
+        {
+            "charBegin": 108,
+            "charEnd": 112,
+            "id": 21,
+            "sentence": 2,
+            "text": "wird",
+            "word": 6
+        },
+        {
+            "charBegin": 113,
+            "charEnd": 116,
+            "id": 22,
+            "sentence": 2,
+            "text": "mit",
+            "word": 7
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 123,
+            "id": 23,
+            "sentence": 2,
+            "text": "dieser",
+            "word": 8
+        },
+        {
+            "charBegin": 124,
+            "charEnd": 128,
+            "id": 24,
+            "sentence": 2,
+            "text": "Show",
+            "word": 9
+        },
+        {
+            "charBegin": 129,
+            "charEnd": 133,
+            "id": 25,
+            "sentence": 2,
+            "text": "drei",
+            "word": 10
+        },
+        {
+            "charBegin": 134,
+            "charEnd": 140,
+            "id": 26,
+            "sentence": 2,
+            "text": "Monate",
+            "word": 11
+        },
+        {
+            "charBegin": 141,
+            "charEnd": 146,
+            "id": 27,
+            "sentence": 2,
+            "text": "durch",
+            "word": 12
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 150,
+            "id": 28,
+            "sentence": 2,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 151,
+            "charEnd": 155,
+            "id": 29,
+            "sentence": 2,
+            "text": "Welt",
+            "word": 14
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 162,
+            "id": 30,
+            "sentence": 2,
+            "text": "touren",
+            "word": 15
+        },
+        {
+            "charBegin": 162,
+            "charEnd": 163,
+            "id": 31,
+            "sentence": 2,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 164,
+            "charEnd": 166,
+            "id": 32,
+            "sentence": 3,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 167,
+            "charEnd": 174,
+            "id": 33,
+            "sentence": 3,
+            "text": "Sonntag",
+            "word": 2
+        },
+        {
+            "charBegin": 175,
+            "charEnd": 179,
+            "id": 34,
+            "sentence": 3,
+            "text": "fand",
+            "word": 3
+        },
+        {
+            "charBegin": 180,
+            "charEnd": 183,
+            "id": 35,
+            "sentence": 3,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 184,
+            "charEnd": 205,
+            "id": 36,
+            "sentence": 3,
+            "text": "Premieren-Vorstellung",
+            "word": 5
+        },
+        {
+            "charBegin": 206,
+            "charEnd": 209,
+            "id": 37,
+            "sentence": 3,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 215,
+            "id": 38,
+            "sentence": 3,
+            "text": "neuen",
+            "word": 7
+        },
+        {
+            "charBegin": 216,
+            "charEnd": 220,
+            "id": 39,
+            "sentence": 3,
+            "text": "Show",
+            "word": 8
+        },
+        {
+            "charBegin": 221,
+            "charEnd": 223,
+            "id": 40,
+            "sentence": 3,
+            "text": "in",
+            "word": 9
+        },
+        {
+            "charBegin": 224,
+            "charEnd": 227,
+            "id": 41,
+            "sentence": 3,
+            "text": "Los",
+            "word": 10
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 235,
+            "id": 42,
+            "sentence": 3,
+            "text": "Angeles",
+            "word": 11
+        },
+        {
+            "charBegin": 236,
+            "charEnd": 241,
+            "id": 43,
+            "sentence": 3,
+            "text": "statt",
+            "word": 12
+        },
+        {
+            "charBegin": 241,
+            "charEnd": 242,
+            "id": 44,
+            "sentence": 3,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 248,
+            "id": 45,
+            "sentence": 4,
+            "text": "Ihre",
+            "word": 1
+        },
+        {
+            "charBegin": 249,
+            "charEnd": 256,
+            "id": 46,
+            "sentence": 4,
+            "text": "Tournee",
+            "word": 2
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 262,
+            "id": 47,
+            "sentence": 4,
+            "text": "führt",
+            "word": 3
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 270,
+            "id": 48,
+            "sentence": 4,
+            "text": "Madonna",
+            "word": 4
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 273,
+            "id": 49,
+            "sentence": 4,
+            "text": "am",
+            "word": 5
+        },
+        {
+            "charBegin": 274,
+            "charEnd": 277,
+            "id": 50,
+            "sentence": 4,
+            "text": "20.",
+            "word": 6
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 284,
+            "id": 51,
+            "sentence": 4,
+            "text": "August",
+            "word": 7
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 289,
+            "id": 52,
+            "sentence": 4,
+            "text": "nach",
+            "word": 8
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 300,
+            "id": 53,
+            "sentence": 4,
+            "text": "Düsseldorf",
+            "word": 9
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 304,
+            "id": 54,
+            "sentence": 4,
+            "text": "und",
+            "word": 10
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 307,
+            "id": 55,
+            "sentence": 4,
+            "text": "am",
+            "word": 11
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 311,
+            "id": 56,
+            "sentence": 4,
+            "text": "22.",
+            "word": 12
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 318,
+            "id": 57,
+            "sentence": 4,
+            "text": "August",
+            "word": 13
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 323,
+            "id": 58,
+            "sentence": 4,
+            "text": "nach",
+            "word": 14
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 332,
+            "id": 59,
+            "sentence": 4,
+            "text": "Hannover",
+            "word": 15
+        },
+        {
+            "charBegin": 332,
+            "charEnd": 333,
+            "id": 60,
+            "sentence": 4,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 343,
+            "id": 61,
+            "sentence": 5,
+            "text": "Insgesamt",
+            "word": 1
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 350,
+            "id": 62,
+            "sentence": 5,
+            "text": "werden",
+            "word": 2
+        },
+        {
+            "charBegin": 351,
+            "charEnd": 353,
+            "id": 63,
+            "sentence": 5,
+            "text": "es",
+            "word": 3
+        },
+        {
+            "charBegin": 354,
+            "charEnd": 358,
+            "id": 64,
+            "sentence": 5,
+            "text": "über",
+            "word": 4
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 361,
+            "id": 65,
+            "sentence": 5,
+            "text": "50",
+            "word": 5
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 371,
+            "id": 66,
+            "sentence": 5,
+            "text": "Auftritte",
+            "word": 6
+        },
+        {
+            "charBegin": 371,
+            "charEnd": 372,
+            "id": 67,
+            "sentence": 5,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 373,
+            "charEnd": 381,
+            "id": 68,
+            "sentence": 6,
+            "text": "Madonnas",
+            "word": 1
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 392,
+            "id": 69,
+            "sentence": 6,
+            "text": "Management",
+            "word": 2
+        },
+        {
+            "charBegin": 393,
+            "charEnd": 401,
+            "id": 70,
+            "sentence": 6,
+            "text": "erwartet",
+            "word": 3
+        },
+        {
+            "charBegin": 402,
+            "charEnd": 405,
+            "id": 71,
+            "sentence": 6,
+            "text": "von",
+            "word": 4
+        },
+        {
+            "charBegin": 406,
+            "charEnd": 412,
+            "id": 72,
+            "sentence": 6,
+            "text": "dieser",
+            "word": 5
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 420,
+            "id": 73,
+            "sentence": 6,
+            "text": "Tournee",
+            "word": 6
+        },
+        {
+            "charBegin": 421,
+            "charEnd": 430,
+            "id": 74,
+            "sentence": 6,
+            "text": "Einnahmen",
+            "word": 7
+        },
+        {
+            "charBegin": 431,
+            "charEnd": 433,
+            "id": 75,
+            "sentence": 6,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 434,
+            "charEnd": 438,
+            "id": 76,
+            "sentence": 6,
+            "text": "Höhe",
+            "word": 9
+        },
+        {
+            "charBegin": 439,
+            "charEnd": 442,
+            "id": 77,
+            "sentence": 6,
+            "text": "von",
+            "word": 10
+        },
+        {
+            "charBegin": 443,
+            "charEnd": 447,
+            "id": 78,
+            "sentence": 6,
+            "text": "über",
+            "word": 11
+        },
+        {
+            "charBegin": 448,
+            "charEnd": 451,
+            "id": 79,
+            "sentence": 6,
+            "text": "200",
+            "word": 12
+        },
+        {
+            "charBegin": 452,
+            "charEnd": 461,
+            "id": 80,
+            "sentence": 6,
+            "text": "Millionen",
+            "word": 13
+        },
+        {
+            "charBegin": 462,
+            "charEnd": 471,
+            "id": 81,
+            "sentence": 6,
+            "text": "US-Dollar",
+            "word": 14
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 472,
+            "id": 82,
+            "sentence": 6,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 473,
+            "charEnd": 476,
+            "id": 83,
+            "sentence": 7,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 494,
+            "id": 84,
+            "sentence": 7,
+            "text": "Ticket-Vorverkauf",
+            "word": 2
+        },
+        {
+            "charBegin": 495,
+            "charEnd": 500,
+            "id": 85,
+            "sentence": 7,
+            "text": "läuft",
+            "word": 3
+        },
+        {
+            "charBegin": 501,
+            "charEnd": 505,
+            "id": 86,
+            "sentence": 7,
+            "text": "sehr",
+            "word": 4
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 509,
+            "id": 87,
+            "sentence": 7,
+            "text": "gut",
+            "word": 5
+        },
+        {
+            "charBegin": 509,
+            "charEnd": 510,
+            "id": 88,
+            "sentence": 7,
+            "text": ".",
+            "word": 6
+        },
+        {
+            "charBegin": 511,
+            "charEnd": 520,
+            "id": 89,
+            "sentence": 8,
+            "text": "Innerhalb",
+            "word": 1
+        },
+        {
+            "charBegin": 521,
+            "charEnd": 524,
+            "id": 90,
+            "sentence": 8,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 525,
+            "charEnd": 531,
+            "id": 91,
+            "sentence": 8,
+            "text": "ersten",
+            "word": 3
+        },
+        {
+            "charBegin": 532,
+            "charEnd": 536,
+            "id": 92,
+            "sentence": 8,
+            "text": "vier",
+            "word": 4
+        },
+        {
+            "charBegin": 537,
+            "charEnd": 541,
+            "id": 93,
+            "sentence": 8,
+            "text": "Tage",
+            "word": 5
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 546,
+            "id": 94,
+            "sentence": 8,
+            "text": "nach",
+            "word": 6
+        },
+        {
+            "charBegin": 547,
+            "charEnd": 560,
+            "id": 95,
+            "sentence": 8,
+            "text": "Verkaufsstart",
+            "word": 7
+        },
+        {
+            "charBegin": 561,
+            "charEnd": 564,
+            "id": 96,
+            "sentence": 8,
+            "text": "war",
+            "word": 8
+        },
+        {
+            "charBegin": 565,
+            "charEnd": 568,
+            "id": 97,
+            "sentence": 8,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 575,
+            "id": 98,
+            "sentence": 8,
+            "text": "Hälfte",
+            "word": 10
+        },
+        {
+            "charBegin": 576,
+            "charEnd": 579,
+            "id": 99,
+            "sentence": 8,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 580,
+            "charEnd": 587,
+            "id": 100,
+            "sentence": 8,
+            "text": "Tickets",
+            "word": 12
+        },
+        {
+            "charBegin": 588,
+            "charEnd": 591,
+            "id": 101,
+            "sentence": 8,
+            "text": "für",
+            "word": 13
+        },
+        {
+            "charBegin": 592,
+            "charEnd": 595,
+            "id": 102,
+            "sentence": 8,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 596,
+            "charEnd": 605,
+            "id": 103,
+            "sentence": 8,
+            "text": "Auftritte",
+            "word": 15
+        },
+        {
+            "charBegin": 606,
+            "charEnd": 608,
+            "id": 104,
+            "sentence": 8,
+            "text": "in",
+            "word": 16
+        },
+        {
+            "charBegin": 609,
+            "charEnd": 612,
+            "id": 105,
+            "sentence": 8,
+            "text": "den",
+            "word": 17
+        },
+        {
+            "charBegin": 613,
+            "charEnd": 616,
+            "id": 106,
+            "sentence": 8,
+            "text": "USA",
+            "word": 18
+        },
+        {
+            "charBegin": 617,
+            "charEnd": 620,
+            "id": 107,
+            "sentence": 8,
+            "text": "und",
+            "word": 19
+        },
+        {
+            "charBegin": 621,
+            "charEnd": 623,
+            "id": 108,
+            "sentence": 8,
+            "text": "in",
+            "word": 20
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 630,
+            "id": 109,
+            "sentence": 8,
+            "text": "Europa",
+            "word": 21
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 640,
+            "id": 110,
+            "sentence": 8,
+            "text": "abgesetzt",
+            "word": 22
+        },
+        {
+            "charBegin": 640,
+            "charEnd": 641,
+            "id": 111,
+            "sentence": 8,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 649,
+            "id": 112,
+            "sentence": 9,
+            "text": "Madonna",
+            "word": 1
+        },
+        {
+            "charBegin": 650,
+            "charEnd": 654,
+            "id": 113,
+            "sentence": 9,
+            "text": "wird",
+            "word": 2
+        },
+        {
+            "charBegin": 655,
+            "charEnd": 658,
+            "id": 114,
+            "sentence": 9,
+            "text": "mit",
+            "word": 3
+        },
+        {
+            "charBegin": 659,
+            "charEnd": 665,
+            "id": 115,
+            "sentence": 9,
+            "text": "dieser",
+            "word": 4
+        },
+        {
+            "charBegin": 666,
+            "charEnd": 673,
+            "id": 116,
+            "sentence": 9,
+            "text": "Tournee",
+            "word": 5
+        },
+        {
+            "charBegin": 674,
+            "charEnd": 677,
+            "id": 117,
+            "sentence": 9,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 678,
+            "charEnd": 682,
+            "id": 118,
+            "sentence": 9,
+            "text": "best",
+            "word": 7
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 694,
+            "id": 119,
+            "sentence": 9,
+            "text": "verdienende",
+            "word": 8
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 699,
+            "id": 120,
+            "sentence": 9,
+            "text": "Frau",
+            "word": 9
+        },
+        {
+            "charBegin": 700,
+            "charEnd": 702,
+            "id": 121,
+            "sentence": 9,
+            "text": "im",
+            "word": 10
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 716,
+            "id": 122,
+            "sentence": 9,
+            "text": "Musikgeschäft",
+            "word": 11
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 720,
+            "id": 123,
+            "sentence": 9,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 729,
+            "id": 124,
+            "sentence": 9,
+            "text": "Popmusik",
+            "word": 13
+        },
+        {
+            "charBegin": 729,
+            "charEnd": 730,
+            "id": 125,
+            "sentence": 9,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 731,
+            "charEnd": 735,
+            "id": 126,
+            "sentence": 10,
+            "text": "Eine",
+            "word": 1
+        },
+        {
+            "charBegin": 736,
+            "charEnd": 750,
+            "id": 127,
+            "sentence": 10,
+            "text": "Eintrittskarte",
+            "word": 2
+        },
+        {
+            "charBegin": 751,
+            "charEnd": 754,
+            "id": 128,
+            "sentence": 10,
+            "text": "für",
+            "word": 3
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 758,
+            "id": 129,
+            "sentence": 10,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 763,
+            "id": 130,
+            "sentence": 10,
+            "text": "Show",
+            "word": 5
+        },
+        {
+            "charBegin": 764,
+            "charEnd": 770,
+            "id": 131,
+            "sentence": 10,
+            "text": "kostet",
+            "word": 6
+        },
+        {
+            "charBegin": 771,
+            "charEnd": 775,
+            "id": 132,
+            "sentence": 10,
+            "text": "rund",
+            "word": 7
+        },
+        {
+            "charBegin": 776,
+            "charEnd": 779,
+            "id": 133,
+            "sentence": 10,
+            "text": "300",
+            "word": 8
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 784,
+            "id": 134,
+            "sentence": 10,
+            "text": "Euro",
+            "word": 9
+        },
+        {
+            "charBegin": 784,
+            "charEnd": 785,
+            "id": 135,
+            "sentence": 10,
+            "text": ".",
+            "word": 10
+        }
+    ]
+}

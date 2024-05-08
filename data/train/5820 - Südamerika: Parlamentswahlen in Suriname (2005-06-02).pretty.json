@@ -1,0 +1,2460 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 60,
+                        "charBegin": 395,
+                        "charEnd": 402,
+                        "end": 61
+                    }
+                ],
+                "text": "Demnach",
+                "tokenIds": [
+                    60
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 60,
+                        "charBegin": 395,
+                        "charEnd": 402,
+                        "end": 61
+                    }
+                ],
+                "text": "Demnach",
+                "tokenIds": [
+                    60
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 61,
+                        "charBegin": 403,
+                        "charEnd": 480,
+                        "end": 71
+                    }
+                ],
+                "text": "hat sich die regierende Koalition von Präsident Ronald Venetiaan durchgesetzt",
+                "tokenIds": [
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 60,
+                        "charBegin": 395,
+                        "charEnd": 402,
+                        "end": 61
+                    }
+                ],
+                "text": "Demnach",
+                "tokenIds": [
+                    60
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 179,
+                        "charBegin": 1189,
+                        "charEnd": 1206,
+                        "end": 181
+                    }
+                ],
+                "text": "haben angekündigt",
+                "tokenIds": [
+                    179,
+                    180
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 178,
+                        "charBegin": 1185,
+                        "charEnd": 1207,
+                        "end": 182
+                    }
+                ],
+                "text": "Sie haben angekündigt,",
+                "tokenIds": [
+                    178,
+                    179,
+                    180,
+                    181
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 182,
+                        "charBegin": 1209,
+                        "charEnd": 1326,
+                        "end": 198
+                    }
+                ],
+                "text": "sollte Bouterse die Macht in Suriname wieder übernehmen, ihre finanzielle Unterstützung in Millionen Höhe auszusetzen",
+                "tokenIds": [
+                    182,
+                    183,
+                    184,
+                    185,
+                    186,
+                    187,
+                    188,
+                    189,
+                    190,
+                    191,
+                    192,
+                    193,
+                    194,
+                    195,
+                    196,
+                    197
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 178,
+                        "charBegin": 1185,
+                        "charEnd": 1188,
+                        "end": 179
+                    }
+                ],
+                "text": "Sie",
+                "tokenIds": [
+                    178
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "5820 - Südamerika: Parlamentswahlen in Suriname (2005-06-02)",
+    "originalText": "Im südamerikanischen Suriname wurde am Mittwoch, den 25. Mai 2005, ein neues Parlament gewählt. \n\nBei diesen Wahlen unterlag die Neue Demokratische Partei des früheren Machthabers der ehemaligen niederländischen Kolonie, Desi Bouterse. Er hatte 1980 während eines Putsches die Macht ergriffen.\n\nNach den ersten Auszählungen am Donnerstag gab die Wahlkommission ein vorläufiges Ergebnis bekannt. Demnach hat sich die regierende Koalition von Präsident Ronald Venetiaan durchgesetzt. Die Parteien der regierenden Neuen Front konnten zwar ihre bisherigen Sitze im Parlament nicht komplett erhalten, sind aber mit mindestens 23 von 51 Sitzen in der Nationalversammlung immer noch stärkste Partei. \n\nBouterses Partei konnte zwar deutliche Gewinne erzielen, mit lediglich 15 Sitzen hat er aber keine Mehrheit. Um einen neuen Präsidenten wählen zu können, braucht die vorschlagende Partei eine Zweidrittelmehrheit. Die Neue Front von Präsident Venetiaan muss daher Bündnisse mit kleineren Parteien eingehen. \n\nDie Aufstellung der Partei des Ex-Diktators Bouterse verstimmte die USA und die Niederlande. Die beiden Länder sind die wichtigsten Entwicklungshelfer für das südamerikanische Land. Sie haben angekündigt,  sollte Bouterse die Macht in Suriname wieder übernehmen, ihre finanzielle Unterstützung in Millionen Höhe auszusetzen. In Suriname leben rund 480.000 Einwohner, die die Hilfe anderer Staaten benötigen.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 95,
+            "end": 17,
+            "id": 0,
+            "text": "Im südamerikanischen Suriname wurde am Mittwoch, den 25. Mai 2005, ein neues Parlament gewählt. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ],
+            "tokens": [
+                "Im",
+                "südamerikanischen",
+                "Suriname",
+                "wurde",
+                "am",
+                "Mittwoch",
+                ",",
+                "den",
+                "25.",
+                "Mai",
+                "2005",
+                ",",
+                "ein",
+                "neues",
+                "Parlament",
+                "gewählt",
+                "."
+            ]
+        },
+        {
+            "begin": 17,
+            "charBegin": 98,
+            "charEnd": 235,
+            "end": 36,
+            "id": 1,
+            "text": "Bei diesen Wahlen unterlag die Neue Demokratische Partei des früheren Machthabers der ehemaligen niederländischen Kolonie, Desi Bouterse. ",
+            "tokenIds": [
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "tokens": [
+                "Bei",
+                "diesen",
+                "Wahlen",
+                "unterlag",
+                "die",
+                "Neue",
+                "Demokratische",
+                "Partei",
+                "des",
+                "früheren",
+                "Machthabers",
+                "der",
+                "ehemaligen",
+                "niederländischen",
+                "Kolonie",
+                ",",
+                "Desi",
+                "Bouterse",
+                "."
+            ]
+        },
+        {
+            "begin": 36,
+            "charBegin": 236,
+            "charEnd": 293,
+            "end": 46,
+            "id": 2,
+            "text": "Er hatte 1980 während eines Putsches die Macht ergriffen.",
+            "tokenIds": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45
+            ],
+            "tokens": [
+                "Er",
+                "hatte",
+                "1980",
+                "während",
+                "eines",
+                "Putsches",
+                "die",
+                "Macht",
+                "ergriffen",
+                "."
+            ]
+        },
+        {
+            "begin": 46,
+            "charBegin": 295,
+            "charEnd": 394,
+            "end": 60,
+            "id": 3,
+            "text": "Nach den ersten Auszählungen am Donnerstag gab die Wahlkommission ein vorläufiges Ergebnis bekannt. ",
+            "tokenIds": [
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59
+            ],
+            "tokens": [
+                "Nach",
+                "den",
+                "ersten",
+                "Auszählungen",
+                "am",
+                "Donnerstag",
+                "gab",
+                "die",
+                "Wahlkommission",
+                "ein",
+                "vorläufiges",
+                "Ergebnis",
+                "bekannt",
+                "."
+            ]
+        },
+        {
+            "begin": 60,
+            "charBegin": 395,
+            "charEnd": 481,
+            "end": 72,
+            "id": 4,
+            "text": "Demnach hat sich die regierende Koalition von Präsident Ronald Venetiaan durchgesetzt. ",
+            "tokenIds": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71
+            ],
+            "tokens": [
+                "Demnach",
+                "hat",
+                "sich",
+                "die",
+                "regierende",
+                "Koalition",
+                "von",
+                "Präsident",
+                "Ronald",
+                "Venetiaan",
+                "durchgesetzt",
+                "."
+            ]
+        },
+        {
+            "begin": 72,
+            "charBegin": 482,
+            "charEnd": 692,
+            "end": 105,
+            "id": 5,
+            "text": "Die Parteien der regierenden Neuen Front konnten zwar ihre bisherigen Sitze im Parlament nicht komplett erhalten, sind aber mit mindestens 23 von 51 Sitzen in der Nationalversammlung immer noch stärkste Partei. ",
+            "tokenIds": [
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104
+            ],
+            "tokens": [
+                "Die",
+                "Parteien",
+                "der",
+                "regierenden",
+                "Neuen",
+                "Front",
+                "konnten",
+                "zwar",
+                "ihre",
+                "bisherigen",
+                "Sitze",
+                "im",
+                "Parlament",
+                "nicht",
+                "komplett",
+                "erhalten",
+                ",",
+                "sind",
+                "aber",
+                "mit",
+                "mindestens",
+                "23",
+                "von",
+                "51",
+                "Sitzen",
+                "in",
+                "der",
+                "Nationalversammlung",
+                "immer",
+                "noch",
+                "stärkste",
+                "Partei",
+                "."
+            ]
+        },
+        {
+            "begin": 105,
+            "charBegin": 695,
+            "charEnd": 803,
+            "end": 123,
+            "id": 6,
+            "text": "Bouterses Partei konnte zwar deutliche Gewinne erzielen, mit lediglich 15 Sitzen hat er aber keine Mehrheit. ",
+            "tokenIds": [
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122
+            ],
+            "tokens": [
+                "Bouterses",
+                "Partei",
+                "konnte",
+                "zwar",
+                "deutliche",
+                "Gewinne",
+                "erzielen",
+                ",",
+                "mit",
+                "lediglich",
+                "15",
+                "Sitzen",
+                "hat",
+                "er",
+                "aber",
+                "keine",
+                "Mehrheit",
+                "."
+            ]
+        },
+        {
+            "begin": 123,
+            "charBegin": 804,
+            "charEnd": 907,
+            "end": 138,
+            "id": 7,
+            "text": "Um einen neuen Präsidenten wählen zu können, braucht die vorschlagende Partei eine Zweidrittelmehrheit. ",
+            "tokenIds": [
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137
+            ],
+            "tokens": [
+                "Um",
+                "einen",
+                "neuen",
+                "Präsidenten",
+                "wählen",
+                "zu",
+                "können",
+                ",",
+                "braucht",
+                "die",
+                "vorschlagende",
+                "Partei",
+                "eine",
+                "Zweidrittelmehrheit",
+                "."
+            ]
+        },
+        {
+            "begin": 138,
+            "charBegin": 908,
+            "charEnd": 1000,
+            "end": 152,
+            "id": 8,
+            "text": "Die Neue Front von Präsident Venetiaan muss daher Bündnisse mit kleineren Parteien eingehen. ",
+            "tokenIds": [
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151
+            ],
+            "tokens": [
+                "Die",
+                "Neue",
+                "Front",
+                "von",
+                "Präsident",
+                "Venetiaan",
+                "muss",
+                "daher",
+                "Bündnisse",
+                "mit",
+                "kleineren",
+                "Parteien",
+                "eingehen",
+                "."
+            ]
+        },
+        {
+            "begin": 152,
+            "charBegin": 1003,
+            "charEnd": 1095,
+            "end": 166,
+            "id": 9,
+            "text": "Die Aufstellung der Partei des Ex-Diktators Bouterse verstimmte die USA und die Niederlande. ",
+            "tokenIds": [
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165
+            ],
+            "tokens": [
+                "Die",
+                "Aufstellung",
+                "der",
+                "Partei",
+                "des",
+                "Ex-Diktators",
+                "Bouterse",
+                "verstimmte",
+                "die",
+                "USA",
+                "und",
+                "die",
+                "Niederlande",
+                "."
+            ]
+        },
+        {
+            "begin": 166,
+            "charBegin": 1096,
+            "charEnd": 1184,
+            "end": 178,
+            "id": 10,
+            "text": "Die beiden Länder sind die wichtigsten Entwicklungshelfer für das südamerikanische Land. ",
+            "tokenIds": [
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177
+            ],
+            "tokens": [
+                "Die",
+                "beiden",
+                "Länder",
+                "sind",
+                "die",
+                "wichtigsten",
+                "Entwicklungshelfer",
+                "für",
+                "das",
+                "südamerikanische",
+                "Land",
+                "."
+            ]
+        },
+        {
+            "begin": 178,
+            "charBegin": 1185,
+            "charEnd": 1327,
+            "end": 199,
+            "id": 11,
+            "text": "Sie haben angekündigt,  sollte Bouterse die Macht in Suriname wieder übernehmen, ihre finanzielle Unterstützung in Millionen Höhe auszusetzen. ",
+            "tokenIds": [
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198
+            ],
+            "tokens": [
+                "Sie",
+                "haben",
+                "angekündigt",
+                ",",
+                "sollte",
+                "Bouterse",
+                "die",
+                "Macht",
+                "in",
+                "Suriname",
+                "wieder",
+                "übernehmen",
+                ",",
+                "ihre",
+                "finanzielle",
+                "Unterstützung",
+                "in",
+                "Millionen",
+                "Höhe",
+                "auszusetzen",
+                "."
+            ]
+        },
+        {
+            "begin": 199,
+            "charBegin": 1328,
+            "charEnd": 1410,
+            "end": 213,
+            "id": 12,
+            "text": "In Suriname leben rund 480.000 Einwohner, die die Hilfe anderer Staaten benötigen.",
+            "tokenIds": [
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212
+            ],
+            "tokens": [
+                "In",
+                "Suriname",
+                "leben",
+                "rund",
+                "480.000",
+                "Einwohner",
+                ",",
+                "die",
+                "die",
+                "Hilfe",
+                "anderer",
+                "Staaten",
+                "benötigen",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 20,
+            "id": 1,
+            "sentence": 1,
+            "text": "südamerikanischen",
+            "word": 2
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 29,
+            "id": 2,
+            "sentence": 1,
+            "text": "Suriname",
+            "word": 3
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 35,
+            "id": 3,
+            "sentence": 1,
+            "text": "wurde",
+            "word": 4
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 38,
+            "id": 4,
+            "sentence": 1,
+            "text": "am",
+            "word": 5
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 47,
+            "id": 5,
+            "sentence": 1,
+            "text": "Mittwoch",
+            "word": 6
+        },
+        {
+            "charBegin": 47,
+            "charEnd": 48,
+            "id": 6,
+            "sentence": 1,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 52,
+            "id": 7,
+            "sentence": 1,
+            "text": "den",
+            "word": 8
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 56,
+            "id": 8,
+            "sentence": 1,
+            "text": "25.",
+            "word": 9
+        },
+        {
+            "charBegin": 57,
+            "charEnd": 60,
+            "id": 9,
+            "sentence": 1,
+            "text": "Mai",
+            "word": 10
+        },
+        {
+            "charBegin": 61,
+            "charEnd": 65,
+            "id": 10,
+            "sentence": 1,
+            "text": "2005",
+            "word": 11
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 66,
+            "id": 11,
+            "sentence": 1,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 67,
+            "charEnd": 70,
+            "id": 12,
+            "sentence": 1,
+            "text": "ein",
+            "word": 13
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 76,
+            "id": 13,
+            "sentence": 1,
+            "text": "neues",
+            "word": 14
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 86,
+            "id": 14,
+            "sentence": 1,
+            "text": "Parlament",
+            "word": 15
+        },
+        {
+            "charBegin": 87,
+            "charEnd": 94,
+            "id": 15,
+            "sentence": 1,
+            "text": "gewählt",
+            "word": 16
+        },
+        {
+            "charBegin": 94,
+            "charEnd": 95,
+            "id": 16,
+            "sentence": 1,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 101,
+            "id": 17,
+            "sentence": 2,
+            "text": "Bei",
+            "word": 1
+        },
+        {
+            "charBegin": 102,
+            "charEnd": 108,
+            "id": 18,
+            "sentence": 2,
+            "text": "diesen",
+            "word": 2
+        },
+        {
+            "charBegin": 109,
+            "charEnd": 115,
+            "id": 19,
+            "sentence": 2,
+            "text": "Wahlen",
+            "word": 3
+        },
+        {
+            "charBegin": 116,
+            "charEnd": 124,
+            "id": 20,
+            "sentence": 2,
+            "text": "unterlag",
+            "word": 4
+        },
+        {
+            "charBegin": 125,
+            "charEnd": 128,
+            "id": 21,
+            "sentence": 2,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 129,
+            "charEnd": 133,
+            "id": 22,
+            "sentence": 2,
+            "text": "Neue",
+            "word": 6
+        },
+        {
+            "charBegin": 134,
+            "charEnd": 147,
+            "id": 23,
+            "sentence": 2,
+            "text": "Demokratische",
+            "word": 7
+        },
+        {
+            "charBegin": 148,
+            "charEnd": 154,
+            "id": 24,
+            "sentence": 2,
+            "text": "Partei",
+            "word": 8
+        },
+        {
+            "charBegin": 155,
+            "charEnd": 158,
+            "id": 25,
+            "sentence": 2,
+            "text": "des",
+            "word": 9
+        },
+        {
+            "charBegin": 159,
+            "charEnd": 167,
+            "id": 26,
+            "sentence": 2,
+            "text": "früheren",
+            "word": 10
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 179,
+            "id": 27,
+            "sentence": 2,
+            "text": "Machthabers",
+            "word": 11
+        },
+        {
+            "charBegin": 180,
+            "charEnd": 183,
+            "id": 28,
+            "sentence": 2,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 184,
+            "charEnd": 194,
+            "id": 29,
+            "sentence": 2,
+            "text": "ehemaligen",
+            "word": 13
+        },
+        {
+            "charBegin": 195,
+            "charEnd": 211,
+            "id": 30,
+            "sentence": 2,
+            "text": "niederländischen",
+            "word": 14
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 219,
+            "id": 31,
+            "sentence": 2,
+            "text": "Kolonie",
+            "word": 15
+        },
+        {
+            "charBegin": 219,
+            "charEnd": 220,
+            "id": 32,
+            "sentence": 2,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 221,
+            "charEnd": 225,
+            "id": 33,
+            "sentence": 2,
+            "text": "Desi",
+            "word": 17
+        },
+        {
+            "charBegin": 226,
+            "charEnd": 234,
+            "id": 34,
+            "sentence": 2,
+            "text": "Bouterse",
+            "word": 18
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 235,
+            "id": 35,
+            "sentence": 2,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 236,
+            "charEnd": 238,
+            "id": 36,
+            "sentence": 3,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 244,
+            "id": 37,
+            "sentence": 3,
+            "text": "hatte",
+            "word": 2
+        },
+        {
+            "charBegin": 245,
+            "charEnd": 249,
+            "id": 38,
+            "sentence": 3,
+            "text": "1980",
+            "word": 3
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 257,
+            "id": 39,
+            "sentence": 3,
+            "text": "während",
+            "word": 4
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 263,
+            "id": 40,
+            "sentence": 3,
+            "text": "eines",
+            "word": 5
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 272,
+            "id": 41,
+            "sentence": 3,
+            "text": "Putsches",
+            "word": 6
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 276,
+            "id": 42,
+            "sentence": 3,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 277,
+            "charEnd": 282,
+            "id": 43,
+            "sentence": 3,
+            "text": "Macht",
+            "word": 8
+        },
+        {
+            "charBegin": 283,
+            "charEnd": 292,
+            "id": 44,
+            "sentence": 3,
+            "text": "ergriffen",
+            "word": 9
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 293,
+            "id": 45,
+            "sentence": 3,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 299,
+            "id": 46,
+            "sentence": 4,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 303,
+            "id": 47,
+            "sentence": 4,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 304,
+            "charEnd": 310,
+            "id": 48,
+            "sentence": 4,
+            "text": "ersten",
+            "word": 3
+        },
+        {
+            "charBegin": 311,
+            "charEnd": 323,
+            "id": 49,
+            "sentence": 4,
+            "text": "Auszählungen",
+            "word": 4
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 326,
+            "id": 50,
+            "sentence": 4,
+            "text": "am",
+            "word": 5
+        },
+        {
+            "charBegin": 327,
+            "charEnd": 337,
+            "id": 51,
+            "sentence": 4,
+            "text": "Donnerstag",
+            "word": 6
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 341,
+            "id": 52,
+            "sentence": 4,
+            "text": "gab",
+            "word": 7
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 345,
+            "id": 53,
+            "sentence": 4,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 360,
+            "id": 54,
+            "sentence": 4,
+            "text": "Wahlkommission",
+            "word": 9
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 364,
+            "id": 55,
+            "sentence": 4,
+            "text": "ein",
+            "word": 10
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 376,
+            "id": 56,
+            "sentence": 4,
+            "text": "vorläufiges",
+            "word": 11
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 385,
+            "id": 57,
+            "sentence": 4,
+            "text": "Ergebnis",
+            "word": 12
+        },
+        {
+            "charBegin": 386,
+            "charEnd": 393,
+            "id": 58,
+            "sentence": 4,
+            "text": "bekannt",
+            "word": 13
+        },
+        {
+            "charBegin": 393,
+            "charEnd": 394,
+            "id": 59,
+            "sentence": 4,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 402,
+            "id": 60,
+            "sentence": 5,
+            "text": "Demnach",
+            "word": 1
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 406,
+            "id": 61,
+            "sentence": 5,
+            "text": "hat",
+            "word": 2
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 411,
+            "id": 62,
+            "sentence": 5,
+            "text": "sich",
+            "word": 3
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 415,
+            "id": 63,
+            "sentence": 5,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 426,
+            "id": 64,
+            "sentence": 5,
+            "text": "regierende",
+            "word": 5
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 436,
+            "id": 65,
+            "sentence": 5,
+            "text": "Koalition",
+            "word": 6
+        },
+        {
+            "charBegin": 437,
+            "charEnd": 440,
+            "id": 66,
+            "sentence": 5,
+            "text": "von",
+            "word": 7
+        },
+        {
+            "charBegin": 441,
+            "charEnd": 450,
+            "id": 67,
+            "sentence": 5,
+            "text": "Präsident",
+            "word": 8
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 457,
+            "id": 68,
+            "sentence": 5,
+            "text": "Ronald",
+            "word": 9
+        },
+        {
+            "charBegin": 458,
+            "charEnd": 467,
+            "id": 69,
+            "sentence": 5,
+            "text": "Venetiaan",
+            "word": 10
+        },
+        {
+            "charBegin": 468,
+            "charEnd": 480,
+            "id": 70,
+            "sentence": 5,
+            "text": "durchgesetzt",
+            "word": 11
+        },
+        {
+            "charBegin": 480,
+            "charEnd": 481,
+            "id": 71,
+            "sentence": 5,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 485,
+            "id": 72,
+            "sentence": 6,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 494,
+            "id": 73,
+            "sentence": 6,
+            "text": "Parteien",
+            "word": 2
+        },
+        {
+            "charBegin": 495,
+            "charEnd": 498,
+            "id": 74,
+            "sentence": 6,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 499,
+            "charEnd": 510,
+            "id": 75,
+            "sentence": 6,
+            "text": "regierenden",
+            "word": 4
+        },
+        {
+            "charBegin": 511,
+            "charEnd": 516,
+            "id": 76,
+            "sentence": 6,
+            "text": "Neuen",
+            "word": 5
+        },
+        {
+            "charBegin": 517,
+            "charEnd": 522,
+            "id": 77,
+            "sentence": 6,
+            "text": "Front",
+            "word": 6
+        },
+        {
+            "charBegin": 523,
+            "charEnd": 530,
+            "id": 78,
+            "sentence": 6,
+            "text": "konnten",
+            "word": 7
+        },
+        {
+            "charBegin": 531,
+            "charEnd": 535,
+            "id": 79,
+            "sentence": 6,
+            "text": "zwar",
+            "word": 8
+        },
+        {
+            "charBegin": 536,
+            "charEnd": 540,
+            "id": 80,
+            "sentence": 6,
+            "text": "ihre",
+            "word": 9
+        },
+        {
+            "charBegin": 541,
+            "charEnd": 551,
+            "id": 81,
+            "sentence": 6,
+            "text": "bisherigen",
+            "word": 10
+        },
+        {
+            "charBegin": 552,
+            "charEnd": 557,
+            "id": 82,
+            "sentence": 6,
+            "text": "Sitze",
+            "word": 11
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 560,
+            "id": 83,
+            "sentence": 6,
+            "text": "im",
+            "word": 12
+        },
+        {
+            "charBegin": 561,
+            "charEnd": 570,
+            "id": 84,
+            "sentence": 6,
+            "text": "Parlament",
+            "word": 13
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 576,
+            "id": 85,
+            "sentence": 6,
+            "text": "nicht",
+            "word": 14
+        },
+        {
+            "charBegin": 577,
+            "charEnd": 585,
+            "id": 86,
+            "sentence": 6,
+            "text": "komplett",
+            "word": 15
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 594,
+            "id": 87,
+            "sentence": 6,
+            "text": "erhalten",
+            "word": 16
+        },
+        {
+            "charBegin": 594,
+            "charEnd": 595,
+            "id": 88,
+            "sentence": 6,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 596,
+            "charEnd": 600,
+            "id": 89,
+            "sentence": 6,
+            "text": "sind",
+            "word": 18
+        },
+        {
+            "charBegin": 601,
+            "charEnd": 605,
+            "id": 90,
+            "sentence": 6,
+            "text": "aber",
+            "word": 19
+        },
+        {
+            "charBegin": 606,
+            "charEnd": 609,
+            "id": 91,
+            "sentence": 6,
+            "text": "mit",
+            "word": 20
+        },
+        {
+            "charBegin": 610,
+            "charEnd": 620,
+            "id": 92,
+            "sentence": 6,
+            "text": "mindestens",
+            "word": 21
+        },
+        {
+            "charBegin": 621,
+            "charEnd": 623,
+            "id": 93,
+            "sentence": 6,
+            "text": "23",
+            "word": 22
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 627,
+            "id": 94,
+            "sentence": 6,
+            "text": "von",
+            "word": 23
+        },
+        {
+            "charBegin": 628,
+            "charEnd": 630,
+            "id": 95,
+            "sentence": 6,
+            "text": "51",
+            "word": 24
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 637,
+            "id": 96,
+            "sentence": 6,
+            "text": "Sitzen",
+            "word": 25
+        },
+        {
+            "charBegin": 638,
+            "charEnd": 640,
+            "id": 97,
+            "sentence": 6,
+            "text": "in",
+            "word": 26
+        },
+        {
+            "charBegin": 641,
+            "charEnd": 644,
+            "id": 98,
+            "sentence": 6,
+            "text": "der",
+            "word": 27
+        },
+        {
+            "charBegin": 645,
+            "charEnd": 664,
+            "id": 99,
+            "sentence": 6,
+            "text": "Nationalversammlung",
+            "word": 28
+        },
+        {
+            "charBegin": 665,
+            "charEnd": 670,
+            "id": 100,
+            "sentence": 6,
+            "text": "immer",
+            "word": 29
+        },
+        {
+            "charBegin": 671,
+            "charEnd": 675,
+            "id": 101,
+            "sentence": 6,
+            "text": "noch",
+            "word": 30
+        },
+        {
+            "charBegin": 676,
+            "charEnd": 684,
+            "id": 102,
+            "sentence": 6,
+            "text": "stärkste",
+            "word": 31
+        },
+        {
+            "charBegin": 685,
+            "charEnd": 691,
+            "id": 103,
+            "sentence": 6,
+            "text": "Partei",
+            "word": 32
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 692,
+            "id": 104,
+            "sentence": 6,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 704,
+            "id": 105,
+            "sentence": 7,
+            "text": "Bouterses",
+            "word": 1
+        },
+        {
+            "charBegin": 705,
+            "charEnd": 711,
+            "id": 106,
+            "sentence": 7,
+            "text": "Partei",
+            "word": 2
+        },
+        {
+            "charBegin": 712,
+            "charEnd": 718,
+            "id": 107,
+            "sentence": 7,
+            "text": "konnte",
+            "word": 3
+        },
+        {
+            "charBegin": 719,
+            "charEnd": 723,
+            "id": 108,
+            "sentence": 7,
+            "text": "zwar",
+            "word": 4
+        },
+        {
+            "charBegin": 724,
+            "charEnd": 733,
+            "id": 109,
+            "sentence": 7,
+            "text": "deutliche",
+            "word": 5
+        },
+        {
+            "charBegin": 734,
+            "charEnd": 741,
+            "id": 110,
+            "sentence": 7,
+            "text": "Gewinne",
+            "word": 6
+        },
+        {
+            "charBegin": 742,
+            "charEnd": 750,
+            "id": 111,
+            "sentence": 7,
+            "text": "erzielen",
+            "word": 7
+        },
+        {
+            "charBegin": 750,
+            "charEnd": 751,
+            "id": 112,
+            "sentence": 7,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 752,
+            "charEnd": 755,
+            "id": 113,
+            "sentence": 7,
+            "text": "mit",
+            "word": 9
+        },
+        {
+            "charBegin": 756,
+            "charEnd": 765,
+            "id": 114,
+            "sentence": 7,
+            "text": "lediglich",
+            "word": 10
+        },
+        {
+            "charBegin": 766,
+            "charEnd": 768,
+            "id": 115,
+            "sentence": 7,
+            "text": "15",
+            "word": 11
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 775,
+            "id": 116,
+            "sentence": 7,
+            "text": "Sitzen",
+            "word": 12
+        },
+        {
+            "charBegin": 776,
+            "charEnd": 779,
+            "id": 117,
+            "sentence": 7,
+            "text": "hat",
+            "word": 13
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 782,
+            "id": 118,
+            "sentence": 7,
+            "text": "er",
+            "word": 14
+        },
+        {
+            "charBegin": 783,
+            "charEnd": 787,
+            "id": 119,
+            "sentence": 7,
+            "text": "aber",
+            "word": 15
+        },
+        {
+            "charBegin": 788,
+            "charEnd": 793,
+            "id": 120,
+            "sentence": 7,
+            "text": "keine",
+            "word": 16
+        },
+        {
+            "charBegin": 794,
+            "charEnd": 802,
+            "id": 121,
+            "sentence": 7,
+            "text": "Mehrheit",
+            "word": 17
+        },
+        {
+            "charBegin": 802,
+            "charEnd": 803,
+            "id": 122,
+            "sentence": 7,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 804,
+            "charEnd": 806,
+            "id": 123,
+            "sentence": 8,
+            "text": "Um",
+            "word": 1
+        },
+        {
+            "charBegin": 807,
+            "charEnd": 812,
+            "id": 124,
+            "sentence": 8,
+            "text": "einen",
+            "word": 2
+        },
+        {
+            "charBegin": 813,
+            "charEnd": 818,
+            "id": 125,
+            "sentence": 8,
+            "text": "neuen",
+            "word": 3
+        },
+        {
+            "charBegin": 819,
+            "charEnd": 830,
+            "id": 126,
+            "sentence": 8,
+            "text": "Präsidenten",
+            "word": 4
+        },
+        {
+            "charBegin": 831,
+            "charEnd": 837,
+            "id": 127,
+            "sentence": 8,
+            "text": "wählen",
+            "word": 5
+        },
+        {
+            "charBegin": 838,
+            "charEnd": 840,
+            "id": 128,
+            "sentence": 8,
+            "text": "zu",
+            "word": 6
+        },
+        {
+            "charBegin": 841,
+            "charEnd": 847,
+            "id": 129,
+            "sentence": 8,
+            "text": "können",
+            "word": 7
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 848,
+            "id": 130,
+            "sentence": 8,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 849,
+            "charEnd": 856,
+            "id": 131,
+            "sentence": 8,
+            "text": "braucht",
+            "word": 9
+        },
+        {
+            "charBegin": 857,
+            "charEnd": 860,
+            "id": 132,
+            "sentence": 8,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 861,
+            "charEnd": 874,
+            "id": 133,
+            "sentence": 8,
+            "text": "vorschlagende",
+            "word": 11
+        },
+        {
+            "charBegin": 875,
+            "charEnd": 881,
+            "id": 134,
+            "sentence": 8,
+            "text": "Partei",
+            "word": 12
+        },
+        {
+            "charBegin": 882,
+            "charEnd": 886,
+            "id": 135,
+            "sentence": 8,
+            "text": "eine",
+            "word": 13
+        },
+        {
+            "charBegin": 887,
+            "charEnd": 906,
+            "id": 136,
+            "sentence": 8,
+            "text": "Zweidrittelmehrheit",
+            "word": 14
+        },
+        {
+            "charBegin": 906,
+            "charEnd": 907,
+            "id": 137,
+            "sentence": 8,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 908,
+            "charEnd": 911,
+            "id": 138,
+            "sentence": 9,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 912,
+            "charEnd": 916,
+            "id": 139,
+            "sentence": 9,
+            "text": "Neue",
+            "word": 2
+        },
+        {
+            "charBegin": 917,
+            "charEnd": 922,
+            "id": 140,
+            "sentence": 9,
+            "text": "Front",
+            "word": 3
+        },
+        {
+            "charBegin": 923,
+            "charEnd": 926,
+            "id": 141,
+            "sentence": 9,
+            "text": "von",
+            "word": 4
+        },
+        {
+            "charBegin": 927,
+            "charEnd": 936,
+            "id": 142,
+            "sentence": 9,
+            "text": "Präsident",
+            "word": 5
+        },
+        {
+            "charBegin": 937,
+            "charEnd": 946,
+            "id": 143,
+            "sentence": 9,
+            "text": "Venetiaan",
+            "word": 6
+        },
+        {
+            "charBegin": 947,
+            "charEnd": 951,
+            "id": 144,
+            "sentence": 9,
+            "text": "muss",
+            "word": 7
+        },
+        {
+            "charBegin": 952,
+            "charEnd": 957,
+            "id": 145,
+            "sentence": 9,
+            "text": "daher",
+            "word": 8
+        },
+        {
+            "charBegin": 958,
+            "charEnd": 967,
+            "id": 146,
+            "sentence": 9,
+            "text": "Bündnisse",
+            "word": 9
+        },
+        {
+            "charBegin": 968,
+            "charEnd": 971,
+            "id": 147,
+            "sentence": 9,
+            "text": "mit",
+            "word": 10
+        },
+        {
+            "charBegin": 972,
+            "charEnd": 981,
+            "id": 148,
+            "sentence": 9,
+            "text": "kleineren",
+            "word": 11
+        },
+        {
+            "charBegin": 982,
+            "charEnd": 990,
+            "id": 149,
+            "sentence": 9,
+            "text": "Parteien",
+            "word": 12
+        },
+        {
+            "charBegin": 991,
+            "charEnd": 999,
+            "id": 150,
+            "sentence": 9,
+            "text": "eingehen",
+            "word": 13
+        },
+        {
+            "charBegin": 999,
+            "charEnd": 1000,
+            "id": 151,
+            "sentence": 9,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1003,
+            "charEnd": 1006,
+            "id": 152,
+            "sentence": 10,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1007,
+            "charEnd": 1018,
+            "id": 153,
+            "sentence": 10,
+            "text": "Aufstellung",
+            "word": 2
+        },
+        {
+            "charBegin": 1019,
+            "charEnd": 1022,
+            "id": 154,
+            "sentence": 10,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 1023,
+            "charEnd": 1029,
+            "id": 155,
+            "sentence": 10,
+            "text": "Partei",
+            "word": 4
+        },
+        {
+            "charBegin": 1030,
+            "charEnd": 1033,
+            "id": 156,
+            "sentence": 10,
+            "text": "des",
+            "word": 5
+        },
+        {
+            "charBegin": 1034,
+            "charEnd": 1046,
+            "id": 157,
+            "sentence": 10,
+            "text": "Ex-Diktators",
+            "word": 6
+        },
+        {
+            "charBegin": 1047,
+            "charEnd": 1055,
+            "id": 158,
+            "sentence": 10,
+            "text": "Bouterse",
+            "word": 7
+        },
+        {
+            "charBegin": 1056,
+            "charEnd": 1066,
+            "id": 159,
+            "sentence": 10,
+            "text": "verstimmte",
+            "word": 8
+        },
+        {
+            "charBegin": 1067,
+            "charEnd": 1070,
+            "id": 160,
+            "sentence": 10,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 1071,
+            "charEnd": 1074,
+            "id": 161,
+            "sentence": 10,
+            "text": "USA",
+            "word": 10
+        },
+        {
+            "charBegin": 1075,
+            "charEnd": 1078,
+            "id": 162,
+            "sentence": 10,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 1079,
+            "charEnd": 1082,
+            "id": 163,
+            "sentence": 10,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 1083,
+            "charEnd": 1094,
+            "id": 164,
+            "sentence": 10,
+            "text": "Niederlande",
+            "word": 13
+        },
+        {
+            "charBegin": 1094,
+            "charEnd": 1095,
+            "id": 165,
+            "sentence": 10,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1096,
+            "charEnd": 1099,
+            "id": 166,
+            "sentence": 11,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1100,
+            "charEnd": 1106,
+            "id": 167,
+            "sentence": 11,
+            "text": "beiden",
+            "word": 2
+        },
+        {
+            "charBegin": 1107,
+            "charEnd": 1113,
+            "id": 168,
+            "sentence": 11,
+            "text": "Länder",
+            "word": 3
+        },
+        {
+            "charBegin": 1114,
+            "charEnd": 1118,
+            "id": 169,
+            "sentence": 11,
+            "text": "sind",
+            "word": 4
+        },
+        {
+            "charBegin": 1119,
+            "charEnd": 1122,
+            "id": 170,
+            "sentence": 11,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 1123,
+            "charEnd": 1134,
+            "id": 171,
+            "sentence": 11,
+            "text": "wichtigsten",
+            "word": 6
+        },
+        {
+            "charBegin": 1135,
+            "charEnd": 1153,
+            "id": 172,
+            "sentence": 11,
+            "text": "Entwicklungshelfer",
+            "word": 7
+        },
+        {
+            "charBegin": 1154,
+            "charEnd": 1157,
+            "id": 173,
+            "sentence": 11,
+            "text": "für",
+            "word": 8
+        },
+        {
+            "charBegin": 1158,
+            "charEnd": 1161,
+            "id": 174,
+            "sentence": 11,
+            "text": "das",
+            "word": 9
+        },
+        {
+            "charBegin": 1162,
+            "charEnd": 1178,
+            "id": 175,
+            "sentence": 11,
+            "text": "südamerikanische",
+            "word": 10
+        },
+        {
+            "charBegin": 1179,
+            "charEnd": 1183,
+            "id": 176,
+            "sentence": 11,
+            "text": "Land",
+            "word": 11
+        },
+        {
+            "charBegin": 1183,
+            "charEnd": 1184,
+            "id": 177,
+            "sentence": 11,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 1185,
+            "charEnd": 1188,
+            "id": 178,
+            "sentence": 12,
+            "text": "Sie",
+            "word": 1
+        },
+        {
+            "charBegin": 1189,
+            "charEnd": 1194,
+            "id": 179,
+            "sentence": 12,
+            "text": "haben",
+            "word": 2
+        },
+        {
+            "charBegin": 1195,
+            "charEnd": 1206,
+            "id": 180,
+            "sentence": 12,
+            "text": "angekündigt",
+            "word": 3
+        },
+        {
+            "charBegin": 1206,
+            "charEnd": 1207,
+            "id": 181,
+            "sentence": 12,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 1209,
+            "charEnd": 1215,
+            "id": 182,
+            "sentence": 12,
+            "text": "sollte",
+            "word": 5
+        },
+        {
+            "charBegin": 1216,
+            "charEnd": 1224,
+            "id": 183,
+            "sentence": 12,
+            "text": "Bouterse",
+            "word": 6
+        },
+        {
+            "charBegin": 1225,
+            "charEnd": 1228,
+            "id": 184,
+            "sentence": 12,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 1229,
+            "charEnd": 1234,
+            "id": 185,
+            "sentence": 12,
+            "text": "Macht",
+            "word": 8
+        },
+        {
+            "charBegin": 1235,
+            "charEnd": 1237,
+            "id": 186,
+            "sentence": 12,
+            "text": "in",
+            "word": 9
+        },
+        {
+            "charBegin": 1238,
+            "charEnd": 1246,
+            "id": 187,
+            "sentence": 12,
+            "text": "Suriname",
+            "word": 10
+        },
+        {
+            "charBegin": 1247,
+            "charEnd": 1253,
+            "id": 188,
+            "sentence": 12,
+            "text": "wieder",
+            "word": 11
+        },
+        {
+            "charBegin": 1254,
+            "charEnd": 1264,
+            "id": 189,
+            "sentence": 12,
+            "text": "übernehmen",
+            "word": 12
+        },
+        {
+            "charBegin": 1264,
+            "charEnd": 1265,
+            "id": 190,
+            "sentence": 12,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 1266,
+            "charEnd": 1270,
+            "id": 191,
+            "sentence": 12,
+            "text": "ihre",
+            "word": 14
+        },
+        {
+            "charBegin": 1271,
+            "charEnd": 1282,
+            "id": 192,
+            "sentence": 12,
+            "text": "finanzielle",
+            "word": 15
+        },
+        {
+            "charBegin": 1283,
+            "charEnd": 1296,
+            "id": 193,
+            "sentence": 12,
+            "text": "Unterstützung",
+            "word": 16
+        },
+        {
+            "charBegin": 1297,
+            "charEnd": 1299,
+            "id": 194,
+            "sentence": 12,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 1300,
+            "charEnd": 1309,
+            "id": 195,
+            "sentence": 12,
+            "text": "Millionen",
+            "word": 18
+        },
+        {
+            "charBegin": 1310,
+            "charEnd": 1314,
+            "id": 196,
+            "sentence": 12,
+            "text": "Höhe",
+            "word": 19
+        },
+        {
+            "charBegin": 1315,
+            "charEnd": 1326,
+            "id": 197,
+            "sentence": 12,
+            "text": "auszusetzen",
+            "word": 20
+        },
+        {
+            "charBegin": 1326,
+            "charEnd": 1327,
+            "id": 198,
+            "sentence": 12,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 1328,
+            "charEnd": 1330,
+            "id": 199,
+            "sentence": 13,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 1331,
+            "charEnd": 1339,
+            "id": 200,
+            "sentence": 13,
+            "text": "Suriname",
+            "word": 2
+        },
+        {
+            "charBegin": 1340,
+            "charEnd": 1345,
+            "id": 201,
+            "sentence": 13,
+            "text": "leben",
+            "word": 3
+        },
+        {
+            "charBegin": 1346,
+            "charEnd": 1350,
+            "id": 202,
+            "sentence": 13,
+            "text": "rund",
+            "word": 4
+        },
+        {
+            "charBegin": 1351,
+            "charEnd": 1358,
+            "id": 203,
+            "sentence": 13,
+            "text": "480.000",
+            "word": 5
+        },
+        {
+            "charBegin": 1359,
+            "charEnd": 1368,
+            "id": 204,
+            "sentence": 13,
+            "text": "Einwohner",
+            "word": 6
+        },
+        {
+            "charBegin": 1368,
+            "charEnd": 1369,
+            "id": 205,
+            "sentence": 13,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 1370,
+            "charEnd": 1373,
+            "id": 206,
+            "sentence": 13,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 1374,
+            "charEnd": 1377,
+            "id": 207,
+            "sentence": 13,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 1378,
+            "charEnd": 1383,
+            "id": 208,
+            "sentence": 13,
+            "text": "Hilfe",
+            "word": 10
+        },
+        {
+            "charBegin": 1384,
+            "charEnd": 1391,
+            "id": 209,
+            "sentence": 13,
+            "text": "anderer",
+            "word": 11
+        },
+        {
+            "charBegin": 1392,
+            "charEnd": 1399,
+            "id": 210,
+            "sentence": 13,
+            "text": "Staaten",
+            "word": 12
+        },
+        {
+            "charBegin": 1400,
+            "charEnd": 1409,
+            "id": 211,
+            "sentence": 13,
+            "text": "benötigen",
+            "word": 13
+        },
+        {
+            "charBegin": 1409,
+            "charEnd": 1410,
+            "id": 212,
+            "sentence": 13,
+            "text": ".",
+            "word": 14
+        }
+    ]
+}

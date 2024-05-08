@@ -1,0 +1,1375 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 43,
+                        "charBegin": 278,
+                        "charEnd": 292,
+                        "end": 46
+                    }
+                ],
+                "text": "geht davon aus",
+                "tokenIds": [
+                    43,
+                    44,
+                    45
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 41,
+                        "charBegin": 266,
+                        "charEnd": 293,
+                        "end": 47
+                    }
+                ],
+                "text": "Die Polizei geht davon aus,",
+                "tokenIds": [
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 47,
+                        "charBegin": 294,
+                        "charEnd": 379,
+                        "end": 59
+                    }
+                ],
+                "text": "dass der Einbruch in den Schrebergarten von der gleichen Tätergruppe ausgeführt wurde",
+                "tokenIds": [
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 41,
+                        "charBegin": 266,
+                        "charEnd": 277,
+                        "end": 43
+                    }
+                ],
+                "text": "Die Polizei",
+                "tokenIds": [
+                    41,
+                    42
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "13682 - Serieneinbrüche im Raum Knittelfeld (2005-10-10)",
+    "originalText": "In der Nacht von Freitag auf Samstag ereigneten sich im Raum Knittelfeld in der Steiermark mehrere Einbrüche in Autos und einen Schrebergarten. Aus den Autos wurden Autoradios gestohlen. Die bislang unbekannten Täter versuchten, eines der Fahrzeuge kurzzuschließen. Die Polizei geht davon aus, dass der Einbruch in den Schrebergarten von der gleichen Tätergruppe ausgeführt wurde. Dort stahlen sie eine Reisetasche und ein Fernsehgerät.\n\nEine Nacht zuvor, von Donnerstag auf Freitag, erfolgten in Knittelfeld fünf Autoaufbrüche. Eines der Fahrzeuge wurde gestohlen. In der gleichen Nacht wurde zusätzlich in fünf Gaststätten eingebrochen.\n\nInnerhalb der letzten vier Wochen seit Mitte September verzeichnete die Knittelfelder Polizei insgesamt 50 Einbrüche.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 143,
+            "end": 23,
+            "id": 0,
+            "text": "In der Nacht von Freitag auf Samstag ereigneten sich im Raum Knittelfeld in der Steiermark mehrere Einbrüche in Autos und einen Schrebergarten. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22
+            ],
+            "tokens": [
+                "In",
+                "der",
+                "Nacht",
+                "von",
+                "Freitag",
+                "auf",
+                "Samstag",
+                "ereigneten",
+                "sich",
+                "im",
+                "Raum",
+                "Knittelfeld",
+                "in",
+                "der",
+                "Steiermark",
+                "mehrere",
+                "Einbrüche",
+                "in",
+                "Autos",
+                "und",
+                "einen",
+                "Schrebergarten",
+                "."
+            ]
+        },
+        {
+            "begin": 23,
+            "charBegin": 144,
+            "charEnd": 186,
+            "end": 30,
+            "id": 1,
+            "text": "Aus den Autos wurden Autoradios gestohlen. ",
+            "tokenIds": [
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "tokens": [
+                "Aus",
+                "den",
+                "Autos",
+                "wurden",
+                "Autoradios",
+                "gestohlen",
+                "."
+            ]
+        },
+        {
+            "begin": 30,
+            "charBegin": 187,
+            "charEnd": 265,
+            "end": 41,
+            "id": 2,
+            "text": "Die bislang unbekannten Täter versuchten, eines der Fahrzeuge kurzzuschließen. ",
+            "tokenIds": [
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40
+            ],
+            "tokens": [
+                "Die",
+                "bislang",
+                "unbekannten",
+                "Täter",
+                "versuchten",
+                ",",
+                "eines",
+                "der",
+                "Fahrzeuge",
+                "kurzzuschließen",
+                "."
+            ]
+        },
+        {
+            "begin": 41,
+            "charBegin": 266,
+            "charEnd": 380,
+            "end": 60,
+            "id": 3,
+            "text": "Die Polizei geht davon aus, dass der Einbruch in den Schrebergarten von der gleichen Tätergruppe ausgeführt wurde. ",
+            "tokenIds": [
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59
+            ],
+            "tokens": [
+                "Die",
+                "Polizei",
+                "geht",
+                "davon",
+                "aus",
+                ",",
+                "dass",
+                "der",
+                "Einbruch",
+                "in",
+                "den",
+                "Schrebergarten",
+                "von",
+                "der",
+                "gleichen",
+                "Tätergruppe",
+                "ausgeführt",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "begin": 60,
+            "charBegin": 381,
+            "charEnd": 436,
+            "end": 69,
+            "id": 4,
+            "text": "Dort stahlen sie eine Reisetasche und ein Fernsehgerät.",
+            "tokenIds": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68
+            ],
+            "tokens": [
+                "Dort",
+                "stahlen",
+                "sie",
+                "eine",
+                "Reisetasche",
+                "und",
+                "ein",
+                "Fernsehgerät",
+                "."
+            ]
+        },
+        {
+            "begin": 69,
+            "charBegin": 438,
+            "charEnd": 528,
+            "end": 84,
+            "id": 5,
+            "text": "Eine Nacht zuvor, von Donnerstag auf Freitag, erfolgten in Knittelfeld fünf Autoaufbrüche. ",
+            "tokenIds": [
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83
+            ],
+            "tokens": [
+                "Eine",
+                "Nacht",
+                "zuvor",
+                ",",
+                "von",
+                "Donnerstag",
+                "auf",
+                "Freitag",
+                ",",
+                "erfolgten",
+                "in",
+                "Knittelfeld",
+                "fünf",
+                "Autoaufbrüche",
+                "."
+            ]
+        },
+        {
+            "begin": 84,
+            "charBegin": 529,
+            "charEnd": 565,
+            "end": 90,
+            "id": 6,
+            "text": "Eines der Fahrzeuge wurde gestohlen. ",
+            "tokenIds": [
+                84,
+                85,
+                86,
+                87,
+                88,
+                89
+            ],
+            "tokens": [
+                "Eines",
+                "der",
+                "Fahrzeuge",
+                "wurde",
+                "gestohlen",
+                "."
+            ]
+        },
+        {
+            "begin": 90,
+            "charBegin": 566,
+            "charEnd": 638,
+            "end": 101,
+            "id": 7,
+            "text": "In der gleichen Nacht wurde zusätzlich in fünf Gaststätten eingebrochen.",
+            "tokenIds": [
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100
+            ],
+            "tokens": [
+                "In",
+                "der",
+                "gleichen",
+                "Nacht",
+                "wurde",
+                "zusätzlich",
+                "in",
+                "fünf",
+                "Gaststätten",
+                "eingebrochen",
+                "."
+            ]
+        },
+        {
+            "begin": 101,
+            "charBegin": 640,
+            "charEnd": 757,
+            "end": 117,
+            "id": 8,
+            "text": "Innerhalb der letzten vier Wochen seit Mitte September verzeichnete die Knittelfelder Polizei insgesamt 50 Einbrüche.",
+            "tokenIds": [
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116
+            ],
+            "tokens": [
+                "Innerhalb",
+                "der",
+                "letzten",
+                "vier",
+                "Wochen",
+                "seit",
+                "Mitte",
+                "September",
+                "verzeichnete",
+                "die",
+                "Knittelfelder",
+                "Polizei",
+                "insgesamt",
+                "50",
+                "Einbrüche",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 6,
+            "id": 1,
+            "sentence": 1,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 7,
+            "charEnd": 12,
+            "id": 2,
+            "sentence": 1,
+            "text": "Nacht",
+            "word": 3
+        },
+        {
+            "charBegin": 13,
+            "charEnd": 16,
+            "id": 3,
+            "sentence": 1,
+            "text": "von",
+            "word": 4
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 24,
+            "id": 4,
+            "sentence": 1,
+            "text": "Freitag",
+            "word": 5
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 28,
+            "id": 5,
+            "sentence": 1,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 29,
+            "charEnd": 36,
+            "id": 6,
+            "sentence": 1,
+            "text": "Samstag",
+            "word": 7
+        },
+        {
+            "charBegin": 37,
+            "charEnd": 47,
+            "id": 7,
+            "sentence": 1,
+            "text": "ereigneten",
+            "word": 8
+        },
+        {
+            "charBegin": 48,
+            "charEnd": 52,
+            "id": 8,
+            "sentence": 1,
+            "text": "sich",
+            "word": 9
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 55,
+            "id": 9,
+            "sentence": 1,
+            "text": "im",
+            "word": 10
+        },
+        {
+            "charBegin": 56,
+            "charEnd": 60,
+            "id": 10,
+            "sentence": 1,
+            "text": "Raum",
+            "word": 11
+        },
+        {
+            "charBegin": 61,
+            "charEnd": 72,
+            "id": 11,
+            "sentence": 1,
+            "text": "Knittelfeld",
+            "word": 12
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 75,
+            "id": 12,
+            "sentence": 1,
+            "text": "in",
+            "word": 13
+        },
+        {
+            "charBegin": 76,
+            "charEnd": 79,
+            "id": 13,
+            "sentence": 1,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 90,
+            "id": 14,
+            "sentence": 1,
+            "text": "Steiermark",
+            "word": 15
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 98,
+            "id": 15,
+            "sentence": 1,
+            "text": "mehrere",
+            "word": 16
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 108,
+            "id": 16,
+            "sentence": 1,
+            "text": "Einbrüche",
+            "word": 17
+        },
+        {
+            "charBegin": 109,
+            "charEnd": 111,
+            "id": 17,
+            "sentence": 1,
+            "text": "in",
+            "word": 18
+        },
+        {
+            "charBegin": 112,
+            "charEnd": 117,
+            "id": 18,
+            "sentence": 1,
+            "text": "Autos",
+            "word": 19
+        },
+        {
+            "charBegin": 118,
+            "charEnd": 121,
+            "id": 19,
+            "sentence": 1,
+            "text": "und",
+            "word": 20
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 127,
+            "id": 20,
+            "sentence": 1,
+            "text": "einen",
+            "word": 21
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 142,
+            "id": 21,
+            "sentence": 1,
+            "text": "Schrebergarten",
+            "word": 22
+        },
+        {
+            "charBegin": 142,
+            "charEnd": 143,
+            "id": 22,
+            "sentence": 1,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 147,
+            "id": 23,
+            "sentence": 2,
+            "text": "Aus",
+            "word": 1
+        },
+        {
+            "charBegin": 148,
+            "charEnd": 151,
+            "id": 24,
+            "sentence": 2,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 157,
+            "id": 25,
+            "sentence": 2,
+            "text": "Autos",
+            "word": 3
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 164,
+            "id": 26,
+            "sentence": 2,
+            "text": "wurden",
+            "word": 4
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 175,
+            "id": 27,
+            "sentence": 2,
+            "text": "Autoradios",
+            "word": 5
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 185,
+            "id": 28,
+            "sentence": 2,
+            "text": "gestohlen",
+            "word": 6
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 186,
+            "id": 29,
+            "sentence": 2,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 190,
+            "id": 30,
+            "sentence": 3,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 198,
+            "id": 31,
+            "sentence": 3,
+            "text": "bislang",
+            "word": 2
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 210,
+            "id": 32,
+            "sentence": 3,
+            "text": "unbekannten",
+            "word": 3
+        },
+        {
+            "charBegin": 211,
+            "charEnd": 216,
+            "id": 33,
+            "sentence": 3,
+            "text": "Täter",
+            "word": 4
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 227,
+            "id": 34,
+            "sentence": 3,
+            "text": "versuchten",
+            "word": 5
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 228,
+            "id": 35,
+            "sentence": 3,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 229,
+            "charEnd": 234,
+            "id": 36,
+            "sentence": 3,
+            "text": "eines",
+            "word": 7
+        },
+        {
+            "charBegin": 235,
+            "charEnd": 238,
+            "id": 37,
+            "sentence": 3,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 248,
+            "id": 38,
+            "sentence": 3,
+            "text": "Fahrzeuge",
+            "word": 9
+        },
+        {
+            "charBegin": 249,
+            "charEnd": 264,
+            "id": 39,
+            "sentence": 3,
+            "text": "kurzzuschließen",
+            "word": 10
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 265,
+            "id": 40,
+            "sentence": 3,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 269,
+            "id": 41,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 270,
+            "charEnd": 277,
+            "id": 42,
+            "sentence": 4,
+            "text": "Polizei",
+            "word": 2
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 282,
+            "id": 43,
+            "sentence": 4,
+            "text": "geht",
+            "word": 3
+        },
+        {
+            "charBegin": 283,
+            "charEnd": 288,
+            "id": 44,
+            "sentence": 4,
+            "text": "davon",
+            "word": 4
+        },
+        {
+            "charBegin": 289,
+            "charEnd": 292,
+            "id": 45,
+            "sentence": 4,
+            "text": "aus",
+            "word": 5
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 293,
+            "id": 46,
+            "sentence": 4,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 298,
+            "id": 47,
+            "sentence": 4,
+            "text": "dass",
+            "word": 7
+        },
+        {
+            "charBegin": 299,
+            "charEnd": 302,
+            "id": 48,
+            "sentence": 4,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 311,
+            "id": 49,
+            "sentence": 4,
+            "text": "Einbruch",
+            "word": 9
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 314,
+            "id": 50,
+            "sentence": 4,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 318,
+            "id": 51,
+            "sentence": 4,
+            "text": "den",
+            "word": 11
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 333,
+            "id": 52,
+            "sentence": 4,
+            "text": "Schrebergarten",
+            "word": 12
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 337,
+            "id": 53,
+            "sentence": 4,
+            "text": "von",
+            "word": 13
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 341,
+            "id": 54,
+            "sentence": 4,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 350,
+            "id": 55,
+            "sentence": 4,
+            "text": "gleichen",
+            "word": 15
+        },
+        {
+            "charBegin": 351,
+            "charEnd": 362,
+            "id": 56,
+            "sentence": 4,
+            "text": "Tätergruppe",
+            "word": 16
+        },
+        {
+            "charBegin": 363,
+            "charEnd": 373,
+            "id": 57,
+            "sentence": 4,
+            "text": "ausgeführt",
+            "word": 17
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 379,
+            "id": 58,
+            "sentence": 4,
+            "text": "wurde",
+            "word": 18
+        },
+        {
+            "charBegin": 379,
+            "charEnd": 380,
+            "id": 59,
+            "sentence": 4,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 385,
+            "id": 60,
+            "sentence": 5,
+            "text": "Dort",
+            "word": 1
+        },
+        {
+            "charBegin": 386,
+            "charEnd": 393,
+            "id": 61,
+            "sentence": 5,
+            "text": "stahlen",
+            "word": 2
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 397,
+            "id": 62,
+            "sentence": 5,
+            "text": "sie",
+            "word": 3
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 402,
+            "id": 63,
+            "sentence": 5,
+            "text": "eine",
+            "word": 4
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 414,
+            "id": 64,
+            "sentence": 5,
+            "text": "Reisetasche",
+            "word": 5
+        },
+        {
+            "charBegin": 415,
+            "charEnd": 418,
+            "id": 65,
+            "sentence": 5,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 419,
+            "charEnd": 422,
+            "id": 66,
+            "sentence": 5,
+            "text": "ein",
+            "word": 7
+        },
+        {
+            "charBegin": 423,
+            "charEnd": 435,
+            "id": 67,
+            "sentence": 5,
+            "text": "Fernsehgerät",
+            "word": 8
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 436,
+            "id": 68,
+            "sentence": 5,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 442,
+            "id": 69,
+            "sentence": 6,
+            "text": "Eine",
+            "word": 1
+        },
+        {
+            "charBegin": 443,
+            "charEnd": 448,
+            "id": 70,
+            "sentence": 6,
+            "text": "Nacht",
+            "word": 2
+        },
+        {
+            "charBegin": 449,
+            "charEnd": 454,
+            "id": 71,
+            "sentence": 6,
+            "text": "zuvor",
+            "word": 3
+        },
+        {
+            "charBegin": 454,
+            "charEnd": 455,
+            "id": 72,
+            "sentence": 6,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 459,
+            "id": 73,
+            "sentence": 6,
+            "text": "von",
+            "word": 5
+        },
+        {
+            "charBegin": 460,
+            "charEnd": 470,
+            "id": 74,
+            "sentence": 6,
+            "text": "Donnerstag",
+            "word": 6
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 474,
+            "id": 75,
+            "sentence": 6,
+            "text": "auf",
+            "word": 7
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 482,
+            "id": 76,
+            "sentence": 6,
+            "text": "Freitag",
+            "word": 8
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 483,
+            "id": 77,
+            "sentence": 6,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 484,
+            "charEnd": 493,
+            "id": 78,
+            "sentence": 6,
+            "text": "erfolgten",
+            "word": 10
+        },
+        {
+            "charBegin": 494,
+            "charEnd": 496,
+            "id": 79,
+            "sentence": 6,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 497,
+            "charEnd": 508,
+            "id": 80,
+            "sentence": 6,
+            "text": "Knittelfeld",
+            "word": 12
+        },
+        {
+            "charBegin": 509,
+            "charEnd": 513,
+            "id": 81,
+            "sentence": 6,
+            "text": "fünf",
+            "word": 13
+        },
+        {
+            "charBegin": 514,
+            "charEnd": 527,
+            "id": 82,
+            "sentence": 6,
+            "text": "Autoaufbrüche",
+            "word": 14
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 528,
+            "id": 83,
+            "sentence": 6,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 529,
+            "charEnd": 534,
+            "id": 84,
+            "sentence": 7,
+            "text": "Eines",
+            "word": 1
+        },
+        {
+            "charBegin": 535,
+            "charEnd": 538,
+            "id": 85,
+            "sentence": 7,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 539,
+            "charEnd": 548,
+            "id": 86,
+            "sentence": 7,
+            "text": "Fahrzeuge",
+            "word": 3
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 554,
+            "id": 87,
+            "sentence": 7,
+            "text": "wurde",
+            "word": 4
+        },
+        {
+            "charBegin": 555,
+            "charEnd": 564,
+            "id": 88,
+            "sentence": 7,
+            "text": "gestohlen",
+            "word": 5
+        },
+        {
+            "charBegin": 564,
+            "charEnd": 565,
+            "id": 89,
+            "sentence": 7,
+            "text": ".",
+            "word": 6
+        },
+        {
+            "charBegin": 566,
+            "charEnd": 568,
+            "id": 90,
+            "sentence": 8,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 572,
+            "id": 91,
+            "sentence": 8,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 573,
+            "charEnd": 581,
+            "id": 92,
+            "sentence": 8,
+            "text": "gleichen",
+            "word": 3
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 587,
+            "id": 93,
+            "sentence": 8,
+            "text": "Nacht",
+            "word": 4
+        },
+        {
+            "charBegin": 588,
+            "charEnd": 593,
+            "id": 94,
+            "sentence": 8,
+            "text": "wurde",
+            "word": 5
+        },
+        {
+            "charBegin": 594,
+            "charEnd": 604,
+            "id": 95,
+            "sentence": 8,
+            "text": "zusätzlich",
+            "word": 6
+        },
+        {
+            "charBegin": 605,
+            "charEnd": 607,
+            "id": 96,
+            "sentence": 8,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 612,
+            "id": 97,
+            "sentence": 8,
+            "text": "fünf",
+            "word": 8
+        },
+        {
+            "charBegin": 613,
+            "charEnd": 624,
+            "id": 98,
+            "sentence": 8,
+            "text": "Gaststätten",
+            "word": 9
+        },
+        {
+            "charBegin": 625,
+            "charEnd": 637,
+            "id": 99,
+            "sentence": 8,
+            "text": "eingebrochen",
+            "word": 10
+        },
+        {
+            "charBegin": 637,
+            "charEnd": 638,
+            "id": 100,
+            "sentence": 8,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 640,
+            "charEnd": 649,
+            "id": 101,
+            "sentence": 9,
+            "text": "Innerhalb",
+            "word": 1
+        },
+        {
+            "charBegin": 650,
+            "charEnd": 653,
+            "id": 102,
+            "sentence": 9,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 661,
+            "id": 103,
+            "sentence": 9,
+            "text": "letzten",
+            "word": 3
+        },
+        {
+            "charBegin": 662,
+            "charEnd": 666,
+            "id": 104,
+            "sentence": 9,
+            "text": "vier",
+            "word": 4
+        },
+        {
+            "charBegin": 667,
+            "charEnd": 673,
+            "id": 105,
+            "sentence": 9,
+            "text": "Wochen",
+            "word": 5
+        },
+        {
+            "charBegin": 674,
+            "charEnd": 678,
+            "id": 106,
+            "sentence": 9,
+            "text": "seit",
+            "word": 6
+        },
+        {
+            "charBegin": 679,
+            "charEnd": 684,
+            "id": 107,
+            "sentence": 9,
+            "text": "Mitte",
+            "word": 7
+        },
+        {
+            "charBegin": 685,
+            "charEnd": 694,
+            "id": 108,
+            "sentence": 9,
+            "text": "September",
+            "word": 8
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 707,
+            "id": 109,
+            "sentence": 9,
+            "text": "verzeichnete",
+            "word": 9
+        },
+        {
+            "charBegin": 708,
+            "charEnd": 711,
+            "id": 110,
+            "sentence": 9,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 712,
+            "charEnd": 725,
+            "id": 111,
+            "sentence": 9,
+            "text": "Knittelfelder",
+            "word": 11
+        },
+        {
+            "charBegin": 726,
+            "charEnd": 733,
+            "id": 112,
+            "sentence": 9,
+            "text": "Polizei",
+            "word": 12
+        },
+        {
+            "charBegin": 734,
+            "charEnd": 743,
+            "id": 113,
+            "sentence": 9,
+            "text": "insgesamt",
+            "word": 13
+        },
+        {
+            "charBegin": 744,
+            "charEnd": 746,
+            "id": 114,
+            "sentence": 9,
+            "text": "50",
+            "word": 14
+        },
+        {
+            "charBegin": 747,
+            "charEnd": 756,
+            "id": 115,
+            "sentence": 9,
+            "text": "Einbrüche",
+            "word": 15
+        },
+        {
+            "charBegin": 756,
+            "charEnd": 757,
+            "id": 116,
+            "sentence": 9,
+            "text": ".",
+            "word": 16
+        }
+    ]
+}

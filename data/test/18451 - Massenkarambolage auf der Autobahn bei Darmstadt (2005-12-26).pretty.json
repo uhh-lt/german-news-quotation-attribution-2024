@@ -1,0 +1,970 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 49,
+                        "charBegin": 304,
+                        "charEnd": 308,
+                        "end": 50
+                    }
+                ],
+                "text": "nach",
+                "tokenIds": [
+                    49
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 49,
+                        "charBegin": 304,
+                        "charEnd": 323,
+                        "end": 51
+                    }
+                ],
+                "text": "nach Polizeiangaben",
+                "tokenIds": [
+                    49,
+                    50
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 47,
+                        "charBegin": 292,
+                        "charEnd": 303,
+                        "end": 49
+                    },
+                    {
+                        "begin": 51,
+                        "charBegin": 324,
+                        "charEnd": 412,
+                        "end": 63
+                    }
+                ],
+                "text": "Ursache war zu geringer Sicherheitsabstand und Blendung der Autofahrer durch die tief stehende Sonne",
+                "tokenIds": [
+                    47,
+                    48,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 50,
+                        "charBegin": 309,
+                        "charEnd": 323,
+                        "end": 51
+                    }
+                ],
+                "text": "Polizeiangaben",
+                "tokenIds": [
+                    50
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "18451 - Massenkarambolage auf der Autobahn bei Darmstadt (2005-12-26)",
+    "originalText": "Auf der Autobahn A 67 bei Darmstadt ist es am zweiten Weihnachtstag zu einer Massenkarambolage mit mehr als 50 Fahrzeugen gekommen. Dabei gab es mindestens zehn Verletzte. Auslöser der Massenkarambolage war ein vorausgehender Unfall in Höhe Gernsheim. Dadurch staute sich der Verkehr zurück. Ursache war nach Polizeiangaben zu geringer Sicherheitsabstand und Blendung der Autofahrer durch die tief stehende Sonne. Die Autobahn war mehrere Stunden gesperrt, auch auf der Gegenfahrbahn kam es zu Unfällen.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 131,
+            "end": 22,
+            "id": 0,
+            "text": "Auf der Autobahn A 67 bei Darmstadt ist es am zweiten Weihnachtstag zu einer Massenkarambolage mit mehr als 50 Fahrzeugen gekommen. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Auf",
+                "der",
+                "Autobahn",
+                "A",
+                "67",
+                "bei",
+                "Darmstadt",
+                "ist",
+                "es",
+                "am",
+                "zweiten",
+                "Weihnachtstag",
+                "zu",
+                "einer",
+                "Massenkarambolage",
+                "mit",
+                "mehr",
+                "als",
+                "50",
+                "Fahrzeugen",
+                "gekommen",
+                "."
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 132,
+            "charEnd": 171,
+            "end": 29,
+            "id": 1,
+            "text": "Dabei gab es mindestens zehn Verletzte. ",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28
+            ],
+            "tokens": [
+                "Dabei",
+                "gab",
+                "es",
+                "mindestens",
+                "zehn",
+                "Verletzte",
+                "."
+            ]
+        },
+        {
+            "begin": 29,
+            "charBegin": 172,
+            "charEnd": 251,
+            "end": 40,
+            "id": 2,
+            "text": "Auslöser der Massenkarambolage war ein vorausgehender Unfall in Höhe Gernsheim. ",
+            "tokenIds": [
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39
+            ],
+            "tokens": [
+                "Auslöser",
+                "der",
+                "Massenkarambolage",
+                "war",
+                "ein",
+                "vorausgehender",
+                "Unfall",
+                "in",
+                "Höhe",
+                "Gernsheim",
+                "."
+            ]
+        },
+        {
+            "begin": 40,
+            "charBegin": 252,
+            "charEnd": 291,
+            "end": 47,
+            "id": 3,
+            "text": "Dadurch staute sich der Verkehr zurück. ",
+            "tokenIds": [
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46
+            ],
+            "tokens": [
+                "Dadurch",
+                "staute",
+                "sich",
+                "der",
+                "Verkehr",
+                "zurück",
+                "."
+            ]
+        },
+        {
+            "begin": 47,
+            "charBegin": 292,
+            "charEnd": 413,
+            "end": 64,
+            "id": 4,
+            "text": "Ursache war nach Polizeiangaben zu geringer Sicherheitsabstand und Blendung der Autofahrer durch die tief stehende Sonne. ",
+            "tokenIds": [
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63
+            ],
+            "tokens": [
+                "Ursache",
+                "war",
+                "nach",
+                "Polizeiangaben",
+                "zu",
+                "geringer",
+                "Sicherheitsabstand",
+                "und",
+                "Blendung",
+                "der",
+                "Autofahrer",
+                "durch",
+                "die",
+                "tief",
+                "stehende",
+                "Sonne",
+                "."
+            ]
+        },
+        {
+            "begin": 64,
+            "charBegin": 414,
+            "charEnd": 503,
+            "end": 80,
+            "id": 5,
+            "text": "Die Autobahn war mehrere Stunden gesperrt, auch auf der Gegenfahrbahn kam es zu Unfällen.",
+            "tokenIds": [
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79
+            ],
+            "tokens": [
+                "Die",
+                "Autobahn",
+                "war",
+                "mehrere",
+                "Stunden",
+                "gesperrt",
+                ",",
+                "auch",
+                "auf",
+                "der",
+                "Gegenfahrbahn",
+                "kam",
+                "es",
+                "zu",
+                "Unfällen",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Auf",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 7,
+            "id": 1,
+            "sentence": 1,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 8,
+            "charEnd": 16,
+            "id": 2,
+            "sentence": 1,
+            "text": "Autobahn",
+            "word": 3
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 18,
+            "id": 3,
+            "sentence": 1,
+            "text": "A",
+            "word": 4
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 21,
+            "id": 4,
+            "sentence": 1,
+            "text": "67",
+            "word": 5
+        },
+        {
+            "charBegin": 22,
+            "charEnd": 25,
+            "id": 5,
+            "sentence": 1,
+            "text": "bei",
+            "word": 6
+        },
+        {
+            "charBegin": 26,
+            "charEnd": 35,
+            "id": 6,
+            "sentence": 1,
+            "text": "Darmstadt",
+            "word": 7
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 39,
+            "id": 7,
+            "sentence": 1,
+            "text": "ist",
+            "word": 8
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 42,
+            "id": 8,
+            "sentence": 1,
+            "text": "es",
+            "word": 9
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 45,
+            "id": 9,
+            "sentence": 1,
+            "text": "am",
+            "word": 10
+        },
+        {
+            "charBegin": 46,
+            "charEnd": 53,
+            "id": 10,
+            "sentence": 1,
+            "text": "zweiten",
+            "word": 11
+        },
+        {
+            "charBegin": 54,
+            "charEnd": 67,
+            "id": 11,
+            "sentence": 1,
+            "text": "Weihnachtstag",
+            "word": 12
+        },
+        {
+            "charBegin": 68,
+            "charEnd": 70,
+            "id": 12,
+            "sentence": 1,
+            "text": "zu",
+            "word": 13
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 76,
+            "id": 13,
+            "sentence": 1,
+            "text": "einer",
+            "word": 14
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 94,
+            "id": 14,
+            "sentence": 1,
+            "text": "Massenkarambolage",
+            "word": 15
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 98,
+            "id": 15,
+            "sentence": 1,
+            "text": "mit",
+            "word": 16
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 103,
+            "id": 16,
+            "sentence": 1,
+            "text": "mehr",
+            "word": 17
+        },
+        {
+            "charBegin": 104,
+            "charEnd": 107,
+            "id": 17,
+            "sentence": 1,
+            "text": "als",
+            "word": 18
+        },
+        {
+            "charBegin": 108,
+            "charEnd": 110,
+            "id": 18,
+            "sentence": 1,
+            "text": "50",
+            "word": 19
+        },
+        {
+            "charBegin": 111,
+            "charEnd": 121,
+            "id": 19,
+            "sentence": 1,
+            "text": "Fahrzeugen",
+            "word": 20
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 130,
+            "id": 20,
+            "sentence": 1,
+            "text": "gekommen",
+            "word": 21
+        },
+        {
+            "charBegin": 130,
+            "charEnd": 131,
+            "id": 21,
+            "sentence": 1,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 132,
+            "charEnd": 137,
+            "id": 22,
+            "sentence": 2,
+            "text": "Dabei",
+            "word": 1
+        },
+        {
+            "charBegin": 138,
+            "charEnd": 141,
+            "id": 23,
+            "sentence": 2,
+            "text": "gab",
+            "word": 2
+        },
+        {
+            "charBegin": 142,
+            "charEnd": 144,
+            "id": 24,
+            "sentence": 2,
+            "text": "es",
+            "word": 3
+        },
+        {
+            "charBegin": 145,
+            "charEnd": 155,
+            "id": 25,
+            "sentence": 2,
+            "text": "mindestens",
+            "word": 4
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 160,
+            "id": 26,
+            "sentence": 2,
+            "text": "zehn",
+            "word": 5
+        },
+        {
+            "charBegin": 161,
+            "charEnd": 170,
+            "id": 27,
+            "sentence": 2,
+            "text": "Verletzte",
+            "word": 6
+        },
+        {
+            "charBegin": 170,
+            "charEnd": 171,
+            "id": 28,
+            "sentence": 2,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 180,
+            "id": 29,
+            "sentence": 3,
+            "text": "Auslöser",
+            "word": 1
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 184,
+            "id": 30,
+            "sentence": 3,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 202,
+            "id": 31,
+            "sentence": 3,
+            "text": "Massenkarambolage",
+            "word": 3
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 206,
+            "id": 32,
+            "sentence": 3,
+            "text": "war",
+            "word": 4
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 210,
+            "id": 33,
+            "sentence": 3,
+            "text": "ein",
+            "word": 5
+        },
+        {
+            "charBegin": 211,
+            "charEnd": 225,
+            "id": 34,
+            "sentence": 3,
+            "text": "vorausgehender",
+            "word": 6
+        },
+        {
+            "charBegin": 226,
+            "charEnd": 232,
+            "id": 35,
+            "sentence": 3,
+            "text": "Unfall",
+            "word": 7
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 235,
+            "id": 36,
+            "sentence": 3,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 236,
+            "charEnd": 240,
+            "id": 37,
+            "sentence": 3,
+            "text": "Höhe",
+            "word": 9
+        },
+        {
+            "charBegin": 241,
+            "charEnd": 250,
+            "id": 38,
+            "sentence": 3,
+            "text": "Gernsheim",
+            "word": 10
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 251,
+            "id": 39,
+            "sentence": 3,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 252,
+            "charEnd": 259,
+            "id": 40,
+            "sentence": 4,
+            "text": "Dadurch",
+            "word": 1
+        },
+        {
+            "charBegin": 260,
+            "charEnd": 266,
+            "id": 41,
+            "sentence": 4,
+            "text": "staute",
+            "word": 2
+        },
+        {
+            "charBegin": 267,
+            "charEnd": 271,
+            "id": 42,
+            "sentence": 4,
+            "text": "sich",
+            "word": 3
+        },
+        {
+            "charBegin": 272,
+            "charEnd": 275,
+            "id": 43,
+            "sentence": 4,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 283,
+            "id": 44,
+            "sentence": 4,
+            "text": "Verkehr",
+            "word": 5
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 290,
+            "id": 45,
+            "sentence": 4,
+            "text": "zurück",
+            "word": 6
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 291,
+            "id": 46,
+            "sentence": 4,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 299,
+            "id": 47,
+            "sentence": 5,
+            "text": "Ursache",
+            "word": 1
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 303,
+            "id": 48,
+            "sentence": 5,
+            "text": "war",
+            "word": 2
+        },
+        {
+            "charBegin": 304,
+            "charEnd": 308,
+            "id": 49,
+            "sentence": 5,
+            "text": "nach",
+            "word": 3
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 323,
+            "id": 50,
+            "sentence": 5,
+            "text": "Polizeiangaben",
+            "word": 4
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 326,
+            "id": 51,
+            "sentence": 5,
+            "text": "zu",
+            "word": 5
+        },
+        {
+            "charBegin": 327,
+            "charEnd": 335,
+            "id": 52,
+            "sentence": 5,
+            "text": "geringer",
+            "word": 6
+        },
+        {
+            "charBegin": 336,
+            "charEnd": 354,
+            "id": 53,
+            "sentence": 5,
+            "text": "Sicherheitsabstand",
+            "word": 7
+        },
+        {
+            "charBegin": 355,
+            "charEnd": 358,
+            "id": 54,
+            "sentence": 5,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 367,
+            "id": 55,
+            "sentence": 5,
+            "text": "Blendung",
+            "word": 9
+        },
+        {
+            "charBegin": 368,
+            "charEnd": 371,
+            "id": 56,
+            "sentence": 5,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 372,
+            "charEnd": 382,
+            "id": 57,
+            "sentence": 5,
+            "text": "Autofahrer",
+            "word": 11
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 388,
+            "id": 58,
+            "sentence": 5,
+            "text": "durch",
+            "word": 12
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 392,
+            "id": 59,
+            "sentence": 5,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 393,
+            "charEnd": 397,
+            "id": 60,
+            "sentence": 5,
+            "text": "tief",
+            "word": 14
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 406,
+            "id": 61,
+            "sentence": 5,
+            "text": "stehende",
+            "word": 15
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 412,
+            "id": 62,
+            "sentence": 5,
+            "text": "Sonne",
+            "word": 16
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 413,
+            "id": 63,
+            "sentence": 5,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 414,
+            "charEnd": 417,
+            "id": 64,
+            "sentence": 6,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 426,
+            "id": 65,
+            "sentence": 6,
+            "text": "Autobahn",
+            "word": 2
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 430,
+            "id": 66,
+            "sentence": 6,
+            "text": "war",
+            "word": 3
+        },
+        {
+            "charBegin": 431,
+            "charEnd": 438,
+            "id": 67,
+            "sentence": 6,
+            "text": "mehrere",
+            "word": 4
+        },
+        {
+            "charBegin": 439,
+            "charEnd": 446,
+            "id": 68,
+            "sentence": 6,
+            "text": "Stunden",
+            "word": 5
+        },
+        {
+            "charBegin": 447,
+            "charEnd": 455,
+            "id": 69,
+            "sentence": 6,
+            "text": "gesperrt",
+            "word": 6
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 456,
+            "id": 70,
+            "sentence": 6,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 457,
+            "charEnd": 461,
+            "id": 71,
+            "sentence": 6,
+            "text": "auch",
+            "word": 8
+        },
+        {
+            "charBegin": 462,
+            "charEnd": 465,
+            "id": 72,
+            "sentence": 6,
+            "text": "auf",
+            "word": 9
+        },
+        {
+            "charBegin": 466,
+            "charEnd": 469,
+            "id": 73,
+            "sentence": 6,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 470,
+            "charEnd": 483,
+            "id": 74,
+            "sentence": 6,
+            "text": "Gegenfahrbahn",
+            "word": 11
+        },
+        {
+            "charBegin": 484,
+            "charEnd": 487,
+            "id": 75,
+            "sentence": 6,
+            "text": "kam",
+            "word": 12
+        },
+        {
+            "charBegin": 488,
+            "charEnd": 490,
+            "id": 76,
+            "sentence": 6,
+            "text": "es",
+            "word": 13
+        },
+        {
+            "charBegin": 491,
+            "charEnd": 493,
+            "id": 77,
+            "sentence": 6,
+            "text": "zu",
+            "word": 14
+        },
+        {
+            "charBegin": 494,
+            "charEnd": 502,
+            "id": 78,
+            "sentence": 6,
+            "text": "Unfällen",
+            "word": 15
+        },
+        {
+            "charBegin": 502,
+            "charEnd": 503,
+            "id": 79,
+            "sentence": 6,
+            "text": ".",
+            "word": 16
+        }
+    ]
+}

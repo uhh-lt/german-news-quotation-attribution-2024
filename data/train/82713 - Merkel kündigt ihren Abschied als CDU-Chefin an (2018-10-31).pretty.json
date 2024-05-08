@@ -1,0 +1,1772 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 6,
+                        "charBegin": 54,
+                        "charEnd": 57,
+                        "end": 7
+                    },
+                    {
+                        "begin": 14,
+                        "charBegin": 109,
+                        "charEnd": 120,
+                        "end": 15
+                    }
+                ],
+                "text": "hat angekündigt",
+                "tokenIds": [
+                    6,
+                    14
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 121,
+                        "end": 16
+                    }
+                ],
+                "text": "Die 64-jährige deutsche Bundeskanzlerin Angela Merkel hat diesen Samstag auf einer Pressekonferenz in Berlin angekündigt,",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 16,
+                        "charBegin": 122,
+                        "charEnd": 167,
+                        "end": 22
+                    }
+                ],
+                "text": "kurzfristig zurückzutreten als Chefin der CDU",
+                "tokenIds": [
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 53,
+                        "end": 6
+                    }
+                ],
+                "text": "Die 64-jährige deutsche Bundeskanzlerin Angela Merkel",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 106,
+                        "charBegin": 702,
+                        "charEnd": 709,
+                        "end": 107
+                    }
+                ],
+                "text": "erklärt",
+                "tokenIds": [
+                    106
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 105,
+                        "charBegin": 698,
+                        "charEnd": 717,
+                        "end": 109
+                    }
+                ],
+                "text": "Sie erklärt selbst:",
+                "tokenIds": [
+                    105,
+                    106,
+                    107,
+                    108
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 109,
+                        "charBegin": 718,
+                        "charEnd": 790,
+                        "end": 125
+                    }
+                ],
+                "text": "„Ich wurde nicht als Kanzlerin geboren, und das habe ich nie vergessen.“",
+                "tokenIds": [
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 105,
+                        "charBegin": 698,
+                        "charEnd": 701,
+                        "end": 106
+                    }
+                ],
+                "text": "Sie",
+                "tokenIds": [
+                    105
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "82713 - Merkel kündigt ihren Abschied als CDU-Chefin an (2018-10-31)",
+    "originalText": "Die 64-jährige deutsche Bundeskanzlerin Angela Merkel hat diesen Samstag auf einer Pressekonferenz in Berlin angekündigt, kurzfristig zurückzutreten als Chefin der CDU. Beim nächsten CDU-Parteitag Anfang Dezember wird sie nicht mehr erneut für den Parteivorsitz kandidieren. Sie ist schon seit 2000 CDU-Parteivorsitzende. Sie nimmt damit die Verantwortung auf sich für die schlechten Wahlergebnisse ihrer Partei bei den jüngsten Landtagswahlen in Bayern und Hessen.\n\nMerkel will noch Bundeskanzlerin bleiben bis 2021, das Ende ihrer heutigen Amtszeit als Kanzlerin, und danach auch dafür nicht mehr erneut kandidieren. Dennoch nimmt sie schon ab jetzt deutlich schrittweise Abschied von der Macht. Sie erklärt selbst: „Ich wurde nicht als Kanzlerin geboren, und das habe ich nie vergessen.“ \n\nAls mögliche Nachfolger Merkels für den CDU-Vorsitz haben sich bereits drei Kandidaten gemeldet: Annegret Kramp-Karrenbauer, Jens Spahn und Friedrich Merz.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 168,
+            "end": 23,
+            "id": 0,
+            "text": "Die 64-jährige deutsche Bundeskanzlerin Angela Merkel hat diesen Samstag auf einer Pressekonferenz in Berlin angekündigt, kurzfristig zurückzutreten als Chefin der CDU. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22
+            ],
+            "tokens": [
+                "Die",
+                "64-jährige",
+                "deutsche",
+                "Bundeskanzlerin",
+                "Angela",
+                "Merkel",
+                "hat",
+                "diesen",
+                "Samstag",
+                "auf",
+                "einer",
+                "Pressekonferenz",
+                "in",
+                "Berlin",
+                "angekündigt",
+                ",",
+                "kurzfristig",
+                "zurückzutreten",
+                "als",
+                "Chefin",
+                "der",
+                "CDU",
+                "."
+            ]
+        },
+        {
+            "begin": 23,
+            "charBegin": 169,
+            "charEnd": 274,
+            "end": 38,
+            "id": 1,
+            "text": "Beim nächsten CDU-Parteitag Anfang Dezember wird sie nicht mehr erneut für den Parteivorsitz kandidieren. ",
+            "tokenIds": [
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37
+            ],
+            "tokens": [
+                "Beim",
+                "nächsten",
+                "CDU-Parteitag",
+                "Anfang",
+                "Dezember",
+                "wird",
+                "sie",
+                "nicht",
+                "mehr",
+                "erneut",
+                "für",
+                "den",
+                "Parteivorsitz",
+                "kandidieren",
+                "."
+            ]
+        },
+        {
+            "begin": 38,
+            "charBegin": 275,
+            "charEnd": 321,
+            "end": 45,
+            "id": 2,
+            "text": "Sie ist schon seit 2000 CDU-Parteivorsitzende. ",
+            "tokenIds": [
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44
+            ],
+            "tokens": [
+                "Sie",
+                "ist",
+                "schon",
+                "seit",
+                "2000",
+                "CDU-Parteivorsitzende",
+                "."
+            ]
+        },
+        {
+            "begin": 45,
+            "charBegin": 322,
+            "charEnd": 465,
+            "end": 67,
+            "id": 3,
+            "text": "Sie nimmt damit die Verantwortung auf sich für die schlechten Wahlergebnisse ihrer Partei bei den jüngsten Landtagswahlen in Bayern und Hessen.",
+            "tokenIds": [
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66
+            ],
+            "tokens": [
+                "Sie",
+                "nimmt",
+                "damit",
+                "die",
+                "Verantwortung",
+                "auf",
+                "sich",
+                "für",
+                "die",
+                "schlechten",
+                "Wahlergebnisse",
+                "ihrer",
+                "Partei",
+                "bei",
+                "den",
+                "jüngsten",
+                "Landtagswahlen",
+                "in",
+                "Bayern",
+                "und",
+                "Hessen",
+                "."
+            ]
+        },
+        {
+            "begin": 67,
+            "charBegin": 467,
+            "charEnd": 618,
+            "end": 92,
+            "id": 4,
+            "text": "Merkel will noch Bundeskanzlerin bleiben bis 2021, das Ende ihrer heutigen Amtszeit als Kanzlerin, und danach auch dafür nicht mehr erneut kandidieren. ",
+            "tokenIds": [
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91
+            ],
+            "tokens": [
+                "Merkel",
+                "will",
+                "noch",
+                "Bundeskanzlerin",
+                "bleiben",
+                "bis",
+                "2021",
+                ",",
+                "das",
+                "Ende",
+                "ihrer",
+                "heutigen",
+                "Amtszeit",
+                "als",
+                "Kanzlerin",
+                ",",
+                "und",
+                "danach",
+                "auch",
+                "dafür",
+                "nicht",
+                "mehr",
+                "erneut",
+                "kandidieren",
+                "."
+            ]
+        },
+        {
+            "begin": 92,
+            "charBegin": 619,
+            "charEnd": 697,
+            "end": 105,
+            "id": 5,
+            "text": "Dennoch nimmt sie schon ab jetzt deutlich schrittweise Abschied von der Macht. ",
+            "tokenIds": [
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104
+            ],
+            "tokens": [
+                "Dennoch",
+                "nimmt",
+                "sie",
+                "schon",
+                "ab",
+                "jetzt",
+                "deutlich",
+                "schrittweise",
+                "Abschied",
+                "von",
+                "der",
+                "Macht",
+                "."
+            ]
+        },
+        {
+            "begin": 105,
+            "charBegin": 698,
+            "charEnd": 790,
+            "end": 125,
+            "id": 6,
+            "text": "Sie erklärt selbst: „Ich wurde nicht als Kanzlerin geboren, und das habe ich nie vergessen.“ ",
+            "tokenIds": [
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124
+            ],
+            "tokens": [
+                "Sie",
+                "erklärt",
+                "selbst",
+                ":",
+                "„",
+                "Ich",
+                "wurde",
+                "nicht",
+                "als",
+                "Kanzlerin",
+                "geboren",
+                ",",
+                "und",
+                "das",
+                "habe",
+                "ich",
+                "nie",
+                "vergessen",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "begin": 125,
+            "charBegin": 793,
+            "charEnd": 948,
+            "end": 148,
+            "id": 7,
+            "text": "Als mögliche Nachfolger Merkels für den CDU-Vorsitz haben sich bereits drei Kandidaten gemeldet: Annegret Kramp-Karrenbauer, Jens Spahn und Friedrich Merz.",
+            "tokenIds": [
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147
+            ],
+            "tokens": [
+                "Als",
+                "mögliche",
+                "Nachfolger",
+                "Merkels",
+                "für",
+                "den",
+                "CDU-Vorsitz",
+                "haben",
+                "sich",
+                "bereits",
+                "drei",
+                "Kandidaten",
+                "gemeldet",
+                ":",
+                "Annegret",
+                "Kramp-Karrenbauer",
+                ",",
+                "Jens",
+                "Spahn",
+                "und",
+                "Friedrich",
+                "Merz",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 14,
+            "id": 1,
+            "sentence": 1,
+            "text": "64-jährige",
+            "word": 2
+        },
+        {
+            "charBegin": 15,
+            "charEnd": 23,
+            "id": 2,
+            "sentence": 1,
+            "text": "deutsche",
+            "word": 3
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 39,
+            "id": 3,
+            "sentence": 1,
+            "text": "Bundeskanzlerin",
+            "word": 4
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 46,
+            "id": 4,
+            "sentence": 1,
+            "text": "Angela",
+            "word": 5
+        },
+        {
+            "charBegin": 47,
+            "charEnd": 53,
+            "id": 5,
+            "sentence": 1,
+            "text": "Merkel",
+            "word": 6
+        },
+        {
+            "charBegin": 54,
+            "charEnd": 57,
+            "id": 6,
+            "sentence": 1,
+            "text": "hat",
+            "word": 7
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 64,
+            "id": 7,
+            "sentence": 1,
+            "text": "diesen",
+            "word": 8
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 72,
+            "id": 8,
+            "sentence": 1,
+            "text": "Samstag",
+            "word": 9
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 76,
+            "id": 9,
+            "sentence": 1,
+            "text": "auf",
+            "word": 10
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 82,
+            "id": 10,
+            "sentence": 1,
+            "text": "einer",
+            "word": 11
+        },
+        {
+            "charBegin": 83,
+            "charEnd": 98,
+            "id": 11,
+            "sentence": 1,
+            "text": "Pressekonferenz",
+            "word": 12
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 101,
+            "id": 12,
+            "sentence": 1,
+            "text": "in",
+            "word": 13
+        },
+        {
+            "charBegin": 102,
+            "charEnd": 108,
+            "id": 13,
+            "sentence": 1,
+            "text": "Berlin",
+            "word": 14
+        },
+        {
+            "charBegin": 109,
+            "charEnd": 120,
+            "id": 14,
+            "sentence": 1,
+            "text": "angekündigt",
+            "word": 15
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 121,
+            "id": 15,
+            "sentence": 1,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 133,
+            "id": 16,
+            "sentence": 1,
+            "text": "kurzfristig",
+            "word": 17
+        },
+        {
+            "charBegin": 134,
+            "charEnd": 148,
+            "id": 17,
+            "sentence": 1,
+            "text": "zurückzutreten",
+            "word": 18
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 152,
+            "id": 18,
+            "sentence": 1,
+            "text": "als",
+            "word": 19
+        },
+        {
+            "charBegin": 153,
+            "charEnd": 159,
+            "id": 19,
+            "sentence": 1,
+            "text": "Chefin",
+            "word": 20
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 163,
+            "id": 20,
+            "sentence": 1,
+            "text": "der",
+            "word": 21
+        },
+        {
+            "charBegin": 164,
+            "charEnd": 167,
+            "id": 21,
+            "sentence": 1,
+            "text": "CDU",
+            "word": 22
+        },
+        {
+            "charBegin": 167,
+            "charEnd": 168,
+            "id": 22,
+            "sentence": 1,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 173,
+            "id": 23,
+            "sentence": 2,
+            "text": "Beim",
+            "word": 1
+        },
+        {
+            "charBegin": 174,
+            "charEnd": 182,
+            "id": 24,
+            "sentence": 2,
+            "text": "nächsten",
+            "word": 2
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 196,
+            "id": 25,
+            "sentence": 2,
+            "text": "CDU-Parteitag",
+            "word": 3
+        },
+        {
+            "charBegin": 197,
+            "charEnd": 203,
+            "id": 26,
+            "sentence": 2,
+            "text": "Anfang",
+            "word": 4
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 212,
+            "id": 27,
+            "sentence": 2,
+            "text": "Dezember",
+            "word": 5
+        },
+        {
+            "charBegin": 213,
+            "charEnd": 217,
+            "id": 28,
+            "sentence": 2,
+            "text": "wird",
+            "word": 6
+        },
+        {
+            "charBegin": 218,
+            "charEnd": 221,
+            "id": 29,
+            "sentence": 2,
+            "text": "sie",
+            "word": 7
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 227,
+            "id": 30,
+            "sentence": 2,
+            "text": "nicht",
+            "word": 8
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 232,
+            "id": 31,
+            "sentence": 2,
+            "text": "mehr",
+            "word": 9
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 239,
+            "id": 32,
+            "sentence": 2,
+            "text": "erneut",
+            "word": 10
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 243,
+            "id": 33,
+            "sentence": 2,
+            "text": "für",
+            "word": 11
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 247,
+            "id": 34,
+            "sentence": 2,
+            "text": "den",
+            "word": 12
+        },
+        {
+            "charBegin": 248,
+            "charEnd": 261,
+            "id": 35,
+            "sentence": 2,
+            "text": "Parteivorsitz",
+            "word": 13
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 273,
+            "id": 36,
+            "sentence": 2,
+            "text": "kandidieren",
+            "word": 14
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 274,
+            "id": 37,
+            "sentence": 2,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 278,
+            "id": 38,
+            "sentence": 3,
+            "text": "Sie",
+            "word": 1
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 282,
+            "id": 39,
+            "sentence": 3,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 283,
+            "charEnd": 288,
+            "id": 40,
+            "sentence": 3,
+            "text": "schon",
+            "word": 3
+        },
+        {
+            "charBegin": 289,
+            "charEnd": 293,
+            "id": 41,
+            "sentence": 3,
+            "text": "seit",
+            "word": 4
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 298,
+            "id": 42,
+            "sentence": 3,
+            "text": "2000",
+            "word": 5
+        },
+        {
+            "charBegin": 299,
+            "charEnd": 320,
+            "id": 43,
+            "sentence": 3,
+            "text": "CDU-Parteivorsitzende",
+            "word": 6
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 321,
+            "id": 44,
+            "sentence": 3,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 322,
+            "charEnd": 325,
+            "id": 45,
+            "sentence": 4,
+            "text": "Sie",
+            "word": 1
+        },
+        {
+            "charBegin": 326,
+            "charEnd": 331,
+            "id": 46,
+            "sentence": 4,
+            "text": "nimmt",
+            "word": 2
+        },
+        {
+            "charBegin": 332,
+            "charEnd": 337,
+            "id": 47,
+            "sentence": 4,
+            "text": "damit",
+            "word": 3
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 341,
+            "id": 48,
+            "sentence": 4,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 355,
+            "id": 49,
+            "sentence": 4,
+            "text": "Verantwortung",
+            "word": 5
+        },
+        {
+            "charBegin": 356,
+            "charEnd": 359,
+            "id": 50,
+            "sentence": 4,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 360,
+            "charEnd": 364,
+            "id": 51,
+            "sentence": 4,
+            "text": "sich",
+            "word": 7
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 368,
+            "id": 52,
+            "sentence": 4,
+            "text": "für",
+            "word": 8
+        },
+        {
+            "charBegin": 369,
+            "charEnd": 372,
+            "id": 53,
+            "sentence": 4,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 373,
+            "charEnd": 383,
+            "id": 54,
+            "sentence": 4,
+            "text": "schlechten",
+            "word": 10
+        },
+        {
+            "charBegin": 384,
+            "charEnd": 398,
+            "id": 55,
+            "sentence": 4,
+            "text": "Wahlergebnisse",
+            "word": 11
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 404,
+            "id": 56,
+            "sentence": 4,
+            "text": "ihrer",
+            "word": 12
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 411,
+            "id": 57,
+            "sentence": 4,
+            "text": "Partei",
+            "word": 13
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 415,
+            "id": 58,
+            "sentence": 4,
+            "text": "bei",
+            "word": 14
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 419,
+            "id": 59,
+            "sentence": 4,
+            "text": "den",
+            "word": 15
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 428,
+            "id": 60,
+            "sentence": 4,
+            "text": "jüngsten",
+            "word": 16
+        },
+        {
+            "charBegin": 429,
+            "charEnd": 443,
+            "id": 61,
+            "sentence": 4,
+            "text": "Landtagswahlen",
+            "word": 17
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 446,
+            "id": 62,
+            "sentence": 4,
+            "text": "in",
+            "word": 18
+        },
+        {
+            "charBegin": 447,
+            "charEnd": 453,
+            "id": 63,
+            "sentence": 4,
+            "text": "Bayern",
+            "word": 19
+        },
+        {
+            "charBegin": 454,
+            "charEnd": 457,
+            "id": 64,
+            "sentence": 4,
+            "text": "und",
+            "word": 20
+        },
+        {
+            "charBegin": 458,
+            "charEnd": 464,
+            "id": 65,
+            "sentence": 4,
+            "text": "Hessen",
+            "word": 21
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 465,
+            "id": 66,
+            "sentence": 4,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 467,
+            "charEnd": 473,
+            "id": 67,
+            "sentence": 5,
+            "text": "Merkel",
+            "word": 1
+        },
+        {
+            "charBegin": 474,
+            "charEnd": 478,
+            "id": 68,
+            "sentence": 5,
+            "text": "will",
+            "word": 2
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 483,
+            "id": 69,
+            "sentence": 5,
+            "text": "noch",
+            "word": 3
+        },
+        {
+            "charBegin": 484,
+            "charEnd": 499,
+            "id": 70,
+            "sentence": 5,
+            "text": "Bundeskanzlerin",
+            "word": 4
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 507,
+            "id": 71,
+            "sentence": 5,
+            "text": "bleiben",
+            "word": 5
+        },
+        {
+            "charBegin": 508,
+            "charEnd": 511,
+            "id": 72,
+            "sentence": 5,
+            "text": "bis",
+            "word": 6
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 516,
+            "id": 73,
+            "sentence": 5,
+            "text": "2021",
+            "word": 7
+        },
+        {
+            "charBegin": 516,
+            "charEnd": 517,
+            "id": 74,
+            "sentence": 5,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 518,
+            "charEnd": 521,
+            "id": 75,
+            "sentence": 5,
+            "text": "das",
+            "word": 9
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 526,
+            "id": 76,
+            "sentence": 5,
+            "text": "Ende",
+            "word": 10
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 532,
+            "id": 77,
+            "sentence": 5,
+            "text": "ihrer",
+            "word": 11
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 541,
+            "id": 78,
+            "sentence": 5,
+            "text": "heutigen",
+            "word": 12
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 550,
+            "id": 79,
+            "sentence": 5,
+            "text": "Amtszeit",
+            "word": 13
+        },
+        {
+            "charBegin": 551,
+            "charEnd": 554,
+            "id": 80,
+            "sentence": 5,
+            "text": "als",
+            "word": 14
+        },
+        {
+            "charBegin": 555,
+            "charEnd": 564,
+            "id": 81,
+            "sentence": 5,
+            "text": "Kanzlerin",
+            "word": 15
+        },
+        {
+            "charBegin": 564,
+            "charEnd": 565,
+            "id": 82,
+            "sentence": 5,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 566,
+            "charEnd": 569,
+            "id": 83,
+            "sentence": 5,
+            "text": "und",
+            "word": 17
+        },
+        {
+            "charBegin": 570,
+            "charEnd": 576,
+            "id": 84,
+            "sentence": 5,
+            "text": "danach",
+            "word": 18
+        },
+        {
+            "charBegin": 577,
+            "charEnd": 581,
+            "id": 85,
+            "sentence": 5,
+            "text": "auch",
+            "word": 19
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 587,
+            "id": 86,
+            "sentence": 5,
+            "text": "dafür",
+            "word": 20
+        },
+        {
+            "charBegin": 588,
+            "charEnd": 593,
+            "id": 87,
+            "sentence": 5,
+            "text": "nicht",
+            "word": 21
+        },
+        {
+            "charBegin": 594,
+            "charEnd": 598,
+            "id": 88,
+            "sentence": 5,
+            "text": "mehr",
+            "word": 22
+        },
+        {
+            "charBegin": 599,
+            "charEnd": 605,
+            "id": 89,
+            "sentence": 5,
+            "text": "erneut",
+            "word": 23
+        },
+        {
+            "charBegin": 606,
+            "charEnd": 617,
+            "id": 90,
+            "sentence": 5,
+            "text": "kandidieren",
+            "word": 24
+        },
+        {
+            "charBegin": 617,
+            "charEnd": 618,
+            "id": 91,
+            "sentence": 5,
+            "text": ".",
+            "word": 25
+        },
+        {
+            "charBegin": 619,
+            "charEnd": 626,
+            "id": 92,
+            "sentence": 6,
+            "text": "Dennoch",
+            "word": 1
+        },
+        {
+            "charBegin": 627,
+            "charEnd": 632,
+            "id": 93,
+            "sentence": 6,
+            "text": "nimmt",
+            "word": 2
+        },
+        {
+            "charBegin": 633,
+            "charEnd": 636,
+            "id": 94,
+            "sentence": 6,
+            "text": "sie",
+            "word": 3
+        },
+        {
+            "charBegin": 637,
+            "charEnd": 642,
+            "id": 95,
+            "sentence": 6,
+            "text": "schon",
+            "word": 4
+        },
+        {
+            "charBegin": 643,
+            "charEnd": 645,
+            "id": 96,
+            "sentence": 6,
+            "text": "ab",
+            "word": 5
+        },
+        {
+            "charBegin": 646,
+            "charEnd": 651,
+            "id": 97,
+            "sentence": 6,
+            "text": "jetzt",
+            "word": 6
+        },
+        {
+            "charBegin": 652,
+            "charEnd": 660,
+            "id": 98,
+            "sentence": 6,
+            "text": "deutlich",
+            "word": 7
+        },
+        {
+            "charBegin": 661,
+            "charEnd": 673,
+            "id": 99,
+            "sentence": 6,
+            "text": "schrittweise",
+            "word": 8
+        },
+        {
+            "charBegin": 674,
+            "charEnd": 682,
+            "id": 100,
+            "sentence": 6,
+            "text": "Abschied",
+            "word": 9
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 686,
+            "id": 101,
+            "sentence": 6,
+            "text": "von",
+            "word": 10
+        },
+        {
+            "charBegin": 687,
+            "charEnd": 690,
+            "id": 102,
+            "sentence": 6,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 696,
+            "id": 103,
+            "sentence": 6,
+            "text": "Macht",
+            "word": 12
+        },
+        {
+            "charBegin": 696,
+            "charEnd": 697,
+            "id": 104,
+            "sentence": 6,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 698,
+            "charEnd": 701,
+            "id": 105,
+            "sentence": 7,
+            "text": "Sie",
+            "word": 1
+        },
+        {
+            "charBegin": 702,
+            "charEnd": 709,
+            "id": 106,
+            "sentence": 7,
+            "text": "erklärt",
+            "word": 2
+        },
+        {
+            "charBegin": 710,
+            "charEnd": 716,
+            "id": 107,
+            "sentence": 7,
+            "text": "selbst",
+            "word": 3
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 717,
+            "id": 108,
+            "sentence": 7,
+            "text": ":",
+            "word": 4
+        },
+        {
+            "charBegin": 718,
+            "charEnd": 719,
+            "id": 109,
+            "sentence": 7,
+            "text": "„",
+            "word": 5
+        },
+        {
+            "charBegin": 719,
+            "charEnd": 722,
+            "id": 110,
+            "sentence": 7,
+            "text": "Ich",
+            "word": 6
+        },
+        {
+            "charBegin": 723,
+            "charEnd": 728,
+            "id": 111,
+            "sentence": 7,
+            "text": "wurde",
+            "word": 7
+        },
+        {
+            "charBegin": 729,
+            "charEnd": 734,
+            "id": 112,
+            "sentence": 7,
+            "text": "nicht",
+            "word": 8
+        },
+        {
+            "charBegin": 735,
+            "charEnd": 738,
+            "id": 113,
+            "sentence": 7,
+            "text": "als",
+            "word": 9
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 748,
+            "id": 114,
+            "sentence": 7,
+            "text": "Kanzlerin",
+            "word": 10
+        },
+        {
+            "charBegin": 749,
+            "charEnd": 756,
+            "id": 115,
+            "sentence": 7,
+            "text": "geboren",
+            "word": 11
+        },
+        {
+            "charBegin": 756,
+            "charEnd": 757,
+            "id": 116,
+            "sentence": 7,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 758,
+            "charEnd": 761,
+            "id": 117,
+            "sentence": 7,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 762,
+            "charEnd": 765,
+            "id": 118,
+            "sentence": 7,
+            "text": "das",
+            "word": 14
+        },
+        {
+            "charBegin": 766,
+            "charEnd": 770,
+            "id": 119,
+            "sentence": 7,
+            "text": "habe",
+            "word": 15
+        },
+        {
+            "charBegin": 771,
+            "charEnd": 774,
+            "id": 120,
+            "sentence": 7,
+            "text": "ich",
+            "word": 16
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 778,
+            "id": 121,
+            "sentence": 7,
+            "text": "nie",
+            "word": 17
+        },
+        {
+            "charBegin": 779,
+            "charEnd": 788,
+            "id": 122,
+            "sentence": 7,
+            "text": "vergessen",
+            "word": 18
+        },
+        {
+            "charBegin": 788,
+            "charEnd": 789,
+            "id": 123,
+            "sentence": 7,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 789,
+            "charEnd": 790,
+            "id": 124,
+            "sentence": 7,
+            "text": "“",
+            "word": 20
+        },
+        {
+            "charBegin": 793,
+            "charEnd": 796,
+            "id": 125,
+            "sentence": 8,
+            "text": "Als",
+            "word": 1
+        },
+        {
+            "charBegin": 797,
+            "charEnd": 805,
+            "id": 126,
+            "sentence": 8,
+            "text": "mögliche",
+            "word": 2
+        },
+        {
+            "charBegin": 806,
+            "charEnd": 816,
+            "id": 127,
+            "sentence": 8,
+            "text": "Nachfolger",
+            "word": 3
+        },
+        {
+            "charBegin": 817,
+            "charEnd": 824,
+            "id": 128,
+            "sentence": 8,
+            "text": "Merkels",
+            "word": 4
+        },
+        {
+            "charBegin": 825,
+            "charEnd": 828,
+            "id": 129,
+            "sentence": 8,
+            "text": "für",
+            "word": 5
+        },
+        {
+            "charBegin": 829,
+            "charEnd": 832,
+            "id": 130,
+            "sentence": 8,
+            "text": "den",
+            "word": 6
+        },
+        {
+            "charBegin": 833,
+            "charEnd": 844,
+            "id": 131,
+            "sentence": 8,
+            "text": "CDU-Vorsitz",
+            "word": 7
+        },
+        {
+            "charBegin": 845,
+            "charEnd": 850,
+            "id": 132,
+            "sentence": 8,
+            "text": "haben",
+            "word": 8
+        },
+        {
+            "charBegin": 851,
+            "charEnd": 855,
+            "id": 133,
+            "sentence": 8,
+            "text": "sich",
+            "word": 9
+        },
+        {
+            "charBegin": 856,
+            "charEnd": 863,
+            "id": 134,
+            "sentence": 8,
+            "text": "bereits",
+            "word": 10
+        },
+        {
+            "charBegin": 864,
+            "charEnd": 868,
+            "id": 135,
+            "sentence": 8,
+            "text": "drei",
+            "word": 11
+        },
+        {
+            "charBegin": 869,
+            "charEnd": 879,
+            "id": 136,
+            "sentence": 8,
+            "text": "Kandidaten",
+            "word": 12
+        },
+        {
+            "charBegin": 880,
+            "charEnd": 888,
+            "id": 137,
+            "sentence": 8,
+            "text": "gemeldet",
+            "word": 13
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 889,
+            "id": 138,
+            "sentence": 8,
+            "text": ":",
+            "word": 14
+        },
+        {
+            "charBegin": 890,
+            "charEnd": 898,
+            "id": 139,
+            "sentence": 8,
+            "text": "Annegret",
+            "word": 15
+        },
+        {
+            "charBegin": 899,
+            "charEnd": 916,
+            "id": 140,
+            "sentence": 8,
+            "text": "Kramp-Karrenbauer",
+            "word": 16
+        },
+        {
+            "charBegin": 916,
+            "charEnd": 917,
+            "id": 141,
+            "sentence": 8,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 918,
+            "charEnd": 922,
+            "id": 142,
+            "sentence": 8,
+            "text": "Jens",
+            "word": 18
+        },
+        {
+            "charBegin": 923,
+            "charEnd": 928,
+            "id": 143,
+            "sentence": 8,
+            "text": "Spahn",
+            "word": 19
+        },
+        {
+            "charBegin": 929,
+            "charEnd": 932,
+            "id": 144,
+            "sentence": 8,
+            "text": "und",
+            "word": 20
+        },
+        {
+            "charBegin": 933,
+            "charEnd": 942,
+            "id": 145,
+            "sentence": 8,
+            "text": "Friedrich",
+            "word": 21
+        },
+        {
+            "charBegin": 943,
+            "charEnd": 947,
+            "id": 146,
+            "sentence": 8,
+            "text": "Merz",
+            "word": 22
+        },
+        {
+            "charBegin": 947,
+            "charEnd": 948,
+            "id": 147,
+            "sentence": 8,
+            "text": ".",
+            "word": 23
+        }
+    ]
+}

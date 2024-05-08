@@ -1,0 +1,6287 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 254,
+                        "charBegin": 1767,
+                        "charEnd": 1781,
+                        "end": 256
+                    }
+                ],
+                "text": "erinnerte sich",
+                "tokenIds": [
+                    254,
+                    255
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 253,
+                        "charBegin": 1765,
+                        "charEnd": 1796,
+                        "end": 258
+                    }
+                ],
+                "text": ", erinnerte sich Trotnow später",
+                "tokenIds": [
+                    253,
+                    254,
+                    255,
+                    256,
+                    257
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 227,
+                        "charBegin": 1601,
+                        "charEnd": 1765,
+                        "end": 253
+                    }
+                ],
+                "text": "„Kontraproduktiv waren sicherlich auch einige Kollegen in der Klinik, die uns für verrückt hielten, und das gelegentlich die jüngeren Team-Mitglieder spüren ließen“",
+                "tokenIds": [
+                    227,
+                    228,
+                    229,
+                    230,
+                    231,
+                    232,
+                    233,
+                    234,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241,
+                    242,
+                    243,
+                    244,
+                    245,
+                    246,
+                    247,
+                    248,
+                    249,
+                    250,
+                    251,
+                    252
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 256,
+                        "charBegin": 1782,
+                        "charEnd": 1789,
+                        "end": 257
+                    }
+                ],
+                "text": "Trotnow",
+                "tokenIds": [
+                    256
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 378,
+                        "charBegin": 2573,
+                        "charEnd": 2577,
+                        "end": 379
+                    }
+                ],
+                "text": "laut",
+                "tokenIds": [
+                    378
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 378,
+                        "charBegin": 2573,
+                        "charEnd": 2623,
+                        "end": 385
+                    }
+                ],
+                "text": "laut Klinikdirektor Prof. Dr. Matthias W. Beckmann",
+                "tokenIds": [
+                    378,
+                    379,
+                    380,
+                    381,
+                    382,
+                    383,
+                    384
+                ]
+            },
+            "hasNested": true,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 375,
+                        "charBegin": 2559,
+                        "charEnd": 2572,
+                        "end": 378
+                    },
+                    {
+                        "begin": 385,
+                        "charBegin": 2624,
+                        "charEnd": 2701,
+                        "end": 402
+                    }
+                ],
+                "text": "und man damit „jetzt Paaren helfen [kann], deren Behandlung vor 30 Jahren kaum denkbar war“",
+                "tokenIds": [
+                    375,
+                    376,
+                    377,
+                    385,
+                    386,
+                    387,
+                    388,
+                    389,
+                    390,
+                    391,
+                    392,
+                    393,
+                    394,
+                    395,
+                    396,
+                    397,
+                    398,
+                    399,
+                    400,
+                    401
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 379,
+                        "charBegin": 2578,
+                        "charEnd": 2623,
+                        "end": 385
+                    }
+                ],
+                "text": "Klinikdirektor Prof. Dr. Matthias W. Beckmann",
+                "tokenIds": [
+                    379,
+                    380,
+                    381,
+                    382,
+                    383,
+                    384
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 378,
+                        "charBegin": 2573,
+                        "charEnd": 2577,
+                        "end": 379
+                    }
+                ],
+                "text": "laut",
+                "tokenIds": [
+                    378
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 378,
+                        "charBegin": 2573,
+                        "charEnd": 2623,
+                        "end": 385
+                    }
+                ],
+                "text": "laut Klinikdirektor Prof. Dr. Matthias W. Beckmann",
+                "tokenIds": [
+                    378,
+                    379,
+                    380,
+                    381,
+                    382,
+                    383,
+                    384
+                ]
+            },
+            "hasNested": true,
+            "id": 2,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 385,
+                        "charBegin": 2624,
+                        "charEnd": 2701,
+                        "end": 402
+                    }
+                ],
+                "text": "„jetzt Paaren helfen [kann], deren Behandlung vor 30 Jahren kaum denkbar war“",
+                "tokenIds": [
+                    385,
+                    386,
+                    387,
+                    388,
+                    389,
+                    390,
+                    391,
+                    392,
+                    393,
+                    394,
+                    395,
+                    396,
+                    397,
+                    398,
+                    399,
+                    400,
+                    401
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 379,
+                        "charBegin": 2578,
+                        "charEnd": 2623,
+                        "end": 385
+                    }
+                ],
+                "text": "Klinikdirektor Prof. Dr. Matthias W. Beckmann",
+                "tokenIds": [
+                    379,
+                    380,
+                    381,
+                    382,
+                    383,
+                    384
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 460,
+                        "charBegin": 3065,
+                        "charEnd": 3070,
+                        "end": 461
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    460
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 460,
+                        "charBegin": 3065,
+                        "charEnd": 3089,
+                        "end": 463
+                    }
+                ],
+                "text": "sagte Professor Beckmann",
+                "tokenIds": [
+                    460,
+                    461,
+                    462
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 428,
+                        "charBegin": 2877,
+                        "charEnd": 3064,
+                        "end": 460
+                    }
+                ],
+                "text": "„Diese Frauen müssen bisher oft auf eigenen Nachwuchs verzichten, weil die Behandlung sie zwar geheilt hat, die Eierstöcke aber durch die nötigen Medikamente auf Dauer geschädigt wurden,“",
+                "tokenIds": [
+                    428,
+                    429,
+                    430,
+                    431,
+                    432,
+                    433,
+                    434,
+                    435,
+                    436,
+                    437,
+                    438,
+                    439,
+                    440,
+                    441,
+                    442,
+                    443,
+                    444,
+                    445,
+                    446,
+                    447,
+                    448,
+                    449,
+                    450,
+                    451,
+                    452,
+                    453,
+                    454,
+                    455,
+                    456,
+                    457,
+                    458,
+                    459
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 461,
+                        "charBegin": 3071,
+                        "charEnd": 3089,
+                        "end": 463
+                    }
+                ],
+                "text": "Professor Beckmann",
+                "tokenIds": [
+                    461,
+                    462
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 464,
+                        "charBegin": 3091,
+                        "charEnd": 3094,
+                        "end": 465
+                    },
+                    {
+                        "begin": 471,
+                        "charBegin": 3142,
+                        "charEnd": 3150,
+                        "end": 472
+                    }
+                ],
+                "text": "Wie erklärte",
+                "tokenIds": [
+                    464,
+                    471
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 464,
+                        "charBegin": 3091,
+                        "charEnd": 3151,
+                        "end": 473
+                    }
+                ],
+                "text": "Wie Privatdozent Dr. Dittrich aus dem Forscherteam erklärte,",
+                "tokenIds": [
+                    464,
+                    465,
+                    466,
+                    467,
+                    468,
+                    469,
+                    470,
+                    471,
+                    472
+                ]
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 473,
+                        "charBegin": 3152,
+                        "charEnd": 3218,
+                        "end": 482
+                    }
+                ],
+                "text": "entnimmt man dazu den Frauen vor der Krebstherapie Eierstockgewebe",
+                "tokenIds": [
+                    473,
+                    474,
+                    475,
+                    476,
+                    477,
+                    478,
+                    479,
+                    480,
+                    481
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 465,
+                        "charBegin": 3095,
+                        "charEnd": 3141,
+                        "end": 471
+                    }
+                ],
+                "text": "Privatdozent Dr. Dittrich aus dem Forscherteam",
+                "tokenIds": [
+                    465,
+                    466,
+                    467,
+                    468,
+                    469,
+                    470
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 5,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 504,
+                        "charBegin": 3381,
+                        "charEnd": 3450,
+                        "end": 514
+                    }
+                ],
+                "text": "rechnet Dr. Dittrich mit einem zunehmenden Bedarf an diesem Verfahren",
+                "tokenIds": [
+                    504,
+                    505,
+                    506,
+                    507,
+                    508,
+                    509,
+                    510,
+                    511,
+                    512,
+                    513
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 505,
+                        "charBegin": 3389,
+                        "charEnd": 3401,
+                        "end": 507
+                    }
+                ],
+                "text": "Dr. Dittrich",
+                "tokenIds": [
+                    505,
+                    506
+                ]
+            },
+            "type": "Reported"
+        }
+    ],
+    "documentName": "40269 - Vor 25 Jahren: Erstes deutsches Retortenbaby erblickt das Licht der Welt (2007-04-11)",
+    "originalText": "In der Universitätsfrauenklinik Erlangen erblickt am 16. April 1982 um 14:49 Uhr der kleine Oliver das Licht der Welt. Das Baby wiegt 4.150 Gramm. Oliver ist ein ganz normaler Neugeborener – und doch eine Sensation, deretwegen Journalisten seinerzeit tagelang die Erlanger Klinik belagert hatten: Oliver ist der Beweis dafür, dass deutschen Medizinern erstmals eine künstliche Befruchtung außerhalb des weiblichen Körpers gelungen ist.\n\nDer im April 2005 verstorbene Erlanger Frauenarzt und Reproduktionsmediziner Prof. Dr. Siegfried Trotnow hatte mit seinem Team, dem Spezialisten vieler verschiedener Fachrichtungen wie der Tiermediziner Professor Dr. Safaa Al-Hasani und die Biologin Dr. Tatjana Kniewald angehörten,  entscheidend dazu beigetragen, dass sich die In-vitro-Fertilisation in Deutschland rasch etablieren konnte und Zehntausende ungewollt kinderloser Frauen neue Hoffnung schöpfen konnten. Dabei halfen dem Wissenschaftlerteam die umfangreichen Vorarbeiten, die der Erlanger Gynäkologe Professor Dr. Klaus-Georg Bregulla schon in den 60-er Jahren durchgeführt hatte, lange bevor 1978 in England Louise Brown, das weltweit erste Retortenbaby, geboren wurde. Diese frühen Forschungen verschafften dem Erlanger Team einen entscheidenen Vorsprung vor den anderen Forschergruppen, die in Deutschland ebenfalls auf diesem Gebiet arbeiteten.\n\nDabei musste die Forschung an der Methode zur künstlichen Befruchtung anfangs viele Widerstände überwinden. Die Deutsche Forschungsgemeinschaft zum Beispiel hatte zwischen 1969 und 1981 alle Anträge auf finanzielle Förderung der Arbeiten abgelehnt. „Kontraproduktiv waren sicherlich auch einige Kollegen in der Klinik, die uns für verrückt hielten, und das gelegentlich die jüngeren Team-Mitglieder spüren ließen“, erinnerte sich Trotnow später.\n\nNach dem ersten großen Erfolg wurde die Methode der In-Vitro-Fertilisation rasch verfeinert und ist heute eines der Standardverfahren in der Reproduktionsmedizin, das in über 100 Behandlungszentren in Deutschland angewandt wird. Seit der Geburt des ersten Retortenbabys sind in Deutschland fast 100.000 Kinder nach einer künstlichen Befruchtung zur Welt gekommen. Allerdings werden seit der Gesundheitsreform von 2003 die Kosten für eine solche Behandlung nur noch zur Hälfte von den Krankenkassen übernommen. Hierdurch nahm die Zahl der hilfesuchenden Personen, die zuvor stetig angestiegen war, erstmals ab und ging von 80.000 Behandlungen im Jahr 2003 auf 40.000 im Jahr 2004 zurück.\n\nNachdem die künstliche Befruchtung ihren Weg in die Praxis gefunden hat und man damit laut Klinikdirektor Prof. Dr. Matthias W. Beckmann „jetzt Paaren helfen [kann], deren Behandlung vor 30 Jahren kaum denkbar war“, suchen die Reproduktionsforscher an der Erlanger Universitätsklinik inzwischen nach einem Weg, der es jungen krebskranken Frauen ermöglichen soll, eigene Kinder zu bekommen. „Diese Frauen müssen bisher oft auf eigenen Nachwuchs verzichten, weil die Behandlung sie zwar geheilt hat, die Eierstöcke aber durch die nötigen Medikamente auf Dauer geschädigt wurden,“ sagte Professor Beckmann. Wie Privatdozent Dr. Dittrich aus dem Forscherteam erklärte, entnimmt man dazu den Frauen vor der Krebstherapie Eierstockgewebe. Dieses Gewebe wird eingefroren und nach Beendigung der Therapie retransplantiert. Da Krebsbehandlungen bei jungen Menschen immer häufiger erfolgreich verlaufen, rechnet Dr. Dittrich mit einem zunehmenden Bedarf an diesem Verfahren. In der Erlanger Gewebedatenbank warteten Ende 2006 schon 100 Gewebeproben darauf, ihren Besitzerinnen wieder eingepflanzt zu werden. Weltweit konnten durch diese Methode aber bisher nur zwei Schwangerschaften  herbeigeführt werden.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 118,
+            "end": 20,
+            "id": 0,
+            "text": "In der Universitätsfrauenklinik Erlangen erblickt am 16. April 1982 um 14:49 Uhr der kleine Oliver das Licht der Welt. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "tokens": [
+                "In",
+                "der",
+                "Universitätsfrauenklinik",
+                "Erlangen",
+                "erblickt",
+                "am",
+                "16.",
+                "April",
+                "1982",
+                "um",
+                "14:49",
+                "Uhr",
+                "der",
+                "kleine",
+                "Oliver",
+                "das",
+                "Licht",
+                "der",
+                "Welt",
+                "."
+            ]
+        },
+        {
+            "begin": 20,
+            "charBegin": 119,
+            "charEnd": 146,
+            "end": 26,
+            "id": 1,
+            "text": "Das Baby wiegt 4.150 Gramm. ",
+            "tokenIds": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "tokens": [
+                "Das",
+                "Baby",
+                "wiegt",
+                "4.150",
+                "Gramm",
+                "."
+            ]
+        },
+        {
+            "begin": 26,
+            "charBegin": 147,
+            "charEnd": 296,
+            "end": 48,
+            "id": 2,
+            "text": "Oliver ist ein ganz normaler Neugeborener – und doch eine Sensation, deretwegen Journalisten seinerzeit tagelang die Erlanger Klinik belagert hatten: ",
+            "tokenIds": [
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "tokens": [
+                "Oliver",
+                "ist",
+                "ein",
+                "ganz",
+                "normaler",
+                "Neugeborener",
+                "–",
+                "und",
+                "doch",
+                "eine",
+                "Sensation",
+                ",",
+                "deretwegen",
+                "Journalisten",
+                "seinerzeit",
+                "tagelang",
+                "die",
+                "Erlanger",
+                "Klinik",
+                "belagert",
+                "hatten",
+                ":"
+            ]
+        },
+        {
+            "begin": 48,
+            "charBegin": 297,
+            "charEnd": 435,
+            "end": 68,
+            "id": 3,
+            "text": "Oliver ist der Beweis dafür, dass deutschen Medizinern erstmals eine künstliche Befruchtung außerhalb des weiblichen Körpers gelungen ist.",
+            "tokenIds": [
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67
+            ],
+            "tokens": [
+                "Oliver",
+                "ist",
+                "der",
+                "Beweis",
+                "dafür",
+                ",",
+                "dass",
+                "deutschen",
+                "Medizinern",
+                "erstmals",
+                "eine",
+                "künstliche",
+                "Befruchtung",
+                "außerhalb",
+                "des",
+                "weiblichen",
+                "Körpers",
+                "gelungen",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "begin": 68,
+            "charBegin": 437,
+            "charEnd": 905,
+            "end": 129,
+            "id": 4,
+            "text": "Der im April 2005 verstorbene Erlanger Frauenarzt und Reproduktionsmediziner Prof. Dr. Siegfried Trotnow hatte mit seinem Team, dem Spezialisten vieler verschiedener Fachrichtungen wie der Tiermediziner Professor Dr. Safaa Al-Hasani und die Biologin Dr. Tatjana Kniewald angehörten,  entscheidend dazu beigetragen, dass sich die In-vitro-Fertilisation in Deutschland rasch etablieren konnte und Zehntausende ungewollt kinderloser Frauen neue Hoffnung schöpfen konnten. ",
+            "tokenIds": [
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128
+            ],
+            "tokens": [
+                "Der",
+                "im",
+                "April",
+                "2005",
+                "verstorbene",
+                "Erlanger",
+                "Frauenarzt",
+                "und",
+                "Reproduktionsmediziner",
+                "Prof.",
+                "Dr.",
+                "Siegfried",
+                "Trotnow",
+                "hatte",
+                "mit",
+                "seinem",
+                "Team",
+                ",",
+                "dem",
+                "Spezialisten",
+                "vieler",
+                "verschiedener",
+                "Fachrichtungen",
+                "wie",
+                "der",
+                "Tiermediziner",
+                "Professor",
+                "Dr.",
+                "Safaa",
+                "Al-Hasani",
+                "und",
+                "die",
+                "Biologin",
+                "Dr.",
+                "Tatjana",
+                "Kniewald",
+                "angehörten",
+                ",",
+                "entscheidend",
+                "dazu",
+                "beigetragen",
+                ",",
+                "dass",
+                "sich",
+                "die",
+                "In-vitro-Fertilisation",
+                "in",
+                "Deutschland",
+                "rasch",
+                "etablieren",
+                "konnte",
+                "und",
+                "Zehntausende",
+                "ungewollt",
+                "kinderloser",
+                "Frauen",
+                "neue",
+                "Hoffnung",
+                "schöpfen",
+                "konnten",
+                "."
+            ]
+        },
+        {
+            "begin": 129,
+            "charBegin": 906,
+            "charEnd": 1172,
+            "end": 169,
+            "id": 5,
+            "text": "Dabei halfen dem Wissenschaftlerteam die umfangreichen Vorarbeiten, die der Erlanger Gynäkologe Professor Dr. Klaus-Georg Bregulla schon in den 60-er Jahren durchgeführt hatte, lange bevor 1978 in England Louise Brown, das weltweit erste Retortenbaby, geboren wurde. ",
+            "tokenIds": [
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168
+            ],
+            "tokens": [
+                "Dabei",
+                "halfen",
+                "dem",
+                "Wissenschaftlerteam",
+                "die",
+                "umfangreichen",
+                "Vorarbeiten",
+                ",",
+                "die",
+                "der",
+                "Erlanger",
+                "Gynäkologe",
+                "Professor",
+                "Dr.",
+                "Klaus-Georg",
+                "Bregulla",
+                "schon",
+                "in",
+                "den",
+                "60-er",
+                "Jahren",
+                "durchgeführt",
+                "hatte",
+                ",",
+                "lange",
+                "bevor",
+                "1978",
+                "in",
+                "England",
+                "Louise",
+                "Brown",
+                ",",
+                "das",
+                "weltweit",
+                "erste",
+                "Retortenbaby",
+                ",",
+                "geboren",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "begin": 169,
+            "charBegin": 1173,
+            "charEnd": 1350,
+            "end": 193,
+            "id": 6,
+            "text": "Diese frühen Forschungen verschafften dem Erlanger Team einen entscheidenen Vorsprung vor den anderen Forschergruppen, die in Deutschland ebenfalls auf diesem Gebiet arbeiteten.",
+            "tokenIds": [
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192
+            ],
+            "tokens": [
+                "Diese",
+                "frühen",
+                "Forschungen",
+                "verschafften",
+                "dem",
+                "Erlanger",
+                "Team",
+                "einen",
+                "entscheidenen",
+                "Vorsprung",
+                "vor",
+                "den",
+                "anderen",
+                "Forschergruppen",
+                ",",
+                "die",
+                "in",
+                "Deutschland",
+                "ebenfalls",
+                "auf",
+                "diesem",
+                "Gebiet",
+                "arbeiteten",
+                "."
+            ]
+        },
+        {
+            "begin": 193,
+            "charBegin": 1352,
+            "charEnd": 1459,
+            "end": 208,
+            "id": 7,
+            "text": "Dabei musste die Forschung an der Methode zur künstlichen Befruchtung anfangs viele Widerstände überwinden. ",
+            "tokenIds": [
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207
+            ],
+            "tokens": [
+                "Dabei",
+                "musste",
+                "die",
+                "Forschung",
+                "an",
+                "der",
+                "Methode",
+                "zur",
+                "künstlichen",
+                "Befruchtung",
+                "anfangs",
+                "viele",
+                "Widerstände",
+                "überwinden",
+                "."
+            ]
+        },
+        {
+            "begin": 208,
+            "charBegin": 1460,
+            "charEnd": 1600,
+            "end": 227,
+            "id": 8,
+            "text": "Die Deutsche Forschungsgemeinschaft zum Beispiel hatte zwischen 1969 und 1981 alle Anträge auf finanzielle Förderung der Arbeiten abgelehnt. ",
+            "tokenIds": [
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226
+            ],
+            "tokens": [
+                "Die",
+                "Deutsche",
+                "Forschungsgemeinschaft",
+                "zum",
+                "Beispiel",
+                "hatte",
+                "zwischen",
+                "1969",
+                "und",
+                "1981",
+                "alle",
+                "Anträge",
+                "auf",
+                "finanzielle",
+                "Förderung",
+                "der",
+                "Arbeiten",
+                "abgelehnt",
+                "."
+            ]
+        },
+        {
+            "begin": 227,
+            "charBegin": 1601,
+            "charEnd": 1797,
+            "end": 259,
+            "id": 9,
+            "text": "„Kontraproduktiv waren sicherlich auch einige Kollegen in der Klinik, die uns für verrückt hielten, und das gelegentlich die jüngeren Team-Mitglieder spüren ließen“, erinnerte sich Trotnow später.",
+            "tokenIds": [
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255,
+                256,
+                257,
+                258
+            ],
+            "tokens": [
+                "„",
+                "Kontraproduktiv",
+                "waren",
+                "sicherlich",
+                "auch",
+                "einige",
+                "Kollegen",
+                "in",
+                "der",
+                "Klinik",
+                ",",
+                "die",
+                "uns",
+                "für",
+                "verrückt",
+                "hielten",
+                ",",
+                "und",
+                "das",
+                "gelegentlich",
+                "die",
+                "jüngeren",
+                "Team-Mitglieder",
+                "spüren",
+                "ließen",
+                "“",
+                ",",
+                "erinnerte",
+                "sich",
+                "Trotnow",
+                "später",
+                "."
+            ]
+        },
+        {
+            "begin": 259,
+            "charBegin": 1799,
+            "charEnd": 2027,
+            "end": 291,
+            "id": 10,
+            "text": "Nach dem ersten großen Erfolg wurde die Methode der In-Vitro-Fertilisation rasch verfeinert und ist heute eines der Standardverfahren in der Reproduktionsmedizin, das in über 100 Behandlungszentren in Deutschland angewandt wird. ",
+            "tokenIds": [
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273,
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290
+            ],
+            "tokens": [
+                "Nach",
+                "dem",
+                "ersten",
+                "großen",
+                "Erfolg",
+                "wurde",
+                "die",
+                "Methode",
+                "der",
+                "In-Vitro-Fertilisation",
+                "rasch",
+                "verfeinert",
+                "und",
+                "ist",
+                "heute",
+                "eines",
+                "der",
+                "Standardverfahren",
+                "in",
+                "der",
+                "Reproduktionsmedizin",
+                ",",
+                "das",
+                "in",
+                "über",
+                "100",
+                "Behandlungszentren",
+                "in",
+                "Deutschland",
+                "angewandt",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "begin": 291,
+            "charBegin": 2028,
+            "charEnd": 2162,
+            "end": 311,
+            "id": 11,
+            "text": "Seit der Geburt des ersten Retortenbabys sind in Deutschland fast 100.000 Kinder nach einer künstlichen Befruchtung zur Welt gekommen. ",
+            "tokenIds": [
+                291,
+                292,
+                293,
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306,
+                307,
+                308,
+                309,
+                310
+            ],
+            "tokens": [
+                "Seit",
+                "der",
+                "Geburt",
+                "des",
+                "ersten",
+                "Retortenbabys",
+                "sind",
+                "in",
+                "Deutschland",
+                "fast",
+                "100.000",
+                "Kinder",
+                "nach",
+                "einer",
+                "künstlichen",
+                "Befruchtung",
+                "zur",
+                "Welt",
+                "gekommen",
+                "."
+            ]
+        },
+        {
+            "begin": 311,
+            "charBegin": 2163,
+            "charEnd": 2308,
+            "end": 333,
+            "id": 12,
+            "text": "Allerdings werden seit der Gesundheitsreform von 2003 die Kosten für eine solche Behandlung nur noch zur Hälfte von den Krankenkassen übernommen. ",
+            "tokenIds": [
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322,
+                323,
+                324,
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332
+            ],
+            "tokens": [
+                "Allerdings",
+                "werden",
+                "seit",
+                "der",
+                "Gesundheitsreform",
+                "von",
+                "2003",
+                "die",
+                "Kosten",
+                "für",
+                "eine",
+                "solche",
+                "Behandlung",
+                "nur",
+                "noch",
+                "zur",
+                "Hälfte",
+                "von",
+                "den",
+                "Krankenkassen",
+                "übernommen",
+                "."
+            ]
+        },
+        {
+            "begin": 333,
+            "charBegin": 2309,
+            "charEnd": 2485,
+            "end": 364,
+            "id": 13,
+            "text": "Hierdurch nahm die Zahl der hilfesuchenden Personen, die zuvor stetig angestiegen war, erstmals ab und ging von 80.000 Behandlungen im Jahr 2003 auf 40.000 im Jahr 2004 zurück.",
+            "tokenIds": [
+                333,
+                334,
+                335,
+                336,
+                337,
+                338,
+                339,
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346,
+                347,
+                348,
+                349,
+                350,
+                351,
+                352,
+                353,
+                354,
+                355,
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363
+            ],
+            "tokens": [
+                "Hierdurch",
+                "nahm",
+                "die",
+                "Zahl",
+                "der",
+                "hilfesuchenden",
+                "Personen",
+                ",",
+                "die",
+                "zuvor",
+                "stetig",
+                "angestiegen",
+                "war",
+                ",",
+                "erstmals",
+                "ab",
+                "und",
+                "ging",
+                "von",
+                "80.000",
+                "Behandlungen",
+                "im",
+                "Jahr",
+                "2003",
+                "auf",
+                "40.000",
+                "im",
+                "Jahr",
+                "2004",
+                "zurück",
+                "."
+            ]
+        },
+        {
+            "begin": 364,
+            "charBegin": 2487,
+            "charEnd": 2876,
+            "end": 428,
+            "id": 14,
+            "text": "Nachdem die künstliche Befruchtung ihren Weg in die Praxis gefunden hat und man damit laut Klinikdirektor Prof. Dr. Matthias W. Beckmann „jetzt Paaren helfen [kann], deren Behandlung vor 30 Jahren kaum denkbar war“, suchen die Reproduktionsforscher an der Erlanger Universitätsklinik inzwischen nach einem Weg, der es jungen krebskranken Frauen ermöglichen soll, eigene Kinder zu bekommen. ",
+            "tokenIds": [
+                364,
+                365,
+                366,
+                367,
+                368,
+                369,
+                370,
+                371,
+                372,
+                373,
+                374,
+                375,
+                376,
+                377,
+                378,
+                379,
+                380,
+                381,
+                382,
+                383,
+                384,
+                385,
+                386,
+                387,
+                388,
+                389,
+                390,
+                391,
+                392,
+                393,
+                394,
+                395,
+                396,
+                397,
+                398,
+                399,
+                400,
+                401,
+                402,
+                403,
+                404,
+                405,
+                406,
+                407,
+                408,
+                409,
+                410,
+                411,
+                412,
+                413,
+                414,
+                415,
+                416,
+                417,
+                418,
+                419,
+                420,
+                421,
+                422,
+                423,
+                424,
+                425,
+                426,
+                427
+            ],
+            "tokens": [
+                "Nachdem",
+                "die",
+                "künstliche",
+                "Befruchtung",
+                "ihren",
+                "Weg",
+                "in",
+                "die",
+                "Praxis",
+                "gefunden",
+                "hat",
+                "und",
+                "man",
+                "damit",
+                "laut",
+                "Klinikdirektor",
+                "Prof.",
+                "Dr.",
+                "Matthias",
+                "W.",
+                "Beckmann",
+                "„",
+                "jetzt",
+                "Paaren",
+                "helfen",
+                "[",
+                "kann",
+                "]",
+                ",",
+                "deren",
+                "Behandlung",
+                "vor",
+                "30",
+                "Jahren",
+                "kaum",
+                "denkbar",
+                "war",
+                "“",
+                ",",
+                "suchen",
+                "die",
+                "Reproduktionsforscher",
+                "an",
+                "der",
+                "Erlanger",
+                "Universitätsklinik",
+                "inzwischen",
+                "nach",
+                "einem",
+                "Weg",
+                ",",
+                "der",
+                "es",
+                "jungen",
+                "krebskranken",
+                "Frauen",
+                "ermöglichen",
+                "soll",
+                ",",
+                "eigene",
+                "Kinder",
+                "zu",
+                "bekommen",
+                "."
+            ]
+        },
+        {
+            "begin": 428,
+            "charBegin": 2877,
+            "charEnd": 3090,
+            "end": 464,
+            "id": 15,
+            "text": "„Diese Frauen müssen bisher oft auf eigenen Nachwuchs verzichten, weil die Behandlung sie zwar geheilt hat, die Eierstöcke aber durch die nötigen Medikamente auf Dauer geschädigt wurden,“ sagte Professor Beckmann. ",
+            "tokenIds": [
+                428,
+                429,
+                430,
+                431,
+                432,
+                433,
+                434,
+                435,
+                436,
+                437,
+                438,
+                439,
+                440,
+                441,
+                442,
+                443,
+                444,
+                445,
+                446,
+                447,
+                448,
+                449,
+                450,
+                451,
+                452,
+                453,
+                454,
+                455,
+                456,
+                457,
+                458,
+                459,
+                460,
+                461,
+                462,
+                463
+            ],
+            "tokens": [
+                "„",
+                "Diese",
+                "Frauen",
+                "müssen",
+                "bisher",
+                "oft",
+                "auf",
+                "eigenen",
+                "Nachwuchs",
+                "verzichten",
+                ",",
+                "weil",
+                "die",
+                "Behandlung",
+                "sie",
+                "zwar",
+                "geheilt",
+                "hat",
+                ",",
+                "die",
+                "Eierstöcke",
+                "aber",
+                "durch",
+                "die",
+                "nötigen",
+                "Medikamente",
+                "auf",
+                "Dauer",
+                "geschädigt",
+                "wurden",
+                ",",
+                "“",
+                "sagte",
+                "Professor",
+                "Beckmann",
+                "."
+            ]
+        },
+        {
+            "begin": 464,
+            "charBegin": 3091,
+            "charEnd": 3219,
+            "end": 483,
+            "id": 16,
+            "text": "Wie Privatdozent Dr. Dittrich aus dem Forscherteam erklärte, entnimmt man dazu den Frauen vor der Krebstherapie Eierstockgewebe. ",
+            "tokenIds": [
+                464,
+                465,
+                466,
+                467,
+                468,
+                469,
+                470,
+                471,
+                472,
+                473,
+                474,
+                475,
+                476,
+                477,
+                478,
+                479,
+                480,
+                481,
+                482
+            ],
+            "tokens": [
+                "Wie",
+                "Privatdozent",
+                "Dr.",
+                "Dittrich",
+                "aus",
+                "dem",
+                "Forscherteam",
+                "erklärte",
+                ",",
+                "entnimmt",
+                "man",
+                "dazu",
+                "den",
+                "Frauen",
+                "vor",
+                "der",
+                "Krebstherapie",
+                "Eierstockgewebe",
+                "."
+            ]
+        },
+        {
+            "begin": 483,
+            "charBegin": 3220,
+            "charEnd": 3301,
+            "end": 494,
+            "id": 17,
+            "text": "Dieses Gewebe wird eingefroren und nach Beendigung der Therapie retransplantiert. ",
+            "tokenIds": [
+                483,
+                484,
+                485,
+                486,
+                487,
+                488,
+                489,
+                490,
+                491,
+                492,
+                493
+            ],
+            "tokens": [
+                "Dieses",
+                "Gewebe",
+                "wird",
+                "eingefroren",
+                "und",
+                "nach",
+                "Beendigung",
+                "der",
+                "Therapie",
+                "retransplantiert",
+                "."
+            ]
+        },
+        {
+            "begin": 494,
+            "charBegin": 3302,
+            "charEnd": 3451,
+            "end": 515,
+            "id": 18,
+            "text": "Da Krebsbehandlungen bei jungen Menschen immer häufiger erfolgreich verlaufen, rechnet Dr. Dittrich mit einem zunehmenden Bedarf an diesem Verfahren. ",
+            "tokenIds": [
+                494,
+                495,
+                496,
+                497,
+                498,
+                499,
+                500,
+                501,
+                502,
+                503,
+                504,
+                505,
+                506,
+                507,
+                508,
+                509,
+                510,
+                511,
+                512,
+                513,
+                514
+            ],
+            "tokens": [
+                "Da",
+                "Krebsbehandlungen",
+                "bei",
+                "jungen",
+                "Menschen",
+                "immer",
+                "häufiger",
+                "erfolgreich",
+                "verlaufen",
+                ",",
+                "rechnet",
+                "Dr.",
+                "Dittrich",
+                "mit",
+                "einem",
+                "zunehmenden",
+                "Bedarf",
+                "an",
+                "diesem",
+                "Verfahren",
+                "."
+            ]
+        },
+        {
+            "begin": 515,
+            "charBegin": 3452,
+            "charEnd": 3584,
+            "end": 534,
+            "id": 19,
+            "text": "In der Erlanger Gewebedatenbank warteten Ende 2006 schon 100 Gewebeproben darauf, ihren Besitzerinnen wieder eingepflanzt zu werden. ",
+            "tokenIds": [
+                515,
+                516,
+                517,
+                518,
+                519,
+                520,
+                521,
+                522,
+                523,
+                524,
+                525,
+                526,
+                527,
+                528,
+                529,
+                530,
+                531,
+                532,
+                533
+            ],
+            "tokens": [
+                "In",
+                "der",
+                "Erlanger",
+                "Gewebedatenbank",
+                "warteten",
+                "Ende",
+                "2006",
+                "schon",
+                "100",
+                "Gewebeproben",
+                "darauf",
+                ",",
+                "ihren",
+                "Besitzerinnen",
+                "wieder",
+                "eingepflanzt",
+                "zu",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 534,
+            "charBegin": 3585,
+            "charEnd": 3683,
+            "end": 547,
+            "id": 20,
+            "text": "Weltweit konnten durch diese Methode aber bisher nur zwei Schwangerschaften  herbeigeführt werden.",
+            "tokenIds": [
+                534,
+                535,
+                536,
+                537,
+                538,
+                539,
+                540,
+                541,
+                542,
+                543,
+                544,
+                545,
+                546
+            ],
+            "tokens": [
+                "Weltweit",
+                "konnten",
+                "durch",
+                "diese",
+                "Methode",
+                "aber",
+                "bisher",
+                "nur",
+                "zwei",
+                "Schwangerschaften",
+                "herbeigeführt",
+                "werden",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 6,
+            "id": 1,
+            "sentence": 1,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 7,
+            "charEnd": 31,
+            "id": 2,
+            "sentence": 1,
+            "text": "Universitätsfrauenklinik",
+            "word": 3
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 40,
+            "id": 3,
+            "sentence": 1,
+            "text": "Erlangen",
+            "word": 4
+        },
+        {
+            "charBegin": 41,
+            "charEnd": 49,
+            "id": 4,
+            "sentence": 1,
+            "text": "erblickt",
+            "word": 5
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 52,
+            "id": 5,
+            "sentence": 1,
+            "text": "am",
+            "word": 6
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 56,
+            "id": 6,
+            "sentence": 1,
+            "text": "16.",
+            "word": 7
+        },
+        {
+            "charBegin": 57,
+            "charEnd": 62,
+            "id": 7,
+            "sentence": 1,
+            "text": "April",
+            "word": 8
+        },
+        {
+            "charBegin": 63,
+            "charEnd": 67,
+            "id": 8,
+            "sentence": 1,
+            "text": "1982",
+            "word": 9
+        },
+        {
+            "charBegin": 68,
+            "charEnd": 70,
+            "id": 9,
+            "sentence": 1,
+            "text": "um",
+            "word": 10
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 76,
+            "id": 10,
+            "sentence": 1,
+            "text": "14:49",
+            "word": 11
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 80,
+            "id": 11,
+            "sentence": 1,
+            "text": "Uhr",
+            "word": 12
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 84,
+            "id": 12,
+            "sentence": 1,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 91,
+            "id": 13,
+            "sentence": 1,
+            "text": "kleine",
+            "word": 14
+        },
+        {
+            "charBegin": 92,
+            "charEnd": 98,
+            "id": 14,
+            "sentence": 1,
+            "text": "Oliver",
+            "word": 15
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 102,
+            "id": 15,
+            "sentence": 1,
+            "text": "das",
+            "word": 16
+        },
+        {
+            "charBegin": 103,
+            "charEnd": 108,
+            "id": 16,
+            "sentence": 1,
+            "text": "Licht",
+            "word": 17
+        },
+        {
+            "charBegin": 109,
+            "charEnd": 112,
+            "id": 17,
+            "sentence": 1,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 113,
+            "charEnd": 117,
+            "id": 18,
+            "sentence": 1,
+            "text": "Welt",
+            "word": 19
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 118,
+            "id": 19,
+            "sentence": 1,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 119,
+            "charEnd": 122,
+            "id": 20,
+            "sentence": 2,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 127,
+            "id": 21,
+            "sentence": 2,
+            "text": "Baby",
+            "word": 2
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 133,
+            "id": 22,
+            "sentence": 2,
+            "text": "wiegt",
+            "word": 3
+        },
+        {
+            "charBegin": 134,
+            "charEnd": 139,
+            "id": 23,
+            "sentence": 2,
+            "text": "4.150",
+            "word": 4
+        },
+        {
+            "charBegin": 140,
+            "charEnd": 145,
+            "id": 24,
+            "sentence": 2,
+            "text": "Gramm",
+            "word": 5
+        },
+        {
+            "charBegin": 145,
+            "charEnd": 146,
+            "id": 25,
+            "sentence": 2,
+            "text": ".",
+            "word": 6
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 153,
+            "id": 26,
+            "sentence": 3,
+            "text": "Oliver",
+            "word": 1
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 157,
+            "id": 27,
+            "sentence": 3,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 161,
+            "id": 28,
+            "sentence": 3,
+            "text": "ein",
+            "word": 3
+        },
+        {
+            "charBegin": 162,
+            "charEnd": 166,
+            "id": 29,
+            "sentence": 3,
+            "text": "ganz",
+            "word": 4
+        },
+        {
+            "charBegin": 167,
+            "charEnd": 175,
+            "id": 30,
+            "sentence": 3,
+            "text": "normaler",
+            "word": 5
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 188,
+            "id": 31,
+            "sentence": 3,
+            "text": "Neugeborener",
+            "word": 6
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 190,
+            "id": 32,
+            "sentence": 3,
+            "text": "–",
+            "word": 7
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 194,
+            "id": 33,
+            "sentence": 3,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 195,
+            "charEnd": 199,
+            "id": 34,
+            "sentence": 3,
+            "text": "doch",
+            "word": 9
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 204,
+            "id": 35,
+            "sentence": 3,
+            "text": "eine",
+            "word": 10
+        },
+        {
+            "charBegin": 205,
+            "charEnd": 214,
+            "id": 36,
+            "sentence": 3,
+            "text": "Sensation",
+            "word": 11
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 215,
+            "id": 37,
+            "sentence": 3,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 216,
+            "charEnd": 226,
+            "id": 38,
+            "sentence": 3,
+            "text": "deretwegen",
+            "word": 13
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 239,
+            "id": 39,
+            "sentence": 3,
+            "text": "Journalisten",
+            "word": 14
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 250,
+            "id": 40,
+            "sentence": 3,
+            "text": "seinerzeit",
+            "word": 15
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 259,
+            "id": 41,
+            "sentence": 3,
+            "text": "tagelang",
+            "word": 16
+        },
+        {
+            "charBegin": 260,
+            "charEnd": 263,
+            "id": 42,
+            "sentence": 3,
+            "text": "die",
+            "word": 17
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 272,
+            "id": 43,
+            "sentence": 3,
+            "text": "Erlanger",
+            "word": 18
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 279,
+            "id": 44,
+            "sentence": 3,
+            "text": "Klinik",
+            "word": 19
+        },
+        {
+            "charBegin": 280,
+            "charEnd": 288,
+            "id": 45,
+            "sentence": 3,
+            "text": "belagert",
+            "word": 20
+        },
+        {
+            "charBegin": 289,
+            "charEnd": 295,
+            "id": 46,
+            "sentence": 3,
+            "text": "hatten",
+            "word": 21
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 296,
+            "id": 47,
+            "sentence": 3,
+            "text": ":",
+            "word": 22
+        },
+        {
+            "charBegin": 297,
+            "charEnd": 303,
+            "id": 48,
+            "sentence": 4,
+            "text": "Oliver",
+            "word": 1
+        },
+        {
+            "charBegin": 304,
+            "charEnd": 307,
+            "id": 49,
+            "sentence": 4,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 311,
+            "id": 50,
+            "sentence": 4,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 318,
+            "id": 51,
+            "sentence": 4,
+            "text": "Beweis",
+            "word": 4
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 324,
+            "id": 52,
+            "sentence": 4,
+            "text": "dafür",
+            "word": 5
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 325,
+            "id": 53,
+            "sentence": 4,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 326,
+            "charEnd": 330,
+            "id": 54,
+            "sentence": 4,
+            "text": "dass",
+            "word": 7
+        },
+        {
+            "charBegin": 331,
+            "charEnd": 340,
+            "id": 55,
+            "sentence": 4,
+            "text": "deutschen",
+            "word": 8
+        },
+        {
+            "charBegin": 341,
+            "charEnd": 351,
+            "id": 56,
+            "sentence": 4,
+            "text": "Medizinern",
+            "word": 9
+        },
+        {
+            "charBegin": 352,
+            "charEnd": 360,
+            "id": 57,
+            "sentence": 4,
+            "text": "erstmals",
+            "word": 10
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 365,
+            "id": 58,
+            "sentence": 4,
+            "text": "eine",
+            "word": 11
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 376,
+            "id": 59,
+            "sentence": 4,
+            "text": "künstliche",
+            "word": 12
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 388,
+            "id": 60,
+            "sentence": 4,
+            "text": "Befruchtung",
+            "word": 13
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 398,
+            "id": 61,
+            "sentence": 4,
+            "text": "außerhalb",
+            "word": 14
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 402,
+            "id": 62,
+            "sentence": 4,
+            "text": "des",
+            "word": 15
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 413,
+            "id": 63,
+            "sentence": 4,
+            "text": "weiblichen",
+            "word": 16
+        },
+        {
+            "charBegin": 414,
+            "charEnd": 421,
+            "id": 64,
+            "sentence": 4,
+            "text": "Körpers",
+            "word": 17
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 430,
+            "id": 65,
+            "sentence": 4,
+            "text": "gelungen",
+            "word": 18
+        },
+        {
+            "charBegin": 431,
+            "charEnd": 434,
+            "id": 66,
+            "sentence": 4,
+            "text": "ist",
+            "word": 19
+        },
+        {
+            "charBegin": 434,
+            "charEnd": 435,
+            "id": 67,
+            "sentence": 4,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 437,
+            "charEnd": 440,
+            "id": 68,
+            "sentence": 5,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 441,
+            "charEnd": 443,
+            "id": 69,
+            "sentence": 5,
+            "text": "im",
+            "word": 2
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 449,
+            "id": 70,
+            "sentence": 5,
+            "text": "April",
+            "word": 3
+        },
+        {
+            "charBegin": 450,
+            "charEnd": 454,
+            "id": 71,
+            "sentence": 5,
+            "text": "2005",
+            "word": 4
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 466,
+            "id": 72,
+            "sentence": 5,
+            "text": "verstorbene",
+            "word": 5
+        },
+        {
+            "charBegin": 467,
+            "charEnd": 475,
+            "id": 73,
+            "sentence": 5,
+            "text": "Erlanger",
+            "word": 6
+        },
+        {
+            "charBegin": 476,
+            "charEnd": 486,
+            "id": 74,
+            "sentence": 5,
+            "text": "Frauenarzt",
+            "word": 7
+        },
+        {
+            "charBegin": 487,
+            "charEnd": 490,
+            "id": 75,
+            "sentence": 5,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 491,
+            "charEnd": 513,
+            "id": 76,
+            "sentence": 5,
+            "text": "Reproduktionsmediziner",
+            "word": 9
+        },
+        {
+            "charBegin": 514,
+            "charEnd": 519,
+            "id": 77,
+            "sentence": 5,
+            "text": "Prof.",
+            "word": 10
+        },
+        {
+            "charBegin": 520,
+            "charEnd": 523,
+            "id": 78,
+            "sentence": 5,
+            "text": "Dr.",
+            "word": 11
+        },
+        {
+            "charBegin": 524,
+            "charEnd": 533,
+            "id": 79,
+            "sentence": 5,
+            "text": "Siegfried",
+            "word": 12
+        },
+        {
+            "charBegin": 534,
+            "charEnd": 541,
+            "id": 80,
+            "sentence": 5,
+            "text": "Trotnow",
+            "word": 13
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 547,
+            "id": 81,
+            "sentence": 5,
+            "text": "hatte",
+            "word": 14
+        },
+        {
+            "charBegin": 548,
+            "charEnd": 551,
+            "id": 82,
+            "sentence": 5,
+            "text": "mit",
+            "word": 15
+        },
+        {
+            "charBegin": 552,
+            "charEnd": 558,
+            "id": 83,
+            "sentence": 5,
+            "text": "seinem",
+            "word": 16
+        },
+        {
+            "charBegin": 559,
+            "charEnd": 563,
+            "id": 84,
+            "sentence": 5,
+            "text": "Team",
+            "word": 17
+        },
+        {
+            "charBegin": 563,
+            "charEnd": 564,
+            "id": 85,
+            "sentence": 5,
+            "text": ",",
+            "word": 18
+        },
+        {
+            "charBegin": 565,
+            "charEnd": 568,
+            "id": 86,
+            "sentence": 5,
+            "text": "dem",
+            "word": 19
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 581,
+            "id": 87,
+            "sentence": 5,
+            "text": "Spezialisten",
+            "word": 20
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 588,
+            "id": 88,
+            "sentence": 5,
+            "text": "vieler",
+            "word": 21
+        },
+        {
+            "charBegin": 589,
+            "charEnd": 602,
+            "id": 89,
+            "sentence": 5,
+            "text": "verschiedener",
+            "word": 22
+        },
+        {
+            "charBegin": 603,
+            "charEnd": 617,
+            "id": 90,
+            "sentence": 5,
+            "text": "Fachrichtungen",
+            "word": 23
+        },
+        {
+            "charBegin": 618,
+            "charEnd": 621,
+            "id": 91,
+            "sentence": 5,
+            "text": "wie",
+            "word": 24
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 625,
+            "id": 92,
+            "sentence": 5,
+            "text": "der",
+            "word": 25
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 639,
+            "id": 93,
+            "sentence": 5,
+            "text": "Tiermediziner",
+            "word": 26
+        },
+        {
+            "charBegin": 640,
+            "charEnd": 649,
+            "id": 94,
+            "sentence": 5,
+            "text": "Professor",
+            "word": 27
+        },
+        {
+            "charBegin": 650,
+            "charEnd": 653,
+            "id": 95,
+            "sentence": 5,
+            "text": "Dr.",
+            "word": 28
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 659,
+            "id": 96,
+            "sentence": 5,
+            "text": "Safaa",
+            "word": 29
+        },
+        {
+            "charBegin": 660,
+            "charEnd": 669,
+            "id": 97,
+            "sentence": 5,
+            "text": "Al-Hasani",
+            "word": 30
+        },
+        {
+            "charBegin": 670,
+            "charEnd": 673,
+            "id": 98,
+            "sentence": 5,
+            "text": "und",
+            "word": 31
+        },
+        {
+            "charBegin": 674,
+            "charEnd": 677,
+            "id": 99,
+            "sentence": 5,
+            "text": "die",
+            "word": 32
+        },
+        {
+            "charBegin": 678,
+            "charEnd": 686,
+            "id": 100,
+            "sentence": 5,
+            "text": "Biologin",
+            "word": 33
+        },
+        {
+            "charBegin": 687,
+            "charEnd": 690,
+            "id": 101,
+            "sentence": 5,
+            "text": "Dr.",
+            "word": 34
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 698,
+            "id": 102,
+            "sentence": 5,
+            "text": "Tatjana",
+            "word": 35
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 707,
+            "id": 103,
+            "sentence": 5,
+            "text": "Kniewald",
+            "word": 36
+        },
+        {
+            "charBegin": 708,
+            "charEnd": 718,
+            "id": 104,
+            "sentence": 5,
+            "text": "angehörten",
+            "word": 37
+        },
+        {
+            "charBegin": 718,
+            "charEnd": 719,
+            "id": 105,
+            "sentence": 5,
+            "text": ",",
+            "word": 38
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 733,
+            "id": 106,
+            "sentence": 5,
+            "text": "entscheidend",
+            "word": 39
+        },
+        {
+            "charBegin": 734,
+            "charEnd": 738,
+            "id": 107,
+            "sentence": 5,
+            "text": "dazu",
+            "word": 40
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 750,
+            "id": 108,
+            "sentence": 5,
+            "text": "beigetragen",
+            "word": 41
+        },
+        {
+            "charBegin": 750,
+            "charEnd": 751,
+            "id": 109,
+            "sentence": 5,
+            "text": ",",
+            "word": 42
+        },
+        {
+            "charBegin": 752,
+            "charEnd": 756,
+            "id": 110,
+            "sentence": 5,
+            "text": "dass",
+            "word": 43
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 761,
+            "id": 111,
+            "sentence": 5,
+            "text": "sich",
+            "word": 44
+        },
+        {
+            "charBegin": 762,
+            "charEnd": 765,
+            "id": 112,
+            "sentence": 5,
+            "text": "die",
+            "word": 45
+        },
+        {
+            "charBegin": 766,
+            "charEnd": 788,
+            "id": 113,
+            "sentence": 5,
+            "text": "In-vitro-Fertilisation",
+            "word": 46
+        },
+        {
+            "charBegin": 789,
+            "charEnd": 791,
+            "id": 114,
+            "sentence": 5,
+            "text": "in",
+            "word": 47
+        },
+        {
+            "charBegin": 792,
+            "charEnd": 803,
+            "id": 115,
+            "sentence": 5,
+            "text": "Deutschland",
+            "word": 48
+        },
+        {
+            "charBegin": 804,
+            "charEnd": 809,
+            "id": 116,
+            "sentence": 5,
+            "text": "rasch",
+            "word": 49
+        },
+        {
+            "charBegin": 810,
+            "charEnd": 820,
+            "id": 117,
+            "sentence": 5,
+            "text": "etablieren",
+            "word": 50
+        },
+        {
+            "charBegin": 821,
+            "charEnd": 827,
+            "id": 118,
+            "sentence": 5,
+            "text": "konnte",
+            "word": 51
+        },
+        {
+            "charBegin": 828,
+            "charEnd": 831,
+            "id": 119,
+            "sentence": 5,
+            "text": "und",
+            "word": 52
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 844,
+            "id": 120,
+            "sentence": 5,
+            "text": "Zehntausende",
+            "word": 53
+        },
+        {
+            "charBegin": 845,
+            "charEnd": 854,
+            "id": 121,
+            "sentence": 5,
+            "text": "ungewollt",
+            "word": 54
+        },
+        {
+            "charBegin": 855,
+            "charEnd": 866,
+            "id": 122,
+            "sentence": 5,
+            "text": "kinderloser",
+            "word": 55
+        },
+        {
+            "charBegin": 867,
+            "charEnd": 873,
+            "id": 123,
+            "sentence": 5,
+            "text": "Frauen",
+            "word": 56
+        },
+        {
+            "charBegin": 874,
+            "charEnd": 878,
+            "id": 124,
+            "sentence": 5,
+            "text": "neue",
+            "word": 57
+        },
+        {
+            "charBegin": 879,
+            "charEnd": 887,
+            "id": 125,
+            "sentence": 5,
+            "text": "Hoffnung",
+            "word": 58
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 896,
+            "id": 126,
+            "sentence": 5,
+            "text": "schöpfen",
+            "word": 59
+        },
+        {
+            "charBegin": 897,
+            "charEnd": 904,
+            "id": 127,
+            "sentence": 5,
+            "text": "konnten",
+            "word": 60
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 905,
+            "id": 128,
+            "sentence": 5,
+            "text": ".",
+            "word": 61
+        },
+        {
+            "charBegin": 906,
+            "charEnd": 911,
+            "id": 129,
+            "sentence": 6,
+            "text": "Dabei",
+            "word": 1
+        },
+        {
+            "charBegin": 912,
+            "charEnd": 918,
+            "id": 130,
+            "sentence": 6,
+            "text": "halfen",
+            "word": 2
+        },
+        {
+            "charBegin": 919,
+            "charEnd": 922,
+            "id": 131,
+            "sentence": 6,
+            "text": "dem",
+            "word": 3
+        },
+        {
+            "charBegin": 923,
+            "charEnd": 942,
+            "id": 132,
+            "sentence": 6,
+            "text": "Wissenschaftlerteam",
+            "word": 4
+        },
+        {
+            "charBegin": 943,
+            "charEnd": 946,
+            "id": 133,
+            "sentence": 6,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 947,
+            "charEnd": 960,
+            "id": 134,
+            "sentence": 6,
+            "text": "umfangreichen",
+            "word": 6
+        },
+        {
+            "charBegin": 961,
+            "charEnd": 972,
+            "id": 135,
+            "sentence": 6,
+            "text": "Vorarbeiten",
+            "word": 7
+        },
+        {
+            "charBegin": 972,
+            "charEnd": 973,
+            "id": 136,
+            "sentence": 6,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 974,
+            "charEnd": 977,
+            "id": 137,
+            "sentence": 6,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 978,
+            "charEnd": 981,
+            "id": 138,
+            "sentence": 6,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 982,
+            "charEnd": 990,
+            "id": 139,
+            "sentence": 6,
+            "text": "Erlanger",
+            "word": 11
+        },
+        {
+            "charBegin": 991,
+            "charEnd": 1001,
+            "id": 140,
+            "sentence": 6,
+            "text": "Gynäkologe",
+            "word": 12
+        },
+        {
+            "charBegin": 1002,
+            "charEnd": 1011,
+            "id": 141,
+            "sentence": 6,
+            "text": "Professor",
+            "word": 13
+        },
+        {
+            "charBegin": 1012,
+            "charEnd": 1015,
+            "id": 142,
+            "sentence": 6,
+            "text": "Dr.",
+            "word": 14
+        },
+        {
+            "charBegin": 1016,
+            "charEnd": 1027,
+            "id": 143,
+            "sentence": 6,
+            "text": "Klaus-Georg",
+            "word": 15
+        },
+        {
+            "charBegin": 1028,
+            "charEnd": 1036,
+            "id": 144,
+            "sentence": 6,
+            "text": "Bregulla",
+            "word": 16
+        },
+        {
+            "charBegin": 1037,
+            "charEnd": 1042,
+            "id": 145,
+            "sentence": 6,
+            "text": "schon",
+            "word": 17
+        },
+        {
+            "charBegin": 1043,
+            "charEnd": 1045,
+            "id": 146,
+            "sentence": 6,
+            "text": "in",
+            "word": 18
+        },
+        {
+            "charBegin": 1046,
+            "charEnd": 1049,
+            "id": 147,
+            "sentence": 6,
+            "text": "den",
+            "word": 19
+        },
+        {
+            "charBegin": 1050,
+            "charEnd": 1055,
+            "id": 148,
+            "sentence": 6,
+            "text": "60-er",
+            "word": 20
+        },
+        {
+            "charBegin": 1056,
+            "charEnd": 1062,
+            "id": 149,
+            "sentence": 6,
+            "text": "Jahren",
+            "word": 21
+        },
+        {
+            "charBegin": 1063,
+            "charEnd": 1075,
+            "id": 150,
+            "sentence": 6,
+            "text": "durchgeführt",
+            "word": 22
+        },
+        {
+            "charBegin": 1076,
+            "charEnd": 1081,
+            "id": 151,
+            "sentence": 6,
+            "text": "hatte",
+            "word": 23
+        },
+        {
+            "charBegin": 1081,
+            "charEnd": 1082,
+            "id": 152,
+            "sentence": 6,
+            "text": ",",
+            "word": 24
+        },
+        {
+            "charBegin": 1083,
+            "charEnd": 1088,
+            "id": 153,
+            "sentence": 6,
+            "text": "lange",
+            "word": 25
+        },
+        {
+            "charBegin": 1089,
+            "charEnd": 1094,
+            "id": 154,
+            "sentence": 6,
+            "text": "bevor",
+            "word": 26
+        },
+        {
+            "charBegin": 1095,
+            "charEnd": 1099,
+            "id": 155,
+            "sentence": 6,
+            "text": "1978",
+            "word": 27
+        },
+        {
+            "charBegin": 1100,
+            "charEnd": 1102,
+            "id": 156,
+            "sentence": 6,
+            "text": "in",
+            "word": 28
+        },
+        {
+            "charBegin": 1103,
+            "charEnd": 1110,
+            "id": 157,
+            "sentence": 6,
+            "text": "England",
+            "word": 29
+        },
+        {
+            "charBegin": 1111,
+            "charEnd": 1117,
+            "id": 158,
+            "sentence": 6,
+            "text": "Louise",
+            "word": 30
+        },
+        {
+            "charBegin": 1118,
+            "charEnd": 1123,
+            "id": 159,
+            "sentence": 6,
+            "text": "Brown",
+            "word": 31
+        },
+        {
+            "charBegin": 1123,
+            "charEnd": 1124,
+            "id": 160,
+            "sentence": 6,
+            "text": ",",
+            "word": 32
+        },
+        {
+            "charBegin": 1125,
+            "charEnd": 1128,
+            "id": 161,
+            "sentence": 6,
+            "text": "das",
+            "word": 33
+        },
+        {
+            "charBegin": 1129,
+            "charEnd": 1137,
+            "id": 162,
+            "sentence": 6,
+            "text": "weltweit",
+            "word": 34
+        },
+        {
+            "charBegin": 1138,
+            "charEnd": 1143,
+            "id": 163,
+            "sentence": 6,
+            "text": "erste",
+            "word": 35
+        },
+        {
+            "charBegin": 1144,
+            "charEnd": 1156,
+            "id": 164,
+            "sentence": 6,
+            "text": "Retortenbaby",
+            "word": 36
+        },
+        {
+            "charBegin": 1156,
+            "charEnd": 1157,
+            "id": 165,
+            "sentence": 6,
+            "text": ",",
+            "word": 37
+        },
+        {
+            "charBegin": 1158,
+            "charEnd": 1165,
+            "id": 166,
+            "sentence": 6,
+            "text": "geboren",
+            "word": 38
+        },
+        {
+            "charBegin": 1166,
+            "charEnd": 1171,
+            "id": 167,
+            "sentence": 6,
+            "text": "wurde",
+            "word": 39
+        },
+        {
+            "charBegin": 1171,
+            "charEnd": 1172,
+            "id": 168,
+            "sentence": 6,
+            "text": ".",
+            "word": 40
+        },
+        {
+            "charBegin": 1173,
+            "charEnd": 1178,
+            "id": 169,
+            "sentence": 7,
+            "text": "Diese",
+            "word": 1
+        },
+        {
+            "charBegin": 1179,
+            "charEnd": 1185,
+            "id": 170,
+            "sentence": 7,
+            "text": "frühen",
+            "word": 2
+        },
+        {
+            "charBegin": 1186,
+            "charEnd": 1197,
+            "id": 171,
+            "sentence": 7,
+            "text": "Forschungen",
+            "word": 3
+        },
+        {
+            "charBegin": 1198,
+            "charEnd": 1210,
+            "id": 172,
+            "sentence": 7,
+            "text": "verschafften",
+            "word": 4
+        },
+        {
+            "charBegin": 1211,
+            "charEnd": 1214,
+            "id": 173,
+            "sentence": 7,
+            "text": "dem",
+            "word": 5
+        },
+        {
+            "charBegin": 1215,
+            "charEnd": 1223,
+            "id": 174,
+            "sentence": 7,
+            "text": "Erlanger",
+            "word": 6
+        },
+        {
+            "charBegin": 1224,
+            "charEnd": 1228,
+            "id": 175,
+            "sentence": 7,
+            "text": "Team",
+            "word": 7
+        },
+        {
+            "charBegin": 1229,
+            "charEnd": 1234,
+            "id": 176,
+            "sentence": 7,
+            "text": "einen",
+            "word": 8
+        },
+        {
+            "charBegin": 1235,
+            "charEnd": 1248,
+            "id": 177,
+            "sentence": 7,
+            "text": "entscheidenen",
+            "word": 9
+        },
+        {
+            "charBegin": 1249,
+            "charEnd": 1258,
+            "id": 178,
+            "sentence": 7,
+            "text": "Vorsprung",
+            "word": 10
+        },
+        {
+            "charBegin": 1259,
+            "charEnd": 1262,
+            "id": 179,
+            "sentence": 7,
+            "text": "vor",
+            "word": 11
+        },
+        {
+            "charBegin": 1263,
+            "charEnd": 1266,
+            "id": 180,
+            "sentence": 7,
+            "text": "den",
+            "word": 12
+        },
+        {
+            "charBegin": 1267,
+            "charEnd": 1274,
+            "id": 181,
+            "sentence": 7,
+            "text": "anderen",
+            "word": 13
+        },
+        {
+            "charBegin": 1275,
+            "charEnd": 1290,
+            "id": 182,
+            "sentence": 7,
+            "text": "Forschergruppen",
+            "word": 14
+        },
+        {
+            "charBegin": 1290,
+            "charEnd": 1291,
+            "id": 183,
+            "sentence": 7,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 1292,
+            "charEnd": 1295,
+            "id": 184,
+            "sentence": 7,
+            "text": "die",
+            "word": 16
+        },
+        {
+            "charBegin": 1296,
+            "charEnd": 1298,
+            "id": 185,
+            "sentence": 7,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 1299,
+            "charEnd": 1310,
+            "id": 186,
+            "sentence": 7,
+            "text": "Deutschland",
+            "word": 18
+        },
+        {
+            "charBegin": 1311,
+            "charEnd": 1320,
+            "id": 187,
+            "sentence": 7,
+            "text": "ebenfalls",
+            "word": 19
+        },
+        {
+            "charBegin": 1321,
+            "charEnd": 1324,
+            "id": 188,
+            "sentence": 7,
+            "text": "auf",
+            "word": 20
+        },
+        {
+            "charBegin": 1325,
+            "charEnd": 1331,
+            "id": 189,
+            "sentence": 7,
+            "text": "diesem",
+            "word": 21
+        },
+        {
+            "charBegin": 1332,
+            "charEnd": 1338,
+            "id": 190,
+            "sentence": 7,
+            "text": "Gebiet",
+            "word": 22
+        },
+        {
+            "charBegin": 1339,
+            "charEnd": 1349,
+            "id": 191,
+            "sentence": 7,
+            "text": "arbeiteten",
+            "word": 23
+        },
+        {
+            "charBegin": 1349,
+            "charEnd": 1350,
+            "id": 192,
+            "sentence": 7,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 1352,
+            "charEnd": 1357,
+            "id": 193,
+            "sentence": 8,
+            "text": "Dabei",
+            "word": 1
+        },
+        {
+            "charBegin": 1358,
+            "charEnd": 1364,
+            "id": 194,
+            "sentence": 8,
+            "text": "musste",
+            "word": 2
+        },
+        {
+            "charBegin": 1365,
+            "charEnd": 1368,
+            "id": 195,
+            "sentence": 8,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 1369,
+            "charEnd": 1378,
+            "id": 196,
+            "sentence": 8,
+            "text": "Forschung",
+            "word": 4
+        },
+        {
+            "charBegin": 1379,
+            "charEnd": 1381,
+            "id": 197,
+            "sentence": 8,
+            "text": "an",
+            "word": 5
+        },
+        {
+            "charBegin": 1382,
+            "charEnd": 1385,
+            "id": 198,
+            "sentence": 8,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 1386,
+            "charEnd": 1393,
+            "id": 199,
+            "sentence": 8,
+            "text": "Methode",
+            "word": 7
+        },
+        {
+            "charBegin": 1394,
+            "charEnd": 1397,
+            "id": 200,
+            "sentence": 8,
+            "text": "zur",
+            "word": 8
+        },
+        {
+            "charBegin": 1398,
+            "charEnd": 1409,
+            "id": 201,
+            "sentence": 8,
+            "text": "künstlichen",
+            "word": 9
+        },
+        {
+            "charBegin": 1410,
+            "charEnd": 1421,
+            "id": 202,
+            "sentence": 8,
+            "text": "Befruchtung",
+            "word": 10
+        },
+        {
+            "charBegin": 1422,
+            "charEnd": 1429,
+            "id": 203,
+            "sentence": 8,
+            "text": "anfangs",
+            "word": 11
+        },
+        {
+            "charBegin": 1430,
+            "charEnd": 1435,
+            "id": 204,
+            "sentence": 8,
+            "text": "viele",
+            "word": 12
+        },
+        {
+            "charBegin": 1436,
+            "charEnd": 1447,
+            "id": 205,
+            "sentence": 8,
+            "text": "Widerstände",
+            "word": 13
+        },
+        {
+            "charBegin": 1448,
+            "charEnd": 1458,
+            "id": 206,
+            "sentence": 8,
+            "text": "überwinden",
+            "word": 14
+        },
+        {
+            "charBegin": 1458,
+            "charEnd": 1459,
+            "id": 207,
+            "sentence": 8,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 1460,
+            "charEnd": 1463,
+            "id": 208,
+            "sentence": 9,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1464,
+            "charEnd": 1472,
+            "id": 209,
+            "sentence": 9,
+            "text": "Deutsche",
+            "word": 2
+        },
+        {
+            "charBegin": 1473,
+            "charEnd": 1495,
+            "id": 210,
+            "sentence": 9,
+            "text": "Forschungsgemeinschaft",
+            "word": 3
+        },
+        {
+            "charBegin": 1496,
+            "charEnd": 1499,
+            "id": 211,
+            "sentence": 9,
+            "text": "zum",
+            "word": 4
+        },
+        {
+            "charBegin": 1500,
+            "charEnd": 1508,
+            "id": 212,
+            "sentence": 9,
+            "text": "Beispiel",
+            "word": 5
+        },
+        {
+            "charBegin": 1509,
+            "charEnd": 1514,
+            "id": 213,
+            "sentence": 9,
+            "text": "hatte",
+            "word": 6
+        },
+        {
+            "charBegin": 1515,
+            "charEnd": 1523,
+            "id": 214,
+            "sentence": 9,
+            "text": "zwischen",
+            "word": 7
+        },
+        {
+            "charBegin": 1524,
+            "charEnd": 1528,
+            "id": 215,
+            "sentence": 9,
+            "text": "1969",
+            "word": 8
+        },
+        {
+            "charBegin": 1529,
+            "charEnd": 1532,
+            "id": 216,
+            "sentence": 9,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 1533,
+            "charEnd": 1537,
+            "id": 217,
+            "sentence": 9,
+            "text": "1981",
+            "word": 10
+        },
+        {
+            "charBegin": 1538,
+            "charEnd": 1542,
+            "id": 218,
+            "sentence": 9,
+            "text": "alle",
+            "word": 11
+        },
+        {
+            "charBegin": 1543,
+            "charEnd": 1550,
+            "id": 219,
+            "sentence": 9,
+            "text": "Anträge",
+            "word": 12
+        },
+        {
+            "charBegin": 1551,
+            "charEnd": 1554,
+            "id": 220,
+            "sentence": 9,
+            "text": "auf",
+            "word": 13
+        },
+        {
+            "charBegin": 1555,
+            "charEnd": 1566,
+            "id": 221,
+            "sentence": 9,
+            "text": "finanzielle",
+            "word": 14
+        },
+        {
+            "charBegin": 1567,
+            "charEnd": 1576,
+            "id": 222,
+            "sentence": 9,
+            "text": "Förderung",
+            "word": 15
+        },
+        {
+            "charBegin": 1577,
+            "charEnd": 1580,
+            "id": 223,
+            "sentence": 9,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 1581,
+            "charEnd": 1589,
+            "id": 224,
+            "sentence": 9,
+            "text": "Arbeiten",
+            "word": 17
+        },
+        {
+            "charBegin": 1590,
+            "charEnd": 1599,
+            "id": 225,
+            "sentence": 9,
+            "text": "abgelehnt",
+            "word": 18
+        },
+        {
+            "charBegin": 1599,
+            "charEnd": 1600,
+            "id": 226,
+            "sentence": 9,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 1601,
+            "charEnd": 1602,
+            "id": 227,
+            "sentence": 10,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 1602,
+            "charEnd": 1617,
+            "id": 228,
+            "sentence": 10,
+            "text": "Kontraproduktiv",
+            "word": 2
+        },
+        {
+            "charBegin": 1618,
+            "charEnd": 1623,
+            "id": 229,
+            "sentence": 10,
+            "text": "waren",
+            "word": 3
+        },
+        {
+            "charBegin": 1624,
+            "charEnd": 1634,
+            "id": 230,
+            "sentence": 10,
+            "text": "sicherlich",
+            "word": 4
+        },
+        {
+            "charBegin": 1635,
+            "charEnd": 1639,
+            "id": 231,
+            "sentence": 10,
+            "text": "auch",
+            "word": 5
+        },
+        {
+            "charBegin": 1640,
+            "charEnd": 1646,
+            "id": 232,
+            "sentence": 10,
+            "text": "einige",
+            "word": 6
+        },
+        {
+            "charBegin": 1647,
+            "charEnd": 1655,
+            "id": 233,
+            "sentence": 10,
+            "text": "Kollegen",
+            "word": 7
+        },
+        {
+            "charBegin": 1656,
+            "charEnd": 1658,
+            "id": 234,
+            "sentence": 10,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 1659,
+            "charEnd": 1662,
+            "id": 235,
+            "sentence": 10,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 1663,
+            "charEnd": 1669,
+            "id": 236,
+            "sentence": 10,
+            "text": "Klinik",
+            "word": 10
+        },
+        {
+            "charBegin": 1669,
+            "charEnd": 1670,
+            "id": 237,
+            "sentence": 10,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1671,
+            "charEnd": 1674,
+            "id": 238,
+            "sentence": 10,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 1675,
+            "charEnd": 1678,
+            "id": 239,
+            "sentence": 10,
+            "text": "uns",
+            "word": 13
+        },
+        {
+            "charBegin": 1679,
+            "charEnd": 1682,
+            "id": 240,
+            "sentence": 10,
+            "text": "für",
+            "word": 14
+        },
+        {
+            "charBegin": 1683,
+            "charEnd": 1691,
+            "id": 241,
+            "sentence": 10,
+            "text": "verrückt",
+            "word": 15
+        },
+        {
+            "charBegin": 1692,
+            "charEnd": 1699,
+            "id": 242,
+            "sentence": 10,
+            "text": "hielten",
+            "word": 16
+        },
+        {
+            "charBegin": 1699,
+            "charEnd": 1700,
+            "id": 243,
+            "sentence": 10,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 1701,
+            "charEnd": 1704,
+            "id": 244,
+            "sentence": 10,
+            "text": "und",
+            "word": 18
+        },
+        {
+            "charBegin": 1705,
+            "charEnd": 1708,
+            "id": 245,
+            "sentence": 10,
+            "text": "das",
+            "word": 19
+        },
+        {
+            "charBegin": 1709,
+            "charEnd": 1721,
+            "id": 246,
+            "sentence": 10,
+            "text": "gelegentlich",
+            "word": 20
+        },
+        {
+            "charBegin": 1722,
+            "charEnd": 1725,
+            "id": 247,
+            "sentence": 10,
+            "text": "die",
+            "word": 21
+        },
+        {
+            "charBegin": 1726,
+            "charEnd": 1734,
+            "id": 248,
+            "sentence": 10,
+            "text": "jüngeren",
+            "word": 22
+        },
+        {
+            "charBegin": 1735,
+            "charEnd": 1750,
+            "id": 249,
+            "sentence": 10,
+            "text": "Team-Mitglieder",
+            "word": 23
+        },
+        {
+            "charBegin": 1751,
+            "charEnd": 1757,
+            "id": 250,
+            "sentence": 10,
+            "text": "spüren",
+            "word": 24
+        },
+        {
+            "charBegin": 1758,
+            "charEnd": 1764,
+            "id": 251,
+            "sentence": 10,
+            "text": "ließen",
+            "word": 25
+        },
+        {
+            "charBegin": 1764,
+            "charEnd": 1765,
+            "id": 252,
+            "sentence": 10,
+            "text": "“",
+            "word": 26
+        },
+        {
+            "charBegin": 1765,
+            "charEnd": 1766,
+            "id": 253,
+            "sentence": 10,
+            "text": ",",
+            "word": 27
+        },
+        {
+            "charBegin": 1767,
+            "charEnd": 1776,
+            "id": 254,
+            "sentence": 10,
+            "text": "erinnerte",
+            "word": 28
+        },
+        {
+            "charBegin": 1777,
+            "charEnd": 1781,
+            "id": 255,
+            "sentence": 10,
+            "text": "sich",
+            "word": 29
+        },
+        {
+            "charBegin": 1782,
+            "charEnd": 1789,
+            "id": 256,
+            "sentence": 10,
+            "text": "Trotnow",
+            "word": 30
+        },
+        {
+            "charBegin": 1790,
+            "charEnd": 1796,
+            "id": 257,
+            "sentence": 10,
+            "text": "später",
+            "word": 31
+        },
+        {
+            "charBegin": 1796,
+            "charEnd": 1797,
+            "id": 258,
+            "sentence": 10,
+            "text": ".",
+            "word": 32
+        },
+        {
+            "charBegin": 1799,
+            "charEnd": 1803,
+            "id": 259,
+            "sentence": 11,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 1804,
+            "charEnd": 1807,
+            "id": 260,
+            "sentence": 11,
+            "text": "dem",
+            "word": 2
+        },
+        {
+            "charBegin": 1808,
+            "charEnd": 1814,
+            "id": 261,
+            "sentence": 11,
+            "text": "ersten",
+            "word": 3
+        },
+        {
+            "charBegin": 1815,
+            "charEnd": 1821,
+            "id": 262,
+            "sentence": 11,
+            "text": "großen",
+            "word": 4
+        },
+        {
+            "charBegin": 1822,
+            "charEnd": 1828,
+            "id": 263,
+            "sentence": 11,
+            "text": "Erfolg",
+            "word": 5
+        },
+        {
+            "charBegin": 1829,
+            "charEnd": 1834,
+            "id": 264,
+            "sentence": 11,
+            "text": "wurde",
+            "word": 6
+        },
+        {
+            "charBegin": 1835,
+            "charEnd": 1838,
+            "id": 265,
+            "sentence": 11,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 1839,
+            "charEnd": 1846,
+            "id": 266,
+            "sentence": 11,
+            "text": "Methode",
+            "word": 8
+        },
+        {
+            "charBegin": 1847,
+            "charEnd": 1850,
+            "id": 267,
+            "sentence": 11,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 1851,
+            "charEnd": 1873,
+            "id": 268,
+            "sentence": 11,
+            "text": "In-Vitro-Fertilisation",
+            "word": 10
+        },
+        {
+            "charBegin": 1874,
+            "charEnd": 1879,
+            "id": 269,
+            "sentence": 11,
+            "text": "rasch",
+            "word": 11
+        },
+        {
+            "charBegin": 1880,
+            "charEnd": 1890,
+            "id": 270,
+            "sentence": 11,
+            "text": "verfeinert",
+            "word": 12
+        },
+        {
+            "charBegin": 1891,
+            "charEnd": 1894,
+            "id": 271,
+            "sentence": 11,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 1895,
+            "charEnd": 1898,
+            "id": 272,
+            "sentence": 11,
+            "text": "ist",
+            "word": 14
+        },
+        {
+            "charBegin": 1899,
+            "charEnd": 1904,
+            "id": 273,
+            "sentence": 11,
+            "text": "heute",
+            "word": 15
+        },
+        {
+            "charBegin": 1905,
+            "charEnd": 1910,
+            "id": 274,
+            "sentence": 11,
+            "text": "eines",
+            "word": 16
+        },
+        {
+            "charBegin": 1911,
+            "charEnd": 1914,
+            "id": 275,
+            "sentence": 11,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 1915,
+            "charEnd": 1932,
+            "id": 276,
+            "sentence": 11,
+            "text": "Standardverfahren",
+            "word": 18
+        },
+        {
+            "charBegin": 1933,
+            "charEnd": 1935,
+            "id": 277,
+            "sentence": 11,
+            "text": "in",
+            "word": 19
+        },
+        {
+            "charBegin": 1936,
+            "charEnd": 1939,
+            "id": 278,
+            "sentence": 11,
+            "text": "der",
+            "word": 20
+        },
+        {
+            "charBegin": 1940,
+            "charEnd": 1960,
+            "id": 279,
+            "sentence": 11,
+            "text": "Reproduktionsmedizin",
+            "word": 21
+        },
+        {
+            "charBegin": 1960,
+            "charEnd": 1961,
+            "id": 280,
+            "sentence": 11,
+            "text": ",",
+            "word": 22
+        },
+        {
+            "charBegin": 1962,
+            "charEnd": 1965,
+            "id": 281,
+            "sentence": 11,
+            "text": "das",
+            "word": 23
+        },
+        {
+            "charBegin": 1966,
+            "charEnd": 1968,
+            "id": 282,
+            "sentence": 11,
+            "text": "in",
+            "word": 24
+        },
+        {
+            "charBegin": 1969,
+            "charEnd": 1973,
+            "id": 283,
+            "sentence": 11,
+            "text": "über",
+            "word": 25
+        },
+        {
+            "charBegin": 1974,
+            "charEnd": 1977,
+            "id": 284,
+            "sentence": 11,
+            "text": "100",
+            "word": 26
+        },
+        {
+            "charBegin": 1978,
+            "charEnd": 1996,
+            "id": 285,
+            "sentence": 11,
+            "text": "Behandlungszentren",
+            "word": 27
+        },
+        {
+            "charBegin": 1997,
+            "charEnd": 1999,
+            "id": 286,
+            "sentence": 11,
+            "text": "in",
+            "word": 28
+        },
+        {
+            "charBegin": 2000,
+            "charEnd": 2011,
+            "id": 287,
+            "sentence": 11,
+            "text": "Deutschland",
+            "word": 29
+        },
+        {
+            "charBegin": 2012,
+            "charEnd": 2021,
+            "id": 288,
+            "sentence": 11,
+            "text": "angewandt",
+            "word": 30
+        },
+        {
+            "charBegin": 2022,
+            "charEnd": 2026,
+            "id": 289,
+            "sentence": 11,
+            "text": "wird",
+            "word": 31
+        },
+        {
+            "charBegin": 2026,
+            "charEnd": 2027,
+            "id": 290,
+            "sentence": 11,
+            "text": ".",
+            "word": 32
+        },
+        {
+            "charBegin": 2028,
+            "charEnd": 2032,
+            "id": 291,
+            "sentence": 12,
+            "text": "Seit",
+            "word": 1
+        },
+        {
+            "charBegin": 2033,
+            "charEnd": 2036,
+            "id": 292,
+            "sentence": 12,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 2037,
+            "charEnd": 2043,
+            "id": 293,
+            "sentence": 12,
+            "text": "Geburt",
+            "word": 3
+        },
+        {
+            "charBegin": 2044,
+            "charEnd": 2047,
+            "id": 294,
+            "sentence": 12,
+            "text": "des",
+            "word": 4
+        },
+        {
+            "charBegin": 2048,
+            "charEnd": 2054,
+            "id": 295,
+            "sentence": 12,
+            "text": "ersten",
+            "word": 5
+        },
+        {
+            "charBegin": 2055,
+            "charEnd": 2068,
+            "id": 296,
+            "sentence": 12,
+            "text": "Retortenbabys",
+            "word": 6
+        },
+        {
+            "charBegin": 2069,
+            "charEnd": 2073,
+            "id": 297,
+            "sentence": 12,
+            "text": "sind",
+            "word": 7
+        },
+        {
+            "charBegin": 2074,
+            "charEnd": 2076,
+            "id": 298,
+            "sentence": 12,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 2077,
+            "charEnd": 2088,
+            "id": 299,
+            "sentence": 12,
+            "text": "Deutschland",
+            "word": 9
+        },
+        {
+            "charBegin": 2089,
+            "charEnd": 2093,
+            "id": 300,
+            "sentence": 12,
+            "text": "fast",
+            "word": 10
+        },
+        {
+            "charBegin": 2094,
+            "charEnd": 2101,
+            "id": 301,
+            "sentence": 12,
+            "text": "100.000",
+            "word": 11
+        },
+        {
+            "charBegin": 2102,
+            "charEnd": 2108,
+            "id": 302,
+            "sentence": 12,
+            "text": "Kinder",
+            "word": 12
+        },
+        {
+            "charBegin": 2109,
+            "charEnd": 2113,
+            "id": 303,
+            "sentence": 12,
+            "text": "nach",
+            "word": 13
+        },
+        {
+            "charBegin": 2114,
+            "charEnd": 2119,
+            "id": 304,
+            "sentence": 12,
+            "text": "einer",
+            "word": 14
+        },
+        {
+            "charBegin": 2120,
+            "charEnd": 2131,
+            "id": 305,
+            "sentence": 12,
+            "text": "künstlichen",
+            "word": 15
+        },
+        {
+            "charBegin": 2132,
+            "charEnd": 2143,
+            "id": 306,
+            "sentence": 12,
+            "text": "Befruchtung",
+            "word": 16
+        },
+        {
+            "charBegin": 2144,
+            "charEnd": 2147,
+            "id": 307,
+            "sentence": 12,
+            "text": "zur",
+            "word": 17
+        },
+        {
+            "charBegin": 2148,
+            "charEnd": 2152,
+            "id": 308,
+            "sentence": 12,
+            "text": "Welt",
+            "word": 18
+        },
+        {
+            "charBegin": 2153,
+            "charEnd": 2161,
+            "id": 309,
+            "sentence": 12,
+            "text": "gekommen",
+            "word": 19
+        },
+        {
+            "charBegin": 2161,
+            "charEnd": 2162,
+            "id": 310,
+            "sentence": 12,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 2163,
+            "charEnd": 2173,
+            "id": 311,
+            "sentence": 13,
+            "text": "Allerdings",
+            "word": 1
+        },
+        {
+            "charBegin": 2174,
+            "charEnd": 2180,
+            "id": 312,
+            "sentence": 13,
+            "text": "werden",
+            "word": 2
+        },
+        {
+            "charBegin": 2181,
+            "charEnd": 2185,
+            "id": 313,
+            "sentence": 13,
+            "text": "seit",
+            "word": 3
+        },
+        {
+            "charBegin": 2186,
+            "charEnd": 2189,
+            "id": 314,
+            "sentence": 13,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 2190,
+            "charEnd": 2207,
+            "id": 315,
+            "sentence": 13,
+            "text": "Gesundheitsreform",
+            "word": 5
+        },
+        {
+            "charBegin": 2208,
+            "charEnd": 2211,
+            "id": 316,
+            "sentence": 13,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 2212,
+            "charEnd": 2216,
+            "id": 317,
+            "sentence": 13,
+            "text": "2003",
+            "word": 7
+        },
+        {
+            "charBegin": 2217,
+            "charEnd": 2220,
+            "id": 318,
+            "sentence": 13,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 2221,
+            "charEnd": 2227,
+            "id": 319,
+            "sentence": 13,
+            "text": "Kosten",
+            "word": 9
+        },
+        {
+            "charBegin": 2228,
+            "charEnd": 2231,
+            "id": 320,
+            "sentence": 13,
+            "text": "für",
+            "word": 10
+        },
+        {
+            "charBegin": 2232,
+            "charEnd": 2236,
+            "id": 321,
+            "sentence": 13,
+            "text": "eine",
+            "word": 11
+        },
+        {
+            "charBegin": 2237,
+            "charEnd": 2243,
+            "id": 322,
+            "sentence": 13,
+            "text": "solche",
+            "word": 12
+        },
+        {
+            "charBegin": 2244,
+            "charEnd": 2254,
+            "id": 323,
+            "sentence": 13,
+            "text": "Behandlung",
+            "word": 13
+        },
+        {
+            "charBegin": 2255,
+            "charEnd": 2258,
+            "id": 324,
+            "sentence": 13,
+            "text": "nur",
+            "word": 14
+        },
+        {
+            "charBegin": 2259,
+            "charEnd": 2263,
+            "id": 325,
+            "sentence": 13,
+            "text": "noch",
+            "word": 15
+        },
+        {
+            "charBegin": 2264,
+            "charEnd": 2267,
+            "id": 326,
+            "sentence": 13,
+            "text": "zur",
+            "word": 16
+        },
+        {
+            "charBegin": 2268,
+            "charEnd": 2274,
+            "id": 327,
+            "sentence": 13,
+            "text": "Hälfte",
+            "word": 17
+        },
+        {
+            "charBegin": 2275,
+            "charEnd": 2278,
+            "id": 328,
+            "sentence": 13,
+            "text": "von",
+            "word": 18
+        },
+        {
+            "charBegin": 2279,
+            "charEnd": 2282,
+            "id": 329,
+            "sentence": 13,
+            "text": "den",
+            "word": 19
+        },
+        {
+            "charBegin": 2283,
+            "charEnd": 2296,
+            "id": 330,
+            "sentence": 13,
+            "text": "Krankenkassen",
+            "word": 20
+        },
+        {
+            "charBegin": 2297,
+            "charEnd": 2307,
+            "id": 331,
+            "sentence": 13,
+            "text": "übernommen",
+            "word": 21
+        },
+        {
+            "charBegin": 2307,
+            "charEnd": 2308,
+            "id": 332,
+            "sentence": 13,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 2309,
+            "charEnd": 2318,
+            "id": 333,
+            "sentence": 14,
+            "text": "Hierdurch",
+            "word": 1
+        },
+        {
+            "charBegin": 2319,
+            "charEnd": 2323,
+            "id": 334,
+            "sentence": 14,
+            "text": "nahm",
+            "word": 2
+        },
+        {
+            "charBegin": 2324,
+            "charEnd": 2327,
+            "id": 335,
+            "sentence": 14,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 2328,
+            "charEnd": 2332,
+            "id": 336,
+            "sentence": 14,
+            "text": "Zahl",
+            "word": 4
+        },
+        {
+            "charBegin": 2333,
+            "charEnd": 2336,
+            "id": 337,
+            "sentence": 14,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 2337,
+            "charEnd": 2351,
+            "id": 338,
+            "sentence": 14,
+            "text": "hilfesuchenden",
+            "word": 6
+        },
+        {
+            "charBegin": 2352,
+            "charEnd": 2360,
+            "id": 339,
+            "sentence": 14,
+            "text": "Personen",
+            "word": 7
+        },
+        {
+            "charBegin": 2360,
+            "charEnd": 2361,
+            "id": 340,
+            "sentence": 14,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 2362,
+            "charEnd": 2365,
+            "id": 341,
+            "sentence": 14,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 2366,
+            "charEnd": 2371,
+            "id": 342,
+            "sentence": 14,
+            "text": "zuvor",
+            "word": 10
+        },
+        {
+            "charBegin": 2372,
+            "charEnd": 2378,
+            "id": 343,
+            "sentence": 14,
+            "text": "stetig",
+            "word": 11
+        },
+        {
+            "charBegin": 2379,
+            "charEnd": 2390,
+            "id": 344,
+            "sentence": 14,
+            "text": "angestiegen",
+            "word": 12
+        },
+        {
+            "charBegin": 2391,
+            "charEnd": 2394,
+            "id": 345,
+            "sentence": 14,
+            "text": "war",
+            "word": 13
+        },
+        {
+            "charBegin": 2394,
+            "charEnd": 2395,
+            "id": 346,
+            "sentence": 14,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 2396,
+            "charEnd": 2404,
+            "id": 347,
+            "sentence": 14,
+            "text": "erstmals",
+            "word": 15
+        },
+        {
+            "charBegin": 2405,
+            "charEnd": 2407,
+            "id": 348,
+            "sentence": 14,
+            "text": "ab",
+            "word": 16
+        },
+        {
+            "charBegin": 2408,
+            "charEnd": 2411,
+            "id": 349,
+            "sentence": 14,
+            "text": "und",
+            "word": 17
+        },
+        {
+            "charBegin": 2412,
+            "charEnd": 2416,
+            "id": 350,
+            "sentence": 14,
+            "text": "ging",
+            "word": 18
+        },
+        {
+            "charBegin": 2417,
+            "charEnd": 2420,
+            "id": 351,
+            "sentence": 14,
+            "text": "von",
+            "word": 19
+        },
+        {
+            "charBegin": 2421,
+            "charEnd": 2427,
+            "id": 352,
+            "sentence": 14,
+            "text": "80.000",
+            "word": 20
+        },
+        {
+            "charBegin": 2428,
+            "charEnd": 2440,
+            "id": 353,
+            "sentence": 14,
+            "text": "Behandlungen",
+            "word": 21
+        },
+        {
+            "charBegin": 2441,
+            "charEnd": 2443,
+            "id": 354,
+            "sentence": 14,
+            "text": "im",
+            "word": 22
+        },
+        {
+            "charBegin": 2444,
+            "charEnd": 2448,
+            "id": 355,
+            "sentence": 14,
+            "text": "Jahr",
+            "word": 23
+        },
+        {
+            "charBegin": 2449,
+            "charEnd": 2453,
+            "id": 356,
+            "sentence": 14,
+            "text": "2003",
+            "word": 24
+        },
+        {
+            "charBegin": 2454,
+            "charEnd": 2457,
+            "id": 357,
+            "sentence": 14,
+            "text": "auf",
+            "word": 25
+        },
+        {
+            "charBegin": 2458,
+            "charEnd": 2464,
+            "id": 358,
+            "sentence": 14,
+            "text": "40.000",
+            "word": 26
+        },
+        {
+            "charBegin": 2465,
+            "charEnd": 2467,
+            "id": 359,
+            "sentence": 14,
+            "text": "im",
+            "word": 27
+        },
+        {
+            "charBegin": 2468,
+            "charEnd": 2472,
+            "id": 360,
+            "sentence": 14,
+            "text": "Jahr",
+            "word": 28
+        },
+        {
+            "charBegin": 2473,
+            "charEnd": 2477,
+            "id": 361,
+            "sentence": 14,
+            "text": "2004",
+            "word": 29
+        },
+        {
+            "charBegin": 2478,
+            "charEnd": 2484,
+            "id": 362,
+            "sentence": 14,
+            "text": "zurück",
+            "word": 30
+        },
+        {
+            "charBegin": 2484,
+            "charEnd": 2485,
+            "id": 363,
+            "sentence": 14,
+            "text": ".",
+            "word": 31
+        },
+        {
+            "charBegin": 2487,
+            "charEnd": 2494,
+            "id": 364,
+            "sentence": 15,
+            "text": "Nachdem",
+            "word": 1
+        },
+        {
+            "charBegin": 2495,
+            "charEnd": 2498,
+            "id": 365,
+            "sentence": 15,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 2499,
+            "charEnd": 2509,
+            "id": 366,
+            "sentence": 15,
+            "text": "künstliche",
+            "word": 3
+        },
+        {
+            "charBegin": 2510,
+            "charEnd": 2521,
+            "id": 367,
+            "sentence": 15,
+            "text": "Befruchtung",
+            "word": 4
+        },
+        {
+            "charBegin": 2522,
+            "charEnd": 2527,
+            "id": 368,
+            "sentence": 15,
+            "text": "ihren",
+            "word": 5
+        },
+        {
+            "charBegin": 2528,
+            "charEnd": 2531,
+            "id": 369,
+            "sentence": 15,
+            "text": "Weg",
+            "word": 6
+        },
+        {
+            "charBegin": 2532,
+            "charEnd": 2534,
+            "id": 370,
+            "sentence": 15,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 2535,
+            "charEnd": 2538,
+            "id": 371,
+            "sentence": 15,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 2539,
+            "charEnd": 2545,
+            "id": 372,
+            "sentence": 15,
+            "text": "Praxis",
+            "word": 9
+        },
+        {
+            "charBegin": 2546,
+            "charEnd": 2554,
+            "id": 373,
+            "sentence": 15,
+            "text": "gefunden",
+            "word": 10
+        },
+        {
+            "charBegin": 2555,
+            "charEnd": 2558,
+            "id": 374,
+            "sentence": 15,
+            "text": "hat",
+            "word": 11
+        },
+        {
+            "charBegin": 2559,
+            "charEnd": 2562,
+            "id": 375,
+            "sentence": 15,
+            "text": "und",
+            "word": 12
+        },
+        {
+            "charBegin": 2563,
+            "charEnd": 2566,
+            "id": 376,
+            "sentence": 15,
+            "text": "man",
+            "word": 13
+        },
+        {
+            "charBegin": 2567,
+            "charEnd": 2572,
+            "id": 377,
+            "sentence": 15,
+            "text": "damit",
+            "word": 14
+        },
+        {
+            "charBegin": 2573,
+            "charEnd": 2577,
+            "id": 378,
+            "sentence": 15,
+            "text": "laut",
+            "word": 15
+        },
+        {
+            "charBegin": 2578,
+            "charEnd": 2592,
+            "id": 379,
+            "sentence": 15,
+            "text": "Klinikdirektor",
+            "word": 16
+        },
+        {
+            "charBegin": 2593,
+            "charEnd": 2598,
+            "id": 380,
+            "sentence": 15,
+            "text": "Prof.",
+            "word": 17
+        },
+        {
+            "charBegin": 2599,
+            "charEnd": 2602,
+            "id": 381,
+            "sentence": 15,
+            "text": "Dr.",
+            "word": 18
+        },
+        {
+            "charBegin": 2603,
+            "charEnd": 2611,
+            "id": 382,
+            "sentence": 15,
+            "text": "Matthias",
+            "word": 19
+        },
+        {
+            "charBegin": 2612,
+            "charEnd": 2614,
+            "id": 383,
+            "sentence": 15,
+            "text": "W.",
+            "word": 20
+        },
+        {
+            "charBegin": 2615,
+            "charEnd": 2623,
+            "id": 384,
+            "sentence": 15,
+            "text": "Beckmann",
+            "word": 21
+        },
+        {
+            "charBegin": 2624,
+            "charEnd": 2625,
+            "id": 385,
+            "sentence": 15,
+            "text": "„",
+            "word": 22
+        },
+        {
+            "charBegin": 2625,
+            "charEnd": 2630,
+            "id": 386,
+            "sentence": 15,
+            "text": "jetzt",
+            "word": 23
+        },
+        {
+            "charBegin": 2631,
+            "charEnd": 2637,
+            "id": 387,
+            "sentence": 15,
+            "text": "Paaren",
+            "word": 24
+        },
+        {
+            "charBegin": 2638,
+            "charEnd": 2644,
+            "id": 388,
+            "sentence": 15,
+            "text": "helfen",
+            "word": 25
+        },
+        {
+            "charBegin": 2645,
+            "charEnd": 2646,
+            "id": 389,
+            "sentence": 15,
+            "text": "[",
+            "word": 26
+        },
+        {
+            "charBegin": 2646,
+            "charEnd": 2650,
+            "id": 390,
+            "sentence": 15,
+            "text": "kann",
+            "word": 27
+        },
+        {
+            "charBegin": 2650,
+            "charEnd": 2651,
+            "id": 391,
+            "sentence": 15,
+            "text": "]",
+            "word": 28
+        },
+        {
+            "charBegin": 2651,
+            "charEnd": 2652,
+            "id": 392,
+            "sentence": 15,
+            "text": ",",
+            "word": 29
+        },
+        {
+            "charBegin": 2653,
+            "charEnd": 2658,
+            "id": 393,
+            "sentence": 15,
+            "text": "deren",
+            "word": 30
+        },
+        {
+            "charBegin": 2659,
+            "charEnd": 2669,
+            "id": 394,
+            "sentence": 15,
+            "text": "Behandlung",
+            "word": 31
+        },
+        {
+            "charBegin": 2670,
+            "charEnd": 2673,
+            "id": 395,
+            "sentence": 15,
+            "text": "vor",
+            "word": 32
+        },
+        {
+            "charBegin": 2674,
+            "charEnd": 2676,
+            "id": 396,
+            "sentence": 15,
+            "text": "30",
+            "word": 33
+        },
+        {
+            "charBegin": 2677,
+            "charEnd": 2683,
+            "id": 397,
+            "sentence": 15,
+            "text": "Jahren",
+            "word": 34
+        },
+        {
+            "charBegin": 2684,
+            "charEnd": 2688,
+            "id": 398,
+            "sentence": 15,
+            "text": "kaum",
+            "word": 35
+        },
+        {
+            "charBegin": 2689,
+            "charEnd": 2696,
+            "id": 399,
+            "sentence": 15,
+            "text": "denkbar",
+            "word": 36
+        },
+        {
+            "charBegin": 2697,
+            "charEnd": 2700,
+            "id": 400,
+            "sentence": 15,
+            "text": "war",
+            "word": 37
+        },
+        {
+            "charBegin": 2700,
+            "charEnd": 2701,
+            "id": 401,
+            "sentence": 15,
+            "text": "“",
+            "word": 38
+        },
+        {
+            "charBegin": 2701,
+            "charEnd": 2702,
+            "id": 402,
+            "sentence": 15,
+            "text": ",",
+            "word": 39
+        },
+        {
+            "charBegin": 2703,
+            "charEnd": 2709,
+            "id": 403,
+            "sentence": 15,
+            "text": "suchen",
+            "word": 40
+        },
+        {
+            "charBegin": 2710,
+            "charEnd": 2713,
+            "id": 404,
+            "sentence": 15,
+            "text": "die",
+            "word": 41
+        },
+        {
+            "charBegin": 2714,
+            "charEnd": 2735,
+            "id": 405,
+            "sentence": 15,
+            "text": "Reproduktionsforscher",
+            "word": 42
+        },
+        {
+            "charBegin": 2736,
+            "charEnd": 2738,
+            "id": 406,
+            "sentence": 15,
+            "text": "an",
+            "word": 43
+        },
+        {
+            "charBegin": 2739,
+            "charEnd": 2742,
+            "id": 407,
+            "sentence": 15,
+            "text": "der",
+            "word": 44
+        },
+        {
+            "charBegin": 2743,
+            "charEnd": 2751,
+            "id": 408,
+            "sentence": 15,
+            "text": "Erlanger",
+            "word": 45
+        },
+        {
+            "charBegin": 2752,
+            "charEnd": 2770,
+            "id": 409,
+            "sentence": 15,
+            "text": "Universitätsklinik",
+            "word": 46
+        },
+        {
+            "charBegin": 2771,
+            "charEnd": 2781,
+            "id": 410,
+            "sentence": 15,
+            "text": "inzwischen",
+            "word": 47
+        },
+        {
+            "charBegin": 2782,
+            "charEnd": 2786,
+            "id": 411,
+            "sentence": 15,
+            "text": "nach",
+            "word": 48
+        },
+        {
+            "charBegin": 2787,
+            "charEnd": 2792,
+            "id": 412,
+            "sentence": 15,
+            "text": "einem",
+            "word": 49
+        },
+        {
+            "charBegin": 2793,
+            "charEnd": 2796,
+            "id": 413,
+            "sentence": 15,
+            "text": "Weg",
+            "word": 50
+        },
+        {
+            "charBegin": 2796,
+            "charEnd": 2797,
+            "id": 414,
+            "sentence": 15,
+            "text": ",",
+            "word": 51
+        },
+        {
+            "charBegin": 2798,
+            "charEnd": 2801,
+            "id": 415,
+            "sentence": 15,
+            "text": "der",
+            "word": 52
+        },
+        {
+            "charBegin": 2802,
+            "charEnd": 2804,
+            "id": 416,
+            "sentence": 15,
+            "text": "es",
+            "word": 53
+        },
+        {
+            "charBegin": 2805,
+            "charEnd": 2811,
+            "id": 417,
+            "sentence": 15,
+            "text": "jungen",
+            "word": 54
+        },
+        {
+            "charBegin": 2812,
+            "charEnd": 2824,
+            "id": 418,
+            "sentence": 15,
+            "text": "krebskranken",
+            "word": 55
+        },
+        {
+            "charBegin": 2825,
+            "charEnd": 2831,
+            "id": 419,
+            "sentence": 15,
+            "text": "Frauen",
+            "word": 56
+        },
+        {
+            "charBegin": 2832,
+            "charEnd": 2843,
+            "id": 420,
+            "sentence": 15,
+            "text": "ermöglichen",
+            "word": 57
+        },
+        {
+            "charBegin": 2844,
+            "charEnd": 2848,
+            "id": 421,
+            "sentence": 15,
+            "text": "soll",
+            "word": 58
+        },
+        {
+            "charBegin": 2848,
+            "charEnd": 2849,
+            "id": 422,
+            "sentence": 15,
+            "text": ",",
+            "word": 59
+        },
+        {
+            "charBegin": 2850,
+            "charEnd": 2856,
+            "id": 423,
+            "sentence": 15,
+            "text": "eigene",
+            "word": 60
+        },
+        {
+            "charBegin": 2857,
+            "charEnd": 2863,
+            "id": 424,
+            "sentence": 15,
+            "text": "Kinder",
+            "word": 61
+        },
+        {
+            "charBegin": 2864,
+            "charEnd": 2866,
+            "id": 425,
+            "sentence": 15,
+            "text": "zu",
+            "word": 62
+        },
+        {
+            "charBegin": 2867,
+            "charEnd": 2875,
+            "id": 426,
+            "sentence": 15,
+            "text": "bekommen",
+            "word": 63
+        },
+        {
+            "charBegin": 2875,
+            "charEnd": 2876,
+            "id": 427,
+            "sentence": 15,
+            "text": ".",
+            "word": 64
+        },
+        {
+            "charBegin": 2877,
+            "charEnd": 2878,
+            "id": 428,
+            "sentence": 16,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 2878,
+            "charEnd": 2883,
+            "id": 429,
+            "sentence": 16,
+            "text": "Diese",
+            "word": 2
+        },
+        {
+            "charBegin": 2884,
+            "charEnd": 2890,
+            "id": 430,
+            "sentence": 16,
+            "text": "Frauen",
+            "word": 3
+        },
+        {
+            "charBegin": 2891,
+            "charEnd": 2897,
+            "id": 431,
+            "sentence": 16,
+            "text": "müssen",
+            "word": 4
+        },
+        {
+            "charBegin": 2898,
+            "charEnd": 2904,
+            "id": 432,
+            "sentence": 16,
+            "text": "bisher",
+            "word": 5
+        },
+        {
+            "charBegin": 2905,
+            "charEnd": 2908,
+            "id": 433,
+            "sentence": 16,
+            "text": "oft",
+            "word": 6
+        },
+        {
+            "charBegin": 2909,
+            "charEnd": 2912,
+            "id": 434,
+            "sentence": 16,
+            "text": "auf",
+            "word": 7
+        },
+        {
+            "charBegin": 2913,
+            "charEnd": 2920,
+            "id": 435,
+            "sentence": 16,
+            "text": "eigenen",
+            "word": 8
+        },
+        {
+            "charBegin": 2921,
+            "charEnd": 2930,
+            "id": 436,
+            "sentence": 16,
+            "text": "Nachwuchs",
+            "word": 9
+        },
+        {
+            "charBegin": 2931,
+            "charEnd": 2941,
+            "id": 437,
+            "sentence": 16,
+            "text": "verzichten",
+            "word": 10
+        },
+        {
+            "charBegin": 2941,
+            "charEnd": 2942,
+            "id": 438,
+            "sentence": 16,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 2943,
+            "charEnd": 2947,
+            "id": 439,
+            "sentence": 16,
+            "text": "weil",
+            "word": 12
+        },
+        {
+            "charBegin": 2948,
+            "charEnd": 2951,
+            "id": 440,
+            "sentence": 16,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 2952,
+            "charEnd": 2962,
+            "id": 441,
+            "sentence": 16,
+            "text": "Behandlung",
+            "word": 14
+        },
+        {
+            "charBegin": 2963,
+            "charEnd": 2966,
+            "id": 442,
+            "sentence": 16,
+            "text": "sie",
+            "word": 15
+        },
+        {
+            "charBegin": 2967,
+            "charEnd": 2971,
+            "id": 443,
+            "sentence": 16,
+            "text": "zwar",
+            "word": 16
+        },
+        {
+            "charBegin": 2972,
+            "charEnd": 2979,
+            "id": 444,
+            "sentence": 16,
+            "text": "geheilt",
+            "word": 17
+        },
+        {
+            "charBegin": 2980,
+            "charEnd": 2983,
+            "id": 445,
+            "sentence": 16,
+            "text": "hat",
+            "word": 18
+        },
+        {
+            "charBegin": 2983,
+            "charEnd": 2984,
+            "id": 446,
+            "sentence": 16,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 2985,
+            "charEnd": 2988,
+            "id": 447,
+            "sentence": 16,
+            "text": "die",
+            "word": 20
+        },
+        {
+            "charBegin": 2989,
+            "charEnd": 2999,
+            "id": 448,
+            "sentence": 16,
+            "text": "Eierstöcke",
+            "word": 21
+        },
+        {
+            "charBegin": 3000,
+            "charEnd": 3004,
+            "id": 449,
+            "sentence": 16,
+            "text": "aber",
+            "word": 22
+        },
+        {
+            "charBegin": 3005,
+            "charEnd": 3010,
+            "id": 450,
+            "sentence": 16,
+            "text": "durch",
+            "word": 23
+        },
+        {
+            "charBegin": 3011,
+            "charEnd": 3014,
+            "id": 451,
+            "sentence": 16,
+            "text": "die",
+            "word": 24
+        },
+        {
+            "charBegin": 3015,
+            "charEnd": 3022,
+            "id": 452,
+            "sentence": 16,
+            "text": "nötigen",
+            "word": 25
+        },
+        {
+            "charBegin": 3023,
+            "charEnd": 3034,
+            "id": 453,
+            "sentence": 16,
+            "text": "Medikamente",
+            "word": 26
+        },
+        {
+            "charBegin": 3035,
+            "charEnd": 3038,
+            "id": 454,
+            "sentence": 16,
+            "text": "auf",
+            "word": 27
+        },
+        {
+            "charBegin": 3039,
+            "charEnd": 3044,
+            "id": 455,
+            "sentence": 16,
+            "text": "Dauer",
+            "word": 28
+        },
+        {
+            "charBegin": 3045,
+            "charEnd": 3055,
+            "id": 456,
+            "sentence": 16,
+            "text": "geschädigt",
+            "word": 29
+        },
+        {
+            "charBegin": 3056,
+            "charEnd": 3062,
+            "id": 457,
+            "sentence": 16,
+            "text": "wurden",
+            "word": 30
+        },
+        {
+            "charBegin": 3062,
+            "charEnd": 3063,
+            "id": 458,
+            "sentence": 16,
+            "text": ",",
+            "word": 31
+        },
+        {
+            "charBegin": 3063,
+            "charEnd": 3064,
+            "id": 459,
+            "sentence": 16,
+            "text": "“",
+            "word": 32
+        },
+        {
+            "charBegin": 3065,
+            "charEnd": 3070,
+            "id": 460,
+            "sentence": 16,
+            "text": "sagte",
+            "word": 33
+        },
+        {
+            "charBegin": 3071,
+            "charEnd": 3080,
+            "id": 461,
+            "sentence": 16,
+            "text": "Professor",
+            "word": 34
+        },
+        {
+            "charBegin": 3081,
+            "charEnd": 3089,
+            "id": 462,
+            "sentence": 16,
+            "text": "Beckmann",
+            "word": 35
+        },
+        {
+            "charBegin": 3089,
+            "charEnd": 3090,
+            "id": 463,
+            "sentence": 16,
+            "text": ".",
+            "word": 36
+        },
+        {
+            "charBegin": 3091,
+            "charEnd": 3094,
+            "id": 464,
+            "sentence": 17,
+            "text": "Wie",
+            "word": 1
+        },
+        {
+            "charBegin": 3095,
+            "charEnd": 3107,
+            "id": 465,
+            "sentence": 17,
+            "text": "Privatdozent",
+            "word": 2
+        },
+        {
+            "charBegin": 3108,
+            "charEnd": 3111,
+            "id": 466,
+            "sentence": 17,
+            "text": "Dr.",
+            "word": 3
+        },
+        {
+            "charBegin": 3112,
+            "charEnd": 3120,
+            "id": 467,
+            "sentence": 17,
+            "text": "Dittrich",
+            "word": 4
+        },
+        {
+            "charBegin": 3121,
+            "charEnd": 3124,
+            "id": 468,
+            "sentence": 17,
+            "text": "aus",
+            "word": 5
+        },
+        {
+            "charBegin": 3125,
+            "charEnd": 3128,
+            "id": 469,
+            "sentence": 17,
+            "text": "dem",
+            "word": 6
+        },
+        {
+            "charBegin": 3129,
+            "charEnd": 3141,
+            "id": 470,
+            "sentence": 17,
+            "text": "Forscherteam",
+            "word": 7
+        },
+        {
+            "charBegin": 3142,
+            "charEnd": 3150,
+            "id": 471,
+            "sentence": 17,
+            "text": "erklärte",
+            "word": 8
+        },
+        {
+            "charBegin": 3150,
+            "charEnd": 3151,
+            "id": 472,
+            "sentence": 17,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 3152,
+            "charEnd": 3160,
+            "id": 473,
+            "sentence": 17,
+            "text": "entnimmt",
+            "word": 10
+        },
+        {
+            "charBegin": 3161,
+            "charEnd": 3164,
+            "id": 474,
+            "sentence": 17,
+            "text": "man",
+            "word": 11
+        },
+        {
+            "charBegin": 3165,
+            "charEnd": 3169,
+            "id": 475,
+            "sentence": 17,
+            "text": "dazu",
+            "word": 12
+        },
+        {
+            "charBegin": 3170,
+            "charEnd": 3173,
+            "id": 476,
+            "sentence": 17,
+            "text": "den",
+            "word": 13
+        },
+        {
+            "charBegin": 3174,
+            "charEnd": 3180,
+            "id": 477,
+            "sentence": 17,
+            "text": "Frauen",
+            "word": 14
+        },
+        {
+            "charBegin": 3181,
+            "charEnd": 3184,
+            "id": 478,
+            "sentence": 17,
+            "text": "vor",
+            "word": 15
+        },
+        {
+            "charBegin": 3185,
+            "charEnd": 3188,
+            "id": 479,
+            "sentence": 17,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 3189,
+            "charEnd": 3202,
+            "id": 480,
+            "sentence": 17,
+            "text": "Krebstherapie",
+            "word": 17
+        },
+        {
+            "charBegin": 3203,
+            "charEnd": 3218,
+            "id": 481,
+            "sentence": 17,
+            "text": "Eierstockgewebe",
+            "word": 18
+        },
+        {
+            "charBegin": 3218,
+            "charEnd": 3219,
+            "id": 482,
+            "sentence": 17,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 3220,
+            "charEnd": 3226,
+            "id": 483,
+            "sentence": 18,
+            "text": "Dieses",
+            "word": 1
+        },
+        {
+            "charBegin": 3227,
+            "charEnd": 3233,
+            "id": 484,
+            "sentence": 18,
+            "text": "Gewebe",
+            "word": 2
+        },
+        {
+            "charBegin": 3234,
+            "charEnd": 3238,
+            "id": 485,
+            "sentence": 18,
+            "text": "wird",
+            "word": 3
+        },
+        {
+            "charBegin": 3239,
+            "charEnd": 3250,
+            "id": 486,
+            "sentence": 18,
+            "text": "eingefroren",
+            "word": 4
+        },
+        {
+            "charBegin": 3251,
+            "charEnd": 3254,
+            "id": 487,
+            "sentence": 18,
+            "text": "und",
+            "word": 5
+        },
+        {
+            "charBegin": 3255,
+            "charEnd": 3259,
+            "id": 488,
+            "sentence": 18,
+            "text": "nach",
+            "word": 6
+        },
+        {
+            "charBegin": 3260,
+            "charEnd": 3270,
+            "id": 489,
+            "sentence": 18,
+            "text": "Beendigung",
+            "word": 7
+        },
+        {
+            "charBegin": 3271,
+            "charEnd": 3274,
+            "id": 490,
+            "sentence": 18,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 3275,
+            "charEnd": 3283,
+            "id": 491,
+            "sentence": 18,
+            "text": "Therapie",
+            "word": 9
+        },
+        {
+            "charBegin": 3284,
+            "charEnd": 3300,
+            "id": 492,
+            "sentence": 18,
+            "text": "retransplantiert",
+            "word": 10
+        },
+        {
+            "charBegin": 3300,
+            "charEnd": 3301,
+            "id": 493,
+            "sentence": 18,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 3302,
+            "charEnd": 3304,
+            "id": 494,
+            "sentence": 19,
+            "text": "Da",
+            "word": 1
+        },
+        {
+            "charBegin": 3305,
+            "charEnd": 3322,
+            "id": 495,
+            "sentence": 19,
+            "text": "Krebsbehandlungen",
+            "word": 2
+        },
+        {
+            "charBegin": 3323,
+            "charEnd": 3326,
+            "id": 496,
+            "sentence": 19,
+            "text": "bei",
+            "word": 3
+        },
+        {
+            "charBegin": 3327,
+            "charEnd": 3333,
+            "id": 497,
+            "sentence": 19,
+            "text": "jungen",
+            "word": 4
+        },
+        {
+            "charBegin": 3334,
+            "charEnd": 3342,
+            "id": 498,
+            "sentence": 19,
+            "text": "Menschen",
+            "word": 5
+        },
+        {
+            "charBegin": 3343,
+            "charEnd": 3348,
+            "id": 499,
+            "sentence": 19,
+            "text": "immer",
+            "word": 6
+        },
+        {
+            "charBegin": 3349,
+            "charEnd": 3357,
+            "id": 500,
+            "sentence": 19,
+            "text": "häufiger",
+            "word": 7
+        },
+        {
+            "charBegin": 3358,
+            "charEnd": 3369,
+            "id": 501,
+            "sentence": 19,
+            "text": "erfolgreich",
+            "word": 8
+        },
+        {
+            "charBegin": 3370,
+            "charEnd": 3379,
+            "id": 502,
+            "sentence": 19,
+            "text": "verlaufen",
+            "word": 9
+        },
+        {
+            "charBegin": 3379,
+            "charEnd": 3380,
+            "id": 503,
+            "sentence": 19,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 3381,
+            "charEnd": 3388,
+            "id": 504,
+            "sentence": 19,
+            "text": "rechnet",
+            "word": 11
+        },
+        {
+            "charBegin": 3389,
+            "charEnd": 3392,
+            "id": 505,
+            "sentence": 19,
+            "text": "Dr.",
+            "word": 12
+        },
+        {
+            "charBegin": 3393,
+            "charEnd": 3401,
+            "id": 506,
+            "sentence": 19,
+            "text": "Dittrich",
+            "word": 13
+        },
+        {
+            "charBegin": 3402,
+            "charEnd": 3405,
+            "id": 507,
+            "sentence": 19,
+            "text": "mit",
+            "word": 14
+        },
+        {
+            "charBegin": 3406,
+            "charEnd": 3411,
+            "id": 508,
+            "sentence": 19,
+            "text": "einem",
+            "word": 15
+        },
+        {
+            "charBegin": 3412,
+            "charEnd": 3423,
+            "id": 509,
+            "sentence": 19,
+            "text": "zunehmenden",
+            "word": 16
+        },
+        {
+            "charBegin": 3424,
+            "charEnd": 3430,
+            "id": 510,
+            "sentence": 19,
+            "text": "Bedarf",
+            "word": 17
+        },
+        {
+            "charBegin": 3431,
+            "charEnd": 3433,
+            "id": 511,
+            "sentence": 19,
+            "text": "an",
+            "word": 18
+        },
+        {
+            "charBegin": 3434,
+            "charEnd": 3440,
+            "id": 512,
+            "sentence": 19,
+            "text": "diesem",
+            "word": 19
+        },
+        {
+            "charBegin": 3441,
+            "charEnd": 3450,
+            "id": 513,
+            "sentence": 19,
+            "text": "Verfahren",
+            "word": 20
+        },
+        {
+            "charBegin": 3450,
+            "charEnd": 3451,
+            "id": 514,
+            "sentence": 19,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 3452,
+            "charEnd": 3454,
+            "id": 515,
+            "sentence": 20,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 3455,
+            "charEnd": 3458,
+            "id": 516,
+            "sentence": 20,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 3459,
+            "charEnd": 3467,
+            "id": 517,
+            "sentence": 20,
+            "text": "Erlanger",
+            "word": 3
+        },
+        {
+            "charBegin": 3468,
+            "charEnd": 3483,
+            "id": 518,
+            "sentence": 20,
+            "text": "Gewebedatenbank",
+            "word": 4
+        },
+        {
+            "charBegin": 3484,
+            "charEnd": 3492,
+            "id": 519,
+            "sentence": 20,
+            "text": "warteten",
+            "word": 5
+        },
+        {
+            "charBegin": 3493,
+            "charEnd": 3497,
+            "id": 520,
+            "sentence": 20,
+            "text": "Ende",
+            "word": 6
+        },
+        {
+            "charBegin": 3498,
+            "charEnd": 3502,
+            "id": 521,
+            "sentence": 20,
+            "text": "2006",
+            "word": 7
+        },
+        {
+            "charBegin": 3503,
+            "charEnd": 3508,
+            "id": 522,
+            "sentence": 20,
+            "text": "schon",
+            "word": 8
+        },
+        {
+            "charBegin": 3509,
+            "charEnd": 3512,
+            "id": 523,
+            "sentence": 20,
+            "text": "100",
+            "word": 9
+        },
+        {
+            "charBegin": 3513,
+            "charEnd": 3525,
+            "id": 524,
+            "sentence": 20,
+            "text": "Gewebeproben",
+            "word": 10
+        },
+        {
+            "charBegin": 3526,
+            "charEnd": 3532,
+            "id": 525,
+            "sentence": 20,
+            "text": "darauf",
+            "word": 11
+        },
+        {
+            "charBegin": 3532,
+            "charEnd": 3533,
+            "id": 526,
+            "sentence": 20,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 3534,
+            "charEnd": 3539,
+            "id": 527,
+            "sentence": 20,
+            "text": "ihren",
+            "word": 13
+        },
+        {
+            "charBegin": 3540,
+            "charEnd": 3553,
+            "id": 528,
+            "sentence": 20,
+            "text": "Besitzerinnen",
+            "word": 14
+        },
+        {
+            "charBegin": 3554,
+            "charEnd": 3560,
+            "id": 529,
+            "sentence": 20,
+            "text": "wieder",
+            "word": 15
+        },
+        {
+            "charBegin": 3561,
+            "charEnd": 3573,
+            "id": 530,
+            "sentence": 20,
+            "text": "eingepflanzt",
+            "word": 16
+        },
+        {
+            "charBegin": 3574,
+            "charEnd": 3576,
+            "id": 531,
+            "sentence": 20,
+            "text": "zu",
+            "word": 17
+        },
+        {
+            "charBegin": 3577,
+            "charEnd": 3583,
+            "id": 532,
+            "sentence": 20,
+            "text": "werden",
+            "word": 18
+        },
+        {
+            "charBegin": 3583,
+            "charEnd": 3584,
+            "id": 533,
+            "sentence": 20,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 3585,
+            "charEnd": 3593,
+            "id": 534,
+            "sentence": 21,
+            "text": "Weltweit",
+            "word": 1
+        },
+        {
+            "charBegin": 3594,
+            "charEnd": 3601,
+            "id": 535,
+            "sentence": 21,
+            "text": "konnten",
+            "word": 2
+        },
+        {
+            "charBegin": 3602,
+            "charEnd": 3607,
+            "id": 536,
+            "sentence": 21,
+            "text": "durch",
+            "word": 3
+        },
+        {
+            "charBegin": 3608,
+            "charEnd": 3613,
+            "id": 537,
+            "sentence": 21,
+            "text": "diese",
+            "word": 4
+        },
+        {
+            "charBegin": 3614,
+            "charEnd": 3621,
+            "id": 538,
+            "sentence": 21,
+            "text": "Methode",
+            "word": 5
+        },
+        {
+            "charBegin": 3622,
+            "charEnd": 3626,
+            "id": 539,
+            "sentence": 21,
+            "text": "aber",
+            "word": 6
+        },
+        {
+            "charBegin": 3627,
+            "charEnd": 3633,
+            "id": 540,
+            "sentence": 21,
+            "text": "bisher",
+            "word": 7
+        },
+        {
+            "charBegin": 3634,
+            "charEnd": 3637,
+            "id": 541,
+            "sentence": 21,
+            "text": "nur",
+            "word": 8
+        },
+        {
+            "charBegin": 3638,
+            "charEnd": 3642,
+            "id": 542,
+            "sentence": 21,
+            "text": "zwei",
+            "word": 9
+        },
+        {
+            "charBegin": 3643,
+            "charEnd": 3660,
+            "id": 543,
+            "sentence": 21,
+            "text": "Schwangerschaften",
+            "word": 10
+        },
+        {
+            "charBegin": 3662,
+            "charEnd": 3675,
+            "id": 544,
+            "sentence": 21,
+            "text": "herbeigeführt",
+            "word": 11
+        },
+        {
+            "charBegin": 3676,
+            "charEnd": 3682,
+            "id": 545,
+            "sentence": 21,
+            "text": "werden",
+            "word": 12
+        },
+        {
+            "charBegin": 3682,
+            "charEnd": 3683,
+            "id": 546,
+            "sentence": 21,
+            "text": ".",
+            "word": 13
+        }
+    ]
+}

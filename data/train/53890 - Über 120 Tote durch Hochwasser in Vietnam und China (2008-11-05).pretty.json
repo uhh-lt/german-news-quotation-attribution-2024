@@ -1,0 +1,3061 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 33,
+                        "charBegin": 229,
+                        "charEnd": 233,
+                        "end": 34
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    33
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 33,
+                        "charBegin": 229,
+                        "charEnd": 265,
+                        "end": 39
+                    }
+                ],
+                "text": "Nach Angaben der Zeitung China Daily",
+                "tokenIds": [
+                    33,
+                    34,
+                    35,
+                    36,
+                    37,
+                    38
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 39,
+                        "charBegin": 266,
+                        "charEnd": 335,
+                        "end": 51
+                    }
+                ],
+                "text": "sind die Fluten in der Provinz Guangxi die schwersten seit 101 Jahren",
+                "tokenIds": [
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 34,
+                        "charBegin": 234,
+                        "charEnd": 265,
+                        "end": 39
+                    }
+                ],
+                "text": "Angaben der Zeitung China Daily",
+                "tokenIds": [
+                    34,
+                    35,
+                    36,
+                    37,
+                    38
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 111,
+                        "charBegin": 739,
+                        "charEnd": 743,
+                        "end": 112
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    111
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 111,
+                        "charBegin": 739,
+                        "charEnd": 811,
+                        "end": 123
+                    }
+                ],
+                "text": "Nach den Worten des kommunistischen Parteichefs Hanois, Pham Quang Nghi,",
+                "tokenIds": [
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122
+                ]
+            },
+            "hasNested": true,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 123,
+                        "charBegin": 812,
+                        "charEnd": 888,
+                        "end": 136
+                    }
+                ],
+                "text": "handelt es sich um „die schwerste Naturkatastrophe in der Geschichte Hanois“",
+                "tokenIds": [
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 112,
+                        "charBegin": 744,
+                        "charEnd": 810,
+                        "end": 122
+                    }
+                ],
+                "text": "den Worten des kommunistischen Parteichefs Hanois, Pham Quang Nghi",
+                "tokenIds": [
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 111,
+                        "charBegin": 739,
+                        "charEnd": 743,
+                        "end": 112
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    111
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 111,
+                        "charBegin": 739,
+                        "charEnd": 811,
+                        "end": 123
+                    }
+                ],
+                "text": "Nach den Worten des kommunistischen Parteichefs Hanois, Pham Quang Nghi,",
+                "tokenIds": [
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 127,
+                        "charBegin": 831,
+                        "charEnd": 888,
+                        "end": 136
+                    }
+                ],
+                "text": "„die schwerste Naturkatastrophe in der Geschichte Hanois“",
+                "tokenIds": [
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 112,
+                        "charBegin": 744,
+                        "charEnd": 810,
+                        "end": 122
+                    }
+                ],
+                "text": "den Worten des kommunistischen Parteichefs Hanois, Pham Quang Nghi",
+                "tokenIds": [
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 137,
+                        "charBegin": 890,
+                        "charEnd": 1012,
+                        "end": 153
+                    }
+                ],
+                "text": "Das vietnamesische Gesundheitsministerium erwartete in den am meisten betroffenen Gebieten Seuchen wie Cholera und Typhus.",
+                "tokenIds": [
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 137,
+                        "charBegin": 890,
+                        "charEnd": 931,
+                        "end": 140
+                    }
+                ],
+                "text": "Das vietnamesische Gesundheitsministerium",
+                "tokenIds": [
+                    137,
+                    138,
+                    139
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 206,
+                        "charBegin": 1345,
+                        "charEnd": 1418,
+                        "end": 217
+                    }
+                ],
+                "text": "Die Meteorologen sagten für die kommenden Tage weitere Regenfälle voraus.",
+                "tokenIds": [
+                    206,
+                    207,
+                    208,
+                    209,
+                    210,
+                    211,
+                    212,
+                    213,
+                    214,
+                    215,
+                    216
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 206,
+                        "charBegin": 1345,
+                        "charEnd": 1361,
+                        "end": 208
+                    }
+                ],
+                "text": "Die Meteorologen",
+                "tokenIds": [
+                    206,
+                    207
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 226,
+                        "charBegin": 1473,
+                        "charEnd": 1477,
+                        "end": 227
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    226
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 226,
+                        "charBegin": 1473,
+                        "charEnd": 1503,
+                        "end": 230
+                    }
+                ],
+                "text": "Nach Schätzungen der Regierung",
+                "tokenIds": [
+                    226,
+                    227,
+                    228,
+                    229
+                ]
+            },
+            "hasNested": false,
+            "id": 5,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 230,
+                        "charBegin": 1504,
+                        "charEnd": 1575,
+                        "end": 237
+                    }
+                ],
+                "text": "wurden etwa 260.000 Hektar landwirtschaftliche Nutzflächen überschwemmt",
+                "tokenIds": [
+                    230,
+                    231,
+                    232,
+                    233,
+                    234,
+                    235,
+                    236
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 227,
+                        "charBegin": 1478,
+                        "charEnd": 1503,
+                        "end": 230
+                    }
+                ],
+                "text": "Schätzungen der Regierung",
+                "tokenIds": [
+                    227,
+                    228,
+                    229
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "53890 - Über 120 Tote durch Hochwasser in Vietnam und China (2008-11-05)",
+    "originalText": "Dreitägiger Dauerregen hat in Vietnam und in China zu Hochwasser und Überschwemmungen geführt. Im chinesischen Südwesten wurden 51 Personen durch Schlammlawinen und Flutwasser getötet, und mindestens 43 Personen werden vermisst. Nach Angaben der Zeitung China Daily sind die Fluten in der Provinz Guangxi die schwersten seit 101 Jahren. In Vietnam forderte die Naturkatastrophe 92 Menschenleben. Betroffen ist auch Hanoi, wo alleine 20 Personen durch Blitzschlag, Ertrinken oder Stromschlag ihr Leben verloren. In der drei Millionen Einwohner zählenden Hauptstadt sind 35.000 Haushalte von den Überflutungen betroffen. In Zentralvietnam wurden 41 Personen getötet, 44 entfallen auf die nördlichen Provinzen einschließlich der Hauptstadt.\n\nNach den Worten des kommunistischen Parteichefs Hanois, Pham Quang Nghi, handelt es sich um „die schwerste Naturkatastrophe in der Geschichte Hanois“. Das vietnamesische Gesundheitsministerium erwartete in den am meisten betroffenen Gebieten Seuchen wie Cholera und Typhus.\n\nDie Regenfälle haben am Montag, dem 3. November, zwar nachgelassen, nahmen aber am 4. November wieder an Intensität zu. Viele Straßenverbindungen zu abgelegenen Ortschaften sind unterbrochen. 9.000 Soldaten wurden in die Mündungsregion des Roten Flusses beordert, weil durch das Hochwasser der Bruch von Deichen befürchtet wurde.\n\nDie Meteorologen sagten für die kommenden Tage weitere Regenfälle voraus. Die Preise für Lebensmittel stiegen infolge der Flut. Nach Schätzungen der Regierung wurden etwa 260.000 Hektar landwirtschaftliche Nutzflächen überschwemmt.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 94,
+            "end": 14,
+            "id": 0,
+            "text": "Dreitägiger Dauerregen hat in Vietnam und in China zu Hochwasser und Überschwemmungen geführt. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ],
+            "tokens": [
+                "Dreitägiger",
+                "Dauerregen",
+                "hat",
+                "in",
+                "Vietnam",
+                "und",
+                "in",
+                "China",
+                "zu",
+                "Hochwasser",
+                "und",
+                "Überschwemmungen",
+                "geführt",
+                "."
+            ]
+        },
+        {
+            "begin": 14,
+            "charBegin": 95,
+            "charEnd": 228,
+            "end": 33,
+            "id": 1,
+            "text": "Im chinesischen Südwesten wurden 51 Personen durch Schlammlawinen und Flutwasser getötet, und mindestens 43 Personen werden vermisst. ",
+            "tokenIds": [
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32
+            ],
+            "tokens": [
+                "Im",
+                "chinesischen",
+                "Südwesten",
+                "wurden",
+                "51",
+                "Personen",
+                "durch",
+                "Schlammlawinen",
+                "und",
+                "Flutwasser",
+                "getötet",
+                ",",
+                "und",
+                "mindestens",
+                "43",
+                "Personen",
+                "werden",
+                "vermisst",
+                "."
+            ]
+        },
+        {
+            "begin": 33,
+            "charBegin": 229,
+            "charEnd": 336,
+            "end": 52,
+            "id": 2,
+            "text": "Nach Angaben der Zeitung China Daily sind die Fluten in der Provinz Guangxi die schwersten seit 101 Jahren. ",
+            "tokenIds": [
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51
+            ],
+            "tokens": [
+                "Nach",
+                "Angaben",
+                "der",
+                "Zeitung",
+                "China",
+                "Daily",
+                "sind",
+                "die",
+                "Fluten",
+                "in",
+                "der",
+                "Provinz",
+                "Guangxi",
+                "die",
+                "schwersten",
+                "seit",
+                "101",
+                "Jahren",
+                "."
+            ]
+        },
+        {
+            "begin": 52,
+            "charBegin": 337,
+            "charEnd": 395,
+            "end": 60,
+            "id": 3,
+            "text": "In Vietnam forderte die Naturkatastrophe 92 Menschenleben. ",
+            "tokenIds": [
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59
+            ],
+            "tokens": [
+                "In",
+                "Vietnam",
+                "forderte",
+                "die",
+                "Naturkatastrophe",
+                "92",
+                "Menschenleben",
+                "."
+            ]
+        },
+        {
+            "begin": 60,
+            "charBegin": 396,
+            "charEnd": 510,
+            "end": 79,
+            "id": 4,
+            "text": "Betroffen ist auch Hanoi, wo alleine 20 Personen durch Blitzschlag, Ertrinken oder Stromschlag ihr Leben verloren. ",
+            "tokenIds": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78
+            ],
+            "tokens": [
+                "Betroffen",
+                "ist",
+                "auch",
+                "Hanoi",
+                ",",
+                "wo",
+                "alleine",
+                "20",
+                "Personen",
+                "durch",
+                "Blitzschlag",
+                ",",
+                "Ertrinken",
+                "oder",
+                "Stromschlag",
+                "ihr",
+                "Leben",
+                "verloren",
+                "."
+            ]
+        },
+        {
+            "begin": 79,
+            "charBegin": 511,
+            "charEnd": 618,
+            "end": 94,
+            "id": 5,
+            "text": "In der drei Millionen Einwohner zählenden Hauptstadt sind 35.000 Haushalte von den Überflutungen betroffen. ",
+            "tokenIds": [
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93
+            ],
+            "tokens": [
+                "In",
+                "der",
+                "drei",
+                "Millionen",
+                "Einwohner",
+                "zählenden",
+                "Hauptstadt",
+                "sind",
+                "35.000",
+                "Haushalte",
+                "von",
+                "den",
+                "Überflutungen",
+                "betroffen",
+                "."
+            ]
+        },
+        {
+            "begin": 94,
+            "charBegin": 619,
+            "charEnd": 737,
+            "end": 111,
+            "id": 6,
+            "text": "In Zentralvietnam wurden 41 Personen getötet, 44 entfallen auf die nördlichen Provinzen einschließlich der Hauptstadt.",
+            "tokenIds": [
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110
+            ],
+            "tokens": [
+                "In",
+                "Zentralvietnam",
+                "wurden",
+                "41",
+                "Personen",
+                "getötet",
+                ",",
+                "44",
+                "entfallen",
+                "auf",
+                "die",
+                "nördlichen",
+                "Provinzen",
+                "einschließlich",
+                "der",
+                "Hauptstadt",
+                "."
+            ]
+        },
+        {
+            "begin": 111,
+            "charBegin": 739,
+            "charEnd": 889,
+            "end": 137,
+            "id": 7,
+            "text": "Nach den Worten des kommunistischen Parteichefs Hanois, Pham Quang Nghi, handelt es sich um „die schwerste Naturkatastrophe in der Geschichte Hanois“. ",
+            "tokenIds": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136
+            ],
+            "tokens": [
+                "Nach",
+                "den",
+                "Worten",
+                "des",
+                "kommunistischen",
+                "Parteichefs",
+                "Hanois",
+                ",",
+                "Pham",
+                "Quang",
+                "Nghi",
+                ",",
+                "handelt",
+                "es",
+                "sich",
+                "um",
+                "„",
+                "die",
+                "schwerste",
+                "Naturkatastrophe",
+                "in",
+                "der",
+                "Geschichte",
+                "Hanois",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 137,
+            "charBegin": 890,
+            "charEnd": 1012,
+            "end": 153,
+            "id": 8,
+            "text": "Das vietnamesische Gesundheitsministerium erwartete in den am meisten betroffenen Gebieten Seuchen wie Cholera und Typhus.",
+            "tokenIds": [
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152
+            ],
+            "tokens": [
+                "Das",
+                "vietnamesische",
+                "Gesundheitsministerium",
+                "erwartete",
+                "in",
+                "den",
+                "am",
+                "meisten",
+                "betroffenen",
+                "Gebieten",
+                "Seuchen",
+                "wie",
+                "Cholera",
+                "und",
+                "Typhus",
+                "."
+            ]
+        },
+        {
+            "begin": 153,
+            "charBegin": 1014,
+            "charEnd": 1133,
+            "end": 176,
+            "id": 9,
+            "text": "Die Regenfälle haben am Montag, dem 3. November, zwar nachgelassen, nahmen aber am 4. November wieder an Intensität zu. ",
+            "tokenIds": [
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175
+            ],
+            "tokens": [
+                "Die",
+                "Regenfälle",
+                "haben",
+                "am",
+                "Montag",
+                ",",
+                "dem",
+                "3.",
+                "November",
+                ",",
+                "zwar",
+                "nachgelassen",
+                ",",
+                "nahmen",
+                "aber",
+                "am",
+                "4.",
+                "November",
+                "wieder",
+                "an",
+                "Intensität",
+                "zu",
+                "."
+            ]
+        },
+        {
+            "begin": 176,
+            "charBegin": 1134,
+            "charEnd": 1205,
+            "end": 184,
+            "id": 10,
+            "text": "Viele Straßenverbindungen zu abgelegenen Ortschaften sind unterbrochen. ",
+            "tokenIds": [
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183
+            ],
+            "tokens": [
+                "Viele",
+                "Straßenverbindungen",
+                "zu",
+                "abgelegenen",
+                "Ortschaften",
+                "sind",
+                "unterbrochen",
+                "."
+            ]
+        },
+        {
+            "begin": 184,
+            "charBegin": 1206,
+            "charEnd": 1343,
+            "end": 206,
+            "id": 11,
+            "text": "9.000 Soldaten wurden in die Mündungsregion des Roten Flusses beordert, weil durch das Hochwasser der Bruch von Deichen befürchtet wurde.",
+            "tokenIds": [
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205
+            ],
+            "tokens": [
+                "9.000",
+                "Soldaten",
+                "wurden",
+                "in",
+                "die",
+                "Mündungsregion",
+                "des",
+                "Roten",
+                "Flusses",
+                "beordert",
+                ",",
+                "weil",
+                "durch",
+                "das",
+                "Hochwasser",
+                "der",
+                "Bruch",
+                "von",
+                "Deichen",
+                "befürchtet",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "begin": 206,
+            "charBegin": 1345,
+            "charEnd": 1418,
+            "end": 217,
+            "id": 12,
+            "text": "Die Meteorologen sagten für die kommenden Tage weitere Regenfälle voraus. ",
+            "tokenIds": [
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216
+            ],
+            "tokens": [
+                "Die",
+                "Meteorologen",
+                "sagten",
+                "für",
+                "die",
+                "kommenden",
+                "Tage",
+                "weitere",
+                "Regenfälle",
+                "voraus",
+                "."
+            ]
+        },
+        {
+            "begin": 217,
+            "charBegin": 1419,
+            "charEnd": 1472,
+            "end": 226,
+            "id": 13,
+            "text": "Die Preise für Lebensmittel stiegen infolge der Flut. ",
+            "tokenIds": [
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225
+            ],
+            "tokens": [
+                "Die",
+                "Preise",
+                "für",
+                "Lebensmittel",
+                "stiegen",
+                "infolge",
+                "der",
+                "Flut",
+                "."
+            ]
+        },
+        {
+            "begin": 226,
+            "charBegin": 1473,
+            "charEnd": 1576,
+            "end": 238,
+            "id": 14,
+            "text": "Nach Schätzungen der Regierung wurden etwa 260.000 Hektar landwirtschaftliche Nutzflächen überschwemmt.",
+            "tokenIds": [
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237
+            ],
+            "tokens": [
+                "Nach",
+                "Schätzungen",
+                "der",
+                "Regierung",
+                "wurden",
+                "etwa",
+                "260.000",
+                "Hektar",
+                "landwirtschaftliche",
+                "Nutzflächen",
+                "überschwemmt",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 11,
+            "id": 0,
+            "sentence": 1,
+            "text": "Dreitägiger",
+            "word": 1
+        },
+        {
+            "charBegin": 12,
+            "charEnd": 22,
+            "id": 1,
+            "sentence": 1,
+            "text": "Dauerregen",
+            "word": 2
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 26,
+            "id": 2,
+            "sentence": 1,
+            "text": "hat",
+            "word": 3
+        },
+        {
+            "charBegin": 27,
+            "charEnd": 29,
+            "id": 3,
+            "sentence": 1,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 37,
+            "id": 4,
+            "sentence": 1,
+            "text": "Vietnam",
+            "word": 5
+        },
+        {
+            "charBegin": 38,
+            "charEnd": 41,
+            "id": 5,
+            "sentence": 1,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 44,
+            "id": 6,
+            "sentence": 1,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 50,
+            "id": 7,
+            "sentence": 1,
+            "text": "China",
+            "word": 8
+        },
+        {
+            "charBegin": 51,
+            "charEnd": 53,
+            "id": 8,
+            "sentence": 1,
+            "text": "zu",
+            "word": 9
+        },
+        {
+            "charBegin": 54,
+            "charEnd": 64,
+            "id": 9,
+            "sentence": 1,
+            "text": "Hochwasser",
+            "word": 10
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 68,
+            "id": 10,
+            "sentence": 1,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 69,
+            "charEnd": 85,
+            "id": 11,
+            "sentence": 1,
+            "text": "Überschwemmungen",
+            "word": 12
+        },
+        {
+            "charBegin": 86,
+            "charEnd": 93,
+            "id": 12,
+            "sentence": 1,
+            "text": "geführt",
+            "word": 13
+        },
+        {
+            "charBegin": 93,
+            "charEnd": 94,
+            "id": 13,
+            "sentence": 1,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 97,
+            "id": 14,
+            "sentence": 2,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 110,
+            "id": 15,
+            "sentence": 2,
+            "text": "chinesischen",
+            "word": 2
+        },
+        {
+            "charBegin": 111,
+            "charEnd": 120,
+            "id": 16,
+            "sentence": 2,
+            "text": "Südwesten",
+            "word": 3
+        },
+        {
+            "charBegin": 121,
+            "charEnd": 127,
+            "id": 17,
+            "sentence": 2,
+            "text": "wurden",
+            "word": 4
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 130,
+            "id": 18,
+            "sentence": 2,
+            "text": "51",
+            "word": 5
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 139,
+            "id": 19,
+            "sentence": 2,
+            "text": "Personen",
+            "word": 6
+        },
+        {
+            "charBegin": 140,
+            "charEnd": 145,
+            "id": 20,
+            "sentence": 2,
+            "text": "durch",
+            "word": 7
+        },
+        {
+            "charBegin": 146,
+            "charEnd": 160,
+            "id": 21,
+            "sentence": 2,
+            "text": "Schlammlawinen",
+            "word": 8
+        },
+        {
+            "charBegin": 161,
+            "charEnd": 164,
+            "id": 22,
+            "sentence": 2,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 175,
+            "id": 23,
+            "sentence": 2,
+            "text": "Flutwasser",
+            "word": 10
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 183,
+            "id": 24,
+            "sentence": 2,
+            "text": "getötet",
+            "word": 11
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 184,
+            "id": 25,
+            "sentence": 2,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 188,
+            "id": 26,
+            "sentence": 2,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 199,
+            "id": 27,
+            "sentence": 2,
+            "text": "mindestens",
+            "word": 14
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 202,
+            "id": 28,
+            "sentence": 2,
+            "text": "43",
+            "word": 15
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 211,
+            "id": 29,
+            "sentence": 2,
+            "text": "Personen",
+            "word": 16
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 218,
+            "id": 30,
+            "sentence": 2,
+            "text": "werden",
+            "word": 17
+        },
+        {
+            "charBegin": 219,
+            "charEnd": 227,
+            "id": 31,
+            "sentence": 2,
+            "text": "vermisst",
+            "word": 18
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 228,
+            "id": 32,
+            "sentence": 2,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 229,
+            "charEnd": 233,
+            "id": 33,
+            "sentence": 3,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 241,
+            "id": 34,
+            "sentence": 3,
+            "text": "Angaben",
+            "word": 2
+        },
+        {
+            "charBegin": 242,
+            "charEnd": 245,
+            "id": 35,
+            "sentence": 3,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 253,
+            "id": 36,
+            "sentence": 3,
+            "text": "Zeitung",
+            "word": 4
+        },
+        {
+            "charBegin": 254,
+            "charEnd": 259,
+            "id": 37,
+            "sentence": 3,
+            "text": "China",
+            "word": 5
+        },
+        {
+            "charBegin": 260,
+            "charEnd": 265,
+            "id": 38,
+            "sentence": 3,
+            "text": "Daily",
+            "word": 6
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 270,
+            "id": 39,
+            "sentence": 3,
+            "text": "sind",
+            "word": 7
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 274,
+            "id": 40,
+            "sentence": 3,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 281,
+            "id": 41,
+            "sentence": 3,
+            "text": "Fluten",
+            "word": 9
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 284,
+            "id": 42,
+            "sentence": 3,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 288,
+            "id": 43,
+            "sentence": 3,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 289,
+            "charEnd": 296,
+            "id": 44,
+            "sentence": 3,
+            "text": "Provinz",
+            "word": 12
+        },
+        {
+            "charBegin": 297,
+            "charEnd": 304,
+            "id": 45,
+            "sentence": 3,
+            "text": "Guangxi",
+            "word": 13
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 308,
+            "id": 46,
+            "sentence": 3,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 319,
+            "id": 47,
+            "sentence": 3,
+            "text": "schwersten",
+            "word": 15
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 324,
+            "id": 48,
+            "sentence": 3,
+            "text": "seit",
+            "word": 16
+        },
+        {
+            "charBegin": 325,
+            "charEnd": 328,
+            "id": 49,
+            "sentence": 3,
+            "text": "101",
+            "word": 17
+        },
+        {
+            "charBegin": 329,
+            "charEnd": 335,
+            "id": 50,
+            "sentence": 3,
+            "text": "Jahren",
+            "word": 18
+        },
+        {
+            "charBegin": 335,
+            "charEnd": 336,
+            "id": 51,
+            "sentence": 3,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 339,
+            "id": 52,
+            "sentence": 4,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 340,
+            "charEnd": 347,
+            "id": 53,
+            "sentence": 4,
+            "text": "Vietnam",
+            "word": 2
+        },
+        {
+            "charBegin": 348,
+            "charEnd": 356,
+            "id": 54,
+            "sentence": 4,
+            "text": "forderte",
+            "word": 3
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 360,
+            "id": 55,
+            "sentence": 4,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 377,
+            "id": 56,
+            "sentence": 4,
+            "text": "Naturkatastrophe",
+            "word": 5
+        },
+        {
+            "charBegin": 378,
+            "charEnd": 380,
+            "id": 57,
+            "sentence": 4,
+            "text": "92",
+            "word": 6
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 394,
+            "id": 58,
+            "sentence": 4,
+            "text": "Menschenleben",
+            "word": 7
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 395,
+            "id": 59,
+            "sentence": 4,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 396,
+            "charEnd": 405,
+            "id": 60,
+            "sentence": 5,
+            "text": "Betroffen",
+            "word": 1
+        },
+        {
+            "charBegin": 406,
+            "charEnd": 409,
+            "id": 61,
+            "sentence": 5,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 410,
+            "charEnd": 414,
+            "id": 62,
+            "sentence": 5,
+            "text": "auch",
+            "word": 3
+        },
+        {
+            "charBegin": 415,
+            "charEnd": 420,
+            "id": 63,
+            "sentence": 5,
+            "text": "Hanoi",
+            "word": 4
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 421,
+            "id": 64,
+            "sentence": 5,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 424,
+            "id": 65,
+            "sentence": 5,
+            "text": "wo",
+            "word": 6
+        },
+        {
+            "charBegin": 425,
+            "charEnd": 432,
+            "id": 66,
+            "sentence": 5,
+            "text": "alleine",
+            "word": 7
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 435,
+            "id": 67,
+            "sentence": 5,
+            "text": "20",
+            "word": 8
+        },
+        {
+            "charBegin": 436,
+            "charEnd": 444,
+            "id": 68,
+            "sentence": 5,
+            "text": "Personen",
+            "word": 9
+        },
+        {
+            "charBegin": 445,
+            "charEnd": 450,
+            "id": 69,
+            "sentence": 5,
+            "text": "durch",
+            "word": 10
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 462,
+            "id": 70,
+            "sentence": 5,
+            "text": "Blitzschlag",
+            "word": 11
+        },
+        {
+            "charBegin": 462,
+            "charEnd": 463,
+            "id": 71,
+            "sentence": 5,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 473,
+            "id": 72,
+            "sentence": 5,
+            "text": "Ertrinken",
+            "word": 13
+        },
+        {
+            "charBegin": 474,
+            "charEnd": 478,
+            "id": 73,
+            "sentence": 5,
+            "text": "oder",
+            "word": 14
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 490,
+            "id": 74,
+            "sentence": 5,
+            "text": "Stromschlag",
+            "word": 15
+        },
+        {
+            "charBegin": 491,
+            "charEnd": 494,
+            "id": 75,
+            "sentence": 5,
+            "text": "ihr",
+            "word": 16
+        },
+        {
+            "charBegin": 495,
+            "charEnd": 500,
+            "id": 76,
+            "sentence": 5,
+            "text": "Leben",
+            "word": 17
+        },
+        {
+            "charBegin": 501,
+            "charEnd": 509,
+            "id": 77,
+            "sentence": 5,
+            "text": "verloren",
+            "word": 18
+        },
+        {
+            "charBegin": 509,
+            "charEnd": 510,
+            "id": 78,
+            "sentence": 5,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 511,
+            "charEnd": 513,
+            "id": 79,
+            "sentence": 6,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 514,
+            "charEnd": 517,
+            "id": 80,
+            "sentence": 6,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 518,
+            "charEnd": 522,
+            "id": 81,
+            "sentence": 6,
+            "text": "drei",
+            "word": 3
+        },
+        {
+            "charBegin": 523,
+            "charEnd": 532,
+            "id": 82,
+            "sentence": 6,
+            "text": "Millionen",
+            "word": 4
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 542,
+            "id": 83,
+            "sentence": 6,
+            "text": "Einwohner",
+            "word": 5
+        },
+        {
+            "charBegin": 543,
+            "charEnd": 552,
+            "id": 84,
+            "sentence": 6,
+            "text": "zählenden",
+            "word": 6
+        },
+        {
+            "charBegin": 553,
+            "charEnd": 563,
+            "id": 85,
+            "sentence": 6,
+            "text": "Hauptstadt",
+            "word": 7
+        },
+        {
+            "charBegin": 564,
+            "charEnd": 568,
+            "id": 86,
+            "sentence": 6,
+            "text": "sind",
+            "word": 8
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 575,
+            "id": 87,
+            "sentence": 6,
+            "text": "35.000",
+            "word": 9
+        },
+        {
+            "charBegin": 576,
+            "charEnd": 585,
+            "id": 88,
+            "sentence": 6,
+            "text": "Haushalte",
+            "word": 10
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 589,
+            "id": 89,
+            "sentence": 6,
+            "text": "von",
+            "word": 11
+        },
+        {
+            "charBegin": 590,
+            "charEnd": 593,
+            "id": 90,
+            "sentence": 6,
+            "text": "den",
+            "word": 12
+        },
+        {
+            "charBegin": 594,
+            "charEnd": 607,
+            "id": 91,
+            "sentence": 6,
+            "text": "Überflutungen",
+            "word": 13
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 617,
+            "id": 92,
+            "sentence": 6,
+            "text": "betroffen",
+            "word": 14
+        },
+        {
+            "charBegin": 617,
+            "charEnd": 618,
+            "id": 93,
+            "sentence": 6,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 619,
+            "charEnd": 621,
+            "id": 94,
+            "sentence": 7,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 636,
+            "id": 95,
+            "sentence": 7,
+            "text": "Zentralvietnam",
+            "word": 2
+        },
+        {
+            "charBegin": 637,
+            "charEnd": 643,
+            "id": 96,
+            "sentence": 7,
+            "text": "wurden",
+            "word": 3
+        },
+        {
+            "charBegin": 644,
+            "charEnd": 646,
+            "id": 97,
+            "sentence": 7,
+            "text": "41",
+            "word": 4
+        },
+        {
+            "charBegin": 647,
+            "charEnd": 655,
+            "id": 98,
+            "sentence": 7,
+            "text": "Personen",
+            "word": 5
+        },
+        {
+            "charBegin": 656,
+            "charEnd": 663,
+            "id": 99,
+            "sentence": 7,
+            "text": "getötet",
+            "word": 6
+        },
+        {
+            "charBegin": 663,
+            "charEnd": 664,
+            "id": 100,
+            "sentence": 7,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 665,
+            "charEnd": 667,
+            "id": 101,
+            "sentence": 7,
+            "text": "44",
+            "word": 8
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 677,
+            "id": 102,
+            "sentence": 7,
+            "text": "entfallen",
+            "word": 9
+        },
+        {
+            "charBegin": 678,
+            "charEnd": 681,
+            "id": 103,
+            "sentence": 7,
+            "text": "auf",
+            "word": 10
+        },
+        {
+            "charBegin": 682,
+            "charEnd": 685,
+            "id": 104,
+            "sentence": 7,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 686,
+            "charEnd": 696,
+            "id": 105,
+            "sentence": 7,
+            "text": "nördlichen",
+            "word": 12
+        },
+        {
+            "charBegin": 697,
+            "charEnd": 706,
+            "id": 106,
+            "sentence": 7,
+            "text": "Provinzen",
+            "word": 13
+        },
+        {
+            "charBegin": 707,
+            "charEnd": 721,
+            "id": 107,
+            "sentence": 7,
+            "text": "einschließlich",
+            "word": 14
+        },
+        {
+            "charBegin": 722,
+            "charEnd": 725,
+            "id": 108,
+            "sentence": 7,
+            "text": "der",
+            "word": 15
+        },
+        {
+            "charBegin": 726,
+            "charEnd": 736,
+            "id": 109,
+            "sentence": 7,
+            "text": "Hauptstadt",
+            "word": 16
+        },
+        {
+            "charBegin": 736,
+            "charEnd": 737,
+            "id": 110,
+            "sentence": 7,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 743,
+            "id": 111,
+            "sentence": 8,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 744,
+            "charEnd": 747,
+            "id": 112,
+            "sentence": 8,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 754,
+            "id": 113,
+            "sentence": 8,
+            "text": "Worten",
+            "word": 3
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 758,
+            "id": 114,
+            "sentence": 8,
+            "text": "des",
+            "word": 4
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 774,
+            "id": 115,
+            "sentence": 8,
+            "text": "kommunistischen",
+            "word": 5
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 786,
+            "id": 116,
+            "sentence": 8,
+            "text": "Parteichefs",
+            "word": 6
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 793,
+            "id": 117,
+            "sentence": 8,
+            "text": "Hanois",
+            "word": 7
+        },
+        {
+            "charBegin": 793,
+            "charEnd": 794,
+            "id": 118,
+            "sentence": 8,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 795,
+            "charEnd": 799,
+            "id": 119,
+            "sentence": 8,
+            "text": "Pham",
+            "word": 9
+        },
+        {
+            "charBegin": 800,
+            "charEnd": 805,
+            "id": 120,
+            "sentence": 8,
+            "text": "Quang",
+            "word": 10
+        },
+        {
+            "charBegin": 806,
+            "charEnd": 810,
+            "id": 121,
+            "sentence": 8,
+            "text": "Nghi",
+            "word": 11
+        },
+        {
+            "charBegin": 810,
+            "charEnd": 811,
+            "id": 122,
+            "sentence": 8,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 812,
+            "charEnd": 819,
+            "id": 123,
+            "sentence": 8,
+            "text": "handelt",
+            "word": 13
+        },
+        {
+            "charBegin": 820,
+            "charEnd": 822,
+            "id": 124,
+            "sentence": 8,
+            "text": "es",
+            "word": 14
+        },
+        {
+            "charBegin": 823,
+            "charEnd": 827,
+            "id": 125,
+            "sentence": 8,
+            "text": "sich",
+            "word": 15
+        },
+        {
+            "charBegin": 828,
+            "charEnd": 830,
+            "id": 126,
+            "sentence": 8,
+            "text": "um",
+            "word": 16
+        },
+        {
+            "charBegin": 831,
+            "charEnd": 832,
+            "id": 127,
+            "sentence": 8,
+            "text": "„",
+            "word": 17
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 835,
+            "id": 128,
+            "sentence": 8,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 836,
+            "charEnd": 845,
+            "id": 129,
+            "sentence": 8,
+            "text": "schwerste",
+            "word": 19
+        },
+        {
+            "charBegin": 846,
+            "charEnd": 862,
+            "id": 130,
+            "sentence": 8,
+            "text": "Naturkatastrophe",
+            "word": 20
+        },
+        {
+            "charBegin": 863,
+            "charEnd": 865,
+            "id": 131,
+            "sentence": 8,
+            "text": "in",
+            "word": 21
+        },
+        {
+            "charBegin": 866,
+            "charEnd": 869,
+            "id": 132,
+            "sentence": 8,
+            "text": "der",
+            "word": 22
+        },
+        {
+            "charBegin": 870,
+            "charEnd": 880,
+            "id": 133,
+            "sentence": 8,
+            "text": "Geschichte",
+            "word": 23
+        },
+        {
+            "charBegin": 881,
+            "charEnd": 887,
+            "id": 134,
+            "sentence": 8,
+            "text": "Hanois",
+            "word": 24
+        },
+        {
+            "charBegin": 887,
+            "charEnd": 888,
+            "id": 135,
+            "sentence": 8,
+            "text": "“",
+            "word": 25
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 889,
+            "id": 136,
+            "sentence": 8,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 890,
+            "charEnd": 893,
+            "id": 137,
+            "sentence": 9,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 894,
+            "charEnd": 908,
+            "id": 138,
+            "sentence": 9,
+            "text": "vietnamesische",
+            "word": 2
+        },
+        {
+            "charBegin": 909,
+            "charEnd": 931,
+            "id": 139,
+            "sentence": 9,
+            "text": "Gesundheitsministerium",
+            "word": 3
+        },
+        {
+            "charBegin": 932,
+            "charEnd": 941,
+            "id": 140,
+            "sentence": 9,
+            "text": "erwartete",
+            "word": 4
+        },
+        {
+            "charBegin": 942,
+            "charEnd": 944,
+            "id": 141,
+            "sentence": 9,
+            "text": "in",
+            "word": 5
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 948,
+            "id": 142,
+            "sentence": 9,
+            "text": "den",
+            "word": 6
+        },
+        {
+            "charBegin": 949,
+            "charEnd": 951,
+            "id": 143,
+            "sentence": 9,
+            "text": "am",
+            "word": 7
+        },
+        {
+            "charBegin": 952,
+            "charEnd": 959,
+            "id": 144,
+            "sentence": 9,
+            "text": "meisten",
+            "word": 8
+        },
+        {
+            "charBegin": 960,
+            "charEnd": 971,
+            "id": 145,
+            "sentence": 9,
+            "text": "betroffenen",
+            "word": 9
+        },
+        {
+            "charBegin": 972,
+            "charEnd": 980,
+            "id": 146,
+            "sentence": 9,
+            "text": "Gebieten",
+            "word": 10
+        },
+        {
+            "charBegin": 981,
+            "charEnd": 988,
+            "id": 147,
+            "sentence": 9,
+            "text": "Seuchen",
+            "word": 11
+        },
+        {
+            "charBegin": 989,
+            "charEnd": 992,
+            "id": 148,
+            "sentence": 9,
+            "text": "wie",
+            "word": 12
+        },
+        {
+            "charBegin": 993,
+            "charEnd": 1000,
+            "id": 149,
+            "sentence": 9,
+            "text": "Cholera",
+            "word": 13
+        },
+        {
+            "charBegin": 1001,
+            "charEnd": 1004,
+            "id": 150,
+            "sentence": 9,
+            "text": "und",
+            "word": 14
+        },
+        {
+            "charBegin": 1005,
+            "charEnd": 1011,
+            "id": 151,
+            "sentence": 9,
+            "text": "Typhus",
+            "word": 15
+        },
+        {
+            "charBegin": 1011,
+            "charEnd": 1012,
+            "id": 152,
+            "sentence": 9,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 1014,
+            "charEnd": 1017,
+            "id": 153,
+            "sentence": 10,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1018,
+            "charEnd": 1028,
+            "id": 154,
+            "sentence": 10,
+            "text": "Regenfälle",
+            "word": 2
+        },
+        {
+            "charBegin": 1029,
+            "charEnd": 1034,
+            "id": 155,
+            "sentence": 10,
+            "text": "haben",
+            "word": 3
+        },
+        {
+            "charBegin": 1035,
+            "charEnd": 1037,
+            "id": 156,
+            "sentence": 10,
+            "text": "am",
+            "word": 4
+        },
+        {
+            "charBegin": 1038,
+            "charEnd": 1044,
+            "id": 157,
+            "sentence": 10,
+            "text": "Montag",
+            "word": 5
+        },
+        {
+            "charBegin": 1044,
+            "charEnd": 1045,
+            "id": 158,
+            "sentence": 10,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 1046,
+            "charEnd": 1049,
+            "id": 159,
+            "sentence": 10,
+            "text": "dem",
+            "word": 7
+        },
+        {
+            "charBegin": 1050,
+            "charEnd": 1052,
+            "id": 160,
+            "sentence": 10,
+            "text": "3.",
+            "word": 8
+        },
+        {
+            "charBegin": 1053,
+            "charEnd": 1061,
+            "id": 161,
+            "sentence": 10,
+            "text": "November",
+            "word": 9
+        },
+        {
+            "charBegin": 1061,
+            "charEnd": 1062,
+            "id": 162,
+            "sentence": 10,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 1063,
+            "charEnd": 1067,
+            "id": 163,
+            "sentence": 10,
+            "text": "zwar",
+            "word": 11
+        },
+        {
+            "charBegin": 1068,
+            "charEnd": 1080,
+            "id": 164,
+            "sentence": 10,
+            "text": "nachgelassen",
+            "word": 12
+        },
+        {
+            "charBegin": 1080,
+            "charEnd": 1081,
+            "id": 165,
+            "sentence": 10,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 1082,
+            "charEnd": 1088,
+            "id": 166,
+            "sentence": 10,
+            "text": "nahmen",
+            "word": 14
+        },
+        {
+            "charBegin": 1089,
+            "charEnd": 1093,
+            "id": 167,
+            "sentence": 10,
+            "text": "aber",
+            "word": 15
+        },
+        {
+            "charBegin": 1094,
+            "charEnd": 1096,
+            "id": 168,
+            "sentence": 10,
+            "text": "am",
+            "word": 16
+        },
+        {
+            "charBegin": 1097,
+            "charEnd": 1099,
+            "id": 169,
+            "sentence": 10,
+            "text": "4.",
+            "word": 17
+        },
+        {
+            "charBegin": 1100,
+            "charEnd": 1108,
+            "id": 170,
+            "sentence": 10,
+            "text": "November",
+            "word": 18
+        },
+        {
+            "charBegin": 1109,
+            "charEnd": 1115,
+            "id": 171,
+            "sentence": 10,
+            "text": "wieder",
+            "word": 19
+        },
+        {
+            "charBegin": 1116,
+            "charEnd": 1118,
+            "id": 172,
+            "sentence": 10,
+            "text": "an",
+            "word": 20
+        },
+        {
+            "charBegin": 1119,
+            "charEnd": 1129,
+            "id": 173,
+            "sentence": 10,
+            "text": "Intensität",
+            "word": 21
+        },
+        {
+            "charBegin": 1130,
+            "charEnd": 1132,
+            "id": 174,
+            "sentence": 10,
+            "text": "zu",
+            "word": 22
+        },
+        {
+            "charBegin": 1132,
+            "charEnd": 1133,
+            "id": 175,
+            "sentence": 10,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 1134,
+            "charEnd": 1139,
+            "id": 176,
+            "sentence": 11,
+            "text": "Viele",
+            "word": 1
+        },
+        {
+            "charBegin": 1140,
+            "charEnd": 1159,
+            "id": 177,
+            "sentence": 11,
+            "text": "Straßenverbindungen",
+            "word": 2
+        },
+        {
+            "charBegin": 1160,
+            "charEnd": 1162,
+            "id": 178,
+            "sentence": 11,
+            "text": "zu",
+            "word": 3
+        },
+        {
+            "charBegin": 1163,
+            "charEnd": 1174,
+            "id": 179,
+            "sentence": 11,
+            "text": "abgelegenen",
+            "word": 4
+        },
+        {
+            "charBegin": 1175,
+            "charEnd": 1186,
+            "id": 180,
+            "sentence": 11,
+            "text": "Ortschaften",
+            "word": 5
+        },
+        {
+            "charBegin": 1187,
+            "charEnd": 1191,
+            "id": 181,
+            "sentence": 11,
+            "text": "sind",
+            "word": 6
+        },
+        {
+            "charBegin": 1192,
+            "charEnd": 1204,
+            "id": 182,
+            "sentence": 11,
+            "text": "unterbrochen",
+            "word": 7
+        },
+        {
+            "charBegin": 1204,
+            "charEnd": 1205,
+            "id": 183,
+            "sentence": 11,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 1206,
+            "charEnd": 1211,
+            "id": 184,
+            "sentence": 12,
+            "text": "9.000",
+            "word": 1
+        },
+        {
+            "charBegin": 1212,
+            "charEnd": 1220,
+            "id": 185,
+            "sentence": 12,
+            "text": "Soldaten",
+            "word": 2
+        },
+        {
+            "charBegin": 1221,
+            "charEnd": 1227,
+            "id": 186,
+            "sentence": 12,
+            "text": "wurden",
+            "word": 3
+        },
+        {
+            "charBegin": 1228,
+            "charEnd": 1230,
+            "id": 187,
+            "sentence": 12,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 1231,
+            "charEnd": 1234,
+            "id": 188,
+            "sentence": 12,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 1235,
+            "charEnd": 1249,
+            "id": 189,
+            "sentence": 12,
+            "text": "Mündungsregion",
+            "word": 6
+        },
+        {
+            "charBegin": 1250,
+            "charEnd": 1253,
+            "id": 190,
+            "sentence": 12,
+            "text": "des",
+            "word": 7
+        },
+        {
+            "charBegin": 1254,
+            "charEnd": 1259,
+            "id": 191,
+            "sentence": 12,
+            "text": "Roten",
+            "word": 8
+        },
+        {
+            "charBegin": 1260,
+            "charEnd": 1267,
+            "id": 192,
+            "sentence": 12,
+            "text": "Flusses",
+            "word": 9
+        },
+        {
+            "charBegin": 1268,
+            "charEnd": 1276,
+            "id": 193,
+            "sentence": 12,
+            "text": "beordert",
+            "word": 10
+        },
+        {
+            "charBegin": 1276,
+            "charEnd": 1277,
+            "id": 194,
+            "sentence": 12,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1278,
+            "charEnd": 1282,
+            "id": 195,
+            "sentence": 12,
+            "text": "weil",
+            "word": 12
+        },
+        {
+            "charBegin": 1283,
+            "charEnd": 1288,
+            "id": 196,
+            "sentence": 12,
+            "text": "durch",
+            "word": 13
+        },
+        {
+            "charBegin": 1289,
+            "charEnd": 1292,
+            "id": 197,
+            "sentence": 12,
+            "text": "das",
+            "word": 14
+        },
+        {
+            "charBegin": 1293,
+            "charEnd": 1303,
+            "id": 198,
+            "sentence": 12,
+            "text": "Hochwasser",
+            "word": 15
+        },
+        {
+            "charBegin": 1304,
+            "charEnd": 1307,
+            "id": 199,
+            "sentence": 12,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 1308,
+            "charEnd": 1313,
+            "id": 200,
+            "sentence": 12,
+            "text": "Bruch",
+            "word": 17
+        },
+        {
+            "charBegin": 1314,
+            "charEnd": 1317,
+            "id": 201,
+            "sentence": 12,
+            "text": "von",
+            "word": 18
+        },
+        {
+            "charBegin": 1318,
+            "charEnd": 1325,
+            "id": 202,
+            "sentence": 12,
+            "text": "Deichen",
+            "word": 19
+        },
+        {
+            "charBegin": 1326,
+            "charEnd": 1336,
+            "id": 203,
+            "sentence": 12,
+            "text": "befürchtet",
+            "word": 20
+        },
+        {
+            "charBegin": 1337,
+            "charEnd": 1342,
+            "id": 204,
+            "sentence": 12,
+            "text": "wurde",
+            "word": 21
+        },
+        {
+            "charBegin": 1342,
+            "charEnd": 1343,
+            "id": 205,
+            "sentence": 12,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 1345,
+            "charEnd": 1348,
+            "id": 206,
+            "sentence": 13,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1349,
+            "charEnd": 1361,
+            "id": 207,
+            "sentence": 13,
+            "text": "Meteorologen",
+            "word": 2
+        },
+        {
+            "charBegin": 1362,
+            "charEnd": 1368,
+            "id": 208,
+            "sentence": 13,
+            "text": "sagten",
+            "word": 3
+        },
+        {
+            "charBegin": 1369,
+            "charEnd": 1372,
+            "id": 209,
+            "sentence": 13,
+            "text": "für",
+            "word": 4
+        },
+        {
+            "charBegin": 1373,
+            "charEnd": 1376,
+            "id": 210,
+            "sentence": 13,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 1377,
+            "charEnd": 1386,
+            "id": 211,
+            "sentence": 13,
+            "text": "kommenden",
+            "word": 6
+        },
+        {
+            "charBegin": 1387,
+            "charEnd": 1391,
+            "id": 212,
+            "sentence": 13,
+            "text": "Tage",
+            "word": 7
+        },
+        {
+            "charBegin": 1392,
+            "charEnd": 1399,
+            "id": 213,
+            "sentence": 13,
+            "text": "weitere",
+            "word": 8
+        },
+        {
+            "charBegin": 1400,
+            "charEnd": 1410,
+            "id": 214,
+            "sentence": 13,
+            "text": "Regenfälle",
+            "word": 9
+        },
+        {
+            "charBegin": 1411,
+            "charEnd": 1417,
+            "id": 215,
+            "sentence": 13,
+            "text": "voraus",
+            "word": 10
+        },
+        {
+            "charBegin": 1417,
+            "charEnd": 1418,
+            "id": 216,
+            "sentence": 13,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 1419,
+            "charEnd": 1422,
+            "id": 217,
+            "sentence": 14,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1423,
+            "charEnd": 1429,
+            "id": 218,
+            "sentence": 14,
+            "text": "Preise",
+            "word": 2
+        },
+        {
+            "charBegin": 1430,
+            "charEnd": 1433,
+            "id": 219,
+            "sentence": 14,
+            "text": "für",
+            "word": 3
+        },
+        {
+            "charBegin": 1434,
+            "charEnd": 1446,
+            "id": 220,
+            "sentence": 14,
+            "text": "Lebensmittel",
+            "word": 4
+        },
+        {
+            "charBegin": 1447,
+            "charEnd": 1454,
+            "id": 221,
+            "sentence": 14,
+            "text": "stiegen",
+            "word": 5
+        },
+        {
+            "charBegin": 1455,
+            "charEnd": 1462,
+            "id": 222,
+            "sentence": 14,
+            "text": "infolge",
+            "word": 6
+        },
+        {
+            "charBegin": 1463,
+            "charEnd": 1466,
+            "id": 223,
+            "sentence": 14,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 1467,
+            "charEnd": 1471,
+            "id": 224,
+            "sentence": 14,
+            "text": "Flut",
+            "word": 8
+        },
+        {
+            "charBegin": 1471,
+            "charEnd": 1472,
+            "id": 225,
+            "sentence": 14,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 1473,
+            "charEnd": 1477,
+            "id": 226,
+            "sentence": 15,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 1478,
+            "charEnd": 1489,
+            "id": 227,
+            "sentence": 15,
+            "text": "Schätzungen",
+            "word": 2
+        },
+        {
+            "charBegin": 1490,
+            "charEnd": 1493,
+            "id": 228,
+            "sentence": 15,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 1494,
+            "charEnd": 1503,
+            "id": 229,
+            "sentence": 15,
+            "text": "Regierung",
+            "word": 4
+        },
+        {
+            "charBegin": 1504,
+            "charEnd": 1510,
+            "id": 230,
+            "sentence": 15,
+            "text": "wurden",
+            "word": 5
+        },
+        {
+            "charBegin": 1511,
+            "charEnd": 1515,
+            "id": 231,
+            "sentence": 15,
+            "text": "etwa",
+            "word": 6
+        },
+        {
+            "charBegin": 1516,
+            "charEnd": 1523,
+            "id": 232,
+            "sentence": 15,
+            "text": "260.000",
+            "word": 7
+        },
+        {
+            "charBegin": 1524,
+            "charEnd": 1530,
+            "id": 233,
+            "sentence": 15,
+            "text": "Hektar",
+            "word": 8
+        },
+        {
+            "charBegin": 1531,
+            "charEnd": 1550,
+            "id": 234,
+            "sentence": 15,
+            "text": "landwirtschaftliche",
+            "word": 9
+        },
+        {
+            "charBegin": 1551,
+            "charEnd": 1562,
+            "id": 235,
+            "sentence": 15,
+            "text": "Nutzflächen",
+            "word": 10
+        },
+        {
+            "charBegin": 1563,
+            "charEnd": 1575,
+            "id": 236,
+            "sentence": 15,
+            "text": "überschwemmt",
+            "word": 11
+        },
+        {
+            "charBegin": 1575,
+            "charEnd": 1576,
+            "id": 237,
+            "sentence": 15,
+            "text": ".",
+            "word": 12
+        }
+    ]
+}

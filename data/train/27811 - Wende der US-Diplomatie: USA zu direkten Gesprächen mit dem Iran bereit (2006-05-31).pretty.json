@@ -1,0 +1,4734 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 5,
+                        "charBegin": 54,
+                        "charEnd": 57,
+                        "end": 6
+                    },
+                    {
+                        "begin": 7,
+                        "charBegin": 64,
+                        "charEnd": 80,
+                        "end": 9
+                    },
+                    {
+                        "begin": 11,
+                        "charBegin": 94,
+                        "charEnd": 101,
+                        "end": 12
+                    }
+                ],
+                "text": "hat die Bereitschaft erklärt",
+                "tokenIds": [
+                    5,
+                    7,
+                    8,
+                    11
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 102,
+                        "end": 13
+                    }
+                ],
+                "text": "Die US-amerikanische Außenministerin Condoleezza Rice hat heute die Bereitschaft ihres Landes erklärt,",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 13,
+                        "charBegin": 103,
+                        "charEnd": 173,
+                        "end": 23
+                    }
+                ],
+                "text": "in direkte Gespräche mit dem Iran über dessen Atomprogramm einzutreten",
+                "tokenIds": [
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 53,
+                        "end": 5
+                    }
+                ],
+                "text": "Die US-amerikanische Außenministerin Condoleezza Rice",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 83,
+                        "charBegin": 561,
+                        "charEnd": 563,
+                        "end": 84
+                    }
+                ],
+                "text": "so",
+                "tokenIds": [
+                    83
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 82,
+                        "charBegin": 559,
+                        "charEnd": 568,
+                        "end": 85
+                    }
+                ],
+                "text": ", so Rice",
+                "tokenIds": [
+                    82,
+                    83,
+                    84
+                ]
+            },
+            "hasNested": true,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 70,
+                        "charBegin": 474,
+                        "charEnd": 559,
+                        "end": 82
+                    }
+                ],
+                "text": "Der Iran müsse „vollständig und nachweislich den (Uran-)Anreicherungsprozess“ beenden",
+                "tokenIds": [
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 84,
+                        "charBegin": 564,
+                        "charEnd": 568,
+                        "end": 85
+                    }
+                ],
+                "text": "Rice",
+                "tokenIds": [
+                    84
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 83,
+                        "charBegin": 561,
+                        "charEnd": 563,
+                        "end": 84
+                    }
+                ],
+                "text": "so",
+                "tokenIds": [
+                    83
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 82,
+                        "charBegin": 559,
+                        "charEnd": 568,
+                        "end": 85
+                    }
+                ],
+                "text": ", so Rice",
+                "tokenIds": [
+                    82,
+                    83,
+                    84
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 73,
+                        "charBegin": 489,
+                        "charEnd": 551,
+                        "end": 81
+                    }
+                ],
+                "text": "„vollständig und nachweislich den (Uran-)Anreicherungsprozess“",
+                "tokenIds": [
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 84,
+                        "charBegin": 564,
+                        "charEnd": 568,
+                        "end": 85
+                    }
+                ],
+                "text": "Rice",
+                "tokenIds": [
+                    84
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 127,
+                        "charBegin": 835,
+                        "charEnd": 858,
+                        "end": 130
+                    }
+                ],
+                "text": "die iranische Regierung",
+                "tokenIds": [
+                    127,
+                    128,
+                    129
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 118,
+                        "charBegin": 768,
+                        "charEnd": 773,
+                        "end": 119
+                    },
+                    {
+                        "begin": 124,
+                        "charBegin": 814,
+                        "charEnd": 834,
+                        "end": 127
+                    },
+                    {
+                        "begin": 130,
+                        "charBegin": 859,
+                        "charEnd": 868,
+                        "end": 131
+                    }
+                ],
+                "text": "wurde zur Weiterleitung an übergeben",
+                "tokenIds": [
+                    118,
+                    124,
+                    125,
+                    126,
+                    130
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 102,
+                        "charBegin": 664,
+                        "charEnd": 710,
+                        "end": 108
+                    },
+                    {
+                        "begin": 117,
+                        "charBegin": 766,
+                        "charEnd": 868,
+                        "end": 131
+                    }
+                ],
+                "text": "Eine entsprechende Erklärung zur Bereitschaft, , wurde dem Schweizer Botschafter in Washington zur Weiterleitung an die iranische Regierung übergeben",
+                "tokenIds": [
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 108,
+                        "charBegin": 711,
+                        "charEnd": 766,
+                        "end": 117
+                    }
+                ],
+                "text": "Gespräche mit dem Iran über sein Atomprogramm zu führen",
+                "tokenIds": [
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 102,
+                        "charBegin": 664,
+                        "charEnd": 709,
+                        "end": 107
+                    }
+                ],
+                "text": "Eine entsprechende Erklärung zur Bereitschaft",
+                "tokenIds": [
+                    102,
+                    103,
+                    104,
+                    105,
+                    106
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 133,
+                        "charBegin": 875,
+                        "charEnd": 880,
+                        "end": 134
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    133
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 132,
+                        "charBegin": 870,
+                        "charEnd": 888,
+                        "end": 136
+                    }
+                ],
+                "text": "Rice sagte weiter,",
+                "tokenIds": [
+                    132,
+                    133,
+                    134,
+                    135
+                ]
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 136,
+                        "charBegin": 889,
+                        "charEnd": 959,
+                        "end": 150
+                    }
+                ],
+                "text": "der Iran habe die Chance, die Beziehungen mit den USA neu zu gestalten",
+                "tokenIds": [
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 132,
+                        "charBegin": 870,
+                        "charEnd": 874,
+                        "end": 133
+                    }
+                ],
+                "text": "Rice",
+                "tokenIds": [
+                    132
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 5,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 151,
+                        "charBegin": 961,
+                        "charEnd": 1036,
+                        "end": 161
+                    }
+                ],
+                "text": "An eine Wiederaufnahme diplomatischer Beziehungen sei jedoch nicht gedacht.",
+                "tokenIds": [
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 132,
+                        "charBegin": 870,
+                        "charEnd": 874,
+                        "end": 133
+                    }
+                ],
+                "text": "Rice",
+                "tokenIds": [
+                    132
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 221,
+                        "charBegin": 1428,
+                        "charEnd": 1437,
+                        "end": 222
+                    },
+                    {
+                        "begin": 228,
+                        "charBegin": 1494,
+                        "charEnd": 1497,
+                        "end": 229
+                    }
+                ],
+                "text": "schränkte ein",
+                "tokenIds": [
+                    221,
+                    228
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 214,
+                        "charBegin": 1383,
+                        "charEnd": 1498,
+                        "end": 230
+                    }
+                ],
+                "text": "Ein Sprecher des Weißen Hauses in Washington schränkte die Verhandlungsbereitschaft der USA jedoch dahingehend ein,",
+                "tokenIds": [
+                    214,
+                    215,
+                    216,
+                    217,
+                    218,
+                    219,
+                    220,
+                    221,
+                    222,
+                    223,
+                    224,
+                    225,
+                    226,
+                    227,
+                    228,
+                    229
+                ]
+            },
+            "hasNested": false,
+            "id": 6,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 230,
+                        "charBegin": 1499,
+                        "charEnd": 1567,
+                        "end": 243
+                    }
+                ],
+                "text": "dass nicht an eine „Eins zu Eins“-Begegnung mit dem Iran gedacht sei",
+                "tokenIds": [
+                    230,
+                    231,
+                    232,
+                    233,
+                    234,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241,
+                    242
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 214,
+                        "charBegin": 1383,
+                        "charEnd": 1427,
+                        "end": 221
+                    }
+                ],
+                "text": "Ein Sprecher des Weißen Hauses in Washington",
+                "tokenIds": [
+                    214,
+                    215,
+                    216,
+                    217,
+                    218,
+                    219,
+                    220
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 7,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 244,
+                        "charBegin": 1569,
+                        "charEnd": 1713,
+                        "end": 266
+                    }
+                ],
+                "text": "Die USA würden sich im Rahmen der Gespräche mit den westeuropäischen Staaten Frankreich, Großbritannien und Deutschland mit dem Iran beteiligen.",
+                "tokenIds": [
+                    244,
+                    245,
+                    246,
+                    247,
+                    248,
+                    249,
+                    250,
+                    251,
+                    252,
+                    253,
+                    254,
+                    255,
+                    256,
+                    257,
+                    258,
+                    259,
+                    260,
+                    261,
+                    262,
+                    263,
+                    264,
+                    265
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 214,
+                        "charBegin": 1383,
+                        "charEnd": 1427,
+                        "end": 221
+                    }
+                ],
+                "text": "Ein Sprecher des Weißen Hauses in Washington",
+                "tokenIds": [
+                    214,
+                    215,
+                    216,
+                    217,
+                    218,
+                    219,
+                    220
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        }
+    ],
+    "documentName": "27811 - Wende der US-Diplomatie: USA zu direkten Gesprächen mit dem Iran bereit (2006-05-31)",
+    "originalText": "Die US-amerikanische Außenministerin Condoleezza Rice hat heute die Bereitschaft ihres Landes erklärt, in direkte Gespräche mit dem Iran über dessen Atomprogramm einzutreten. \n\nDamit gehen die USA auf eine wesentliche Forderung des Iran ein, die als eine Bedingung für die Wiederaufnahme von Gesprächen über den Konflikt um das iranische Atomprogramm geltend gemacht worden war. Ihrerseits knüpften die USA Vorbedingungen an die Bereitschaft zur Aufnahme von Verhandlungen. Der Iran müsse „vollständig und nachweislich den (Uran-)Anreicherungsprozess“ beenden, so Rice. Die USA billigten dem Iran dabei jedoch das Recht zur friedlichen Nutzung der Kernenergie zu. Eine entsprechende Erklärung zur Bereitschaft, Gespräche mit dem Iran über sein Atomprogramm zu führen, wurde dem Schweizer Botschafter in Washington zur Weiterleitung an die iranische Regierung übergeben. Rice sagte weiter, der Iran habe die Chance, die Beziehungen mit den USA neu zu gestalten. An eine Wiederaufnahme diplomatischer Beziehungen sei jedoch nicht gedacht. Die USA hatten im Jahre 1980 die diplomatischen Beziehungen zum Iran nach einer Besetzung und Geiselnahme in der US-Botschaft 1979 in Teheran abgebrochen. \n\nZum gleichen Thema äußerte sich heute auch US-Präsident George W. Bush. Er beanspruchte dabei eine Führungsrolle in den diplomatischen Bemühungen zur Beilegung des Konfliktes mit dem Iran. Ein Sprecher des Weißen Hauses in Washington schränkte die Verhandlungsbereitschaft der USA jedoch dahingehend ein, dass nicht an eine „Eins zu Eins“-Begegnung mit dem Iran gedacht sei. Die USA würden sich im Rahmen der Gespräche mit den westeuropäischen Staaten Frankreich, Großbritannien und Deutschland mit dem Iran beteiligen. \n\nUnterdessen gehen die Verhandlungen über mögliche Resolutionen des UN-Sicherheitsrates weiter. Die USA bemühen sich darum, Russland und China von ihren ablehnenden Haltungen gegenüber Sanktionen gegen den Iran abzubringen. Am Donnerstag ist ein Treffen der westlichen Verhandlungspartner in Wien geplant, wo die Verhandlungsposition der Vetomächte im UN-Sicherheitsrat und Deutschlands gegenüber dem Iran abgestimmt werden soll. An diesen Gesprächen werden die Außenminister der USA, Frankreichs, Großbritanniens, Russlands und Deutschlands teilnehmen. China wird seinen Vize-Außenminister entsenden. Im Gespräch sind auch Kooperationsangebote an den Iran, die wissenschaftlich-technische Unterstützung für die iranische Kernenergietechnologie vorsehen, wie auch Sicherheitsgarantien für den Iran vor militärischen Angriffen.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 174,
+            "end": 24,
+            "id": 0,
+            "text": "Die US-amerikanische Außenministerin Condoleezza Rice hat heute die Bereitschaft ihres Landes erklärt, in direkte Gespräche mit dem Iran über dessen Atomprogramm einzutreten. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ],
+            "tokens": [
+                "Die",
+                "US-amerikanische",
+                "Außenministerin",
+                "Condoleezza",
+                "Rice",
+                "hat",
+                "heute",
+                "die",
+                "Bereitschaft",
+                "ihres",
+                "Landes",
+                "erklärt",
+                ",",
+                "in",
+                "direkte",
+                "Gespräche",
+                "mit",
+                "dem",
+                "Iran",
+                "über",
+                "dessen",
+                "Atomprogramm",
+                "einzutreten",
+                "."
+            ]
+        },
+        {
+            "begin": 24,
+            "charBegin": 177,
+            "charEnd": 378,
+            "end": 57,
+            "id": 1,
+            "text": "Damit gehen die USA auf eine wesentliche Forderung des Iran ein, die als eine Bedingung für die Wiederaufnahme von Gesprächen über den Konflikt um das iranische Atomprogramm geltend gemacht worden war. ",
+            "tokenIds": [
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
+            "tokens": [
+                "Damit",
+                "gehen",
+                "die",
+                "USA",
+                "auf",
+                "eine",
+                "wesentliche",
+                "Forderung",
+                "des",
+                "Iran",
+                "ein",
+                ",",
+                "die",
+                "als",
+                "eine",
+                "Bedingung",
+                "für",
+                "die",
+                "Wiederaufnahme",
+                "von",
+                "Gesprächen",
+                "über",
+                "den",
+                "Konflikt",
+                "um",
+                "das",
+                "iranische",
+                "Atomprogramm",
+                "geltend",
+                "gemacht",
+                "worden",
+                "war",
+                "."
+            ]
+        },
+        {
+            "begin": 57,
+            "charBegin": 379,
+            "charEnd": 473,
+            "end": 70,
+            "id": 2,
+            "text": "Ihrerseits knüpften die USA Vorbedingungen an die Bereitschaft zur Aufnahme von Verhandlungen. ",
+            "tokenIds": [
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69
+            ],
+            "tokens": [
+                "Ihrerseits",
+                "knüpften",
+                "die",
+                "USA",
+                "Vorbedingungen",
+                "an",
+                "die",
+                "Bereitschaft",
+                "zur",
+                "Aufnahme",
+                "von",
+                "Verhandlungen",
+                "."
+            ]
+        },
+        {
+            "begin": 70,
+            "charBegin": 474,
+            "charEnd": 569,
+            "end": 86,
+            "id": 3,
+            "text": "Der Iran müsse „vollständig und nachweislich den (Uran-)Anreicherungsprozess“ beenden, so Rice. ",
+            "tokenIds": [
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85
+            ],
+            "tokens": [
+                "Der",
+                "Iran",
+                "müsse",
+                "„",
+                "vollständig",
+                "und",
+                "nachweislich",
+                "den",
+                "(",
+                "Uran-)Anreicherungsprozess",
+                "“",
+                "beenden",
+                ",",
+                "so",
+                "Rice",
+                "."
+            ]
+        },
+        {
+            "begin": 86,
+            "charBegin": 570,
+            "charEnd": 663,
+            "end": 102,
+            "id": 4,
+            "text": "Die USA billigten dem Iran dabei jedoch das Recht zur friedlichen Nutzung der Kernenergie zu. ",
+            "tokenIds": [
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101
+            ],
+            "tokens": [
+                "Die",
+                "USA",
+                "billigten",
+                "dem",
+                "Iran",
+                "dabei",
+                "jedoch",
+                "das",
+                "Recht",
+                "zur",
+                "friedlichen",
+                "Nutzung",
+                "der",
+                "Kernenergie",
+                "zu",
+                "."
+            ]
+        },
+        {
+            "begin": 102,
+            "charBegin": 664,
+            "charEnd": 869,
+            "end": 132,
+            "id": 5,
+            "text": "Eine entsprechende Erklärung zur Bereitschaft, Gespräche mit dem Iran über sein Atomprogramm zu führen, wurde dem Schweizer Botschafter in Washington zur Weiterleitung an die iranische Regierung übergeben. ",
+            "tokenIds": [
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131
+            ],
+            "tokens": [
+                "Eine",
+                "entsprechende",
+                "Erklärung",
+                "zur",
+                "Bereitschaft",
+                ",",
+                "Gespräche",
+                "mit",
+                "dem",
+                "Iran",
+                "über",
+                "sein",
+                "Atomprogramm",
+                "zu",
+                "führen",
+                ",",
+                "wurde",
+                "dem",
+                "Schweizer",
+                "Botschafter",
+                "in",
+                "Washington",
+                "zur",
+                "Weiterleitung",
+                "an",
+                "die",
+                "iranische",
+                "Regierung",
+                "übergeben",
+                "."
+            ]
+        },
+        {
+            "begin": 132,
+            "charBegin": 870,
+            "charEnd": 960,
+            "end": 151,
+            "id": 6,
+            "text": "Rice sagte weiter, der Iran habe die Chance, die Beziehungen mit den USA neu zu gestalten. ",
+            "tokenIds": [
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150
+            ],
+            "tokens": [
+                "Rice",
+                "sagte",
+                "weiter",
+                ",",
+                "der",
+                "Iran",
+                "habe",
+                "die",
+                "Chance",
+                ",",
+                "die",
+                "Beziehungen",
+                "mit",
+                "den",
+                "USA",
+                "neu",
+                "zu",
+                "gestalten",
+                "."
+            ]
+        },
+        {
+            "begin": 151,
+            "charBegin": 961,
+            "charEnd": 1036,
+            "end": 161,
+            "id": 7,
+            "text": "An eine Wiederaufnahme diplomatischer Beziehungen sei jedoch nicht gedacht. ",
+            "tokenIds": [
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160
+            ],
+            "tokens": [
+                "An",
+                "eine",
+                "Wiederaufnahme",
+                "diplomatischer",
+                "Beziehungen",
+                "sei",
+                "jedoch",
+                "nicht",
+                "gedacht",
+                "."
+            ]
+        },
+        {
+            "begin": 161,
+            "charBegin": 1037,
+            "charEnd": 1191,
+            "end": 185,
+            "id": 8,
+            "text": "Die USA hatten im Jahre 1980 die diplomatischen Beziehungen zum Iran nach einer Besetzung und Geiselnahme in der US-Botschaft 1979 in Teheran abgebrochen. ",
+            "tokenIds": [
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184
+            ],
+            "tokens": [
+                "Die",
+                "USA",
+                "hatten",
+                "im",
+                "Jahre",
+                "1980",
+                "die",
+                "diplomatischen",
+                "Beziehungen",
+                "zum",
+                "Iran",
+                "nach",
+                "einer",
+                "Besetzung",
+                "und",
+                "Geiselnahme",
+                "in",
+                "der",
+                "US-Botschaft",
+                "1979",
+                "in",
+                "Teheran",
+                "abgebrochen",
+                "."
+            ]
+        },
+        {
+            "begin": 185,
+            "charBegin": 1194,
+            "charEnd": 1265,
+            "end": 197,
+            "id": 9,
+            "text": "Zum gleichen Thema äußerte sich heute auch US-Präsident George W. Bush. ",
+            "tokenIds": [
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196
+            ],
+            "tokens": [
+                "Zum",
+                "gleichen",
+                "Thema",
+                "äußerte",
+                "sich",
+                "heute",
+                "auch",
+                "US-Präsident",
+                "George",
+                "W.",
+                "Bush",
+                "."
+            ]
+        },
+        {
+            "begin": 197,
+            "charBegin": 1266,
+            "charEnd": 1382,
+            "end": 214,
+            "id": 10,
+            "text": "Er beanspruchte dabei eine Führungsrolle in den diplomatischen Bemühungen zur Beilegung des Konfliktes mit dem Iran. ",
+            "tokenIds": [
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213
+            ],
+            "tokens": [
+                "Er",
+                "beanspruchte",
+                "dabei",
+                "eine",
+                "Führungsrolle",
+                "in",
+                "den",
+                "diplomatischen",
+                "Bemühungen",
+                "zur",
+                "Beilegung",
+                "des",
+                "Konfliktes",
+                "mit",
+                "dem",
+                "Iran",
+                "."
+            ]
+        },
+        {
+            "begin": 214,
+            "charBegin": 1383,
+            "charEnd": 1568,
+            "end": 244,
+            "id": 11,
+            "text": "Ein Sprecher des Weißen Hauses in Washington schränkte die Verhandlungsbereitschaft der USA jedoch dahingehend ein, dass nicht an eine „Eins zu Eins“-Begegnung mit dem Iran gedacht sei. ",
+            "tokenIds": [
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243
+            ],
+            "tokens": [
+                "Ein",
+                "Sprecher",
+                "des",
+                "Weißen",
+                "Hauses",
+                "in",
+                "Washington",
+                "schränkte",
+                "die",
+                "Verhandlungsbereitschaft",
+                "der",
+                "USA",
+                "jedoch",
+                "dahingehend",
+                "ein",
+                ",",
+                "dass",
+                "nicht",
+                "an",
+                "eine",
+                "„",
+                "Eins",
+                "zu",
+                "Eins“-Begegnung",
+                "mit",
+                "dem",
+                "Iran",
+                "gedacht",
+                "sei",
+                "."
+            ]
+        },
+        {
+            "begin": 244,
+            "charBegin": 1569,
+            "charEnd": 1713,
+            "end": 266,
+            "id": 12,
+            "text": "Die USA würden sich im Rahmen der Gespräche mit den westeuropäischen Staaten Frankreich, Großbritannien und Deutschland mit dem Iran beteiligen. ",
+            "tokenIds": [
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265
+            ],
+            "tokens": [
+                "Die",
+                "USA",
+                "würden",
+                "sich",
+                "im",
+                "Rahmen",
+                "der",
+                "Gespräche",
+                "mit",
+                "den",
+                "westeuropäischen",
+                "Staaten",
+                "Frankreich",
+                ",",
+                "Großbritannien",
+                "und",
+                "Deutschland",
+                "mit",
+                "dem",
+                "Iran",
+                "beteiligen",
+                "."
+            ]
+        },
+        {
+            "begin": 266,
+            "charBegin": 1716,
+            "charEnd": 1810,
+            "end": 277,
+            "id": 13,
+            "text": "Unterdessen gehen die Verhandlungen über mögliche Resolutionen des UN-Sicherheitsrates weiter. ",
+            "tokenIds": [
+                266,
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273,
+                274,
+                275,
+                276
+            ],
+            "tokens": [
+                "Unterdessen",
+                "gehen",
+                "die",
+                "Verhandlungen",
+                "über",
+                "mögliche",
+                "Resolutionen",
+                "des",
+                "UN-Sicherheitsrates",
+                "weiter",
+                "."
+            ]
+        },
+        {
+            "begin": 277,
+            "charBegin": 1811,
+            "charEnd": 1938,
+            "end": 297,
+            "id": 14,
+            "text": "Die USA bemühen sich darum, Russland und China von ihren ablehnenden Haltungen gegenüber Sanktionen gegen den Iran abzubringen. ",
+            "tokenIds": [
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292,
+                293,
+                294,
+                295,
+                296
+            ],
+            "tokens": [
+                "Die",
+                "USA",
+                "bemühen",
+                "sich",
+                "darum",
+                ",",
+                "Russland",
+                "und",
+                "China",
+                "von",
+                "ihren",
+                "ablehnenden",
+                "Haltungen",
+                "gegenüber",
+                "Sanktionen",
+                "gegen",
+                "den",
+                "Iran",
+                "abzubringen",
+                "."
+            ]
+        },
+        {
+            "begin": 297,
+            "charBegin": 1939,
+            "charEnd": 2144,
+            "end": 325,
+            "id": 15,
+            "text": "Am Donnerstag ist ein Treffen der westlichen Verhandlungspartner in Wien geplant, wo die Verhandlungsposition der Vetomächte im UN-Sicherheitsrat und Deutschlands gegenüber dem Iran abgestimmt werden soll. ",
+            "tokenIds": [
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306,
+                307,
+                308,
+                309,
+                310,
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322,
+                323,
+                324
+            ],
+            "tokens": [
+                "Am",
+                "Donnerstag",
+                "ist",
+                "ein",
+                "Treffen",
+                "der",
+                "westlichen",
+                "Verhandlungspartner",
+                "in",
+                "Wien",
+                "geplant",
+                ",",
+                "wo",
+                "die",
+                "Verhandlungsposition",
+                "der",
+                "Vetomächte",
+                "im",
+                "UN-Sicherheitsrat",
+                "und",
+                "Deutschlands",
+                "gegenüber",
+                "dem",
+                "Iran",
+                "abgestimmt",
+                "werden",
+                "soll",
+                "."
+            ]
+        },
+        {
+            "begin": 325,
+            "charBegin": 2145,
+            "charEnd": 2268,
+            "end": 343,
+            "id": 16,
+            "text": "An diesen Gesprächen werden die Außenminister der USA, Frankreichs, Großbritanniens, Russlands und Deutschlands teilnehmen. ",
+            "tokenIds": [
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332,
+                333,
+                334,
+                335,
+                336,
+                337,
+                338,
+                339,
+                340,
+                341,
+                342
+            ],
+            "tokens": [
+                "An",
+                "diesen",
+                "Gesprächen",
+                "werden",
+                "die",
+                "Außenminister",
+                "der",
+                "USA",
+                ",",
+                "Frankreichs",
+                ",",
+                "Großbritanniens",
+                ",",
+                "Russlands",
+                "und",
+                "Deutschlands",
+                "teilnehmen",
+                "."
+            ]
+        },
+        {
+            "begin": 343,
+            "charBegin": 2269,
+            "charEnd": 2316,
+            "end": 349,
+            "id": 17,
+            "text": "China wird seinen Vize-Außenminister entsenden. ",
+            "tokenIds": [
+                343,
+                344,
+                345,
+                346,
+                347,
+                348
+            ],
+            "tokens": [
+                "China",
+                "wird",
+                "seinen",
+                "Vize-Außenminister",
+                "entsenden",
+                "."
+            ]
+        },
+        {
+            "begin": 349,
+            "charBegin": 2317,
+            "charEnd": 2541,
+            "end": 377,
+            "id": 18,
+            "text": "Im Gespräch sind auch Kooperationsangebote an den Iran, die wissenschaftlich-technische Unterstützung für die iranische Kernenergietechnologie vorsehen, wie auch Sicherheitsgarantien für den Iran vor militärischen Angriffen.",
+            "tokenIds": [
+                349,
+                350,
+                351,
+                352,
+                353,
+                354,
+                355,
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365,
+                366,
+                367,
+                368,
+                369,
+                370,
+                371,
+                372,
+                373,
+                374,
+                375,
+                376
+            ],
+            "tokens": [
+                "Im",
+                "Gespräch",
+                "sind",
+                "auch",
+                "Kooperationsangebote",
+                "an",
+                "den",
+                "Iran",
+                ",",
+                "die",
+                "wissenschaftlich-technische",
+                "Unterstützung",
+                "für",
+                "die",
+                "iranische",
+                "Kernenergietechnologie",
+                "vorsehen",
+                ",",
+                "wie",
+                "auch",
+                "Sicherheitsgarantien",
+                "für",
+                "den",
+                "Iran",
+                "vor",
+                "militärischen",
+                "Angriffen",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 20,
+            "id": 1,
+            "sentence": 1,
+            "text": "US-amerikanische",
+            "word": 2
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 36,
+            "id": 2,
+            "sentence": 1,
+            "text": "Außenministerin",
+            "word": 3
+        },
+        {
+            "charBegin": 37,
+            "charEnd": 48,
+            "id": 3,
+            "sentence": 1,
+            "text": "Condoleezza",
+            "word": 4
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 53,
+            "id": 4,
+            "sentence": 1,
+            "text": "Rice",
+            "word": 5
+        },
+        {
+            "charBegin": 54,
+            "charEnd": 57,
+            "id": 5,
+            "sentence": 1,
+            "text": "hat",
+            "word": 6
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 63,
+            "id": 6,
+            "sentence": 1,
+            "text": "heute",
+            "word": 7
+        },
+        {
+            "charBegin": 64,
+            "charEnd": 67,
+            "id": 7,
+            "sentence": 1,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 68,
+            "charEnd": 80,
+            "id": 8,
+            "sentence": 1,
+            "text": "Bereitschaft",
+            "word": 9
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 86,
+            "id": 9,
+            "sentence": 1,
+            "text": "ihres",
+            "word": 10
+        },
+        {
+            "charBegin": 87,
+            "charEnd": 93,
+            "id": 10,
+            "sentence": 1,
+            "text": "Landes",
+            "word": 11
+        },
+        {
+            "charBegin": 94,
+            "charEnd": 101,
+            "id": 11,
+            "sentence": 1,
+            "text": "erklärt",
+            "word": 12
+        },
+        {
+            "charBegin": 101,
+            "charEnd": 102,
+            "id": 12,
+            "sentence": 1,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 103,
+            "charEnd": 105,
+            "id": 13,
+            "sentence": 1,
+            "text": "in",
+            "word": 14
+        },
+        {
+            "charBegin": 106,
+            "charEnd": 113,
+            "id": 14,
+            "sentence": 1,
+            "text": "direkte",
+            "word": 15
+        },
+        {
+            "charBegin": 114,
+            "charEnd": 123,
+            "id": 15,
+            "sentence": 1,
+            "text": "Gespräche",
+            "word": 16
+        },
+        {
+            "charBegin": 124,
+            "charEnd": 127,
+            "id": 16,
+            "sentence": 1,
+            "text": "mit",
+            "word": 17
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 131,
+            "id": 17,
+            "sentence": 1,
+            "text": "dem",
+            "word": 18
+        },
+        {
+            "charBegin": 132,
+            "charEnd": 136,
+            "id": 18,
+            "sentence": 1,
+            "text": "Iran",
+            "word": 19
+        },
+        {
+            "charBegin": 137,
+            "charEnd": 141,
+            "id": 19,
+            "sentence": 1,
+            "text": "über",
+            "word": 20
+        },
+        {
+            "charBegin": 142,
+            "charEnd": 148,
+            "id": 20,
+            "sentence": 1,
+            "text": "dessen",
+            "word": 21
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 161,
+            "id": 21,
+            "sentence": 1,
+            "text": "Atomprogramm",
+            "word": 22
+        },
+        {
+            "charBegin": 162,
+            "charEnd": 173,
+            "id": 22,
+            "sentence": 1,
+            "text": "einzutreten",
+            "word": 23
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 174,
+            "id": 23,
+            "sentence": 1,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 177,
+            "charEnd": 182,
+            "id": 24,
+            "sentence": 2,
+            "text": "Damit",
+            "word": 1
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 188,
+            "id": 25,
+            "sentence": 2,
+            "text": "gehen",
+            "word": 2
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 192,
+            "id": 26,
+            "sentence": 2,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 196,
+            "id": 27,
+            "sentence": 2,
+            "text": "USA",
+            "word": 4
+        },
+        {
+            "charBegin": 197,
+            "charEnd": 200,
+            "id": 28,
+            "sentence": 2,
+            "text": "auf",
+            "word": 5
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 205,
+            "id": 29,
+            "sentence": 2,
+            "text": "eine",
+            "word": 6
+        },
+        {
+            "charBegin": 206,
+            "charEnd": 217,
+            "id": 30,
+            "sentence": 2,
+            "text": "wesentliche",
+            "word": 7
+        },
+        {
+            "charBegin": 218,
+            "charEnd": 227,
+            "id": 31,
+            "sentence": 2,
+            "text": "Forderung",
+            "word": 8
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 231,
+            "id": 32,
+            "sentence": 2,
+            "text": "des",
+            "word": 9
+        },
+        {
+            "charBegin": 232,
+            "charEnd": 236,
+            "id": 33,
+            "sentence": 2,
+            "text": "Iran",
+            "word": 10
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 240,
+            "id": 34,
+            "sentence": 2,
+            "text": "ein",
+            "word": 11
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 241,
+            "id": 35,
+            "sentence": 2,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 242,
+            "charEnd": 245,
+            "id": 36,
+            "sentence": 2,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 249,
+            "id": 37,
+            "sentence": 2,
+            "text": "als",
+            "word": 14
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 254,
+            "id": 38,
+            "sentence": 2,
+            "text": "eine",
+            "word": 15
+        },
+        {
+            "charBegin": 255,
+            "charEnd": 264,
+            "id": 39,
+            "sentence": 2,
+            "text": "Bedingung",
+            "word": 16
+        },
+        {
+            "charBegin": 265,
+            "charEnd": 268,
+            "id": 40,
+            "sentence": 2,
+            "text": "für",
+            "word": 17
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 272,
+            "id": 41,
+            "sentence": 2,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 287,
+            "id": 42,
+            "sentence": 2,
+            "text": "Wiederaufnahme",
+            "word": 19
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 291,
+            "id": 43,
+            "sentence": 2,
+            "text": "von",
+            "word": 20
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 302,
+            "id": 44,
+            "sentence": 2,
+            "text": "Gesprächen",
+            "word": 21
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 307,
+            "id": 45,
+            "sentence": 2,
+            "text": "über",
+            "word": 22
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 311,
+            "id": 46,
+            "sentence": 2,
+            "text": "den",
+            "word": 23
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 320,
+            "id": 47,
+            "sentence": 2,
+            "text": "Konflikt",
+            "word": 24
+        },
+        {
+            "charBegin": 321,
+            "charEnd": 323,
+            "id": 48,
+            "sentence": 2,
+            "text": "um",
+            "word": 25
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 327,
+            "id": 49,
+            "sentence": 2,
+            "text": "das",
+            "word": 26
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 337,
+            "id": 50,
+            "sentence": 2,
+            "text": "iranische",
+            "word": 27
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 350,
+            "id": 51,
+            "sentence": 2,
+            "text": "Atomprogramm",
+            "word": 28
+        },
+        {
+            "charBegin": 351,
+            "charEnd": 358,
+            "id": 52,
+            "sentence": 2,
+            "text": "geltend",
+            "word": 29
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 366,
+            "id": 53,
+            "sentence": 2,
+            "text": "gemacht",
+            "word": 30
+        },
+        {
+            "charBegin": 367,
+            "charEnd": 373,
+            "id": 54,
+            "sentence": 2,
+            "text": "worden",
+            "word": 31
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 377,
+            "id": 55,
+            "sentence": 2,
+            "text": "war",
+            "word": 32
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 378,
+            "id": 56,
+            "sentence": 2,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 379,
+            "charEnd": 389,
+            "id": 57,
+            "sentence": 3,
+            "text": "Ihrerseits",
+            "word": 1
+        },
+        {
+            "charBegin": 390,
+            "charEnd": 398,
+            "id": 58,
+            "sentence": 3,
+            "text": "knüpften",
+            "word": 2
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 402,
+            "id": 59,
+            "sentence": 3,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 406,
+            "id": 60,
+            "sentence": 3,
+            "text": "USA",
+            "word": 4
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 421,
+            "id": 61,
+            "sentence": 3,
+            "text": "Vorbedingungen",
+            "word": 5
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 424,
+            "id": 62,
+            "sentence": 3,
+            "text": "an",
+            "word": 6
+        },
+        {
+            "charBegin": 425,
+            "charEnd": 428,
+            "id": 63,
+            "sentence": 3,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 429,
+            "charEnd": 441,
+            "id": 64,
+            "sentence": 3,
+            "text": "Bereitschaft",
+            "word": 8
+        },
+        {
+            "charBegin": 442,
+            "charEnd": 445,
+            "id": 65,
+            "sentence": 3,
+            "text": "zur",
+            "word": 9
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 454,
+            "id": 66,
+            "sentence": 3,
+            "text": "Aufnahme",
+            "word": 10
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 458,
+            "id": 67,
+            "sentence": 3,
+            "text": "von",
+            "word": 11
+        },
+        {
+            "charBegin": 459,
+            "charEnd": 472,
+            "id": 68,
+            "sentence": 3,
+            "text": "Verhandlungen",
+            "word": 12
+        },
+        {
+            "charBegin": 472,
+            "charEnd": 473,
+            "id": 69,
+            "sentence": 3,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 474,
+            "charEnd": 477,
+            "id": 70,
+            "sentence": 4,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 478,
+            "charEnd": 482,
+            "id": 71,
+            "sentence": 4,
+            "text": "Iran",
+            "word": 2
+        },
+        {
+            "charBegin": 483,
+            "charEnd": 488,
+            "id": 72,
+            "sentence": 4,
+            "text": "müsse",
+            "word": 3
+        },
+        {
+            "charBegin": 489,
+            "charEnd": 490,
+            "id": 73,
+            "sentence": 4,
+            "text": "„",
+            "word": 4
+        },
+        {
+            "charBegin": 490,
+            "charEnd": 501,
+            "id": 74,
+            "sentence": 4,
+            "text": "vollständig",
+            "word": 5
+        },
+        {
+            "charBegin": 502,
+            "charEnd": 505,
+            "id": 75,
+            "sentence": 4,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 518,
+            "id": 76,
+            "sentence": 4,
+            "text": "nachweislich",
+            "word": 7
+        },
+        {
+            "charBegin": 519,
+            "charEnd": 522,
+            "id": 77,
+            "sentence": 4,
+            "text": "den",
+            "word": 8
+        },
+        {
+            "charBegin": 523,
+            "charEnd": 524,
+            "id": 78,
+            "sentence": 4,
+            "text": "(",
+            "word": 9
+        },
+        {
+            "charBegin": 524,
+            "charEnd": 550,
+            "id": 79,
+            "sentence": 4,
+            "text": "Uran-)Anreicherungsprozess",
+            "word": 10
+        },
+        {
+            "charBegin": 550,
+            "charEnd": 551,
+            "id": 80,
+            "sentence": 4,
+            "text": "“",
+            "word": 11
+        },
+        {
+            "charBegin": 552,
+            "charEnd": 559,
+            "id": 81,
+            "sentence": 4,
+            "text": "beenden",
+            "word": 12
+        },
+        {
+            "charBegin": 559,
+            "charEnd": 560,
+            "id": 82,
+            "sentence": 4,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 561,
+            "charEnd": 563,
+            "id": 83,
+            "sentence": 4,
+            "text": "so",
+            "word": 14
+        },
+        {
+            "charBegin": 564,
+            "charEnd": 568,
+            "id": 84,
+            "sentence": 4,
+            "text": "Rice",
+            "word": 15
+        },
+        {
+            "charBegin": 568,
+            "charEnd": 569,
+            "id": 85,
+            "sentence": 4,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 570,
+            "charEnd": 573,
+            "id": 86,
+            "sentence": 5,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 574,
+            "charEnd": 577,
+            "id": 87,
+            "sentence": 5,
+            "text": "USA",
+            "word": 2
+        },
+        {
+            "charBegin": 578,
+            "charEnd": 587,
+            "id": 88,
+            "sentence": 5,
+            "text": "billigten",
+            "word": 3
+        },
+        {
+            "charBegin": 588,
+            "charEnd": 591,
+            "id": 89,
+            "sentence": 5,
+            "text": "dem",
+            "word": 4
+        },
+        {
+            "charBegin": 592,
+            "charEnd": 596,
+            "id": 90,
+            "sentence": 5,
+            "text": "Iran",
+            "word": 5
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 602,
+            "id": 91,
+            "sentence": 5,
+            "text": "dabei",
+            "word": 6
+        },
+        {
+            "charBegin": 603,
+            "charEnd": 609,
+            "id": 92,
+            "sentence": 5,
+            "text": "jedoch",
+            "word": 7
+        },
+        {
+            "charBegin": 610,
+            "charEnd": 613,
+            "id": 93,
+            "sentence": 5,
+            "text": "das",
+            "word": 8
+        },
+        {
+            "charBegin": 614,
+            "charEnd": 619,
+            "id": 94,
+            "sentence": 5,
+            "text": "Recht",
+            "word": 9
+        },
+        {
+            "charBegin": 620,
+            "charEnd": 623,
+            "id": 95,
+            "sentence": 5,
+            "text": "zur",
+            "word": 10
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 635,
+            "id": 96,
+            "sentence": 5,
+            "text": "friedlichen",
+            "word": 11
+        },
+        {
+            "charBegin": 636,
+            "charEnd": 643,
+            "id": 97,
+            "sentence": 5,
+            "text": "Nutzung",
+            "word": 12
+        },
+        {
+            "charBegin": 644,
+            "charEnd": 647,
+            "id": 98,
+            "sentence": 5,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 659,
+            "id": 99,
+            "sentence": 5,
+            "text": "Kernenergie",
+            "word": 14
+        },
+        {
+            "charBegin": 660,
+            "charEnd": 662,
+            "id": 100,
+            "sentence": 5,
+            "text": "zu",
+            "word": 15
+        },
+        {
+            "charBegin": 662,
+            "charEnd": 663,
+            "id": 101,
+            "sentence": 5,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 668,
+            "id": 102,
+            "sentence": 6,
+            "text": "Eine",
+            "word": 1
+        },
+        {
+            "charBegin": 669,
+            "charEnd": 682,
+            "id": 103,
+            "sentence": 6,
+            "text": "entsprechende",
+            "word": 2
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 692,
+            "id": 104,
+            "sentence": 6,
+            "text": "Erklärung",
+            "word": 3
+        },
+        {
+            "charBegin": 693,
+            "charEnd": 696,
+            "id": 105,
+            "sentence": 6,
+            "text": "zur",
+            "word": 4
+        },
+        {
+            "charBegin": 697,
+            "charEnd": 709,
+            "id": 106,
+            "sentence": 6,
+            "text": "Bereitschaft",
+            "word": 5
+        },
+        {
+            "charBegin": 709,
+            "charEnd": 710,
+            "id": 107,
+            "sentence": 6,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 711,
+            "charEnd": 720,
+            "id": 108,
+            "sentence": 6,
+            "text": "Gespräche",
+            "word": 7
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 724,
+            "id": 109,
+            "sentence": 6,
+            "text": "mit",
+            "word": 8
+        },
+        {
+            "charBegin": 725,
+            "charEnd": 728,
+            "id": 110,
+            "sentence": 6,
+            "text": "dem",
+            "word": 9
+        },
+        {
+            "charBegin": 729,
+            "charEnd": 733,
+            "id": 111,
+            "sentence": 6,
+            "text": "Iran",
+            "word": 10
+        },
+        {
+            "charBegin": 734,
+            "charEnd": 738,
+            "id": 112,
+            "sentence": 6,
+            "text": "über",
+            "word": 11
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 743,
+            "id": 113,
+            "sentence": 6,
+            "text": "sein",
+            "word": 12
+        },
+        {
+            "charBegin": 744,
+            "charEnd": 756,
+            "id": 114,
+            "sentence": 6,
+            "text": "Atomprogramm",
+            "word": 13
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 759,
+            "id": 115,
+            "sentence": 6,
+            "text": "zu",
+            "word": 14
+        },
+        {
+            "charBegin": 760,
+            "charEnd": 766,
+            "id": 116,
+            "sentence": 6,
+            "text": "führen",
+            "word": 15
+        },
+        {
+            "charBegin": 766,
+            "charEnd": 767,
+            "id": 117,
+            "sentence": 6,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 768,
+            "charEnd": 773,
+            "id": 118,
+            "sentence": 6,
+            "text": "wurde",
+            "word": 17
+        },
+        {
+            "charBegin": 774,
+            "charEnd": 777,
+            "id": 119,
+            "sentence": 6,
+            "text": "dem",
+            "word": 18
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 787,
+            "id": 120,
+            "sentence": 6,
+            "text": "Schweizer",
+            "word": 19
+        },
+        {
+            "charBegin": 788,
+            "charEnd": 799,
+            "id": 121,
+            "sentence": 6,
+            "text": "Botschafter",
+            "word": 20
+        },
+        {
+            "charBegin": 800,
+            "charEnd": 802,
+            "id": 122,
+            "sentence": 6,
+            "text": "in",
+            "word": 21
+        },
+        {
+            "charBegin": 803,
+            "charEnd": 813,
+            "id": 123,
+            "sentence": 6,
+            "text": "Washington",
+            "word": 22
+        },
+        {
+            "charBegin": 814,
+            "charEnd": 817,
+            "id": 124,
+            "sentence": 6,
+            "text": "zur",
+            "word": 23
+        },
+        {
+            "charBegin": 818,
+            "charEnd": 831,
+            "id": 125,
+            "sentence": 6,
+            "text": "Weiterleitung",
+            "word": 24
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 834,
+            "id": 126,
+            "sentence": 6,
+            "text": "an",
+            "word": 25
+        },
+        {
+            "charBegin": 835,
+            "charEnd": 838,
+            "id": 127,
+            "sentence": 6,
+            "text": "die",
+            "word": 26
+        },
+        {
+            "charBegin": 839,
+            "charEnd": 848,
+            "id": 128,
+            "sentence": 6,
+            "text": "iranische",
+            "word": 27
+        },
+        {
+            "charBegin": 849,
+            "charEnd": 858,
+            "id": 129,
+            "sentence": 6,
+            "text": "Regierung",
+            "word": 28
+        },
+        {
+            "charBegin": 859,
+            "charEnd": 868,
+            "id": 130,
+            "sentence": 6,
+            "text": "übergeben",
+            "word": 29
+        },
+        {
+            "charBegin": 868,
+            "charEnd": 869,
+            "id": 131,
+            "sentence": 6,
+            "text": ".",
+            "word": 30
+        },
+        {
+            "charBegin": 870,
+            "charEnd": 874,
+            "id": 132,
+            "sentence": 7,
+            "text": "Rice",
+            "word": 1
+        },
+        {
+            "charBegin": 875,
+            "charEnd": 880,
+            "id": 133,
+            "sentence": 7,
+            "text": "sagte",
+            "word": 2
+        },
+        {
+            "charBegin": 881,
+            "charEnd": 887,
+            "id": 134,
+            "sentence": 7,
+            "text": "weiter",
+            "word": 3
+        },
+        {
+            "charBegin": 887,
+            "charEnd": 888,
+            "id": 135,
+            "sentence": 7,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 889,
+            "charEnd": 892,
+            "id": 136,
+            "sentence": 7,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 893,
+            "charEnd": 897,
+            "id": 137,
+            "sentence": 7,
+            "text": "Iran",
+            "word": 6
+        },
+        {
+            "charBegin": 898,
+            "charEnd": 902,
+            "id": 138,
+            "sentence": 7,
+            "text": "habe",
+            "word": 7
+        },
+        {
+            "charBegin": 903,
+            "charEnd": 906,
+            "id": 139,
+            "sentence": 7,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 907,
+            "charEnd": 913,
+            "id": 140,
+            "sentence": 7,
+            "text": "Chance",
+            "word": 9
+        },
+        {
+            "charBegin": 913,
+            "charEnd": 914,
+            "id": 141,
+            "sentence": 7,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 915,
+            "charEnd": 918,
+            "id": 142,
+            "sentence": 7,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 919,
+            "charEnd": 930,
+            "id": 143,
+            "sentence": 7,
+            "text": "Beziehungen",
+            "word": 12
+        },
+        {
+            "charBegin": 931,
+            "charEnd": 934,
+            "id": 144,
+            "sentence": 7,
+            "text": "mit",
+            "word": 13
+        },
+        {
+            "charBegin": 935,
+            "charEnd": 938,
+            "id": 145,
+            "sentence": 7,
+            "text": "den",
+            "word": 14
+        },
+        {
+            "charBegin": 939,
+            "charEnd": 942,
+            "id": 146,
+            "sentence": 7,
+            "text": "USA",
+            "word": 15
+        },
+        {
+            "charBegin": 943,
+            "charEnd": 946,
+            "id": 147,
+            "sentence": 7,
+            "text": "neu",
+            "word": 16
+        },
+        {
+            "charBegin": 947,
+            "charEnd": 949,
+            "id": 148,
+            "sentence": 7,
+            "text": "zu",
+            "word": 17
+        },
+        {
+            "charBegin": 950,
+            "charEnd": 959,
+            "id": 149,
+            "sentence": 7,
+            "text": "gestalten",
+            "word": 18
+        },
+        {
+            "charBegin": 959,
+            "charEnd": 960,
+            "id": 150,
+            "sentence": 7,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 961,
+            "charEnd": 963,
+            "id": 151,
+            "sentence": 8,
+            "text": "An",
+            "word": 1
+        },
+        {
+            "charBegin": 964,
+            "charEnd": 968,
+            "id": 152,
+            "sentence": 8,
+            "text": "eine",
+            "word": 2
+        },
+        {
+            "charBegin": 969,
+            "charEnd": 983,
+            "id": 153,
+            "sentence": 8,
+            "text": "Wiederaufnahme",
+            "word": 3
+        },
+        {
+            "charBegin": 984,
+            "charEnd": 998,
+            "id": 154,
+            "sentence": 8,
+            "text": "diplomatischer",
+            "word": 4
+        },
+        {
+            "charBegin": 999,
+            "charEnd": 1010,
+            "id": 155,
+            "sentence": 8,
+            "text": "Beziehungen",
+            "word": 5
+        },
+        {
+            "charBegin": 1011,
+            "charEnd": 1014,
+            "id": 156,
+            "sentence": 8,
+            "text": "sei",
+            "word": 6
+        },
+        {
+            "charBegin": 1015,
+            "charEnd": 1021,
+            "id": 157,
+            "sentence": 8,
+            "text": "jedoch",
+            "word": 7
+        },
+        {
+            "charBegin": 1022,
+            "charEnd": 1027,
+            "id": 158,
+            "sentence": 8,
+            "text": "nicht",
+            "word": 8
+        },
+        {
+            "charBegin": 1028,
+            "charEnd": 1035,
+            "id": 159,
+            "sentence": 8,
+            "text": "gedacht",
+            "word": 9
+        },
+        {
+            "charBegin": 1035,
+            "charEnd": 1036,
+            "id": 160,
+            "sentence": 8,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 1037,
+            "charEnd": 1040,
+            "id": 161,
+            "sentence": 9,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1041,
+            "charEnd": 1044,
+            "id": 162,
+            "sentence": 9,
+            "text": "USA",
+            "word": 2
+        },
+        {
+            "charBegin": 1045,
+            "charEnd": 1051,
+            "id": 163,
+            "sentence": 9,
+            "text": "hatten",
+            "word": 3
+        },
+        {
+            "charBegin": 1052,
+            "charEnd": 1054,
+            "id": 164,
+            "sentence": 9,
+            "text": "im",
+            "word": 4
+        },
+        {
+            "charBegin": 1055,
+            "charEnd": 1060,
+            "id": 165,
+            "sentence": 9,
+            "text": "Jahre",
+            "word": 5
+        },
+        {
+            "charBegin": 1061,
+            "charEnd": 1065,
+            "id": 166,
+            "sentence": 9,
+            "text": "1980",
+            "word": 6
+        },
+        {
+            "charBegin": 1066,
+            "charEnd": 1069,
+            "id": 167,
+            "sentence": 9,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 1070,
+            "charEnd": 1084,
+            "id": 168,
+            "sentence": 9,
+            "text": "diplomatischen",
+            "word": 8
+        },
+        {
+            "charBegin": 1085,
+            "charEnd": 1096,
+            "id": 169,
+            "sentence": 9,
+            "text": "Beziehungen",
+            "word": 9
+        },
+        {
+            "charBegin": 1097,
+            "charEnd": 1100,
+            "id": 170,
+            "sentence": 9,
+            "text": "zum",
+            "word": 10
+        },
+        {
+            "charBegin": 1101,
+            "charEnd": 1105,
+            "id": 171,
+            "sentence": 9,
+            "text": "Iran",
+            "word": 11
+        },
+        {
+            "charBegin": 1106,
+            "charEnd": 1110,
+            "id": 172,
+            "sentence": 9,
+            "text": "nach",
+            "word": 12
+        },
+        {
+            "charBegin": 1111,
+            "charEnd": 1116,
+            "id": 173,
+            "sentence": 9,
+            "text": "einer",
+            "word": 13
+        },
+        {
+            "charBegin": 1117,
+            "charEnd": 1126,
+            "id": 174,
+            "sentence": 9,
+            "text": "Besetzung",
+            "word": 14
+        },
+        {
+            "charBegin": 1127,
+            "charEnd": 1130,
+            "id": 175,
+            "sentence": 9,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 1131,
+            "charEnd": 1142,
+            "id": 176,
+            "sentence": 9,
+            "text": "Geiselnahme",
+            "word": 16
+        },
+        {
+            "charBegin": 1143,
+            "charEnd": 1145,
+            "id": 177,
+            "sentence": 9,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 1146,
+            "charEnd": 1149,
+            "id": 178,
+            "sentence": 9,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 1150,
+            "charEnd": 1162,
+            "id": 179,
+            "sentence": 9,
+            "text": "US-Botschaft",
+            "word": 19
+        },
+        {
+            "charBegin": 1163,
+            "charEnd": 1167,
+            "id": 180,
+            "sentence": 9,
+            "text": "1979",
+            "word": 20
+        },
+        {
+            "charBegin": 1168,
+            "charEnd": 1170,
+            "id": 181,
+            "sentence": 9,
+            "text": "in",
+            "word": 21
+        },
+        {
+            "charBegin": 1171,
+            "charEnd": 1178,
+            "id": 182,
+            "sentence": 9,
+            "text": "Teheran",
+            "word": 22
+        },
+        {
+            "charBegin": 1179,
+            "charEnd": 1190,
+            "id": 183,
+            "sentence": 9,
+            "text": "abgebrochen",
+            "word": 23
+        },
+        {
+            "charBegin": 1190,
+            "charEnd": 1191,
+            "id": 184,
+            "sentence": 9,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 1194,
+            "charEnd": 1197,
+            "id": 185,
+            "sentence": 10,
+            "text": "Zum",
+            "word": 1
+        },
+        {
+            "charBegin": 1198,
+            "charEnd": 1206,
+            "id": 186,
+            "sentence": 10,
+            "text": "gleichen",
+            "word": 2
+        },
+        {
+            "charBegin": 1207,
+            "charEnd": 1212,
+            "id": 187,
+            "sentence": 10,
+            "text": "Thema",
+            "word": 3
+        },
+        {
+            "charBegin": 1213,
+            "charEnd": 1220,
+            "id": 188,
+            "sentence": 10,
+            "text": "äußerte",
+            "word": 4
+        },
+        {
+            "charBegin": 1221,
+            "charEnd": 1225,
+            "id": 189,
+            "sentence": 10,
+            "text": "sich",
+            "word": 5
+        },
+        {
+            "charBegin": 1226,
+            "charEnd": 1231,
+            "id": 190,
+            "sentence": 10,
+            "text": "heute",
+            "word": 6
+        },
+        {
+            "charBegin": 1232,
+            "charEnd": 1236,
+            "id": 191,
+            "sentence": 10,
+            "text": "auch",
+            "word": 7
+        },
+        {
+            "charBegin": 1237,
+            "charEnd": 1249,
+            "id": 192,
+            "sentence": 10,
+            "text": "US-Präsident",
+            "word": 8
+        },
+        {
+            "charBegin": 1250,
+            "charEnd": 1256,
+            "id": 193,
+            "sentence": 10,
+            "text": "George",
+            "word": 9
+        },
+        {
+            "charBegin": 1257,
+            "charEnd": 1259,
+            "id": 194,
+            "sentence": 10,
+            "text": "W.",
+            "word": 10
+        },
+        {
+            "charBegin": 1260,
+            "charEnd": 1264,
+            "id": 195,
+            "sentence": 10,
+            "text": "Bush",
+            "word": 11
+        },
+        {
+            "charBegin": 1264,
+            "charEnd": 1265,
+            "id": 196,
+            "sentence": 10,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 1266,
+            "charEnd": 1268,
+            "id": 197,
+            "sentence": 11,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 1269,
+            "charEnd": 1281,
+            "id": 198,
+            "sentence": 11,
+            "text": "beanspruchte",
+            "word": 2
+        },
+        {
+            "charBegin": 1282,
+            "charEnd": 1287,
+            "id": 199,
+            "sentence": 11,
+            "text": "dabei",
+            "word": 3
+        },
+        {
+            "charBegin": 1288,
+            "charEnd": 1292,
+            "id": 200,
+            "sentence": 11,
+            "text": "eine",
+            "word": 4
+        },
+        {
+            "charBegin": 1293,
+            "charEnd": 1306,
+            "id": 201,
+            "sentence": 11,
+            "text": "Führungsrolle",
+            "word": 5
+        },
+        {
+            "charBegin": 1307,
+            "charEnd": 1309,
+            "id": 202,
+            "sentence": 11,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 1310,
+            "charEnd": 1313,
+            "id": 203,
+            "sentence": 11,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 1314,
+            "charEnd": 1328,
+            "id": 204,
+            "sentence": 11,
+            "text": "diplomatischen",
+            "word": 8
+        },
+        {
+            "charBegin": 1329,
+            "charEnd": 1339,
+            "id": 205,
+            "sentence": 11,
+            "text": "Bemühungen",
+            "word": 9
+        },
+        {
+            "charBegin": 1340,
+            "charEnd": 1343,
+            "id": 206,
+            "sentence": 11,
+            "text": "zur",
+            "word": 10
+        },
+        {
+            "charBegin": 1344,
+            "charEnd": 1353,
+            "id": 207,
+            "sentence": 11,
+            "text": "Beilegung",
+            "word": 11
+        },
+        {
+            "charBegin": 1354,
+            "charEnd": 1357,
+            "id": 208,
+            "sentence": 11,
+            "text": "des",
+            "word": 12
+        },
+        {
+            "charBegin": 1358,
+            "charEnd": 1368,
+            "id": 209,
+            "sentence": 11,
+            "text": "Konfliktes",
+            "word": 13
+        },
+        {
+            "charBegin": 1369,
+            "charEnd": 1372,
+            "id": 210,
+            "sentence": 11,
+            "text": "mit",
+            "word": 14
+        },
+        {
+            "charBegin": 1373,
+            "charEnd": 1376,
+            "id": 211,
+            "sentence": 11,
+            "text": "dem",
+            "word": 15
+        },
+        {
+            "charBegin": 1377,
+            "charEnd": 1381,
+            "id": 212,
+            "sentence": 11,
+            "text": "Iran",
+            "word": 16
+        },
+        {
+            "charBegin": 1381,
+            "charEnd": 1382,
+            "id": 213,
+            "sentence": 11,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 1383,
+            "charEnd": 1386,
+            "id": 214,
+            "sentence": 12,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 1387,
+            "charEnd": 1395,
+            "id": 215,
+            "sentence": 12,
+            "text": "Sprecher",
+            "word": 2
+        },
+        {
+            "charBegin": 1396,
+            "charEnd": 1399,
+            "id": 216,
+            "sentence": 12,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 1400,
+            "charEnd": 1406,
+            "id": 217,
+            "sentence": 12,
+            "text": "Weißen",
+            "word": 4
+        },
+        {
+            "charBegin": 1407,
+            "charEnd": 1413,
+            "id": 218,
+            "sentence": 12,
+            "text": "Hauses",
+            "word": 5
+        },
+        {
+            "charBegin": 1414,
+            "charEnd": 1416,
+            "id": 219,
+            "sentence": 12,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 1417,
+            "charEnd": 1427,
+            "id": 220,
+            "sentence": 12,
+            "text": "Washington",
+            "word": 7
+        },
+        {
+            "charBegin": 1428,
+            "charEnd": 1437,
+            "id": 221,
+            "sentence": 12,
+            "text": "schränkte",
+            "word": 8
+        },
+        {
+            "charBegin": 1438,
+            "charEnd": 1441,
+            "id": 222,
+            "sentence": 12,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 1442,
+            "charEnd": 1466,
+            "id": 223,
+            "sentence": 12,
+            "text": "Verhandlungsbereitschaft",
+            "word": 10
+        },
+        {
+            "charBegin": 1467,
+            "charEnd": 1470,
+            "id": 224,
+            "sentence": 12,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 1471,
+            "charEnd": 1474,
+            "id": 225,
+            "sentence": 12,
+            "text": "USA",
+            "word": 12
+        },
+        {
+            "charBegin": 1475,
+            "charEnd": 1481,
+            "id": 226,
+            "sentence": 12,
+            "text": "jedoch",
+            "word": 13
+        },
+        {
+            "charBegin": 1482,
+            "charEnd": 1493,
+            "id": 227,
+            "sentence": 12,
+            "text": "dahingehend",
+            "word": 14
+        },
+        {
+            "charBegin": 1494,
+            "charEnd": 1497,
+            "id": 228,
+            "sentence": 12,
+            "text": "ein",
+            "word": 15
+        },
+        {
+            "charBegin": 1497,
+            "charEnd": 1498,
+            "id": 229,
+            "sentence": 12,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 1499,
+            "charEnd": 1503,
+            "id": 230,
+            "sentence": 12,
+            "text": "dass",
+            "word": 17
+        },
+        {
+            "charBegin": 1504,
+            "charEnd": 1509,
+            "id": 231,
+            "sentence": 12,
+            "text": "nicht",
+            "word": 18
+        },
+        {
+            "charBegin": 1510,
+            "charEnd": 1512,
+            "id": 232,
+            "sentence": 12,
+            "text": "an",
+            "word": 19
+        },
+        {
+            "charBegin": 1513,
+            "charEnd": 1517,
+            "id": 233,
+            "sentence": 12,
+            "text": "eine",
+            "word": 20
+        },
+        {
+            "charBegin": 1518,
+            "charEnd": 1519,
+            "id": 234,
+            "sentence": 12,
+            "text": "„",
+            "word": 21
+        },
+        {
+            "charBegin": 1519,
+            "charEnd": 1523,
+            "id": 235,
+            "sentence": 12,
+            "text": "Eins",
+            "word": 22
+        },
+        {
+            "charBegin": 1524,
+            "charEnd": 1526,
+            "id": 236,
+            "sentence": 12,
+            "text": "zu",
+            "word": 23
+        },
+        {
+            "charBegin": 1527,
+            "charEnd": 1542,
+            "id": 237,
+            "sentence": 12,
+            "text": "Eins“-Begegnung",
+            "word": 24
+        },
+        {
+            "charBegin": 1543,
+            "charEnd": 1546,
+            "id": 238,
+            "sentence": 12,
+            "text": "mit",
+            "word": 25
+        },
+        {
+            "charBegin": 1547,
+            "charEnd": 1550,
+            "id": 239,
+            "sentence": 12,
+            "text": "dem",
+            "word": 26
+        },
+        {
+            "charBegin": 1551,
+            "charEnd": 1555,
+            "id": 240,
+            "sentence": 12,
+            "text": "Iran",
+            "word": 27
+        },
+        {
+            "charBegin": 1556,
+            "charEnd": 1563,
+            "id": 241,
+            "sentence": 12,
+            "text": "gedacht",
+            "word": 28
+        },
+        {
+            "charBegin": 1564,
+            "charEnd": 1567,
+            "id": 242,
+            "sentence": 12,
+            "text": "sei",
+            "word": 29
+        },
+        {
+            "charBegin": 1567,
+            "charEnd": 1568,
+            "id": 243,
+            "sentence": 12,
+            "text": ".",
+            "word": 30
+        },
+        {
+            "charBegin": 1569,
+            "charEnd": 1572,
+            "id": 244,
+            "sentence": 13,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1573,
+            "charEnd": 1576,
+            "id": 245,
+            "sentence": 13,
+            "text": "USA",
+            "word": 2
+        },
+        {
+            "charBegin": 1577,
+            "charEnd": 1583,
+            "id": 246,
+            "sentence": 13,
+            "text": "würden",
+            "word": 3
+        },
+        {
+            "charBegin": 1584,
+            "charEnd": 1588,
+            "id": 247,
+            "sentence": 13,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 1589,
+            "charEnd": 1591,
+            "id": 248,
+            "sentence": 13,
+            "text": "im",
+            "word": 5
+        },
+        {
+            "charBegin": 1592,
+            "charEnd": 1598,
+            "id": 249,
+            "sentence": 13,
+            "text": "Rahmen",
+            "word": 6
+        },
+        {
+            "charBegin": 1599,
+            "charEnd": 1602,
+            "id": 250,
+            "sentence": 13,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 1603,
+            "charEnd": 1612,
+            "id": 251,
+            "sentence": 13,
+            "text": "Gespräche",
+            "word": 8
+        },
+        {
+            "charBegin": 1613,
+            "charEnd": 1616,
+            "id": 252,
+            "sentence": 13,
+            "text": "mit",
+            "word": 9
+        },
+        {
+            "charBegin": 1617,
+            "charEnd": 1620,
+            "id": 253,
+            "sentence": 13,
+            "text": "den",
+            "word": 10
+        },
+        {
+            "charBegin": 1621,
+            "charEnd": 1637,
+            "id": 254,
+            "sentence": 13,
+            "text": "westeuropäischen",
+            "word": 11
+        },
+        {
+            "charBegin": 1638,
+            "charEnd": 1645,
+            "id": 255,
+            "sentence": 13,
+            "text": "Staaten",
+            "word": 12
+        },
+        {
+            "charBegin": 1646,
+            "charEnd": 1656,
+            "id": 256,
+            "sentence": 13,
+            "text": "Frankreich",
+            "word": 13
+        },
+        {
+            "charBegin": 1656,
+            "charEnd": 1657,
+            "id": 257,
+            "sentence": 13,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 1658,
+            "charEnd": 1672,
+            "id": 258,
+            "sentence": 13,
+            "text": "Großbritannien",
+            "word": 15
+        },
+        {
+            "charBegin": 1673,
+            "charEnd": 1676,
+            "id": 259,
+            "sentence": 13,
+            "text": "und",
+            "word": 16
+        },
+        {
+            "charBegin": 1677,
+            "charEnd": 1688,
+            "id": 260,
+            "sentence": 13,
+            "text": "Deutschland",
+            "word": 17
+        },
+        {
+            "charBegin": 1689,
+            "charEnd": 1692,
+            "id": 261,
+            "sentence": 13,
+            "text": "mit",
+            "word": 18
+        },
+        {
+            "charBegin": 1693,
+            "charEnd": 1696,
+            "id": 262,
+            "sentence": 13,
+            "text": "dem",
+            "word": 19
+        },
+        {
+            "charBegin": 1697,
+            "charEnd": 1701,
+            "id": 263,
+            "sentence": 13,
+            "text": "Iran",
+            "word": 20
+        },
+        {
+            "charBegin": 1702,
+            "charEnd": 1712,
+            "id": 264,
+            "sentence": 13,
+            "text": "beteiligen",
+            "word": 21
+        },
+        {
+            "charBegin": 1712,
+            "charEnd": 1713,
+            "id": 265,
+            "sentence": 13,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 1716,
+            "charEnd": 1727,
+            "id": 266,
+            "sentence": 14,
+            "text": "Unterdessen",
+            "word": 1
+        },
+        {
+            "charBegin": 1728,
+            "charEnd": 1733,
+            "id": 267,
+            "sentence": 14,
+            "text": "gehen",
+            "word": 2
+        },
+        {
+            "charBegin": 1734,
+            "charEnd": 1737,
+            "id": 268,
+            "sentence": 14,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 1738,
+            "charEnd": 1751,
+            "id": 269,
+            "sentence": 14,
+            "text": "Verhandlungen",
+            "word": 4
+        },
+        {
+            "charBegin": 1752,
+            "charEnd": 1756,
+            "id": 270,
+            "sentence": 14,
+            "text": "über",
+            "word": 5
+        },
+        {
+            "charBegin": 1757,
+            "charEnd": 1765,
+            "id": 271,
+            "sentence": 14,
+            "text": "mögliche",
+            "word": 6
+        },
+        {
+            "charBegin": 1766,
+            "charEnd": 1778,
+            "id": 272,
+            "sentence": 14,
+            "text": "Resolutionen",
+            "word": 7
+        },
+        {
+            "charBegin": 1779,
+            "charEnd": 1782,
+            "id": 273,
+            "sentence": 14,
+            "text": "des",
+            "word": 8
+        },
+        {
+            "charBegin": 1783,
+            "charEnd": 1802,
+            "id": 274,
+            "sentence": 14,
+            "text": "UN-Sicherheitsrates",
+            "word": 9
+        },
+        {
+            "charBegin": 1803,
+            "charEnd": 1809,
+            "id": 275,
+            "sentence": 14,
+            "text": "weiter",
+            "word": 10
+        },
+        {
+            "charBegin": 1809,
+            "charEnd": 1810,
+            "id": 276,
+            "sentence": 14,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 1811,
+            "charEnd": 1814,
+            "id": 277,
+            "sentence": 15,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1815,
+            "charEnd": 1818,
+            "id": 278,
+            "sentence": 15,
+            "text": "USA",
+            "word": 2
+        },
+        {
+            "charBegin": 1819,
+            "charEnd": 1826,
+            "id": 279,
+            "sentence": 15,
+            "text": "bemühen",
+            "word": 3
+        },
+        {
+            "charBegin": 1827,
+            "charEnd": 1831,
+            "id": 280,
+            "sentence": 15,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 1832,
+            "charEnd": 1837,
+            "id": 281,
+            "sentence": 15,
+            "text": "darum",
+            "word": 5
+        },
+        {
+            "charBegin": 1837,
+            "charEnd": 1838,
+            "id": 282,
+            "sentence": 15,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 1839,
+            "charEnd": 1847,
+            "id": 283,
+            "sentence": 15,
+            "text": "Russland",
+            "word": 7
+        },
+        {
+            "charBegin": 1848,
+            "charEnd": 1851,
+            "id": 284,
+            "sentence": 15,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 1852,
+            "charEnd": 1857,
+            "id": 285,
+            "sentence": 15,
+            "text": "China",
+            "word": 9
+        },
+        {
+            "charBegin": 1858,
+            "charEnd": 1861,
+            "id": 286,
+            "sentence": 15,
+            "text": "von",
+            "word": 10
+        },
+        {
+            "charBegin": 1862,
+            "charEnd": 1867,
+            "id": 287,
+            "sentence": 15,
+            "text": "ihren",
+            "word": 11
+        },
+        {
+            "charBegin": 1868,
+            "charEnd": 1879,
+            "id": 288,
+            "sentence": 15,
+            "text": "ablehnenden",
+            "word": 12
+        },
+        {
+            "charBegin": 1880,
+            "charEnd": 1889,
+            "id": 289,
+            "sentence": 15,
+            "text": "Haltungen",
+            "word": 13
+        },
+        {
+            "charBegin": 1890,
+            "charEnd": 1899,
+            "id": 290,
+            "sentence": 15,
+            "text": "gegenüber",
+            "word": 14
+        },
+        {
+            "charBegin": 1900,
+            "charEnd": 1910,
+            "id": 291,
+            "sentence": 15,
+            "text": "Sanktionen",
+            "word": 15
+        },
+        {
+            "charBegin": 1911,
+            "charEnd": 1916,
+            "id": 292,
+            "sentence": 15,
+            "text": "gegen",
+            "word": 16
+        },
+        {
+            "charBegin": 1917,
+            "charEnd": 1920,
+            "id": 293,
+            "sentence": 15,
+            "text": "den",
+            "word": 17
+        },
+        {
+            "charBegin": 1921,
+            "charEnd": 1925,
+            "id": 294,
+            "sentence": 15,
+            "text": "Iran",
+            "word": 18
+        },
+        {
+            "charBegin": 1926,
+            "charEnd": 1937,
+            "id": 295,
+            "sentence": 15,
+            "text": "abzubringen",
+            "word": 19
+        },
+        {
+            "charBegin": 1937,
+            "charEnd": 1938,
+            "id": 296,
+            "sentence": 15,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 1939,
+            "charEnd": 1941,
+            "id": 297,
+            "sentence": 16,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 1942,
+            "charEnd": 1952,
+            "id": 298,
+            "sentence": 16,
+            "text": "Donnerstag",
+            "word": 2
+        },
+        {
+            "charBegin": 1953,
+            "charEnd": 1956,
+            "id": 299,
+            "sentence": 16,
+            "text": "ist",
+            "word": 3
+        },
+        {
+            "charBegin": 1957,
+            "charEnd": 1960,
+            "id": 300,
+            "sentence": 16,
+            "text": "ein",
+            "word": 4
+        },
+        {
+            "charBegin": 1961,
+            "charEnd": 1968,
+            "id": 301,
+            "sentence": 16,
+            "text": "Treffen",
+            "word": 5
+        },
+        {
+            "charBegin": 1969,
+            "charEnd": 1972,
+            "id": 302,
+            "sentence": 16,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 1973,
+            "charEnd": 1983,
+            "id": 303,
+            "sentence": 16,
+            "text": "westlichen",
+            "word": 7
+        },
+        {
+            "charBegin": 1984,
+            "charEnd": 2003,
+            "id": 304,
+            "sentence": 16,
+            "text": "Verhandlungspartner",
+            "word": 8
+        },
+        {
+            "charBegin": 2004,
+            "charEnd": 2006,
+            "id": 305,
+            "sentence": 16,
+            "text": "in",
+            "word": 9
+        },
+        {
+            "charBegin": 2007,
+            "charEnd": 2011,
+            "id": 306,
+            "sentence": 16,
+            "text": "Wien",
+            "word": 10
+        },
+        {
+            "charBegin": 2012,
+            "charEnd": 2019,
+            "id": 307,
+            "sentence": 16,
+            "text": "geplant",
+            "word": 11
+        },
+        {
+            "charBegin": 2019,
+            "charEnd": 2020,
+            "id": 308,
+            "sentence": 16,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 2021,
+            "charEnd": 2023,
+            "id": 309,
+            "sentence": 16,
+            "text": "wo",
+            "word": 13
+        },
+        {
+            "charBegin": 2024,
+            "charEnd": 2027,
+            "id": 310,
+            "sentence": 16,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 2028,
+            "charEnd": 2048,
+            "id": 311,
+            "sentence": 16,
+            "text": "Verhandlungsposition",
+            "word": 15
+        },
+        {
+            "charBegin": 2049,
+            "charEnd": 2052,
+            "id": 312,
+            "sentence": 16,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 2053,
+            "charEnd": 2063,
+            "id": 313,
+            "sentence": 16,
+            "text": "Vetomächte",
+            "word": 17
+        },
+        {
+            "charBegin": 2064,
+            "charEnd": 2066,
+            "id": 314,
+            "sentence": 16,
+            "text": "im",
+            "word": 18
+        },
+        {
+            "charBegin": 2067,
+            "charEnd": 2084,
+            "id": 315,
+            "sentence": 16,
+            "text": "UN-Sicherheitsrat",
+            "word": 19
+        },
+        {
+            "charBegin": 2085,
+            "charEnd": 2088,
+            "id": 316,
+            "sentence": 16,
+            "text": "und",
+            "word": 20
+        },
+        {
+            "charBegin": 2089,
+            "charEnd": 2101,
+            "id": 317,
+            "sentence": 16,
+            "text": "Deutschlands",
+            "word": 21
+        },
+        {
+            "charBegin": 2102,
+            "charEnd": 2111,
+            "id": 318,
+            "sentence": 16,
+            "text": "gegenüber",
+            "word": 22
+        },
+        {
+            "charBegin": 2112,
+            "charEnd": 2115,
+            "id": 319,
+            "sentence": 16,
+            "text": "dem",
+            "word": 23
+        },
+        {
+            "charBegin": 2116,
+            "charEnd": 2120,
+            "id": 320,
+            "sentence": 16,
+            "text": "Iran",
+            "word": 24
+        },
+        {
+            "charBegin": 2121,
+            "charEnd": 2131,
+            "id": 321,
+            "sentence": 16,
+            "text": "abgestimmt",
+            "word": 25
+        },
+        {
+            "charBegin": 2132,
+            "charEnd": 2138,
+            "id": 322,
+            "sentence": 16,
+            "text": "werden",
+            "word": 26
+        },
+        {
+            "charBegin": 2139,
+            "charEnd": 2143,
+            "id": 323,
+            "sentence": 16,
+            "text": "soll",
+            "word": 27
+        },
+        {
+            "charBegin": 2143,
+            "charEnd": 2144,
+            "id": 324,
+            "sentence": 16,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 2145,
+            "charEnd": 2147,
+            "id": 325,
+            "sentence": 17,
+            "text": "An",
+            "word": 1
+        },
+        {
+            "charBegin": 2148,
+            "charEnd": 2154,
+            "id": 326,
+            "sentence": 17,
+            "text": "diesen",
+            "word": 2
+        },
+        {
+            "charBegin": 2155,
+            "charEnd": 2165,
+            "id": 327,
+            "sentence": 17,
+            "text": "Gesprächen",
+            "word": 3
+        },
+        {
+            "charBegin": 2166,
+            "charEnd": 2172,
+            "id": 328,
+            "sentence": 17,
+            "text": "werden",
+            "word": 4
+        },
+        {
+            "charBegin": 2173,
+            "charEnd": 2176,
+            "id": 329,
+            "sentence": 17,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 2177,
+            "charEnd": 2190,
+            "id": 330,
+            "sentence": 17,
+            "text": "Außenminister",
+            "word": 6
+        },
+        {
+            "charBegin": 2191,
+            "charEnd": 2194,
+            "id": 331,
+            "sentence": 17,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 2195,
+            "charEnd": 2198,
+            "id": 332,
+            "sentence": 17,
+            "text": "USA",
+            "word": 8
+        },
+        {
+            "charBegin": 2198,
+            "charEnd": 2199,
+            "id": 333,
+            "sentence": 17,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 2200,
+            "charEnd": 2211,
+            "id": 334,
+            "sentence": 17,
+            "text": "Frankreichs",
+            "word": 10
+        },
+        {
+            "charBegin": 2211,
+            "charEnd": 2212,
+            "id": 335,
+            "sentence": 17,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 2213,
+            "charEnd": 2228,
+            "id": 336,
+            "sentence": 17,
+            "text": "Großbritanniens",
+            "word": 12
+        },
+        {
+            "charBegin": 2228,
+            "charEnd": 2229,
+            "id": 337,
+            "sentence": 17,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 2230,
+            "charEnd": 2239,
+            "id": 338,
+            "sentence": 17,
+            "text": "Russlands",
+            "word": 14
+        },
+        {
+            "charBegin": 2240,
+            "charEnd": 2243,
+            "id": 339,
+            "sentence": 17,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 2244,
+            "charEnd": 2256,
+            "id": 340,
+            "sentence": 17,
+            "text": "Deutschlands",
+            "word": 16
+        },
+        {
+            "charBegin": 2257,
+            "charEnd": 2267,
+            "id": 341,
+            "sentence": 17,
+            "text": "teilnehmen",
+            "word": 17
+        },
+        {
+            "charBegin": 2267,
+            "charEnd": 2268,
+            "id": 342,
+            "sentence": 17,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 2269,
+            "charEnd": 2274,
+            "id": 343,
+            "sentence": 18,
+            "text": "China",
+            "word": 1
+        },
+        {
+            "charBegin": 2275,
+            "charEnd": 2279,
+            "id": 344,
+            "sentence": 18,
+            "text": "wird",
+            "word": 2
+        },
+        {
+            "charBegin": 2280,
+            "charEnd": 2286,
+            "id": 345,
+            "sentence": 18,
+            "text": "seinen",
+            "word": 3
+        },
+        {
+            "charBegin": 2287,
+            "charEnd": 2305,
+            "id": 346,
+            "sentence": 18,
+            "text": "Vize-Außenminister",
+            "word": 4
+        },
+        {
+            "charBegin": 2306,
+            "charEnd": 2315,
+            "id": 347,
+            "sentence": 18,
+            "text": "entsenden",
+            "word": 5
+        },
+        {
+            "charBegin": 2315,
+            "charEnd": 2316,
+            "id": 348,
+            "sentence": 18,
+            "text": ".",
+            "word": 6
+        },
+        {
+            "charBegin": 2317,
+            "charEnd": 2319,
+            "id": 349,
+            "sentence": 19,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 2320,
+            "charEnd": 2328,
+            "id": 350,
+            "sentence": 19,
+            "text": "Gespräch",
+            "word": 2
+        },
+        {
+            "charBegin": 2329,
+            "charEnd": 2333,
+            "id": 351,
+            "sentence": 19,
+            "text": "sind",
+            "word": 3
+        },
+        {
+            "charBegin": 2334,
+            "charEnd": 2338,
+            "id": 352,
+            "sentence": 19,
+            "text": "auch",
+            "word": 4
+        },
+        {
+            "charBegin": 2339,
+            "charEnd": 2359,
+            "id": 353,
+            "sentence": 19,
+            "text": "Kooperationsangebote",
+            "word": 5
+        },
+        {
+            "charBegin": 2360,
+            "charEnd": 2362,
+            "id": 354,
+            "sentence": 19,
+            "text": "an",
+            "word": 6
+        },
+        {
+            "charBegin": 2363,
+            "charEnd": 2366,
+            "id": 355,
+            "sentence": 19,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 2367,
+            "charEnd": 2371,
+            "id": 356,
+            "sentence": 19,
+            "text": "Iran",
+            "word": 8
+        },
+        {
+            "charBegin": 2371,
+            "charEnd": 2372,
+            "id": 357,
+            "sentence": 19,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 2373,
+            "charEnd": 2376,
+            "id": 358,
+            "sentence": 19,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 2377,
+            "charEnd": 2404,
+            "id": 359,
+            "sentence": 19,
+            "text": "wissenschaftlich-technische",
+            "word": 11
+        },
+        {
+            "charBegin": 2405,
+            "charEnd": 2418,
+            "id": 360,
+            "sentence": 19,
+            "text": "Unterstützung",
+            "word": 12
+        },
+        {
+            "charBegin": 2419,
+            "charEnd": 2422,
+            "id": 361,
+            "sentence": 19,
+            "text": "für",
+            "word": 13
+        },
+        {
+            "charBegin": 2423,
+            "charEnd": 2426,
+            "id": 362,
+            "sentence": 19,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 2427,
+            "charEnd": 2436,
+            "id": 363,
+            "sentence": 19,
+            "text": "iranische",
+            "word": 15
+        },
+        {
+            "charBegin": 2437,
+            "charEnd": 2459,
+            "id": 364,
+            "sentence": 19,
+            "text": "Kernenergietechnologie",
+            "word": 16
+        },
+        {
+            "charBegin": 2460,
+            "charEnd": 2468,
+            "id": 365,
+            "sentence": 19,
+            "text": "vorsehen",
+            "word": 17
+        },
+        {
+            "charBegin": 2468,
+            "charEnd": 2469,
+            "id": 366,
+            "sentence": 19,
+            "text": ",",
+            "word": 18
+        },
+        {
+            "charBegin": 2470,
+            "charEnd": 2473,
+            "id": 367,
+            "sentence": 19,
+            "text": "wie",
+            "word": 19
+        },
+        {
+            "charBegin": 2474,
+            "charEnd": 2478,
+            "id": 368,
+            "sentence": 19,
+            "text": "auch",
+            "word": 20
+        },
+        {
+            "charBegin": 2479,
+            "charEnd": 2499,
+            "id": 369,
+            "sentence": 19,
+            "text": "Sicherheitsgarantien",
+            "word": 21
+        },
+        {
+            "charBegin": 2500,
+            "charEnd": 2503,
+            "id": 370,
+            "sentence": 19,
+            "text": "für",
+            "word": 22
+        },
+        {
+            "charBegin": 2504,
+            "charEnd": 2507,
+            "id": 371,
+            "sentence": 19,
+            "text": "den",
+            "word": 23
+        },
+        {
+            "charBegin": 2508,
+            "charEnd": 2512,
+            "id": 372,
+            "sentence": 19,
+            "text": "Iran",
+            "word": 24
+        },
+        {
+            "charBegin": 2513,
+            "charEnd": 2516,
+            "id": 373,
+            "sentence": 19,
+            "text": "vor",
+            "word": 25
+        },
+        {
+            "charBegin": 2517,
+            "charEnd": 2530,
+            "id": 374,
+            "sentence": 19,
+            "text": "militärischen",
+            "word": 26
+        },
+        {
+            "charBegin": 2531,
+            "charEnd": 2540,
+            "id": 375,
+            "sentence": 19,
+            "text": "Angriffen",
+            "word": 27
+        },
+        {
+            "charBegin": 2540,
+            "charEnd": 2541,
+            "id": 376,
+            "sentence": 19,
+            "text": ".",
+            "word": 28
+        }
+    ]
+}

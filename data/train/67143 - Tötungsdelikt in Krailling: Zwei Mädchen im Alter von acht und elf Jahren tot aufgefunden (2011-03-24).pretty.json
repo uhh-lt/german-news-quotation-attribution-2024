@@ -1,0 +1,1597 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 52,
+                        "charBegin": 287,
+                        "charEnd": 291,
+                        "end": 53
+                    }
+                ],
+                "text": "nach",
+                "tokenIds": [
+                    52
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 52,
+                        "charBegin": 287,
+                        "charEnd": 307,
+                        "end": 55
+                    }
+                ],
+                "text": "nach eigenen Angaben",
+                "tokenIds": [
+                    52,
+                    53,
+                    54
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 46,
+                        "charBegin": 247,
+                        "charEnd": 286,
+                        "end": 52
+                    },
+                    {
+                        "begin": 55,
+                        "charBegin": 308,
+                        "charEnd": 347,
+                        "end": 62
+                    }
+                ],
+                "text": "Die Mutter und ihr Lebensgefährte haben bis 4.30 Uhr in einer Kneipe gearbeitet",
+                "tokenIds": [
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 53,
+                        "charBegin": 292,
+                        "charEnd": 307,
+                        "end": 55
+                    }
+                ],
+                "text": "eigenen Angaben",
+                "tokenIds": [
+                    53,
+                    54
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 63,
+                        "charBegin": 349,
+                        "charEnd": 353,
+                        "end": 64
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    63
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 63,
+                        "charBegin": 349,
+                        "charEnd": 373,
+                        "end": 67
+                    }
+                ],
+                "text": "Nach Angaben der Polizei",
+                "tokenIds": [
+                    63,
+                    64,
+                    65,
+                    66
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 67,
+                        "charBegin": 374,
+                        "charEnd": 464,
+                        "end": 85
+                    }
+                ],
+                "text": "kamen sie gegen fünf Uhr in der Wohnung der Mutter an, wo sie die beiden Kinder entdeckten",
+                "tokenIds": [
+                    67,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 64,
+                        "charBegin": 354,
+                        "charEnd": 373,
+                        "end": 67
+                    }
+                ],
+                "text": "Angaben der Polizei",
+                "tokenIds": [
+                    64,
+                    65,
+                    66
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "67143 - Tötungsdelikt in Krailling: Zwei Mädchen im Alter von acht und elf Jahren tot aufgefunden (2011-03-24)",
+    "originalText": "Am heutigen Morgen kam eine Mutter mit ihrem Lebensgefährten gegen fünf Uhr nach Hause. In der Wohnung fand sie ihre beiden Töchter, die acht und elf Jahre alt waren, tot vor. Die Polizei geht nach der Auffindesituation von einem Verbrechen aus.\n\nDie Mutter und ihr Lebensgefährte haben nach eigenen Angaben bis 4.30 Uhr in einer Kneipe gearbeitet. Nach Angaben der Polizei kamen sie gegen fünf Uhr in der Wohnung der Mutter an, wo sie die beiden Kinder entdeckten. Ein herbeigerufener Notarzt konnte nur noch den Tod der Schwestern feststellen.\n\nDie Mordkommission von München hat die Ermittlungen aufgenommen. Ein Hubschrauber der Polizei kreiste im Bereich des Tatorts, der Margaretenstraße in Krailling. Die geschockte Mutter muss psychologisch betreut werden.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 87,
+            "end": 15,
+            "id": 0,
+            "text": "Am heutigen Morgen kam eine Mutter mit ihrem Lebensgefährten gegen fünf Uhr nach Hause. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "tokens": [
+                "Am",
+                "heutigen",
+                "Morgen",
+                "kam",
+                "eine",
+                "Mutter",
+                "mit",
+                "ihrem",
+                "Lebensgefährten",
+                "gegen",
+                "fünf",
+                "Uhr",
+                "nach",
+                "Hause",
+                "."
+            ]
+        },
+        {
+            "begin": 15,
+            "charBegin": 88,
+            "charEnd": 175,
+            "end": 35,
+            "id": 1,
+            "text": "In der Wohnung fand sie ihre beiden Töchter, die acht und elf Jahre alt waren, tot vor. ",
+            "tokenIds": [
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "tokens": [
+                "In",
+                "der",
+                "Wohnung",
+                "fand",
+                "sie",
+                "ihre",
+                "beiden",
+                "Töchter",
+                ",",
+                "die",
+                "acht",
+                "und",
+                "elf",
+                "Jahre",
+                "alt",
+                "waren",
+                ",",
+                "tot",
+                "vor",
+                "."
+            ]
+        },
+        {
+            "begin": 35,
+            "charBegin": 176,
+            "charEnd": 245,
+            "end": 46,
+            "id": 2,
+            "text": "Die Polizei geht nach der Auffindesituation von einem Verbrechen aus.",
+            "tokenIds": [
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45
+            ],
+            "tokens": [
+                "Die",
+                "Polizei",
+                "geht",
+                "nach",
+                "der",
+                "Auffindesituation",
+                "von",
+                "einem",
+                "Verbrechen",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "begin": 46,
+            "charBegin": 247,
+            "charEnd": 348,
+            "end": 63,
+            "id": 3,
+            "text": "Die Mutter und ihr Lebensgefährte haben nach eigenen Angaben bis 4.30 Uhr in einer Kneipe gearbeitet. ",
+            "tokenIds": [
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62
+            ],
+            "tokens": [
+                "Die",
+                "Mutter",
+                "und",
+                "ihr",
+                "Lebensgefährte",
+                "haben",
+                "nach",
+                "eigenen",
+                "Angaben",
+                "bis",
+                "4.30",
+                "Uhr",
+                "in",
+                "einer",
+                "Kneipe",
+                "gearbeitet",
+                "."
+            ]
+        },
+        {
+            "begin": 63,
+            "charBegin": 349,
+            "charEnd": 465,
+            "end": 86,
+            "id": 4,
+            "text": "Nach Angaben der Polizei kamen sie gegen fünf Uhr in der Wohnung der Mutter an, wo sie die beiden Kinder entdeckten. ",
+            "tokenIds": [
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85
+            ],
+            "tokens": [
+                "Nach",
+                "Angaben",
+                "der",
+                "Polizei",
+                "kamen",
+                "sie",
+                "gegen",
+                "fünf",
+                "Uhr",
+                "in",
+                "der",
+                "Wohnung",
+                "der",
+                "Mutter",
+                "an",
+                ",",
+                "wo",
+                "sie",
+                "die",
+                "beiden",
+                "Kinder",
+                "entdeckten",
+                "."
+            ]
+        },
+        {
+            "begin": 86,
+            "charBegin": 466,
+            "charEnd": 545,
+            "end": 98,
+            "id": 5,
+            "text": "Ein herbeigerufener Notarzt konnte nur noch den Tod der Schwestern feststellen.",
+            "tokenIds": [
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97
+            ],
+            "tokens": [
+                "Ein",
+                "herbeigerufener",
+                "Notarzt",
+                "konnte",
+                "nur",
+                "noch",
+                "den",
+                "Tod",
+                "der",
+                "Schwestern",
+                "feststellen",
+                "."
+            ]
+        },
+        {
+            "begin": 98,
+            "charBegin": 547,
+            "charEnd": 611,
+            "end": 107,
+            "id": 6,
+            "text": "Die Mordkommission von München hat die Ermittlungen aufgenommen. ",
+            "tokenIds": [
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106
+            ],
+            "tokens": [
+                "Die",
+                "Mordkommission",
+                "von",
+                "München",
+                "hat",
+                "die",
+                "Ermittlungen",
+                "aufgenommen",
+                "."
+            ]
+        },
+        {
+            "begin": 107,
+            "charBegin": 612,
+            "charEnd": 707,
+            "end": 122,
+            "id": 7,
+            "text": "Ein Hubschrauber der Polizei kreiste im Bereich des Tatorts, der Margaretenstraße in Krailling. ",
+            "tokenIds": [
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ],
+            "tokens": [
+                "Ein",
+                "Hubschrauber",
+                "der",
+                "Polizei",
+                "kreiste",
+                "im",
+                "Bereich",
+                "des",
+                "Tatorts",
+                ",",
+                "der",
+                "Margaretenstraße",
+                "in",
+                "Krailling",
+                "."
+            ]
+        },
+        {
+            "begin": 122,
+            "charBegin": 708,
+            "charEnd": 764,
+            "end": 130,
+            "id": 8,
+            "text": "Die geschockte Mutter muss psychologisch betreut werden.",
+            "tokenIds": [
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129
+            ],
+            "tokens": [
+                "Die",
+                "geschockte",
+                "Mutter",
+                "muss",
+                "psychologisch",
+                "betreut",
+                "werden",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 11,
+            "id": 1,
+            "sentence": 1,
+            "text": "heutigen",
+            "word": 2
+        },
+        {
+            "charBegin": 12,
+            "charEnd": 18,
+            "id": 2,
+            "sentence": 1,
+            "text": "Morgen",
+            "word": 3
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 22,
+            "id": 3,
+            "sentence": 1,
+            "text": "kam",
+            "word": 4
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 27,
+            "id": 4,
+            "sentence": 1,
+            "text": "eine",
+            "word": 5
+        },
+        {
+            "charBegin": 28,
+            "charEnd": 34,
+            "id": 5,
+            "sentence": 1,
+            "text": "Mutter",
+            "word": 6
+        },
+        {
+            "charBegin": 35,
+            "charEnd": 38,
+            "id": 6,
+            "sentence": 1,
+            "text": "mit",
+            "word": 7
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 44,
+            "id": 7,
+            "sentence": 1,
+            "text": "ihrem",
+            "word": 8
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 60,
+            "id": 8,
+            "sentence": 1,
+            "text": "Lebensgefährten",
+            "word": 9
+        },
+        {
+            "charBegin": 61,
+            "charEnd": 66,
+            "id": 9,
+            "sentence": 1,
+            "text": "gegen",
+            "word": 10
+        },
+        {
+            "charBegin": 67,
+            "charEnd": 71,
+            "id": 10,
+            "sentence": 1,
+            "text": "fünf",
+            "word": 11
+        },
+        {
+            "charBegin": 72,
+            "charEnd": 75,
+            "id": 11,
+            "sentence": 1,
+            "text": "Uhr",
+            "word": 12
+        },
+        {
+            "charBegin": 76,
+            "charEnd": 80,
+            "id": 12,
+            "sentence": 1,
+            "text": "nach",
+            "word": 13
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 86,
+            "id": 13,
+            "sentence": 1,
+            "text": "Hause",
+            "word": 14
+        },
+        {
+            "charBegin": 86,
+            "charEnd": 87,
+            "id": 14,
+            "sentence": 1,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 88,
+            "charEnd": 90,
+            "id": 15,
+            "sentence": 2,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 94,
+            "id": 16,
+            "sentence": 2,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 102,
+            "id": 17,
+            "sentence": 2,
+            "text": "Wohnung",
+            "word": 3
+        },
+        {
+            "charBegin": 103,
+            "charEnd": 107,
+            "id": 18,
+            "sentence": 2,
+            "text": "fand",
+            "word": 4
+        },
+        {
+            "charBegin": 108,
+            "charEnd": 111,
+            "id": 19,
+            "sentence": 2,
+            "text": "sie",
+            "word": 5
+        },
+        {
+            "charBegin": 112,
+            "charEnd": 116,
+            "id": 20,
+            "sentence": 2,
+            "text": "ihre",
+            "word": 6
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 123,
+            "id": 21,
+            "sentence": 2,
+            "text": "beiden",
+            "word": 7
+        },
+        {
+            "charBegin": 124,
+            "charEnd": 131,
+            "id": 22,
+            "sentence": 2,
+            "text": "Töchter",
+            "word": 8
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 132,
+            "id": 23,
+            "sentence": 2,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 133,
+            "charEnd": 136,
+            "id": 24,
+            "sentence": 2,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 137,
+            "charEnd": 141,
+            "id": 25,
+            "sentence": 2,
+            "text": "acht",
+            "word": 11
+        },
+        {
+            "charBegin": 142,
+            "charEnd": 145,
+            "id": 26,
+            "sentence": 2,
+            "text": "und",
+            "word": 12
+        },
+        {
+            "charBegin": 146,
+            "charEnd": 149,
+            "id": 27,
+            "sentence": 2,
+            "text": "elf",
+            "word": 13
+        },
+        {
+            "charBegin": 150,
+            "charEnd": 155,
+            "id": 28,
+            "sentence": 2,
+            "text": "Jahre",
+            "word": 14
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 159,
+            "id": 29,
+            "sentence": 2,
+            "text": "alt",
+            "word": 15
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 165,
+            "id": 30,
+            "sentence": 2,
+            "text": "waren",
+            "word": 16
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 166,
+            "id": 31,
+            "sentence": 2,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 167,
+            "charEnd": 170,
+            "id": 32,
+            "sentence": 2,
+            "text": "tot",
+            "word": 18
+        },
+        {
+            "charBegin": 171,
+            "charEnd": 174,
+            "id": 33,
+            "sentence": 2,
+            "text": "vor",
+            "word": 19
+        },
+        {
+            "charBegin": 174,
+            "charEnd": 175,
+            "id": 34,
+            "sentence": 2,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 179,
+            "id": 35,
+            "sentence": 3,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 180,
+            "charEnd": 187,
+            "id": 36,
+            "sentence": 3,
+            "text": "Polizei",
+            "word": 2
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 192,
+            "id": 37,
+            "sentence": 3,
+            "text": "geht",
+            "word": 3
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 197,
+            "id": 38,
+            "sentence": 3,
+            "text": "nach",
+            "word": 4
+        },
+        {
+            "charBegin": 198,
+            "charEnd": 201,
+            "id": 39,
+            "sentence": 3,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 202,
+            "charEnd": 219,
+            "id": 40,
+            "sentence": 3,
+            "text": "Auffindesituation",
+            "word": 6
+        },
+        {
+            "charBegin": 220,
+            "charEnd": 223,
+            "id": 41,
+            "sentence": 3,
+            "text": "von",
+            "word": 7
+        },
+        {
+            "charBegin": 224,
+            "charEnd": 229,
+            "id": 42,
+            "sentence": 3,
+            "text": "einem",
+            "word": 8
+        },
+        {
+            "charBegin": 230,
+            "charEnd": 240,
+            "id": 43,
+            "sentence": 3,
+            "text": "Verbrechen",
+            "word": 9
+        },
+        {
+            "charBegin": 241,
+            "charEnd": 244,
+            "id": 44,
+            "sentence": 3,
+            "text": "aus",
+            "word": 10
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 245,
+            "id": 45,
+            "sentence": 3,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 247,
+            "charEnd": 250,
+            "id": 46,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 257,
+            "id": 47,
+            "sentence": 4,
+            "text": "Mutter",
+            "word": 2
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 261,
+            "id": 48,
+            "sentence": 4,
+            "text": "und",
+            "word": 3
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 265,
+            "id": 49,
+            "sentence": 4,
+            "text": "ihr",
+            "word": 4
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 280,
+            "id": 50,
+            "sentence": 4,
+            "text": "Lebensgefährte",
+            "word": 5
+        },
+        {
+            "charBegin": 281,
+            "charEnd": 286,
+            "id": 51,
+            "sentence": 4,
+            "text": "haben",
+            "word": 6
+        },
+        {
+            "charBegin": 287,
+            "charEnd": 291,
+            "id": 52,
+            "sentence": 4,
+            "text": "nach",
+            "word": 7
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 299,
+            "id": 53,
+            "sentence": 4,
+            "text": "eigenen",
+            "word": 8
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 307,
+            "id": 54,
+            "sentence": 4,
+            "text": "Angaben",
+            "word": 9
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 311,
+            "id": 55,
+            "sentence": 4,
+            "text": "bis",
+            "word": 10
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 316,
+            "id": 56,
+            "sentence": 4,
+            "text": "4.30",
+            "word": 11
+        },
+        {
+            "charBegin": 317,
+            "charEnd": 320,
+            "id": 57,
+            "sentence": 4,
+            "text": "Uhr",
+            "word": 12
+        },
+        {
+            "charBegin": 321,
+            "charEnd": 323,
+            "id": 58,
+            "sentence": 4,
+            "text": "in",
+            "word": 13
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 329,
+            "id": 59,
+            "sentence": 4,
+            "text": "einer",
+            "word": 14
+        },
+        {
+            "charBegin": 330,
+            "charEnd": 336,
+            "id": 60,
+            "sentence": 4,
+            "text": "Kneipe",
+            "word": 15
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 347,
+            "id": 61,
+            "sentence": 4,
+            "text": "gearbeitet",
+            "word": 16
+        },
+        {
+            "charBegin": 347,
+            "charEnd": 348,
+            "id": 62,
+            "sentence": 4,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 349,
+            "charEnd": 353,
+            "id": 63,
+            "sentence": 5,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 354,
+            "charEnd": 361,
+            "id": 64,
+            "sentence": 5,
+            "text": "Angaben",
+            "word": 2
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 365,
+            "id": 65,
+            "sentence": 5,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 373,
+            "id": 66,
+            "sentence": 5,
+            "text": "Polizei",
+            "word": 4
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 379,
+            "id": 67,
+            "sentence": 5,
+            "text": "kamen",
+            "word": 5
+        },
+        {
+            "charBegin": 380,
+            "charEnd": 383,
+            "id": 68,
+            "sentence": 5,
+            "text": "sie",
+            "word": 6
+        },
+        {
+            "charBegin": 384,
+            "charEnd": 389,
+            "id": 69,
+            "sentence": 5,
+            "text": "gegen",
+            "word": 7
+        },
+        {
+            "charBegin": 390,
+            "charEnd": 394,
+            "id": 70,
+            "sentence": 5,
+            "text": "fünf",
+            "word": 8
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 398,
+            "id": 71,
+            "sentence": 5,
+            "text": "Uhr",
+            "word": 9
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 401,
+            "id": 72,
+            "sentence": 5,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 402,
+            "charEnd": 405,
+            "id": 73,
+            "sentence": 5,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 406,
+            "charEnd": 413,
+            "id": 74,
+            "sentence": 5,
+            "text": "Wohnung",
+            "word": 12
+        },
+        {
+            "charBegin": 414,
+            "charEnd": 417,
+            "id": 75,
+            "sentence": 5,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 424,
+            "id": 76,
+            "sentence": 5,
+            "text": "Mutter",
+            "word": 14
+        },
+        {
+            "charBegin": 425,
+            "charEnd": 427,
+            "id": 77,
+            "sentence": 5,
+            "text": "an",
+            "word": 15
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 428,
+            "id": 78,
+            "sentence": 5,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 429,
+            "charEnd": 431,
+            "id": 79,
+            "sentence": 5,
+            "text": "wo",
+            "word": 17
+        },
+        {
+            "charBegin": 432,
+            "charEnd": 435,
+            "id": 80,
+            "sentence": 5,
+            "text": "sie",
+            "word": 18
+        },
+        {
+            "charBegin": 436,
+            "charEnd": 439,
+            "id": 81,
+            "sentence": 5,
+            "text": "die",
+            "word": 19
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 446,
+            "id": 82,
+            "sentence": 5,
+            "text": "beiden",
+            "word": 20
+        },
+        {
+            "charBegin": 447,
+            "charEnd": 453,
+            "id": 83,
+            "sentence": 5,
+            "text": "Kinder",
+            "word": 21
+        },
+        {
+            "charBegin": 454,
+            "charEnd": 464,
+            "id": 84,
+            "sentence": 5,
+            "text": "entdeckten",
+            "word": 22
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 465,
+            "id": 85,
+            "sentence": 5,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 466,
+            "charEnd": 469,
+            "id": 86,
+            "sentence": 6,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 470,
+            "charEnd": 485,
+            "id": 87,
+            "sentence": 6,
+            "text": "herbeigerufener",
+            "word": 2
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 493,
+            "id": 88,
+            "sentence": 6,
+            "text": "Notarzt",
+            "word": 3
+        },
+        {
+            "charBegin": 494,
+            "charEnd": 500,
+            "id": 89,
+            "sentence": 6,
+            "text": "konnte",
+            "word": 4
+        },
+        {
+            "charBegin": 501,
+            "charEnd": 504,
+            "id": 90,
+            "sentence": 6,
+            "text": "nur",
+            "word": 5
+        },
+        {
+            "charBegin": 505,
+            "charEnd": 509,
+            "id": 91,
+            "sentence": 6,
+            "text": "noch",
+            "word": 6
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 513,
+            "id": 92,
+            "sentence": 6,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 514,
+            "charEnd": 517,
+            "id": 93,
+            "sentence": 6,
+            "text": "Tod",
+            "word": 8
+        },
+        {
+            "charBegin": 518,
+            "charEnd": 521,
+            "id": 94,
+            "sentence": 6,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 532,
+            "id": 95,
+            "sentence": 6,
+            "text": "Schwestern",
+            "word": 10
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 544,
+            "id": 96,
+            "sentence": 6,
+            "text": "feststellen",
+            "word": 11
+        },
+        {
+            "charBegin": 544,
+            "charEnd": 545,
+            "id": 97,
+            "sentence": 6,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 547,
+            "charEnd": 550,
+            "id": 98,
+            "sentence": 7,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 551,
+            "charEnd": 565,
+            "id": 99,
+            "sentence": 7,
+            "text": "Mordkommission",
+            "word": 2
+        },
+        {
+            "charBegin": 566,
+            "charEnd": 569,
+            "id": 100,
+            "sentence": 7,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 570,
+            "charEnd": 577,
+            "id": 101,
+            "sentence": 7,
+            "text": "München",
+            "word": 4
+        },
+        {
+            "charBegin": 578,
+            "charEnd": 581,
+            "id": 102,
+            "sentence": 7,
+            "text": "hat",
+            "word": 5
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 585,
+            "id": 103,
+            "sentence": 7,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 598,
+            "id": 104,
+            "sentence": 7,
+            "text": "Ermittlungen",
+            "word": 7
+        },
+        {
+            "charBegin": 599,
+            "charEnd": 610,
+            "id": 105,
+            "sentence": 7,
+            "text": "aufgenommen",
+            "word": 8
+        },
+        {
+            "charBegin": 610,
+            "charEnd": 611,
+            "id": 106,
+            "sentence": 7,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 612,
+            "charEnd": 615,
+            "id": 107,
+            "sentence": 8,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 616,
+            "charEnd": 628,
+            "id": 108,
+            "sentence": 8,
+            "text": "Hubschrauber",
+            "word": 2
+        },
+        {
+            "charBegin": 629,
+            "charEnd": 632,
+            "id": 109,
+            "sentence": 8,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 633,
+            "charEnd": 640,
+            "id": 110,
+            "sentence": 8,
+            "text": "Polizei",
+            "word": 4
+        },
+        {
+            "charBegin": 641,
+            "charEnd": 648,
+            "id": 111,
+            "sentence": 8,
+            "text": "kreiste",
+            "word": 5
+        },
+        {
+            "charBegin": 649,
+            "charEnd": 651,
+            "id": 112,
+            "sentence": 8,
+            "text": "im",
+            "word": 6
+        },
+        {
+            "charBegin": 652,
+            "charEnd": 659,
+            "id": 113,
+            "sentence": 8,
+            "text": "Bereich",
+            "word": 7
+        },
+        {
+            "charBegin": 660,
+            "charEnd": 663,
+            "id": 114,
+            "sentence": 8,
+            "text": "des",
+            "word": 8
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 671,
+            "id": 115,
+            "sentence": 8,
+            "text": "Tatorts",
+            "word": 9
+        },
+        {
+            "charBegin": 671,
+            "charEnd": 672,
+            "id": 116,
+            "sentence": 8,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 673,
+            "charEnd": 676,
+            "id": 117,
+            "sentence": 8,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 677,
+            "charEnd": 693,
+            "id": 118,
+            "sentence": 8,
+            "text": "Margaretenstraße",
+            "word": 12
+        },
+        {
+            "charBegin": 694,
+            "charEnd": 696,
+            "id": 119,
+            "sentence": 8,
+            "text": "in",
+            "word": 13
+        },
+        {
+            "charBegin": 697,
+            "charEnd": 706,
+            "id": 120,
+            "sentence": 8,
+            "text": "Krailling",
+            "word": 14
+        },
+        {
+            "charBegin": 706,
+            "charEnd": 707,
+            "id": 121,
+            "sentence": 8,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 708,
+            "charEnd": 711,
+            "id": 122,
+            "sentence": 9,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 712,
+            "charEnd": 722,
+            "id": 123,
+            "sentence": 9,
+            "text": "geschockte",
+            "word": 2
+        },
+        {
+            "charBegin": 723,
+            "charEnd": 729,
+            "id": 124,
+            "sentence": 9,
+            "text": "Mutter",
+            "word": 3
+        },
+        {
+            "charBegin": 730,
+            "charEnd": 734,
+            "id": 125,
+            "sentence": 9,
+            "text": "muss",
+            "word": 4
+        },
+        {
+            "charBegin": 735,
+            "charEnd": 748,
+            "id": 126,
+            "sentence": 9,
+            "text": "psychologisch",
+            "word": 5
+        },
+        {
+            "charBegin": 749,
+            "charEnd": 756,
+            "id": 127,
+            "sentence": 9,
+            "text": "betreut",
+            "word": 6
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 763,
+            "id": 128,
+            "sentence": 9,
+            "text": "werden",
+            "word": 7
+        },
+        {
+            "charBegin": 763,
+            "charEnd": 764,
+            "id": 129,
+            "sentence": 9,
+            "text": ".",
+            "word": 8
+        }
+    ]
+}

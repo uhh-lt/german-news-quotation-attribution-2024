@@ -1,0 +1,1202 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 15,
+                        "charBegin": 111,
+                        "charEnd": 152,
+                        "end": 22
+                    }
+                ],
+                "text": "Er soll resistent gegen Medikamente sein.",
+                "tokenIds": [
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 5,
+                        "charBegin": 34,
+                        "charEnd": 68,
+                        "end": 9
+                    }
+                ],
+                "text": "Die New Yorker Gesundheitsbehörden",
+                "tokenIds": [
+                    5,
+                    6,
+                    7,
+                    8
+                ]
+            },
+            "type": "FreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 38,
+                        "charBegin": 266,
+                        "charEnd": 423,
+                        "end": 61
+                    }
+                ],
+                "text": "Das Ungewöhnliche an diesem neuen Erreger ist, dass er schnell die Immunschwächekrankheit AIDS auslösen und weitgehend gegen Medikamente resistent sein soll.",
+                "tokenIds": [
+                    38,
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 28,
+                        "charBegin": 192,
+                        "charEnd": 222,
+                        "end": 31
+                    }
+                ],
+                "text": "New Yorker Gesundheitsbehörden",
+                "tokenIds": [
+                    28,
+                    29,
+                    30
+                ]
+            },
+            "type": "FreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 77,
+                        "charBegin": 535,
+                        "charEnd": 633,
+                        "end": 91
+                    }
+                ],
+                "text": "AIDS-Symptome habe der betroffene Mann anscheinend innerhalb von zwei bis drei Monaten entwickelt.",
+                "tokenIds": [
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84,
+                    85,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 28,
+                        "charBegin": 192,
+                        "charEnd": 222,
+                        "end": 31
+                    }
+                ],
+                "text": "New Yorker Gesundheitsbehörden",
+                "tokenIds": [
+                    28,
+                    29,
+                    30
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        }
+    ],
+    "documentName": "3148 - Resistentes Aids-Virus entdeckt (2005-02-13)",
+    "originalText": "Rückschlag für die HIV-Forschung: Die New Yorker Gesundheitsbehörden haben einen neuen HI-Virusstamm entdeckt. Er soll resistent gegen Medikamente sein.\n\nEinen neuen Strang des HI-Virus haben New Yorker Gesundheitsbehörden jetzt bei einem 40-jährigen Mann entdeckt. Das Ungewöhnliche an diesem neuen Erreger ist, dass er schnell die Immunschwächekrankheit AIDS auslösen und weitgehend gegen Medikamente resistent sein soll. Bisher sind drei von den bekannten vier Behandlungsmethoden fehlgeschlagen, derzeit wird die vierte getestet.\n\nAIDS-Symptome habe der betroffene Mann anscheinend innerhalb von zwei bis drei Monaten entwickelt.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 33,
+            "end": 5,
+            "id": 0,
+            "text": "Rückschlag für die HIV-Forschung: ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "tokens": [
+                "Rückschlag",
+                "für",
+                "die",
+                "HIV-Forschung",
+                ":"
+            ]
+        },
+        {
+            "begin": 5,
+            "charBegin": 34,
+            "charEnd": 110,
+            "end": 15,
+            "id": 1,
+            "text": "Die New Yorker Gesundheitsbehörden haben einen neuen HI-Virusstamm entdeckt. ",
+            "tokenIds": [
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "tokens": [
+                "Die",
+                "New",
+                "Yorker",
+                "Gesundheitsbehörden",
+                "haben",
+                "einen",
+                "neuen",
+                "HI-Virusstamm",
+                "entdeckt",
+                "."
+            ]
+        },
+        {
+            "begin": 15,
+            "charBegin": 111,
+            "charEnd": 152,
+            "end": 22,
+            "id": 2,
+            "text": "Er soll resistent gegen Medikamente sein.",
+            "tokenIds": [
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Er",
+                "soll",
+                "resistent",
+                "gegen",
+                "Medikamente",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 154,
+            "charEnd": 265,
+            "end": 38,
+            "id": 3,
+            "text": "Einen neuen Strang des HI-Virus haben New Yorker Gesundheitsbehörden jetzt bei einem 40-jährigen Mann entdeckt. ",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37
+            ],
+            "tokens": [
+                "Einen",
+                "neuen",
+                "Strang",
+                "des",
+                "HI-Virus",
+                "haben",
+                "New",
+                "Yorker",
+                "Gesundheitsbehörden",
+                "jetzt",
+                "bei",
+                "einem",
+                "40-jährigen",
+                "Mann",
+                "entdeckt",
+                "."
+            ]
+        },
+        {
+            "begin": 38,
+            "charBegin": 266,
+            "charEnd": 423,
+            "end": 61,
+            "id": 4,
+            "text": "Das Ungewöhnliche an diesem neuen Erreger ist, dass er schnell die Immunschwächekrankheit AIDS auslösen und weitgehend gegen Medikamente resistent sein soll. ",
+            "tokenIds": [
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60
+            ],
+            "tokens": [
+                "Das",
+                "Ungewöhnliche",
+                "an",
+                "diesem",
+                "neuen",
+                "Erreger",
+                "ist",
+                ",",
+                "dass",
+                "er",
+                "schnell",
+                "die",
+                "Immunschwächekrankheit",
+                "AIDS",
+                "auslösen",
+                "und",
+                "weitgehend",
+                "gegen",
+                "Medikamente",
+                "resistent",
+                "sein",
+                "soll",
+                "."
+            ]
+        },
+        {
+            "begin": 61,
+            "charBegin": 424,
+            "charEnd": 533,
+            "end": 77,
+            "id": 5,
+            "text": "Bisher sind drei von den bekannten vier Behandlungsmethoden fehlgeschlagen, derzeit wird die vierte getestet.",
+            "tokenIds": [
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76
+            ],
+            "tokens": [
+                "Bisher",
+                "sind",
+                "drei",
+                "von",
+                "den",
+                "bekannten",
+                "vier",
+                "Behandlungsmethoden",
+                "fehlgeschlagen",
+                ",",
+                "derzeit",
+                "wird",
+                "die",
+                "vierte",
+                "getestet",
+                "."
+            ]
+        },
+        {
+            "begin": 77,
+            "charBegin": 535,
+            "charEnd": 633,
+            "end": 91,
+            "id": 6,
+            "text": "AIDS-Symptome habe der betroffene Mann anscheinend innerhalb von zwei bis drei Monaten entwickelt.",
+            "tokenIds": [
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90
+            ],
+            "tokens": [
+                "AIDS-Symptome",
+                "habe",
+                "der",
+                "betroffene",
+                "Mann",
+                "anscheinend",
+                "innerhalb",
+                "von",
+                "zwei",
+                "bis",
+                "drei",
+                "Monaten",
+                "entwickelt",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 10,
+            "id": 0,
+            "sentence": 1,
+            "text": "Rückschlag",
+            "word": 1
+        },
+        {
+            "charBegin": 11,
+            "charEnd": 14,
+            "id": 1,
+            "sentence": 1,
+            "text": "für",
+            "word": 2
+        },
+        {
+            "charBegin": 15,
+            "charEnd": 18,
+            "id": 2,
+            "sentence": 1,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 32,
+            "id": 3,
+            "sentence": 1,
+            "text": "HIV-Forschung",
+            "word": 4
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 33,
+            "id": 4,
+            "sentence": 1,
+            "text": ":",
+            "word": 5
+        },
+        {
+            "charBegin": 34,
+            "charEnd": 37,
+            "id": 5,
+            "sentence": 2,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 38,
+            "charEnd": 41,
+            "id": 6,
+            "sentence": 2,
+            "text": "New",
+            "word": 2
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 48,
+            "id": 7,
+            "sentence": 2,
+            "text": "Yorker",
+            "word": 3
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 68,
+            "id": 8,
+            "sentence": 2,
+            "text": "Gesundheitsbehörden",
+            "word": 4
+        },
+        {
+            "charBegin": 69,
+            "charEnd": 74,
+            "id": 9,
+            "sentence": 2,
+            "text": "haben",
+            "word": 5
+        },
+        {
+            "charBegin": 75,
+            "charEnd": 80,
+            "id": 10,
+            "sentence": 2,
+            "text": "einen",
+            "word": 6
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 86,
+            "id": 11,
+            "sentence": 2,
+            "text": "neuen",
+            "word": 7
+        },
+        {
+            "charBegin": 87,
+            "charEnd": 100,
+            "id": 12,
+            "sentence": 2,
+            "text": "HI-Virusstamm",
+            "word": 8
+        },
+        {
+            "charBegin": 101,
+            "charEnd": 109,
+            "id": 13,
+            "sentence": 2,
+            "text": "entdeckt",
+            "word": 9
+        },
+        {
+            "charBegin": 109,
+            "charEnd": 110,
+            "id": 14,
+            "sentence": 2,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 111,
+            "charEnd": 113,
+            "id": 15,
+            "sentence": 3,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 114,
+            "charEnd": 118,
+            "id": 16,
+            "sentence": 3,
+            "text": "soll",
+            "word": 2
+        },
+        {
+            "charBegin": 119,
+            "charEnd": 128,
+            "id": 17,
+            "sentence": 3,
+            "text": "resistent",
+            "word": 3
+        },
+        {
+            "charBegin": 129,
+            "charEnd": 134,
+            "id": 18,
+            "sentence": 3,
+            "text": "gegen",
+            "word": 4
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 146,
+            "id": 19,
+            "sentence": 3,
+            "text": "Medikamente",
+            "word": 5
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 151,
+            "id": 20,
+            "sentence": 3,
+            "text": "sein",
+            "word": 6
+        },
+        {
+            "charBegin": 151,
+            "charEnd": 152,
+            "id": 21,
+            "sentence": 3,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 159,
+            "id": 22,
+            "sentence": 4,
+            "text": "Einen",
+            "word": 1
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 165,
+            "id": 23,
+            "sentence": 4,
+            "text": "neuen",
+            "word": 2
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 172,
+            "id": 24,
+            "sentence": 4,
+            "text": "Strang",
+            "word": 3
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 176,
+            "id": 25,
+            "sentence": 4,
+            "text": "des",
+            "word": 4
+        },
+        {
+            "charBegin": 177,
+            "charEnd": 185,
+            "id": 26,
+            "sentence": 4,
+            "text": "HI-Virus",
+            "word": 5
+        },
+        {
+            "charBegin": 186,
+            "charEnd": 191,
+            "id": 27,
+            "sentence": 4,
+            "text": "haben",
+            "word": 6
+        },
+        {
+            "charBegin": 192,
+            "charEnd": 195,
+            "id": 28,
+            "sentence": 4,
+            "text": "New",
+            "word": 7
+        },
+        {
+            "charBegin": 196,
+            "charEnd": 202,
+            "id": 29,
+            "sentence": 4,
+            "text": "Yorker",
+            "word": 8
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 222,
+            "id": 30,
+            "sentence": 4,
+            "text": "Gesundheitsbehörden",
+            "word": 9
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 228,
+            "id": 31,
+            "sentence": 4,
+            "text": "jetzt",
+            "word": 10
+        },
+        {
+            "charBegin": 229,
+            "charEnd": 232,
+            "id": 32,
+            "sentence": 4,
+            "text": "bei",
+            "word": 11
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 238,
+            "id": 33,
+            "sentence": 4,
+            "text": "einem",
+            "word": 12
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 250,
+            "id": 34,
+            "sentence": 4,
+            "text": "40-jährigen",
+            "word": 13
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 255,
+            "id": 35,
+            "sentence": 4,
+            "text": "Mann",
+            "word": 14
+        },
+        {
+            "charBegin": 256,
+            "charEnd": 264,
+            "id": 36,
+            "sentence": 4,
+            "text": "entdeckt",
+            "word": 15
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 265,
+            "id": 37,
+            "sentence": 4,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 269,
+            "id": 38,
+            "sentence": 5,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 270,
+            "charEnd": 283,
+            "id": 39,
+            "sentence": 5,
+            "text": "Ungewöhnliche",
+            "word": 2
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 286,
+            "id": 40,
+            "sentence": 5,
+            "text": "an",
+            "word": 3
+        },
+        {
+            "charBegin": 287,
+            "charEnd": 293,
+            "id": 41,
+            "sentence": 5,
+            "text": "diesem",
+            "word": 4
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 299,
+            "id": 42,
+            "sentence": 5,
+            "text": "neuen",
+            "word": 5
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 307,
+            "id": 43,
+            "sentence": 5,
+            "text": "Erreger",
+            "word": 6
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 311,
+            "id": 44,
+            "sentence": 5,
+            "text": "ist",
+            "word": 7
+        },
+        {
+            "charBegin": 311,
+            "charEnd": 312,
+            "id": 45,
+            "sentence": 5,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 313,
+            "charEnd": 317,
+            "id": 46,
+            "sentence": 5,
+            "text": "dass",
+            "word": 9
+        },
+        {
+            "charBegin": 318,
+            "charEnd": 320,
+            "id": 47,
+            "sentence": 5,
+            "text": "er",
+            "word": 10
+        },
+        {
+            "charBegin": 321,
+            "charEnd": 328,
+            "id": 48,
+            "sentence": 5,
+            "text": "schnell",
+            "word": 11
+        },
+        {
+            "charBegin": 329,
+            "charEnd": 332,
+            "id": 49,
+            "sentence": 5,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 333,
+            "charEnd": 355,
+            "id": 50,
+            "sentence": 5,
+            "text": "Immunschwächekrankheit",
+            "word": 13
+        },
+        {
+            "charBegin": 356,
+            "charEnd": 360,
+            "id": 51,
+            "sentence": 5,
+            "text": "AIDS",
+            "word": 14
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 369,
+            "id": 52,
+            "sentence": 5,
+            "text": "auslösen",
+            "word": 15
+        },
+        {
+            "charBegin": 370,
+            "charEnd": 373,
+            "id": 53,
+            "sentence": 5,
+            "text": "und",
+            "word": 16
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 384,
+            "id": 54,
+            "sentence": 5,
+            "text": "weitgehend",
+            "word": 17
+        },
+        {
+            "charBegin": 385,
+            "charEnd": 390,
+            "id": 55,
+            "sentence": 5,
+            "text": "gegen",
+            "word": 18
+        },
+        {
+            "charBegin": 391,
+            "charEnd": 402,
+            "id": 56,
+            "sentence": 5,
+            "text": "Medikamente",
+            "word": 19
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 412,
+            "id": 57,
+            "sentence": 5,
+            "text": "resistent",
+            "word": 20
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 417,
+            "id": 58,
+            "sentence": 5,
+            "text": "sein",
+            "word": 21
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 422,
+            "id": 59,
+            "sentence": 5,
+            "text": "soll",
+            "word": 22
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 423,
+            "id": 60,
+            "sentence": 5,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 430,
+            "id": 61,
+            "sentence": 6,
+            "text": "Bisher",
+            "word": 1
+        },
+        {
+            "charBegin": 431,
+            "charEnd": 435,
+            "id": 62,
+            "sentence": 6,
+            "text": "sind",
+            "word": 2
+        },
+        {
+            "charBegin": 436,
+            "charEnd": 440,
+            "id": 63,
+            "sentence": 6,
+            "text": "drei",
+            "word": 3
+        },
+        {
+            "charBegin": 441,
+            "charEnd": 444,
+            "id": 64,
+            "sentence": 6,
+            "text": "von",
+            "word": 4
+        },
+        {
+            "charBegin": 445,
+            "charEnd": 448,
+            "id": 65,
+            "sentence": 6,
+            "text": "den",
+            "word": 5
+        },
+        {
+            "charBegin": 449,
+            "charEnd": 458,
+            "id": 66,
+            "sentence": 6,
+            "text": "bekannten",
+            "word": 6
+        },
+        {
+            "charBegin": 459,
+            "charEnd": 463,
+            "id": 67,
+            "sentence": 6,
+            "text": "vier",
+            "word": 7
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 483,
+            "id": 68,
+            "sentence": 6,
+            "text": "Behandlungsmethoden",
+            "word": 8
+        },
+        {
+            "charBegin": 484,
+            "charEnd": 498,
+            "id": 69,
+            "sentence": 6,
+            "text": "fehlgeschlagen",
+            "word": 9
+        },
+        {
+            "charBegin": 498,
+            "charEnd": 499,
+            "id": 70,
+            "sentence": 6,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 507,
+            "id": 71,
+            "sentence": 6,
+            "text": "derzeit",
+            "word": 11
+        },
+        {
+            "charBegin": 508,
+            "charEnd": 512,
+            "id": 72,
+            "sentence": 6,
+            "text": "wird",
+            "word": 12
+        },
+        {
+            "charBegin": 513,
+            "charEnd": 516,
+            "id": 73,
+            "sentence": 6,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 517,
+            "charEnd": 523,
+            "id": 74,
+            "sentence": 6,
+            "text": "vierte",
+            "word": 14
+        },
+        {
+            "charBegin": 524,
+            "charEnd": 532,
+            "id": 75,
+            "sentence": 6,
+            "text": "getestet",
+            "word": 15
+        },
+        {
+            "charBegin": 532,
+            "charEnd": 533,
+            "id": 76,
+            "sentence": 6,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 535,
+            "charEnd": 548,
+            "id": 77,
+            "sentence": 7,
+            "text": "AIDS-Symptome",
+            "word": 1
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 553,
+            "id": 78,
+            "sentence": 7,
+            "text": "habe",
+            "word": 2
+        },
+        {
+            "charBegin": 554,
+            "charEnd": 557,
+            "id": 79,
+            "sentence": 7,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 568,
+            "id": 80,
+            "sentence": 7,
+            "text": "betroffene",
+            "word": 4
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 573,
+            "id": 81,
+            "sentence": 7,
+            "text": "Mann",
+            "word": 5
+        },
+        {
+            "charBegin": 574,
+            "charEnd": 585,
+            "id": 82,
+            "sentence": 7,
+            "text": "anscheinend",
+            "word": 6
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 595,
+            "id": 83,
+            "sentence": 7,
+            "text": "innerhalb",
+            "word": 7
+        },
+        {
+            "charBegin": 596,
+            "charEnd": 599,
+            "id": 84,
+            "sentence": 7,
+            "text": "von",
+            "word": 8
+        },
+        {
+            "charBegin": 600,
+            "charEnd": 604,
+            "id": 85,
+            "sentence": 7,
+            "text": "zwei",
+            "word": 9
+        },
+        {
+            "charBegin": 605,
+            "charEnd": 608,
+            "id": 86,
+            "sentence": 7,
+            "text": "bis",
+            "word": 10
+        },
+        {
+            "charBegin": 609,
+            "charEnd": 613,
+            "id": 87,
+            "sentence": 7,
+            "text": "drei",
+            "word": 11
+        },
+        {
+            "charBegin": 614,
+            "charEnd": 621,
+            "id": 88,
+            "sentence": 7,
+            "text": "Monaten",
+            "word": 12
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 632,
+            "id": 89,
+            "sentence": 7,
+            "text": "entwickelt",
+            "word": 13
+        },
+        {
+            "charBegin": 632,
+            "charEnd": 633,
+            "id": 90,
+            "sentence": 7,
+            "text": ".",
+            "word": 14
+        }
+    ]
+}

@@ -1,0 +1,1353 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 54,
+                        "charBegin": 327,
+                        "charEnd": 331,
+                        "end": 55
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    54
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 54,
+                        "charBegin": 327,
+                        "charEnd": 352,
+                        "end": 57
+                    }
+                ],
+                "text": "Nach ersten Informationen",
+                "tokenIds": [
+                    54,
+                    55,
+                    56
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 57,
+                        "charBegin": 353,
+                        "charEnd": 383,
+                        "end": 61
+                    }
+                ],
+                "text": "wurden keine Menschen verletzt",
+                "tokenIds": [
+                    57,
+                    58,
+                    59,
+                    60
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 55,
+                        "charBegin": 332,
+                        "charEnd": 352,
+                        "end": 57
+                    }
+                ],
+                "text": "ersten Informationen",
+                "tokenIds": [
+                    55,
+                    56
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 85,
+                        "charBegin": 532,
+                        "charEnd": 564,
+                        "end": 89
+                    }
+                ],
+                "text": "die von Erschütterungen sprachen",
+                "tokenIds": [
+                    85,
+                    86,
+                    87,
+                    88
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 85,
+                        "charBegin": 532,
+                        "charEnd": 535,
+                        "end": 86
+                    }
+                ],
+                "text": "die",
+                "tokenIds": [
+                    85
+                ]
+            },
+            "type": "Reported"
+        }
+    ],
+    "documentName": "15980 - Erneutes Erdbeben in der Rheinebene (2005-11-12)",
+    "originalText": "Heute Abend um 20:31 MEZ ereignete sich bei Lauffenburg in der Schweiz ein Erdbeben der Stärke 4,4 auf der Richter-Skala. \nLauffenburg liegt nahe der deutschen Grenze. Die Auswirkungen waren in einem Umkreis von zirka 110 Kilometern um das Epizentrum herum spürbar, bis in den Süden Baden-Württembergs bebte die Erde leicht. \n\nNach ersten Informationen wurden keine Menschen verletzt. Weitere Informationen über Schäden liegen nicht vor. Bei den Polizeidienstellen gingen Notrufe besorgter Bürger aus der Schweiz und aus Baden ein, die von Erschütterungen sprachen.\n\nDas letzte Erdbeben in dieser Region ereignete sich im Mai dieses Jahres. Damals hatte es eine Stärke von 3,2 erreicht.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 121,
+            "end": 21,
+            "id": 0,
+            "text": "Heute Abend um 20:31 MEZ ereignete sich bei Lauffenburg in der Schweiz ein Erdbeben der Stärke 4,4 auf der Richter-Skala. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "Heute",
+                "Abend",
+                "um",
+                "20:31",
+                "MEZ",
+                "ereignete",
+                "sich",
+                "bei",
+                "Lauffenburg",
+                "in",
+                "der",
+                "Schweiz",
+                "ein",
+                "Erdbeben",
+                "der",
+                "Stärke",
+                "4,4",
+                "auf",
+                "der",
+                "Richter-Skala",
+                "."
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 123,
+            "charEnd": 167,
+            "end": 28,
+            "id": 1,
+            "text": "Lauffenburg liegt nahe der deutschen Grenze. ",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27
+            ],
+            "tokens": [
+                "Lauffenburg",
+                "liegt",
+                "nahe",
+                "der",
+                "deutschen",
+                "Grenze",
+                "."
+            ]
+        },
+        {
+            "begin": 28,
+            "charBegin": 168,
+            "charEnd": 324,
+            "end": 54,
+            "id": 2,
+            "text": "Die Auswirkungen waren in einem Umkreis von zirka 110 Kilometern um das Epizentrum herum spürbar, bis in den Süden Baden-Württembergs bebte die Erde leicht. ",
+            "tokenIds": [
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53
+            ],
+            "tokens": [
+                "Die",
+                "Auswirkungen",
+                "waren",
+                "in",
+                "einem",
+                "Umkreis",
+                "von",
+                "zirka",
+                "110",
+                "Kilometern",
+                "um",
+                "das",
+                "Epizentrum",
+                "herum",
+                "spürbar",
+                ",",
+                "bis",
+                "in",
+                "den",
+                "Süden",
+                "Baden-Württembergs",
+                "bebte",
+                "die",
+                "Erde",
+                "leicht",
+                "."
+            ]
+        },
+        {
+            "begin": 54,
+            "charBegin": 327,
+            "charEnd": 384,
+            "end": 62,
+            "id": 3,
+            "text": "Nach ersten Informationen wurden keine Menschen verletzt. ",
+            "tokenIds": [
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "tokens": [
+                "Nach",
+                "ersten",
+                "Informationen",
+                "wurden",
+                "keine",
+                "Menschen",
+                "verletzt",
+                "."
+            ]
+        },
+        {
+            "begin": 62,
+            "charBegin": 385,
+            "charEnd": 437,
+            "end": 70,
+            "id": 4,
+            "text": "Weitere Informationen über Schäden liegen nicht vor. ",
+            "tokenIds": [
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69
+            ],
+            "tokens": [
+                "Weitere",
+                "Informationen",
+                "über",
+                "Schäden",
+                "liegen",
+                "nicht",
+                "vor",
+                "."
+            ]
+        },
+        {
+            "begin": 70,
+            "charBegin": 438,
+            "charEnd": 565,
+            "end": 90,
+            "id": 5,
+            "text": "Bei den Polizeidienstellen gingen Notrufe besorgter Bürger aus der Schweiz und aus Baden ein, die von Erschütterungen sprachen.",
+            "tokenIds": [
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89
+            ],
+            "tokens": [
+                "Bei",
+                "den",
+                "Polizeidienstellen",
+                "gingen",
+                "Notrufe",
+                "besorgter",
+                "Bürger",
+                "aus",
+                "der",
+                "Schweiz",
+                "und",
+                "aus",
+                "Baden",
+                "ein",
+                ",",
+                "die",
+                "von",
+                "Erschütterungen",
+                "sprachen",
+                "."
+            ]
+        },
+        {
+            "begin": 90,
+            "charBegin": 567,
+            "charEnd": 640,
+            "end": 103,
+            "id": 6,
+            "text": "Das letzte Erdbeben in dieser Region ereignete sich im Mai dieses Jahres. ",
+            "tokenIds": [
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102
+            ],
+            "tokens": [
+                "Das",
+                "letzte",
+                "Erdbeben",
+                "in",
+                "dieser",
+                "Region",
+                "ereignete",
+                "sich",
+                "im",
+                "Mai",
+                "dieses",
+                "Jahres",
+                "."
+            ]
+        },
+        {
+            "begin": 103,
+            "charBegin": 641,
+            "charEnd": 686,
+            "end": 112,
+            "id": 7,
+            "text": "Damals hatte es eine Stärke von 3,2 erreicht.",
+            "tokenIds": [
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111
+            ],
+            "tokens": [
+                "Damals",
+                "hatte",
+                "es",
+                "eine",
+                "Stärke",
+                "von",
+                "3,2",
+                "erreicht",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 5,
+            "id": 0,
+            "sentence": 1,
+            "text": "Heute",
+            "word": 1
+        },
+        {
+            "charBegin": 6,
+            "charEnd": 11,
+            "id": 1,
+            "sentence": 1,
+            "text": "Abend",
+            "word": 2
+        },
+        {
+            "charBegin": 12,
+            "charEnd": 14,
+            "id": 2,
+            "sentence": 1,
+            "text": "um",
+            "word": 3
+        },
+        {
+            "charBegin": 15,
+            "charEnd": 20,
+            "id": 3,
+            "sentence": 1,
+            "text": "20:31",
+            "word": 4
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 24,
+            "id": 4,
+            "sentence": 1,
+            "text": "MEZ",
+            "word": 5
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 34,
+            "id": 5,
+            "sentence": 1,
+            "text": "ereignete",
+            "word": 6
+        },
+        {
+            "charBegin": 35,
+            "charEnd": 39,
+            "id": 6,
+            "sentence": 1,
+            "text": "sich",
+            "word": 7
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 43,
+            "id": 7,
+            "sentence": 1,
+            "text": "bei",
+            "word": 8
+        },
+        {
+            "charBegin": 44,
+            "charEnd": 55,
+            "id": 8,
+            "sentence": 1,
+            "text": "Lauffenburg",
+            "word": 9
+        },
+        {
+            "charBegin": 56,
+            "charEnd": 58,
+            "id": 9,
+            "sentence": 1,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 59,
+            "charEnd": 62,
+            "id": 10,
+            "sentence": 1,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 63,
+            "charEnd": 70,
+            "id": 11,
+            "sentence": 1,
+            "text": "Schweiz",
+            "word": 12
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 74,
+            "id": 12,
+            "sentence": 1,
+            "text": "ein",
+            "word": 13
+        },
+        {
+            "charBegin": 75,
+            "charEnd": 83,
+            "id": 13,
+            "sentence": 1,
+            "text": "Erdbeben",
+            "word": 14
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 87,
+            "id": 14,
+            "sentence": 1,
+            "text": "der",
+            "word": 15
+        },
+        {
+            "charBegin": 88,
+            "charEnd": 94,
+            "id": 15,
+            "sentence": 1,
+            "text": "Stärke",
+            "word": 16
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 98,
+            "id": 16,
+            "sentence": 1,
+            "text": "4,4",
+            "word": 17
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 102,
+            "id": 17,
+            "sentence": 1,
+            "text": "auf",
+            "word": 18
+        },
+        {
+            "charBegin": 103,
+            "charEnd": 106,
+            "id": 18,
+            "sentence": 1,
+            "text": "der",
+            "word": 19
+        },
+        {
+            "charBegin": 107,
+            "charEnd": 120,
+            "id": 19,
+            "sentence": 1,
+            "text": "Richter-Skala",
+            "word": 20
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 121,
+            "id": 20,
+            "sentence": 1,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 134,
+            "id": 21,
+            "sentence": 2,
+            "text": "Lauffenburg",
+            "word": 1
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 140,
+            "id": 22,
+            "sentence": 2,
+            "text": "liegt",
+            "word": 2
+        },
+        {
+            "charBegin": 141,
+            "charEnd": 145,
+            "id": 23,
+            "sentence": 2,
+            "text": "nahe",
+            "word": 3
+        },
+        {
+            "charBegin": 146,
+            "charEnd": 149,
+            "id": 24,
+            "sentence": 2,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 150,
+            "charEnd": 159,
+            "id": 25,
+            "sentence": 2,
+            "text": "deutschen",
+            "word": 5
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 166,
+            "id": 26,
+            "sentence": 2,
+            "text": "Grenze",
+            "word": 6
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 167,
+            "id": 27,
+            "sentence": 2,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 171,
+            "id": 28,
+            "sentence": 3,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 184,
+            "id": 29,
+            "sentence": 3,
+            "text": "Auswirkungen",
+            "word": 2
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 190,
+            "id": 30,
+            "sentence": 3,
+            "text": "waren",
+            "word": 3
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 193,
+            "id": 31,
+            "sentence": 3,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 194,
+            "charEnd": 199,
+            "id": 32,
+            "sentence": 3,
+            "text": "einem",
+            "word": 5
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 207,
+            "id": 33,
+            "sentence": 3,
+            "text": "Umkreis",
+            "word": 6
+        },
+        {
+            "charBegin": 208,
+            "charEnd": 211,
+            "id": 34,
+            "sentence": 3,
+            "text": "von",
+            "word": 7
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 217,
+            "id": 35,
+            "sentence": 3,
+            "text": "zirka",
+            "word": 8
+        },
+        {
+            "charBegin": 218,
+            "charEnd": 221,
+            "id": 36,
+            "sentence": 3,
+            "text": "110",
+            "word": 9
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 232,
+            "id": 37,
+            "sentence": 3,
+            "text": "Kilometern",
+            "word": 10
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 235,
+            "id": 38,
+            "sentence": 3,
+            "text": "um",
+            "word": 11
+        },
+        {
+            "charBegin": 236,
+            "charEnd": 239,
+            "id": 39,
+            "sentence": 3,
+            "text": "das",
+            "word": 12
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 250,
+            "id": 40,
+            "sentence": 3,
+            "text": "Epizentrum",
+            "word": 13
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 256,
+            "id": 41,
+            "sentence": 3,
+            "text": "herum",
+            "word": 14
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 264,
+            "id": 42,
+            "sentence": 3,
+            "text": "spürbar",
+            "word": 15
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 265,
+            "id": 43,
+            "sentence": 3,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 269,
+            "id": 44,
+            "sentence": 3,
+            "text": "bis",
+            "word": 17
+        },
+        {
+            "charBegin": 270,
+            "charEnd": 272,
+            "id": 45,
+            "sentence": 3,
+            "text": "in",
+            "word": 18
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 276,
+            "id": 46,
+            "sentence": 3,
+            "text": "den",
+            "word": 19
+        },
+        {
+            "charBegin": 277,
+            "charEnd": 282,
+            "id": 47,
+            "sentence": 3,
+            "text": "Süden",
+            "word": 20
+        },
+        {
+            "charBegin": 283,
+            "charEnd": 301,
+            "id": 48,
+            "sentence": 3,
+            "text": "Baden-Württembergs",
+            "word": 21
+        },
+        {
+            "charBegin": 302,
+            "charEnd": 307,
+            "id": 49,
+            "sentence": 3,
+            "text": "bebte",
+            "word": 22
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 311,
+            "id": 50,
+            "sentence": 3,
+            "text": "die",
+            "word": 23
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 316,
+            "id": 51,
+            "sentence": 3,
+            "text": "Erde",
+            "word": 24
+        },
+        {
+            "charBegin": 317,
+            "charEnd": 323,
+            "id": 52,
+            "sentence": 3,
+            "text": "leicht",
+            "word": 25
+        },
+        {
+            "charBegin": 323,
+            "charEnd": 324,
+            "id": 53,
+            "sentence": 3,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 327,
+            "charEnd": 331,
+            "id": 54,
+            "sentence": 4,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 332,
+            "charEnd": 338,
+            "id": 55,
+            "sentence": 4,
+            "text": "ersten",
+            "word": 2
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 352,
+            "id": 56,
+            "sentence": 4,
+            "text": "Informationen",
+            "word": 3
+        },
+        {
+            "charBegin": 353,
+            "charEnd": 359,
+            "id": 57,
+            "sentence": 4,
+            "text": "wurden",
+            "word": 4
+        },
+        {
+            "charBegin": 360,
+            "charEnd": 365,
+            "id": 58,
+            "sentence": 4,
+            "text": "keine",
+            "word": 5
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 374,
+            "id": 59,
+            "sentence": 4,
+            "text": "Menschen",
+            "word": 6
+        },
+        {
+            "charBegin": 375,
+            "charEnd": 383,
+            "id": 60,
+            "sentence": 4,
+            "text": "verletzt",
+            "word": 7
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 384,
+            "id": 61,
+            "sentence": 4,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 385,
+            "charEnd": 392,
+            "id": 62,
+            "sentence": 5,
+            "text": "Weitere",
+            "word": 1
+        },
+        {
+            "charBegin": 393,
+            "charEnd": 406,
+            "id": 63,
+            "sentence": 5,
+            "text": "Informationen",
+            "word": 2
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 411,
+            "id": 64,
+            "sentence": 5,
+            "text": "über",
+            "word": 3
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 419,
+            "id": 65,
+            "sentence": 5,
+            "text": "Schäden",
+            "word": 4
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 426,
+            "id": 66,
+            "sentence": 5,
+            "text": "liegen",
+            "word": 5
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 432,
+            "id": 67,
+            "sentence": 5,
+            "text": "nicht",
+            "word": 6
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 436,
+            "id": 68,
+            "sentence": 5,
+            "text": "vor",
+            "word": 7
+        },
+        {
+            "charBegin": 436,
+            "charEnd": 437,
+            "id": 69,
+            "sentence": 5,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 441,
+            "id": 70,
+            "sentence": 6,
+            "text": "Bei",
+            "word": 1
+        },
+        {
+            "charBegin": 442,
+            "charEnd": 445,
+            "id": 71,
+            "sentence": 6,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 464,
+            "id": 72,
+            "sentence": 6,
+            "text": "Polizeidienstellen",
+            "word": 3
+        },
+        {
+            "charBegin": 465,
+            "charEnd": 471,
+            "id": 73,
+            "sentence": 6,
+            "text": "gingen",
+            "word": 4
+        },
+        {
+            "charBegin": 472,
+            "charEnd": 479,
+            "id": 74,
+            "sentence": 6,
+            "text": "Notrufe",
+            "word": 5
+        },
+        {
+            "charBegin": 480,
+            "charEnd": 489,
+            "id": 75,
+            "sentence": 6,
+            "text": "besorgter",
+            "word": 6
+        },
+        {
+            "charBegin": 490,
+            "charEnd": 496,
+            "id": 76,
+            "sentence": 6,
+            "text": "Bürger",
+            "word": 7
+        },
+        {
+            "charBegin": 497,
+            "charEnd": 500,
+            "id": 77,
+            "sentence": 6,
+            "text": "aus",
+            "word": 8
+        },
+        {
+            "charBegin": 501,
+            "charEnd": 504,
+            "id": 78,
+            "sentence": 6,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 505,
+            "charEnd": 512,
+            "id": 79,
+            "sentence": 6,
+            "text": "Schweiz",
+            "word": 10
+        },
+        {
+            "charBegin": 513,
+            "charEnd": 516,
+            "id": 80,
+            "sentence": 6,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 517,
+            "charEnd": 520,
+            "id": 81,
+            "sentence": 6,
+            "text": "aus",
+            "word": 12
+        },
+        {
+            "charBegin": 521,
+            "charEnd": 526,
+            "id": 82,
+            "sentence": 6,
+            "text": "Baden",
+            "word": 13
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 530,
+            "id": 83,
+            "sentence": 6,
+            "text": "ein",
+            "word": 14
+        },
+        {
+            "charBegin": 530,
+            "charEnd": 531,
+            "id": 84,
+            "sentence": 6,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 532,
+            "charEnd": 535,
+            "id": 85,
+            "sentence": 6,
+            "text": "die",
+            "word": 16
+        },
+        {
+            "charBegin": 536,
+            "charEnd": 539,
+            "id": 86,
+            "sentence": 6,
+            "text": "von",
+            "word": 17
+        },
+        {
+            "charBegin": 540,
+            "charEnd": 555,
+            "id": 87,
+            "sentence": 6,
+            "text": "Erschütterungen",
+            "word": 18
+        },
+        {
+            "charBegin": 556,
+            "charEnd": 564,
+            "id": 88,
+            "sentence": 6,
+            "text": "sprachen",
+            "word": 19
+        },
+        {
+            "charBegin": 564,
+            "charEnd": 565,
+            "id": 89,
+            "sentence": 6,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 570,
+            "id": 90,
+            "sentence": 7,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 577,
+            "id": 91,
+            "sentence": 7,
+            "text": "letzte",
+            "word": 2
+        },
+        {
+            "charBegin": 578,
+            "charEnd": 586,
+            "id": 92,
+            "sentence": 7,
+            "text": "Erdbeben",
+            "word": 3
+        },
+        {
+            "charBegin": 587,
+            "charEnd": 589,
+            "id": 93,
+            "sentence": 7,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 590,
+            "charEnd": 596,
+            "id": 94,
+            "sentence": 7,
+            "text": "dieser",
+            "word": 5
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 603,
+            "id": 95,
+            "sentence": 7,
+            "text": "Region",
+            "word": 6
+        },
+        {
+            "charBegin": 604,
+            "charEnd": 613,
+            "id": 96,
+            "sentence": 7,
+            "text": "ereignete",
+            "word": 7
+        },
+        {
+            "charBegin": 614,
+            "charEnd": 618,
+            "id": 97,
+            "sentence": 7,
+            "text": "sich",
+            "word": 8
+        },
+        {
+            "charBegin": 619,
+            "charEnd": 621,
+            "id": 98,
+            "sentence": 7,
+            "text": "im",
+            "word": 9
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 625,
+            "id": 99,
+            "sentence": 7,
+            "text": "Mai",
+            "word": 10
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 632,
+            "id": 100,
+            "sentence": 7,
+            "text": "dieses",
+            "word": 11
+        },
+        {
+            "charBegin": 633,
+            "charEnd": 639,
+            "id": 101,
+            "sentence": 7,
+            "text": "Jahres",
+            "word": 12
+        },
+        {
+            "charBegin": 639,
+            "charEnd": 640,
+            "id": 102,
+            "sentence": 7,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 641,
+            "charEnd": 647,
+            "id": 103,
+            "sentence": 8,
+            "text": "Damals",
+            "word": 1
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 653,
+            "id": 104,
+            "sentence": 8,
+            "text": "hatte",
+            "word": 2
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 656,
+            "id": 105,
+            "sentence": 8,
+            "text": "es",
+            "word": 3
+        },
+        {
+            "charBegin": 657,
+            "charEnd": 661,
+            "id": 106,
+            "sentence": 8,
+            "text": "eine",
+            "word": 4
+        },
+        {
+            "charBegin": 662,
+            "charEnd": 668,
+            "id": 107,
+            "sentence": 8,
+            "text": "Stärke",
+            "word": 5
+        },
+        {
+            "charBegin": 669,
+            "charEnd": 672,
+            "id": 108,
+            "sentence": 8,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 673,
+            "charEnd": 676,
+            "id": 109,
+            "sentence": 8,
+            "text": "3,2",
+            "word": 7
+        },
+        {
+            "charBegin": 677,
+            "charEnd": 685,
+            "id": 110,
+            "sentence": 8,
+            "text": "erreicht",
+            "word": 8
+        },
+        {
+            "charBegin": 685,
+            "charEnd": 686,
+            "id": 111,
+            "sentence": 8,
+            "text": ".",
+            "word": 9
+        }
+    ]
+}

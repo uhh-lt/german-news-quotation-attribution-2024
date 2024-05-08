@@ -1,0 +1,1177 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 78,
+                        "charBegin": 482,
+                        "charEnd": 620,
+                        "end": 102
+                    }
+                ],
+                "text": "Die Stadt Düsseldorf, die mit 50 Prozent am Flughafen beteiligt ist, erwog bereits vom Vertrag zurückzutreten und den Rückbau zu erwirken.",
+                "tokenIds": [
+                    78,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84,
+                    85,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    101
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 78,
+                        "charBegin": 482,
+                        "charEnd": 502,
+                        "end": 81
+                    }
+                ],
+                "text": "Die Stadt Düsseldorf",
+                "tokenIds": [
+                    78,
+                    79,
+                    80
+                ]
+            },
+            "type": "Reported"
+        }
+    ],
+    "documentName": "14059 - Skytrain muss komplett saniert werden (2005-10-17)",
+    "originalText": "Die vollautomatische Schwebebahn am Flughafen Düsseldorf (SkyTrain) muss von Siemens jetzt generalüberholt werden. Dafür wird die Bahn im nächsten Jahr sechs Monate stillgelegt.\n\nGrund dafür sind immerwährende Probleme mit den fahrerlosen Bahnen, die zwischen den Terminals, dem ICE-Halt und einem Parkhaus pendeln. Manchmal blieben die Fahrzeuge mitten auf der Strecke stehen, so dass die Passagiere aus luftiger Höhe gerettet werden mussten. Es gab auch Probleme mit den Türen. \n\nDie Stadt Düsseldorf, die mit 50 Prozent am Flughafen beteiligt ist, erwog bereits vom Vertrag zurückzutreten und den Rückbau zu erwirken.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 114,
+            "end": 16,
+            "id": 0,
+            "text": "Die vollautomatische Schwebebahn am Flughafen Düsseldorf (SkyTrain) muss von Siemens jetzt generalüberholt werden. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "tokens": [
+                "Die",
+                "vollautomatische",
+                "Schwebebahn",
+                "am",
+                "Flughafen",
+                "Düsseldorf",
+                "(",
+                "SkyTrain",
+                ")",
+                "muss",
+                "von",
+                "Siemens",
+                "jetzt",
+                "generalüberholt",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 16,
+            "charBegin": 115,
+            "charEnd": 177,
+            "end": 27,
+            "id": 1,
+            "text": "Dafür wird die Bahn im nächsten Jahr sechs Monate stillgelegt.",
+            "tokenIds": [
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ],
+            "tokens": [
+                "Dafür",
+                "wird",
+                "die",
+                "Bahn",
+                "im",
+                "nächsten",
+                "Jahr",
+                "sechs",
+                "Monate",
+                "stillgelegt",
+                "."
+            ]
+        },
+        {
+            "begin": 27,
+            "charBegin": 179,
+            "charEnd": 315,
+            "end": 49,
+            "id": 2,
+            "text": "Grund dafür sind immerwährende Probleme mit den fahrerlosen Bahnen, die zwischen den Terminals, dem ICE-Halt und einem Parkhaus pendeln. ",
+            "tokenIds": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48
+            ],
+            "tokens": [
+                "Grund",
+                "dafür",
+                "sind",
+                "immerwährende",
+                "Probleme",
+                "mit",
+                "den",
+                "fahrerlosen",
+                "Bahnen",
+                ",",
+                "die",
+                "zwischen",
+                "den",
+                "Terminals",
+                ",",
+                "dem",
+                "ICE-Halt",
+                "und",
+                "einem",
+                "Parkhaus",
+                "pendeln",
+                "."
+            ]
+        },
+        {
+            "begin": 49,
+            "charBegin": 316,
+            "charEnd": 443,
+            "end": 70,
+            "id": 3,
+            "text": "Manchmal blieben die Fahrzeuge mitten auf der Strecke stehen, so dass die Passagiere aus luftiger Höhe gerettet werden mussten. ",
+            "tokenIds": [
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69
+            ],
+            "tokens": [
+                "Manchmal",
+                "blieben",
+                "die",
+                "Fahrzeuge",
+                "mitten",
+                "auf",
+                "der",
+                "Strecke",
+                "stehen",
+                ",",
+                "so",
+                "dass",
+                "die",
+                "Passagiere",
+                "aus",
+                "luftiger",
+                "Höhe",
+                "gerettet",
+                "werden",
+                "mussten",
+                "."
+            ]
+        },
+        {
+            "begin": 70,
+            "charBegin": 444,
+            "charEnd": 479,
+            "end": 78,
+            "id": 4,
+            "text": "Es gab auch Probleme mit den Türen. ",
+            "tokenIds": [
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77
+            ],
+            "tokens": [
+                "Es",
+                "gab",
+                "auch",
+                "Probleme",
+                "mit",
+                "den",
+                "Türen",
+                "."
+            ]
+        },
+        {
+            "begin": 78,
+            "charBegin": 482,
+            "charEnd": 620,
+            "end": 102,
+            "id": 5,
+            "text": "Die Stadt Düsseldorf, die mit 50 Prozent am Flughafen beteiligt ist, erwog bereits vom Vertrag zurückzutreten und den Rückbau zu erwirken.",
+            "tokenIds": [
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101
+            ],
+            "tokens": [
+                "Die",
+                "Stadt",
+                "Düsseldorf",
+                ",",
+                "die",
+                "mit",
+                "50",
+                "Prozent",
+                "am",
+                "Flughafen",
+                "beteiligt",
+                "ist",
+                ",",
+                "erwog",
+                "bereits",
+                "vom",
+                "Vertrag",
+                "zurückzutreten",
+                "und",
+                "den",
+                "Rückbau",
+                "zu",
+                "erwirken",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 20,
+            "id": 1,
+            "sentence": 1,
+            "text": "vollautomatische",
+            "word": 2
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 32,
+            "id": 2,
+            "sentence": 1,
+            "text": "Schwebebahn",
+            "word": 3
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 35,
+            "id": 3,
+            "sentence": 1,
+            "text": "am",
+            "word": 4
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 45,
+            "id": 4,
+            "sentence": 1,
+            "text": "Flughafen",
+            "word": 5
+        },
+        {
+            "charBegin": 46,
+            "charEnd": 56,
+            "id": 5,
+            "sentence": 1,
+            "text": "Düsseldorf",
+            "word": 6
+        },
+        {
+            "charBegin": 57,
+            "charEnd": 58,
+            "id": 6,
+            "sentence": 1,
+            "text": "(",
+            "word": 7
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 66,
+            "id": 7,
+            "sentence": 1,
+            "text": "SkyTrain",
+            "word": 8
+        },
+        {
+            "charBegin": 66,
+            "charEnd": 67,
+            "id": 8,
+            "sentence": 1,
+            "text": ")",
+            "word": 9
+        },
+        {
+            "charBegin": 68,
+            "charEnd": 72,
+            "id": 9,
+            "sentence": 1,
+            "text": "muss",
+            "word": 10
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 76,
+            "id": 10,
+            "sentence": 1,
+            "text": "von",
+            "word": 11
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 84,
+            "id": 11,
+            "sentence": 1,
+            "text": "Siemens",
+            "word": 12
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 90,
+            "id": 12,
+            "sentence": 1,
+            "text": "jetzt",
+            "word": 13
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 106,
+            "id": 13,
+            "sentence": 1,
+            "text": "generalüberholt",
+            "word": 14
+        },
+        {
+            "charBegin": 107,
+            "charEnd": 113,
+            "id": 14,
+            "sentence": 1,
+            "text": "werden",
+            "word": 15
+        },
+        {
+            "charBegin": 113,
+            "charEnd": 114,
+            "id": 15,
+            "sentence": 1,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 115,
+            "charEnd": 120,
+            "id": 16,
+            "sentence": 2,
+            "text": "Dafür",
+            "word": 1
+        },
+        {
+            "charBegin": 121,
+            "charEnd": 125,
+            "id": 17,
+            "sentence": 2,
+            "text": "wird",
+            "word": 2
+        },
+        {
+            "charBegin": 126,
+            "charEnd": 129,
+            "id": 18,
+            "sentence": 2,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 130,
+            "charEnd": 134,
+            "id": 19,
+            "sentence": 2,
+            "text": "Bahn",
+            "word": 4
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 137,
+            "id": 20,
+            "sentence": 2,
+            "text": "im",
+            "word": 5
+        },
+        {
+            "charBegin": 138,
+            "charEnd": 146,
+            "id": 21,
+            "sentence": 2,
+            "text": "nächsten",
+            "word": 6
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 151,
+            "id": 22,
+            "sentence": 2,
+            "text": "Jahr",
+            "word": 7
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 157,
+            "id": 23,
+            "sentence": 2,
+            "text": "sechs",
+            "word": 8
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 164,
+            "id": 24,
+            "sentence": 2,
+            "text": "Monate",
+            "word": 9
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 176,
+            "id": 25,
+            "sentence": 2,
+            "text": "stillgelegt",
+            "word": 10
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 177,
+            "id": 26,
+            "sentence": 2,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 179,
+            "charEnd": 184,
+            "id": 27,
+            "sentence": 3,
+            "text": "Grund",
+            "word": 1
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 190,
+            "id": 28,
+            "sentence": 3,
+            "text": "dafür",
+            "word": 2
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 195,
+            "id": 29,
+            "sentence": 3,
+            "text": "sind",
+            "word": 3
+        },
+        {
+            "charBegin": 196,
+            "charEnd": 209,
+            "id": 30,
+            "sentence": 3,
+            "text": "immerwährende",
+            "word": 4
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 218,
+            "id": 31,
+            "sentence": 3,
+            "text": "Probleme",
+            "word": 5
+        },
+        {
+            "charBegin": 219,
+            "charEnd": 222,
+            "id": 32,
+            "sentence": 3,
+            "text": "mit",
+            "word": 6
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 226,
+            "id": 33,
+            "sentence": 3,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 238,
+            "id": 34,
+            "sentence": 3,
+            "text": "fahrerlosen",
+            "word": 8
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 245,
+            "id": 35,
+            "sentence": 3,
+            "text": "Bahnen",
+            "word": 9
+        },
+        {
+            "charBegin": 245,
+            "charEnd": 246,
+            "id": 36,
+            "sentence": 3,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 247,
+            "charEnd": 250,
+            "id": 37,
+            "sentence": 3,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 259,
+            "id": 38,
+            "sentence": 3,
+            "text": "zwischen",
+            "word": 12
+        },
+        {
+            "charBegin": 260,
+            "charEnd": 263,
+            "id": 39,
+            "sentence": 3,
+            "text": "den",
+            "word": 13
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 273,
+            "id": 40,
+            "sentence": 3,
+            "text": "Terminals",
+            "word": 14
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 274,
+            "id": 41,
+            "sentence": 3,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 278,
+            "id": 42,
+            "sentence": 3,
+            "text": "dem",
+            "word": 16
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 287,
+            "id": 43,
+            "sentence": 3,
+            "text": "ICE-Halt",
+            "word": 17
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 291,
+            "id": 44,
+            "sentence": 3,
+            "text": "und",
+            "word": 18
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 297,
+            "id": 45,
+            "sentence": 3,
+            "text": "einem",
+            "word": 19
+        },
+        {
+            "charBegin": 298,
+            "charEnd": 306,
+            "id": 46,
+            "sentence": 3,
+            "text": "Parkhaus",
+            "word": 20
+        },
+        {
+            "charBegin": 307,
+            "charEnd": 314,
+            "id": 47,
+            "sentence": 3,
+            "text": "pendeln",
+            "word": 21
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 315,
+            "id": 48,
+            "sentence": 3,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 316,
+            "charEnd": 324,
+            "id": 49,
+            "sentence": 4,
+            "text": "Manchmal",
+            "word": 1
+        },
+        {
+            "charBegin": 325,
+            "charEnd": 332,
+            "id": 50,
+            "sentence": 4,
+            "text": "blieben",
+            "word": 2
+        },
+        {
+            "charBegin": 333,
+            "charEnd": 336,
+            "id": 51,
+            "sentence": 4,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 346,
+            "id": 52,
+            "sentence": 4,
+            "text": "Fahrzeuge",
+            "word": 4
+        },
+        {
+            "charBegin": 347,
+            "charEnd": 353,
+            "id": 53,
+            "sentence": 4,
+            "text": "mitten",
+            "word": 5
+        },
+        {
+            "charBegin": 354,
+            "charEnd": 357,
+            "id": 54,
+            "sentence": 4,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 358,
+            "charEnd": 361,
+            "id": 55,
+            "sentence": 4,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 369,
+            "id": 56,
+            "sentence": 4,
+            "text": "Strecke",
+            "word": 8
+        },
+        {
+            "charBegin": 370,
+            "charEnd": 376,
+            "id": 57,
+            "sentence": 4,
+            "text": "stehen",
+            "word": 9
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 377,
+            "id": 58,
+            "sentence": 4,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 378,
+            "charEnd": 380,
+            "id": 59,
+            "sentence": 4,
+            "text": "so",
+            "word": 11
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 385,
+            "id": 60,
+            "sentence": 4,
+            "text": "dass",
+            "word": 12
+        },
+        {
+            "charBegin": 386,
+            "charEnd": 389,
+            "id": 61,
+            "sentence": 4,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 390,
+            "charEnd": 400,
+            "id": 62,
+            "sentence": 4,
+            "text": "Passagiere",
+            "word": 14
+        },
+        {
+            "charBegin": 401,
+            "charEnd": 404,
+            "id": 63,
+            "sentence": 4,
+            "text": "aus",
+            "word": 15
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 413,
+            "id": 64,
+            "sentence": 4,
+            "text": "luftiger",
+            "word": 16
+        },
+        {
+            "charBegin": 414,
+            "charEnd": 418,
+            "id": 65,
+            "sentence": 4,
+            "text": "Höhe",
+            "word": 17
+        },
+        {
+            "charBegin": 419,
+            "charEnd": 427,
+            "id": 66,
+            "sentence": 4,
+            "text": "gerettet",
+            "word": 18
+        },
+        {
+            "charBegin": 428,
+            "charEnd": 434,
+            "id": 67,
+            "sentence": 4,
+            "text": "werden",
+            "word": 19
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 442,
+            "id": 68,
+            "sentence": 4,
+            "text": "mussten",
+            "word": 20
+        },
+        {
+            "charBegin": 442,
+            "charEnd": 443,
+            "id": 69,
+            "sentence": 4,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 446,
+            "id": 70,
+            "sentence": 5,
+            "text": "Es",
+            "word": 1
+        },
+        {
+            "charBegin": 447,
+            "charEnd": 450,
+            "id": 71,
+            "sentence": 5,
+            "text": "gab",
+            "word": 2
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 455,
+            "id": 72,
+            "sentence": 5,
+            "text": "auch",
+            "word": 3
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 464,
+            "id": 73,
+            "sentence": 5,
+            "text": "Probleme",
+            "word": 4
+        },
+        {
+            "charBegin": 465,
+            "charEnd": 468,
+            "id": 74,
+            "sentence": 5,
+            "text": "mit",
+            "word": 5
+        },
+        {
+            "charBegin": 469,
+            "charEnd": 472,
+            "id": 75,
+            "sentence": 5,
+            "text": "den",
+            "word": 6
+        },
+        {
+            "charBegin": 473,
+            "charEnd": 478,
+            "id": 76,
+            "sentence": 5,
+            "text": "Türen",
+            "word": 7
+        },
+        {
+            "charBegin": 478,
+            "charEnd": 479,
+            "id": 77,
+            "sentence": 5,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 485,
+            "id": 78,
+            "sentence": 6,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 491,
+            "id": 79,
+            "sentence": 6,
+            "text": "Stadt",
+            "word": 2
+        },
+        {
+            "charBegin": 492,
+            "charEnd": 502,
+            "id": 80,
+            "sentence": 6,
+            "text": "Düsseldorf",
+            "word": 3
+        },
+        {
+            "charBegin": 502,
+            "charEnd": 503,
+            "id": 81,
+            "sentence": 6,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 507,
+            "id": 82,
+            "sentence": 6,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 508,
+            "charEnd": 511,
+            "id": 83,
+            "sentence": 6,
+            "text": "mit",
+            "word": 6
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 514,
+            "id": 84,
+            "sentence": 6,
+            "text": "50",
+            "word": 7
+        },
+        {
+            "charBegin": 515,
+            "charEnd": 522,
+            "id": 85,
+            "sentence": 6,
+            "text": "Prozent",
+            "word": 8
+        },
+        {
+            "charBegin": 523,
+            "charEnd": 525,
+            "id": 86,
+            "sentence": 6,
+            "text": "am",
+            "word": 9
+        },
+        {
+            "charBegin": 526,
+            "charEnd": 535,
+            "id": 87,
+            "sentence": 6,
+            "text": "Flughafen",
+            "word": 10
+        },
+        {
+            "charBegin": 536,
+            "charEnd": 545,
+            "id": 88,
+            "sentence": 6,
+            "text": "beteiligt",
+            "word": 11
+        },
+        {
+            "charBegin": 546,
+            "charEnd": 549,
+            "id": 89,
+            "sentence": 6,
+            "text": "ist",
+            "word": 12
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 550,
+            "id": 90,
+            "sentence": 6,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 551,
+            "charEnd": 556,
+            "id": 91,
+            "sentence": 6,
+            "text": "erwog",
+            "word": 14
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 564,
+            "id": 92,
+            "sentence": 6,
+            "text": "bereits",
+            "word": 15
+        },
+        {
+            "charBegin": 565,
+            "charEnd": 568,
+            "id": 93,
+            "sentence": 6,
+            "text": "vom",
+            "word": 16
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 576,
+            "id": 94,
+            "sentence": 6,
+            "text": "Vertrag",
+            "word": 17
+        },
+        {
+            "charBegin": 577,
+            "charEnd": 591,
+            "id": 95,
+            "sentence": 6,
+            "text": "zurückzutreten",
+            "word": 18
+        },
+        {
+            "charBegin": 592,
+            "charEnd": 595,
+            "id": 96,
+            "sentence": 6,
+            "text": "und",
+            "word": 19
+        },
+        {
+            "charBegin": 596,
+            "charEnd": 599,
+            "id": 97,
+            "sentence": 6,
+            "text": "den",
+            "word": 20
+        },
+        {
+            "charBegin": 600,
+            "charEnd": 607,
+            "id": 98,
+            "sentence": 6,
+            "text": "Rückbau",
+            "word": 21
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 610,
+            "id": 99,
+            "sentence": 6,
+            "text": "zu",
+            "word": 22
+        },
+        {
+            "charBegin": 611,
+            "charEnd": 619,
+            "id": 100,
+            "sentence": 6,
+            "text": "erwirken",
+            "word": 23
+        },
+        {
+            "charBegin": 619,
+            "charEnd": 620,
+            "id": 101,
+            "sentence": 6,
+            "text": ".",
+            "word": 24
+        }
+    ]
+}

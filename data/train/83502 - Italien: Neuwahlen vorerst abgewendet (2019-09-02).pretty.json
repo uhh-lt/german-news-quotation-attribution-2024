@@ -1,0 +1,2578 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 195,
+                        "charBegin": 1301,
+                        "charEnd": 1306,
+                        "end": 196
+                    }
+                ],
+                "text": "Conte",
+                "tokenIds": [
+                    195
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 194,
+                        "charBegin": 1295,
+                        "charEnd": 1300,
+                        "end": 195
+                    },
+                    {
+                        "begin": 196,
+                        "charBegin": 1307,
+                        "charEnd": 1314,
+                        "end": 197
+                    }
+                ],
+                "text": "hatte gebeten",
+                "tokenIds": [
+                    194,
+                    196
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 192,
+                        "charBegin": 1268,
+                        "charEnd": 1315,
+                        "end": 198
+                    }
+                ],
+                "text": "Staatspräsident Mattarella hatte Conte gebeten,",
+                "tokenIds": [
+                    192,
+                    193,
+                    194,
+                    195,
+                    196,
+                    197
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 198,
+                        "charBegin": 1316,
+                        "charEnd": 1347,
+                        "end": 203
+                    }
+                ],
+                "text": "vorübergehend im Amt zu bleiben",
+                "tokenIds": [
+                    198,
+                    199,
+                    200,
+                    201,
+                    202
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 192,
+                        "charBegin": 1268,
+                        "charEnd": 1294,
+                        "end": 194
+                    }
+                ],
+                "text": "Staatspräsident Mattarella",
+                "tokenIds": [
+                    192,
+                    193
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "83502 - Italien: Neuwahlen vorerst abgewendet (2019-09-02)",
+    "originalText": "Die italienischen Sozialdemokraten (PD) und die Fünf-Sterne-Bewegung haben sich auf eine Koalitionsregierung geeinigt und damit vorgezogene Neuwahlen abgewendet. Damit haben sie Pläne des bisherigen Innenministers Salvini durchkreuzt, der mit seinem Rücktritt Neuwahlen erzwingen wollte, um günstige Umfragewerte für seine Partei Lega Nord auszunutzen.\n\nNach den Wahlen im März 2018 waren die Fünf-Sterne-Bewegung, die mit 33 Prozent der Wählerstimmen stärkste Partei geworden war, und die Sozialdemokraten, die mit 19 Prozent auf dem zweiten Platz lagen, noch gegen eine Koalition gewesen.\n\nNun haben sich beide Parteien auf eine gemeinsame Regierung geeinigt. Zwar würden sich die Sozialdemokraten auf 24 Prozent der Stimmen verbessern, aber die Fünf-Sterne-Bewegung würde fast die Hälfte ihrer Wähler verlieren und nur noch 17 Prozent erreichen. Großer Gewinner einer vorgezogenen Neuwahl wäre Matteo Salvinis Lega gewesen; die Rechtspopulisten hätten mit 39 Prozent der Stimmen rechnen können.\n\nMinisterpräsident bleibt der parteilose Giuseppe Conte, der von Staatspräsident Sergio Mattarella am Donnerstag (29. August) mit der Regierungsbildung beauftragt wurde. Conte hatte am 20. August die bisherige Koalition mit der Lega aufgekündigt und war zurückgetreten. Staatspräsident Mattarella hatte Conte gebeten, vorübergehend im Amt zu bleiben.\n\nDem neuen Bündnis soll noch die Basis der Fünf-Sterne-Bewegung per Internetabstimmung zustimmen. Außerdem muss sich die neue Regierung in der Abgeordnetenkammer und im Senat einer Vertrauensabstimmung stellen.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 161,
+            "end": 21,
+            "id": 0,
+            "text": "Die italienischen Sozialdemokraten (PD) und die Fünf-Sterne-Bewegung haben sich auf eine Koalitionsregierung geeinigt und damit vorgezogene Neuwahlen abgewendet. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "Die",
+                "italienischen",
+                "Sozialdemokraten",
+                "(",
+                "PD",
+                ")",
+                "und",
+                "die",
+                "Fünf-Sterne-Bewegung",
+                "haben",
+                "sich",
+                "auf",
+                "eine",
+                "Koalitionsregierung",
+                "geeinigt",
+                "und",
+                "damit",
+                "vorgezogene",
+                "Neuwahlen",
+                "abgewendet",
+                "."
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 162,
+            "charEnd": 352,
+            "end": 49,
+            "id": 1,
+            "text": "Damit haben sie Pläne des bisherigen Innenministers Salvini durchkreuzt, der mit seinem Rücktritt Neuwahlen erzwingen wollte, um günstige Umfragewerte für seine Partei Lega Nord auszunutzen.",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48
+            ],
+            "tokens": [
+                "Damit",
+                "haben",
+                "sie",
+                "Pläne",
+                "des",
+                "bisherigen",
+                "Innenministers",
+                "Salvini",
+                "durchkreuzt",
+                ",",
+                "der",
+                "mit",
+                "seinem",
+                "Rücktritt",
+                "Neuwahlen",
+                "erzwingen",
+                "wollte",
+                ",",
+                "um",
+                "günstige",
+                "Umfragewerte",
+                "für",
+                "seine",
+                "Partei",
+                "Lega",
+                "Nord",
+                "auszunutzen",
+                "."
+            ]
+        },
+        {
+            "begin": 49,
+            "charBegin": 354,
+            "charEnd": 590,
+            "end": 90,
+            "id": 2,
+            "text": "Nach den Wahlen im März 2018 waren die Fünf-Sterne-Bewegung, die mit 33 Prozent der Wählerstimmen stärkste Partei geworden war, und die Sozialdemokraten, die mit 19 Prozent auf dem zweiten Platz lagen, noch gegen eine Koalition gewesen.",
+            "tokenIds": [
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89
+            ],
+            "tokens": [
+                "Nach",
+                "den",
+                "Wahlen",
+                "im",
+                "März",
+                "2018",
+                "waren",
+                "die",
+                "Fünf-Sterne-Bewegung",
+                ",",
+                "die",
+                "mit",
+                "33",
+                "Prozent",
+                "der",
+                "Wählerstimmen",
+                "stärkste",
+                "Partei",
+                "geworden",
+                "war",
+                ",",
+                "und",
+                "die",
+                "Sozialdemokraten",
+                ",",
+                "die",
+                "mit",
+                "19",
+                "Prozent",
+                "auf",
+                "dem",
+                "zweiten",
+                "Platz",
+                "lagen",
+                ",",
+                "noch",
+                "gegen",
+                "eine",
+                "Koalition",
+                "gewesen",
+                "."
+            ]
+        },
+        {
+            "begin": 90,
+            "charBegin": 592,
+            "charEnd": 661,
+            "end": 101,
+            "id": 3,
+            "text": "Nun haben sich beide Parteien auf eine gemeinsame Regierung geeinigt. ",
+            "tokenIds": [
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100
+            ],
+            "tokens": [
+                "Nun",
+                "haben",
+                "sich",
+                "beide",
+                "Parteien",
+                "auf",
+                "eine",
+                "gemeinsame",
+                "Regierung",
+                "geeinigt",
+                "."
+            ]
+        },
+        {
+            "begin": 101,
+            "charBegin": 662,
+            "charEnd": 848,
+            "end": 130,
+            "id": 4,
+            "text": "Zwar würden sich die Sozialdemokraten auf 24 Prozent der Stimmen verbessern, aber die Fünf-Sterne-Bewegung würde fast die Hälfte ihrer Wähler verlieren und nur noch 17 Prozent erreichen. ",
+            "tokenIds": [
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129
+            ],
+            "tokens": [
+                "Zwar",
+                "würden",
+                "sich",
+                "die",
+                "Sozialdemokraten",
+                "auf",
+                "24",
+                "Prozent",
+                "der",
+                "Stimmen",
+                "verbessern",
+                ",",
+                "aber",
+                "die",
+                "Fünf-Sterne-Bewegung",
+                "würde",
+                "fast",
+                "die",
+                "Hälfte",
+                "ihrer",
+                "Wähler",
+                "verlieren",
+                "und",
+                "nur",
+                "noch",
+                "17",
+                "Prozent",
+                "erreichen",
+                "."
+            ]
+        },
+        {
+            "begin": 130,
+            "charBegin": 849,
+            "charEnd": 926,
+            "end": 141,
+            "id": 5,
+            "text": "Großer Gewinner einer vorgezogenen Neuwahl wäre Matteo Salvinis Lega gewesen; ",
+            "tokenIds": [
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140
+            ],
+            "tokens": [
+                "Großer",
+                "Gewinner",
+                "einer",
+                "vorgezogenen",
+                "Neuwahl",
+                "wäre",
+                "Matteo",
+                "Salvinis",
+                "Lega",
+                "gewesen",
+                ";"
+            ]
+        },
+        {
+            "begin": 141,
+            "charBegin": 927,
+            "charEnd": 997,
+            "end": 152,
+            "id": 6,
+            "text": "die Rechtspopulisten hätten mit 39 Prozent der Stimmen rechnen können.",
+            "tokenIds": [
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151
+            ],
+            "tokens": [
+                "die",
+                "Rechtspopulisten",
+                "hätten",
+                "mit",
+                "39",
+                "Prozent",
+                "der",
+                "Stimmen",
+                "rechnen",
+                "können",
+                "."
+            ]
+        },
+        {
+            "begin": 152,
+            "charBegin": 999,
+            "charEnd": 1167,
+            "end": 176,
+            "id": 7,
+            "text": "Ministerpräsident bleibt der parteilose Giuseppe Conte, der von Staatspräsident Sergio Mattarella am Donnerstag (29. August) mit der Regierungsbildung beauftragt wurde. ",
+            "tokenIds": [
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175
+            ],
+            "tokens": [
+                "Ministerpräsident",
+                "bleibt",
+                "der",
+                "parteilose",
+                "Giuseppe",
+                "Conte",
+                ",",
+                "der",
+                "von",
+                "Staatspräsident",
+                "Sergio",
+                "Mattarella",
+                "am",
+                "Donnerstag",
+                "(",
+                "29.",
+                "August",
+                ")",
+                "mit",
+                "der",
+                "Regierungsbildung",
+                "beauftragt",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "begin": 176,
+            "charBegin": 1168,
+            "charEnd": 1267,
+            "end": 192,
+            "id": 8,
+            "text": "Conte hatte am 20. August die bisherige Koalition mit der Lega aufgekündigt und war zurückgetreten. ",
+            "tokenIds": [
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191
+            ],
+            "tokens": [
+                "Conte",
+                "hatte",
+                "am",
+                "20.",
+                "August",
+                "die",
+                "bisherige",
+                "Koalition",
+                "mit",
+                "der",
+                "Lega",
+                "aufgekündigt",
+                "und",
+                "war",
+                "zurückgetreten",
+                "."
+            ]
+        },
+        {
+            "begin": 192,
+            "charBegin": 1268,
+            "charEnd": 1348,
+            "end": 204,
+            "id": 9,
+            "text": "Staatspräsident Mattarella hatte Conte gebeten, vorübergehend im Amt zu bleiben.",
+            "tokenIds": [
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203
+            ],
+            "tokens": [
+                "Staatspräsident",
+                "Mattarella",
+                "hatte",
+                "Conte",
+                "gebeten",
+                ",",
+                "vorübergehend",
+                "im",
+                "Amt",
+                "zu",
+                "bleiben",
+                "."
+            ]
+        },
+        {
+            "begin": 204,
+            "charBegin": 1350,
+            "charEnd": 1446,
+            "end": 217,
+            "id": 10,
+            "text": "Dem neuen Bündnis soll noch die Basis der Fünf-Sterne-Bewegung per Internetabstimmung zustimmen. ",
+            "tokenIds": [
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216
+            ],
+            "tokens": [
+                "Dem",
+                "neuen",
+                "Bündnis",
+                "soll",
+                "noch",
+                "die",
+                "Basis",
+                "der",
+                "Fünf-Sterne-Bewegung",
+                "per",
+                "Internetabstimmung",
+                "zustimmen",
+                "."
+            ]
+        },
+        {
+            "begin": 217,
+            "charBegin": 1447,
+            "charEnd": 1559,
+            "end": 233,
+            "id": 11,
+            "text": "Außerdem muss sich die neue Regierung in der Abgeordnetenkammer und im Senat einer Vertrauensabstimmung stellen.",
+            "tokenIds": [
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232
+            ],
+            "tokens": [
+                "Außerdem",
+                "muss",
+                "sich",
+                "die",
+                "neue",
+                "Regierung",
+                "in",
+                "der",
+                "Abgeordnetenkammer",
+                "und",
+                "im",
+                "Senat",
+                "einer",
+                "Vertrauensabstimmung",
+                "stellen",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 17,
+            "id": 1,
+            "sentence": 1,
+            "text": "italienischen",
+            "word": 2
+        },
+        {
+            "charBegin": 18,
+            "charEnd": 34,
+            "id": 2,
+            "sentence": 1,
+            "text": "Sozialdemokraten",
+            "word": 3
+        },
+        {
+            "charBegin": 35,
+            "charEnd": 36,
+            "id": 3,
+            "sentence": 1,
+            "text": "(",
+            "word": 4
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 38,
+            "id": 4,
+            "sentence": 1,
+            "text": "PD",
+            "word": 5
+        },
+        {
+            "charBegin": 38,
+            "charEnd": 39,
+            "id": 5,
+            "sentence": 1,
+            "text": ")",
+            "word": 6
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 43,
+            "id": 6,
+            "sentence": 1,
+            "text": "und",
+            "word": 7
+        },
+        {
+            "charBegin": 44,
+            "charEnd": 47,
+            "id": 7,
+            "sentence": 1,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 48,
+            "charEnd": 68,
+            "id": 8,
+            "sentence": 1,
+            "text": "Fünf-Sterne-Bewegung",
+            "word": 9
+        },
+        {
+            "charBegin": 69,
+            "charEnd": 74,
+            "id": 9,
+            "sentence": 1,
+            "text": "haben",
+            "word": 10
+        },
+        {
+            "charBegin": 75,
+            "charEnd": 79,
+            "id": 10,
+            "sentence": 1,
+            "text": "sich",
+            "word": 11
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 83,
+            "id": 11,
+            "sentence": 1,
+            "text": "auf",
+            "word": 12
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 88,
+            "id": 12,
+            "sentence": 1,
+            "text": "eine",
+            "word": 13
+        },
+        {
+            "charBegin": 89,
+            "charEnd": 108,
+            "id": 13,
+            "sentence": 1,
+            "text": "Koalitionsregierung",
+            "word": 14
+        },
+        {
+            "charBegin": 109,
+            "charEnd": 117,
+            "id": 14,
+            "sentence": 1,
+            "text": "geeinigt",
+            "word": 15
+        },
+        {
+            "charBegin": 118,
+            "charEnd": 121,
+            "id": 15,
+            "sentence": 1,
+            "text": "und",
+            "word": 16
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 127,
+            "id": 16,
+            "sentence": 1,
+            "text": "damit",
+            "word": 17
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 139,
+            "id": 17,
+            "sentence": 1,
+            "text": "vorgezogene",
+            "word": 18
+        },
+        {
+            "charBegin": 140,
+            "charEnd": 149,
+            "id": 18,
+            "sentence": 1,
+            "text": "Neuwahlen",
+            "word": 19
+        },
+        {
+            "charBegin": 150,
+            "charEnd": 160,
+            "id": 19,
+            "sentence": 1,
+            "text": "abgewendet",
+            "word": 20
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 161,
+            "id": 20,
+            "sentence": 1,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 162,
+            "charEnd": 167,
+            "id": 21,
+            "sentence": 2,
+            "text": "Damit",
+            "word": 1
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 173,
+            "id": 22,
+            "sentence": 2,
+            "text": "haben",
+            "word": 2
+        },
+        {
+            "charBegin": 174,
+            "charEnd": 177,
+            "id": 23,
+            "sentence": 2,
+            "text": "sie",
+            "word": 3
+        },
+        {
+            "charBegin": 178,
+            "charEnd": 183,
+            "id": 24,
+            "sentence": 2,
+            "text": "Pläne",
+            "word": 4
+        },
+        {
+            "charBegin": 184,
+            "charEnd": 187,
+            "id": 25,
+            "sentence": 2,
+            "text": "des",
+            "word": 5
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 198,
+            "id": 26,
+            "sentence": 2,
+            "text": "bisherigen",
+            "word": 6
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 213,
+            "id": 27,
+            "sentence": 2,
+            "text": "Innenministers",
+            "word": 7
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 221,
+            "id": 28,
+            "sentence": 2,
+            "text": "Salvini",
+            "word": 8
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 233,
+            "id": 29,
+            "sentence": 2,
+            "text": "durchkreuzt",
+            "word": 9
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 234,
+            "id": 30,
+            "sentence": 2,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 235,
+            "charEnd": 238,
+            "id": 31,
+            "sentence": 2,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 242,
+            "id": 32,
+            "sentence": 2,
+            "text": "mit",
+            "word": 12
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 249,
+            "id": 33,
+            "sentence": 2,
+            "text": "seinem",
+            "word": 13
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 259,
+            "id": 34,
+            "sentence": 2,
+            "text": "Rücktritt",
+            "word": 14
+        },
+        {
+            "charBegin": 260,
+            "charEnd": 269,
+            "id": 35,
+            "sentence": 2,
+            "text": "Neuwahlen",
+            "word": 15
+        },
+        {
+            "charBegin": 270,
+            "charEnd": 279,
+            "id": 36,
+            "sentence": 2,
+            "text": "erzwingen",
+            "word": 16
+        },
+        {
+            "charBegin": 280,
+            "charEnd": 286,
+            "id": 37,
+            "sentence": 2,
+            "text": "wollte",
+            "word": 17
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 287,
+            "id": 38,
+            "sentence": 2,
+            "text": ",",
+            "word": 18
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 290,
+            "id": 39,
+            "sentence": 2,
+            "text": "um",
+            "word": 19
+        },
+        {
+            "charBegin": 291,
+            "charEnd": 299,
+            "id": 40,
+            "sentence": 2,
+            "text": "günstige",
+            "word": 20
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 312,
+            "id": 41,
+            "sentence": 2,
+            "text": "Umfragewerte",
+            "word": 21
+        },
+        {
+            "charBegin": 313,
+            "charEnd": 316,
+            "id": 42,
+            "sentence": 2,
+            "text": "für",
+            "word": 22
+        },
+        {
+            "charBegin": 317,
+            "charEnd": 322,
+            "id": 43,
+            "sentence": 2,
+            "text": "seine",
+            "word": 23
+        },
+        {
+            "charBegin": 323,
+            "charEnd": 329,
+            "id": 44,
+            "sentence": 2,
+            "text": "Partei",
+            "word": 24
+        },
+        {
+            "charBegin": 330,
+            "charEnd": 334,
+            "id": 45,
+            "sentence": 2,
+            "text": "Lega",
+            "word": 25
+        },
+        {
+            "charBegin": 335,
+            "charEnd": 339,
+            "id": 46,
+            "sentence": 2,
+            "text": "Nord",
+            "word": 26
+        },
+        {
+            "charBegin": 340,
+            "charEnd": 351,
+            "id": 47,
+            "sentence": 2,
+            "text": "auszunutzen",
+            "word": 27
+        },
+        {
+            "charBegin": 351,
+            "charEnd": 352,
+            "id": 48,
+            "sentence": 2,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 354,
+            "charEnd": 358,
+            "id": 49,
+            "sentence": 3,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 362,
+            "id": 50,
+            "sentence": 3,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 363,
+            "charEnd": 369,
+            "id": 51,
+            "sentence": 3,
+            "text": "Wahlen",
+            "word": 3
+        },
+        {
+            "charBegin": 370,
+            "charEnd": 372,
+            "id": 52,
+            "sentence": 3,
+            "text": "im",
+            "word": 4
+        },
+        {
+            "charBegin": 373,
+            "charEnd": 377,
+            "id": 53,
+            "sentence": 3,
+            "text": "März",
+            "word": 5
+        },
+        {
+            "charBegin": 378,
+            "charEnd": 382,
+            "id": 54,
+            "sentence": 3,
+            "text": "2018",
+            "word": 6
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 388,
+            "id": 55,
+            "sentence": 3,
+            "text": "waren",
+            "word": 7
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 392,
+            "id": 56,
+            "sentence": 3,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 393,
+            "charEnd": 413,
+            "id": 57,
+            "sentence": 3,
+            "text": "Fünf-Sterne-Bewegung",
+            "word": 9
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 414,
+            "id": 58,
+            "sentence": 3,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 415,
+            "charEnd": 418,
+            "id": 59,
+            "sentence": 3,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 419,
+            "charEnd": 422,
+            "id": 60,
+            "sentence": 3,
+            "text": "mit",
+            "word": 12
+        },
+        {
+            "charBegin": 423,
+            "charEnd": 425,
+            "id": 61,
+            "sentence": 3,
+            "text": "33",
+            "word": 13
+        },
+        {
+            "charBegin": 426,
+            "charEnd": 433,
+            "id": 62,
+            "sentence": 3,
+            "text": "Prozent",
+            "word": 14
+        },
+        {
+            "charBegin": 434,
+            "charEnd": 437,
+            "id": 63,
+            "sentence": 3,
+            "text": "der",
+            "word": 15
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 451,
+            "id": 64,
+            "sentence": 3,
+            "text": "Wählerstimmen",
+            "word": 16
+        },
+        {
+            "charBegin": 452,
+            "charEnd": 460,
+            "id": 65,
+            "sentence": 3,
+            "text": "stärkste",
+            "word": 17
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 467,
+            "id": 66,
+            "sentence": 3,
+            "text": "Partei",
+            "word": 18
+        },
+        {
+            "charBegin": 468,
+            "charEnd": 476,
+            "id": 67,
+            "sentence": 3,
+            "text": "geworden",
+            "word": 19
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 480,
+            "id": 68,
+            "sentence": 3,
+            "text": "war",
+            "word": 20
+        },
+        {
+            "charBegin": 480,
+            "charEnd": 481,
+            "id": 69,
+            "sentence": 3,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 485,
+            "id": 70,
+            "sentence": 3,
+            "text": "und",
+            "word": 22
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 489,
+            "id": 71,
+            "sentence": 3,
+            "text": "die",
+            "word": 23
+        },
+        {
+            "charBegin": 490,
+            "charEnd": 506,
+            "id": 72,
+            "sentence": 3,
+            "text": "Sozialdemokraten",
+            "word": 24
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 507,
+            "id": 73,
+            "sentence": 3,
+            "text": ",",
+            "word": 25
+        },
+        {
+            "charBegin": 508,
+            "charEnd": 511,
+            "id": 74,
+            "sentence": 3,
+            "text": "die",
+            "word": 26
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 515,
+            "id": 75,
+            "sentence": 3,
+            "text": "mit",
+            "word": 27
+        },
+        {
+            "charBegin": 516,
+            "charEnd": 518,
+            "id": 76,
+            "sentence": 3,
+            "text": "19",
+            "word": 28
+        },
+        {
+            "charBegin": 519,
+            "charEnd": 526,
+            "id": 77,
+            "sentence": 3,
+            "text": "Prozent",
+            "word": 29
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 530,
+            "id": 78,
+            "sentence": 3,
+            "text": "auf",
+            "word": 30
+        },
+        {
+            "charBegin": 531,
+            "charEnd": 534,
+            "id": 79,
+            "sentence": 3,
+            "text": "dem",
+            "word": 31
+        },
+        {
+            "charBegin": 535,
+            "charEnd": 542,
+            "id": 80,
+            "sentence": 3,
+            "text": "zweiten",
+            "word": 32
+        },
+        {
+            "charBegin": 543,
+            "charEnd": 548,
+            "id": 81,
+            "sentence": 3,
+            "text": "Platz",
+            "word": 33
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 554,
+            "id": 82,
+            "sentence": 3,
+            "text": "lagen",
+            "word": 34
+        },
+        {
+            "charBegin": 554,
+            "charEnd": 555,
+            "id": 83,
+            "sentence": 3,
+            "text": ",",
+            "word": 35
+        },
+        {
+            "charBegin": 556,
+            "charEnd": 560,
+            "id": 84,
+            "sentence": 3,
+            "text": "noch",
+            "word": 36
+        },
+        {
+            "charBegin": 561,
+            "charEnd": 566,
+            "id": 85,
+            "sentence": 3,
+            "text": "gegen",
+            "word": 37
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 571,
+            "id": 86,
+            "sentence": 3,
+            "text": "eine",
+            "word": 38
+        },
+        {
+            "charBegin": 572,
+            "charEnd": 581,
+            "id": 87,
+            "sentence": 3,
+            "text": "Koalition",
+            "word": 39
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 589,
+            "id": 88,
+            "sentence": 3,
+            "text": "gewesen",
+            "word": 40
+        },
+        {
+            "charBegin": 589,
+            "charEnd": 590,
+            "id": 89,
+            "sentence": 3,
+            "text": ".",
+            "word": 41
+        },
+        {
+            "charBegin": 592,
+            "charEnd": 595,
+            "id": 90,
+            "sentence": 4,
+            "text": "Nun",
+            "word": 1
+        },
+        {
+            "charBegin": 596,
+            "charEnd": 601,
+            "id": 91,
+            "sentence": 4,
+            "text": "haben",
+            "word": 2
+        },
+        {
+            "charBegin": 602,
+            "charEnd": 606,
+            "id": 92,
+            "sentence": 4,
+            "text": "sich",
+            "word": 3
+        },
+        {
+            "charBegin": 607,
+            "charEnd": 612,
+            "id": 93,
+            "sentence": 4,
+            "text": "beide",
+            "word": 4
+        },
+        {
+            "charBegin": 613,
+            "charEnd": 621,
+            "id": 94,
+            "sentence": 4,
+            "text": "Parteien",
+            "word": 5
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 625,
+            "id": 95,
+            "sentence": 4,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 630,
+            "id": 96,
+            "sentence": 4,
+            "text": "eine",
+            "word": 7
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 641,
+            "id": 97,
+            "sentence": 4,
+            "text": "gemeinsame",
+            "word": 8
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 651,
+            "id": 98,
+            "sentence": 4,
+            "text": "Regierung",
+            "word": 9
+        },
+        {
+            "charBegin": 652,
+            "charEnd": 660,
+            "id": 99,
+            "sentence": 4,
+            "text": "geeinigt",
+            "word": 10
+        },
+        {
+            "charBegin": 660,
+            "charEnd": 661,
+            "id": 100,
+            "sentence": 4,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 662,
+            "charEnd": 666,
+            "id": 101,
+            "sentence": 5,
+            "text": "Zwar",
+            "word": 1
+        },
+        {
+            "charBegin": 667,
+            "charEnd": 673,
+            "id": 102,
+            "sentence": 5,
+            "text": "würden",
+            "word": 2
+        },
+        {
+            "charBegin": 674,
+            "charEnd": 678,
+            "id": 103,
+            "sentence": 5,
+            "text": "sich",
+            "word": 3
+        },
+        {
+            "charBegin": 679,
+            "charEnd": 682,
+            "id": 104,
+            "sentence": 5,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 699,
+            "id": 105,
+            "sentence": 5,
+            "text": "Sozialdemokraten",
+            "word": 5
+        },
+        {
+            "charBegin": 700,
+            "charEnd": 703,
+            "id": 106,
+            "sentence": 5,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 704,
+            "charEnd": 706,
+            "id": 107,
+            "sentence": 5,
+            "text": "24",
+            "word": 7
+        },
+        {
+            "charBegin": 707,
+            "charEnd": 714,
+            "id": 108,
+            "sentence": 5,
+            "text": "Prozent",
+            "word": 8
+        },
+        {
+            "charBegin": 715,
+            "charEnd": 718,
+            "id": 109,
+            "sentence": 5,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 719,
+            "charEnd": 726,
+            "id": 110,
+            "sentence": 5,
+            "text": "Stimmen",
+            "word": 10
+        },
+        {
+            "charBegin": 727,
+            "charEnd": 737,
+            "id": 111,
+            "sentence": 5,
+            "text": "verbessern",
+            "word": 11
+        },
+        {
+            "charBegin": 737,
+            "charEnd": 738,
+            "id": 112,
+            "sentence": 5,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 743,
+            "id": 113,
+            "sentence": 5,
+            "text": "aber",
+            "word": 13
+        },
+        {
+            "charBegin": 744,
+            "charEnd": 747,
+            "id": 114,
+            "sentence": 5,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 768,
+            "id": 115,
+            "sentence": 5,
+            "text": "Fünf-Sterne-Bewegung",
+            "word": 15
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 774,
+            "id": 116,
+            "sentence": 5,
+            "text": "würde",
+            "word": 16
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 779,
+            "id": 117,
+            "sentence": 5,
+            "text": "fast",
+            "word": 17
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 783,
+            "id": 118,
+            "sentence": 5,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 784,
+            "charEnd": 790,
+            "id": 119,
+            "sentence": 5,
+            "text": "Hälfte",
+            "word": 19
+        },
+        {
+            "charBegin": 791,
+            "charEnd": 796,
+            "id": 120,
+            "sentence": 5,
+            "text": "ihrer",
+            "word": 20
+        },
+        {
+            "charBegin": 797,
+            "charEnd": 803,
+            "id": 121,
+            "sentence": 5,
+            "text": "Wähler",
+            "word": 21
+        },
+        {
+            "charBegin": 804,
+            "charEnd": 813,
+            "id": 122,
+            "sentence": 5,
+            "text": "verlieren",
+            "word": 22
+        },
+        {
+            "charBegin": 814,
+            "charEnd": 817,
+            "id": 123,
+            "sentence": 5,
+            "text": "und",
+            "word": 23
+        },
+        {
+            "charBegin": 818,
+            "charEnd": 821,
+            "id": 124,
+            "sentence": 5,
+            "text": "nur",
+            "word": 24
+        },
+        {
+            "charBegin": 822,
+            "charEnd": 826,
+            "id": 125,
+            "sentence": 5,
+            "text": "noch",
+            "word": 25
+        },
+        {
+            "charBegin": 827,
+            "charEnd": 829,
+            "id": 126,
+            "sentence": 5,
+            "text": "17",
+            "word": 26
+        },
+        {
+            "charBegin": 830,
+            "charEnd": 837,
+            "id": 127,
+            "sentence": 5,
+            "text": "Prozent",
+            "word": 27
+        },
+        {
+            "charBegin": 838,
+            "charEnd": 847,
+            "id": 128,
+            "sentence": 5,
+            "text": "erreichen",
+            "word": 28
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 848,
+            "id": 129,
+            "sentence": 5,
+            "text": ".",
+            "word": 29
+        },
+        {
+            "charBegin": 849,
+            "charEnd": 855,
+            "id": 130,
+            "sentence": 6,
+            "text": "Großer",
+            "word": 1
+        },
+        {
+            "charBegin": 856,
+            "charEnd": 864,
+            "id": 131,
+            "sentence": 6,
+            "text": "Gewinner",
+            "word": 2
+        },
+        {
+            "charBegin": 865,
+            "charEnd": 870,
+            "id": 132,
+            "sentence": 6,
+            "text": "einer",
+            "word": 3
+        },
+        {
+            "charBegin": 871,
+            "charEnd": 883,
+            "id": 133,
+            "sentence": 6,
+            "text": "vorgezogenen",
+            "word": 4
+        },
+        {
+            "charBegin": 884,
+            "charEnd": 891,
+            "id": 134,
+            "sentence": 6,
+            "text": "Neuwahl",
+            "word": 5
+        },
+        {
+            "charBegin": 892,
+            "charEnd": 896,
+            "id": 135,
+            "sentence": 6,
+            "text": "wäre",
+            "word": 6
+        },
+        {
+            "charBegin": 897,
+            "charEnd": 903,
+            "id": 136,
+            "sentence": 6,
+            "text": "Matteo",
+            "word": 7
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 912,
+            "id": 137,
+            "sentence": 6,
+            "text": "Salvinis",
+            "word": 8
+        },
+        {
+            "charBegin": 913,
+            "charEnd": 917,
+            "id": 138,
+            "sentence": 6,
+            "text": "Lega",
+            "word": 9
+        },
+        {
+            "charBegin": 918,
+            "charEnd": 925,
+            "id": 139,
+            "sentence": 6,
+            "text": "gewesen",
+            "word": 10
+        },
+        {
+            "charBegin": 925,
+            "charEnd": 926,
+            "id": 140,
+            "sentence": 6,
+            "text": ";",
+            "word": 11
+        },
+        {
+            "charBegin": 927,
+            "charEnd": 930,
+            "id": 141,
+            "sentence": 7,
+            "text": "die",
+            "word": 1
+        },
+        {
+            "charBegin": 931,
+            "charEnd": 947,
+            "id": 142,
+            "sentence": 7,
+            "text": "Rechtspopulisten",
+            "word": 2
+        },
+        {
+            "charBegin": 948,
+            "charEnd": 954,
+            "id": 143,
+            "sentence": 7,
+            "text": "hätten",
+            "word": 3
+        },
+        {
+            "charBegin": 955,
+            "charEnd": 958,
+            "id": 144,
+            "sentence": 7,
+            "text": "mit",
+            "word": 4
+        },
+        {
+            "charBegin": 959,
+            "charEnd": 961,
+            "id": 145,
+            "sentence": 7,
+            "text": "39",
+            "word": 5
+        },
+        {
+            "charBegin": 962,
+            "charEnd": 969,
+            "id": 146,
+            "sentence": 7,
+            "text": "Prozent",
+            "word": 6
+        },
+        {
+            "charBegin": 970,
+            "charEnd": 973,
+            "id": 147,
+            "sentence": 7,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 974,
+            "charEnd": 981,
+            "id": 148,
+            "sentence": 7,
+            "text": "Stimmen",
+            "word": 8
+        },
+        {
+            "charBegin": 982,
+            "charEnd": 989,
+            "id": 149,
+            "sentence": 7,
+            "text": "rechnen",
+            "word": 9
+        },
+        {
+            "charBegin": 990,
+            "charEnd": 996,
+            "id": 150,
+            "sentence": 7,
+            "text": "können",
+            "word": 10
+        },
+        {
+            "charBegin": 996,
+            "charEnd": 997,
+            "id": 151,
+            "sentence": 7,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 999,
+            "charEnd": 1016,
+            "id": 152,
+            "sentence": 8,
+            "text": "Ministerpräsident",
+            "word": 1
+        },
+        {
+            "charBegin": 1017,
+            "charEnd": 1023,
+            "id": 153,
+            "sentence": 8,
+            "text": "bleibt",
+            "word": 2
+        },
+        {
+            "charBegin": 1024,
+            "charEnd": 1027,
+            "id": 154,
+            "sentence": 8,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 1028,
+            "charEnd": 1038,
+            "id": 155,
+            "sentence": 8,
+            "text": "parteilose",
+            "word": 4
+        },
+        {
+            "charBegin": 1039,
+            "charEnd": 1047,
+            "id": 156,
+            "sentence": 8,
+            "text": "Giuseppe",
+            "word": 5
+        },
+        {
+            "charBegin": 1048,
+            "charEnd": 1053,
+            "id": 157,
+            "sentence": 8,
+            "text": "Conte",
+            "word": 6
+        },
+        {
+            "charBegin": 1053,
+            "charEnd": 1054,
+            "id": 158,
+            "sentence": 8,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 1055,
+            "charEnd": 1058,
+            "id": 159,
+            "sentence": 8,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 1059,
+            "charEnd": 1062,
+            "id": 160,
+            "sentence": 8,
+            "text": "von",
+            "word": 9
+        },
+        {
+            "charBegin": 1063,
+            "charEnd": 1078,
+            "id": 161,
+            "sentence": 8,
+            "text": "Staatspräsident",
+            "word": 10
+        },
+        {
+            "charBegin": 1079,
+            "charEnd": 1085,
+            "id": 162,
+            "sentence": 8,
+            "text": "Sergio",
+            "word": 11
+        },
+        {
+            "charBegin": 1086,
+            "charEnd": 1096,
+            "id": 163,
+            "sentence": 8,
+            "text": "Mattarella",
+            "word": 12
+        },
+        {
+            "charBegin": 1097,
+            "charEnd": 1099,
+            "id": 164,
+            "sentence": 8,
+            "text": "am",
+            "word": 13
+        },
+        {
+            "charBegin": 1100,
+            "charEnd": 1110,
+            "id": 165,
+            "sentence": 8,
+            "text": "Donnerstag",
+            "word": 14
+        },
+        {
+            "charBegin": 1111,
+            "charEnd": 1112,
+            "id": 166,
+            "sentence": 8,
+            "text": "(",
+            "word": 15
+        },
+        {
+            "charBegin": 1112,
+            "charEnd": 1115,
+            "id": 167,
+            "sentence": 8,
+            "text": "29.",
+            "word": 16
+        },
+        {
+            "charBegin": 1116,
+            "charEnd": 1122,
+            "id": 168,
+            "sentence": 8,
+            "text": "August",
+            "word": 17
+        },
+        {
+            "charBegin": 1122,
+            "charEnd": 1123,
+            "id": 169,
+            "sentence": 8,
+            "text": ")",
+            "word": 18
+        },
+        {
+            "charBegin": 1124,
+            "charEnd": 1127,
+            "id": 170,
+            "sentence": 8,
+            "text": "mit",
+            "word": 19
+        },
+        {
+            "charBegin": 1128,
+            "charEnd": 1131,
+            "id": 171,
+            "sentence": 8,
+            "text": "der",
+            "word": 20
+        },
+        {
+            "charBegin": 1132,
+            "charEnd": 1149,
+            "id": 172,
+            "sentence": 8,
+            "text": "Regierungsbildung",
+            "word": 21
+        },
+        {
+            "charBegin": 1150,
+            "charEnd": 1160,
+            "id": 173,
+            "sentence": 8,
+            "text": "beauftragt",
+            "word": 22
+        },
+        {
+            "charBegin": 1161,
+            "charEnd": 1166,
+            "id": 174,
+            "sentence": 8,
+            "text": "wurde",
+            "word": 23
+        },
+        {
+            "charBegin": 1166,
+            "charEnd": 1167,
+            "id": 175,
+            "sentence": 8,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 1168,
+            "charEnd": 1173,
+            "id": 176,
+            "sentence": 9,
+            "text": "Conte",
+            "word": 1
+        },
+        {
+            "charBegin": 1174,
+            "charEnd": 1179,
+            "id": 177,
+            "sentence": 9,
+            "text": "hatte",
+            "word": 2
+        },
+        {
+            "charBegin": 1180,
+            "charEnd": 1182,
+            "id": 178,
+            "sentence": 9,
+            "text": "am",
+            "word": 3
+        },
+        {
+            "charBegin": 1183,
+            "charEnd": 1186,
+            "id": 179,
+            "sentence": 9,
+            "text": "20.",
+            "word": 4
+        },
+        {
+            "charBegin": 1187,
+            "charEnd": 1193,
+            "id": 180,
+            "sentence": 9,
+            "text": "August",
+            "word": 5
+        },
+        {
+            "charBegin": 1194,
+            "charEnd": 1197,
+            "id": 181,
+            "sentence": 9,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 1198,
+            "charEnd": 1207,
+            "id": 182,
+            "sentence": 9,
+            "text": "bisherige",
+            "word": 7
+        },
+        {
+            "charBegin": 1208,
+            "charEnd": 1217,
+            "id": 183,
+            "sentence": 9,
+            "text": "Koalition",
+            "word": 8
+        },
+        {
+            "charBegin": 1218,
+            "charEnd": 1221,
+            "id": 184,
+            "sentence": 9,
+            "text": "mit",
+            "word": 9
+        },
+        {
+            "charBegin": 1222,
+            "charEnd": 1225,
+            "id": 185,
+            "sentence": 9,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 1226,
+            "charEnd": 1230,
+            "id": 186,
+            "sentence": 9,
+            "text": "Lega",
+            "word": 11
+        },
+        {
+            "charBegin": 1231,
+            "charEnd": 1243,
+            "id": 187,
+            "sentence": 9,
+            "text": "aufgekündigt",
+            "word": 12
+        },
+        {
+            "charBegin": 1244,
+            "charEnd": 1247,
+            "id": 188,
+            "sentence": 9,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 1248,
+            "charEnd": 1251,
+            "id": 189,
+            "sentence": 9,
+            "text": "war",
+            "word": 14
+        },
+        {
+            "charBegin": 1252,
+            "charEnd": 1266,
+            "id": 190,
+            "sentence": 9,
+            "text": "zurückgetreten",
+            "word": 15
+        },
+        {
+            "charBegin": 1266,
+            "charEnd": 1267,
+            "id": 191,
+            "sentence": 9,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 1268,
+            "charEnd": 1283,
+            "id": 192,
+            "sentence": 10,
+            "text": "Staatspräsident",
+            "word": 1
+        },
+        {
+            "charBegin": 1284,
+            "charEnd": 1294,
+            "id": 193,
+            "sentence": 10,
+            "text": "Mattarella",
+            "word": 2
+        },
+        {
+            "charBegin": 1295,
+            "charEnd": 1300,
+            "id": 194,
+            "sentence": 10,
+            "text": "hatte",
+            "word": 3
+        },
+        {
+            "charBegin": 1301,
+            "charEnd": 1306,
+            "id": 195,
+            "sentence": 10,
+            "text": "Conte",
+            "word": 4
+        },
+        {
+            "charBegin": 1307,
+            "charEnd": 1314,
+            "id": 196,
+            "sentence": 10,
+            "text": "gebeten",
+            "word": 5
+        },
+        {
+            "charBegin": 1314,
+            "charEnd": 1315,
+            "id": 197,
+            "sentence": 10,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 1316,
+            "charEnd": 1329,
+            "id": 198,
+            "sentence": 10,
+            "text": "vorübergehend",
+            "word": 7
+        },
+        {
+            "charBegin": 1330,
+            "charEnd": 1332,
+            "id": 199,
+            "sentence": 10,
+            "text": "im",
+            "word": 8
+        },
+        {
+            "charBegin": 1333,
+            "charEnd": 1336,
+            "id": 200,
+            "sentence": 10,
+            "text": "Amt",
+            "word": 9
+        },
+        {
+            "charBegin": 1337,
+            "charEnd": 1339,
+            "id": 201,
+            "sentence": 10,
+            "text": "zu",
+            "word": 10
+        },
+        {
+            "charBegin": 1340,
+            "charEnd": 1347,
+            "id": 202,
+            "sentence": 10,
+            "text": "bleiben",
+            "word": 11
+        },
+        {
+            "charBegin": 1347,
+            "charEnd": 1348,
+            "id": 203,
+            "sentence": 10,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 1350,
+            "charEnd": 1353,
+            "id": 204,
+            "sentence": 11,
+            "text": "Dem",
+            "word": 1
+        },
+        {
+            "charBegin": 1354,
+            "charEnd": 1359,
+            "id": 205,
+            "sentence": 11,
+            "text": "neuen",
+            "word": 2
+        },
+        {
+            "charBegin": 1360,
+            "charEnd": 1367,
+            "id": 206,
+            "sentence": 11,
+            "text": "Bündnis",
+            "word": 3
+        },
+        {
+            "charBegin": 1368,
+            "charEnd": 1372,
+            "id": 207,
+            "sentence": 11,
+            "text": "soll",
+            "word": 4
+        },
+        {
+            "charBegin": 1373,
+            "charEnd": 1377,
+            "id": 208,
+            "sentence": 11,
+            "text": "noch",
+            "word": 5
+        },
+        {
+            "charBegin": 1378,
+            "charEnd": 1381,
+            "id": 209,
+            "sentence": 11,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 1382,
+            "charEnd": 1387,
+            "id": 210,
+            "sentence": 11,
+            "text": "Basis",
+            "word": 7
+        },
+        {
+            "charBegin": 1388,
+            "charEnd": 1391,
+            "id": 211,
+            "sentence": 11,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 1392,
+            "charEnd": 1412,
+            "id": 212,
+            "sentence": 11,
+            "text": "Fünf-Sterne-Bewegung",
+            "word": 9
+        },
+        {
+            "charBegin": 1413,
+            "charEnd": 1416,
+            "id": 213,
+            "sentence": 11,
+            "text": "per",
+            "word": 10
+        },
+        {
+            "charBegin": 1417,
+            "charEnd": 1435,
+            "id": 214,
+            "sentence": 11,
+            "text": "Internetabstimmung",
+            "word": 11
+        },
+        {
+            "charBegin": 1436,
+            "charEnd": 1445,
+            "id": 215,
+            "sentence": 11,
+            "text": "zustimmen",
+            "word": 12
+        },
+        {
+            "charBegin": 1445,
+            "charEnd": 1446,
+            "id": 216,
+            "sentence": 11,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 1447,
+            "charEnd": 1455,
+            "id": 217,
+            "sentence": 12,
+            "text": "Außerdem",
+            "word": 1
+        },
+        {
+            "charBegin": 1456,
+            "charEnd": 1460,
+            "id": 218,
+            "sentence": 12,
+            "text": "muss",
+            "word": 2
+        },
+        {
+            "charBegin": 1461,
+            "charEnd": 1465,
+            "id": 219,
+            "sentence": 12,
+            "text": "sich",
+            "word": 3
+        },
+        {
+            "charBegin": 1466,
+            "charEnd": 1469,
+            "id": 220,
+            "sentence": 12,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 1470,
+            "charEnd": 1474,
+            "id": 221,
+            "sentence": 12,
+            "text": "neue",
+            "word": 5
+        },
+        {
+            "charBegin": 1475,
+            "charEnd": 1484,
+            "id": 222,
+            "sentence": 12,
+            "text": "Regierung",
+            "word": 6
+        },
+        {
+            "charBegin": 1485,
+            "charEnd": 1487,
+            "id": 223,
+            "sentence": 12,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 1488,
+            "charEnd": 1491,
+            "id": 224,
+            "sentence": 12,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 1492,
+            "charEnd": 1510,
+            "id": 225,
+            "sentence": 12,
+            "text": "Abgeordnetenkammer",
+            "word": 9
+        },
+        {
+            "charBegin": 1511,
+            "charEnd": 1514,
+            "id": 226,
+            "sentence": 12,
+            "text": "und",
+            "word": 10
+        },
+        {
+            "charBegin": 1515,
+            "charEnd": 1517,
+            "id": 227,
+            "sentence": 12,
+            "text": "im",
+            "word": 11
+        },
+        {
+            "charBegin": 1518,
+            "charEnd": 1523,
+            "id": 228,
+            "sentence": 12,
+            "text": "Senat",
+            "word": 12
+        },
+        {
+            "charBegin": 1524,
+            "charEnd": 1529,
+            "id": 229,
+            "sentence": 12,
+            "text": "einer",
+            "word": 13
+        },
+        {
+            "charBegin": 1530,
+            "charEnd": 1550,
+            "id": 230,
+            "sentence": 12,
+            "text": "Vertrauensabstimmung",
+            "word": 14
+        },
+        {
+            "charBegin": 1551,
+            "charEnd": 1558,
+            "id": 231,
+            "sentence": 12,
+            "text": "stellen",
+            "word": 15
+        },
+        {
+            "charBegin": 1558,
+            "charEnd": 1559,
+            "id": 232,
+            "sentence": 12,
+            "text": ".",
+            "word": 16
+        }
+    ]
+}

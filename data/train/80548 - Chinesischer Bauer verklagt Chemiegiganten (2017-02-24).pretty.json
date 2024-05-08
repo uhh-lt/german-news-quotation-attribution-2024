@@ -1,0 +1,2216 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 109,
+                        "charBegin": 690,
+                        "charEnd": 697,
+                        "end": 110
+                    }
+                ],
+                "text": "zufolge",
+                "tokenIds": [
+                    109
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 108,
+                        "charBegin": 680,
+                        "charEnd": 697,
+                        "end": 110
+                    }
+                ],
+                "text": "Berichten zufolge",
+                "tokenIds": [
+                    108,
+                    109
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 110,
+                        "charBegin": 698,
+                        "charEnd": 778,
+                        "end": 122
+                    }
+                ],
+                "text": "produziert Qihua PVC und hinterlässt 15.000 bis 20.000 Tonnen Abfälle jedes Jahr",
+                "tokenIds": [
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 108,
+                        "charBegin": 680,
+                        "charEnd": 689,
+                        "end": 109
+                    }
+                ],
+                "text": "Berichten",
+                "tokenIds": [
+                    108
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "80548 - Chinesischer Bauer verklagt Chemiegiganten (2017-02-24)",
+    "originalText": "Ein chinesischer Bauer, der nur drei Jahre lang die Schule besucht hatte, lernte in 16 Jahren Selbststudium, wie er sich gegen die Umweltsünden eines staatlichen Chemiekonzerns wehren könnte. Vergiftetes Abwasser hatte das Ackerland des Bauern im Jahre 2001 erstmals verseucht und die gesamte Ernte vernichtet. Die giftige Brühe war sogar bis in das Wohnhaus eingedrungen, wo er am Abend des chinesischen Neujahrsfestes mit Nachbarn saß.\n\nIm November 2016 errang der heute 65jährige zusammen mit anderen Dorfbewohnern einen Sieg vor Gericht. Der Chemiekonzern Qihua\nwurde zu umgerechnet 110.000 Euro Schadenersatz verurteilt. Der Konzern hat gegen das Urteil Berufung eingelegt.\n\nBerichten zufolge produziert Qihua PVC und hinterlässt 15.000 bis 20.000 Tonnen Abfälle jedes Jahr. Der Bauer wohnt in Yushutun, einem Dorf im Distrikt Ang'angxi. Die nächstgrößere Stadt Qiqihar ist auch Sitz des Gerichts, wo der Fall verhandelt wird.\n\nPVC ist weltweit ein wichtiger Kunststoff. Kritisiert werden jedoch sowohl seine Produktion als auch auch seine Verwendung wegen der umweltschädlichen Chlorverbindungen. Der Ausgangsstoff für PVC, das Vinylchlorid, gilt als krebserregend. Bei der Verbrennung von PVC wird das giftige Chlor freigesetzt.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 191,
+            "end": 32,
+            "id": 0,
+            "text": "Ein chinesischer Bauer, der nur drei Jahre lang die Schule besucht hatte, lernte in 16 Jahren Selbststudium, wie er sich gegen die Umweltsünden eines staatlichen Chemiekonzerns wehren könnte. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31
+            ],
+            "tokens": [
+                "Ein",
+                "chinesischer",
+                "Bauer",
+                ",",
+                "der",
+                "nur",
+                "drei",
+                "Jahre",
+                "lang",
+                "die",
+                "Schule",
+                "besucht",
+                "hatte",
+                ",",
+                "lernte",
+                "in",
+                "16",
+                "Jahren",
+                "Selbststudium",
+                ",",
+                "wie",
+                "er",
+                "sich",
+                "gegen",
+                "die",
+                "Umweltsünden",
+                "eines",
+                "staatlichen",
+                "Chemiekonzerns",
+                "wehren",
+                "könnte",
+                "."
+            ]
+        },
+        {
+            "begin": 32,
+            "charBegin": 192,
+            "charEnd": 310,
+            "end": 50,
+            "id": 1,
+            "text": "Vergiftetes Abwasser hatte das Ackerland des Bauern im Jahre 2001 erstmals verseucht und die gesamte Ernte vernichtet. ",
+            "tokenIds": [
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ],
+            "tokens": [
+                "Vergiftetes",
+                "Abwasser",
+                "hatte",
+                "das",
+                "Ackerland",
+                "des",
+                "Bauern",
+                "im",
+                "Jahre",
+                "2001",
+                "erstmals",
+                "verseucht",
+                "und",
+                "die",
+                "gesamte",
+                "Ernte",
+                "vernichtet",
+                "."
+            ]
+        },
+        {
+            "begin": 50,
+            "charBegin": 311,
+            "charEnd": 437,
+            "end": 72,
+            "id": 2,
+            "text": "Die giftige Brühe war sogar bis in das Wohnhaus eingedrungen, wo er am Abend des chinesischen Neujahrsfestes mit Nachbarn saß.",
+            "tokenIds": [
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71
+            ],
+            "tokens": [
+                "Die",
+                "giftige",
+                "Brühe",
+                "war",
+                "sogar",
+                "bis",
+                "in",
+                "das",
+                "Wohnhaus",
+                "eingedrungen",
+                ",",
+                "wo",
+                "er",
+                "am",
+                "Abend",
+                "des",
+                "chinesischen",
+                "Neujahrsfestes",
+                "mit",
+                "Nachbarn",
+                "saß",
+                "."
+            ]
+        },
+        {
+            "begin": 72,
+            "charBegin": 439,
+            "charEnd": 541,
+            "end": 88,
+            "id": 3,
+            "text": "Im November 2016 errang der heute 65jährige zusammen mit anderen Dorfbewohnern einen Sieg vor Gericht. ",
+            "tokenIds": [
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "tokens": [
+                "Im",
+                "November",
+                "2016",
+                "errang",
+                "der",
+                "heute",
+                "65jährige",
+                "zusammen",
+                "mit",
+                "anderen",
+                "Dorfbewohnern",
+                "einen",
+                "Sieg",
+                "vor",
+                "Gericht",
+                "."
+            ]
+        },
+        {
+            "begin": 88,
+            "charBegin": 542,
+            "charEnd": 625,
+            "end": 99,
+            "id": 4,
+            "text": "Der Chemiekonzern Qihua\nwurde zu umgerechnet 110.000 Euro Schadenersatz verurteilt. ",
+            "tokenIds": [
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98
+            ],
+            "tokens": [
+                "Der",
+                "Chemiekonzern",
+                "Qihua",
+                "wurde",
+                "zu",
+                "umgerechnet",
+                "110.000",
+                "Euro",
+                "Schadenersatz",
+                "verurteilt",
+                "."
+            ]
+        },
+        {
+            "begin": 99,
+            "charBegin": 626,
+            "charEnd": 678,
+            "end": 108,
+            "id": 5,
+            "text": "Der Konzern hat gegen das Urteil Berufung eingelegt.",
+            "tokenIds": [
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107
+            ],
+            "tokens": [
+                "Der",
+                "Konzern",
+                "hat",
+                "gegen",
+                "das",
+                "Urteil",
+                "Berufung",
+                "eingelegt",
+                "."
+            ]
+        },
+        {
+            "begin": 108,
+            "charBegin": 680,
+            "charEnd": 779,
+            "end": 123,
+            "id": 6,
+            "text": "Berichten zufolge produziert Qihua PVC und hinterlässt 15.000 bis 20.000 Tonnen Abfälle jedes Jahr. ",
+            "tokenIds": [
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122
+            ],
+            "tokens": [
+                "Berichten",
+                "zufolge",
+                "produziert",
+                "Qihua",
+                "PVC",
+                "und",
+                "hinterlässt",
+                "15.000",
+                "bis",
+                "20.000",
+                "Tonnen",
+                "Abfälle",
+                "jedes",
+                "Jahr",
+                "."
+            ]
+        },
+        {
+            "begin": 123,
+            "charBegin": 780,
+            "charEnd": 842,
+            "end": 135,
+            "id": 7,
+            "text": "Der Bauer wohnt in Yushutun, einem Dorf im Distrikt Ang'angxi. ",
+            "tokenIds": [
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134
+            ],
+            "tokens": [
+                "Der",
+                "Bauer",
+                "wohnt",
+                "in",
+                "Yushutun",
+                ",",
+                "einem",
+                "Dorf",
+                "im",
+                "Distrikt",
+                "Ang'angxi",
+                "."
+            ]
+        },
+        {
+            "begin": 135,
+            "charBegin": 843,
+            "charEnd": 931,
+            "end": 151,
+            "id": 8,
+            "text": "Die nächstgrößere Stadt Qiqihar ist auch Sitz des Gerichts, wo der Fall verhandelt wird.",
+            "tokenIds": [
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150
+            ],
+            "tokens": [
+                "Die",
+                "nächstgrößere",
+                "Stadt",
+                "Qiqihar",
+                "ist",
+                "auch",
+                "Sitz",
+                "des",
+                "Gerichts",
+                ",",
+                "wo",
+                "der",
+                "Fall",
+                "verhandelt",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "begin": 151,
+            "charBegin": 933,
+            "charEnd": 975,
+            "end": 158,
+            "id": 9,
+            "text": "PVC ist weltweit ein wichtiger Kunststoff. ",
+            "tokenIds": [
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157
+            ],
+            "tokens": [
+                "PVC",
+                "ist",
+                "weltweit",
+                "ein",
+                "wichtiger",
+                "Kunststoff",
+                "."
+            ]
+        },
+        {
+            "begin": 158,
+            "charBegin": 976,
+            "charEnd": 1102,
+            "end": 174,
+            "id": 10,
+            "text": "Kritisiert werden jedoch sowohl seine Produktion als auch auch seine Verwendung wegen der umweltschädlichen Chlorverbindungen. ",
+            "tokenIds": [
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173
+            ],
+            "tokens": [
+                "Kritisiert",
+                "werden",
+                "jedoch",
+                "sowohl",
+                "seine",
+                "Produktion",
+                "als",
+                "auch",
+                "auch",
+                "seine",
+                "Verwendung",
+                "wegen",
+                "der",
+                "umweltschädlichen",
+                "Chlorverbindungen",
+                "."
+            ]
+        },
+        {
+            "begin": 174,
+            "charBegin": 1103,
+            "charEnd": 1171,
+            "end": 186,
+            "id": 11,
+            "text": "Der Ausgangsstoff für PVC, das Vinylchlorid, gilt als krebserregend. ",
+            "tokenIds": [
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185
+            ],
+            "tokens": [
+                "Der",
+                "Ausgangsstoff",
+                "für",
+                "PVC",
+                ",",
+                "das",
+                "Vinylchlorid",
+                ",",
+                "gilt",
+                "als",
+                "krebserregend",
+                "."
+            ]
+        },
+        {
+            "begin": 186,
+            "charBegin": 1172,
+            "charEnd": 1235,
+            "end": 197,
+            "id": 12,
+            "text": "Bei der Verbrennung von PVC wird das giftige Chlor freigesetzt.",
+            "tokenIds": [
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196
+            ],
+            "tokens": [
+                "Bei",
+                "der",
+                "Verbrennung",
+                "von",
+                "PVC",
+                "wird",
+                "das",
+                "giftige",
+                "Chlor",
+                "freigesetzt",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 16,
+            "id": 1,
+            "sentence": 1,
+            "text": "chinesischer",
+            "word": 2
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 22,
+            "id": 2,
+            "sentence": 1,
+            "text": "Bauer",
+            "word": 3
+        },
+        {
+            "charBegin": 22,
+            "charEnd": 23,
+            "id": 3,
+            "sentence": 1,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 27,
+            "id": 4,
+            "sentence": 1,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 28,
+            "charEnd": 31,
+            "id": 5,
+            "sentence": 1,
+            "text": "nur",
+            "word": 6
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 36,
+            "id": 6,
+            "sentence": 1,
+            "text": "drei",
+            "word": 7
+        },
+        {
+            "charBegin": 37,
+            "charEnd": 42,
+            "id": 7,
+            "sentence": 1,
+            "text": "Jahre",
+            "word": 8
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 47,
+            "id": 8,
+            "sentence": 1,
+            "text": "lang",
+            "word": 9
+        },
+        {
+            "charBegin": 48,
+            "charEnd": 51,
+            "id": 9,
+            "sentence": 1,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 52,
+            "charEnd": 58,
+            "id": 10,
+            "sentence": 1,
+            "text": "Schule",
+            "word": 11
+        },
+        {
+            "charBegin": 59,
+            "charEnd": 66,
+            "id": 11,
+            "sentence": 1,
+            "text": "besucht",
+            "word": 12
+        },
+        {
+            "charBegin": 67,
+            "charEnd": 72,
+            "id": 12,
+            "sentence": 1,
+            "text": "hatte",
+            "word": 13
+        },
+        {
+            "charBegin": 72,
+            "charEnd": 73,
+            "id": 13,
+            "sentence": 1,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 74,
+            "charEnd": 80,
+            "id": 14,
+            "sentence": 1,
+            "text": "lernte",
+            "word": 15
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 83,
+            "id": 15,
+            "sentence": 1,
+            "text": "in",
+            "word": 16
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 86,
+            "id": 16,
+            "sentence": 1,
+            "text": "16",
+            "word": 17
+        },
+        {
+            "charBegin": 87,
+            "charEnd": 93,
+            "id": 17,
+            "sentence": 1,
+            "text": "Jahren",
+            "word": 18
+        },
+        {
+            "charBegin": 94,
+            "charEnd": 107,
+            "id": 18,
+            "sentence": 1,
+            "text": "Selbststudium",
+            "word": 19
+        },
+        {
+            "charBegin": 107,
+            "charEnd": 108,
+            "id": 19,
+            "sentence": 1,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 109,
+            "charEnd": 112,
+            "id": 20,
+            "sentence": 1,
+            "text": "wie",
+            "word": 21
+        },
+        {
+            "charBegin": 113,
+            "charEnd": 115,
+            "id": 21,
+            "sentence": 1,
+            "text": "er",
+            "word": 22
+        },
+        {
+            "charBegin": 116,
+            "charEnd": 120,
+            "id": 22,
+            "sentence": 1,
+            "text": "sich",
+            "word": 23
+        },
+        {
+            "charBegin": 121,
+            "charEnd": 126,
+            "id": 23,
+            "sentence": 1,
+            "text": "gegen",
+            "word": 24
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 130,
+            "id": 24,
+            "sentence": 1,
+            "text": "die",
+            "word": 25
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 143,
+            "id": 25,
+            "sentence": 1,
+            "text": "Umweltsünden",
+            "word": 26
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 149,
+            "id": 26,
+            "sentence": 1,
+            "text": "eines",
+            "word": 27
+        },
+        {
+            "charBegin": 150,
+            "charEnd": 161,
+            "id": 27,
+            "sentence": 1,
+            "text": "staatlichen",
+            "word": 28
+        },
+        {
+            "charBegin": 162,
+            "charEnd": 176,
+            "id": 28,
+            "sentence": 1,
+            "text": "Chemiekonzerns",
+            "word": 29
+        },
+        {
+            "charBegin": 177,
+            "charEnd": 183,
+            "id": 29,
+            "sentence": 1,
+            "text": "wehren",
+            "word": 30
+        },
+        {
+            "charBegin": 184,
+            "charEnd": 190,
+            "id": 30,
+            "sentence": 1,
+            "text": "könnte",
+            "word": 31
+        },
+        {
+            "charBegin": 190,
+            "charEnd": 191,
+            "id": 31,
+            "sentence": 1,
+            "text": ".",
+            "word": 32
+        },
+        {
+            "charBegin": 192,
+            "charEnd": 203,
+            "id": 32,
+            "sentence": 2,
+            "text": "Vergiftetes",
+            "word": 1
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 212,
+            "id": 33,
+            "sentence": 2,
+            "text": "Abwasser",
+            "word": 2
+        },
+        {
+            "charBegin": 213,
+            "charEnd": 218,
+            "id": 34,
+            "sentence": 2,
+            "text": "hatte",
+            "word": 3
+        },
+        {
+            "charBegin": 219,
+            "charEnd": 222,
+            "id": 35,
+            "sentence": 2,
+            "text": "das",
+            "word": 4
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 232,
+            "id": 36,
+            "sentence": 2,
+            "text": "Ackerland",
+            "word": 5
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 236,
+            "id": 37,
+            "sentence": 2,
+            "text": "des",
+            "word": 6
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 243,
+            "id": 38,
+            "sentence": 2,
+            "text": "Bauern",
+            "word": 7
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 246,
+            "id": 39,
+            "sentence": 2,
+            "text": "im",
+            "word": 8
+        },
+        {
+            "charBegin": 247,
+            "charEnd": 252,
+            "id": 40,
+            "sentence": 2,
+            "text": "Jahre",
+            "word": 9
+        },
+        {
+            "charBegin": 253,
+            "charEnd": 257,
+            "id": 41,
+            "sentence": 2,
+            "text": "2001",
+            "word": 10
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 266,
+            "id": 42,
+            "sentence": 2,
+            "text": "erstmals",
+            "word": 11
+        },
+        {
+            "charBegin": 267,
+            "charEnd": 276,
+            "id": 43,
+            "sentence": 2,
+            "text": "verseucht",
+            "word": 12
+        },
+        {
+            "charBegin": 277,
+            "charEnd": 280,
+            "id": 44,
+            "sentence": 2,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 281,
+            "charEnd": 284,
+            "id": 45,
+            "sentence": 2,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 292,
+            "id": 46,
+            "sentence": 2,
+            "text": "gesamte",
+            "word": 15
+        },
+        {
+            "charBegin": 293,
+            "charEnd": 298,
+            "id": 47,
+            "sentence": 2,
+            "text": "Ernte",
+            "word": 16
+        },
+        {
+            "charBegin": 299,
+            "charEnd": 309,
+            "id": 48,
+            "sentence": 2,
+            "text": "vernichtet",
+            "word": 17
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 310,
+            "id": 49,
+            "sentence": 2,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 311,
+            "charEnd": 314,
+            "id": 50,
+            "sentence": 3,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 322,
+            "id": 51,
+            "sentence": 3,
+            "text": "giftige",
+            "word": 2
+        },
+        {
+            "charBegin": 323,
+            "charEnd": 328,
+            "id": 52,
+            "sentence": 3,
+            "text": "Brühe",
+            "word": 3
+        },
+        {
+            "charBegin": 329,
+            "charEnd": 332,
+            "id": 53,
+            "sentence": 3,
+            "text": "war",
+            "word": 4
+        },
+        {
+            "charBegin": 333,
+            "charEnd": 338,
+            "id": 54,
+            "sentence": 3,
+            "text": "sogar",
+            "word": 5
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 342,
+            "id": 55,
+            "sentence": 3,
+            "text": "bis",
+            "word": 6
+        },
+        {
+            "charBegin": 343,
+            "charEnd": 345,
+            "id": 56,
+            "sentence": 3,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 349,
+            "id": 57,
+            "sentence": 3,
+            "text": "das",
+            "word": 8
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 358,
+            "id": 58,
+            "sentence": 3,
+            "text": "Wohnhaus",
+            "word": 9
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 371,
+            "id": 59,
+            "sentence": 3,
+            "text": "eingedrungen",
+            "word": 10
+        },
+        {
+            "charBegin": 371,
+            "charEnd": 372,
+            "id": 60,
+            "sentence": 3,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 373,
+            "charEnd": 375,
+            "id": 61,
+            "sentence": 3,
+            "text": "wo",
+            "word": 12
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 378,
+            "id": 62,
+            "sentence": 3,
+            "text": "er",
+            "word": 13
+        },
+        {
+            "charBegin": 379,
+            "charEnd": 381,
+            "id": 63,
+            "sentence": 3,
+            "text": "am",
+            "word": 14
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 387,
+            "id": 64,
+            "sentence": 3,
+            "text": "Abend",
+            "word": 15
+        },
+        {
+            "charBegin": 388,
+            "charEnd": 391,
+            "id": 65,
+            "sentence": 3,
+            "text": "des",
+            "word": 16
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 404,
+            "id": 66,
+            "sentence": 3,
+            "text": "chinesischen",
+            "word": 17
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 419,
+            "id": 67,
+            "sentence": 3,
+            "text": "Neujahrsfestes",
+            "word": 18
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 423,
+            "id": 68,
+            "sentence": 3,
+            "text": "mit",
+            "word": 19
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 432,
+            "id": 69,
+            "sentence": 3,
+            "text": "Nachbarn",
+            "word": 20
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 436,
+            "id": 70,
+            "sentence": 3,
+            "text": "saß",
+            "word": 21
+        },
+        {
+            "charBegin": 436,
+            "charEnd": 437,
+            "id": 71,
+            "sentence": 3,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 439,
+            "charEnd": 441,
+            "id": 72,
+            "sentence": 4,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 442,
+            "charEnd": 450,
+            "id": 73,
+            "sentence": 4,
+            "text": "November",
+            "word": 2
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 455,
+            "id": 74,
+            "sentence": 4,
+            "text": "2016",
+            "word": 3
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 462,
+            "id": 75,
+            "sentence": 4,
+            "text": "errang",
+            "word": 4
+        },
+        {
+            "charBegin": 463,
+            "charEnd": 466,
+            "id": 76,
+            "sentence": 4,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 467,
+            "charEnd": 472,
+            "id": 77,
+            "sentence": 4,
+            "text": "heute",
+            "word": 6
+        },
+        {
+            "charBegin": 473,
+            "charEnd": 482,
+            "id": 78,
+            "sentence": 4,
+            "text": "65jährige",
+            "word": 7
+        },
+        {
+            "charBegin": 483,
+            "charEnd": 491,
+            "id": 79,
+            "sentence": 4,
+            "text": "zusammen",
+            "word": 8
+        },
+        {
+            "charBegin": 492,
+            "charEnd": 495,
+            "id": 80,
+            "sentence": 4,
+            "text": "mit",
+            "word": 9
+        },
+        {
+            "charBegin": 496,
+            "charEnd": 503,
+            "id": 81,
+            "sentence": 4,
+            "text": "anderen",
+            "word": 10
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 517,
+            "id": 82,
+            "sentence": 4,
+            "text": "Dorfbewohnern",
+            "word": 11
+        },
+        {
+            "charBegin": 518,
+            "charEnd": 523,
+            "id": 83,
+            "sentence": 4,
+            "text": "einen",
+            "word": 12
+        },
+        {
+            "charBegin": 524,
+            "charEnd": 528,
+            "id": 84,
+            "sentence": 4,
+            "text": "Sieg",
+            "word": 13
+        },
+        {
+            "charBegin": 529,
+            "charEnd": 532,
+            "id": 85,
+            "sentence": 4,
+            "text": "vor",
+            "word": 14
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 540,
+            "id": 86,
+            "sentence": 4,
+            "text": "Gericht",
+            "word": 15
+        },
+        {
+            "charBegin": 540,
+            "charEnd": 541,
+            "id": 87,
+            "sentence": 4,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 545,
+            "id": 88,
+            "sentence": 5,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 546,
+            "charEnd": 559,
+            "id": 89,
+            "sentence": 5,
+            "text": "Chemiekonzern",
+            "word": 2
+        },
+        {
+            "charBegin": 560,
+            "charEnd": 565,
+            "id": 90,
+            "sentence": 5,
+            "text": "Qihua",
+            "word": 3
+        },
+        {
+            "charBegin": 566,
+            "charEnd": 571,
+            "id": 91,
+            "sentence": 5,
+            "text": "wurde",
+            "word": 4
+        },
+        {
+            "charBegin": 572,
+            "charEnd": 574,
+            "id": 92,
+            "sentence": 5,
+            "text": "zu",
+            "word": 5
+        },
+        {
+            "charBegin": 575,
+            "charEnd": 586,
+            "id": 93,
+            "sentence": 5,
+            "text": "umgerechnet",
+            "word": 6
+        },
+        {
+            "charBegin": 587,
+            "charEnd": 594,
+            "id": 94,
+            "sentence": 5,
+            "text": "110.000",
+            "word": 7
+        },
+        {
+            "charBegin": 595,
+            "charEnd": 599,
+            "id": 95,
+            "sentence": 5,
+            "text": "Euro",
+            "word": 8
+        },
+        {
+            "charBegin": 600,
+            "charEnd": 613,
+            "id": 96,
+            "sentence": 5,
+            "text": "Schadenersatz",
+            "word": 9
+        },
+        {
+            "charBegin": 614,
+            "charEnd": 624,
+            "id": 97,
+            "sentence": 5,
+            "text": "verurteilt",
+            "word": 10
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 625,
+            "id": 98,
+            "sentence": 5,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 629,
+            "id": 99,
+            "sentence": 6,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 630,
+            "charEnd": 637,
+            "id": 100,
+            "sentence": 6,
+            "text": "Konzern",
+            "word": 2
+        },
+        {
+            "charBegin": 638,
+            "charEnd": 641,
+            "id": 101,
+            "sentence": 6,
+            "text": "hat",
+            "word": 3
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 647,
+            "id": 102,
+            "sentence": 6,
+            "text": "gegen",
+            "word": 4
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 651,
+            "id": 103,
+            "sentence": 6,
+            "text": "das",
+            "word": 5
+        },
+        {
+            "charBegin": 652,
+            "charEnd": 658,
+            "id": 104,
+            "sentence": 6,
+            "text": "Urteil",
+            "word": 6
+        },
+        {
+            "charBegin": 659,
+            "charEnd": 667,
+            "id": 105,
+            "sentence": 6,
+            "text": "Berufung",
+            "word": 7
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 677,
+            "id": 106,
+            "sentence": 6,
+            "text": "eingelegt",
+            "word": 8
+        },
+        {
+            "charBegin": 677,
+            "charEnd": 678,
+            "id": 107,
+            "sentence": 6,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 680,
+            "charEnd": 689,
+            "id": 108,
+            "sentence": 7,
+            "text": "Berichten",
+            "word": 1
+        },
+        {
+            "charBegin": 690,
+            "charEnd": 697,
+            "id": 109,
+            "sentence": 7,
+            "text": "zufolge",
+            "word": 2
+        },
+        {
+            "charBegin": 698,
+            "charEnd": 708,
+            "id": 110,
+            "sentence": 7,
+            "text": "produziert",
+            "word": 3
+        },
+        {
+            "charBegin": 709,
+            "charEnd": 714,
+            "id": 111,
+            "sentence": 7,
+            "text": "Qihua",
+            "word": 4
+        },
+        {
+            "charBegin": 715,
+            "charEnd": 718,
+            "id": 112,
+            "sentence": 7,
+            "text": "PVC",
+            "word": 5
+        },
+        {
+            "charBegin": 719,
+            "charEnd": 722,
+            "id": 113,
+            "sentence": 7,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 723,
+            "charEnd": 734,
+            "id": 114,
+            "sentence": 7,
+            "text": "hinterlässt",
+            "word": 7
+        },
+        {
+            "charBegin": 735,
+            "charEnd": 741,
+            "id": 115,
+            "sentence": 7,
+            "text": "15.000",
+            "word": 8
+        },
+        {
+            "charBegin": 742,
+            "charEnd": 745,
+            "id": 116,
+            "sentence": 7,
+            "text": "bis",
+            "word": 9
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 752,
+            "id": 117,
+            "sentence": 7,
+            "text": "20.000",
+            "word": 10
+        },
+        {
+            "charBegin": 753,
+            "charEnd": 759,
+            "id": 118,
+            "sentence": 7,
+            "text": "Tonnen",
+            "word": 11
+        },
+        {
+            "charBegin": 760,
+            "charEnd": 767,
+            "id": 119,
+            "sentence": 7,
+            "text": "Abfälle",
+            "word": 12
+        },
+        {
+            "charBegin": 768,
+            "charEnd": 773,
+            "id": 120,
+            "sentence": 7,
+            "text": "jedes",
+            "word": 13
+        },
+        {
+            "charBegin": 774,
+            "charEnd": 778,
+            "id": 121,
+            "sentence": 7,
+            "text": "Jahr",
+            "word": 14
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 779,
+            "id": 122,
+            "sentence": 7,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 783,
+            "id": 123,
+            "sentence": 8,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 784,
+            "charEnd": 789,
+            "id": 124,
+            "sentence": 8,
+            "text": "Bauer",
+            "word": 2
+        },
+        {
+            "charBegin": 790,
+            "charEnd": 795,
+            "id": 125,
+            "sentence": 8,
+            "text": "wohnt",
+            "word": 3
+        },
+        {
+            "charBegin": 796,
+            "charEnd": 798,
+            "id": 126,
+            "sentence": 8,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 799,
+            "charEnd": 807,
+            "id": 127,
+            "sentence": 8,
+            "text": "Yushutun",
+            "word": 5
+        },
+        {
+            "charBegin": 807,
+            "charEnd": 808,
+            "id": 128,
+            "sentence": 8,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 809,
+            "charEnd": 814,
+            "id": 129,
+            "sentence": 8,
+            "text": "einem",
+            "word": 7
+        },
+        {
+            "charBegin": 815,
+            "charEnd": 819,
+            "id": 130,
+            "sentence": 8,
+            "text": "Dorf",
+            "word": 8
+        },
+        {
+            "charBegin": 820,
+            "charEnd": 822,
+            "id": 131,
+            "sentence": 8,
+            "text": "im",
+            "word": 9
+        },
+        {
+            "charBegin": 823,
+            "charEnd": 831,
+            "id": 132,
+            "sentence": 8,
+            "text": "Distrikt",
+            "word": 10
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 841,
+            "id": 133,
+            "sentence": 8,
+            "text": "Ang'angxi",
+            "word": 11
+        },
+        {
+            "charBegin": 841,
+            "charEnd": 842,
+            "id": 134,
+            "sentence": 8,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 843,
+            "charEnd": 846,
+            "id": 135,
+            "sentence": 9,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 860,
+            "id": 136,
+            "sentence": 9,
+            "text": "nächstgrößere",
+            "word": 2
+        },
+        {
+            "charBegin": 861,
+            "charEnd": 866,
+            "id": 137,
+            "sentence": 9,
+            "text": "Stadt",
+            "word": 3
+        },
+        {
+            "charBegin": 867,
+            "charEnd": 874,
+            "id": 138,
+            "sentence": 9,
+            "text": "Qiqihar",
+            "word": 4
+        },
+        {
+            "charBegin": 875,
+            "charEnd": 878,
+            "id": 139,
+            "sentence": 9,
+            "text": "ist",
+            "word": 5
+        },
+        {
+            "charBegin": 879,
+            "charEnd": 883,
+            "id": 140,
+            "sentence": 9,
+            "text": "auch",
+            "word": 6
+        },
+        {
+            "charBegin": 884,
+            "charEnd": 888,
+            "id": 141,
+            "sentence": 9,
+            "text": "Sitz",
+            "word": 7
+        },
+        {
+            "charBegin": 889,
+            "charEnd": 892,
+            "id": 142,
+            "sentence": 9,
+            "text": "des",
+            "word": 8
+        },
+        {
+            "charBegin": 893,
+            "charEnd": 901,
+            "id": 143,
+            "sentence": 9,
+            "text": "Gerichts",
+            "word": 9
+        },
+        {
+            "charBegin": 901,
+            "charEnd": 902,
+            "id": 144,
+            "sentence": 9,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 903,
+            "charEnd": 905,
+            "id": 145,
+            "sentence": 9,
+            "text": "wo",
+            "word": 11
+        },
+        {
+            "charBegin": 906,
+            "charEnd": 909,
+            "id": 146,
+            "sentence": 9,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 910,
+            "charEnd": 914,
+            "id": 147,
+            "sentence": 9,
+            "text": "Fall",
+            "word": 13
+        },
+        {
+            "charBegin": 915,
+            "charEnd": 925,
+            "id": 148,
+            "sentence": 9,
+            "text": "verhandelt",
+            "word": 14
+        },
+        {
+            "charBegin": 926,
+            "charEnd": 930,
+            "id": 149,
+            "sentence": 9,
+            "text": "wird",
+            "word": 15
+        },
+        {
+            "charBegin": 930,
+            "charEnd": 931,
+            "id": 150,
+            "sentence": 9,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 933,
+            "charEnd": 936,
+            "id": 151,
+            "sentence": 10,
+            "text": "PVC",
+            "word": 1
+        },
+        {
+            "charBegin": 937,
+            "charEnd": 940,
+            "id": 152,
+            "sentence": 10,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 941,
+            "charEnd": 949,
+            "id": 153,
+            "sentence": 10,
+            "text": "weltweit",
+            "word": 3
+        },
+        {
+            "charBegin": 950,
+            "charEnd": 953,
+            "id": 154,
+            "sentence": 10,
+            "text": "ein",
+            "word": 4
+        },
+        {
+            "charBegin": 954,
+            "charEnd": 963,
+            "id": 155,
+            "sentence": 10,
+            "text": "wichtiger",
+            "word": 5
+        },
+        {
+            "charBegin": 964,
+            "charEnd": 974,
+            "id": 156,
+            "sentence": 10,
+            "text": "Kunststoff",
+            "word": 6
+        },
+        {
+            "charBegin": 974,
+            "charEnd": 975,
+            "id": 157,
+            "sentence": 10,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 976,
+            "charEnd": 986,
+            "id": 158,
+            "sentence": 11,
+            "text": "Kritisiert",
+            "word": 1
+        },
+        {
+            "charBegin": 987,
+            "charEnd": 993,
+            "id": 159,
+            "sentence": 11,
+            "text": "werden",
+            "word": 2
+        },
+        {
+            "charBegin": 994,
+            "charEnd": 1000,
+            "id": 160,
+            "sentence": 11,
+            "text": "jedoch",
+            "word": 3
+        },
+        {
+            "charBegin": 1001,
+            "charEnd": 1007,
+            "id": 161,
+            "sentence": 11,
+            "text": "sowohl",
+            "word": 4
+        },
+        {
+            "charBegin": 1008,
+            "charEnd": 1013,
+            "id": 162,
+            "sentence": 11,
+            "text": "seine",
+            "word": 5
+        },
+        {
+            "charBegin": 1014,
+            "charEnd": 1024,
+            "id": 163,
+            "sentence": 11,
+            "text": "Produktion",
+            "word": 6
+        },
+        {
+            "charBegin": 1025,
+            "charEnd": 1028,
+            "id": 164,
+            "sentence": 11,
+            "text": "als",
+            "word": 7
+        },
+        {
+            "charBegin": 1029,
+            "charEnd": 1033,
+            "id": 165,
+            "sentence": 11,
+            "text": "auch",
+            "word": 8
+        },
+        {
+            "charBegin": 1034,
+            "charEnd": 1038,
+            "id": 166,
+            "sentence": 11,
+            "text": "auch",
+            "word": 9
+        },
+        {
+            "charBegin": 1039,
+            "charEnd": 1044,
+            "id": 167,
+            "sentence": 11,
+            "text": "seine",
+            "word": 10
+        },
+        {
+            "charBegin": 1045,
+            "charEnd": 1055,
+            "id": 168,
+            "sentence": 11,
+            "text": "Verwendung",
+            "word": 11
+        },
+        {
+            "charBegin": 1056,
+            "charEnd": 1061,
+            "id": 169,
+            "sentence": 11,
+            "text": "wegen",
+            "word": 12
+        },
+        {
+            "charBegin": 1062,
+            "charEnd": 1065,
+            "id": 170,
+            "sentence": 11,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 1066,
+            "charEnd": 1083,
+            "id": 171,
+            "sentence": 11,
+            "text": "umweltschädlichen",
+            "word": 14
+        },
+        {
+            "charBegin": 1084,
+            "charEnd": 1101,
+            "id": 172,
+            "sentence": 11,
+            "text": "Chlorverbindungen",
+            "word": 15
+        },
+        {
+            "charBegin": 1101,
+            "charEnd": 1102,
+            "id": 173,
+            "sentence": 11,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 1103,
+            "charEnd": 1106,
+            "id": 174,
+            "sentence": 12,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1107,
+            "charEnd": 1120,
+            "id": 175,
+            "sentence": 12,
+            "text": "Ausgangsstoff",
+            "word": 2
+        },
+        {
+            "charBegin": 1121,
+            "charEnd": 1124,
+            "id": 176,
+            "sentence": 12,
+            "text": "für",
+            "word": 3
+        },
+        {
+            "charBegin": 1125,
+            "charEnd": 1128,
+            "id": 177,
+            "sentence": 12,
+            "text": "PVC",
+            "word": 4
+        },
+        {
+            "charBegin": 1128,
+            "charEnd": 1129,
+            "id": 178,
+            "sentence": 12,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 1130,
+            "charEnd": 1133,
+            "id": 179,
+            "sentence": 12,
+            "text": "das",
+            "word": 6
+        },
+        {
+            "charBegin": 1134,
+            "charEnd": 1146,
+            "id": 180,
+            "sentence": 12,
+            "text": "Vinylchlorid",
+            "word": 7
+        },
+        {
+            "charBegin": 1146,
+            "charEnd": 1147,
+            "id": 181,
+            "sentence": 12,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 1148,
+            "charEnd": 1152,
+            "id": 182,
+            "sentence": 12,
+            "text": "gilt",
+            "word": 9
+        },
+        {
+            "charBegin": 1153,
+            "charEnd": 1156,
+            "id": 183,
+            "sentence": 12,
+            "text": "als",
+            "word": 10
+        },
+        {
+            "charBegin": 1157,
+            "charEnd": 1170,
+            "id": 184,
+            "sentence": 12,
+            "text": "krebserregend",
+            "word": 11
+        },
+        {
+            "charBegin": 1170,
+            "charEnd": 1171,
+            "id": 185,
+            "sentence": 12,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 1172,
+            "charEnd": 1175,
+            "id": 186,
+            "sentence": 13,
+            "text": "Bei",
+            "word": 1
+        },
+        {
+            "charBegin": 1176,
+            "charEnd": 1179,
+            "id": 187,
+            "sentence": 13,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 1180,
+            "charEnd": 1191,
+            "id": 188,
+            "sentence": 13,
+            "text": "Verbrennung",
+            "word": 3
+        },
+        {
+            "charBegin": 1192,
+            "charEnd": 1195,
+            "id": 189,
+            "sentence": 13,
+            "text": "von",
+            "word": 4
+        },
+        {
+            "charBegin": 1196,
+            "charEnd": 1199,
+            "id": 190,
+            "sentence": 13,
+            "text": "PVC",
+            "word": 5
+        },
+        {
+            "charBegin": 1200,
+            "charEnd": 1204,
+            "id": 191,
+            "sentence": 13,
+            "text": "wird",
+            "word": 6
+        },
+        {
+            "charBegin": 1205,
+            "charEnd": 1208,
+            "id": 192,
+            "sentence": 13,
+            "text": "das",
+            "word": 7
+        },
+        {
+            "charBegin": 1209,
+            "charEnd": 1216,
+            "id": 193,
+            "sentence": 13,
+            "text": "giftige",
+            "word": 8
+        },
+        {
+            "charBegin": 1217,
+            "charEnd": 1222,
+            "id": 194,
+            "sentence": 13,
+            "text": "Chlor",
+            "word": 9
+        },
+        {
+            "charBegin": 1223,
+            "charEnd": 1234,
+            "id": 195,
+            "sentence": 13,
+            "text": "freigesetzt",
+            "word": 10
+        },
+        {
+            "charBegin": 1234,
+            "charEnd": 1235,
+            "id": 196,
+            "sentence": 13,
+            "text": ".",
+            "word": 11
+        }
+    ]
+}

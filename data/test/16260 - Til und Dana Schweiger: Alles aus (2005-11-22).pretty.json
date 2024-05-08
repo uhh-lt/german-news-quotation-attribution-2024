@@ -1,0 +1,851 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 60,
+                        "charBegin": 320,
+                        "charEnd": 385,
+                        "end": 72
+                    }
+                ],
+                "text": "Er möchte nun in ein Appartement in Berlin oder Hamburg umziehen.",
+                "tokenIds": [
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 60,
+                        "charBegin": 320,
+                        "charEnd": 322,
+                        "end": 61
+                    }
+                ],
+                "text": "Er",
+                "tokenIds": [
+                    60
+                ]
+            },
+            "type": "Reported"
+        }
+    ],
+    "documentName": "16260 - Til und Dana Schweiger: Alles aus (2005-11-22)",
+    "originalText": "Der deutsche Schauspieler Til Schweiger und seine amerikanische Frau Dana haben sich getrennt. Nach zehn Jahren Ehe geht jeder künftig eigene Wege. Das Paar (er 41, sie 37)  hat vier Kinder im Alter von zehn, acht, sieben und drei Jahren. Til ist bereits in die Gäste-Wohnung ihres gemeinsamen Hamburger Hauses gezogen. Er möchte nun in ein Appartement in Berlin oder Hamburg umziehen.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 94,
+            "end": 14,
+            "id": 0,
+            "text": "Der deutsche Schauspieler Til Schweiger und seine amerikanische Frau Dana haben sich getrennt. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ],
+            "tokens": [
+                "Der",
+                "deutsche",
+                "Schauspieler",
+                "Til",
+                "Schweiger",
+                "und",
+                "seine",
+                "amerikanische",
+                "Frau",
+                "Dana",
+                "haben",
+                "sich",
+                "getrennt",
+                "."
+            ]
+        },
+        {
+            "begin": 14,
+            "charBegin": 95,
+            "charEnd": 147,
+            "end": 24,
+            "id": 1,
+            "text": "Nach zehn Jahren Ehe geht jeder künftig eigene Wege. ",
+            "tokenIds": [
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ],
+            "tokens": [
+                "Nach",
+                "zehn",
+                "Jahren",
+                "Ehe",
+                "geht",
+                "jeder",
+                "künftig",
+                "eigene",
+                "Wege",
+                "."
+            ]
+        },
+        {
+            "begin": 24,
+            "charBegin": 148,
+            "charEnd": 238,
+            "end": 48,
+            "id": 2,
+            "text": "Das Paar (er 41, sie 37)  hat vier Kinder im Alter von zehn, acht, sieben und drei Jahren. ",
+            "tokenIds": [
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "tokens": [
+                "Das",
+                "Paar",
+                "(",
+                "er",
+                "41",
+                ",",
+                "sie",
+                "37",
+                ")",
+                "hat",
+                "vier",
+                "Kinder",
+                "im",
+                "Alter",
+                "von",
+                "zehn",
+                ",",
+                "acht",
+                ",",
+                "sieben",
+                "und",
+                "drei",
+                "Jahren",
+                "."
+            ]
+        },
+        {
+            "begin": 48,
+            "charBegin": 239,
+            "charEnd": 319,
+            "end": 60,
+            "id": 3,
+            "text": "Til ist bereits in die Gäste-Wohnung ihres gemeinsamen Hamburger Hauses gezogen. ",
+            "tokenIds": [
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59
+            ],
+            "tokens": [
+                "Til",
+                "ist",
+                "bereits",
+                "in",
+                "die",
+                "Gäste-Wohnung",
+                "ihres",
+                "gemeinsamen",
+                "Hamburger",
+                "Hauses",
+                "gezogen",
+                "."
+            ]
+        },
+        {
+            "begin": 60,
+            "charBegin": 320,
+            "charEnd": 385,
+            "end": 72,
+            "id": 4,
+            "text": "Er möchte nun in ein Appartement in Berlin oder Hamburg umziehen.",
+            "tokenIds": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71
+            ],
+            "tokens": [
+                "Er",
+                "möchte",
+                "nun",
+                "in",
+                "ein",
+                "Appartement",
+                "in",
+                "Berlin",
+                "oder",
+                "Hamburg",
+                "umziehen",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 12,
+            "id": 1,
+            "sentence": 1,
+            "text": "deutsche",
+            "word": 2
+        },
+        {
+            "charBegin": 13,
+            "charEnd": 25,
+            "id": 2,
+            "sentence": 1,
+            "text": "Schauspieler",
+            "word": 3
+        },
+        {
+            "charBegin": 26,
+            "charEnd": 29,
+            "id": 3,
+            "sentence": 1,
+            "text": "Til",
+            "word": 4
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 39,
+            "id": 4,
+            "sentence": 1,
+            "text": "Schweiger",
+            "word": 5
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 43,
+            "id": 5,
+            "sentence": 1,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 44,
+            "charEnd": 49,
+            "id": 6,
+            "sentence": 1,
+            "text": "seine",
+            "word": 7
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 63,
+            "id": 7,
+            "sentence": 1,
+            "text": "amerikanische",
+            "word": 8
+        },
+        {
+            "charBegin": 64,
+            "charEnd": 68,
+            "id": 8,
+            "sentence": 1,
+            "text": "Frau",
+            "word": 9
+        },
+        {
+            "charBegin": 69,
+            "charEnd": 73,
+            "id": 9,
+            "sentence": 1,
+            "text": "Dana",
+            "word": 10
+        },
+        {
+            "charBegin": 74,
+            "charEnd": 79,
+            "id": 10,
+            "sentence": 1,
+            "text": "haben",
+            "word": 11
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 84,
+            "id": 11,
+            "sentence": 1,
+            "text": "sich",
+            "word": 12
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 93,
+            "id": 12,
+            "sentence": 1,
+            "text": "getrennt",
+            "word": 13
+        },
+        {
+            "charBegin": 93,
+            "charEnd": 94,
+            "id": 13,
+            "sentence": 1,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 99,
+            "id": 14,
+            "sentence": 2,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 100,
+            "charEnd": 104,
+            "id": 15,
+            "sentence": 2,
+            "text": "zehn",
+            "word": 2
+        },
+        {
+            "charBegin": 105,
+            "charEnd": 111,
+            "id": 16,
+            "sentence": 2,
+            "text": "Jahren",
+            "word": 3
+        },
+        {
+            "charBegin": 112,
+            "charEnd": 115,
+            "id": 17,
+            "sentence": 2,
+            "text": "Ehe",
+            "word": 4
+        },
+        {
+            "charBegin": 116,
+            "charEnd": 120,
+            "id": 18,
+            "sentence": 2,
+            "text": "geht",
+            "word": 5
+        },
+        {
+            "charBegin": 121,
+            "charEnd": 126,
+            "id": 19,
+            "sentence": 2,
+            "text": "jeder",
+            "word": 6
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 134,
+            "id": 20,
+            "sentence": 2,
+            "text": "künftig",
+            "word": 7
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 141,
+            "id": 21,
+            "sentence": 2,
+            "text": "eigene",
+            "word": 8
+        },
+        {
+            "charBegin": 142,
+            "charEnd": 146,
+            "id": 22,
+            "sentence": 2,
+            "text": "Wege",
+            "word": 9
+        },
+        {
+            "charBegin": 146,
+            "charEnd": 147,
+            "id": 23,
+            "sentence": 2,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 148,
+            "charEnd": 151,
+            "id": 24,
+            "sentence": 3,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 156,
+            "id": 25,
+            "sentence": 3,
+            "text": "Paar",
+            "word": 2
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 158,
+            "id": 26,
+            "sentence": 3,
+            "text": "(",
+            "word": 3
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 160,
+            "id": 27,
+            "sentence": 3,
+            "text": "er",
+            "word": 4
+        },
+        {
+            "charBegin": 161,
+            "charEnd": 163,
+            "id": 28,
+            "sentence": 3,
+            "text": "41",
+            "word": 5
+        },
+        {
+            "charBegin": 163,
+            "charEnd": 164,
+            "id": 29,
+            "sentence": 3,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 168,
+            "id": 30,
+            "sentence": 3,
+            "text": "sie",
+            "word": 7
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 171,
+            "id": 31,
+            "sentence": 3,
+            "text": "37",
+            "word": 8
+        },
+        {
+            "charBegin": 171,
+            "charEnd": 172,
+            "id": 32,
+            "sentence": 3,
+            "text": ")",
+            "word": 9
+        },
+        {
+            "charBegin": 174,
+            "charEnd": 177,
+            "id": 33,
+            "sentence": 3,
+            "text": "hat",
+            "word": 10
+        },
+        {
+            "charBegin": 178,
+            "charEnd": 182,
+            "id": 34,
+            "sentence": 3,
+            "text": "vier",
+            "word": 11
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 189,
+            "id": 35,
+            "sentence": 3,
+            "text": "Kinder",
+            "word": 12
+        },
+        {
+            "charBegin": 190,
+            "charEnd": 192,
+            "id": 36,
+            "sentence": 3,
+            "text": "im",
+            "word": 13
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 198,
+            "id": 37,
+            "sentence": 3,
+            "text": "Alter",
+            "word": 14
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 202,
+            "id": 38,
+            "sentence": 3,
+            "text": "von",
+            "word": 15
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 207,
+            "id": 39,
+            "sentence": 3,
+            "text": "zehn",
+            "word": 16
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 208,
+            "id": 40,
+            "sentence": 3,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 209,
+            "charEnd": 213,
+            "id": 41,
+            "sentence": 3,
+            "text": "acht",
+            "word": 18
+        },
+        {
+            "charBegin": 213,
+            "charEnd": 214,
+            "id": 42,
+            "sentence": 3,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 215,
+            "charEnd": 221,
+            "id": 43,
+            "sentence": 3,
+            "text": "sieben",
+            "word": 20
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 225,
+            "id": 44,
+            "sentence": 3,
+            "text": "und",
+            "word": 21
+        },
+        {
+            "charBegin": 226,
+            "charEnd": 230,
+            "id": 45,
+            "sentence": 3,
+            "text": "drei",
+            "word": 22
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 237,
+            "id": 46,
+            "sentence": 3,
+            "text": "Jahren",
+            "word": 23
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 238,
+            "id": 47,
+            "sentence": 3,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 242,
+            "id": 48,
+            "sentence": 4,
+            "text": "Til",
+            "word": 1
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 246,
+            "id": 49,
+            "sentence": 4,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 247,
+            "charEnd": 254,
+            "id": 50,
+            "sentence": 4,
+            "text": "bereits",
+            "word": 3
+        },
+        {
+            "charBegin": 255,
+            "charEnd": 257,
+            "id": 51,
+            "sentence": 4,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 261,
+            "id": 52,
+            "sentence": 4,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 275,
+            "id": 53,
+            "sentence": 4,
+            "text": "Gäste-Wohnung",
+            "word": 6
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 281,
+            "id": 54,
+            "sentence": 4,
+            "text": "ihres",
+            "word": 7
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 293,
+            "id": 55,
+            "sentence": 4,
+            "text": "gemeinsamen",
+            "word": 8
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 303,
+            "id": 56,
+            "sentence": 4,
+            "text": "Hamburger",
+            "word": 9
+        },
+        {
+            "charBegin": 304,
+            "charEnd": 310,
+            "id": 57,
+            "sentence": 4,
+            "text": "Hauses",
+            "word": 10
+        },
+        {
+            "charBegin": 311,
+            "charEnd": 318,
+            "id": 58,
+            "sentence": 4,
+            "text": "gezogen",
+            "word": 11
+        },
+        {
+            "charBegin": 318,
+            "charEnd": 319,
+            "id": 59,
+            "sentence": 4,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 322,
+            "id": 60,
+            "sentence": 5,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 323,
+            "charEnd": 329,
+            "id": 61,
+            "sentence": 5,
+            "text": "möchte",
+            "word": 2
+        },
+        {
+            "charBegin": 330,
+            "charEnd": 333,
+            "id": 62,
+            "sentence": 5,
+            "text": "nun",
+            "word": 3
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 336,
+            "id": 63,
+            "sentence": 5,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 340,
+            "id": 64,
+            "sentence": 5,
+            "text": "ein",
+            "word": 5
+        },
+        {
+            "charBegin": 341,
+            "charEnd": 352,
+            "id": 65,
+            "sentence": 5,
+            "text": "Appartement",
+            "word": 6
+        },
+        {
+            "charBegin": 353,
+            "charEnd": 355,
+            "id": 66,
+            "sentence": 5,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 356,
+            "charEnd": 362,
+            "id": 67,
+            "sentence": 5,
+            "text": "Berlin",
+            "word": 8
+        },
+        {
+            "charBegin": 363,
+            "charEnd": 367,
+            "id": 68,
+            "sentence": 5,
+            "text": "oder",
+            "word": 9
+        },
+        {
+            "charBegin": 368,
+            "charEnd": 375,
+            "id": 69,
+            "sentence": 5,
+            "text": "Hamburg",
+            "word": 10
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 384,
+            "id": 70,
+            "sentence": 5,
+            "text": "umziehen",
+            "word": 11
+        },
+        {
+            "charBegin": 384,
+            "charEnd": 385,
+            "id": 71,
+            "sentence": 5,
+            "text": ".",
+            "word": 12
+        }
+    ]
+}

@@ -1,0 +1,4434 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 44,
+                        "charBegin": 303,
+                        "charEnd": 315,
+                        "end": 45
+                    }
+                ],
+                "text": "konstatierte",
+                "tokenIds": [
+                    44
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 42,
+                        "charBegin": 283,
+                        "charEnd": 377,
+                        "end": 52
+                    }
+                ],
+                "text": "Der Bundespräsident konstatierte im Zusammenhang mit der Globalisierungsdebatte eine wachsende",
+                "tokenIds": [
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 52,
+                        "charBegin": 378,
+                        "charEnd": 408,
+                        "end": 59
+                    }
+                ],
+                "text": "„Kluft zwischen Arm und Reich“",
+                "tokenIds": [
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 42,
+                        "charBegin": 283,
+                        "charEnd": 302,
+                        "end": 44
+                    }
+                ],
+                "text": "Der Bundespräsident",
+                "tokenIds": [
+                    42,
+                    43
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 81,
+                        "charBegin": 581,
+                        "charEnd": 599,
+                        "end": 83
+                    }
+                ],
+                "text": "die Gewerkschaften",
+                "tokenIds": [
+                    81,
+                    82
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 84,
+                        "charBegin": 608,
+                        "charEnd": 613,
+                        "end": 85
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    84
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 80,
+                        "charBegin": 578,
+                        "charEnd": 621,
+                        "end": 87
+                    },
+                    {
+                        "begin": 95,
+                        "charBegin": 678,
+                        "charEnd": 707,
+                        "end": 101
+                    }
+                ],
+                "text": "An die Gewerkschaften gewandt sagte Köhler, und bemühte hier das Bild vom",
+                "tokenIds": [
+                    80,
+                    81,
+                    82,
+                    83,
+                    84,
+                    85,
+                    86,
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 87,
+                        "charBegin": 622,
+                        "charEnd": 677,
+                        "end": 95
+                    }
+                ],
+                "text": "sie müssten ihre Zurückhaltung in dieser Frage aufgeben",
+                "tokenIds": [
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93,
+                    94
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 85,
+                        "charBegin": 614,
+                        "charEnd": 620,
+                        "end": 86
+                    }
+                ],
+                "text": "Köhler",
+                "tokenIds": [
+                    85
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 96,
+                        "charBegin": 682,
+                        "charEnd": 689,
+                        "end": 97
+                    },
+                    {
+                        "begin": 98,
+                        "charBegin": 695,
+                        "charEnd": 703,
+                        "end": 100
+                    }
+                ],
+                "text": "bemühte das Bild",
+                "tokenIds": [
+                    96,
+                    98,
+                    99
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 95,
+                        "charBegin": 678,
+                        "charEnd": 707,
+                        "end": 101
+                    },
+                    {
+                        "begin": 80,
+                        "charBegin": 578,
+                        "charEnd": 621,
+                        "end": 87
+                    }
+                ],
+                "text": "und bemühte hier das Bild vom An die Gewerkschaften gewandt sagte Köhler,",
+                "tokenIds": [
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84,
+                    85,
+                    86
+                ]
+            },
+            "hasNested": true,
+            "id": 2,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 101,
+                        "charBegin": 708,
+                        "charEnd": 807,
+                        "end": 116
+                    }
+                ],
+                "text": "„gemeinsamen Boot“, in dem Arbeitnehmer und Arbeitgeber angesichts des weltweiten Wettbewerbs säßen",
+                "tokenIds": [
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 96,
+                        "charBegin": 682,
+                        "charEnd": 689,
+                        "end": 97
+                    },
+                    {
+                        "begin": 98,
+                        "charBegin": 695,
+                        "charEnd": 703,
+                        "end": 100
+                    }
+                ],
+                "text": "bemühte das Bild",
+                "tokenIds": [
+                    96,
+                    98,
+                    99
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 95,
+                        "charBegin": 678,
+                        "charEnd": 707,
+                        "end": 101
+                    },
+                    {
+                        "begin": 80,
+                        "charBegin": 578,
+                        "charEnd": 621,
+                        "end": 87
+                    }
+                ],
+                "text": "und bemühte hier das Bild vom An die Gewerkschaften gewandt sagte Köhler,",
+                "tokenIds": [
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84,
+                    85,
+                    86
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 101,
+                        "charBegin": 708,
+                        "charEnd": 726,
+                        "end": 105
+                    }
+                ],
+                "text": "„gemeinsamen Boot“",
+                "tokenIds": [
+                    101,
+                    102,
+                    103,
+                    104
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 137,
+                        "charBegin": 929,
+                        "charEnd": 934,
+                        "end": 138
+                    },
+                    {
+                        "begin": 140,
+                        "charBegin": 949,
+                        "charEnd": 963,
+                        "end": 143
+                    }
+                ],
+                "text": "lobte mit den Worten",
+                "tokenIds": [
+                    137,
+                    140,
+                    141,
+                    142
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 117,
+                        "charBegin": 811,
+                        "charEnd": 964,
+                        "end": 144
+                    }
+                ],
+                "text": "Die Arbeit der großen Koalition in den ersten Wochen seit dem Amtsantritt von Angela Merkel (CDU) als Bundeskanzlerin lobte er einerseits mit den Worten:",
+                "tokenIds": [
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142,
+                    143
+                ]
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 144,
+                        "charBegin": 965,
+                        "charEnd": 1107,
+                        "end": 166
+                    }
+                ],
+                "text": "„Die Ostdeutschen Angela Merkel und Matthias Platzeck handeln pragmatisch. Es gibt weniger Inszenierung, weniger Politik- und Imponiergehabe.“",
+                "tokenIds": [
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    162,
+                    163,
+                    164,
+                    165
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 138,
+                        "charBegin": 935,
+                        "charEnd": 937,
+                        "end": 139
+                    }
+                ],
+                "text": "er",
+                "tokenIds": [
+                    138
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 171,
+                        "charBegin": 1141,
+                        "charEnd": 1144,
+                        "end": 172
+                    },
+                    {
+                        "begin": 174,
+                        "charBegin": 1155,
+                        "charEnd": 1157,
+                        "end": 175
+                    }
+                ],
+                "text": "sah an",
+                "tokenIds": [
+                    171,
+                    174
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 166,
+                        "charBegin": 1108,
+                        "charEnd": 1158,
+                        "end": 176
+                    }
+                ],
+                "text": "Als wichtige Aufgabe der Politik sah es Köhler an,",
+                "tokenIds": [
+                    166,
+                    167,
+                    168,
+                    169,
+                    170,
+                    171,
+                    172,
+                    173,
+                    174,
+                    175
+                ]
+            },
+            "hasNested": false,
+            "id": 5,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 176,
+                        "charBegin": 1159,
+                        "charEnd": 1203,
+                        "end": 181
+                    }
+                ],
+                "text": "eine Reform der Sozialsysteme voranzutreiben",
+                "tokenIds": [
+                    176,
+                    177,
+                    178,
+                    179,
+                    180
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 173,
+                        "charBegin": 1148,
+                        "charEnd": 1154,
+                        "end": 174
+                    }
+                ],
+                "text": "Köhler",
+                "tokenIds": [
+                    173
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 183,
+                        "charBegin": 1210,
+                        "charEnd": 1216,
+                        "end": 184
+                    },
+                    {
+                        "begin": 187,
+                        "charBegin": 1242,
+                        "charEnd": 1258,
+                        "end": 190
+                    }
+                ],
+                "text": "sparte nicht mit Kritik",
+                "tokenIds": [
+                    183,
+                    187,
+                    188,
+                    189
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 182,
+                        "charBegin": 1205,
+                        "charEnd": 1259,
+                        "end": 191
+                    }
+                ],
+                "text": "Hier sparte der Bundespräsident auch nicht mit Kritik:",
+                "tokenIds": [
+                    182,
+                    183,
+                    184,
+                    185,
+                    186,
+                    187,
+                    188,
+                    189,
+                    190
+                ]
+            },
+            "hasNested": false,
+            "id": 6,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 191,
+                        "charBegin": 1260,
+                        "charEnd": 1343,
+                        "end": 209
+                    }
+                ],
+                "text": "„Jeder sollte wissen: Je kleiner die Schritte, desto mehr Schritte muss er machen.“",
+                "tokenIds": [
+                    191,
+                    192,
+                    193,
+                    194,
+                    195,
+                    196,
+                    197,
+                    198,
+                    199,
+                    200,
+                    201,
+                    202,
+                    203,
+                    204,
+                    205,
+                    206,
+                    207,
+                    208
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 184,
+                        "charBegin": 1217,
+                        "charEnd": 1236,
+                        "end": 186
+                    }
+                ],
+                "text": "der Bundespräsident",
+                "tokenIds": [
+                    184,
+                    185
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 221,
+                        "charBegin": 1433,
+                        "charEnd": 1444,
+                        "end": 223
+                    }
+                ],
+                "text": "Der Politik",
+                "tokenIds": [
+                    221,
+                    222
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 223,
+                        "charBegin": 1445,
+                        "charEnd": 1451,
+                        "end": 224
+                    },
+                    {
+                        "begin": 225,
+                        "charBegin": 1455,
+                        "charEnd": 1458,
+                        "end": 226
+                    }
+                ],
+                "text": "schlug vor",
+                "tokenIds": [
+                    223,
+                    225
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 221,
+                        "charBegin": 1433,
+                        "charEnd": 1459,
+                        "end": 227
+                    }
+                ],
+                "text": "Der Politik schlug er vor,",
+                "tokenIds": [
+                    221,
+                    222,
+                    223,
+                    224,
+                    225,
+                    226
+                ]
+            },
+            "hasNested": false,
+            "id": 7,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 227,
+                        "charBegin": 1460,
+                        "charEnd": 1587,
+                        "end": 243
+                    }
+                ],
+                "text": "sich an US-Modellen zu orientieren, wo so genannten Langzeitarbeitslosen eine soziale Grundsicherung staatlich garantiert werde",
+                "tokenIds": [
+                    227,
+                    228,
+                    229,
+                    230,
+                    231,
+                    232,
+                    233,
+                    234,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241,
+                    242
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 224,
+                        "charBegin": 1452,
+                        "charEnd": 1454,
+                        "end": 225
+                    }
+                ],
+                "text": "er",
+                "tokenIds": [
+                    224
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 294,
+                        "charBegin": 1914,
+                        "charEnd": 1941,
+                        "end": 299
+                    }
+                ],
+                "text": "Seine Meinung zu Kirchhoff:",
+                "tokenIds": [
+                    294,
+                    295,
+                    296,
+                    297,
+                    298
+                ]
+            },
+            "hasNested": false,
+            "id": 8,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 299,
+                        "charBegin": 1942,
+                        "charEnd": 2124,
+                        "end": 334
+                    }
+                ],
+                "text": "„Ich dachte, es darf doch nicht wahr sein, dass man einen zwar eigenwilligen, aber doch auch klugen Mann wie Paul Kirchhof als Fantasten und Anwalt der sozialen Kälte stigmatisiert.”",
+                "tokenIds": [
+                    299,
+                    300,
+                    301,
+                    302,
+                    303,
+                    304,
+                    305,
+                    306,
+                    307,
+                    308,
+                    309,
+                    310,
+                    311,
+                    312,
+                    313,
+                    314,
+                    315,
+                    316,
+                    317,
+                    318,
+                    319,
+                    320,
+                    321,
+                    322,
+                    323,
+                    324,
+                    325,
+                    326,
+                    327,
+                    328,
+                    329,
+                    330,
+                    331,
+                    332,
+                    333
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 294,
+                        "charBegin": 1914,
+                        "charEnd": 1927,
+                        "end": 296
+                    }
+                ],
+                "text": "Seine Meinung",
+                "tokenIds": [
+                    294,
+                    295
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "18625 - Bundespräsident Köhler sieht „wachsende Kluft zwischen Arm und Reich“ (2005-12-29)",
+    "originalText": "Der deutsche Bundespräsident hat in einem Interview mit der deutschen Illustrierten „Stern“ pointiert zu einigen politischen Kernfragen Stellung genommen. Dabei ließ er teilweise die dem Amt gemäße übliche parteipolitische Zurückhaltung beiseite und sparte nicht mit Lob und Tadel.\n\nDer Bundespräsident konstatierte im Zusammenhang mit der Globalisierungsdebatte eine wachsende „Kluft zwischen Arm und Reich“. Köhler warb offensiv für eine Diskussion über eine Ertragsbeteiligung der Arbeitnehmer beziehungsweise eine stärkere Beteiligung der Arbeitnehmer am Produktivvermögen. An die Gewerkschaften gewandt sagte Köhler, sie müssten ihre Zurückhaltung in dieser Frage aufgeben und bemühte hier das Bild vom „gemeinsamen Boot“, in dem Arbeitnehmer und Arbeitgeber angesichts des weltweiten Wettbewerbs säßen. \n\nDie Arbeit der großen Koalition in den ersten Wochen seit dem Amtsantritt von Angela Merkel (CDU) als Bundeskanzlerin lobte er einerseits mit den Worten: „Die Ostdeutschen Angela Merkel und Matthias Platzeck handeln pragmatisch. Es gibt weniger Inszenierung, weniger Politik- und Imponiergehabe.“ Als wichtige Aufgabe der Politik sah es Köhler an, eine Reform der Sozialsysteme voranzutreiben. Hier sparte der Bundespräsident auch nicht mit Kritik: „Jeder sollte wissen: Je kleiner die Schritte, desto mehr Schritte muss er machen.“ In ihrer Regierungserklärung hatte Merkel eine Politik der kleinen Schritte angekündigt. Der Politik schlug er vor, sich an US-Modellen zu orientieren, wo so genannten Langzeitarbeitslosen eine soziale Grundsicherung staatlich garantiert werde.\n\nAuch bezüglich des Wahlkampfes von Merkels Amtsvorgänger Gerhard Schröder nahm Köhler kein Blatt vor den Mund. Die Angriffe auf den CDU-Finanzexperten Paul Kirchhoff, der zum Wahlkampfteam von Angela Merkel gehört hatte, wollte er eigentlich schon während des Wahlkampfes zurückweisen, hielt sich damals jedoch noch zurück. Seine Meinung zu Kirchhoff: „Ich dachte, es darf doch nicht wahr sein, dass man einen zwar eigenwilligen, aber doch auch klugen Mann wie Paul Kirchhof als Fantasten und Anwalt der sozialen Kälte stigmatisiert.”",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 154,
+            "end": 22,
+            "id": 0,
+            "text": "Der deutsche Bundespräsident hat in einem Interview mit der deutschen Illustrierten „Stern“ pointiert zu einigen politischen Kernfragen Stellung genommen. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Der",
+                "deutsche",
+                "Bundespräsident",
+                "hat",
+                "in",
+                "einem",
+                "Interview",
+                "mit",
+                "der",
+                "deutschen",
+                "Illustrierten",
+                "„",
+                "Stern",
+                "“",
+                "pointiert",
+                "zu",
+                "einigen",
+                "politischen",
+                "Kernfragen",
+                "Stellung",
+                "genommen",
+                "."
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 155,
+            "charEnd": 281,
+            "end": 42,
+            "id": 1,
+            "text": "Dabei ließ er teilweise die dem Amt gemäße übliche parteipolitische Zurückhaltung beiseite und sparte nicht mit Lob und Tadel.",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "tokens": [
+                "Dabei",
+                "ließ",
+                "er",
+                "teilweise",
+                "die",
+                "dem",
+                "Amt",
+                "gemäße",
+                "übliche",
+                "parteipolitische",
+                "Zurückhaltung",
+                "beiseite",
+                "und",
+                "sparte",
+                "nicht",
+                "mit",
+                "Lob",
+                "und",
+                "Tadel",
+                "."
+            ]
+        },
+        {
+            "begin": 42,
+            "charBegin": 283,
+            "charEnd": 409,
+            "end": 60,
+            "id": 2,
+            "text": "Der Bundespräsident konstatierte im Zusammenhang mit der Globalisierungsdebatte eine wachsende „Kluft zwischen Arm und Reich“. ",
+            "tokenIds": [
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59
+            ],
+            "tokens": [
+                "Der",
+                "Bundespräsident",
+                "konstatierte",
+                "im",
+                "Zusammenhang",
+                "mit",
+                "der",
+                "Globalisierungsdebatte",
+                "eine",
+                "wachsende",
+                "„",
+                "Kluft",
+                "zwischen",
+                "Arm",
+                "und",
+                "Reich",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 60,
+            "charBegin": 410,
+            "charEnd": 577,
+            "end": 80,
+            "id": 3,
+            "text": "Köhler warb offensiv für eine Diskussion über eine Ertragsbeteiligung der Arbeitnehmer beziehungsweise eine stärkere Beteiligung der Arbeitnehmer am Produktivvermögen. ",
+            "tokenIds": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79
+            ],
+            "tokens": [
+                "Köhler",
+                "warb",
+                "offensiv",
+                "für",
+                "eine",
+                "Diskussion",
+                "über",
+                "eine",
+                "Ertragsbeteiligung",
+                "der",
+                "Arbeitnehmer",
+                "beziehungsweise",
+                "eine",
+                "stärkere",
+                "Beteiligung",
+                "der",
+                "Arbeitnehmer",
+                "am",
+                "Produktivvermögen",
+                "."
+            ]
+        },
+        {
+            "begin": 80,
+            "charBegin": 578,
+            "charEnd": 808,
+            "end": 117,
+            "id": 4,
+            "text": "An die Gewerkschaften gewandt sagte Köhler, sie müssten ihre Zurückhaltung in dieser Frage aufgeben und bemühte hier das Bild vom „gemeinsamen Boot“, in dem Arbeitnehmer und Arbeitgeber angesichts des weltweiten Wettbewerbs säßen. ",
+            "tokenIds": [
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116
+            ],
+            "tokens": [
+                "An",
+                "die",
+                "Gewerkschaften",
+                "gewandt",
+                "sagte",
+                "Köhler",
+                ",",
+                "sie",
+                "müssten",
+                "ihre",
+                "Zurückhaltung",
+                "in",
+                "dieser",
+                "Frage",
+                "aufgeben",
+                "und",
+                "bemühte",
+                "hier",
+                "das",
+                "Bild",
+                "vom",
+                "„",
+                "gemeinsamen",
+                "Boot",
+                "“",
+                ",",
+                "in",
+                "dem",
+                "Arbeitnehmer",
+                "und",
+                "Arbeitgeber",
+                "angesichts",
+                "des",
+                "weltweiten",
+                "Wettbewerbs",
+                "säßen",
+                "."
+            ]
+        },
+        {
+            "begin": 117,
+            "charBegin": 811,
+            "charEnd": 1039,
+            "end": 155,
+            "id": 5,
+            "text": "Die Arbeit der großen Koalition in den ersten Wochen seit dem Amtsantritt von Angela Merkel (CDU) als Bundeskanzlerin lobte er einerseits mit den Worten: „Die Ostdeutschen Angela Merkel und Matthias Platzeck handeln pragmatisch. ",
+            "tokenIds": [
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154
+            ],
+            "tokens": [
+                "Die",
+                "Arbeit",
+                "der",
+                "großen",
+                "Koalition",
+                "in",
+                "den",
+                "ersten",
+                "Wochen",
+                "seit",
+                "dem",
+                "Amtsantritt",
+                "von",
+                "Angela",
+                "Merkel",
+                "(",
+                "CDU",
+                ")",
+                "als",
+                "Bundeskanzlerin",
+                "lobte",
+                "er",
+                "einerseits",
+                "mit",
+                "den",
+                "Worten",
+                ":",
+                "„",
+                "Die",
+                "Ostdeutschen",
+                "Angela",
+                "Merkel",
+                "und",
+                "Matthias",
+                "Platzeck",
+                "handeln",
+                "pragmatisch",
+                "."
+            ]
+        },
+        {
+            "begin": 155,
+            "charBegin": 1040,
+            "charEnd": 1107,
+            "end": 166,
+            "id": 6,
+            "text": "Es gibt weniger Inszenierung, weniger Politik- und Imponiergehabe.“ ",
+            "tokenIds": [
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165
+            ],
+            "tokens": [
+                "Es",
+                "gibt",
+                "weniger",
+                "Inszenierung",
+                ",",
+                "weniger",
+                "Politik-",
+                "und",
+                "Imponiergehabe",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "begin": 166,
+            "charBegin": 1108,
+            "charEnd": 1204,
+            "end": 182,
+            "id": 7,
+            "text": "Als wichtige Aufgabe der Politik sah es Köhler an, eine Reform der Sozialsysteme voranzutreiben. ",
+            "tokenIds": [
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181
+            ],
+            "tokens": [
+                "Als",
+                "wichtige",
+                "Aufgabe",
+                "der",
+                "Politik",
+                "sah",
+                "es",
+                "Köhler",
+                "an",
+                ",",
+                "eine",
+                "Reform",
+                "der",
+                "Sozialsysteme",
+                "voranzutreiben",
+                "."
+            ]
+        },
+        {
+            "begin": 182,
+            "charBegin": 1205,
+            "charEnd": 1259,
+            "end": 191,
+            "id": 8,
+            "text": "Hier sparte der Bundespräsident auch nicht mit Kritik: ",
+            "tokenIds": [
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190
+            ],
+            "tokens": [
+                "Hier",
+                "sparte",
+                "der",
+                "Bundespräsident",
+                "auch",
+                "nicht",
+                "mit",
+                "Kritik",
+                ":"
+            ]
+        },
+        {
+            "begin": 191,
+            "charBegin": 1260,
+            "charEnd": 1305,
+            "end": 200,
+            "id": 9,
+            "text": "„Jeder sollte wissen: Je kleiner die Schritte",
+            "tokenIds": [
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199
+            ],
+            "tokens": [
+                "„",
+                "Jeder",
+                "sollte",
+                "wissen",
+                ":",
+                "Je",
+                "kleiner",
+                "die",
+                "Schritte"
+            ]
+        },
+        {
+            "begin": 200,
+            "charBegin": 1305,
+            "charEnd": 1343,
+            "end": 209,
+            "id": 10,
+            "text": ", desto mehr Schritte muss er machen.“ ",
+            "tokenIds": [
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208
+            ],
+            "tokens": [
+                ",",
+                "desto",
+                "mehr",
+                "Schritte",
+                "muss",
+                "er",
+                "machen",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "begin": 209,
+            "charBegin": 1344,
+            "charEnd": 1432,
+            "end": 221,
+            "id": 11,
+            "text": "In ihrer Regierungserklärung hatte Merkel eine Politik der kleinen Schritte angekündigt. ",
+            "tokenIds": [
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220
+            ],
+            "tokens": [
+                "In",
+                "ihrer",
+                "Regierungserklärung",
+                "hatte",
+                "Merkel",
+                "eine",
+                "Politik",
+                "der",
+                "kleinen",
+                "Schritte",
+                "angekündigt",
+                "."
+            ]
+        },
+        {
+            "begin": 221,
+            "charBegin": 1433,
+            "charEnd": 1588,
+            "end": 244,
+            "id": 12,
+            "text": "Der Politik schlug er vor, sich an US-Modellen zu orientieren, wo so genannten Langzeitarbeitslosen eine soziale Grundsicherung staatlich garantiert werde.",
+            "tokenIds": [
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243
+            ],
+            "tokens": [
+                "Der",
+                "Politik",
+                "schlug",
+                "er",
+                "vor",
+                ",",
+                "sich",
+                "an",
+                "US-Modellen",
+                "zu",
+                "orientieren",
+                ",",
+                "wo",
+                "so",
+                "genannten",
+                "Langzeitarbeitslosen",
+                "eine",
+                "soziale",
+                "Grundsicherung",
+                "staatlich",
+                "garantiert",
+                "werde",
+                "."
+            ]
+        },
+        {
+            "begin": 244,
+            "charBegin": 1590,
+            "charEnd": 1700,
+            "end": 261,
+            "id": 13,
+            "text": "Auch bezüglich des Wahlkampfes von Merkels Amtsvorgänger Gerhard Schröder nahm Köhler kein Blatt vor den Mund. ",
+            "tokenIds": [
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255,
+                256,
+                257,
+                258,
+                259,
+                260
+            ],
+            "tokens": [
+                "Auch",
+                "bezüglich",
+                "des",
+                "Wahlkampfes",
+                "von",
+                "Merkels",
+                "Amtsvorgänger",
+                "Gerhard",
+                "Schröder",
+                "nahm",
+                "Köhler",
+                "kein",
+                "Blatt",
+                "vor",
+                "den",
+                "Mund",
+                "."
+            ]
+        },
+        {
+            "begin": 261,
+            "charBegin": 1701,
+            "charEnd": 1913,
+            "end": 294,
+            "id": 14,
+            "text": "Die Angriffe auf den CDU-Finanzexperten Paul Kirchhoff, der zum Wahlkampfteam von Angela Merkel gehört hatte, wollte er eigentlich schon während des Wahlkampfes zurückweisen, hielt sich damals jedoch noch zurück. ",
+            "tokenIds": [
+                261,
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273,
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292,
+                293
+            ],
+            "tokens": [
+                "Die",
+                "Angriffe",
+                "auf",
+                "den",
+                "CDU-Finanzexperten",
+                "Paul",
+                "Kirchhoff",
+                ",",
+                "der",
+                "zum",
+                "Wahlkampfteam",
+                "von",
+                "Angela",
+                "Merkel",
+                "gehört",
+                "hatte",
+                ",",
+                "wollte",
+                "er",
+                "eigentlich",
+                "schon",
+                "während",
+                "des",
+                "Wahlkampfes",
+                "zurückweisen",
+                ",",
+                "hielt",
+                "sich",
+                "damals",
+                "jedoch",
+                "noch",
+                "zurück",
+                "."
+            ]
+        },
+        {
+            "begin": 294,
+            "charBegin": 1914,
+            "charEnd": 2124,
+            "end": 334,
+            "id": 15,
+            "text": "Seine Meinung zu Kirchhoff: „Ich dachte, es darf doch nicht wahr sein, dass man einen zwar eigenwilligen, aber doch auch klugen Mann wie Paul Kirchhof als Fantasten und Anwalt der sozialen Kälte stigmatisiert.”",
+            "tokenIds": [
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306,
+                307,
+                308,
+                309,
+                310,
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322,
+                323,
+                324,
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332,
+                333
+            ],
+            "tokens": [
+                "Seine",
+                "Meinung",
+                "zu",
+                "Kirchhoff",
+                ":",
+                "„",
+                "Ich",
+                "dachte",
+                ",",
+                "es",
+                "darf",
+                "doch",
+                "nicht",
+                "wahr",
+                "sein",
+                ",",
+                "dass",
+                "man",
+                "einen",
+                "zwar",
+                "eigenwilligen",
+                ",",
+                "aber",
+                "doch",
+                "auch",
+                "klugen",
+                "Mann",
+                "wie",
+                "Paul",
+                "Kirchhof",
+                "als",
+                "Fantasten",
+                "und",
+                "Anwalt",
+                "der",
+                "sozialen",
+                "Kälte",
+                "stigmatisiert",
+                ".",
+                "”"
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 12,
+            "id": 1,
+            "sentence": 1,
+            "text": "deutsche",
+            "word": 2
+        },
+        {
+            "charBegin": 13,
+            "charEnd": 28,
+            "id": 2,
+            "sentence": 1,
+            "text": "Bundespräsident",
+            "word": 3
+        },
+        {
+            "charBegin": 29,
+            "charEnd": 32,
+            "id": 3,
+            "sentence": 1,
+            "text": "hat",
+            "word": 4
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 35,
+            "id": 4,
+            "sentence": 1,
+            "text": "in",
+            "word": 5
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 41,
+            "id": 5,
+            "sentence": 1,
+            "text": "einem",
+            "word": 6
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 51,
+            "id": 6,
+            "sentence": 1,
+            "text": "Interview",
+            "word": 7
+        },
+        {
+            "charBegin": 52,
+            "charEnd": 55,
+            "id": 7,
+            "sentence": 1,
+            "text": "mit",
+            "word": 8
+        },
+        {
+            "charBegin": 56,
+            "charEnd": 59,
+            "id": 8,
+            "sentence": 1,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 69,
+            "id": 9,
+            "sentence": 1,
+            "text": "deutschen",
+            "word": 10
+        },
+        {
+            "charBegin": 70,
+            "charEnd": 83,
+            "id": 10,
+            "sentence": 1,
+            "text": "Illustrierten",
+            "word": 11
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 85,
+            "id": 11,
+            "sentence": 1,
+            "text": "„",
+            "word": 12
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 90,
+            "id": 12,
+            "sentence": 1,
+            "text": "Stern",
+            "word": 13
+        },
+        {
+            "charBegin": 90,
+            "charEnd": 91,
+            "id": 13,
+            "sentence": 1,
+            "text": "“",
+            "word": 14
+        },
+        {
+            "charBegin": 92,
+            "charEnd": 101,
+            "id": 14,
+            "sentence": 1,
+            "text": "pointiert",
+            "word": 15
+        },
+        {
+            "charBegin": 102,
+            "charEnd": 104,
+            "id": 15,
+            "sentence": 1,
+            "text": "zu",
+            "word": 16
+        },
+        {
+            "charBegin": 105,
+            "charEnd": 112,
+            "id": 16,
+            "sentence": 1,
+            "text": "einigen",
+            "word": 17
+        },
+        {
+            "charBegin": 113,
+            "charEnd": 124,
+            "id": 17,
+            "sentence": 1,
+            "text": "politischen",
+            "word": 18
+        },
+        {
+            "charBegin": 125,
+            "charEnd": 135,
+            "id": 18,
+            "sentence": 1,
+            "text": "Kernfragen",
+            "word": 19
+        },
+        {
+            "charBegin": 136,
+            "charEnd": 144,
+            "id": 19,
+            "sentence": 1,
+            "text": "Stellung",
+            "word": 20
+        },
+        {
+            "charBegin": 145,
+            "charEnd": 153,
+            "id": 20,
+            "sentence": 1,
+            "text": "genommen",
+            "word": 21
+        },
+        {
+            "charBegin": 153,
+            "charEnd": 154,
+            "id": 21,
+            "sentence": 1,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 155,
+            "charEnd": 160,
+            "id": 22,
+            "sentence": 2,
+            "text": "Dabei",
+            "word": 1
+        },
+        {
+            "charBegin": 161,
+            "charEnd": 165,
+            "id": 23,
+            "sentence": 2,
+            "text": "ließ",
+            "word": 2
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 168,
+            "id": 24,
+            "sentence": 2,
+            "text": "er",
+            "word": 3
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 178,
+            "id": 25,
+            "sentence": 2,
+            "text": "teilweise",
+            "word": 4
+        },
+        {
+            "charBegin": 179,
+            "charEnd": 182,
+            "id": 26,
+            "sentence": 2,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 186,
+            "id": 27,
+            "sentence": 2,
+            "text": "dem",
+            "word": 6
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 190,
+            "id": 28,
+            "sentence": 2,
+            "text": "Amt",
+            "word": 7
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 197,
+            "id": 29,
+            "sentence": 2,
+            "text": "gemäße",
+            "word": 8
+        },
+        {
+            "charBegin": 198,
+            "charEnd": 205,
+            "id": 30,
+            "sentence": 2,
+            "text": "übliche",
+            "word": 9
+        },
+        {
+            "charBegin": 206,
+            "charEnd": 222,
+            "id": 31,
+            "sentence": 2,
+            "text": "parteipolitische",
+            "word": 10
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 236,
+            "id": 32,
+            "sentence": 2,
+            "text": "Zurückhaltung",
+            "word": 11
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 245,
+            "id": 33,
+            "sentence": 2,
+            "text": "beiseite",
+            "word": 12
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 249,
+            "id": 34,
+            "sentence": 2,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 256,
+            "id": 35,
+            "sentence": 2,
+            "text": "sparte",
+            "word": 14
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 262,
+            "id": 36,
+            "sentence": 2,
+            "text": "nicht",
+            "word": 15
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 266,
+            "id": 37,
+            "sentence": 2,
+            "text": "mit",
+            "word": 16
+        },
+        {
+            "charBegin": 267,
+            "charEnd": 270,
+            "id": 38,
+            "sentence": 2,
+            "text": "Lob",
+            "word": 17
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 274,
+            "id": 39,
+            "sentence": 2,
+            "text": "und",
+            "word": 18
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 280,
+            "id": 40,
+            "sentence": 2,
+            "text": "Tadel",
+            "word": 19
+        },
+        {
+            "charBegin": 280,
+            "charEnd": 281,
+            "id": 41,
+            "sentence": 2,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 283,
+            "charEnd": 286,
+            "id": 42,
+            "sentence": 3,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 287,
+            "charEnd": 302,
+            "id": 43,
+            "sentence": 3,
+            "text": "Bundespräsident",
+            "word": 2
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 315,
+            "id": 44,
+            "sentence": 3,
+            "text": "konstatierte",
+            "word": 3
+        },
+        {
+            "charBegin": 316,
+            "charEnd": 318,
+            "id": 45,
+            "sentence": 3,
+            "text": "im",
+            "word": 4
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 331,
+            "id": 46,
+            "sentence": 3,
+            "text": "Zusammenhang",
+            "word": 5
+        },
+        {
+            "charBegin": 332,
+            "charEnd": 335,
+            "id": 47,
+            "sentence": 3,
+            "text": "mit",
+            "word": 6
+        },
+        {
+            "charBegin": 336,
+            "charEnd": 339,
+            "id": 48,
+            "sentence": 3,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 340,
+            "charEnd": 362,
+            "id": 49,
+            "sentence": 3,
+            "text": "Globalisierungsdebatte",
+            "word": 8
+        },
+        {
+            "charBegin": 363,
+            "charEnd": 367,
+            "id": 50,
+            "sentence": 3,
+            "text": "eine",
+            "word": 9
+        },
+        {
+            "charBegin": 368,
+            "charEnd": 377,
+            "id": 51,
+            "sentence": 3,
+            "text": "wachsende",
+            "word": 10
+        },
+        {
+            "charBegin": 378,
+            "charEnd": 379,
+            "id": 52,
+            "sentence": 3,
+            "text": "„",
+            "word": 11
+        },
+        {
+            "charBegin": 379,
+            "charEnd": 384,
+            "id": 53,
+            "sentence": 3,
+            "text": "Kluft",
+            "word": 12
+        },
+        {
+            "charBegin": 385,
+            "charEnd": 393,
+            "id": 54,
+            "sentence": 3,
+            "text": "zwischen",
+            "word": 13
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 397,
+            "id": 55,
+            "sentence": 3,
+            "text": "Arm",
+            "word": 14
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 401,
+            "id": 56,
+            "sentence": 3,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 402,
+            "charEnd": 407,
+            "id": 57,
+            "sentence": 3,
+            "text": "Reich",
+            "word": 16
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 408,
+            "id": 58,
+            "sentence": 3,
+            "text": "“",
+            "word": 17
+        },
+        {
+            "charBegin": 408,
+            "charEnd": 409,
+            "id": 59,
+            "sentence": 3,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 410,
+            "charEnd": 416,
+            "id": 60,
+            "sentence": 4,
+            "text": "Köhler",
+            "word": 1
+        },
+        {
+            "charBegin": 417,
+            "charEnd": 421,
+            "id": 61,
+            "sentence": 4,
+            "text": "warb",
+            "word": 2
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 430,
+            "id": 62,
+            "sentence": 4,
+            "text": "offensiv",
+            "word": 3
+        },
+        {
+            "charBegin": 431,
+            "charEnd": 434,
+            "id": 63,
+            "sentence": 4,
+            "text": "für",
+            "word": 4
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 439,
+            "id": 64,
+            "sentence": 4,
+            "text": "eine",
+            "word": 5
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 450,
+            "id": 65,
+            "sentence": 4,
+            "text": "Diskussion",
+            "word": 6
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 455,
+            "id": 66,
+            "sentence": 4,
+            "text": "über",
+            "word": 7
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 460,
+            "id": 67,
+            "sentence": 4,
+            "text": "eine",
+            "word": 8
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 479,
+            "id": 68,
+            "sentence": 4,
+            "text": "Ertragsbeteiligung",
+            "word": 9
+        },
+        {
+            "charBegin": 480,
+            "charEnd": 483,
+            "id": 69,
+            "sentence": 4,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 484,
+            "charEnd": 496,
+            "id": 70,
+            "sentence": 4,
+            "text": "Arbeitnehmer",
+            "word": 11
+        },
+        {
+            "charBegin": 497,
+            "charEnd": 512,
+            "id": 71,
+            "sentence": 4,
+            "text": "beziehungsweise",
+            "word": 12
+        },
+        {
+            "charBegin": 513,
+            "charEnd": 517,
+            "id": 72,
+            "sentence": 4,
+            "text": "eine",
+            "word": 13
+        },
+        {
+            "charBegin": 518,
+            "charEnd": 526,
+            "id": 73,
+            "sentence": 4,
+            "text": "stärkere",
+            "word": 14
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 538,
+            "id": 74,
+            "sentence": 4,
+            "text": "Beteiligung",
+            "word": 15
+        },
+        {
+            "charBegin": 539,
+            "charEnd": 542,
+            "id": 75,
+            "sentence": 4,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 543,
+            "charEnd": 555,
+            "id": 76,
+            "sentence": 4,
+            "text": "Arbeitnehmer",
+            "word": 17
+        },
+        {
+            "charBegin": 556,
+            "charEnd": 558,
+            "id": 77,
+            "sentence": 4,
+            "text": "am",
+            "word": 18
+        },
+        {
+            "charBegin": 559,
+            "charEnd": 576,
+            "id": 78,
+            "sentence": 4,
+            "text": "Produktivvermögen",
+            "word": 19
+        },
+        {
+            "charBegin": 576,
+            "charEnd": 577,
+            "id": 79,
+            "sentence": 4,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 578,
+            "charEnd": 580,
+            "id": 80,
+            "sentence": 5,
+            "text": "An",
+            "word": 1
+        },
+        {
+            "charBegin": 581,
+            "charEnd": 584,
+            "id": 81,
+            "sentence": 5,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 585,
+            "charEnd": 599,
+            "id": 82,
+            "sentence": 5,
+            "text": "Gewerkschaften",
+            "word": 3
+        },
+        {
+            "charBegin": 600,
+            "charEnd": 607,
+            "id": 83,
+            "sentence": 5,
+            "text": "gewandt",
+            "word": 4
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 613,
+            "id": 84,
+            "sentence": 5,
+            "text": "sagte",
+            "word": 5
+        },
+        {
+            "charBegin": 614,
+            "charEnd": 620,
+            "id": 85,
+            "sentence": 5,
+            "text": "Köhler",
+            "word": 6
+        },
+        {
+            "charBegin": 620,
+            "charEnd": 621,
+            "id": 86,
+            "sentence": 5,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 625,
+            "id": 87,
+            "sentence": 5,
+            "text": "sie",
+            "word": 8
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 633,
+            "id": 88,
+            "sentence": 5,
+            "text": "müssten",
+            "word": 9
+        },
+        {
+            "charBegin": 634,
+            "charEnd": 638,
+            "id": 89,
+            "sentence": 5,
+            "text": "ihre",
+            "word": 10
+        },
+        {
+            "charBegin": 639,
+            "charEnd": 652,
+            "id": 90,
+            "sentence": 5,
+            "text": "Zurückhaltung",
+            "word": 11
+        },
+        {
+            "charBegin": 653,
+            "charEnd": 655,
+            "id": 91,
+            "sentence": 5,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 656,
+            "charEnd": 662,
+            "id": 92,
+            "sentence": 5,
+            "text": "dieser",
+            "word": 13
+        },
+        {
+            "charBegin": 663,
+            "charEnd": 668,
+            "id": 93,
+            "sentence": 5,
+            "text": "Frage",
+            "word": 14
+        },
+        {
+            "charBegin": 669,
+            "charEnd": 677,
+            "id": 94,
+            "sentence": 5,
+            "text": "aufgeben",
+            "word": 15
+        },
+        {
+            "charBegin": 678,
+            "charEnd": 681,
+            "id": 95,
+            "sentence": 5,
+            "text": "und",
+            "word": 16
+        },
+        {
+            "charBegin": 682,
+            "charEnd": 689,
+            "id": 96,
+            "sentence": 5,
+            "text": "bemühte",
+            "word": 17
+        },
+        {
+            "charBegin": 690,
+            "charEnd": 694,
+            "id": 97,
+            "sentence": 5,
+            "text": "hier",
+            "word": 18
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 698,
+            "id": 98,
+            "sentence": 5,
+            "text": "das",
+            "word": 19
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 703,
+            "id": 99,
+            "sentence": 5,
+            "text": "Bild",
+            "word": 20
+        },
+        {
+            "charBegin": 704,
+            "charEnd": 707,
+            "id": 100,
+            "sentence": 5,
+            "text": "vom",
+            "word": 21
+        },
+        {
+            "charBegin": 708,
+            "charEnd": 709,
+            "id": 101,
+            "sentence": 5,
+            "text": "„",
+            "word": 22
+        },
+        {
+            "charBegin": 709,
+            "charEnd": 720,
+            "id": 102,
+            "sentence": 5,
+            "text": "gemeinsamen",
+            "word": 23
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 725,
+            "id": 103,
+            "sentence": 5,
+            "text": "Boot",
+            "word": 24
+        },
+        {
+            "charBegin": 725,
+            "charEnd": 726,
+            "id": 104,
+            "sentence": 5,
+            "text": "“",
+            "word": 25
+        },
+        {
+            "charBegin": 726,
+            "charEnd": 727,
+            "id": 105,
+            "sentence": 5,
+            "text": ",",
+            "word": 26
+        },
+        {
+            "charBegin": 728,
+            "charEnd": 730,
+            "id": 106,
+            "sentence": 5,
+            "text": "in",
+            "word": 27
+        },
+        {
+            "charBegin": 731,
+            "charEnd": 734,
+            "id": 107,
+            "sentence": 5,
+            "text": "dem",
+            "word": 28
+        },
+        {
+            "charBegin": 735,
+            "charEnd": 747,
+            "id": 108,
+            "sentence": 5,
+            "text": "Arbeitnehmer",
+            "word": 29
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 751,
+            "id": 109,
+            "sentence": 5,
+            "text": "und",
+            "word": 30
+        },
+        {
+            "charBegin": 752,
+            "charEnd": 763,
+            "id": 110,
+            "sentence": 5,
+            "text": "Arbeitgeber",
+            "word": 31
+        },
+        {
+            "charBegin": 764,
+            "charEnd": 774,
+            "id": 111,
+            "sentence": 5,
+            "text": "angesichts",
+            "word": 32
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 778,
+            "id": 112,
+            "sentence": 5,
+            "text": "des",
+            "word": 33
+        },
+        {
+            "charBegin": 779,
+            "charEnd": 789,
+            "id": 113,
+            "sentence": 5,
+            "text": "weltweiten",
+            "word": 34
+        },
+        {
+            "charBegin": 790,
+            "charEnd": 801,
+            "id": 114,
+            "sentence": 5,
+            "text": "Wettbewerbs",
+            "word": 35
+        },
+        {
+            "charBegin": 802,
+            "charEnd": 807,
+            "id": 115,
+            "sentence": 5,
+            "text": "säßen",
+            "word": 36
+        },
+        {
+            "charBegin": 807,
+            "charEnd": 808,
+            "id": 116,
+            "sentence": 5,
+            "text": ".",
+            "word": 37
+        },
+        {
+            "charBegin": 811,
+            "charEnd": 814,
+            "id": 117,
+            "sentence": 6,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 815,
+            "charEnd": 821,
+            "id": 118,
+            "sentence": 6,
+            "text": "Arbeit",
+            "word": 2
+        },
+        {
+            "charBegin": 822,
+            "charEnd": 825,
+            "id": 119,
+            "sentence": 6,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 826,
+            "charEnd": 832,
+            "id": 120,
+            "sentence": 6,
+            "text": "großen",
+            "word": 4
+        },
+        {
+            "charBegin": 833,
+            "charEnd": 842,
+            "id": 121,
+            "sentence": 6,
+            "text": "Koalition",
+            "word": 5
+        },
+        {
+            "charBegin": 843,
+            "charEnd": 845,
+            "id": 122,
+            "sentence": 6,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 846,
+            "charEnd": 849,
+            "id": 123,
+            "sentence": 6,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 850,
+            "charEnd": 856,
+            "id": 124,
+            "sentence": 6,
+            "text": "ersten",
+            "word": 8
+        },
+        {
+            "charBegin": 857,
+            "charEnd": 863,
+            "id": 125,
+            "sentence": 6,
+            "text": "Wochen",
+            "word": 9
+        },
+        {
+            "charBegin": 864,
+            "charEnd": 868,
+            "id": 126,
+            "sentence": 6,
+            "text": "seit",
+            "word": 10
+        },
+        {
+            "charBegin": 869,
+            "charEnd": 872,
+            "id": 127,
+            "sentence": 6,
+            "text": "dem",
+            "word": 11
+        },
+        {
+            "charBegin": 873,
+            "charEnd": 884,
+            "id": 128,
+            "sentence": 6,
+            "text": "Amtsantritt",
+            "word": 12
+        },
+        {
+            "charBegin": 885,
+            "charEnd": 888,
+            "id": 129,
+            "sentence": 6,
+            "text": "von",
+            "word": 13
+        },
+        {
+            "charBegin": 889,
+            "charEnd": 895,
+            "id": 130,
+            "sentence": 6,
+            "text": "Angela",
+            "word": 14
+        },
+        {
+            "charBegin": 896,
+            "charEnd": 902,
+            "id": 131,
+            "sentence": 6,
+            "text": "Merkel",
+            "word": 15
+        },
+        {
+            "charBegin": 903,
+            "charEnd": 904,
+            "id": 132,
+            "sentence": 6,
+            "text": "(",
+            "word": 16
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 907,
+            "id": 133,
+            "sentence": 6,
+            "text": "CDU",
+            "word": 17
+        },
+        {
+            "charBegin": 907,
+            "charEnd": 908,
+            "id": 134,
+            "sentence": 6,
+            "text": ")",
+            "word": 18
+        },
+        {
+            "charBegin": 909,
+            "charEnd": 912,
+            "id": 135,
+            "sentence": 6,
+            "text": "als",
+            "word": 19
+        },
+        {
+            "charBegin": 913,
+            "charEnd": 928,
+            "id": 136,
+            "sentence": 6,
+            "text": "Bundeskanzlerin",
+            "word": 20
+        },
+        {
+            "charBegin": 929,
+            "charEnd": 934,
+            "id": 137,
+            "sentence": 6,
+            "text": "lobte",
+            "word": 21
+        },
+        {
+            "charBegin": 935,
+            "charEnd": 937,
+            "id": 138,
+            "sentence": 6,
+            "text": "er",
+            "word": 22
+        },
+        {
+            "charBegin": 938,
+            "charEnd": 948,
+            "id": 139,
+            "sentence": 6,
+            "text": "einerseits",
+            "word": 23
+        },
+        {
+            "charBegin": 949,
+            "charEnd": 952,
+            "id": 140,
+            "sentence": 6,
+            "text": "mit",
+            "word": 24
+        },
+        {
+            "charBegin": 953,
+            "charEnd": 956,
+            "id": 141,
+            "sentence": 6,
+            "text": "den",
+            "word": 25
+        },
+        {
+            "charBegin": 957,
+            "charEnd": 963,
+            "id": 142,
+            "sentence": 6,
+            "text": "Worten",
+            "word": 26
+        },
+        {
+            "charBegin": 963,
+            "charEnd": 964,
+            "id": 143,
+            "sentence": 6,
+            "text": ":",
+            "word": 27
+        },
+        {
+            "charBegin": 965,
+            "charEnd": 966,
+            "id": 144,
+            "sentence": 6,
+            "text": "„",
+            "word": 28
+        },
+        {
+            "charBegin": 966,
+            "charEnd": 969,
+            "id": 145,
+            "sentence": 6,
+            "text": "Die",
+            "word": 29
+        },
+        {
+            "charBegin": 970,
+            "charEnd": 982,
+            "id": 146,
+            "sentence": 6,
+            "text": "Ostdeutschen",
+            "word": 30
+        },
+        {
+            "charBegin": 983,
+            "charEnd": 989,
+            "id": 147,
+            "sentence": 6,
+            "text": "Angela",
+            "word": 31
+        },
+        {
+            "charBegin": 990,
+            "charEnd": 996,
+            "id": 148,
+            "sentence": 6,
+            "text": "Merkel",
+            "word": 32
+        },
+        {
+            "charBegin": 997,
+            "charEnd": 1000,
+            "id": 149,
+            "sentence": 6,
+            "text": "und",
+            "word": 33
+        },
+        {
+            "charBegin": 1001,
+            "charEnd": 1009,
+            "id": 150,
+            "sentence": 6,
+            "text": "Matthias",
+            "word": 34
+        },
+        {
+            "charBegin": 1010,
+            "charEnd": 1018,
+            "id": 151,
+            "sentence": 6,
+            "text": "Platzeck",
+            "word": 35
+        },
+        {
+            "charBegin": 1019,
+            "charEnd": 1026,
+            "id": 152,
+            "sentence": 6,
+            "text": "handeln",
+            "word": 36
+        },
+        {
+            "charBegin": 1027,
+            "charEnd": 1038,
+            "id": 153,
+            "sentence": 6,
+            "text": "pragmatisch",
+            "word": 37
+        },
+        {
+            "charBegin": 1038,
+            "charEnd": 1039,
+            "id": 154,
+            "sentence": 6,
+            "text": ".",
+            "word": 38
+        },
+        {
+            "charBegin": 1040,
+            "charEnd": 1042,
+            "id": 155,
+            "sentence": 7,
+            "text": "Es",
+            "word": 1
+        },
+        {
+            "charBegin": 1043,
+            "charEnd": 1047,
+            "id": 156,
+            "sentence": 7,
+            "text": "gibt",
+            "word": 2
+        },
+        {
+            "charBegin": 1048,
+            "charEnd": 1055,
+            "id": 157,
+            "sentence": 7,
+            "text": "weniger",
+            "word": 3
+        },
+        {
+            "charBegin": 1056,
+            "charEnd": 1068,
+            "id": 158,
+            "sentence": 7,
+            "text": "Inszenierung",
+            "word": 4
+        },
+        {
+            "charBegin": 1068,
+            "charEnd": 1069,
+            "id": 159,
+            "sentence": 7,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 1070,
+            "charEnd": 1077,
+            "id": 160,
+            "sentence": 7,
+            "text": "weniger",
+            "word": 6
+        },
+        {
+            "charBegin": 1078,
+            "charEnd": 1086,
+            "id": 161,
+            "sentence": 7,
+            "text": "Politik-",
+            "word": 7
+        },
+        {
+            "charBegin": 1087,
+            "charEnd": 1090,
+            "id": 162,
+            "sentence": 7,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 1091,
+            "charEnd": 1105,
+            "id": 163,
+            "sentence": 7,
+            "text": "Imponiergehabe",
+            "word": 9
+        },
+        {
+            "charBegin": 1105,
+            "charEnd": 1106,
+            "id": 164,
+            "sentence": 7,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 1106,
+            "charEnd": 1107,
+            "id": 165,
+            "sentence": 7,
+            "text": "“",
+            "word": 11
+        },
+        {
+            "charBegin": 1108,
+            "charEnd": 1111,
+            "id": 166,
+            "sentence": 8,
+            "text": "Als",
+            "word": 1
+        },
+        {
+            "charBegin": 1112,
+            "charEnd": 1120,
+            "id": 167,
+            "sentence": 8,
+            "text": "wichtige",
+            "word": 2
+        },
+        {
+            "charBegin": 1121,
+            "charEnd": 1128,
+            "id": 168,
+            "sentence": 8,
+            "text": "Aufgabe",
+            "word": 3
+        },
+        {
+            "charBegin": 1129,
+            "charEnd": 1132,
+            "id": 169,
+            "sentence": 8,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 1133,
+            "charEnd": 1140,
+            "id": 170,
+            "sentence": 8,
+            "text": "Politik",
+            "word": 5
+        },
+        {
+            "charBegin": 1141,
+            "charEnd": 1144,
+            "id": 171,
+            "sentence": 8,
+            "text": "sah",
+            "word": 6
+        },
+        {
+            "charBegin": 1145,
+            "charEnd": 1147,
+            "id": 172,
+            "sentence": 8,
+            "text": "es",
+            "word": 7
+        },
+        {
+            "charBegin": 1148,
+            "charEnd": 1154,
+            "id": 173,
+            "sentence": 8,
+            "text": "Köhler",
+            "word": 8
+        },
+        {
+            "charBegin": 1155,
+            "charEnd": 1157,
+            "id": 174,
+            "sentence": 8,
+            "text": "an",
+            "word": 9
+        },
+        {
+            "charBegin": 1157,
+            "charEnd": 1158,
+            "id": 175,
+            "sentence": 8,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 1159,
+            "charEnd": 1163,
+            "id": 176,
+            "sentence": 8,
+            "text": "eine",
+            "word": 11
+        },
+        {
+            "charBegin": 1164,
+            "charEnd": 1170,
+            "id": 177,
+            "sentence": 8,
+            "text": "Reform",
+            "word": 12
+        },
+        {
+            "charBegin": 1171,
+            "charEnd": 1174,
+            "id": 178,
+            "sentence": 8,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 1175,
+            "charEnd": 1188,
+            "id": 179,
+            "sentence": 8,
+            "text": "Sozialsysteme",
+            "word": 14
+        },
+        {
+            "charBegin": 1189,
+            "charEnd": 1203,
+            "id": 180,
+            "sentence": 8,
+            "text": "voranzutreiben",
+            "word": 15
+        },
+        {
+            "charBegin": 1203,
+            "charEnd": 1204,
+            "id": 181,
+            "sentence": 8,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 1205,
+            "charEnd": 1209,
+            "id": 182,
+            "sentence": 9,
+            "text": "Hier",
+            "word": 1
+        },
+        {
+            "charBegin": 1210,
+            "charEnd": 1216,
+            "id": 183,
+            "sentence": 9,
+            "text": "sparte",
+            "word": 2
+        },
+        {
+            "charBegin": 1217,
+            "charEnd": 1220,
+            "id": 184,
+            "sentence": 9,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 1221,
+            "charEnd": 1236,
+            "id": 185,
+            "sentence": 9,
+            "text": "Bundespräsident",
+            "word": 4
+        },
+        {
+            "charBegin": 1237,
+            "charEnd": 1241,
+            "id": 186,
+            "sentence": 9,
+            "text": "auch",
+            "word": 5
+        },
+        {
+            "charBegin": 1242,
+            "charEnd": 1247,
+            "id": 187,
+            "sentence": 9,
+            "text": "nicht",
+            "word": 6
+        },
+        {
+            "charBegin": 1248,
+            "charEnd": 1251,
+            "id": 188,
+            "sentence": 9,
+            "text": "mit",
+            "word": 7
+        },
+        {
+            "charBegin": 1252,
+            "charEnd": 1258,
+            "id": 189,
+            "sentence": 9,
+            "text": "Kritik",
+            "word": 8
+        },
+        {
+            "charBegin": 1258,
+            "charEnd": 1259,
+            "id": 190,
+            "sentence": 9,
+            "text": ":",
+            "word": 9
+        },
+        {
+            "charBegin": 1260,
+            "charEnd": 1261,
+            "id": 191,
+            "sentence": 10,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 1261,
+            "charEnd": 1266,
+            "id": 192,
+            "sentence": 10,
+            "text": "Jeder",
+            "word": 2
+        },
+        {
+            "charBegin": 1267,
+            "charEnd": 1273,
+            "id": 193,
+            "sentence": 10,
+            "text": "sollte",
+            "word": 3
+        },
+        {
+            "charBegin": 1274,
+            "charEnd": 1280,
+            "id": 194,
+            "sentence": 10,
+            "text": "wissen",
+            "word": 4
+        },
+        {
+            "charBegin": 1280,
+            "charEnd": 1281,
+            "id": 195,
+            "sentence": 10,
+            "text": ":",
+            "word": 5
+        },
+        {
+            "charBegin": 1282,
+            "charEnd": 1284,
+            "id": 196,
+            "sentence": 10,
+            "text": "Je",
+            "word": 6
+        },
+        {
+            "charBegin": 1285,
+            "charEnd": 1292,
+            "id": 197,
+            "sentence": 10,
+            "text": "kleiner",
+            "word": 7
+        },
+        {
+            "charBegin": 1293,
+            "charEnd": 1296,
+            "id": 198,
+            "sentence": 10,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 1297,
+            "charEnd": 1305,
+            "id": 199,
+            "sentence": 10,
+            "text": "Schritte",
+            "word": 9
+        },
+        {
+            "charBegin": 1305,
+            "charEnd": 1306,
+            "id": 200,
+            "sentence": 11,
+            "text": ",",
+            "word": 1
+        },
+        {
+            "charBegin": 1307,
+            "charEnd": 1312,
+            "id": 201,
+            "sentence": 11,
+            "text": "desto",
+            "word": 2
+        },
+        {
+            "charBegin": 1313,
+            "charEnd": 1317,
+            "id": 202,
+            "sentence": 11,
+            "text": "mehr",
+            "word": 3
+        },
+        {
+            "charBegin": 1318,
+            "charEnd": 1326,
+            "id": 203,
+            "sentence": 11,
+            "text": "Schritte",
+            "word": 4
+        },
+        {
+            "charBegin": 1327,
+            "charEnd": 1331,
+            "id": 204,
+            "sentence": 11,
+            "text": "muss",
+            "word": 5
+        },
+        {
+            "charBegin": 1332,
+            "charEnd": 1334,
+            "id": 205,
+            "sentence": 11,
+            "text": "er",
+            "word": 6
+        },
+        {
+            "charBegin": 1335,
+            "charEnd": 1341,
+            "id": 206,
+            "sentence": 11,
+            "text": "machen",
+            "word": 7
+        },
+        {
+            "charBegin": 1341,
+            "charEnd": 1342,
+            "id": 207,
+            "sentence": 11,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 1342,
+            "charEnd": 1343,
+            "id": 208,
+            "sentence": 11,
+            "text": "“",
+            "word": 9
+        },
+        {
+            "charBegin": 1344,
+            "charEnd": 1346,
+            "id": 209,
+            "sentence": 12,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 1347,
+            "charEnd": 1352,
+            "id": 210,
+            "sentence": 12,
+            "text": "ihrer",
+            "word": 2
+        },
+        {
+            "charBegin": 1353,
+            "charEnd": 1372,
+            "id": 211,
+            "sentence": 12,
+            "text": "Regierungserklärung",
+            "word": 3
+        },
+        {
+            "charBegin": 1373,
+            "charEnd": 1378,
+            "id": 212,
+            "sentence": 12,
+            "text": "hatte",
+            "word": 4
+        },
+        {
+            "charBegin": 1379,
+            "charEnd": 1385,
+            "id": 213,
+            "sentence": 12,
+            "text": "Merkel",
+            "word": 5
+        },
+        {
+            "charBegin": 1386,
+            "charEnd": 1390,
+            "id": 214,
+            "sentence": 12,
+            "text": "eine",
+            "word": 6
+        },
+        {
+            "charBegin": 1391,
+            "charEnd": 1398,
+            "id": 215,
+            "sentence": 12,
+            "text": "Politik",
+            "word": 7
+        },
+        {
+            "charBegin": 1399,
+            "charEnd": 1402,
+            "id": 216,
+            "sentence": 12,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 1403,
+            "charEnd": 1410,
+            "id": 217,
+            "sentence": 12,
+            "text": "kleinen",
+            "word": 9
+        },
+        {
+            "charBegin": 1411,
+            "charEnd": 1419,
+            "id": 218,
+            "sentence": 12,
+            "text": "Schritte",
+            "word": 10
+        },
+        {
+            "charBegin": 1420,
+            "charEnd": 1431,
+            "id": 219,
+            "sentence": 12,
+            "text": "angekündigt",
+            "word": 11
+        },
+        {
+            "charBegin": 1431,
+            "charEnd": 1432,
+            "id": 220,
+            "sentence": 12,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 1433,
+            "charEnd": 1436,
+            "id": 221,
+            "sentence": 13,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1437,
+            "charEnd": 1444,
+            "id": 222,
+            "sentence": 13,
+            "text": "Politik",
+            "word": 2
+        },
+        {
+            "charBegin": 1445,
+            "charEnd": 1451,
+            "id": 223,
+            "sentence": 13,
+            "text": "schlug",
+            "word": 3
+        },
+        {
+            "charBegin": 1452,
+            "charEnd": 1454,
+            "id": 224,
+            "sentence": 13,
+            "text": "er",
+            "word": 4
+        },
+        {
+            "charBegin": 1455,
+            "charEnd": 1458,
+            "id": 225,
+            "sentence": 13,
+            "text": "vor",
+            "word": 5
+        },
+        {
+            "charBegin": 1458,
+            "charEnd": 1459,
+            "id": 226,
+            "sentence": 13,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 1460,
+            "charEnd": 1464,
+            "id": 227,
+            "sentence": 13,
+            "text": "sich",
+            "word": 7
+        },
+        {
+            "charBegin": 1465,
+            "charEnd": 1467,
+            "id": 228,
+            "sentence": 13,
+            "text": "an",
+            "word": 8
+        },
+        {
+            "charBegin": 1468,
+            "charEnd": 1479,
+            "id": 229,
+            "sentence": 13,
+            "text": "US-Modellen",
+            "word": 9
+        },
+        {
+            "charBegin": 1480,
+            "charEnd": 1482,
+            "id": 230,
+            "sentence": 13,
+            "text": "zu",
+            "word": 10
+        },
+        {
+            "charBegin": 1483,
+            "charEnd": 1494,
+            "id": 231,
+            "sentence": 13,
+            "text": "orientieren",
+            "word": 11
+        },
+        {
+            "charBegin": 1494,
+            "charEnd": 1495,
+            "id": 232,
+            "sentence": 13,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 1496,
+            "charEnd": 1498,
+            "id": 233,
+            "sentence": 13,
+            "text": "wo",
+            "word": 13
+        },
+        {
+            "charBegin": 1499,
+            "charEnd": 1501,
+            "id": 234,
+            "sentence": 13,
+            "text": "so",
+            "word": 14
+        },
+        {
+            "charBegin": 1502,
+            "charEnd": 1511,
+            "id": 235,
+            "sentence": 13,
+            "text": "genannten",
+            "word": 15
+        },
+        {
+            "charBegin": 1512,
+            "charEnd": 1532,
+            "id": 236,
+            "sentence": 13,
+            "text": "Langzeitarbeitslosen",
+            "word": 16
+        },
+        {
+            "charBegin": 1533,
+            "charEnd": 1537,
+            "id": 237,
+            "sentence": 13,
+            "text": "eine",
+            "word": 17
+        },
+        {
+            "charBegin": 1538,
+            "charEnd": 1545,
+            "id": 238,
+            "sentence": 13,
+            "text": "soziale",
+            "word": 18
+        },
+        {
+            "charBegin": 1546,
+            "charEnd": 1560,
+            "id": 239,
+            "sentence": 13,
+            "text": "Grundsicherung",
+            "word": 19
+        },
+        {
+            "charBegin": 1561,
+            "charEnd": 1570,
+            "id": 240,
+            "sentence": 13,
+            "text": "staatlich",
+            "word": 20
+        },
+        {
+            "charBegin": 1571,
+            "charEnd": 1581,
+            "id": 241,
+            "sentence": 13,
+            "text": "garantiert",
+            "word": 21
+        },
+        {
+            "charBegin": 1582,
+            "charEnd": 1587,
+            "id": 242,
+            "sentence": 13,
+            "text": "werde",
+            "word": 22
+        },
+        {
+            "charBegin": 1587,
+            "charEnd": 1588,
+            "id": 243,
+            "sentence": 13,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 1590,
+            "charEnd": 1594,
+            "id": 244,
+            "sentence": 14,
+            "text": "Auch",
+            "word": 1
+        },
+        {
+            "charBegin": 1595,
+            "charEnd": 1604,
+            "id": 245,
+            "sentence": 14,
+            "text": "bezüglich",
+            "word": 2
+        },
+        {
+            "charBegin": 1605,
+            "charEnd": 1608,
+            "id": 246,
+            "sentence": 14,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 1609,
+            "charEnd": 1620,
+            "id": 247,
+            "sentence": 14,
+            "text": "Wahlkampfes",
+            "word": 4
+        },
+        {
+            "charBegin": 1621,
+            "charEnd": 1624,
+            "id": 248,
+            "sentence": 14,
+            "text": "von",
+            "word": 5
+        },
+        {
+            "charBegin": 1625,
+            "charEnd": 1632,
+            "id": 249,
+            "sentence": 14,
+            "text": "Merkels",
+            "word": 6
+        },
+        {
+            "charBegin": 1633,
+            "charEnd": 1646,
+            "id": 250,
+            "sentence": 14,
+            "text": "Amtsvorgänger",
+            "word": 7
+        },
+        {
+            "charBegin": 1647,
+            "charEnd": 1654,
+            "id": 251,
+            "sentence": 14,
+            "text": "Gerhard",
+            "word": 8
+        },
+        {
+            "charBegin": 1655,
+            "charEnd": 1663,
+            "id": 252,
+            "sentence": 14,
+            "text": "Schröder",
+            "word": 9
+        },
+        {
+            "charBegin": 1664,
+            "charEnd": 1668,
+            "id": 253,
+            "sentence": 14,
+            "text": "nahm",
+            "word": 10
+        },
+        {
+            "charBegin": 1669,
+            "charEnd": 1675,
+            "id": 254,
+            "sentence": 14,
+            "text": "Köhler",
+            "word": 11
+        },
+        {
+            "charBegin": 1676,
+            "charEnd": 1680,
+            "id": 255,
+            "sentence": 14,
+            "text": "kein",
+            "word": 12
+        },
+        {
+            "charBegin": 1681,
+            "charEnd": 1686,
+            "id": 256,
+            "sentence": 14,
+            "text": "Blatt",
+            "word": 13
+        },
+        {
+            "charBegin": 1687,
+            "charEnd": 1690,
+            "id": 257,
+            "sentence": 14,
+            "text": "vor",
+            "word": 14
+        },
+        {
+            "charBegin": 1691,
+            "charEnd": 1694,
+            "id": 258,
+            "sentence": 14,
+            "text": "den",
+            "word": 15
+        },
+        {
+            "charBegin": 1695,
+            "charEnd": 1699,
+            "id": 259,
+            "sentence": 14,
+            "text": "Mund",
+            "word": 16
+        },
+        {
+            "charBegin": 1699,
+            "charEnd": 1700,
+            "id": 260,
+            "sentence": 14,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 1701,
+            "charEnd": 1704,
+            "id": 261,
+            "sentence": 15,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1705,
+            "charEnd": 1713,
+            "id": 262,
+            "sentence": 15,
+            "text": "Angriffe",
+            "word": 2
+        },
+        {
+            "charBegin": 1714,
+            "charEnd": 1717,
+            "id": 263,
+            "sentence": 15,
+            "text": "auf",
+            "word": 3
+        },
+        {
+            "charBegin": 1718,
+            "charEnd": 1721,
+            "id": 264,
+            "sentence": 15,
+            "text": "den",
+            "word": 4
+        },
+        {
+            "charBegin": 1722,
+            "charEnd": 1740,
+            "id": 265,
+            "sentence": 15,
+            "text": "CDU-Finanzexperten",
+            "word": 5
+        },
+        {
+            "charBegin": 1741,
+            "charEnd": 1745,
+            "id": 266,
+            "sentence": 15,
+            "text": "Paul",
+            "word": 6
+        },
+        {
+            "charBegin": 1746,
+            "charEnd": 1755,
+            "id": 267,
+            "sentence": 15,
+            "text": "Kirchhoff",
+            "word": 7
+        },
+        {
+            "charBegin": 1755,
+            "charEnd": 1756,
+            "id": 268,
+            "sentence": 15,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 1757,
+            "charEnd": 1760,
+            "id": 269,
+            "sentence": 15,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 1761,
+            "charEnd": 1764,
+            "id": 270,
+            "sentence": 15,
+            "text": "zum",
+            "word": 10
+        },
+        {
+            "charBegin": 1765,
+            "charEnd": 1778,
+            "id": 271,
+            "sentence": 15,
+            "text": "Wahlkampfteam",
+            "word": 11
+        },
+        {
+            "charBegin": 1779,
+            "charEnd": 1782,
+            "id": 272,
+            "sentence": 15,
+            "text": "von",
+            "word": 12
+        },
+        {
+            "charBegin": 1783,
+            "charEnd": 1789,
+            "id": 273,
+            "sentence": 15,
+            "text": "Angela",
+            "word": 13
+        },
+        {
+            "charBegin": 1790,
+            "charEnd": 1796,
+            "id": 274,
+            "sentence": 15,
+            "text": "Merkel",
+            "word": 14
+        },
+        {
+            "charBegin": 1797,
+            "charEnd": 1803,
+            "id": 275,
+            "sentence": 15,
+            "text": "gehört",
+            "word": 15
+        },
+        {
+            "charBegin": 1804,
+            "charEnd": 1809,
+            "id": 276,
+            "sentence": 15,
+            "text": "hatte",
+            "word": 16
+        },
+        {
+            "charBegin": 1809,
+            "charEnd": 1810,
+            "id": 277,
+            "sentence": 15,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 1811,
+            "charEnd": 1817,
+            "id": 278,
+            "sentence": 15,
+            "text": "wollte",
+            "word": 18
+        },
+        {
+            "charBegin": 1818,
+            "charEnd": 1820,
+            "id": 279,
+            "sentence": 15,
+            "text": "er",
+            "word": 19
+        },
+        {
+            "charBegin": 1821,
+            "charEnd": 1831,
+            "id": 280,
+            "sentence": 15,
+            "text": "eigentlich",
+            "word": 20
+        },
+        {
+            "charBegin": 1832,
+            "charEnd": 1837,
+            "id": 281,
+            "sentence": 15,
+            "text": "schon",
+            "word": 21
+        },
+        {
+            "charBegin": 1838,
+            "charEnd": 1845,
+            "id": 282,
+            "sentence": 15,
+            "text": "während",
+            "word": 22
+        },
+        {
+            "charBegin": 1846,
+            "charEnd": 1849,
+            "id": 283,
+            "sentence": 15,
+            "text": "des",
+            "word": 23
+        },
+        {
+            "charBegin": 1850,
+            "charEnd": 1861,
+            "id": 284,
+            "sentence": 15,
+            "text": "Wahlkampfes",
+            "word": 24
+        },
+        {
+            "charBegin": 1862,
+            "charEnd": 1874,
+            "id": 285,
+            "sentence": 15,
+            "text": "zurückweisen",
+            "word": 25
+        },
+        {
+            "charBegin": 1874,
+            "charEnd": 1875,
+            "id": 286,
+            "sentence": 15,
+            "text": ",",
+            "word": 26
+        },
+        {
+            "charBegin": 1876,
+            "charEnd": 1881,
+            "id": 287,
+            "sentence": 15,
+            "text": "hielt",
+            "word": 27
+        },
+        {
+            "charBegin": 1882,
+            "charEnd": 1886,
+            "id": 288,
+            "sentence": 15,
+            "text": "sich",
+            "word": 28
+        },
+        {
+            "charBegin": 1887,
+            "charEnd": 1893,
+            "id": 289,
+            "sentence": 15,
+            "text": "damals",
+            "word": 29
+        },
+        {
+            "charBegin": 1894,
+            "charEnd": 1900,
+            "id": 290,
+            "sentence": 15,
+            "text": "jedoch",
+            "word": 30
+        },
+        {
+            "charBegin": 1901,
+            "charEnd": 1905,
+            "id": 291,
+            "sentence": 15,
+            "text": "noch",
+            "word": 31
+        },
+        {
+            "charBegin": 1906,
+            "charEnd": 1912,
+            "id": 292,
+            "sentence": 15,
+            "text": "zurück",
+            "word": 32
+        },
+        {
+            "charBegin": 1912,
+            "charEnd": 1913,
+            "id": 293,
+            "sentence": 15,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 1914,
+            "charEnd": 1919,
+            "id": 294,
+            "sentence": 16,
+            "text": "Seine",
+            "word": 1
+        },
+        {
+            "charBegin": 1920,
+            "charEnd": 1927,
+            "id": 295,
+            "sentence": 16,
+            "text": "Meinung",
+            "word": 2
+        },
+        {
+            "charBegin": 1928,
+            "charEnd": 1930,
+            "id": 296,
+            "sentence": 16,
+            "text": "zu",
+            "word": 3
+        },
+        {
+            "charBegin": 1931,
+            "charEnd": 1940,
+            "id": 297,
+            "sentence": 16,
+            "text": "Kirchhoff",
+            "word": 4
+        },
+        {
+            "charBegin": 1940,
+            "charEnd": 1941,
+            "id": 298,
+            "sentence": 16,
+            "text": ":",
+            "word": 5
+        },
+        {
+            "charBegin": 1942,
+            "charEnd": 1943,
+            "id": 299,
+            "sentence": 16,
+            "text": "„",
+            "word": 6
+        },
+        {
+            "charBegin": 1943,
+            "charEnd": 1946,
+            "id": 300,
+            "sentence": 16,
+            "text": "Ich",
+            "word": 7
+        },
+        {
+            "charBegin": 1947,
+            "charEnd": 1953,
+            "id": 301,
+            "sentence": 16,
+            "text": "dachte",
+            "word": 8
+        },
+        {
+            "charBegin": 1953,
+            "charEnd": 1954,
+            "id": 302,
+            "sentence": 16,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 1955,
+            "charEnd": 1957,
+            "id": 303,
+            "sentence": 16,
+            "text": "es",
+            "word": 10
+        },
+        {
+            "charBegin": 1958,
+            "charEnd": 1962,
+            "id": 304,
+            "sentence": 16,
+            "text": "darf",
+            "word": 11
+        },
+        {
+            "charBegin": 1963,
+            "charEnd": 1967,
+            "id": 305,
+            "sentence": 16,
+            "text": "doch",
+            "word": 12
+        },
+        {
+            "charBegin": 1968,
+            "charEnd": 1973,
+            "id": 306,
+            "sentence": 16,
+            "text": "nicht",
+            "word": 13
+        },
+        {
+            "charBegin": 1974,
+            "charEnd": 1978,
+            "id": 307,
+            "sentence": 16,
+            "text": "wahr",
+            "word": 14
+        },
+        {
+            "charBegin": 1979,
+            "charEnd": 1983,
+            "id": 308,
+            "sentence": 16,
+            "text": "sein",
+            "word": 15
+        },
+        {
+            "charBegin": 1983,
+            "charEnd": 1984,
+            "id": 309,
+            "sentence": 16,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 1985,
+            "charEnd": 1989,
+            "id": 310,
+            "sentence": 16,
+            "text": "dass",
+            "word": 17
+        },
+        {
+            "charBegin": 1990,
+            "charEnd": 1993,
+            "id": 311,
+            "sentence": 16,
+            "text": "man",
+            "word": 18
+        },
+        {
+            "charBegin": 1994,
+            "charEnd": 1999,
+            "id": 312,
+            "sentence": 16,
+            "text": "einen",
+            "word": 19
+        },
+        {
+            "charBegin": 2000,
+            "charEnd": 2004,
+            "id": 313,
+            "sentence": 16,
+            "text": "zwar",
+            "word": 20
+        },
+        {
+            "charBegin": 2005,
+            "charEnd": 2018,
+            "id": 314,
+            "sentence": 16,
+            "text": "eigenwilligen",
+            "word": 21
+        },
+        {
+            "charBegin": 2018,
+            "charEnd": 2019,
+            "id": 315,
+            "sentence": 16,
+            "text": ",",
+            "word": 22
+        },
+        {
+            "charBegin": 2020,
+            "charEnd": 2024,
+            "id": 316,
+            "sentence": 16,
+            "text": "aber",
+            "word": 23
+        },
+        {
+            "charBegin": 2025,
+            "charEnd": 2029,
+            "id": 317,
+            "sentence": 16,
+            "text": "doch",
+            "word": 24
+        },
+        {
+            "charBegin": 2030,
+            "charEnd": 2034,
+            "id": 318,
+            "sentence": 16,
+            "text": "auch",
+            "word": 25
+        },
+        {
+            "charBegin": 2035,
+            "charEnd": 2041,
+            "id": 319,
+            "sentence": 16,
+            "text": "klugen",
+            "word": 26
+        },
+        {
+            "charBegin": 2042,
+            "charEnd": 2046,
+            "id": 320,
+            "sentence": 16,
+            "text": "Mann",
+            "word": 27
+        },
+        {
+            "charBegin": 2047,
+            "charEnd": 2050,
+            "id": 321,
+            "sentence": 16,
+            "text": "wie",
+            "word": 28
+        },
+        {
+            "charBegin": 2051,
+            "charEnd": 2055,
+            "id": 322,
+            "sentence": 16,
+            "text": "Paul",
+            "word": 29
+        },
+        {
+            "charBegin": 2056,
+            "charEnd": 2064,
+            "id": 323,
+            "sentence": 16,
+            "text": "Kirchhof",
+            "word": 30
+        },
+        {
+            "charBegin": 2065,
+            "charEnd": 2068,
+            "id": 324,
+            "sentence": 16,
+            "text": "als",
+            "word": 31
+        },
+        {
+            "charBegin": 2069,
+            "charEnd": 2078,
+            "id": 325,
+            "sentence": 16,
+            "text": "Fantasten",
+            "word": 32
+        },
+        {
+            "charBegin": 2079,
+            "charEnd": 2082,
+            "id": 326,
+            "sentence": 16,
+            "text": "und",
+            "word": 33
+        },
+        {
+            "charBegin": 2083,
+            "charEnd": 2089,
+            "id": 327,
+            "sentence": 16,
+            "text": "Anwalt",
+            "word": 34
+        },
+        {
+            "charBegin": 2090,
+            "charEnd": 2093,
+            "id": 328,
+            "sentence": 16,
+            "text": "der",
+            "word": 35
+        },
+        {
+            "charBegin": 2094,
+            "charEnd": 2102,
+            "id": 329,
+            "sentence": 16,
+            "text": "sozialen",
+            "word": 36
+        },
+        {
+            "charBegin": 2103,
+            "charEnd": 2108,
+            "id": 330,
+            "sentence": 16,
+            "text": "Kälte",
+            "word": 37
+        },
+        {
+            "charBegin": 2109,
+            "charEnd": 2122,
+            "id": 331,
+            "sentence": 16,
+            "text": "stigmatisiert",
+            "word": 38
+        },
+        {
+            "charBegin": 2122,
+            "charEnd": 2123,
+            "id": 332,
+            "sentence": 16,
+            "text": ".",
+            "word": 39
+        },
+        {
+            "charBegin": 2123,
+            "charEnd": 2124,
+            "id": 333,
+            "sentence": 16,
+            "text": "”",
+            "word": 40
+        }
+    ]
+}

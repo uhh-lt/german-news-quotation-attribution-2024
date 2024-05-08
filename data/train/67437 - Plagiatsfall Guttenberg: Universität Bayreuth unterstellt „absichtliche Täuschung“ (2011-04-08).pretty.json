@@ -1,0 +1,7504 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": true,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 193,
+                        "end": 27
+                    }
+                ],
+                "text": "Von „absichtlicher“ oder „mutwilliger Täuschung“ sprechen Medienberichte heute im Zusammenhang mit der Doktorarbeit des zurückgetretenen Verteidigungsministers Karl-Theodor zu Guttenberg (CSU).",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 10,
+                        "charBegin": 58,
+                        "charEnd": 72,
+                        "end": 11
+                    }
+                ],
+                "text": "Medienberichte",
+                "tokenIds": [
+                    10
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": true,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 1,
+                        "charBegin": 4,
+                        "charEnd": 19,
+                        "end": 4
+                    }
+                ],
+                "text": "„absichtlicher“",
+                "tokenIds": [
+                    1,
+                    2,
+                    3
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 10,
+                        "charBegin": 58,
+                        "charEnd": 72,
+                        "end": 11
+                    }
+                ],
+                "text": "Medienberichte",
+                "tokenIds": [
+                    10
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": true,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 5,
+                        "charBegin": 25,
+                        "charEnd": 48,
+                        "end": 9
+                    }
+                ],
+                "text": "„mutwilliger Täuschung“",
+                "tokenIds": [
+                    5,
+                    6,
+                    7,
+                    8
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 10,
+                        "charBegin": 58,
+                        "charEnd": 72,
+                        "end": 11
+                    }
+                ],
+                "text": "Medienberichte",
+                "tokenIds": [
+                    10
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 109,
+                        "charBegin": 776,
+                        "charEnd": 780,
+                        "end": 110
+                    },
+                    {
+                        "begin": 128,
+                        "charBegin": 899,
+                        "charEnd": 902,
+                        "end": 129
+                    },
+                    {
+                        "begin": 131,
+                        "charBegin": 915,
+                        "charEnd": 923,
+                        "end": 132
+                    }
+                ],
+                "text": "laut wie schreibt",
+                "tokenIds": [
+                    109,
+                    128,
+                    131
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 109,
+                        "charBegin": 776,
+                        "charEnd": 801,
+                        "end": 112
+                    },
+                    {
+                        "begin": 127,
+                        "charBegin": 897,
+                        "charEnd": 923,
+                        "end": 132
+                    }
+                ],
+                "text": "laut Süddeutscher Zeitung , wie die Zeitung schreibt",
+                "tokenIds": [
+                    109,
+                    110,
+                    111,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131
+                ]
+            },
+            "hasNested": true,
+            "id": 3,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 100,
+                        "charBegin": 681,
+                        "charEnd": 775,
+                        "end": 109
+                    },
+                    {
+                        "begin": 112,
+                        "charBegin": 802,
+                        "charEnd": 897,
+                        "end": 127
+                    }
+                ],
+                "text": "Die Untersuchungskommission der rechtswissenschaftlichen Fakultät der Universität Bayreuth kam zu dem Schluss, dass der ehemalige Verteidigungsminister „mit Absicht abgeschrieben haben muss“",
+                "tokenIds": [
+                    100,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 110,
+                        "charBegin": 781,
+                        "charEnd": 801,
+                        "end": 112
+                    }
+                ],
+                "text": "Süddeutscher Zeitung",
+                "tokenIds": [
+                    110,
+                    111
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 109,
+                        "charBegin": 776,
+                        "charEnd": 780,
+                        "end": 110
+                    },
+                    {
+                        "begin": 128,
+                        "charBegin": 899,
+                        "charEnd": 902,
+                        "end": 129
+                    },
+                    {
+                        "begin": 131,
+                        "charBegin": 915,
+                        "charEnd": 923,
+                        "end": 132
+                    }
+                ],
+                "text": "laut wie schreibt",
+                "tokenIds": [
+                    109,
+                    128,
+                    131
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 109,
+                        "charBegin": 776,
+                        "charEnd": 801,
+                        "end": 112
+                    },
+                    {
+                        "begin": 127,
+                        "charBegin": 897,
+                        "charEnd": 923,
+                        "end": 132
+                    }
+                ],
+                "text": "laut Süddeutscher Zeitung , wie die Zeitung schreibt",
+                "tokenIds": [
+                    109,
+                    110,
+                    111,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131
+                ]
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": true,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 120,
+                        "charBegin": 859,
+                        "charEnd": 897,
+                        "end": 127
+                    }
+                ],
+                "text": "„mit Absicht abgeschrieben haben muss“",
+                "tokenIds": [
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 110,
+                        "charBegin": 781,
+                        "charEnd": 801,
+                        "end": 112
+                    }
+                ],
+                "text": "Süddeutscher Zeitung",
+                "tokenIds": [
+                    110,
+                    111
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 5,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 133,
+                        "charBegin": 925,
+                        "charEnd": 989,
+                        "end": 143
+                    }
+                ],
+                "text": "Anders ließen sich die vielen kopierten Passagen nicht erklären.",
+                "tokenIds": [
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 129,
+                        "charBegin": 903,
+                        "charEnd": 914,
+                        "end": 131
+                    }
+                ],
+                "text": "die Zeitung",
+                "tokenIds": [
+                    129,
+                    130
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 148,
+                        "charBegin": 1024,
+                        "charEnd": 1028,
+                        "end": 149
+                    }
+                ],
+                "text": "laut",
+                "tokenIds": [
+                    148
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 148,
+                        "charBegin": 1024,
+                        "charEnd": 1040,
+                        "end": 151
+                    }
+                ],
+                "text": "laut der Zeitung",
+                "tokenIds": [
+                    148,
+                    149,
+                    150
+                ]
+            },
+            "hasNested": false,
+            "id": 6,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 143,
+                        "charBegin": 990,
+                        "charEnd": 1023,
+                        "end": 148
+                    },
+                    {
+                        "begin": 151,
+                        "charBegin": 1041,
+                        "charEnd": 1106,
+                        "end": 159
+                    }
+                ],
+                "text": "Die Gutachter stützten sich dabei auf Urteile von Verwaltungsgerichten in ähnlich gelagerten Fällen",
+                "tokenIds": [
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    156,
+                    157,
+                    158
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 149,
+                        "charBegin": 1029,
+                        "charEnd": 1040,
+                        "end": 151
+                    }
+                ],
+                "text": "der Zeitung",
+                "tokenIds": [
+                    149,
+                    150
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 170,
+                        "charBegin": 1186,
+                        "charEnd": 1206,
+                        "end": 173
+                    }
+                ],
+                "text": "bekannt geworden war",
+                "tokenIds": [
+                    170,
+                    171,
+                    172
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 160,
+                        "charBegin": 1109,
+                        "charEnd": 1207,
+                        "end": 174
+                    }
+                ],
+                "text": "Zu Guttenberg war vom Amt des Verteidigungsministers zurückgetreten, nachdem bekannt geworden war,",
+                "tokenIds": [
+                    160,
+                    161,
+                    162,
+                    163,
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    169,
+                    170,
+                    171,
+                    172,
+                    173
+                ]
+            },
+            "hasNested": false,
+            "id": 7,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 174,
+                        "charBegin": 1208,
+                        "charEnd": 1339,
+                        "end": 192
+                    }
+                ],
+                "text": "dass weite Teile seiner Doktorarbeit aus Quellen anderer Autoren abgeschrieben, die Zitate jedoch nicht gekennzeichnet worden waren",
+                "tokenIds": [
+                    174,
+                    175,
+                    176,
+                    177,
+                    178,
+                    179,
+                    180,
+                    181,
+                    182,
+                    183,
+                    184,
+                    185,
+                    186,
+                    187,
+                    188,
+                    189,
+                    190,
+                    191
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 217,
+                        "charBegin": 1517,
+                        "charEnd": 1522,
+                        "end": 218
+                    },
+                    {
+                        "begin": 223,
+                        "charBegin": 1563,
+                        "charEnd": 1570,
+                        "end": 224
+                    }
+                ],
+                "text": "hatte erklärt",
+                "tokenIds": [
+                    217,
+                    223
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 215,
+                        "charBegin": 1501,
+                        "charEnd": 1571,
+                        "end": 225
+                    }
+                ],
+                "text": "Die Universität hatte anlässlich des Entzugs des Doktortitels erklärt,",
+                "tokenIds": [
+                    215,
+                    216,
+                    217,
+                    218,
+                    219,
+                    220,
+                    221,
+                    222,
+                    223,
+                    224
+                ]
+            },
+            "hasNested": true,
+            "id": 8,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 225,
+                        "charBegin": 1572,
+                        "charEnd": 1670,
+                        "end": 239
+                    }
+                ],
+                "text": "sie wolle dem „Vorwurf des Täuschungsvorsatzes weiter in der Kommission Selbstkontrolle“ nachgehen",
+                "tokenIds": [
+                    225,
+                    226,
+                    227,
+                    228,
+                    229,
+                    230,
+                    231,
+                    232,
+                    233,
+                    234,
+                    235,
+                    236,
+                    237,
+                    238
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 215,
+                        "charBegin": 1501,
+                        "charEnd": 1516,
+                        "end": 217
+                    }
+                ],
+                "text": "Die Universität",
+                "tokenIds": [
+                    215,
+                    216
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 217,
+                        "charBegin": 1517,
+                        "charEnd": 1522,
+                        "end": 218
+                    },
+                    {
+                        "begin": 223,
+                        "charBegin": 1563,
+                        "charEnd": 1570,
+                        "end": 224
+                    }
+                ],
+                "text": "hatte erklärt",
+                "tokenIds": [
+                    217,
+                    223
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 215,
+                        "charBegin": 1501,
+                        "charEnd": 1571,
+                        "end": 225
+                    }
+                ],
+                "text": "Die Universität hatte anlässlich des Entzugs des Doktortitels erklärt,",
+                "tokenIds": [
+                    215,
+                    216,
+                    217,
+                    218,
+                    219,
+                    220,
+                    221,
+                    222,
+                    223,
+                    224
+                ]
+            },
+            "hasNested": false,
+            "id": 9,
+            "isNested": true,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 228,
+                        "charBegin": 1586,
+                        "charEnd": 1660,
+                        "end": 238
+                    }
+                ],
+                "text": "„Vorwurf des Täuschungsvorsatzes weiter in der Kommission Selbstkontrolle“",
+                "tokenIds": [
+                    228,
+                    229,
+                    230,
+                    231,
+                    232,
+                    233,
+                    234,
+                    235,
+                    236,
+                    237
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 215,
+                        "charBegin": 1501,
+                        "charEnd": 1516,
+                        "end": 217
+                    }
+                ],
+                "text": "Die Universität",
+                "tokenIds": [
+                    215,
+                    216
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 267,
+                        "charBegin": 1848,
+                        "charEnd": 1856,
+                        "end": 268
+                    }
+                ],
+                "text": "erklärte",
+                "tokenIds": [
+                    267
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 240,
+                        "charBegin": 1672,
+                        "charEnd": 1876,
+                        "end": 272
+                    }
+                ],
+                "text": "Warum die Universität bei der Verleihung des Titels nicht erkannte, dass es sich bei der von zu Guttenberg vorgelegten Dissertation um einen Täuschungsversuch gehandelt hatte, erklärte die Universität so:",
+                "tokenIds": [
+                    240,
+                    241,
+                    242,
+                    243,
+                    244,
+                    245,
+                    246,
+                    247,
+                    248,
+                    249,
+                    250,
+                    251,
+                    252,
+                    253,
+                    254,
+                    255,
+                    256,
+                    257,
+                    258,
+                    259,
+                    260,
+                    261,
+                    262,
+                    263,
+                    264,
+                    265,
+                    266,
+                    267,
+                    268,
+                    269,
+                    270,
+                    271
+                ]
+            },
+            "hasNested": false,
+            "id": 10,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 272,
+                        "charBegin": 1877,
+                        "charEnd": 2257,
+                        "end": 324
+                    }
+                ],
+                "text": "„Beide Gutachter gingen selbstverständlich von der Beachtung der Regeln wissenschaftlichen Arbeitens durch den dafür allein verantwortlichen Doktoranden aus. Ansatzpunkte für ein Fehlverhalten hinsichtlich der gebotenen korrekten Angabe der verwendeten Quellen hatten beide Gutachter damals nicht. Der Einsatz technischer Mittel zur Erkennung von Plagiaten war 2006 nicht üblich.“",
+                "tokenIds": [
+                    272,
+                    273,
+                    274,
+                    275,
+                    276,
+                    277,
+                    278,
+                    279,
+                    280,
+                    281,
+                    282,
+                    283,
+                    284,
+                    285,
+                    286,
+                    287,
+                    288,
+                    289,
+                    290,
+                    291,
+                    292,
+                    293,
+                    294,
+                    295,
+                    296,
+                    297,
+                    298,
+                    299,
+                    300,
+                    301,
+                    302,
+                    303,
+                    304,
+                    305,
+                    306,
+                    307,
+                    308,
+                    309,
+                    310,
+                    311,
+                    312,
+                    313,
+                    314,
+                    315,
+                    316,
+                    317,
+                    318,
+                    319,
+                    320,
+                    321,
+                    322,
+                    323
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 268,
+                        "charBegin": 1857,
+                        "charEnd": 1872,
+                        "end": 270
+                    }
+                ],
+                "text": "die Universität",
+                "tokenIds": [
+                    268,
+                    269
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 365,
+                        "charBegin": 2586,
+                        "charEnd": 2591,
+                        "end": 366
+                    },
+                    {
+                        "begin": 370,
+                        "charBegin": 2619,
+                        "charEnd": 2628,
+                        "end": 371
+                    }
+                ],
+                "text": "hatte angegeben",
+                "tokenIds": [
+                    365,
+                    370
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 363,
+                        "charBegin": 2572,
+                        "charEnd": 2629,
+                        "end": 372
+                    }
+                ],
+                "text": "Zu Guttenberg hatte zwar Fehler eingeräumt und angegeben,",
+                "tokenIds": [
+                    363,
+                    364,
+                    365,
+                    366,
+                    367,
+                    368,
+                    369,
+                    370,
+                    371
+                ]
+            },
+            "hasNested": false,
+            "id": 11,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 372,
+                        "charBegin": 2630,
+                        "charEnd": 2677,
+                        "end": 378
+                    }
+                ],
+                "text": "er habe nicht wissenschaftlich exakt gearbeitet",
+                "tokenIds": [
+                    372,
+                    373,
+                    374,
+                    375,
+                    376,
+                    377
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 363,
+                        "charBegin": 2572,
+                        "charEnd": 2585,
+                        "end": 365
+                    }
+                ],
+                "text": "Zu Guttenberg",
+                "tokenIds": [
+                    363,
+                    364
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 381,
+                        "charBegin": 2692,
+                        "charEnd": 2700,
+                        "end": 382
+                    }
+                ],
+                "text": "beteuert",
+                "tokenIds": [
+                    381
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 378,
+                        "charBegin": 2677,
+                        "charEnd": 2701,
+                        "end": 383
+                    }
+                ],
+                "text": ", jedoch stets beteuert,",
+                "tokenIds": [
+                    378,
+                    379,
+                    380,
+                    381,
+                    382
+                ]
+            },
+            "hasNested": false,
+            "id": 12,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 383,
+                        "charBegin": 2702,
+                        "charEnd": 2742,
+                        "end": 388
+                    }
+                ],
+                "text": "nicht absichtlich abgeschrieben zu haben",
+                "tokenIds": [
+                    383,
+                    384,
+                    385,
+                    386,
+                    387
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 390,
+                        "charBegin": 2747,
+                        "charEnd": 2752,
+                        "end": 391
+                    },
+                    {
+                        "begin": 393,
+                        "charBegin": 2763,
+                        "charEnd": 2769,
+                        "end": 394
+                    }
+                ],
+                "text": "hatte gesagt",
+                "tokenIds": [
+                    390,
+                    393
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 389,
+                        "charBegin": 2744,
+                        "charEnd": 2770,
+                        "end": 395
+                    }
+                ],
+                "text": "Er hatte aber auch gesagt,",
+                "tokenIds": [
+                    389,
+                    390,
+                    391,
+                    392,
+                    393,
+                    394
+                ]
+            },
+            "hasNested": true,
+            "id": 13,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 395,
+                        "charBegin": 2771,
+                        "charEnd": 2888,
+                        "end": 415
+                    }
+                ],
+                "text": "es sei ihm „ein aufrichtiges Anliegen, mich an der Klärung der Fragen hinsichtlich meiner Dissertation zu beteiligen“",
+                "tokenIds": [
+                    395,
+                    396,
+                    397,
+                    398,
+                    399,
+                    400,
+                    401,
+                    402,
+                    403,
+                    404,
+                    405,
+                    406,
+                    407,
+                    408,
+                    409,
+                    410,
+                    411,
+                    412,
+                    413,
+                    414
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 390,
+                        "charBegin": 2747,
+                        "charEnd": 2752,
+                        "end": 391
+                    },
+                    {
+                        "begin": 393,
+                        "charBegin": 2763,
+                        "charEnd": 2769,
+                        "end": 394
+                    }
+                ],
+                "text": "hatte gesagt",
+                "tokenIds": [
+                    390,
+                    393
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 389,
+                        "charBegin": 2744,
+                        "charEnd": 2770,
+                        "end": 395
+                    }
+                ],
+                "text": "Er hatte aber auch gesagt,",
+                "tokenIds": [
+                    389,
+                    390,
+                    391,
+                    392,
+                    393,
+                    394
+                ]
+            },
+            "hasNested": false,
+            "id": 14,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 398,
+                        "charBegin": 2782,
+                        "charEnd": 2888,
+                        "end": 415
+                    }
+                ],
+                "text": "„ein aufrichtiges Anliegen, mich an der Klärung der Fragen hinsichtlich meiner Dissertation zu beteiligen“",
+                "tokenIds": [
+                    398,
+                    399,
+                    400,
+                    401,
+                    402,
+                    403,
+                    404,
+                    405,
+                    406,
+                    407,
+                    408,
+                    409,
+                    410,
+                    411,
+                    412,
+                    413,
+                    414
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 422,
+                        "charBegin": 2927,
+                        "charEnd": 2950,
+                        "end": 424
+                    }
+                ],
+                "text": "die Universitätsleitung",
+                "tokenIds": [
+                    422,
+                    423
+                ]
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": true,
+            "id": 15,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 416,
+                        "charBegin": 2890,
+                        "charEnd": 3024,
+                        "end": 435
+                    }
+                ],
+                "text": "In einem Schreiben seiner Anwälte an die Universitätsleitung wurden diese auf die „Persönlichkeitsrechte“ ihres Mandanten hingewiesen.",
+                "tokenIds": [
+                    416,
+                    417,
+                    418,
+                    419,
+                    420,
+                    421,
+                    422,
+                    423,
+                    424,
+                    425,
+                    426,
+                    427,
+                    428,
+                    429,
+                    430,
+                    431,
+                    432,
+                    433,
+                    434
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 417,
+                        "charBegin": 2893,
+                        "charEnd": 2923,
+                        "end": 421
+                    }
+                ],
+                "text": "einem Schreiben seiner Anwälte",
+                "tokenIds": [
+                    417,
+                    418,
+                    419,
+                    420
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 16,
+            "isNested": true,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 428,
+                        "charBegin": 2972,
+                        "charEnd": 2995,
+                        "end": 431
+                    }
+                ],
+                "text": "„Persönlichkeitsrechte“",
+                "tokenIds": [
+                    428,
+                    429,
+                    430
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 417,
+                        "charBegin": 2893,
+                        "charEnd": 2923,
+                        "end": 421
+                    }
+                ],
+                "text": "einem Schreiben seiner Anwälte",
+                "tokenIds": [
+                    417,
+                    418,
+                    419,
+                    420
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": true,
+            "id": 17,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 435,
+                        "charBegin": 3025,
+                        "charEnd": 3105,
+                        "end": 447
+                    }
+                ],
+                "text": "Die Universitätsleitung habe dieses Schreiben „irritiert“ zur Kenntnis genommen.",
+                "tokenIds": [
+                    435,
+                    436,
+                    437,
+                    438,
+                    439,
+                    440,
+                    441,
+                    442,
+                    443,
+                    444,
+                    445,
+                    446
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 389,
+                        "charBegin": 2744,
+                        "charEnd": 2746,
+                        "end": 390
+                    }
+                ],
+                "text": "Er",
+                "tokenIds": [
+                    389
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 18,
+            "isNested": true,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 440,
+                        "charBegin": 3071,
+                        "charEnd": 3082,
+                        "end": 443
+                    }
+                ],
+                "text": "„irritiert“",
+                "tokenIds": [
+                    440,
+                    441,
+                    442
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 389,
+                        "charBegin": 2744,
+                        "charEnd": 2746,
+                        "end": 390
+                    }
+                ],
+                "text": "Er",
+                "tokenIds": [
+                    389
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 465,
+                        "charBegin": 3233,
+                        "charEnd": 3248,
+                        "end": 467
+                    }
+                ],
+                "text": "der Ex-Minister",
+                "tokenIds": [
+                    465,
+                    466
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 464,
+                        "charBegin": 3228,
+                        "charEnd": 3232,
+                        "end": 465
+                    },
+                    {
+                        "begin": 467,
+                        "charBegin": 3249,
+                        "charEnd": 3261,
+                        "end": 468
+                    }
+                ],
+                "text": "wird aufgefordert",
+                "tokenIds": [
+                    464,
+                    467
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 463,
+                        "charBegin": 3222,
+                        "charEnd": 3262,
+                        "end": 469
+                    }
+                ],
+                "text": "Darin wird der Ex-Minister aufgefordert,",
+                "tokenIds": [
+                    463,
+                    464,
+                    465,
+                    466,
+                    467,
+                    468
+                ]
+            },
+            "hasNested": false,
+            "id": 19,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 469,
+                        "charBegin": 3263,
+                        "charEnd": 3522,
+                        "end": 501
+                    }
+                ],
+                "text": "„entsprechend seiner früheren Äußerungen und Stellungnahmen, seine Vorbehalte bezüglich der Veröffentlichung, insbesondere hinsichtlich des Ergebnisses der Prüfung der erhobenen Plagiatsvorwürfe, zurückzunehmen und eine umfassende Information zu unterstützen“",
+                "tokenIds": [
+                    469,
+                    470,
+                    471,
+                    472,
+                    473,
+                    474,
+                    475,
+                    476,
+                    477,
+                    478,
+                    479,
+                    480,
+                    481,
+                    482,
+                    483,
+                    484,
+                    485,
+                    486,
+                    487,
+                    488,
+                    489,
+                    490,
+                    491,
+                    492,
+                    493,
+                    494,
+                    495,
+                    496,
+                    497,
+                    498,
+                    499,
+                    500
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 510,
+                        "charBegin": 3572,
+                        "charEnd": 3580,
+                        "end": 511
+                    }
+                ],
+                "text": "erklärte",
+                "tokenIds": [
+                    510
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 502,
+                        "charBegin": 3525,
+                        "charEnd": 3608,
+                        "end": 515
+                    }
+                ],
+                "text": "Der Doktorvater zu Guttenbergs, Peter Häberle, erklärte in einem Zeitungsinterview,",
+                "tokenIds": [
+                    502,
+                    503,
+                    504,
+                    505,
+                    506,
+                    507,
+                    508,
+                    509,
+                    510,
+                    511,
+                    512,
+                    513,
+                    514
+                ]
+            },
+            "hasNested": true,
+            "id": 20,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 515,
+                        "charBegin": 3609,
+                        "charEnd": 3710,
+                        "end": 532
+                    }
+                ],
+                "text": "über den Versuch, die Veröffentlichung des Gutachtens zu verhindern, sei er „existenziell enttäuscht“",
+                "tokenIds": [
+                    515,
+                    516,
+                    517,
+                    518,
+                    519,
+                    520,
+                    521,
+                    522,
+                    523,
+                    524,
+                    525,
+                    526,
+                    527,
+                    528,
+                    529,
+                    530,
+                    531
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 502,
+                        "charBegin": 3525,
+                        "charEnd": 3570,
+                        "end": 509
+                    }
+                ],
+                "text": "Der Doktorvater zu Guttenbergs, Peter Häberle",
+                "tokenIds": [
+                    502,
+                    503,
+                    504,
+                    505,
+                    506,
+                    507,
+                    508
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 510,
+                        "charBegin": 3572,
+                        "charEnd": 3580,
+                        "end": 511
+                    }
+                ],
+                "text": "erklärte",
+                "tokenIds": [
+                    510
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 502,
+                        "charBegin": 3525,
+                        "charEnd": 3608,
+                        "end": 515
+                    }
+                ],
+                "text": "Der Doktorvater zu Guttenbergs, Peter Häberle, erklärte in einem Zeitungsinterview,",
+                "tokenIds": [
+                    502,
+                    503,
+                    504,
+                    505,
+                    506,
+                    507,
+                    508,
+                    509,
+                    510,
+                    511,
+                    512,
+                    513,
+                    514
+                ]
+            },
+            "hasNested": false,
+            "id": 21,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 528,
+                        "charBegin": 3685,
+                        "charEnd": 3710,
+                        "end": 532
+                    }
+                ],
+                "text": "„existenziell enttäuscht“",
+                "tokenIds": [
+                    528,
+                    529,
+                    530,
+                    531
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 502,
+                        "charBegin": 3525,
+                        "charEnd": 3570,
+                        "end": 509
+                    }
+                ],
+                "text": "Der Doktorvater zu Guttenbergs, Peter Häberle",
+                "tokenIds": [
+                    502,
+                    503,
+                    504,
+                    505,
+                    506,
+                    507,
+                    508
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "67437 - Plagiatsfall Guttenberg: Universität Bayreuth unterstellt „absichtliche Täuschung“ (2011-04-08)",
+    "originalText": "Von „absichtlicher“ oder „mutwilliger Täuschung“ sprechen Medienberichte heute im Zusammenhang mit der Doktorarbeit des zurückgetretenen Verteidigungsministers Karl-Theodor zu Guttenberg (CSU). Quelle der Information ist die Süddeutsche Zeitung, die heute unter Berufung auf die zuständige Untersuchungskommission der Universität Bayreuth über zentrale Aussagen des Gutachtens berichtet. Bei der Universität Bayreuth hatte zu Guttenberg seine Doktorarbeit eingereicht, und hier war ihm zunächst auch der Doktortitel mit dem Prädikat „summa cum laude“ verliehen worden. Die Kommission sollte die Vorwürfe untersuchen, die im Zusammenhang mit der Doktorarbeit erhoben worden waren.\n\nDie Untersuchungskommission der rechtswissenschaftlichen Fakultät der Universität Bayreuth kam laut Süddeutscher Zeitung zu dem Schluss, dass der ehemalige Verteidigungsminister „mit Absicht abgeschrieben haben muss“, wie die Zeitung schreibt. Anders ließen sich die vielen kopierten Passagen nicht erklären. Die Gutachter stützten sich dabei laut der Zeitung auf Urteile von Verwaltungsgerichten in ähnlich gelagerten Fällen.\n\nZu Guttenberg war vom Amt des Verteidigungsministers zurückgetreten, nachdem bekannt geworden war, dass weite Teile seiner Doktorarbeit aus Quellen anderer Autoren abgeschrieben, die Zitate jedoch nicht gekennzeichnet worden waren. Die Universität Bayreuth hatte ihm am 23. Februar den Doktortitel aberkannt. Die Universität berief sich dabei auf Artikel 48 des Verwaltungsverfahrensgesetzes Die Universität hatte anlässlich des Entzugs des Doktortitels erklärt, sie wolle dem „Vorwurf des Täuschungsvorsatzes weiter in der Kommission Selbstkontrolle“ nachgehen. Warum die Universität bei der Verleihung des Titels nicht erkannte, dass es sich bei der von zu Guttenberg vorgelegten Dissertation um einen Täuschungsversuch gehandelt hatte, erklärte die Universität so: „Beide Gutachter gingen selbstverständlich von der Beachtung der Regeln wissenschaftlichen Arbeitens durch den dafür allein verantwortlichen Doktoranden aus. Ansatzpunkte für ein Fehlverhalten hinsichtlich der gebotenen korrekten Angabe der verwendeten Quellen hatten beide Gutachter damals nicht. Der Einsatz technischer Mittel zur Erkennung von Plagiaten war 2006 nicht üblich.“ Wegen der Plagiatsvorwürfe ermittelt inzwischen die Staatsanwaltschaft Hof gegen zu Guttenberg.\n\nDie Untersuchungskommission der Universität Bayreuth kann ihr Untersuchungsergebnis jedoch vorerst nicht veröffentlichen, weil zu Guttenberg über seine Anwälte die Veröffentlichung des Gutachtens zu verhindern sucht. Zu Guttenberg hatte zwar Fehler eingeräumt und angegeben, er habe nicht wissenschaftlich exakt gearbeitet, jedoch stets beteuert, nicht absichtlich abgeschrieben zu haben. Er hatte aber auch gesagt, es sei ihm „ein aufrichtiges Anliegen, mich an der Klärung der Fragen hinsichtlich meiner Dissertation zu beteiligen“. In einem Schreiben seiner Anwälte an die Universitätsleitung wurden diese auf die „Persönlichkeitsrechte“ ihres Mandanten hingewiesen. Die Universitätsleitung habe dieses Schreiben „irritiert“ zur Kenntnis genommen. Universitätspräsident Rüdiger Bormann wird mit den Worten aus einem an zu Guttenberg gerichteten Schreiben zitiert. Darin wird der Ex-Minister aufgefordert, „entsprechend seiner früheren Äußerungen und Stellungnahmen, seine Vorbehalte bezüglich der Veröffentlichung, insbesondere hinsichtlich des Ergebnisses der Prüfung der erhobenen Plagiatsvorwürfe, zurückzunehmen und eine umfassende Information zu unterstützen“.\n\nDer Doktorvater zu Guttenbergs, Peter Häberle, erklärte in einem Zeitungsinterview, über den Versuch, die Veröffentlichung des Gutachtens zu verhindern, sei er „existenziell enttäuscht“.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 193,
+            "end": 27,
+            "id": 0,
+            "text": "Von „absichtlicher“ oder „mutwilliger Täuschung“ sprechen Medienberichte heute im Zusammenhang mit der Doktorarbeit des zurückgetretenen Verteidigungsministers Karl-Theodor zu Guttenberg (CSU). ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ],
+            "tokens": [
+                "Von",
+                "„",
+                "absichtlicher",
+                "“",
+                "oder",
+                "„",
+                "mutwilliger",
+                "Täuschung",
+                "“",
+                "sprechen",
+                "Medienberichte",
+                "heute",
+                "im",
+                "Zusammenhang",
+                "mit",
+                "der",
+                "Doktorarbeit",
+                "des",
+                "zurückgetretenen",
+                "Verteidigungsministers",
+                "Karl-Theodor",
+                "zu",
+                "Guttenberg",
+                "(",
+                "CSU",
+                ")",
+                "."
+            ]
+        },
+        {
+            "begin": 27,
+            "charBegin": 194,
+            "charEnd": 387,
+            "end": 53,
+            "id": 1,
+            "text": "Quelle der Information ist die Süddeutsche Zeitung, die heute unter Berufung auf die zuständige Untersuchungskommission der Universität Bayreuth über zentrale Aussagen des Gutachtens berichtet. ",
+            "tokenIds": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52
+            ],
+            "tokens": [
+                "Quelle",
+                "der",
+                "Information",
+                "ist",
+                "die",
+                "Süddeutsche",
+                "Zeitung",
+                ",",
+                "die",
+                "heute",
+                "unter",
+                "Berufung",
+                "auf",
+                "die",
+                "zuständige",
+                "Untersuchungskommission",
+                "der",
+                "Universität",
+                "Bayreuth",
+                "über",
+                "zentrale",
+                "Aussagen",
+                "des",
+                "Gutachtens",
+                "berichtet",
+                "."
+            ]
+        },
+        {
+            "begin": 53,
+            "charBegin": 388,
+            "charEnd": 568,
+            "end": 83,
+            "id": 2,
+            "text": "Bei der Universität Bayreuth hatte zu Guttenberg seine Doktorarbeit eingereicht, und hier war ihm zunächst auch der Doktortitel mit dem Prädikat „summa cum laude“ verliehen worden. ",
+            "tokenIds": [
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82
+            ],
+            "tokens": [
+                "Bei",
+                "der",
+                "Universität",
+                "Bayreuth",
+                "hatte",
+                "zu",
+                "Guttenberg",
+                "seine",
+                "Doktorarbeit",
+                "eingereicht",
+                ",",
+                "und",
+                "hier",
+                "war",
+                "ihm",
+                "zunächst",
+                "auch",
+                "der",
+                "Doktortitel",
+                "mit",
+                "dem",
+                "Prädikat",
+                "„",
+                "summa",
+                "cum",
+                "laude",
+                "“",
+                "verliehen",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "begin": 83,
+            "charBegin": 569,
+            "charEnd": 679,
+            "end": 100,
+            "id": 3,
+            "text": "Die Kommission sollte die Vorwürfe untersuchen, die im Zusammenhang mit der Doktorarbeit erhoben worden waren.",
+            "tokenIds": [
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99
+            ],
+            "tokens": [
+                "Die",
+                "Kommission",
+                "sollte",
+                "die",
+                "Vorwürfe",
+                "untersuchen",
+                ",",
+                "die",
+                "im",
+                "Zusammenhang",
+                "mit",
+                "der",
+                "Doktorarbeit",
+                "erhoben",
+                "worden",
+                "waren",
+                "."
+            ]
+        },
+        {
+            "begin": 100,
+            "charBegin": 681,
+            "charEnd": 924,
+            "end": 133,
+            "id": 4,
+            "text": "Die Untersuchungskommission der rechtswissenschaftlichen Fakultät der Universität Bayreuth kam laut Süddeutscher Zeitung zu dem Schluss, dass der ehemalige Verteidigungsminister „mit Absicht abgeschrieben haben muss“, wie die Zeitung schreibt. ",
+            "tokenIds": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132
+            ],
+            "tokens": [
+                "Die",
+                "Untersuchungskommission",
+                "der",
+                "rechtswissenschaftlichen",
+                "Fakultät",
+                "der",
+                "Universität",
+                "Bayreuth",
+                "kam",
+                "laut",
+                "Süddeutscher",
+                "Zeitung",
+                "zu",
+                "dem",
+                "Schluss",
+                ",",
+                "dass",
+                "der",
+                "ehemalige",
+                "Verteidigungsminister",
+                "„",
+                "mit",
+                "Absicht",
+                "abgeschrieben",
+                "haben",
+                "muss",
+                "“",
+                ",",
+                "wie",
+                "die",
+                "Zeitung",
+                "schreibt",
+                "."
+            ]
+        },
+        {
+            "begin": 133,
+            "charBegin": 925,
+            "charEnd": 989,
+            "end": 143,
+            "id": 5,
+            "text": "Anders ließen sich die vielen kopierten Passagen nicht erklären. ",
+            "tokenIds": [
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142
+            ],
+            "tokens": [
+                "Anders",
+                "ließen",
+                "sich",
+                "die",
+                "vielen",
+                "kopierten",
+                "Passagen",
+                "nicht",
+                "erklären",
+                "."
+            ]
+        },
+        {
+            "begin": 143,
+            "charBegin": 990,
+            "charEnd": 1107,
+            "end": 160,
+            "id": 6,
+            "text": "Die Gutachter stützten sich dabei laut der Zeitung auf Urteile von Verwaltungsgerichten in ähnlich gelagerten Fällen.",
+            "tokenIds": [
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159
+            ],
+            "tokens": [
+                "Die",
+                "Gutachter",
+                "stützten",
+                "sich",
+                "dabei",
+                "laut",
+                "der",
+                "Zeitung",
+                "auf",
+                "Urteile",
+                "von",
+                "Verwaltungsgerichten",
+                "in",
+                "ähnlich",
+                "gelagerten",
+                "Fällen",
+                "."
+            ]
+        },
+        {
+            "begin": 160,
+            "charBegin": 1109,
+            "charEnd": 1340,
+            "end": 193,
+            "id": 7,
+            "text": "Zu Guttenberg war vom Amt des Verteidigungsministers zurückgetreten, nachdem bekannt geworden war, dass weite Teile seiner Doktorarbeit aus Quellen anderer Autoren abgeschrieben, die Zitate jedoch nicht gekennzeichnet worden waren. ",
+            "tokenIds": [
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192
+            ],
+            "tokens": [
+                "Zu",
+                "Guttenberg",
+                "war",
+                "vom",
+                "Amt",
+                "des",
+                "Verteidigungsministers",
+                "zurückgetreten",
+                ",",
+                "nachdem",
+                "bekannt",
+                "geworden",
+                "war",
+                ",",
+                "dass",
+                "weite",
+                "Teile",
+                "seiner",
+                "Doktorarbeit",
+                "aus",
+                "Quellen",
+                "anderer",
+                "Autoren",
+                "abgeschrieben",
+                ",",
+                "die",
+                "Zitate",
+                "jedoch",
+                "nicht",
+                "gekennzeichnet",
+                "worden",
+                "waren",
+                "."
+            ]
+        },
+        {
+            "begin": 193,
+            "charBegin": 1341,
+            "charEnd": 1417,
+            "end": 205,
+            "id": 8,
+            "text": "Die Universität Bayreuth hatte ihm am 23. Februar den Doktortitel aberkannt. ",
+            "tokenIds": [
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204
+            ],
+            "tokens": [
+                "Die",
+                "Universität",
+                "Bayreuth",
+                "hatte",
+                "ihm",
+                "am",
+                "23.",
+                "Februar",
+                "den",
+                "Doktortitel",
+                "aberkannt",
+                "."
+            ]
+        },
+        {
+            "begin": 205,
+            "charBegin": 1418,
+            "charEnd": 1500,
+            "end": 215,
+            "id": 9,
+            "text": "Die Universität berief sich dabei auf Artikel 48 des Verwaltungsverfahrensgesetzes ",
+            "tokenIds": [
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214
+            ],
+            "tokens": [
+                "Die",
+                "Universität",
+                "berief",
+                "sich",
+                "dabei",
+                "auf",
+                "Artikel",
+                "48",
+                "des",
+                "Verwaltungsverfahrensgesetzes"
+            ]
+        },
+        {
+            "begin": 215,
+            "charBegin": 1501,
+            "charEnd": 1671,
+            "end": 240,
+            "id": 10,
+            "text": "Die Universität hatte anlässlich des Entzugs des Doktortitels erklärt, sie wolle dem „Vorwurf des Täuschungsvorsatzes weiter in der Kommission Selbstkontrolle“ nachgehen. ",
+            "tokenIds": [
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239
+            ],
+            "tokens": [
+                "Die",
+                "Universität",
+                "hatte",
+                "anlässlich",
+                "des",
+                "Entzugs",
+                "des",
+                "Doktortitels",
+                "erklärt",
+                ",",
+                "sie",
+                "wolle",
+                "dem",
+                "„",
+                "Vorwurf",
+                "des",
+                "Täuschungsvorsatzes",
+                "weiter",
+                "in",
+                "der",
+                "Kommission",
+                "Selbstkontrolle",
+                "“",
+                "nachgehen",
+                "."
+            ]
+        },
+        {
+            "begin": 240,
+            "charBegin": 1672,
+            "charEnd": 1876,
+            "end": 272,
+            "id": 11,
+            "text": "Warum die Universität bei der Verleihung des Titels nicht erkannte, dass es sich bei der von zu Guttenberg vorgelegten Dissertation um einen Täuschungsversuch gehandelt hatte, erklärte die Universität so: ",
+            "tokenIds": [
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271
+            ],
+            "tokens": [
+                "Warum",
+                "die",
+                "Universität",
+                "bei",
+                "der",
+                "Verleihung",
+                "des",
+                "Titels",
+                "nicht",
+                "erkannte",
+                ",",
+                "dass",
+                "es",
+                "sich",
+                "bei",
+                "der",
+                "von",
+                "zu",
+                "Guttenberg",
+                "vorgelegten",
+                "Dissertation",
+                "um",
+                "einen",
+                "Täuschungsversuch",
+                "gehandelt",
+                "hatte",
+                ",",
+                "erklärte",
+                "die",
+                "Universität",
+                "so",
+                ":"
+            ]
+        },
+        {
+            "begin": 272,
+            "charBegin": 1877,
+            "charEnd": 2034,
+            "end": 292,
+            "id": 12,
+            "text": "„Beide Gutachter gingen selbstverständlich von der Beachtung der Regeln wissenschaftlichen Arbeitens durch den dafür allein verantwortlichen Doktoranden aus. ",
+            "tokenIds": [
+                272,
+                273,
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291
+            ],
+            "tokens": [
+                "„",
+                "Beide",
+                "Gutachter",
+                "gingen",
+                "selbstverständlich",
+                "von",
+                "der",
+                "Beachtung",
+                "der",
+                "Regeln",
+                "wissenschaftlichen",
+                "Arbeitens",
+                "durch",
+                "den",
+                "dafür",
+                "allein",
+                "verantwortlichen",
+                "Doktoranden",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "begin": 292,
+            "charBegin": 2035,
+            "charEnd": 2174,
+            "end": 310,
+            "id": 13,
+            "text": "Ansatzpunkte für ein Fehlverhalten hinsichtlich der gebotenen korrekten Angabe der verwendeten Quellen hatten beide Gutachter damals nicht. ",
+            "tokenIds": [
+                292,
+                293,
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306,
+                307,
+                308,
+                309
+            ],
+            "tokens": [
+                "Ansatzpunkte",
+                "für",
+                "ein",
+                "Fehlverhalten",
+                "hinsichtlich",
+                "der",
+                "gebotenen",
+                "korrekten",
+                "Angabe",
+                "der",
+                "verwendeten",
+                "Quellen",
+                "hatten",
+                "beide",
+                "Gutachter",
+                "damals",
+                "nicht",
+                "."
+            ]
+        },
+        {
+            "begin": 310,
+            "charBegin": 2175,
+            "charEnd": 2257,
+            "end": 324,
+            "id": 14,
+            "text": "Der Einsatz technischer Mittel zur Erkennung von Plagiaten war 2006 nicht üblich.“ ",
+            "tokenIds": [
+                310,
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322,
+                323
+            ],
+            "tokens": [
+                "Der",
+                "Einsatz",
+                "technischer",
+                "Mittel",
+                "zur",
+                "Erkennung",
+                "von",
+                "Plagiaten",
+                "war",
+                "2006",
+                "nicht",
+                "üblich",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "begin": 324,
+            "charBegin": 2258,
+            "charEnd": 2353,
+            "end": 336,
+            "id": 15,
+            "text": "Wegen der Plagiatsvorwürfe ermittelt inzwischen die Staatsanwaltschaft Hof gegen zu Guttenberg.",
+            "tokenIds": [
+                324,
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332,
+                333,
+                334,
+                335
+            ],
+            "tokens": [
+                "Wegen",
+                "der",
+                "Plagiatsvorwürfe",
+                "ermittelt",
+                "inzwischen",
+                "die",
+                "Staatsanwaltschaft",
+                "Hof",
+                "gegen",
+                "zu",
+                "Guttenberg",
+                "."
+            ]
+        },
+        {
+            "begin": 336,
+            "charBegin": 2355,
+            "charEnd": 2571,
+            "end": 363,
+            "id": 16,
+            "text": "Die Untersuchungskommission der Universität Bayreuth kann ihr Untersuchungsergebnis jedoch vorerst nicht veröffentlichen, weil zu Guttenberg über seine Anwälte die Veröffentlichung des Gutachtens zu verhindern sucht. ",
+            "tokenIds": [
+                336,
+                337,
+                338,
+                339,
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346,
+                347,
+                348,
+                349,
+                350,
+                351,
+                352,
+                353,
+                354,
+                355,
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362
+            ],
+            "tokens": [
+                "Die",
+                "Untersuchungskommission",
+                "der",
+                "Universität",
+                "Bayreuth",
+                "kann",
+                "ihr",
+                "Untersuchungsergebnis",
+                "jedoch",
+                "vorerst",
+                "nicht",
+                "veröffentlichen",
+                ",",
+                "weil",
+                "zu",
+                "Guttenberg",
+                "über",
+                "seine",
+                "Anwälte",
+                "die",
+                "Veröffentlichung",
+                "des",
+                "Gutachtens",
+                "zu",
+                "verhindern",
+                "sucht",
+                "."
+            ]
+        },
+        {
+            "begin": 363,
+            "charBegin": 2572,
+            "charEnd": 2743,
+            "end": 389,
+            "id": 17,
+            "text": "Zu Guttenberg hatte zwar Fehler eingeräumt und angegeben, er habe nicht wissenschaftlich exakt gearbeitet, jedoch stets beteuert, nicht absichtlich abgeschrieben zu haben. ",
+            "tokenIds": [
+                363,
+                364,
+                365,
+                366,
+                367,
+                368,
+                369,
+                370,
+                371,
+                372,
+                373,
+                374,
+                375,
+                376,
+                377,
+                378,
+                379,
+                380,
+                381,
+                382,
+                383,
+                384,
+                385,
+                386,
+                387,
+                388
+            ],
+            "tokens": [
+                "Zu",
+                "Guttenberg",
+                "hatte",
+                "zwar",
+                "Fehler",
+                "eingeräumt",
+                "und",
+                "angegeben",
+                ",",
+                "er",
+                "habe",
+                "nicht",
+                "wissenschaftlich",
+                "exakt",
+                "gearbeitet",
+                ",",
+                "jedoch",
+                "stets",
+                "beteuert",
+                ",",
+                "nicht",
+                "absichtlich",
+                "abgeschrieben",
+                "zu",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "begin": 389,
+            "charBegin": 2744,
+            "charEnd": 2889,
+            "end": 416,
+            "id": 18,
+            "text": "Er hatte aber auch gesagt, es sei ihm „ein aufrichtiges Anliegen, mich an der Klärung der Fragen hinsichtlich meiner Dissertation zu beteiligen“. ",
+            "tokenIds": [
+                389,
+                390,
+                391,
+                392,
+                393,
+                394,
+                395,
+                396,
+                397,
+                398,
+                399,
+                400,
+                401,
+                402,
+                403,
+                404,
+                405,
+                406,
+                407,
+                408,
+                409,
+                410,
+                411,
+                412,
+                413,
+                414,
+                415
+            ],
+            "tokens": [
+                "Er",
+                "hatte",
+                "aber",
+                "auch",
+                "gesagt",
+                ",",
+                "es",
+                "sei",
+                "ihm",
+                "„",
+                "ein",
+                "aufrichtiges",
+                "Anliegen",
+                ",",
+                "mich",
+                "an",
+                "der",
+                "Klärung",
+                "der",
+                "Fragen",
+                "hinsichtlich",
+                "meiner",
+                "Dissertation",
+                "zu",
+                "beteiligen",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 416,
+            "charBegin": 2890,
+            "charEnd": 3024,
+            "end": 435,
+            "id": 19,
+            "text": "In einem Schreiben seiner Anwälte an die Universitätsleitung wurden diese auf die „Persönlichkeitsrechte“ ihres Mandanten hingewiesen. ",
+            "tokenIds": [
+                416,
+                417,
+                418,
+                419,
+                420,
+                421,
+                422,
+                423,
+                424,
+                425,
+                426,
+                427,
+                428,
+                429,
+                430,
+                431,
+                432,
+                433,
+                434
+            ],
+            "tokens": [
+                "In",
+                "einem",
+                "Schreiben",
+                "seiner",
+                "Anwälte",
+                "an",
+                "die",
+                "Universitätsleitung",
+                "wurden",
+                "diese",
+                "auf",
+                "die",
+                "„",
+                "Persönlichkeitsrechte",
+                "“",
+                "ihres",
+                "Mandanten",
+                "hingewiesen",
+                "."
+            ]
+        },
+        {
+            "begin": 435,
+            "charBegin": 3025,
+            "charEnd": 3105,
+            "end": 447,
+            "id": 20,
+            "text": "Die Universitätsleitung habe dieses Schreiben „irritiert“ zur Kenntnis genommen. ",
+            "tokenIds": [
+                435,
+                436,
+                437,
+                438,
+                439,
+                440,
+                441,
+                442,
+                443,
+                444,
+                445,
+                446
+            ],
+            "tokens": [
+                "Die",
+                "Universitätsleitung",
+                "habe",
+                "dieses",
+                "Schreiben",
+                "„",
+                "irritiert",
+                "“",
+                "zur",
+                "Kenntnis",
+                "genommen",
+                "."
+            ]
+        },
+        {
+            "begin": 447,
+            "charBegin": 3106,
+            "charEnd": 3221,
+            "end": 463,
+            "id": 21,
+            "text": "Universitätspräsident Rüdiger Bormann wird mit den Worten aus einem an zu Guttenberg gerichteten Schreiben zitiert. ",
+            "tokenIds": [
+                447,
+                448,
+                449,
+                450,
+                451,
+                452,
+                453,
+                454,
+                455,
+                456,
+                457,
+                458,
+                459,
+                460,
+                461,
+                462
+            ],
+            "tokens": [
+                "Universitätspräsident",
+                "Rüdiger",
+                "Bormann",
+                "wird",
+                "mit",
+                "den",
+                "Worten",
+                "aus",
+                "einem",
+                "an",
+                "zu",
+                "Guttenberg",
+                "gerichteten",
+                "Schreiben",
+                "zitiert",
+                "."
+            ]
+        },
+        {
+            "begin": 463,
+            "charBegin": 3222,
+            "charEnd": 3523,
+            "end": 502,
+            "id": 22,
+            "text": "Darin wird der Ex-Minister aufgefordert, „entsprechend seiner früheren Äußerungen und Stellungnahmen, seine Vorbehalte bezüglich der Veröffentlichung, insbesondere hinsichtlich des Ergebnisses der Prüfung der erhobenen Plagiatsvorwürfe, zurückzunehmen und eine umfassende Information zu unterstützen“.",
+            "tokenIds": [
+                463,
+                464,
+                465,
+                466,
+                467,
+                468,
+                469,
+                470,
+                471,
+                472,
+                473,
+                474,
+                475,
+                476,
+                477,
+                478,
+                479,
+                480,
+                481,
+                482,
+                483,
+                484,
+                485,
+                486,
+                487,
+                488,
+                489,
+                490,
+                491,
+                492,
+                493,
+                494,
+                495,
+                496,
+                497,
+                498,
+                499,
+                500,
+                501
+            ],
+            "tokens": [
+                "Darin",
+                "wird",
+                "der",
+                "Ex-Minister",
+                "aufgefordert",
+                ",",
+                "„",
+                "entsprechend",
+                "seiner",
+                "früheren",
+                "Äußerungen",
+                "und",
+                "Stellungnahmen",
+                ",",
+                "seine",
+                "Vorbehalte",
+                "bezüglich",
+                "der",
+                "Veröffentlichung",
+                ",",
+                "insbesondere",
+                "hinsichtlich",
+                "des",
+                "Ergebnisses",
+                "der",
+                "Prüfung",
+                "der",
+                "erhobenen",
+                "Plagiatsvorwürfe",
+                ",",
+                "zurückzunehmen",
+                "und",
+                "eine",
+                "umfassende",
+                "Information",
+                "zu",
+                "unterstützen",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 502,
+            "charBegin": 3525,
+            "charEnd": 3711,
+            "end": 533,
+            "id": 23,
+            "text": "Der Doktorvater zu Guttenbergs, Peter Häberle, erklärte in einem Zeitungsinterview, über den Versuch, die Veröffentlichung des Gutachtens zu verhindern, sei er „existenziell enttäuscht“.",
+            "tokenIds": [
+                502,
+                503,
+                504,
+                505,
+                506,
+                507,
+                508,
+                509,
+                510,
+                511,
+                512,
+                513,
+                514,
+                515,
+                516,
+                517,
+                518,
+                519,
+                520,
+                521,
+                522,
+                523,
+                524,
+                525,
+                526,
+                527,
+                528,
+                529,
+                530,
+                531,
+                532
+            ],
+            "tokens": [
+                "Der",
+                "Doktorvater",
+                "zu",
+                "Guttenbergs",
+                ",",
+                "Peter",
+                "Häberle",
+                ",",
+                "erklärte",
+                "in",
+                "einem",
+                "Zeitungsinterview",
+                ",",
+                "über",
+                "den",
+                "Versuch",
+                ",",
+                "die",
+                "Veröffentlichung",
+                "des",
+                "Gutachtens",
+                "zu",
+                "verhindern",
+                ",",
+                "sei",
+                "er",
+                "„",
+                "existenziell",
+                "enttäuscht",
+                "“",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Von",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 5,
+            "id": 1,
+            "sentence": 1,
+            "text": "„",
+            "word": 2
+        },
+        {
+            "charBegin": 5,
+            "charEnd": 18,
+            "id": 2,
+            "sentence": 1,
+            "text": "absichtlicher",
+            "word": 3
+        },
+        {
+            "charBegin": 18,
+            "charEnd": 19,
+            "id": 3,
+            "sentence": 1,
+            "text": "“",
+            "word": 4
+        },
+        {
+            "charBegin": 20,
+            "charEnd": 24,
+            "id": 4,
+            "sentence": 1,
+            "text": "oder",
+            "word": 5
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 26,
+            "id": 5,
+            "sentence": 1,
+            "text": "„",
+            "word": 6
+        },
+        {
+            "charBegin": 26,
+            "charEnd": 37,
+            "id": 6,
+            "sentence": 1,
+            "text": "mutwilliger",
+            "word": 7
+        },
+        {
+            "charBegin": 38,
+            "charEnd": 47,
+            "id": 7,
+            "sentence": 1,
+            "text": "Täuschung",
+            "word": 8
+        },
+        {
+            "charBegin": 47,
+            "charEnd": 48,
+            "id": 8,
+            "sentence": 1,
+            "text": "“",
+            "word": 9
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 57,
+            "id": 9,
+            "sentence": 1,
+            "text": "sprechen",
+            "word": 10
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 72,
+            "id": 10,
+            "sentence": 1,
+            "text": "Medienberichte",
+            "word": 11
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 78,
+            "id": 11,
+            "sentence": 1,
+            "text": "heute",
+            "word": 12
+        },
+        {
+            "charBegin": 79,
+            "charEnd": 81,
+            "id": 12,
+            "sentence": 1,
+            "text": "im",
+            "word": 13
+        },
+        {
+            "charBegin": 82,
+            "charEnd": 94,
+            "id": 13,
+            "sentence": 1,
+            "text": "Zusammenhang",
+            "word": 14
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 98,
+            "id": 14,
+            "sentence": 1,
+            "text": "mit",
+            "word": 15
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 102,
+            "id": 15,
+            "sentence": 1,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 103,
+            "charEnd": 115,
+            "id": 16,
+            "sentence": 1,
+            "text": "Doktorarbeit",
+            "word": 17
+        },
+        {
+            "charBegin": 116,
+            "charEnd": 119,
+            "id": 17,
+            "sentence": 1,
+            "text": "des",
+            "word": 18
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 136,
+            "id": 18,
+            "sentence": 1,
+            "text": "zurückgetretenen",
+            "word": 19
+        },
+        {
+            "charBegin": 137,
+            "charEnd": 159,
+            "id": 19,
+            "sentence": 1,
+            "text": "Verteidigungsministers",
+            "word": 20
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 172,
+            "id": 20,
+            "sentence": 1,
+            "text": "Karl-Theodor",
+            "word": 21
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 175,
+            "id": 21,
+            "sentence": 1,
+            "text": "zu",
+            "word": 22
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 186,
+            "id": 22,
+            "sentence": 1,
+            "text": "Guttenberg",
+            "word": 23
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 188,
+            "id": 23,
+            "sentence": 1,
+            "text": "(",
+            "word": 24
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 191,
+            "id": 24,
+            "sentence": 1,
+            "text": "CSU",
+            "word": 25
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 192,
+            "id": 25,
+            "sentence": 1,
+            "text": ")",
+            "word": 26
+        },
+        {
+            "charBegin": 192,
+            "charEnd": 193,
+            "id": 26,
+            "sentence": 1,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 194,
+            "charEnd": 200,
+            "id": 27,
+            "sentence": 2,
+            "text": "Quelle",
+            "word": 1
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 204,
+            "id": 28,
+            "sentence": 2,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 205,
+            "charEnd": 216,
+            "id": 29,
+            "sentence": 2,
+            "text": "Information",
+            "word": 3
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 220,
+            "id": 30,
+            "sentence": 2,
+            "text": "ist",
+            "word": 4
+        },
+        {
+            "charBegin": 221,
+            "charEnd": 224,
+            "id": 31,
+            "sentence": 2,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 225,
+            "charEnd": 236,
+            "id": 32,
+            "sentence": 2,
+            "text": "Süddeutsche",
+            "word": 6
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 244,
+            "id": 33,
+            "sentence": 2,
+            "text": "Zeitung",
+            "word": 7
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 245,
+            "id": 34,
+            "sentence": 2,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 249,
+            "id": 35,
+            "sentence": 2,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 255,
+            "id": 36,
+            "sentence": 2,
+            "text": "heute",
+            "word": 10
+        },
+        {
+            "charBegin": 256,
+            "charEnd": 261,
+            "id": 37,
+            "sentence": 2,
+            "text": "unter",
+            "word": 11
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 270,
+            "id": 38,
+            "sentence": 2,
+            "text": "Berufung",
+            "word": 12
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 274,
+            "id": 39,
+            "sentence": 2,
+            "text": "auf",
+            "word": 13
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 278,
+            "id": 40,
+            "sentence": 2,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 289,
+            "id": 41,
+            "sentence": 2,
+            "text": "zuständige",
+            "word": 15
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 313,
+            "id": 42,
+            "sentence": 2,
+            "text": "Untersuchungskommission",
+            "word": 16
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 317,
+            "id": 43,
+            "sentence": 2,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 318,
+            "charEnd": 329,
+            "id": 44,
+            "sentence": 2,
+            "text": "Universität",
+            "word": 18
+        },
+        {
+            "charBegin": 330,
+            "charEnd": 338,
+            "id": 45,
+            "sentence": 2,
+            "text": "Bayreuth",
+            "word": 19
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 343,
+            "id": 46,
+            "sentence": 2,
+            "text": "über",
+            "word": 20
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 352,
+            "id": 47,
+            "sentence": 2,
+            "text": "zentrale",
+            "word": 21
+        },
+        {
+            "charBegin": 353,
+            "charEnd": 361,
+            "id": 48,
+            "sentence": 2,
+            "text": "Aussagen",
+            "word": 22
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 365,
+            "id": 49,
+            "sentence": 2,
+            "text": "des",
+            "word": 23
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 376,
+            "id": 50,
+            "sentence": 2,
+            "text": "Gutachtens",
+            "word": 24
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 386,
+            "id": 51,
+            "sentence": 2,
+            "text": "berichtet",
+            "word": 25
+        },
+        {
+            "charBegin": 386,
+            "charEnd": 387,
+            "id": 52,
+            "sentence": 2,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 388,
+            "charEnd": 391,
+            "id": 53,
+            "sentence": 3,
+            "text": "Bei",
+            "word": 1
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 395,
+            "id": 54,
+            "sentence": 3,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 396,
+            "charEnd": 407,
+            "id": 55,
+            "sentence": 3,
+            "text": "Universität",
+            "word": 3
+        },
+        {
+            "charBegin": 408,
+            "charEnd": 416,
+            "id": 56,
+            "sentence": 3,
+            "text": "Bayreuth",
+            "word": 4
+        },
+        {
+            "charBegin": 417,
+            "charEnd": 422,
+            "id": 57,
+            "sentence": 3,
+            "text": "hatte",
+            "word": 5
+        },
+        {
+            "charBegin": 423,
+            "charEnd": 425,
+            "id": 58,
+            "sentence": 3,
+            "text": "zu",
+            "word": 6
+        },
+        {
+            "charBegin": 426,
+            "charEnd": 436,
+            "id": 59,
+            "sentence": 3,
+            "text": "Guttenberg",
+            "word": 7
+        },
+        {
+            "charBegin": 437,
+            "charEnd": 442,
+            "id": 60,
+            "sentence": 3,
+            "text": "seine",
+            "word": 8
+        },
+        {
+            "charBegin": 443,
+            "charEnd": 455,
+            "id": 61,
+            "sentence": 3,
+            "text": "Doktorarbeit",
+            "word": 9
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 467,
+            "id": 62,
+            "sentence": 3,
+            "text": "eingereicht",
+            "word": 10
+        },
+        {
+            "charBegin": 467,
+            "charEnd": 468,
+            "id": 63,
+            "sentence": 3,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 469,
+            "charEnd": 472,
+            "id": 64,
+            "sentence": 3,
+            "text": "und",
+            "word": 12
+        },
+        {
+            "charBegin": 473,
+            "charEnd": 477,
+            "id": 65,
+            "sentence": 3,
+            "text": "hier",
+            "word": 13
+        },
+        {
+            "charBegin": 478,
+            "charEnd": 481,
+            "id": 66,
+            "sentence": 3,
+            "text": "war",
+            "word": 14
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 485,
+            "id": 67,
+            "sentence": 3,
+            "text": "ihm",
+            "word": 15
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 494,
+            "id": 68,
+            "sentence": 3,
+            "text": "zunächst",
+            "word": 16
+        },
+        {
+            "charBegin": 495,
+            "charEnd": 499,
+            "id": 69,
+            "sentence": 3,
+            "text": "auch",
+            "word": 17
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 503,
+            "id": 70,
+            "sentence": 3,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 515,
+            "id": 71,
+            "sentence": 3,
+            "text": "Doktortitel",
+            "word": 19
+        },
+        {
+            "charBegin": 516,
+            "charEnd": 519,
+            "id": 72,
+            "sentence": 3,
+            "text": "mit",
+            "word": 20
+        },
+        {
+            "charBegin": 520,
+            "charEnd": 523,
+            "id": 73,
+            "sentence": 3,
+            "text": "dem",
+            "word": 21
+        },
+        {
+            "charBegin": 524,
+            "charEnd": 532,
+            "id": 74,
+            "sentence": 3,
+            "text": "Prädikat",
+            "word": 22
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 534,
+            "id": 75,
+            "sentence": 3,
+            "text": "„",
+            "word": 23
+        },
+        {
+            "charBegin": 534,
+            "charEnd": 539,
+            "id": 76,
+            "sentence": 3,
+            "text": "summa",
+            "word": 24
+        },
+        {
+            "charBegin": 540,
+            "charEnd": 543,
+            "id": 77,
+            "sentence": 3,
+            "text": "cum",
+            "word": 25
+        },
+        {
+            "charBegin": 544,
+            "charEnd": 549,
+            "id": 78,
+            "sentence": 3,
+            "text": "laude",
+            "word": 26
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 550,
+            "id": 79,
+            "sentence": 3,
+            "text": "“",
+            "word": 27
+        },
+        {
+            "charBegin": 551,
+            "charEnd": 560,
+            "id": 80,
+            "sentence": 3,
+            "text": "verliehen",
+            "word": 28
+        },
+        {
+            "charBegin": 561,
+            "charEnd": 567,
+            "id": 81,
+            "sentence": 3,
+            "text": "worden",
+            "word": 29
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 568,
+            "id": 82,
+            "sentence": 3,
+            "text": ".",
+            "word": 30
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 572,
+            "id": 83,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 573,
+            "charEnd": 583,
+            "id": 84,
+            "sentence": 4,
+            "text": "Kommission",
+            "word": 2
+        },
+        {
+            "charBegin": 584,
+            "charEnd": 590,
+            "id": 85,
+            "sentence": 4,
+            "text": "sollte",
+            "word": 3
+        },
+        {
+            "charBegin": 591,
+            "charEnd": 594,
+            "id": 86,
+            "sentence": 4,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 595,
+            "charEnd": 603,
+            "id": 87,
+            "sentence": 4,
+            "text": "Vorwürfe",
+            "word": 5
+        },
+        {
+            "charBegin": 604,
+            "charEnd": 615,
+            "id": 88,
+            "sentence": 4,
+            "text": "untersuchen",
+            "word": 6
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 616,
+            "id": 89,
+            "sentence": 4,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 617,
+            "charEnd": 620,
+            "id": 90,
+            "sentence": 4,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 621,
+            "charEnd": 623,
+            "id": 91,
+            "sentence": 4,
+            "text": "im",
+            "word": 9
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 636,
+            "id": 92,
+            "sentence": 4,
+            "text": "Zusammenhang",
+            "word": 10
+        },
+        {
+            "charBegin": 637,
+            "charEnd": 640,
+            "id": 93,
+            "sentence": 4,
+            "text": "mit",
+            "word": 11
+        },
+        {
+            "charBegin": 641,
+            "charEnd": 644,
+            "id": 94,
+            "sentence": 4,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 645,
+            "charEnd": 657,
+            "id": 95,
+            "sentence": 4,
+            "text": "Doktorarbeit",
+            "word": 13
+        },
+        {
+            "charBegin": 658,
+            "charEnd": 665,
+            "id": 96,
+            "sentence": 4,
+            "text": "erhoben",
+            "word": 14
+        },
+        {
+            "charBegin": 666,
+            "charEnd": 672,
+            "id": 97,
+            "sentence": 4,
+            "text": "worden",
+            "word": 15
+        },
+        {
+            "charBegin": 673,
+            "charEnd": 678,
+            "id": 98,
+            "sentence": 4,
+            "text": "waren",
+            "word": 16
+        },
+        {
+            "charBegin": 678,
+            "charEnd": 679,
+            "id": 99,
+            "sentence": 4,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 681,
+            "charEnd": 684,
+            "id": 100,
+            "sentence": 5,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 685,
+            "charEnd": 708,
+            "id": 101,
+            "sentence": 5,
+            "text": "Untersuchungskommission",
+            "word": 2
+        },
+        {
+            "charBegin": 709,
+            "charEnd": 712,
+            "id": 102,
+            "sentence": 5,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 713,
+            "charEnd": 737,
+            "id": 103,
+            "sentence": 5,
+            "text": "rechtswissenschaftlichen",
+            "word": 4
+        },
+        {
+            "charBegin": 738,
+            "charEnd": 746,
+            "id": 104,
+            "sentence": 5,
+            "text": "Fakultät",
+            "word": 5
+        },
+        {
+            "charBegin": 747,
+            "charEnd": 750,
+            "id": 105,
+            "sentence": 5,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 751,
+            "charEnd": 762,
+            "id": 106,
+            "sentence": 5,
+            "text": "Universität",
+            "word": 7
+        },
+        {
+            "charBegin": 763,
+            "charEnd": 771,
+            "id": 107,
+            "sentence": 5,
+            "text": "Bayreuth",
+            "word": 8
+        },
+        {
+            "charBegin": 772,
+            "charEnd": 775,
+            "id": 108,
+            "sentence": 5,
+            "text": "kam",
+            "word": 9
+        },
+        {
+            "charBegin": 776,
+            "charEnd": 780,
+            "id": 109,
+            "sentence": 5,
+            "text": "laut",
+            "word": 10
+        },
+        {
+            "charBegin": 781,
+            "charEnd": 793,
+            "id": 110,
+            "sentence": 5,
+            "text": "Süddeutscher",
+            "word": 11
+        },
+        {
+            "charBegin": 794,
+            "charEnd": 801,
+            "id": 111,
+            "sentence": 5,
+            "text": "Zeitung",
+            "word": 12
+        },
+        {
+            "charBegin": 802,
+            "charEnd": 804,
+            "id": 112,
+            "sentence": 5,
+            "text": "zu",
+            "word": 13
+        },
+        {
+            "charBegin": 805,
+            "charEnd": 808,
+            "id": 113,
+            "sentence": 5,
+            "text": "dem",
+            "word": 14
+        },
+        {
+            "charBegin": 809,
+            "charEnd": 816,
+            "id": 114,
+            "sentence": 5,
+            "text": "Schluss",
+            "word": 15
+        },
+        {
+            "charBegin": 816,
+            "charEnd": 817,
+            "id": 115,
+            "sentence": 5,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 818,
+            "charEnd": 822,
+            "id": 116,
+            "sentence": 5,
+            "text": "dass",
+            "word": 17
+        },
+        {
+            "charBegin": 823,
+            "charEnd": 826,
+            "id": 117,
+            "sentence": 5,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 827,
+            "charEnd": 836,
+            "id": 118,
+            "sentence": 5,
+            "text": "ehemalige",
+            "word": 19
+        },
+        {
+            "charBegin": 837,
+            "charEnd": 858,
+            "id": 119,
+            "sentence": 5,
+            "text": "Verteidigungsminister",
+            "word": 20
+        },
+        {
+            "charBegin": 859,
+            "charEnd": 860,
+            "id": 120,
+            "sentence": 5,
+            "text": "„",
+            "word": 21
+        },
+        {
+            "charBegin": 860,
+            "charEnd": 863,
+            "id": 121,
+            "sentence": 5,
+            "text": "mit",
+            "word": 22
+        },
+        {
+            "charBegin": 864,
+            "charEnd": 871,
+            "id": 122,
+            "sentence": 5,
+            "text": "Absicht",
+            "word": 23
+        },
+        {
+            "charBegin": 872,
+            "charEnd": 885,
+            "id": 123,
+            "sentence": 5,
+            "text": "abgeschrieben",
+            "word": 24
+        },
+        {
+            "charBegin": 886,
+            "charEnd": 891,
+            "id": 124,
+            "sentence": 5,
+            "text": "haben",
+            "word": 25
+        },
+        {
+            "charBegin": 892,
+            "charEnd": 896,
+            "id": 125,
+            "sentence": 5,
+            "text": "muss",
+            "word": 26
+        },
+        {
+            "charBegin": 896,
+            "charEnd": 897,
+            "id": 126,
+            "sentence": 5,
+            "text": "“",
+            "word": 27
+        },
+        {
+            "charBegin": 897,
+            "charEnd": 898,
+            "id": 127,
+            "sentence": 5,
+            "text": ",",
+            "word": 28
+        },
+        {
+            "charBegin": 899,
+            "charEnd": 902,
+            "id": 128,
+            "sentence": 5,
+            "text": "wie",
+            "word": 29
+        },
+        {
+            "charBegin": 903,
+            "charEnd": 906,
+            "id": 129,
+            "sentence": 5,
+            "text": "die",
+            "word": 30
+        },
+        {
+            "charBegin": 907,
+            "charEnd": 914,
+            "id": 130,
+            "sentence": 5,
+            "text": "Zeitung",
+            "word": 31
+        },
+        {
+            "charBegin": 915,
+            "charEnd": 923,
+            "id": 131,
+            "sentence": 5,
+            "text": "schreibt",
+            "word": 32
+        },
+        {
+            "charBegin": 923,
+            "charEnd": 924,
+            "id": 132,
+            "sentence": 5,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 925,
+            "charEnd": 931,
+            "id": 133,
+            "sentence": 6,
+            "text": "Anders",
+            "word": 1
+        },
+        {
+            "charBegin": 932,
+            "charEnd": 938,
+            "id": 134,
+            "sentence": 6,
+            "text": "ließen",
+            "word": 2
+        },
+        {
+            "charBegin": 939,
+            "charEnd": 943,
+            "id": 135,
+            "sentence": 6,
+            "text": "sich",
+            "word": 3
+        },
+        {
+            "charBegin": 944,
+            "charEnd": 947,
+            "id": 136,
+            "sentence": 6,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 948,
+            "charEnd": 954,
+            "id": 137,
+            "sentence": 6,
+            "text": "vielen",
+            "word": 5
+        },
+        {
+            "charBegin": 955,
+            "charEnd": 964,
+            "id": 138,
+            "sentence": 6,
+            "text": "kopierten",
+            "word": 6
+        },
+        {
+            "charBegin": 965,
+            "charEnd": 973,
+            "id": 139,
+            "sentence": 6,
+            "text": "Passagen",
+            "word": 7
+        },
+        {
+            "charBegin": 974,
+            "charEnd": 979,
+            "id": 140,
+            "sentence": 6,
+            "text": "nicht",
+            "word": 8
+        },
+        {
+            "charBegin": 980,
+            "charEnd": 988,
+            "id": 141,
+            "sentence": 6,
+            "text": "erklären",
+            "word": 9
+        },
+        {
+            "charBegin": 988,
+            "charEnd": 989,
+            "id": 142,
+            "sentence": 6,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 990,
+            "charEnd": 993,
+            "id": 143,
+            "sentence": 7,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 994,
+            "charEnd": 1003,
+            "id": 144,
+            "sentence": 7,
+            "text": "Gutachter",
+            "word": 2
+        },
+        {
+            "charBegin": 1004,
+            "charEnd": 1012,
+            "id": 145,
+            "sentence": 7,
+            "text": "stützten",
+            "word": 3
+        },
+        {
+            "charBegin": 1013,
+            "charEnd": 1017,
+            "id": 146,
+            "sentence": 7,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 1018,
+            "charEnd": 1023,
+            "id": 147,
+            "sentence": 7,
+            "text": "dabei",
+            "word": 5
+        },
+        {
+            "charBegin": 1024,
+            "charEnd": 1028,
+            "id": 148,
+            "sentence": 7,
+            "text": "laut",
+            "word": 6
+        },
+        {
+            "charBegin": 1029,
+            "charEnd": 1032,
+            "id": 149,
+            "sentence": 7,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 1033,
+            "charEnd": 1040,
+            "id": 150,
+            "sentence": 7,
+            "text": "Zeitung",
+            "word": 8
+        },
+        {
+            "charBegin": 1041,
+            "charEnd": 1044,
+            "id": 151,
+            "sentence": 7,
+            "text": "auf",
+            "word": 9
+        },
+        {
+            "charBegin": 1045,
+            "charEnd": 1052,
+            "id": 152,
+            "sentence": 7,
+            "text": "Urteile",
+            "word": 10
+        },
+        {
+            "charBegin": 1053,
+            "charEnd": 1056,
+            "id": 153,
+            "sentence": 7,
+            "text": "von",
+            "word": 11
+        },
+        {
+            "charBegin": 1057,
+            "charEnd": 1077,
+            "id": 154,
+            "sentence": 7,
+            "text": "Verwaltungsgerichten",
+            "word": 12
+        },
+        {
+            "charBegin": 1078,
+            "charEnd": 1080,
+            "id": 155,
+            "sentence": 7,
+            "text": "in",
+            "word": 13
+        },
+        {
+            "charBegin": 1081,
+            "charEnd": 1088,
+            "id": 156,
+            "sentence": 7,
+            "text": "ähnlich",
+            "word": 14
+        },
+        {
+            "charBegin": 1089,
+            "charEnd": 1099,
+            "id": 157,
+            "sentence": 7,
+            "text": "gelagerten",
+            "word": 15
+        },
+        {
+            "charBegin": 1100,
+            "charEnd": 1106,
+            "id": 158,
+            "sentence": 7,
+            "text": "Fällen",
+            "word": 16
+        },
+        {
+            "charBegin": 1106,
+            "charEnd": 1107,
+            "id": 159,
+            "sentence": 7,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 1109,
+            "charEnd": 1111,
+            "id": 160,
+            "sentence": 8,
+            "text": "Zu",
+            "word": 1
+        },
+        {
+            "charBegin": 1112,
+            "charEnd": 1122,
+            "id": 161,
+            "sentence": 8,
+            "text": "Guttenberg",
+            "word": 2
+        },
+        {
+            "charBegin": 1123,
+            "charEnd": 1126,
+            "id": 162,
+            "sentence": 8,
+            "text": "war",
+            "word": 3
+        },
+        {
+            "charBegin": 1127,
+            "charEnd": 1130,
+            "id": 163,
+            "sentence": 8,
+            "text": "vom",
+            "word": 4
+        },
+        {
+            "charBegin": 1131,
+            "charEnd": 1134,
+            "id": 164,
+            "sentence": 8,
+            "text": "Amt",
+            "word": 5
+        },
+        {
+            "charBegin": 1135,
+            "charEnd": 1138,
+            "id": 165,
+            "sentence": 8,
+            "text": "des",
+            "word": 6
+        },
+        {
+            "charBegin": 1139,
+            "charEnd": 1161,
+            "id": 166,
+            "sentence": 8,
+            "text": "Verteidigungsministers",
+            "word": 7
+        },
+        {
+            "charBegin": 1162,
+            "charEnd": 1176,
+            "id": 167,
+            "sentence": 8,
+            "text": "zurückgetreten",
+            "word": 8
+        },
+        {
+            "charBegin": 1176,
+            "charEnd": 1177,
+            "id": 168,
+            "sentence": 8,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 1178,
+            "charEnd": 1185,
+            "id": 169,
+            "sentence": 8,
+            "text": "nachdem",
+            "word": 10
+        },
+        {
+            "charBegin": 1186,
+            "charEnd": 1193,
+            "id": 170,
+            "sentence": 8,
+            "text": "bekannt",
+            "word": 11
+        },
+        {
+            "charBegin": 1194,
+            "charEnd": 1202,
+            "id": 171,
+            "sentence": 8,
+            "text": "geworden",
+            "word": 12
+        },
+        {
+            "charBegin": 1203,
+            "charEnd": 1206,
+            "id": 172,
+            "sentence": 8,
+            "text": "war",
+            "word": 13
+        },
+        {
+            "charBegin": 1206,
+            "charEnd": 1207,
+            "id": 173,
+            "sentence": 8,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 1208,
+            "charEnd": 1212,
+            "id": 174,
+            "sentence": 8,
+            "text": "dass",
+            "word": 15
+        },
+        {
+            "charBegin": 1213,
+            "charEnd": 1218,
+            "id": 175,
+            "sentence": 8,
+            "text": "weite",
+            "word": 16
+        },
+        {
+            "charBegin": 1219,
+            "charEnd": 1224,
+            "id": 176,
+            "sentence": 8,
+            "text": "Teile",
+            "word": 17
+        },
+        {
+            "charBegin": 1225,
+            "charEnd": 1231,
+            "id": 177,
+            "sentence": 8,
+            "text": "seiner",
+            "word": 18
+        },
+        {
+            "charBegin": 1232,
+            "charEnd": 1244,
+            "id": 178,
+            "sentence": 8,
+            "text": "Doktorarbeit",
+            "word": 19
+        },
+        {
+            "charBegin": 1245,
+            "charEnd": 1248,
+            "id": 179,
+            "sentence": 8,
+            "text": "aus",
+            "word": 20
+        },
+        {
+            "charBegin": 1249,
+            "charEnd": 1256,
+            "id": 180,
+            "sentence": 8,
+            "text": "Quellen",
+            "word": 21
+        },
+        {
+            "charBegin": 1257,
+            "charEnd": 1264,
+            "id": 181,
+            "sentence": 8,
+            "text": "anderer",
+            "word": 22
+        },
+        {
+            "charBegin": 1265,
+            "charEnd": 1272,
+            "id": 182,
+            "sentence": 8,
+            "text": "Autoren",
+            "word": 23
+        },
+        {
+            "charBegin": 1273,
+            "charEnd": 1286,
+            "id": 183,
+            "sentence": 8,
+            "text": "abgeschrieben",
+            "word": 24
+        },
+        {
+            "charBegin": 1286,
+            "charEnd": 1287,
+            "id": 184,
+            "sentence": 8,
+            "text": ",",
+            "word": 25
+        },
+        {
+            "charBegin": 1288,
+            "charEnd": 1291,
+            "id": 185,
+            "sentence": 8,
+            "text": "die",
+            "word": 26
+        },
+        {
+            "charBegin": 1292,
+            "charEnd": 1298,
+            "id": 186,
+            "sentence": 8,
+            "text": "Zitate",
+            "word": 27
+        },
+        {
+            "charBegin": 1299,
+            "charEnd": 1305,
+            "id": 187,
+            "sentence": 8,
+            "text": "jedoch",
+            "word": 28
+        },
+        {
+            "charBegin": 1306,
+            "charEnd": 1311,
+            "id": 188,
+            "sentence": 8,
+            "text": "nicht",
+            "word": 29
+        },
+        {
+            "charBegin": 1312,
+            "charEnd": 1326,
+            "id": 189,
+            "sentence": 8,
+            "text": "gekennzeichnet",
+            "word": 30
+        },
+        {
+            "charBegin": 1327,
+            "charEnd": 1333,
+            "id": 190,
+            "sentence": 8,
+            "text": "worden",
+            "word": 31
+        },
+        {
+            "charBegin": 1334,
+            "charEnd": 1339,
+            "id": 191,
+            "sentence": 8,
+            "text": "waren",
+            "word": 32
+        },
+        {
+            "charBegin": 1339,
+            "charEnd": 1340,
+            "id": 192,
+            "sentence": 8,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 1341,
+            "charEnd": 1344,
+            "id": 193,
+            "sentence": 9,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1345,
+            "charEnd": 1356,
+            "id": 194,
+            "sentence": 9,
+            "text": "Universität",
+            "word": 2
+        },
+        {
+            "charBegin": 1357,
+            "charEnd": 1365,
+            "id": 195,
+            "sentence": 9,
+            "text": "Bayreuth",
+            "word": 3
+        },
+        {
+            "charBegin": 1366,
+            "charEnd": 1371,
+            "id": 196,
+            "sentence": 9,
+            "text": "hatte",
+            "word": 4
+        },
+        {
+            "charBegin": 1372,
+            "charEnd": 1375,
+            "id": 197,
+            "sentence": 9,
+            "text": "ihm",
+            "word": 5
+        },
+        {
+            "charBegin": 1376,
+            "charEnd": 1378,
+            "id": 198,
+            "sentence": 9,
+            "text": "am",
+            "word": 6
+        },
+        {
+            "charBegin": 1379,
+            "charEnd": 1382,
+            "id": 199,
+            "sentence": 9,
+            "text": "23.",
+            "word": 7
+        },
+        {
+            "charBegin": 1383,
+            "charEnd": 1390,
+            "id": 200,
+            "sentence": 9,
+            "text": "Februar",
+            "word": 8
+        },
+        {
+            "charBegin": 1391,
+            "charEnd": 1394,
+            "id": 201,
+            "sentence": 9,
+            "text": "den",
+            "word": 9
+        },
+        {
+            "charBegin": 1395,
+            "charEnd": 1406,
+            "id": 202,
+            "sentence": 9,
+            "text": "Doktortitel",
+            "word": 10
+        },
+        {
+            "charBegin": 1407,
+            "charEnd": 1416,
+            "id": 203,
+            "sentence": 9,
+            "text": "aberkannt",
+            "word": 11
+        },
+        {
+            "charBegin": 1416,
+            "charEnd": 1417,
+            "id": 204,
+            "sentence": 9,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 1418,
+            "charEnd": 1421,
+            "id": 205,
+            "sentence": 10,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1422,
+            "charEnd": 1433,
+            "id": 206,
+            "sentence": 10,
+            "text": "Universität",
+            "word": 2
+        },
+        {
+            "charBegin": 1434,
+            "charEnd": 1440,
+            "id": 207,
+            "sentence": 10,
+            "text": "berief",
+            "word": 3
+        },
+        {
+            "charBegin": 1441,
+            "charEnd": 1445,
+            "id": 208,
+            "sentence": 10,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 1446,
+            "charEnd": 1451,
+            "id": 209,
+            "sentence": 10,
+            "text": "dabei",
+            "word": 5
+        },
+        {
+            "charBegin": 1452,
+            "charEnd": 1455,
+            "id": 210,
+            "sentence": 10,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 1456,
+            "charEnd": 1463,
+            "id": 211,
+            "sentence": 10,
+            "text": "Artikel",
+            "word": 7
+        },
+        {
+            "charBegin": 1464,
+            "charEnd": 1466,
+            "id": 212,
+            "sentence": 10,
+            "text": "48",
+            "word": 8
+        },
+        {
+            "charBegin": 1467,
+            "charEnd": 1470,
+            "id": 213,
+            "sentence": 10,
+            "text": "des",
+            "word": 9
+        },
+        {
+            "charBegin": 1471,
+            "charEnd": 1500,
+            "id": 214,
+            "sentence": 10,
+            "text": "Verwaltungsverfahrensgesetzes",
+            "word": 10
+        },
+        {
+            "charBegin": 1501,
+            "charEnd": 1504,
+            "id": 215,
+            "sentence": 11,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1505,
+            "charEnd": 1516,
+            "id": 216,
+            "sentence": 11,
+            "text": "Universität",
+            "word": 2
+        },
+        {
+            "charBegin": 1517,
+            "charEnd": 1522,
+            "id": 217,
+            "sentence": 11,
+            "text": "hatte",
+            "word": 3
+        },
+        {
+            "charBegin": 1523,
+            "charEnd": 1533,
+            "id": 218,
+            "sentence": 11,
+            "text": "anlässlich",
+            "word": 4
+        },
+        {
+            "charBegin": 1534,
+            "charEnd": 1537,
+            "id": 219,
+            "sentence": 11,
+            "text": "des",
+            "word": 5
+        },
+        {
+            "charBegin": 1538,
+            "charEnd": 1545,
+            "id": 220,
+            "sentence": 11,
+            "text": "Entzugs",
+            "word": 6
+        },
+        {
+            "charBegin": 1546,
+            "charEnd": 1549,
+            "id": 221,
+            "sentence": 11,
+            "text": "des",
+            "word": 7
+        },
+        {
+            "charBegin": 1550,
+            "charEnd": 1562,
+            "id": 222,
+            "sentence": 11,
+            "text": "Doktortitels",
+            "word": 8
+        },
+        {
+            "charBegin": 1563,
+            "charEnd": 1570,
+            "id": 223,
+            "sentence": 11,
+            "text": "erklärt",
+            "word": 9
+        },
+        {
+            "charBegin": 1570,
+            "charEnd": 1571,
+            "id": 224,
+            "sentence": 11,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 1572,
+            "charEnd": 1575,
+            "id": 225,
+            "sentence": 11,
+            "text": "sie",
+            "word": 11
+        },
+        {
+            "charBegin": 1576,
+            "charEnd": 1581,
+            "id": 226,
+            "sentence": 11,
+            "text": "wolle",
+            "word": 12
+        },
+        {
+            "charBegin": 1582,
+            "charEnd": 1585,
+            "id": 227,
+            "sentence": 11,
+            "text": "dem",
+            "word": 13
+        },
+        {
+            "charBegin": 1586,
+            "charEnd": 1587,
+            "id": 228,
+            "sentence": 11,
+            "text": "„",
+            "word": 14
+        },
+        {
+            "charBegin": 1587,
+            "charEnd": 1594,
+            "id": 229,
+            "sentence": 11,
+            "text": "Vorwurf",
+            "word": 15
+        },
+        {
+            "charBegin": 1595,
+            "charEnd": 1598,
+            "id": 230,
+            "sentence": 11,
+            "text": "des",
+            "word": 16
+        },
+        {
+            "charBegin": 1599,
+            "charEnd": 1618,
+            "id": 231,
+            "sentence": 11,
+            "text": "Täuschungsvorsatzes",
+            "word": 17
+        },
+        {
+            "charBegin": 1619,
+            "charEnd": 1625,
+            "id": 232,
+            "sentence": 11,
+            "text": "weiter",
+            "word": 18
+        },
+        {
+            "charBegin": 1626,
+            "charEnd": 1628,
+            "id": 233,
+            "sentence": 11,
+            "text": "in",
+            "word": 19
+        },
+        {
+            "charBegin": 1629,
+            "charEnd": 1632,
+            "id": 234,
+            "sentence": 11,
+            "text": "der",
+            "word": 20
+        },
+        {
+            "charBegin": 1633,
+            "charEnd": 1643,
+            "id": 235,
+            "sentence": 11,
+            "text": "Kommission",
+            "word": 21
+        },
+        {
+            "charBegin": 1644,
+            "charEnd": 1659,
+            "id": 236,
+            "sentence": 11,
+            "text": "Selbstkontrolle",
+            "word": 22
+        },
+        {
+            "charBegin": 1659,
+            "charEnd": 1660,
+            "id": 237,
+            "sentence": 11,
+            "text": "“",
+            "word": 23
+        },
+        {
+            "charBegin": 1661,
+            "charEnd": 1670,
+            "id": 238,
+            "sentence": 11,
+            "text": "nachgehen",
+            "word": 24
+        },
+        {
+            "charBegin": 1670,
+            "charEnd": 1671,
+            "id": 239,
+            "sentence": 11,
+            "text": ".",
+            "word": 25
+        },
+        {
+            "charBegin": 1672,
+            "charEnd": 1677,
+            "id": 240,
+            "sentence": 12,
+            "text": "Warum",
+            "word": 1
+        },
+        {
+            "charBegin": 1678,
+            "charEnd": 1681,
+            "id": 241,
+            "sentence": 12,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 1682,
+            "charEnd": 1693,
+            "id": 242,
+            "sentence": 12,
+            "text": "Universität",
+            "word": 3
+        },
+        {
+            "charBegin": 1694,
+            "charEnd": 1697,
+            "id": 243,
+            "sentence": 12,
+            "text": "bei",
+            "word": 4
+        },
+        {
+            "charBegin": 1698,
+            "charEnd": 1701,
+            "id": 244,
+            "sentence": 12,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 1702,
+            "charEnd": 1712,
+            "id": 245,
+            "sentence": 12,
+            "text": "Verleihung",
+            "word": 6
+        },
+        {
+            "charBegin": 1713,
+            "charEnd": 1716,
+            "id": 246,
+            "sentence": 12,
+            "text": "des",
+            "word": 7
+        },
+        {
+            "charBegin": 1717,
+            "charEnd": 1723,
+            "id": 247,
+            "sentence": 12,
+            "text": "Titels",
+            "word": 8
+        },
+        {
+            "charBegin": 1724,
+            "charEnd": 1729,
+            "id": 248,
+            "sentence": 12,
+            "text": "nicht",
+            "word": 9
+        },
+        {
+            "charBegin": 1730,
+            "charEnd": 1738,
+            "id": 249,
+            "sentence": 12,
+            "text": "erkannte",
+            "word": 10
+        },
+        {
+            "charBegin": 1738,
+            "charEnd": 1739,
+            "id": 250,
+            "sentence": 12,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1740,
+            "charEnd": 1744,
+            "id": 251,
+            "sentence": 12,
+            "text": "dass",
+            "word": 12
+        },
+        {
+            "charBegin": 1745,
+            "charEnd": 1747,
+            "id": 252,
+            "sentence": 12,
+            "text": "es",
+            "word": 13
+        },
+        {
+            "charBegin": 1748,
+            "charEnd": 1752,
+            "id": 253,
+            "sentence": 12,
+            "text": "sich",
+            "word": 14
+        },
+        {
+            "charBegin": 1753,
+            "charEnd": 1756,
+            "id": 254,
+            "sentence": 12,
+            "text": "bei",
+            "word": 15
+        },
+        {
+            "charBegin": 1757,
+            "charEnd": 1760,
+            "id": 255,
+            "sentence": 12,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 1761,
+            "charEnd": 1764,
+            "id": 256,
+            "sentence": 12,
+            "text": "von",
+            "word": 17
+        },
+        {
+            "charBegin": 1765,
+            "charEnd": 1767,
+            "id": 257,
+            "sentence": 12,
+            "text": "zu",
+            "word": 18
+        },
+        {
+            "charBegin": 1768,
+            "charEnd": 1778,
+            "id": 258,
+            "sentence": 12,
+            "text": "Guttenberg",
+            "word": 19
+        },
+        {
+            "charBegin": 1779,
+            "charEnd": 1790,
+            "id": 259,
+            "sentence": 12,
+            "text": "vorgelegten",
+            "word": 20
+        },
+        {
+            "charBegin": 1791,
+            "charEnd": 1803,
+            "id": 260,
+            "sentence": 12,
+            "text": "Dissertation",
+            "word": 21
+        },
+        {
+            "charBegin": 1804,
+            "charEnd": 1806,
+            "id": 261,
+            "sentence": 12,
+            "text": "um",
+            "word": 22
+        },
+        {
+            "charBegin": 1807,
+            "charEnd": 1812,
+            "id": 262,
+            "sentence": 12,
+            "text": "einen",
+            "word": 23
+        },
+        {
+            "charBegin": 1813,
+            "charEnd": 1830,
+            "id": 263,
+            "sentence": 12,
+            "text": "Täuschungsversuch",
+            "word": 24
+        },
+        {
+            "charBegin": 1831,
+            "charEnd": 1840,
+            "id": 264,
+            "sentence": 12,
+            "text": "gehandelt",
+            "word": 25
+        },
+        {
+            "charBegin": 1841,
+            "charEnd": 1846,
+            "id": 265,
+            "sentence": 12,
+            "text": "hatte",
+            "word": 26
+        },
+        {
+            "charBegin": 1846,
+            "charEnd": 1847,
+            "id": 266,
+            "sentence": 12,
+            "text": ",",
+            "word": 27
+        },
+        {
+            "charBegin": 1848,
+            "charEnd": 1856,
+            "id": 267,
+            "sentence": 12,
+            "text": "erklärte",
+            "word": 28
+        },
+        {
+            "charBegin": 1857,
+            "charEnd": 1860,
+            "id": 268,
+            "sentence": 12,
+            "text": "die",
+            "word": 29
+        },
+        {
+            "charBegin": 1861,
+            "charEnd": 1872,
+            "id": 269,
+            "sentence": 12,
+            "text": "Universität",
+            "word": 30
+        },
+        {
+            "charBegin": 1873,
+            "charEnd": 1875,
+            "id": 270,
+            "sentence": 12,
+            "text": "so",
+            "word": 31
+        },
+        {
+            "charBegin": 1875,
+            "charEnd": 1876,
+            "id": 271,
+            "sentence": 12,
+            "text": ":",
+            "word": 32
+        },
+        {
+            "charBegin": 1877,
+            "charEnd": 1878,
+            "id": 272,
+            "sentence": 13,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 1878,
+            "charEnd": 1883,
+            "id": 273,
+            "sentence": 13,
+            "text": "Beide",
+            "word": 2
+        },
+        {
+            "charBegin": 1884,
+            "charEnd": 1893,
+            "id": 274,
+            "sentence": 13,
+            "text": "Gutachter",
+            "word": 3
+        },
+        {
+            "charBegin": 1894,
+            "charEnd": 1900,
+            "id": 275,
+            "sentence": 13,
+            "text": "gingen",
+            "word": 4
+        },
+        {
+            "charBegin": 1901,
+            "charEnd": 1919,
+            "id": 276,
+            "sentence": 13,
+            "text": "selbstverständlich",
+            "word": 5
+        },
+        {
+            "charBegin": 1920,
+            "charEnd": 1923,
+            "id": 277,
+            "sentence": 13,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 1924,
+            "charEnd": 1927,
+            "id": 278,
+            "sentence": 13,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 1928,
+            "charEnd": 1937,
+            "id": 279,
+            "sentence": 13,
+            "text": "Beachtung",
+            "word": 8
+        },
+        {
+            "charBegin": 1938,
+            "charEnd": 1941,
+            "id": 280,
+            "sentence": 13,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 1942,
+            "charEnd": 1948,
+            "id": 281,
+            "sentence": 13,
+            "text": "Regeln",
+            "word": 10
+        },
+        {
+            "charBegin": 1949,
+            "charEnd": 1967,
+            "id": 282,
+            "sentence": 13,
+            "text": "wissenschaftlichen",
+            "word": 11
+        },
+        {
+            "charBegin": 1968,
+            "charEnd": 1977,
+            "id": 283,
+            "sentence": 13,
+            "text": "Arbeitens",
+            "word": 12
+        },
+        {
+            "charBegin": 1978,
+            "charEnd": 1983,
+            "id": 284,
+            "sentence": 13,
+            "text": "durch",
+            "word": 13
+        },
+        {
+            "charBegin": 1984,
+            "charEnd": 1987,
+            "id": 285,
+            "sentence": 13,
+            "text": "den",
+            "word": 14
+        },
+        {
+            "charBegin": 1988,
+            "charEnd": 1993,
+            "id": 286,
+            "sentence": 13,
+            "text": "dafür",
+            "word": 15
+        },
+        {
+            "charBegin": 1994,
+            "charEnd": 2000,
+            "id": 287,
+            "sentence": 13,
+            "text": "allein",
+            "word": 16
+        },
+        {
+            "charBegin": 2001,
+            "charEnd": 2017,
+            "id": 288,
+            "sentence": 13,
+            "text": "verantwortlichen",
+            "word": 17
+        },
+        {
+            "charBegin": 2018,
+            "charEnd": 2029,
+            "id": 289,
+            "sentence": 13,
+            "text": "Doktoranden",
+            "word": 18
+        },
+        {
+            "charBegin": 2030,
+            "charEnd": 2033,
+            "id": 290,
+            "sentence": 13,
+            "text": "aus",
+            "word": 19
+        },
+        {
+            "charBegin": 2033,
+            "charEnd": 2034,
+            "id": 291,
+            "sentence": 13,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 2035,
+            "charEnd": 2047,
+            "id": 292,
+            "sentence": 14,
+            "text": "Ansatzpunkte",
+            "word": 1
+        },
+        {
+            "charBegin": 2048,
+            "charEnd": 2051,
+            "id": 293,
+            "sentence": 14,
+            "text": "für",
+            "word": 2
+        },
+        {
+            "charBegin": 2052,
+            "charEnd": 2055,
+            "id": 294,
+            "sentence": 14,
+            "text": "ein",
+            "word": 3
+        },
+        {
+            "charBegin": 2056,
+            "charEnd": 2069,
+            "id": 295,
+            "sentence": 14,
+            "text": "Fehlverhalten",
+            "word": 4
+        },
+        {
+            "charBegin": 2070,
+            "charEnd": 2082,
+            "id": 296,
+            "sentence": 14,
+            "text": "hinsichtlich",
+            "word": 5
+        },
+        {
+            "charBegin": 2083,
+            "charEnd": 2086,
+            "id": 297,
+            "sentence": 14,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 2087,
+            "charEnd": 2096,
+            "id": 298,
+            "sentence": 14,
+            "text": "gebotenen",
+            "word": 7
+        },
+        {
+            "charBegin": 2097,
+            "charEnd": 2106,
+            "id": 299,
+            "sentence": 14,
+            "text": "korrekten",
+            "word": 8
+        },
+        {
+            "charBegin": 2107,
+            "charEnd": 2113,
+            "id": 300,
+            "sentence": 14,
+            "text": "Angabe",
+            "word": 9
+        },
+        {
+            "charBegin": 2114,
+            "charEnd": 2117,
+            "id": 301,
+            "sentence": 14,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 2118,
+            "charEnd": 2129,
+            "id": 302,
+            "sentence": 14,
+            "text": "verwendeten",
+            "word": 11
+        },
+        {
+            "charBegin": 2130,
+            "charEnd": 2137,
+            "id": 303,
+            "sentence": 14,
+            "text": "Quellen",
+            "word": 12
+        },
+        {
+            "charBegin": 2138,
+            "charEnd": 2144,
+            "id": 304,
+            "sentence": 14,
+            "text": "hatten",
+            "word": 13
+        },
+        {
+            "charBegin": 2145,
+            "charEnd": 2150,
+            "id": 305,
+            "sentence": 14,
+            "text": "beide",
+            "word": 14
+        },
+        {
+            "charBegin": 2151,
+            "charEnd": 2160,
+            "id": 306,
+            "sentence": 14,
+            "text": "Gutachter",
+            "word": 15
+        },
+        {
+            "charBegin": 2161,
+            "charEnd": 2167,
+            "id": 307,
+            "sentence": 14,
+            "text": "damals",
+            "word": 16
+        },
+        {
+            "charBegin": 2168,
+            "charEnd": 2173,
+            "id": 308,
+            "sentence": 14,
+            "text": "nicht",
+            "word": 17
+        },
+        {
+            "charBegin": 2173,
+            "charEnd": 2174,
+            "id": 309,
+            "sentence": 14,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 2175,
+            "charEnd": 2178,
+            "id": 310,
+            "sentence": 15,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 2179,
+            "charEnd": 2186,
+            "id": 311,
+            "sentence": 15,
+            "text": "Einsatz",
+            "word": 2
+        },
+        {
+            "charBegin": 2187,
+            "charEnd": 2198,
+            "id": 312,
+            "sentence": 15,
+            "text": "technischer",
+            "word": 3
+        },
+        {
+            "charBegin": 2199,
+            "charEnd": 2205,
+            "id": 313,
+            "sentence": 15,
+            "text": "Mittel",
+            "word": 4
+        },
+        {
+            "charBegin": 2206,
+            "charEnd": 2209,
+            "id": 314,
+            "sentence": 15,
+            "text": "zur",
+            "word": 5
+        },
+        {
+            "charBegin": 2210,
+            "charEnd": 2219,
+            "id": 315,
+            "sentence": 15,
+            "text": "Erkennung",
+            "word": 6
+        },
+        {
+            "charBegin": 2220,
+            "charEnd": 2223,
+            "id": 316,
+            "sentence": 15,
+            "text": "von",
+            "word": 7
+        },
+        {
+            "charBegin": 2224,
+            "charEnd": 2233,
+            "id": 317,
+            "sentence": 15,
+            "text": "Plagiaten",
+            "word": 8
+        },
+        {
+            "charBegin": 2234,
+            "charEnd": 2237,
+            "id": 318,
+            "sentence": 15,
+            "text": "war",
+            "word": 9
+        },
+        {
+            "charBegin": 2238,
+            "charEnd": 2242,
+            "id": 319,
+            "sentence": 15,
+            "text": "2006",
+            "word": 10
+        },
+        {
+            "charBegin": 2243,
+            "charEnd": 2248,
+            "id": 320,
+            "sentence": 15,
+            "text": "nicht",
+            "word": 11
+        },
+        {
+            "charBegin": 2249,
+            "charEnd": 2255,
+            "id": 321,
+            "sentence": 15,
+            "text": "üblich",
+            "word": 12
+        },
+        {
+            "charBegin": 2255,
+            "charEnd": 2256,
+            "id": 322,
+            "sentence": 15,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 2256,
+            "charEnd": 2257,
+            "id": 323,
+            "sentence": 15,
+            "text": "“",
+            "word": 14
+        },
+        {
+            "charBegin": 2258,
+            "charEnd": 2263,
+            "id": 324,
+            "sentence": 16,
+            "text": "Wegen",
+            "word": 1
+        },
+        {
+            "charBegin": 2264,
+            "charEnd": 2267,
+            "id": 325,
+            "sentence": 16,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 2268,
+            "charEnd": 2284,
+            "id": 326,
+            "sentence": 16,
+            "text": "Plagiatsvorwürfe",
+            "word": 3
+        },
+        {
+            "charBegin": 2285,
+            "charEnd": 2294,
+            "id": 327,
+            "sentence": 16,
+            "text": "ermittelt",
+            "word": 4
+        },
+        {
+            "charBegin": 2295,
+            "charEnd": 2305,
+            "id": 328,
+            "sentence": 16,
+            "text": "inzwischen",
+            "word": 5
+        },
+        {
+            "charBegin": 2306,
+            "charEnd": 2309,
+            "id": 329,
+            "sentence": 16,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 2310,
+            "charEnd": 2328,
+            "id": 330,
+            "sentence": 16,
+            "text": "Staatsanwaltschaft",
+            "word": 7
+        },
+        {
+            "charBegin": 2329,
+            "charEnd": 2332,
+            "id": 331,
+            "sentence": 16,
+            "text": "Hof",
+            "word": 8
+        },
+        {
+            "charBegin": 2333,
+            "charEnd": 2338,
+            "id": 332,
+            "sentence": 16,
+            "text": "gegen",
+            "word": 9
+        },
+        {
+            "charBegin": 2339,
+            "charEnd": 2341,
+            "id": 333,
+            "sentence": 16,
+            "text": "zu",
+            "word": 10
+        },
+        {
+            "charBegin": 2342,
+            "charEnd": 2352,
+            "id": 334,
+            "sentence": 16,
+            "text": "Guttenberg",
+            "word": 11
+        },
+        {
+            "charBegin": 2352,
+            "charEnd": 2353,
+            "id": 335,
+            "sentence": 16,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 2355,
+            "charEnd": 2358,
+            "id": 336,
+            "sentence": 17,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 2359,
+            "charEnd": 2382,
+            "id": 337,
+            "sentence": 17,
+            "text": "Untersuchungskommission",
+            "word": 2
+        },
+        {
+            "charBegin": 2383,
+            "charEnd": 2386,
+            "id": 338,
+            "sentence": 17,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 2387,
+            "charEnd": 2398,
+            "id": 339,
+            "sentence": 17,
+            "text": "Universität",
+            "word": 4
+        },
+        {
+            "charBegin": 2399,
+            "charEnd": 2407,
+            "id": 340,
+            "sentence": 17,
+            "text": "Bayreuth",
+            "word": 5
+        },
+        {
+            "charBegin": 2408,
+            "charEnd": 2412,
+            "id": 341,
+            "sentence": 17,
+            "text": "kann",
+            "word": 6
+        },
+        {
+            "charBegin": 2413,
+            "charEnd": 2416,
+            "id": 342,
+            "sentence": 17,
+            "text": "ihr",
+            "word": 7
+        },
+        {
+            "charBegin": 2417,
+            "charEnd": 2438,
+            "id": 343,
+            "sentence": 17,
+            "text": "Untersuchungsergebnis",
+            "word": 8
+        },
+        {
+            "charBegin": 2439,
+            "charEnd": 2445,
+            "id": 344,
+            "sentence": 17,
+            "text": "jedoch",
+            "word": 9
+        },
+        {
+            "charBegin": 2446,
+            "charEnd": 2453,
+            "id": 345,
+            "sentence": 17,
+            "text": "vorerst",
+            "word": 10
+        },
+        {
+            "charBegin": 2454,
+            "charEnd": 2459,
+            "id": 346,
+            "sentence": 17,
+            "text": "nicht",
+            "word": 11
+        },
+        {
+            "charBegin": 2460,
+            "charEnd": 2475,
+            "id": 347,
+            "sentence": 17,
+            "text": "veröffentlichen",
+            "word": 12
+        },
+        {
+            "charBegin": 2475,
+            "charEnd": 2476,
+            "id": 348,
+            "sentence": 17,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 2477,
+            "charEnd": 2481,
+            "id": 349,
+            "sentence": 17,
+            "text": "weil",
+            "word": 14
+        },
+        {
+            "charBegin": 2482,
+            "charEnd": 2484,
+            "id": 350,
+            "sentence": 17,
+            "text": "zu",
+            "word": 15
+        },
+        {
+            "charBegin": 2485,
+            "charEnd": 2495,
+            "id": 351,
+            "sentence": 17,
+            "text": "Guttenberg",
+            "word": 16
+        },
+        {
+            "charBegin": 2496,
+            "charEnd": 2500,
+            "id": 352,
+            "sentence": 17,
+            "text": "über",
+            "word": 17
+        },
+        {
+            "charBegin": 2501,
+            "charEnd": 2506,
+            "id": 353,
+            "sentence": 17,
+            "text": "seine",
+            "word": 18
+        },
+        {
+            "charBegin": 2507,
+            "charEnd": 2514,
+            "id": 354,
+            "sentence": 17,
+            "text": "Anwälte",
+            "word": 19
+        },
+        {
+            "charBegin": 2515,
+            "charEnd": 2518,
+            "id": 355,
+            "sentence": 17,
+            "text": "die",
+            "word": 20
+        },
+        {
+            "charBegin": 2519,
+            "charEnd": 2535,
+            "id": 356,
+            "sentence": 17,
+            "text": "Veröffentlichung",
+            "word": 21
+        },
+        {
+            "charBegin": 2536,
+            "charEnd": 2539,
+            "id": 357,
+            "sentence": 17,
+            "text": "des",
+            "word": 22
+        },
+        {
+            "charBegin": 2540,
+            "charEnd": 2550,
+            "id": 358,
+            "sentence": 17,
+            "text": "Gutachtens",
+            "word": 23
+        },
+        {
+            "charBegin": 2551,
+            "charEnd": 2553,
+            "id": 359,
+            "sentence": 17,
+            "text": "zu",
+            "word": 24
+        },
+        {
+            "charBegin": 2554,
+            "charEnd": 2564,
+            "id": 360,
+            "sentence": 17,
+            "text": "verhindern",
+            "word": 25
+        },
+        {
+            "charBegin": 2565,
+            "charEnd": 2570,
+            "id": 361,
+            "sentence": 17,
+            "text": "sucht",
+            "word": 26
+        },
+        {
+            "charBegin": 2570,
+            "charEnd": 2571,
+            "id": 362,
+            "sentence": 17,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 2572,
+            "charEnd": 2574,
+            "id": 363,
+            "sentence": 18,
+            "text": "Zu",
+            "word": 1
+        },
+        {
+            "charBegin": 2575,
+            "charEnd": 2585,
+            "id": 364,
+            "sentence": 18,
+            "text": "Guttenberg",
+            "word": 2
+        },
+        {
+            "charBegin": 2586,
+            "charEnd": 2591,
+            "id": 365,
+            "sentence": 18,
+            "text": "hatte",
+            "word": 3
+        },
+        {
+            "charBegin": 2592,
+            "charEnd": 2596,
+            "id": 366,
+            "sentence": 18,
+            "text": "zwar",
+            "word": 4
+        },
+        {
+            "charBegin": 2597,
+            "charEnd": 2603,
+            "id": 367,
+            "sentence": 18,
+            "text": "Fehler",
+            "word": 5
+        },
+        {
+            "charBegin": 2604,
+            "charEnd": 2614,
+            "id": 368,
+            "sentence": 18,
+            "text": "eingeräumt",
+            "word": 6
+        },
+        {
+            "charBegin": 2615,
+            "charEnd": 2618,
+            "id": 369,
+            "sentence": 18,
+            "text": "und",
+            "word": 7
+        },
+        {
+            "charBegin": 2619,
+            "charEnd": 2628,
+            "id": 370,
+            "sentence": 18,
+            "text": "angegeben",
+            "word": 8
+        },
+        {
+            "charBegin": 2628,
+            "charEnd": 2629,
+            "id": 371,
+            "sentence": 18,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 2630,
+            "charEnd": 2632,
+            "id": 372,
+            "sentence": 18,
+            "text": "er",
+            "word": 10
+        },
+        {
+            "charBegin": 2633,
+            "charEnd": 2637,
+            "id": 373,
+            "sentence": 18,
+            "text": "habe",
+            "word": 11
+        },
+        {
+            "charBegin": 2638,
+            "charEnd": 2643,
+            "id": 374,
+            "sentence": 18,
+            "text": "nicht",
+            "word": 12
+        },
+        {
+            "charBegin": 2644,
+            "charEnd": 2660,
+            "id": 375,
+            "sentence": 18,
+            "text": "wissenschaftlich",
+            "word": 13
+        },
+        {
+            "charBegin": 2661,
+            "charEnd": 2666,
+            "id": 376,
+            "sentence": 18,
+            "text": "exakt",
+            "word": 14
+        },
+        {
+            "charBegin": 2667,
+            "charEnd": 2677,
+            "id": 377,
+            "sentence": 18,
+            "text": "gearbeitet",
+            "word": 15
+        },
+        {
+            "charBegin": 2677,
+            "charEnd": 2678,
+            "id": 378,
+            "sentence": 18,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 2679,
+            "charEnd": 2685,
+            "id": 379,
+            "sentence": 18,
+            "text": "jedoch",
+            "word": 17
+        },
+        {
+            "charBegin": 2686,
+            "charEnd": 2691,
+            "id": 380,
+            "sentence": 18,
+            "text": "stets",
+            "word": 18
+        },
+        {
+            "charBegin": 2692,
+            "charEnd": 2700,
+            "id": 381,
+            "sentence": 18,
+            "text": "beteuert",
+            "word": 19
+        },
+        {
+            "charBegin": 2700,
+            "charEnd": 2701,
+            "id": 382,
+            "sentence": 18,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 2702,
+            "charEnd": 2707,
+            "id": 383,
+            "sentence": 18,
+            "text": "nicht",
+            "word": 21
+        },
+        {
+            "charBegin": 2708,
+            "charEnd": 2719,
+            "id": 384,
+            "sentence": 18,
+            "text": "absichtlich",
+            "word": 22
+        },
+        {
+            "charBegin": 2720,
+            "charEnd": 2733,
+            "id": 385,
+            "sentence": 18,
+            "text": "abgeschrieben",
+            "word": 23
+        },
+        {
+            "charBegin": 2734,
+            "charEnd": 2736,
+            "id": 386,
+            "sentence": 18,
+            "text": "zu",
+            "word": 24
+        },
+        {
+            "charBegin": 2737,
+            "charEnd": 2742,
+            "id": 387,
+            "sentence": 18,
+            "text": "haben",
+            "word": 25
+        },
+        {
+            "charBegin": 2742,
+            "charEnd": 2743,
+            "id": 388,
+            "sentence": 18,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 2744,
+            "charEnd": 2746,
+            "id": 389,
+            "sentence": 19,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 2747,
+            "charEnd": 2752,
+            "id": 390,
+            "sentence": 19,
+            "text": "hatte",
+            "word": 2
+        },
+        {
+            "charBegin": 2753,
+            "charEnd": 2757,
+            "id": 391,
+            "sentence": 19,
+            "text": "aber",
+            "word": 3
+        },
+        {
+            "charBegin": 2758,
+            "charEnd": 2762,
+            "id": 392,
+            "sentence": 19,
+            "text": "auch",
+            "word": 4
+        },
+        {
+            "charBegin": 2763,
+            "charEnd": 2769,
+            "id": 393,
+            "sentence": 19,
+            "text": "gesagt",
+            "word": 5
+        },
+        {
+            "charBegin": 2769,
+            "charEnd": 2770,
+            "id": 394,
+            "sentence": 19,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 2771,
+            "charEnd": 2773,
+            "id": 395,
+            "sentence": 19,
+            "text": "es",
+            "word": 7
+        },
+        {
+            "charBegin": 2774,
+            "charEnd": 2777,
+            "id": 396,
+            "sentence": 19,
+            "text": "sei",
+            "word": 8
+        },
+        {
+            "charBegin": 2778,
+            "charEnd": 2781,
+            "id": 397,
+            "sentence": 19,
+            "text": "ihm",
+            "word": 9
+        },
+        {
+            "charBegin": 2782,
+            "charEnd": 2783,
+            "id": 398,
+            "sentence": 19,
+            "text": "„",
+            "word": 10
+        },
+        {
+            "charBegin": 2783,
+            "charEnd": 2786,
+            "id": 399,
+            "sentence": 19,
+            "text": "ein",
+            "word": 11
+        },
+        {
+            "charBegin": 2787,
+            "charEnd": 2799,
+            "id": 400,
+            "sentence": 19,
+            "text": "aufrichtiges",
+            "word": 12
+        },
+        {
+            "charBegin": 2800,
+            "charEnd": 2808,
+            "id": 401,
+            "sentence": 19,
+            "text": "Anliegen",
+            "word": 13
+        },
+        {
+            "charBegin": 2808,
+            "charEnd": 2809,
+            "id": 402,
+            "sentence": 19,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 2810,
+            "charEnd": 2814,
+            "id": 403,
+            "sentence": 19,
+            "text": "mich",
+            "word": 15
+        },
+        {
+            "charBegin": 2815,
+            "charEnd": 2817,
+            "id": 404,
+            "sentence": 19,
+            "text": "an",
+            "word": 16
+        },
+        {
+            "charBegin": 2818,
+            "charEnd": 2821,
+            "id": 405,
+            "sentence": 19,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 2822,
+            "charEnd": 2829,
+            "id": 406,
+            "sentence": 19,
+            "text": "Klärung",
+            "word": 18
+        },
+        {
+            "charBegin": 2830,
+            "charEnd": 2833,
+            "id": 407,
+            "sentence": 19,
+            "text": "der",
+            "word": 19
+        },
+        {
+            "charBegin": 2834,
+            "charEnd": 2840,
+            "id": 408,
+            "sentence": 19,
+            "text": "Fragen",
+            "word": 20
+        },
+        {
+            "charBegin": 2841,
+            "charEnd": 2853,
+            "id": 409,
+            "sentence": 19,
+            "text": "hinsichtlich",
+            "word": 21
+        },
+        {
+            "charBegin": 2854,
+            "charEnd": 2860,
+            "id": 410,
+            "sentence": 19,
+            "text": "meiner",
+            "word": 22
+        },
+        {
+            "charBegin": 2861,
+            "charEnd": 2873,
+            "id": 411,
+            "sentence": 19,
+            "text": "Dissertation",
+            "word": 23
+        },
+        {
+            "charBegin": 2874,
+            "charEnd": 2876,
+            "id": 412,
+            "sentence": 19,
+            "text": "zu",
+            "word": 24
+        },
+        {
+            "charBegin": 2877,
+            "charEnd": 2887,
+            "id": 413,
+            "sentence": 19,
+            "text": "beteiligen",
+            "word": 25
+        },
+        {
+            "charBegin": 2887,
+            "charEnd": 2888,
+            "id": 414,
+            "sentence": 19,
+            "text": "“",
+            "word": 26
+        },
+        {
+            "charBegin": 2888,
+            "charEnd": 2889,
+            "id": 415,
+            "sentence": 19,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 2890,
+            "charEnd": 2892,
+            "id": 416,
+            "sentence": 20,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 2893,
+            "charEnd": 2898,
+            "id": 417,
+            "sentence": 20,
+            "text": "einem",
+            "word": 2
+        },
+        {
+            "charBegin": 2899,
+            "charEnd": 2908,
+            "id": 418,
+            "sentence": 20,
+            "text": "Schreiben",
+            "word": 3
+        },
+        {
+            "charBegin": 2909,
+            "charEnd": 2915,
+            "id": 419,
+            "sentence": 20,
+            "text": "seiner",
+            "word": 4
+        },
+        {
+            "charBegin": 2916,
+            "charEnd": 2923,
+            "id": 420,
+            "sentence": 20,
+            "text": "Anwälte",
+            "word": 5
+        },
+        {
+            "charBegin": 2924,
+            "charEnd": 2926,
+            "id": 421,
+            "sentence": 20,
+            "text": "an",
+            "word": 6
+        },
+        {
+            "charBegin": 2927,
+            "charEnd": 2930,
+            "id": 422,
+            "sentence": 20,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 2931,
+            "charEnd": 2950,
+            "id": 423,
+            "sentence": 20,
+            "text": "Universitätsleitung",
+            "word": 8
+        },
+        {
+            "charBegin": 2951,
+            "charEnd": 2957,
+            "id": 424,
+            "sentence": 20,
+            "text": "wurden",
+            "word": 9
+        },
+        {
+            "charBegin": 2958,
+            "charEnd": 2963,
+            "id": 425,
+            "sentence": 20,
+            "text": "diese",
+            "word": 10
+        },
+        {
+            "charBegin": 2964,
+            "charEnd": 2967,
+            "id": 426,
+            "sentence": 20,
+            "text": "auf",
+            "word": 11
+        },
+        {
+            "charBegin": 2968,
+            "charEnd": 2971,
+            "id": 427,
+            "sentence": 20,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 2972,
+            "charEnd": 2973,
+            "id": 428,
+            "sentence": 20,
+            "text": "„",
+            "word": 13
+        },
+        {
+            "charBegin": 2973,
+            "charEnd": 2994,
+            "id": 429,
+            "sentence": 20,
+            "text": "Persönlichkeitsrechte",
+            "word": 14
+        },
+        {
+            "charBegin": 2994,
+            "charEnd": 2995,
+            "id": 430,
+            "sentence": 20,
+            "text": "“",
+            "word": 15
+        },
+        {
+            "charBegin": 2996,
+            "charEnd": 3001,
+            "id": 431,
+            "sentence": 20,
+            "text": "ihres",
+            "word": 16
+        },
+        {
+            "charBegin": 3002,
+            "charEnd": 3011,
+            "id": 432,
+            "sentence": 20,
+            "text": "Mandanten",
+            "word": 17
+        },
+        {
+            "charBegin": 3012,
+            "charEnd": 3023,
+            "id": 433,
+            "sentence": 20,
+            "text": "hingewiesen",
+            "word": 18
+        },
+        {
+            "charBegin": 3023,
+            "charEnd": 3024,
+            "id": 434,
+            "sentence": 20,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 3025,
+            "charEnd": 3028,
+            "id": 435,
+            "sentence": 21,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 3029,
+            "charEnd": 3048,
+            "id": 436,
+            "sentence": 21,
+            "text": "Universitätsleitung",
+            "word": 2
+        },
+        {
+            "charBegin": 3049,
+            "charEnd": 3053,
+            "id": 437,
+            "sentence": 21,
+            "text": "habe",
+            "word": 3
+        },
+        {
+            "charBegin": 3054,
+            "charEnd": 3060,
+            "id": 438,
+            "sentence": 21,
+            "text": "dieses",
+            "word": 4
+        },
+        {
+            "charBegin": 3061,
+            "charEnd": 3070,
+            "id": 439,
+            "sentence": 21,
+            "text": "Schreiben",
+            "word": 5
+        },
+        {
+            "charBegin": 3071,
+            "charEnd": 3072,
+            "id": 440,
+            "sentence": 21,
+            "text": "„",
+            "word": 6
+        },
+        {
+            "charBegin": 3072,
+            "charEnd": 3081,
+            "id": 441,
+            "sentence": 21,
+            "text": "irritiert",
+            "word": 7
+        },
+        {
+            "charBegin": 3081,
+            "charEnd": 3082,
+            "id": 442,
+            "sentence": 21,
+            "text": "“",
+            "word": 8
+        },
+        {
+            "charBegin": 3083,
+            "charEnd": 3086,
+            "id": 443,
+            "sentence": 21,
+            "text": "zur",
+            "word": 9
+        },
+        {
+            "charBegin": 3087,
+            "charEnd": 3095,
+            "id": 444,
+            "sentence": 21,
+            "text": "Kenntnis",
+            "word": 10
+        },
+        {
+            "charBegin": 3096,
+            "charEnd": 3104,
+            "id": 445,
+            "sentence": 21,
+            "text": "genommen",
+            "word": 11
+        },
+        {
+            "charBegin": 3104,
+            "charEnd": 3105,
+            "id": 446,
+            "sentence": 21,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 3106,
+            "charEnd": 3127,
+            "id": 447,
+            "sentence": 22,
+            "text": "Universitätspräsident",
+            "word": 1
+        },
+        {
+            "charBegin": 3128,
+            "charEnd": 3135,
+            "id": 448,
+            "sentence": 22,
+            "text": "Rüdiger",
+            "word": 2
+        },
+        {
+            "charBegin": 3136,
+            "charEnd": 3143,
+            "id": 449,
+            "sentence": 22,
+            "text": "Bormann",
+            "word": 3
+        },
+        {
+            "charBegin": 3144,
+            "charEnd": 3148,
+            "id": 450,
+            "sentence": 22,
+            "text": "wird",
+            "word": 4
+        },
+        {
+            "charBegin": 3149,
+            "charEnd": 3152,
+            "id": 451,
+            "sentence": 22,
+            "text": "mit",
+            "word": 5
+        },
+        {
+            "charBegin": 3153,
+            "charEnd": 3156,
+            "id": 452,
+            "sentence": 22,
+            "text": "den",
+            "word": 6
+        },
+        {
+            "charBegin": 3157,
+            "charEnd": 3163,
+            "id": 453,
+            "sentence": 22,
+            "text": "Worten",
+            "word": 7
+        },
+        {
+            "charBegin": 3164,
+            "charEnd": 3167,
+            "id": 454,
+            "sentence": 22,
+            "text": "aus",
+            "word": 8
+        },
+        {
+            "charBegin": 3168,
+            "charEnd": 3173,
+            "id": 455,
+            "sentence": 22,
+            "text": "einem",
+            "word": 9
+        },
+        {
+            "charBegin": 3174,
+            "charEnd": 3176,
+            "id": 456,
+            "sentence": 22,
+            "text": "an",
+            "word": 10
+        },
+        {
+            "charBegin": 3177,
+            "charEnd": 3179,
+            "id": 457,
+            "sentence": 22,
+            "text": "zu",
+            "word": 11
+        },
+        {
+            "charBegin": 3180,
+            "charEnd": 3190,
+            "id": 458,
+            "sentence": 22,
+            "text": "Guttenberg",
+            "word": 12
+        },
+        {
+            "charBegin": 3191,
+            "charEnd": 3202,
+            "id": 459,
+            "sentence": 22,
+            "text": "gerichteten",
+            "word": 13
+        },
+        {
+            "charBegin": 3203,
+            "charEnd": 3212,
+            "id": 460,
+            "sentence": 22,
+            "text": "Schreiben",
+            "word": 14
+        },
+        {
+            "charBegin": 3213,
+            "charEnd": 3220,
+            "id": 461,
+            "sentence": 22,
+            "text": "zitiert",
+            "word": 15
+        },
+        {
+            "charBegin": 3220,
+            "charEnd": 3221,
+            "id": 462,
+            "sentence": 22,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 3222,
+            "charEnd": 3227,
+            "id": 463,
+            "sentence": 23,
+            "text": "Darin",
+            "word": 1
+        },
+        {
+            "charBegin": 3228,
+            "charEnd": 3232,
+            "id": 464,
+            "sentence": 23,
+            "text": "wird",
+            "word": 2
+        },
+        {
+            "charBegin": 3233,
+            "charEnd": 3236,
+            "id": 465,
+            "sentence": 23,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 3237,
+            "charEnd": 3248,
+            "id": 466,
+            "sentence": 23,
+            "text": "Ex-Minister",
+            "word": 4
+        },
+        {
+            "charBegin": 3249,
+            "charEnd": 3261,
+            "id": 467,
+            "sentence": 23,
+            "text": "aufgefordert",
+            "word": 5
+        },
+        {
+            "charBegin": 3261,
+            "charEnd": 3262,
+            "id": 468,
+            "sentence": 23,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 3263,
+            "charEnd": 3264,
+            "id": 469,
+            "sentence": 23,
+            "text": "„",
+            "word": 7
+        },
+        {
+            "charBegin": 3264,
+            "charEnd": 3276,
+            "id": 470,
+            "sentence": 23,
+            "text": "entsprechend",
+            "word": 8
+        },
+        {
+            "charBegin": 3277,
+            "charEnd": 3283,
+            "id": 471,
+            "sentence": 23,
+            "text": "seiner",
+            "word": 9
+        },
+        {
+            "charBegin": 3284,
+            "charEnd": 3292,
+            "id": 472,
+            "sentence": 23,
+            "text": "früheren",
+            "word": 10
+        },
+        {
+            "charBegin": 3293,
+            "charEnd": 3303,
+            "id": 473,
+            "sentence": 23,
+            "text": "Äußerungen",
+            "word": 11
+        },
+        {
+            "charBegin": 3304,
+            "charEnd": 3307,
+            "id": 474,
+            "sentence": 23,
+            "text": "und",
+            "word": 12
+        },
+        {
+            "charBegin": 3308,
+            "charEnd": 3322,
+            "id": 475,
+            "sentence": 23,
+            "text": "Stellungnahmen",
+            "word": 13
+        },
+        {
+            "charBegin": 3322,
+            "charEnd": 3323,
+            "id": 476,
+            "sentence": 23,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 3324,
+            "charEnd": 3329,
+            "id": 477,
+            "sentence": 23,
+            "text": "seine",
+            "word": 15
+        },
+        {
+            "charBegin": 3330,
+            "charEnd": 3340,
+            "id": 478,
+            "sentence": 23,
+            "text": "Vorbehalte",
+            "word": 16
+        },
+        {
+            "charBegin": 3341,
+            "charEnd": 3350,
+            "id": 479,
+            "sentence": 23,
+            "text": "bezüglich",
+            "word": 17
+        },
+        {
+            "charBegin": 3351,
+            "charEnd": 3354,
+            "id": 480,
+            "sentence": 23,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 3355,
+            "charEnd": 3371,
+            "id": 481,
+            "sentence": 23,
+            "text": "Veröffentlichung",
+            "word": 19
+        },
+        {
+            "charBegin": 3371,
+            "charEnd": 3372,
+            "id": 482,
+            "sentence": 23,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 3373,
+            "charEnd": 3385,
+            "id": 483,
+            "sentence": 23,
+            "text": "insbesondere",
+            "word": 21
+        },
+        {
+            "charBegin": 3386,
+            "charEnd": 3398,
+            "id": 484,
+            "sentence": 23,
+            "text": "hinsichtlich",
+            "word": 22
+        },
+        {
+            "charBegin": 3399,
+            "charEnd": 3402,
+            "id": 485,
+            "sentence": 23,
+            "text": "des",
+            "word": 23
+        },
+        {
+            "charBegin": 3403,
+            "charEnd": 3414,
+            "id": 486,
+            "sentence": 23,
+            "text": "Ergebnisses",
+            "word": 24
+        },
+        {
+            "charBegin": 3415,
+            "charEnd": 3418,
+            "id": 487,
+            "sentence": 23,
+            "text": "der",
+            "word": 25
+        },
+        {
+            "charBegin": 3419,
+            "charEnd": 3426,
+            "id": 488,
+            "sentence": 23,
+            "text": "Prüfung",
+            "word": 26
+        },
+        {
+            "charBegin": 3427,
+            "charEnd": 3430,
+            "id": 489,
+            "sentence": 23,
+            "text": "der",
+            "word": 27
+        },
+        {
+            "charBegin": 3431,
+            "charEnd": 3440,
+            "id": 490,
+            "sentence": 23,
+            "text": "erhobenen",
+            "word": 28
+        },
+        {
+            "charBegin": 3441,
+            "charEnd": 3457,
+            "id": 491,
+            "sentence": 23,
+            "text": "Plagiatsvorwürfe",
+            "word": 29
+        },
+        {
+            "charBegin": 3457,
+            "charEnd": 3458,
+            "id": 492,
+            "sentence": 23,
+            "text": ",",
+            "word": 30
+        },
+        {
+            "charBegin": 3459,
+            "charEnd": 3473,
+            "id": 493,
+            "sentence": 23,
+            "text": "zurückzunehmen",
+            "word": 31
+        },
+        {
+            "charBegin": 3474,
+            "charEnd": 3477,
+            "id": 494,
+            "sentence": 23,
+            "text": "und",
+            "word": 32
+        },
+        {
+            "charBegin": 3478,
+            "charEnd": 3482,
+            "id": 495,
+            "sentence": 23,
+            "text": "eine",
+            "word": 33
+        },
+        {
+            "charBegin": 3483,
+            "charEnd": 3493,
+            "id": 496,
+            "sentence": 23,
+            "text": "umfassende",
+            "word": 34
+        },
+        {
+            "charBegin": 3494,
+            "charEnd": 3505,
+            "id": 497,
+            "sentence": 23,
+            "text": "Information",
+            "word": 35
+        },
+        {
+            "charBegin": 3506,
+            "charEnd": 3508,
+            "id": 498,
+            "sentence": 23,
+            "text": "zu",
+            "word": 36
+        },
+        {
+            "charBegin": 3509,
+            "charEnd": 3521,
+            "id": 499,
+            "sentence": 23,
+            "text": "unterstützen",
+            "word": 37
+        },
+        {
+            "charBegin": 3521,
+            "charEnd": 3522,
+            "id": 500,
+            "sentence": 23,
+            "text": "“",
+            "word": 38
+        },
+        {
+            "charBegin": 3522,
+            "charEnd": 3523,
+            "id": 501,
+            "sentence": 23,
+            "text": ".",
+            "word": 39
+        },
+        {
+            "charBegin": 3525,
+            "charEnd": 3528,
+            "id": 502,
+            "sentence": 24,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 3529,
+            "charEnd": 3540,
+            "id": 503,
+            "sentence": 24,
+            "text": "Doktorvater",
+            "word": 2
+        },
+        {
+            "charBegin": 3541,
+            "charEnd": 3543,
+            "id": 504,
+            "sentence": 24,
+            "text": "zu",
+            "word": 3
+        },
+        {
+            "charBegin": 3544,
+            "charEnd": 3555,
+            "id": 505,
+            "sentence": 24,
+            "text": "Guttenbergs",
+            "word": 4
+        },
+        {
+            "charBegin": 3555,
+            "charEnd": 3556,
+            "id": 506,
+            "sentence": 24,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 3557,
+            "charEnd": 3562,
+            "id": 507,
+            "sentence": 24,
+            "text": "Peter",
+            "word": 6
+        },
+        {
+            "charBegin": 3563,
+            "charEnd": 3570,
+            "id": 508,
+            "sentence": 24,
+            "text": "Häberle",
+            "word": 7
+        },
+        {
+            "charBegin": 3570,
+            "charEnd": 3571,
+            "id": 509,
+            "sentence": 24,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 3572,
+            "charEnd": 3580,
+            "id": 510,
+            "sentence": 24,
+            "text": "erklärte",
+            "word": 9
+        },
+        {
+            "charBegin": 3581,
+            "charEnd": 3583,
+            "id": 511,
+            "sentence": 24,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 3584,
+            "charEnd": 3589,
+            "id": 512,
+            "sentence": 24,
+            "text": "einem",
+            "word": 11
+        },
+        {
+            "charBegin": 3590,
+            "charEnd": 3607,
+            "id": 513,
+            "sentence": 24,
+            "text": "Zeitungsinterview",
+            "word": 12
+        },
+        {
+            "charBegin": 3607,
+            "charEnd": 3608,
+            "id": 514,
+            "sentence": 24,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 3609,
+            "charEnd": 3613,
+            "id": 515,
+            "sentence": 24,
+            "text": "über",
+            "word": 14
+        },
+        {
+            "charBegin": 3614,
+            "charEnd": 3617,
+            "id": 516,
+            "sentence": 24,
+            "text": "den",
+            "word": 15
+        },
+        {
+            "charBegin": 3618,
+            "charEnd": 3625,
+            "id": 517,
+            "sentence": 24,
+            "text": "Versuch",
+            "word": 16
+        },
+        {
+            "charBegin": 3625,
+            "charEnd": 3626,
+            "id": 518,
+            "sentence": 24,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 3627,
+            "charEnd": 3630,
+            "id": 519,
+            "sentence": 24,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 3631,
+            "charEnd": 3647,
+            "id": 520,
+            "sentence": 24,
+            "text": "Veröffentlichung",
+            "word": 19
+        },
+        {
+            "charBegin": 3648,
+            "charEnd": 3651,
+            "id": 521,
+            "sentence": 24,
+            "text": "des",
+            "word": 20
+        },
+        {
+            "charBegin": 3652,
+            "charEnd": 3662,
+            "id": 522,
+            "sentence": 24,
+            "text": "Gutachtens",
+            "word": 21
+        },
+        {
+            "charBegin": 3663,
+            "charEnd": 3665,
+            "id": 523,
+            "sentence": 24,
+            "text": "zu",
+            "word": 22
+        },
+        {
+            "charBegin": 3666,
+            "charEnd": 3676,
+            "id": 524,
+            "sentence": 24,
+            "text": "verhindern",
+            "word": 23
+        },
+        {
+            "charBegin": 3676,
+            "charEnd": 3677,
+            "id": 525,
+            "sentence": 24,
+            "text": ",",
+            "word": 24
+        },
+        {
+            "charBegin": 3678,
+            "charEnd": 3681,
+            "id": 526,
+            "sentence": 24,
+            "text": "sei",
+            "word": 25
+        },
+        {
+            "charBegin": 3682,
+            "charEnd": 3684,
+            "id": 527,
+            "sentence": 24,
+            "text": "er",
+            "word": 26
+        },
+        {
+            "charBegin": 3685,
+            "charEnd": 3686,
+            "id": 528,
+            "sentence": 24,
+            "text": "„",
+            "word": 27
+        },
+        {
+            "charBegin": 3686,
+            "charEnd": 3698,
+            "id": 529,
+            "sentence": 24,
+            "text": "existenziell",
+            "word": 28
+        },
+        {
+            "charBegin": 3699,
+            "charEnd": 3709,
+            "id": 530,
+            "sentence": 24,
+            "text": "enttäuscht",
+            "word": 29
+        },
+        {
+            "charBegin": 3709,
+            "charEnd": 3710,
+            "id": 531,
+            "sentence": 24,
+            "text": "“",
+            "word": 30
+        },
+        {
+            "charBegin": 3710,
+            "charEnd": 3711,
+            "id": 532,
+            "sentence": 24,
+            "text": ".",
+            "word": 31
+        }
+    ]
+}

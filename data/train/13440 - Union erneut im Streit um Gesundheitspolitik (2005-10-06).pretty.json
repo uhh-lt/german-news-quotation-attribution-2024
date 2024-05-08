@@ -1,0 +1,2021 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 3,
+                        "charBegin": 24,
+                        "charEnd": 51,
+                        "end": 7
+                    }
+                ],
+                "text": "die Schwesterpartei der CSU",
+                "tokenIds": [
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 10,
+                        "charBegin": 68,
+                        "charEnd": 81,
+                        "end": 12
+                    }
+                ],
+                "text": "die Forderung",
+                "tokenIds": [
+                    10,
+                    11
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 118,
+                        "end": 17
+                    }
+                ],
+                "text": "Mit Befremden reagierte die Schwesterpartei der CSU am Mittwoch auf die Forderung des CSU-Vorsitzenden Edmund Stoiber,",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 17,
+                        "charBegin": 119,
+                        "charEnd": 166,
+                        "end": 24
+                    }
+                ],
+                "text": "in der Gesundheitspolitik auf die SPD zuzugehen",
+                "tokenIds": [
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 10,
+                        "charBegin": 68,
+                        "charEnd": 117,
+                        "end": 16
+                    }
+                ],
+                "text": "die Forderung des CSU-Vorsitzenden Edmund Stoiber",
+                "tokenIds": [
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 140,
+                        "charBegin": 943,
+                        "charEnd": 950,
+                        "end": 141
+                    },
+                    {
+                        "begin": 152,
+                        "charBegin": 1043,
+                        "charEnd": 1055,
+                        "end": 154
+                    }
+                ],
+                "text": "brachte zum Ausdruck",
+                "tokenIds": [
+                    140,
+                    152,
+                    153
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 133,
+                        "charBegin": 900,
+                        "charEnd": 1056,
+                        "end": 155
+                    }
+                ],
+                "text": "Den Unmut der CDU über Stoibers Äußerungen brachte die gesundheitspolitische Sprecherin der Unionsfraktion im Bundestag, Annette Widmann-Mauz, zum Ausdruck:",
+                "tokenIds": [
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 155,
+                        "charBegin": 1057,
+                        "charEnd": 1153,
+                        "end": 171
+                    }
+                ],
+                "text": "„Es gibt keinen Grund, Positionen aufzugeben, bevor die Koalitionsverhandlungen begonnen haben.“",
+                "tokenIds": [
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    162,
+                    163,
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    169,
+                    170
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 141,
+                        "charBegin": 951,
+                        "charEnd": 1041,
+                        "end": 151
+                    }
+                ],
+                "text": "die gesundheitspolitische Sprecherin der Unionsfraktion im Bundestag, Annette Widmann-Mauz",
+                "tokenIds": [
+                    141,
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "13440 - Union erneut im Streit um Gesundheitspolitik (2005-10-06)",
+    "originalText": "Mit Befremden reagierte die Schwesterpartei der CSU am Mittwoch auf die Forderung des CSU-Vorsitzenden Edmund Stoiber, in der Gesundheitspolitik auf die SPD zuzugehen.\n\nStoiber sprach sich für einen Kompromiss zwischen dem von der SPD favorisierten Modell einer Bürgerversicherung und dem von CDU und CSU vertretenen Modell einer einheitlichen Krankenkassenprämie (der so genannten Kopfpauschale) aus. Damit machte er Front gegen eine zwischen CDU und CSU vor der Wahl mühsam ausgehandelte Grundsatzentscheidung in dieser Frage, die von der CSU aber nur unwillig mitgetragen wurde. Die CDU-Kanzlerkandidatin Angela Merkel hatte ihre Autorität als Vorsitzende in die Waagschale werfen müssen, um in dieser Frage das CDU-Modell einer einkommensunabhängigen Gesundheitsprämie gegenüber der CSU wenigstens mit Abstrichen durchzusetzen, das von der SPD im Wahlkampf als unsozial gebrandmarkt worden war.\n\nDen Unmut der CDU über Stoibers Äußerungen brachte die gesundheitspolitische Sprecherin der Unionsfraktion im Bundestag, Annette Widmann-Mauz, zum Ausdruck: „Es gibt keinen Grund, Positionen aufzugeben, bevor die Koalitionsverhandlungen begonnen haben.“",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 167,
+            "end": 25,
+            "id": 0,
+            "text": "Mit Befremden reagierte die Schwesterpartei der CSU am Mittwoch auf die Forderung des CSU-Vorsitzenden Edmund Stoiber, in der Gesundheitspolitik auf die SPD zuzugehen.",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24
+            ],
+            "tokens": [
+                "Mit",
+                "Befremden",
+                "reagierte",
+                "die",
+                "Schwesterpartei",
+                "der",
+                "CSU",
+                "am",
+                "Mittwoch",
+                "auf",
+                "die",
+                "Forderung",
+                "des",
+                "CSU-Vorsitzenden",
+                "Edmund",
+                "Stoiber",
+                ",",
+                "in",
+                "der",
+                "Gesundheitspolitik",
+                "auf",
+                "die",
+                "SPD",
+                "zuzugehen",
+                "."
+            ]
+        },
+        {
+            "begin": 25,
+            "charBegin": 169,
+            "charEnd": 401,
+            "end": 59,
+            "id": 1,
+            "text": "Stoiber sprach sich für einen Kompromiss zwischen dem von der SPD favorisierten Modell einer Bürgerversicherung und dem von CDU und CSU vertretenen Modell einer einheitlichen Krankenkassenprämie (der so genannten Kopfpauschale) aus. ",
+            "tokenIds": [
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58
+            ],
+            "tokens": [
+                "Stoiber",
+                "sprach",
+                "sich",
+                "für",
+                "einen",
+                "Kompromiss",
+                "zwischen",
+                "dem",
+                "von",
+                "der",
+                "SPD",
+                "favorisierten",
+                "Modell",
+                "einer",
+                "Bürgerversicherung",
+                "und",
+                "dem",
+                "von",
+                "CDU",
+                "und",
+                "CSU",
+                "vertretenen",
+                "Modell",
+                "einer",
+                "einheitlichen",
+                "Krankenkassenprämie",
+                "(",
+                "der",
+                "so",
+                "genannten",
+                "Kopfpauschale",
+                ")",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "begin": 59,
+            "charBegin": 402,
+            "charEnd": 581,
+            "end": 89,
+            "id": 2,
+            "text": "Damit machte er Front gegen eine zwischen CDU und CSU vor der Wahl mühsam ausgehandelte Grundsatzentscheidung in dieser Frage, die von der CSU aber nur unwillig mitgetragen wurde. ",
+            "tokenIds": [
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88
+            ],
+            "tokens": [
+                "Damit",
+                "machte",
+                "er",
+                "Front",
+                "gegen",
+                "eine",
+                "zwischen",
+                "CDU",
+                "und",
+                "CSU",
+                "vor",
+                "der",
+                "Wahl",
+                "mühsam",
+                "ausgehandelte",
+                "Grundsatzentscheidung",
+                "in",
+                "dieser",
+                "Frage",
+                ",",
+                "die",
+                "von",
+                "der",
+                "CSU",
+                "aber",
+                "nur",
+                "unwillig",
+                "mitgetragen",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "begin": 89,
+            "charBegin": 582,
+            "charEnd": 898,
+            "end": 133,
+            "id": 3,
+            "text": "Die CDU-Kanzlerkandidatin Angela Merkel hatte ihre Autorität als Vorsitzende in die Waagschale werfen müssen, um in dieser Frage das CDU-Modell einer einkommensunabhängigen Gesundheitsprämie gegenüber der CSU wenigstens mit Abstrichen durchzusetzen, das von der SPD im Wahlkampf als unsozial gebrandmarkt worden war.",
+            "tokenIds": [
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132
+            ],
+            "tokens": [
+                "Die",
+                "CDU-Kanzlerkandidatin",
+                "Angela",
+                "Merkel",
+                "hatte",
+                "ihre",
+                "Autorität",
+                "als",
+                "Vorsitzende",
+                "in",
+                "die",
+                "Waagschale",
+                "werfen",
+                "müssen",
+                ",",
+                "um",
+                "in",
+                "dieser",
+                "Frage",
+                "das",
+                "CDU-Modell",
+                "einer",
+                "einkommensunabhängigen",
+                "Gesundheitsprämie",
+                "gegenüber",
+                "der",
+                "CSU",
+                "wenigstens",
+                "mit",
+                "Abstrichen",
+                "durchzusetzen",
+                ",",
+                "das",
+                "von",
+                "der",
+                "SPD",
+                "im",
+                "Wahlkampf",
+                "als",
+                "unsozial",
+                "gebrandmarkt",
+                "worden",
+                "war",
+                "."
+            ]
+        },
+        {
+            "begin": 133,
+            "charBegin": 900,
+            "charEnd": 1056,
+            "end": 155,
+            "id": 4,
+            "text": "Den Unmut der CDU über Stoibers Äußerungen brachte die gesundheitspolitische Sprecherin der Unionsfraktion im Bundestag, Annette Widmann-Mauz, zum Ausdruck: ",
+            "tokenIds": [
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154
+            ],
+            "tokens": [
+                "Den",
+                "Unmut",
+                "der",
+                "CDU",
+                "über",
+                "Stoibers",
+                "Äußerungen",
+                "brachte",
+                "die",
+                "gesundheitspolitische",
+                "Sprecherin",
+                "der",
+                "Unionsfraktion",
+                "im",
+                "Bundestag",
+                ",",
+                "Annette",
+                "Widmann-Mauz",
+                ",",
+                "zum",
+                "Ausdruck",
+                ":"
+            ]
+        },
+        {
+            "begin": 155,
+            "charBegin": 1057,
+            "charEnd": 1153,
+            "end": 171,
+            "id": 5,
+            "text": "„Es gibt keinen Grund, Positionen aufzugeben, bevor die Koalitionsverhandlungen begonnen haben.“",
+            "tokenIds": [
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170
+            ],
+            "tokens": [
+                "„",
+                "Es",
+                "gibt",
+                "keinen",
+                "Grund",
+                ",",
+                "Positionen",
+                "aufzugeben",
+                ",",
+                "bevor",
+                "die",
+                "Koalitionsverhandlungen",
+                "begonnen",
+                "haben",
+                ".",
+                "“"
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Mit",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 13,
+            "id": 1,
+            "sentence": 1,
+            "text": "Befremden",
+            "word": 2
+        },
+        {
+            "charBegin": 14,
+            "charEnd": 23,
+            "id": 2,
+            "sentence": 1,
+            "text": "reagierte",
+            "word": 3
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 27,
+            "id": 3,
+            "sentence": 1,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 28,
+            "charEnd": 43,
+            "id": 4,
+            "sentence": 1,
+            "text": "Schwesterpartei",
+            "word": 5
+        },
+        {
+            "charBegin": 44,
+            "charEnd": 47,
+            "id": 5,
+            "sentence": 1,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 48,
+            "charEnd": 51,
+            "id": 6,
+            "sentence": 1,
+            "text": "CSU",
+            "word": 7
+        },
+        {
+            "charBegin": 52,
+            "charEnd": 54,
+            "id": 7,
+            "sentence": 1,
+            "text": "am",
+            "word": 8
+        },
+        {
+            "charBegin": 55,
+            "charEnd": 63,
+            "id": 8,
+            "sentence": 1,
+            "text": "Mittwoch",
+            "word": 9
+        },
+        {
+            "charBegin": 64,
+            "charEnd": 67,
+            "id": 9,
+            "sentence": 1,
+            "text": "auf",
+            "word": 10
+        },
+        {
+            "charBegin": 68,
+            "charEnd": 71,
+            "id": 10,
+            "sentence": 1,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 72,
+            "charEnd": 81,
+            "id": 11,
+            "sentence": 1,
+            "text": "Forderung",
+            "word": 12
+        },
+        {
+            "charBegin": 82,
+            "charEnd": 85,
+            "id": 12,
+            "sentence": 1,
+            "text": "des",
+            "word": 13
+        },
+        {
+            "charBegin": 86,
+            "charEnd": 102,
+            "id": 13,
+            "sentence": 1,
+            "text": "CSU-Vorsitzenden",
+            "word": 14
+        },
+        {
+            "charBegin": 103,
+            "charEnd": 109,
+            "id": 14,
+            "sentence": 1,
+            "text": "Edmund",
+            "word": 15
+        },
+        {
+            "charBegin": 110,
+            "charEnd": 117,
+            "id": 15,
+            "sentence": 1,
+            "text": "Stoiber",
+            "word": 16
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 118,
+            "id": 16,
+            "sentence": 1,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 119,
+            "charEnd": 121,
+            "id": 17,
+            "sentence": 1,
+            "text": "in",
+            "word": 18
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 125,
+            "id": 18,
+            "sentence": 1,
+            "text": "der",
+            "word": 19
+        },
+        {
+            "charBegin": 126,
+            "charEnd": 144,
+            "id": 19,
+            "sentence": 1,
+            "text": "Gesundheitspolitik",
+            "word": 20
+        },
+        {
+            "charBegin": 145,
+            "charEnd": 148,
+            "id": 20,
+            "sentence": 1,
+            "text": "auf",
+            "word": 21
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 152,
+            "id": 21,
+            "sentence": 1,
+            "text": "die",
+            "word": 22
+        },
+        {
+            "charBegin": 153,
+            "charEnd": 156,
+            "id": 22,
+            "sentence": 1,
+            "text": "SPD",
+            "word": 23
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 166,
+            "id": 23,
+            "sentence": 1,
+            "text": "zuzugehen",
+            "word": 24
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 167,
+            "id": 24,
+            "sentence": 1,
+            "text": ".",
+            "word": 25
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 176,
+            "id": 25,
+            "sentence": 2,
+            "text": "Stoiber",
+            "word": 1
+        },
+        {
+            "charBegin": 177,
+            "charEnd": 183,
+            "id": 26,
+            "sentence": 2,
+            "text": "sprach",
+            "word": 2
+        },
+        {
+            "charBegin": 184,
+            "charEnd": 188,
+            "id": 27,
+            "sentence": 2,
+            "text": "sich",
+            "word": 3
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 192,
+            "id": 28,
+            "sentence": 2,
+            "text": "für",
+            "word": 4
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 198,
+            "id": 29,
+            "sentence": 2,
+            "text": "einen",
+            "word": 5
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 209,
+            "id": 30,
+            "sentence": 2,
+            "text": "Kompromiss",
+            "word": 6
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 218,
+            "id": 31,
+            "sentence": 2,
+            "text": "zwischen",
+            "word": 7
+        },
+        {
+            "charBegin": 219,
+            "charEnd": 222,
+            "id": 32,
+            "sentence": 2,
+            "text": "dem",
+            "word": 8
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 226,
+            "id": 33,
+            "sentence": 2,
+            "text": "von",
+            "word": 9
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 230,
+            "id": 34,
+            "sentence": 2,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 234,
+            "id": 35,
+            "sentence": 2,
+            "text": "SPD",
+            "word": 11
+        },
+        {
+            "charBegin": 235,
+            "charEnd": 248,
+            "id": 36,
+            "sentence": 2,
+            "text": "favorisierten",
+            "word": 12
+        },
+        {
+            "charBegin": 249,
+            "charEnd": 255,
+            "id": 37,
+            "sentence": 2,
+            "text": "Modell",
+            "word": 13
+        },
+        {
+            "charBegin": 256,
+            "charEnd": 261,
+            "id": 38,
+            "sentence": 2,
+            "text": "einer",
+            "word": 14
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 280,
+            "id": 39,
+            "sentence": 2,
+            "text": "Bürgerversicherung",
+            "word": 15
+        },
+        {
+            "charBegin": 281,
+            "charEnd": 284,
+            "id": 40,
+            "sentence": 2,
+            "text": "und",
+            "word": 16
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 288,
+            "id": 41,
+            "sentence": 2,
+            "text": "dem",
+            "word": 17
+        },
+        {
+            "charBegin": 289,
+            "charEnd": 292,
+            "id": 42,
+            "sentence": 2,
+            "text": "von",
+            "word": 18
+        },
+        {
+            "charBegin": 293,
+            "charEnd": 296,
+            "id": 43,
+            "sentence": 2,
+            "text": "CDU",
+            "word": 19
+        },
+        {
+            "charBegin": 297,
+            "charEnd": 300,
+            "id": 44,
+            "sentence": 2,
+            "text": "und",
+            "word": 20
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 304,
+            "id": 45,
+            "sentence": 2,
+            "text": "CSU",
+            "word": 21
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 316,
+            "id": 46,
+            "sentence": 2,
+            "text": "vertretenen",
+            "word": 22
+        },
+        {
+            "charBegin": 317,
+            "charEnd": 323,
+            "id": 47,
+            "sentence": 2,
+            "text": "Modell",
+            "word": 23
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 329,
+            "id": 48,
+            "sentence": 2,
+            "text": "einer",
+            "word": 24
+        },
+        {
+            "charBegin": 330,
+            "charEnd": 343,
+            "id": 49,
+            "sentence": 2,
+            "text": "einheitlichen",
+            "word": 25
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 363,
+            "id": 50,
+            "sentence": 2,
+            "text": "Krankenkassenprämie",
+            "word": 26
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 365,
+            "id": 51,
+            "sentence": 2,
+            "text": "(",
+            "word": 27
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 368,
+            "id": 52,
+            "sentence": 2,
+            "text": "der",
+            "word": 28
+        },
+        {
+            "charBegin": 369,
+            "charEnd": 371,
+            "id": 53,
+            "sentence": 2,
+            "text": "so",
+            "word": 29
+        },
+        {
+            "charBegin": 372,
+            "charEnd": 381,
+            "id": 54,
+            "sentence": 2,
+            "text": "genannten",
+            "word": 30
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 395,
+            "id": 55,
+            "sentence": 2,
+            "text": "Kopfpauschale",
+            "word": 31
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 396,
+            "id": 56,
+            "sentence": 2,
+            "text": ")",
+            "word": 32
+        },
+        {
+            "charBegin": 397,
+            "charEnd": 400,
+            "id": 57,
+            "sentence": 2,
+            "text": "aus",
+            "word": 33
+        },
+        {
+            "charBegin": 400,
+            "charEnd": 401,
+            "id": 58,
+            "sentence": 2,
+            "text": ".",
+            "word": 34
+        },
+        {
+            "charBegin": 402,
+            "charEnd": 407,
+            "id": 59,
+            "sentence": 3,
+            "text": "Damit",
+            "word": 1
+        },
+        {
+            "charBegin": 408,
+            "charEnd": 414,
+            "id": 60,
+            "sentence": 3,
+            "text": "machte",
+            "word": 2
+        },
+        {
+            "charBegin": 415,
+            "charEnd": 417,
+            "id": 61,
+            "sentence": 3,
+            "text": "er",
+            "word": 3
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 423,
+            "id": 62,
+            "sentence": 3,
+            "text": "Front",
+            "word": 4
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 429,
+            "id": 63,
+            "sentence": 3,
+            "text": "gegen",
+            "word": 5
+        },
+        {
+            "charBegin": 430,
+            "charEnd": 434,
+            "id": 64,
+            "sentence": 3,
+            "text": "eine",
+            "word": 6
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 443,
+            "id": 65,
+            "sentence": 3,
+            "text": "zwischen",
+            "word": 7
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 447,
+            "id": 66,
+            "sentence": 3,
+            "text": "CDU",
+            "word": 8
+        },
+        {
+            "charBegin": 448,
+            "charEnd": 451,
+            "id": 67,
+            "sentence": 3,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 452,
+            "charEnd": 455,
+            "id": 68,
+            "sentence": 3,
+            "text": "CSU",
+            "word": 10
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 459,
+            "id": 69,
+            "sentence": 3,
+            "text": "vor",
+            "word": 11
+        },
+        {
+            "charBegin": 460,
+            "charEnd": 463,
+            "id": 70,
+            "sentence": 3,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 468,
+            "id": 71,
+            "sentence": 3,
+            "text": "Wahl",
+            "word": 13
+        },
+        {
+            "charBegin": 469,
+            "charEnd": 475,
+            "id": 72,
+            "sentence": 3,
+            "text": "mühsam",
+            "word": 14
+        },
+        {
+            "charBegin": 476,
+            "charEnd": 489,
+            "id": 73,
+            "sentence": 3,
+            "text": "ausgehandelte",
+            "word": 15
+        },
+        {
+            "charBegin": 490,
+            "charEnd": 511,
+            "id": 74,
+            "sentence": 3,
+            "text": "Grundsatzentscheidung",
+            "word": 16
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 514,
+            "id": 75,
+            "sentence": 3,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 515,
+            "charEnd": 521,
+            "id": 76,
+            "sentence": 3,
+            "text": "dieser",
+            "word": 18
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 527,
+            "id": 77,
+            "sentence": 3,
+            "text": "Frage",
+            "word": 19
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 528,
+            "id": 78,
+            "sentence": 3,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 529,
+            "charEnd": 532,
+            "id": 79,
+            "sentence": 3,
+            "text": "die",
+            "word": 21
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 536,
+            "id": 80,
+            "sentence": 3,
+            "text": "von",
+            "word": 22
+        },
+        {
+            "charBegin": 537,
+            "charEnd": 540,
+            "id": 81,
+            "sentence": 3,
+            "text": "der",
+            "word": 23
+        },
+        {
+            "charBegin": 541,
+            "charEnd": 544,
+            "id": 82,
+            "sentence": 3,
+            "text": "CSU",
+            "word": 24
+        },
+        {
+            "charBegin": 545,
+            "charEnd": 549,
+            "id": 83,
+            "sentence": 3,
+            "text": "aber",
+            "word": 25
+        },
+        {
+            "charBegin": 550,
+            "charEnd": 553,
+            "id": 84,
+            "sentence": 3,
+            "text": "nur",
+            "word": 26
+        },
+        {
+            "charBegin": 554,
+            "charEnd": 562,
+            "id": 85,
+            "sentence": 3,
+            "text": "unwillig",
+            "word": 27
+        },
+        {
+            "charBegin": 563,
+            "charEnd": 574,
+            "id": 86,
+            "sentence": 3,
+            "text": "mitgetragen",
+            "word": 28
+        },
+        {
+            "charBegin": 575,
+            "charEnd": 580,
+            "id": 87,
+            "sentence": 3,
+            "text": "wurde",
+            "word": 29
+        },
+        {
+            "charBegin": 580,
+            "charEnd": 581,
+            "id": 88,
+            "sentence": 3,
+            "text": ".",
+            "word": 30
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 585,
+            "id": 89,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 607,
+            "id": 90,
+            "sentence": 4,
+            "text": "CDU-Kanzlerkandidatin",
+            "word": 2
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 614,
+            "id": 91,
+            "sentence": 4,
+            "text": "Angela",
+            "word": 3
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 621,
+            "id": 92,
+            "sentence": 4,
+            "text": "Merkel",
+            "word": 4
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 627,
+            "id": 93,
+            "sentence": 4,
+            "text": "hatte",
+            "word": 5
+        },
+        {
+            "charBegin": 628,
+            "charEnd": 632,
+            "id": 94,
+            "sentence": 4,
+            "text": "ihre",
+            "word": 6
+        },
+        {
+            "charBegin": 633,
+            "charEnd": 642,
+            "id": 95,
+            "sentence": 4,
+            "text": "Autorität",
+            "word": 7
+        },
+        {
+            "charBegin": 643,
+            "charEnd": 646,
+            "id": 96,
+            "sentence": 4,
+            "text": "als",
+            "word": 8
+        },
+        {
+            "charBegin": 647,
+            "charEnd": 658,
+            "id": 97,
+            "sentence": 4,
+            "text": "Vorsitzende",
+            "word": 9
+        },
+        {
+            "charBegin": 659,
+            "charEnd": 661,
+            "id": 98,
+            "sentence": 4,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 662,
+            "charEnd": 665,
+            "id": 99,
+            "sentence": 4,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 666,
+            "charEnd": 676,
+            "id": 100,
+            "sentence": 4,
+            "text": "Waagschale",
+            "word": 12
+        },
+        {
+            "charBegin": 677,
+            "charEnd": 683,
+            "id": 101,
+            "sentence": 4,
+            "text": "werfen",
+            "word": 13
+        },
+        {
+            "charBegin": 684,
+            "charEnd": 690,
+            "id": 102,
+            "sentence": 4,
+            "text": "müssen",
+            "word": 14
+        },
+        {
+            "charBegin": 690,
+            "charEnd": 691,
+            "id": 103,
+            "sentence": 4,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 692,
+            "charEnd": 694,
+            "id": 104,
+            "sentence": 4,
+            "text": "um",
+            "word": 16
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 697,
+            "id": 105,
+            "sentence": 4,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 698,
+            "charEnd": 704,
+            "id": 106,
+            "sentence": 4,
+            "text": "dieser",
+            "word": 18
+        },
+        {
+            "charBegin": 705,
+            "charEnd": 710,
+            "id": 107,
+            "sentence": 4,
+            "text": "Frage",
+            "word": 19
+        },
+        {
+            "charBegin": 711,
+            "charEnd": 714,
+            "id": 108,
+            "sentence": 4,
+            "text": "das",
+            "word": 20
+        },
+        {
+            "charBegin": 715,
+            "charEnd": 725,
+            "id": 109,
+            "sentence": 4,
+            "text": "CDU-Modell",
+            "word": 21
+        },
+        {
+            "charBegin": 726,
+            "charEnd": 731,
+            "id": 110,
+            "sentence": 4,
+            "text": "einer",
+            "word": 22
+        },
+        {
+            "charBegin": 732,
+            "charEnd": 754,
+            "id": 111,
+            "sentence": 4,
+            "text": "einkommensunabhängigen",
+            "word": 23
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 772,
+            "id": 112,
+            "sentence": 4,
+            "text": "Gesundheitsprämie",
+            "word": 24
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 782,
+            "id": 113,
+            "sentence": 4,
+            "text": "gegenüber",
+            "word": 25
+        },
+        {
+            "charBegin": 783,
+            "charEnd": 786,
+            "id": 114,
+            "sentence": 4,
+            "text": "der",
+            "word": 26
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 790,
+            "id": 115,
+            "sentence": 4,
+            "text": "CSU",
+            "word": 27
+        },
+        {
+            "charBegin": 791,
+            "charEnd": 801,
+            "id": 116,
+            "sentence": 4,
+            "text": "wenigstens",
+            "word": 28
+        },
+        {
+            "charBegin": 802,
+            "charEnd": 805,
+            "id": 117,
+            "sentence": 4,
+            "text": "mit",
+            "word": 29
+        },
+        {
+            "charBegin": 806,
+            "charEnd": 816,
+            "id": 118,
+            "sentence": 4,
+            "text": "Abstrichen",
+            "word": 30
+        },
+        {
+            "charBegin": 817,
+            "charEnd": 830,
+            "id": 119,
+            "sentence": 4,
+            "text": "durchzusetzen",
+            "word": 31
+        },
+        {
+            "charBegin": 830,
+            "charEnd": 831,
+            "id": 120,
+            "sentence": 4,
+            "text": ",",
+            "word": 32
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 835,
+            "id": 121,
+            "sentence": 4,
+            "text": "das",
+            "word": 33
+        },
+        {
+            "charBegin": 836,
+            "charEnd": 839,
+            "id": 122,
+            "sentence": 4,
+            "text": "von",
+            "word": 34
+        },
+        {
+            "charBegin": 840,
+            "charEnd": 843,
+            "id": 123,
+            "sentence": 4,
+            "text": "der",
+            "word": 35
+        },
+        {
+            "charBegin": 844,
+            "charEnd": 847,
+            "id": 124,
+            "sentence": 4,
+            "text": "SPD",
+            "word": 36
+        },
+        {
+            "charBegin": 848,
+            "charEnd": 850,
+            "id": 125,
+            "sentence": 4,
+            "text": "im",
+            "word": 37
+        },
+        {
+            "charBegin": 851,
+            "charEnd": 860,
+            "id": 126,
+            "sentence": 4,
+            "text": "Wahlkampf",
+            "word": 38
+        },
+        {
+            "charBegin": 861,
+            "charEnd": 864,
+            "id": 127,
+            "sentence": 4,
+            "text": "als",
+            "word": 39
+        },
+        {
+            "charBegin": 865,
+            "charEnd": 873,
+            "id": 128,
+            "sentence": 4,
+            "text": "unsozial",
+            "word": 40
+        },
+        {
+            "charBegin": 874,
+            "charEnd": 886,
+            "id": 129,
+            "sentence": 4,
+            "text": "gebrandmarkt",
+            "word": 41
+        },
+        {
+            "charBegin": 887,
+            "charEnd": 893,
+            "id": 130,
+            "sentence": 4,
+            "text": "worden",
+            "word": 42
+        },
+        {
+            "charBegin": 894,
+            "charEnd": 897,
+            "id": 131,
+            "sentence": 4,
+            "text": "war",
+            "word": 43
+        },
+        {
+            "charBegin": 897,
+            "charEnd": 898,
+            "id": 132,
+            "sentence": 4,
+            "text": ".",
+            "word": 44
+        },
+        {
+            "charBegin": 900,
+            "charEnd": 903,
+            "id": 133,
+            "sentence": 5,
+            "text": "Den",
+            "word": 1
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 909,
+            "id": 134,
+            "sentence": 5,
+            "text": "Unmut",
+            "word": 2
+        },
+        {
+            "charBegin": 910,
+            "charEnd": 913,
+            "id": 135,
+            "sentence": 5,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 914,
+            "charEnd": 917,
+            "id": 136,
+            "sentence": 5,
+            "text": "CDU",
+            "word": 4
+        },
+        {
+            "charBegin": 918,
+            "charEnd": 922,
+            "id": 137,
+            "sentence": 5,
+            "text": "über",
+            "word": 5
+        },
+        {
+            "charBegin": 923,
+            "charEnd": 931,
+            "id": 138,
+            "sentence": 5,
+            "text": "Stoibers",
+            "word": 6
+        },
+        {
+            "charBegin": 932,
+            "charEnd": 942,
+            "id": 139,
+            "sentence": 5,
+            "text": "Äußerungen",
+            "word": 7
+        },
+        {
+            "charBegin": 943,
+            "charEnd": 950,
+            "id": 140,
+            "sentence": 5,
+            "text": "brachte",
+            "word": 8
+        },
+        {
+            "charBegin": 951,
+            "charEnd": 954,
+            "id": 141,
+            "sentence": 5,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 955,
+            "charEnd": 976,
+            "id": 142,
+            "sentence": 5,
+            "text": "gesundheitspolitische",
+            "word": 10
+        },
+        {
+            "charBegin": 977,
+            "charEnd": 987,
+            "id": 143,
+            "sentence": 5,
+            "text": "Sprecherin",
+            "word": 11
+        },
+        {
+            "charBegin": 988,
+            "charEnd": 991,
+            "id": 144,
+            "sentence": 5,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 992,
+            "charEnd": 1006,
+            "id": 145,
+            "sentence": 5,
+            "text": "Unionsfraktion",
+            "word": 13
+        },
+        {
+            "charBegin": 1007,
+            "charEnd": 1009,
+            "id": 146,
+            "sentence": 5,
+            "text": "im",
+            "word": 14
+        },
+        {
+            "charBegin": 1010,
+            "charEnd": 1019,
+            "id": 147,
+            "sentence": 5,
+            "text": "Bundestag",
+            "word": 15
+        },
+        {
+            "charBegin": 1019,
+            "charEnd": 1020,
+            "id": 148,
+            "sentence": 5,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 1021,
+            "charEnd": 1028,
+            "id": 149,
+            "sentence": 5,
+            "text": "Annette",
+            "word": 17
+        },
+        {
+            "charBegin": 1029,
+            "charEnd": 1041,
+            "id": 150,
+            "sentence": 5,
+            "text": "Widmann-Mauz",
+            "word": 18
+        },
+        {
+            "charBegin": 1041,
+            "charEnd": 1042,
+            "id": 151,
+            "sentence": 5,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 1043,
+            "charEnd": 1046,
+            "id": 152,
+            "sentence": 5,
+            "text": "zum",
+            "word": 20
+        },
+        {
+            "charBegin": 1047,
+            "charEnd": 1055,
+            "id": 153,
+            "sentence": 5,
+            "text": "Ausdruck",
+            "word": 21
+        },
+        {
+            "charBegin": 1055,
+            "charEnd": 1056,
+            "id": 154,
+            "sentence": 5,
+            "text": ":",
+            "word": 22
+        },
+        {
+            "charBegin": 1057,
+            "charEnd": 1058,
+            "id": 155,
+            "sentence": 6,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 1058,
+            "charEnd": 1060,
+            "id": 156,
+            "sentence": 6,
+            "text": "Es",
+            "word": 2
+        },
+        {
+            "charBegin": 1061,
+            "charEnd": 1065,
+            "id": 157,
+            "sentence": 6,
+            "text": "gibt",
+            "word": 3
+        },
+        {
+            "charBegin": 1066,
+            "charEnd": 1072,
+            "id": 158,
+            "sentence": 6,
+            "text": "keinen",
+            "word": 4
+        },
+        {
+            "charBegin": 1073,
+            "charEnd": 1078,
+            "id": 159,
+            "sentence": 6,
+            "text": "Grund",
+            "word": 5
+        },
+        {
+            "charBegin": 1078,
+            "charEnd": 1079,
+            "id": 160,
+            "sentence": 6,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 1080,
+            "charEnd": 1090,
+            "id": 161,
+            "sentence": 6,
+            "text": "Positionen",
+            "word": 7
+        },
+        {
+            "charBegin": 1091,
+            "charEnd": 1101,
+            "id": 162,
+            "sentence": 6,
+            "text": "aufzugeben",
+            "word": 8
+        },
+        {
+            "charBegin": 1101,
+            "charEnd": 1102,
+            "id": 163,
+            "sentence": 6,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 1103,
+            "charEnd": 1108,
+            "id": 164,
+            "sentence": 6,
+            "text": "bevor",
+            "word": 10
+        },
+        {
+            "charBegin": 1109,
+            "charEnd": 1112,
+            "id": 165,
+            "sentence": 6,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 1113,
+            "charEnd": 1136,
+            "id": 166,
+            "sentence": 6,
+            "text": "Koalitionsverhandlungen",
+            "word": 12
+        },
+        {
+            "charBegin": 1137,
+            "charEnd": 1145,
+            "id": 167,
+            "sentence": 6,
+            "text": "begonnen",
+            "word": 13
+        },
+        {
+            "charBegin": 1146,
+            "charEnd": 1151,
+            "id": 168,
+            "sentence": 6,
+            "text": "haben",
+            "word": 14
+        },
+        {
+            "charBegin": 1151,
+            "charEnd": 1152,
+            "id": 169,
+            "sentence": 6,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 1152,
+            "charEnd": 1153,
+            "id": 170,
+            "sentence": 6,
+            "text": "“",
+            "word": 16
+        }
+    ]
+}

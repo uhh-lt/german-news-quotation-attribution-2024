@@ -1,0 +1,1691 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 61,
+                        "charBegin": 362,
+                        "charEnd": 378,
+                        "end": 63
+                    }
+                ],
+                "text": "dem Kontrollturm",
+                "tokenIds": [
+                    61,
+                    62
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 60,
+                        "charBegin": 353,
+                        "charEnd": 361,
+                        "end": 61
+                    },
+                    {
+                        "begin": 63,
+                        "charBegin": 379,
+                        "charEnd": 381,
+                        "end": 64
+                    }
+                ],
+                "text": "kündigte an",
+                "tokenIds": [
+                    60,
+                    63
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 50,
+                        "charBegin": 291,
+                        "charEnd": 382,
+                        "end": 65
+                    }
+                ],
+                "text": "Zudem bemerkte der Pilot Probleme an einem der Triebwerke und kündigte dem Kontrollturm an,",
+                "tokenIds": [
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 65,
+                        "charBegin": 383,
+                        "charEnd": 456,
+                        "end": 76
+                    }
+                ],
+                "text": "es werde keine normale Landung, sondern vielmehr eine Notlandung erfolgen",
+                "tokenIds": [
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 52,
+                        "charBegin": 306,
+                        "charEnd": 315,
+                        "end": 54
+                    }
+                ],
+                "text": "der Pilot",
+                "tokenIds": [
+                    52,
+                    53
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 123,
+                        "charBegin": 795,
+                        "charEnd": 802,
+                        "end": 124
+                    }
+                ],
+                "text": "zufolge",
+                "tokenIds": [
+                    123
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 121,
+                        "charBegin": 780,
+                        "charEnd": 802,
+                        "end": 124
+                    }
+                ],
+                "text": "Ersten Angaben zufolge",
+                "tokenIds": [
+                    121,
+                    122,
+                    123
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 124,
+                        "charBegin": 803,
+                        "charEnd": 880,
+                        "end": 137
+                    }
+                ],
+                "text": "könnte die Ursache für den Rauch ein Defekt an einer Klimaanlage gewesen sein",
+                "tokenIds": [
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135,
+                    136
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 121,
+                        "charBegin": 780,
+                        "charEnd": 794,
+                        "end": 123
+                    }
+                ],
+                "text": "Ersten Angaben",
+                "tokenIds": [
+                    121,
+                    122
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "20690 - Notlandung einer Boeing 747 auf dem Lütticher Flughafen (2006-01-24)",
+    "originalText": "Eine Boeing 747 musste am Sonntagmorgen, dem 22. Januar, gegen 10:30 Uhr notlanden. Da das Flugzeug nur Fracht beförderte, befanden sich außer der Besatzung keine Personen an Bord.\n\nIn der Maschine war während des Anfluges auf den Lütticher Flughafen Bierset Rauch im Cockpit festzustellen. Zudem bemerkte der Pilot Probleme an einem der Triebwerke und kündigte dem Kontrollturm an, es werde keine normale Landung, sondern vielmehr eine Notlandung erfolgen. Daraufhin traf der Flughafen die erforderlichen Vorkehrungen.\n\nDie Landung erfolgte rund zehn Minuten nach der Vorwarnung sicher und problemlos. Die bereitstehenden Rettungskräfte, die Flughafenfeuerwehr sowie die herbeigeeilte Berufsfeuerwehr von Lüttich wurden nicht benötigt. Von der Besatzung wurde niemand verletzt.\n\nErsten Angaben zufolge könnte die Ursache für den Rauch ein Defekt an einer Klimaanlage gewesen sein.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 83,
+            "end": 16,
+            "id": 0,
+            "text": "Eine Boeing 747 musste am Sonntagmorgen, dem 22. Januar, gegen 10:30 Uhr notlanden. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "tokens": [
+                "Eine",
+                "Boeing",
+                "747",
+                "musste",
+                "am",
+                "Sonntagmorgen",
+                ",",
+                "dem",
+                "22.",
+                "Januar",
+                ",",
+                "gegen",
+                "10:30",
+                "Uhr",
+                "notlanden",
+                "."
+            ]
+        },
+        {
+            "begin": 16,
+            "charBegin": 84,
+            "charEnd": 180,
+            "end": 33,
+            "id": 1,
+            "text": "Da das Flugzeug nur Fracht beförderte, befanden sich außer der Besatzung keine Personen an Bord.",
+            "tokenIds": [
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32
+            ],
+            "tokens": [
+                "Da",
+                "das",
+                "Flugzeug",
+                "nur",
+                "Fracht",
+                "beförderte",
+                ",",
+                "befanden",
+                "sich",
+                "außer",
+                "der",
+                "Besatzung",
+                "keine",
+                "Personen",
+                "an",
+                "Bord",
+                "."
+            ]
+        },
+        {
+            "begin": 33,
+            "charBegin": 182,
+            "charEnd": 290,
+            "end": 50,
+            "id": 2,
+            "text": "In der Maschine war während des Anfluges auf den Lütticher Flughafen Bierset Rauch im Cockpit festzustellen. ",
+            "tokenIds": [
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ],
+            "tokens": [
+                "In",
+                "der",
+                "Maschine",
+                "war",
+                "während",
+                "des",
+                "Anfluges",
+                "auf",
+                "den",
+                "Lütticher",
+                "Flughafen",
+                "Bierset",
+                "Rauch",
+                "im",
+                "Cockpit",
+                "festzustellen",
+                "."
+            ]
+        },
+        {
+            "begin": 50,
+            "charBegin": 291,
+            "charEnd": 457,
+            "end": 77,
+            "id": 3,
+            "text": "Zudem bemerkte der Pilot Probleme an einem der Triebwerke und kündigte dem Kontrollturm an, es werde keine normale Landung, sondern vielmehr eine Notlandung erfolgen. ",
+            "tokenIds": [
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76
+            ],
+            "tokens": [
+                "Zudem",
+                "bemerkte",
+                "der",
+                "Pilot",
+                "Probleme",
+                "an",
+                "einem",
+                "der",
+                "Triebwerke",
+                "und",
+                "kündigte",
+                "dem",
+                "Kontrollturm",
+                "an",
+                ",",
+                "es",
+                "werde",
+                "keine",
+                "normale",
+                "Landung",
+                ",",
+                "sondern",
+                "vielmehr",
+                "eine",
+                "Notlandung",
+                "erfolgen",
+                "."
+            ]
+        },
+        {
+            "begin": 77,
+            "charBegin": 458,
+            "charEnd": 519,
+            "end": 85,
+            "id": 4,
+            "text": "Daraufhin traf der Flughafen die erforderlichen Vorkehrungen.",
+            "tokenIds": [
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84
+            ],
+            "tokens": [
+                "Daraufhin",
+                "traf",
+                "der",
+                "Flughafen",
+                "die",
+                "erforderlichen",
+                "Vorkehrungen",
+                "."
+            ]
+        },
+        {
+            "begin": 85,
+            "charBegin": 521,
+            "charEnd": 602,
+            "end": 98,
+            "id": 5,
+            "text": "Die Landung erfolgte rund zehn Minuten nach der Vorwarnung sicher und problemlos. ",
+            "tokenIds": [
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97
+            ],
+            "tokens": [
+                "Die",
+                "Landung",
+                "erfolgte",
+                "rund",
+                "zehn",
+                "Minuten",
+                "nach",
+                "der",
+                "Vorwarnung",
+                "sicher",
+                "und",
+                "problemlos",
+                "."
+            ]
+        },
+        {
+            "begin": 98,
+            "charBegin": 603,
+            "charEnd": 736,
+            "end": 114,
+            "id": 6,
+            "text": "Die bereitstehenden Rettungskräfte, die Flughafenfeuerwehr sowie die herbeigeeilte Berufsfeuerwehr von Lüttich wurden nicht benötigt. ",
+            "tokenIds": [
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113
+            ],
+            "tokens": [
+                "Die",
+                "bereitstehenden",
+                "Rettungskräfte",
+                ",",
+                "die",
+                "Flughafenfeuerwehr",
+                "sowie",
+                "die",
+                "herbeigeeilte",
+                "Berufsfeuerwehr",
+                "von",
+                "Lüttich",
+                "wurden",
+                "nicht",
+                "benötigt",
+                "."
+            ]
+        },
+        {
+            "begin": 114,
+            "charBegin": 737,
+            "charEnd": 778,
+            "end": 121,
+            "id": 7,
+            "text": "Von der Besatzung wurde niemand verletzt.",
+            "tokenIds": [
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ],
+            "tokens": [
+                "Von",
+                "der",
+                "Besatzung",
+                "wurde",
+                "niemand",
+                "verletzt",
+                "."
+            ]
+        },
+        {
+            "begin": 121,
+            "charBegin": 780,
+            "charEnd": 881,
+            "end": 138,
+            "id": 8,
+            "text": "Ersten Angaben zufolge könnte die Ursache für den Rauch ein Defekt an einer Klimaanlage gewesen sein.",
+            "tokenIds": [
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137
+            ],
+            "tokens": [
+                "Ersten",
+                "Angaben",
+                "zufolge",
+                "könnte",
+                "die",
+                "Ursache",
+                "für",
+                "den",
+                "Rauch",
+                "ein",
+                "Defekt",
+                "an",
+                "einer",
+                "Klimaanlage",
+                "gewesen",
+                "sein",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 4,
+            "id": 0,
+            "sentence": 1,
+            "text": "Eine",
+            "word": 1
+        },
+        {
+            "charBegin": 5,
+            "charEnd": 11,
+            "id": 1,
+            "sentence": 1,
+            "text": "Boeing",
+            "word": 2
+        },
+        {
+            "charBegin": 12,
+            "charEnd": 15,
+            "id": 2,
+            "sentence": 1,
+            "text": "747",
+            "word": 3
+        },
+        {
+            "charBegin": 16,
+            "charEnd": 22,
+            "id": 3,
+            "sentence": 1,
+            "text": "musste",
+            "word": 4
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 25,
+            "id": 4,
+            "sentence": 1,
+            "text": "am",
+            "word": 5
+        },
+        {
+            "charBegin": 26,
+            "charEnd": 39,
+            "id": 5,
+            "sentence": 1,
+            "text": "Sonntagmorgen",
+            "word": 6
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 40,
+            "id": 6,
+            "sentence": 1,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 41,
+            "charEnd": 44,
+            "id": 7,
+            "sentence": 1,
+            "text": "dem",
+            "word": 8
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 48,
+            "id": 8,
+            "sentence": 1,
+            "text": "22.",
+            "word": 9
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 55,
+            "id": 9,
+            "sentence": 1,
+            "text": "Januar",
+            "word": 10
+        },
+        {
+            "charBegin": 55,
+            "charEnd": 56,
+            "id": 10,
+            "sentence": 1,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 57,
+            "charEnd": 62,
+            "id": 11,
+            "sentence": 1,
+            "text": "gegen",
+            "word": 12
+        },
+        {
+            "charBegin": 63,
+            "charEnd": 68,
+            "id": 12,
+            "sentence": 1,
+            "text": "10:30",
+            "word": 13
+        },
+        {
+            "charBegin": 69,
+            "charEnd": 72,
+            "id": 13,
+            "sentence": 1,
+            "text": "Uhr",
+            "word": 14
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 82,
+            "id": 14,
+            "sentence": 1,
+            "text": "notlanden",
+            "word": 15
+        },
+        {
+            "charBegin": 82,
+            "charEnd": 83,
+            "id": 15,
+            "sentence": 1,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 86,
+            "id": 16,
+            "sentence": 2,
+            "text": "Da",
+            "word": 1
+        },
+        {
+            "charBegin": 87,
+            "charEnd": 90,
+            "id": 17,
+            "sentence": 2,
+            "text": "das",
+            "word": 2
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 99,
+            "id": 18,
+            "sentence": 2,
+            "text": "Flugzeug",
+            "word": 3
+        },
+        {
+            "charBegin": 100,
+            "charEnd": 103,
+            "id": 19,
+            "sentence": 2,
+            "text": "nur",
+            "word": 4
+        },
+        {
+            "charBegin": 104,
+            "charEnd": 110,
+            "id": 20,
+            "sentence": 2,
+            "text": "Fracht",
+            "word": 5
+        },
+        {
+            "charBegin": 111,
+            "charEnd": 121,
+            "id": 21,
+            "sentence": 2,
+            "text": "beförderte",
+            "word": 6
+        },
+        {
+            "charBegin": 121,
+            "charEnd": 122,
+            "id": 22,
+            "sentence": 2,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 131,
+            "id": 23,
+            "sentence": 2,
+            "text": "befanden",
+            "word": 8
+        },
+        {
+            "charBegin": 132,
+            "charEnd": 136,
+            "id": 24,
+            "sentence": 2,
+            "text": "sich",
+            "word": 9
+        },
+        {
+            "charBegin": 137,
+            "charEnd": 142,
+            "id": 25,
+            "sentence": 2,
+            "text": "außer",
+            "word": 10
+        },
+        {
+            "charBegin": 143,
+            "charEnd": 146,
+            "id": 26,
+            "sentence": 2,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 156,
+            "id": 27,
+            "sentence": 2,
+            "text": "Besatzung",
+            "word": 12
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 162,
+            "id": 28,
+            "sentence": 2,
+            "text": "keine",
+            "word": 13
+        },
+        {
+            "charBegin": 163,
+            "charEnd": 171,
+            "id": 29,
+            "sentence": 2,
+            "text": "Personen",
+            "word": 14
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 174,
+            "id": 30,
+            "sentence": 2,
+            "text": "an",
+            "word": 15
+        },
+        {
+            "charBegin": 175,
+            "charEnd": 179,
+            "id": 31,
+            "sentence": 2,
+            "text": "Bord",
+            "word": 16
+        },
+        {
+            "charBegin": 179,
+            "charEnd": 180,
+            "id": 32,
+            "sentence": 2,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 182,
+            "charEnd": 184,
+            "id": 33,
+            "sentence": 3,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 188,
+            "id": 34,
+            "sentence": 3,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 197,
+            "id": 35,
+            "sentence": 3,
+            "text": "Maschine",
+            "word": 3
+        },
+        {
+            "charBegin": 198,
+            "charEnd": 201,
+            "id": 36,
+            "sentence": 3,
+            "text": "war",
+            "word": 4
+        },
+        {
+            "charBegin": 202,
+            "charEnd": 209,
+            "id": 37,
+            "sentence": 3,
+            "text": "während",
+            "word": 5
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 213,
+            "id": 38,
+            "sentence": 3,
+            "text": "des",
+            "word": 6
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 222,
+            "id": 39,
+            "sentence": 3,
+            "text": "Anfluges",
+            "word": 7
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 226,
+            "id": 40,
+            "sentence": 3,
+            "text": "auf",
+            "word": 8
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 230,
+            "id": 41,
+            "sentence": 3,
+            "text": "den",
+            "word": 9
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 240,
+            "id": 42,
+            "sentence": 3,
+            "text": "Lütticher",
+            "word": 10
+        },
+        {
+            "charBegin": 241,
+            "charEnd": 250,
+            "id": 43,
+            "sentence": 3,
+            "text": "Flughafen",
+            "word": 11
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 258,
+            "id": 44,
+            "sentence": 3,
+            "text": "Bierset",
+            "word": 12
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 264,
+            "id": 45,
+            "sentence": 3,
+            "text": "Rauch",
+            "word": 13
+        },
+        {
+            "charBegin": 265,
+            "charEnd": 267,
+            "id": 46,
+            "sentence": 3,
+            "text": "im",
+            "word": 14
+        },
+        {
+            "charBegin": 268,
+            "charEnd": 275,
+            "id": 47,
+            "sentence": 3,
+            "text": "Cockpit",
+            "word": 15
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 289,
+            "id": 48,
+            "sentence": 3,
+            "text": "festzustellen",
+            "word": 16
+        },
+        {
+            "charBegin": 289,
+            "charEnd": 290,
+            "id": 49,
+            "sentence": 3,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 291,
+            "charEnd": 296,
+            "id": 50,
+            "sentence": 4,
+            "text": "Zudem",
+            "word": 1
+        },
+        {
+            "charBegin": 297,
+            "charEnd": 305,
+            "id": 51,
+            "sentence": 4,
+            "text": "bemerkte",
+            "word": 2
+        },
+        {
+            "charBegin": 306,
+            "charEnd": 309,
+            "id": 52,
+            "sentence": 4,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 310,
+            "charEnd": 315,
+            "id": 53,
+            "sentence": 4,
+            "text": "Pilot",
+            "word": 4
+        },
+        {
+            "charBegin": 316,
+            "charEnd": 324,
+            "id": 54,
+            "sentence": 4,
+            "text": "Probleme",
+            "word": 5
+        },
+        {
+            "charBegin": 325,
+            "charEnd": 327,
+            "id": 55,
+            "sentence": 4,
+            "text": "an",
+            "word": 6
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 333,
+            "id": 56,
+            "sentence": 4,
+            "text": "einem",
+            "word": 7
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 337,
+            "id": 57,
+            "sentence": 4,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 348,
+            "id": 58,
+            "sentence": 4,
+            "text": "Triebwerke",
+            "word": 9
+        },
+        {
+            "charBegin": 349,
+            "charEnd": 352,
+            "id": 59,
+            "sentence": 4,
+            "text": "und",
+            "word": 10
+        },
+        {
+            "charBegin": 353,
+            "charEnd": 361,
+            "id": 60,
+            "sentence": 4,
+            "text": "kündigte",
+            "word": 11
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 365,
+            "id": 61,
+            "sentence": 4,
+            "text": "dem",
+            "word": 12
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 378,
+            "id": 62,
+            "sentence": 4,
+            "text": "Kontrollturm",
+            "word": 13
+        },
+        {
+            "charBegin": 379,
+            "charEnd": 381,
+            "id": 63,
+            "sentence": 4,
+            "text": "an",
+            "word": 14
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 382,
+            "id": 64,
+            "sentence": 4,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 385,
+            "id": 65,
+            "sentence": 4,
+            "text": "es",
+            "word": 16
+        },
+        {
+            "charBegin": 386,
+            "charEnd": 391,
+            "id": 66,
+            "sentence": 4,
+            "text": "werde",
+            "word": 17
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 397,
+            "id": 67,
+            "sentence": 4,
+            "text": "keine",
+            "word": 18
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 405,
+            "id": 68,
+            "sentence": 4,
+            "text": "normale",
+            "word": 19
+        },
+        {
+            "charBegin": 406,
+            "charEnd": 413,
+            "id": 69,
+            "sentence": 4,
+            "text": "Landung",
+            "word": 20
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 414,
+            "id": 70,
+            "sentence": 4,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 415,
+            "charEnd": 422,
+            "id": 71,
+            "sentence": 4,
+            "text": "sondern",
+            "word": 22
+        },
+        {
+            "charBegin": 423,
+            "charEnd": 431,
+            "id": 72,
+            "sentence": 4,
+            "text": "vielmehr",
+            "word": 23
+        },
+        {
+            "charBegin": 432,
+            "charEnd": 436,
+            "id": 73,
+            "sentence": 4,
+            "text": "eine",
+            "word": 24
+        },
+        {
+            "charBegin": 437,
+            "charEnd": 447,
+            "id": 74,
+            "sentence": 4,
+            "text": "Notlandung",
+            "word": 25
+        },
+        {
+            "charBegin": 448,
+            "charEnd": 456,
+            "id": 75,
+            "sentence": 4,
+            "text": "erfolgen",
+            "word": 26
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 457,
+            "id": 76,
+            "sentence": 4,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 458,
+            "charEnd": 467,
+            "id": 77,
+            "sentence": 5,
+            "text": "Daraufhin",
+            "word": 1
+        },
+        {
+            "charBegin": 468,
+            "charEnd": 472,
+            "id": 78,
+            "sentence": 5,
+            "text": "traf",
+            "word": 2
+        },
+        {
+            "charBegin": 473,
+            "charEnd": 476,
+            "id": 79,
+            "sentence": 5,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 486,
+            "id": 80,
+            "sentence": 5,
+            "text": "Flughafen",
+            "word": 4
+        },
+        {
+            "charBegin": 487,
+            "charEnd": 490,
+            "id": 81,
+            "sentence": 5,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 491,
+            "charEnd": 505,
+            "id": 82,
+            "sentence": 5,
+            "text": "erforderlichen",
+            "word": 6
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 518,
+            "id": 83,
+            "sentence": 5,
+            "text": "Vorkehrungen",
+            "word": 7
+        },
+        {
+            "charBegin": 518,
+            "charEnd": 519,
+            "id": 84,
+            "sentence": 5,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 521,
+            "charEnd": 524,
+            "id": 85,
+            "sentence": 6,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 525,
+            "charEnd": 532,
+            "id": 86,
+            "sentence": 6,
+            "text": "Landung",
+            "word": 2
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 541,
+            "id": 87,
+            "sentence": 6,
+            "text": "erfolgte",
+            "word": 3
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 546,
+            "id": 88,
+            "sentence": 6,
+            "text": "rund",
+            "word": 4
+        },
+        {
+            "charBegin": 547,
+            "charEnd": 551,
+            "id": 89,
+            "sentence": 6,
+            "text": "zehn",
+            "word": 5
+        },
+        {
+            "charBegin": 552,
+            "charEnd": 559,
+            "id": 90,
+            "sentence": 6,
+            "text": "Minuten",
+            "word": 6
+        },
+        {
+            "charBegin": 560,
+            "charEnd": 564,
+            "id": 91,
+            "sentence": 6,
+            "text": "nach",
+            "word": 7
+        },
+        {
+            "charBegin": 565,
+            "charEnd": 568,
+            "id": 92,
+            "sentence": 6,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 579,
+            "id": 93,
+            "sentence": 6,
+            "text": "Vorwarnung",
+            "word": 9
+        },
+        {
+            "charBegin": 580,
+            "charEnd": 586,
+            "id": 94,
+            "sentence": 6,
+            "text": "sicher",
+            "word": 10
+        },
+        {
+            "charBegin": 587,
+            "charEnd": 590,
+            "id": 95,
+            "sentence": 6,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 591,
+            "charEnd": 601,
+            "id": 96,
+            "sentence": 6,
+            "text": "problemlos",
+            "word": 12
+        },
+        {
+            "charBegin": 601,
+            "charEnd": 602,
+            "id": 97,
+            "sentence": 6,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 603,
+            "charEnd": 606,
+            "id": 98,
+            "sentence": 7,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 607,
+            "charEnd": 622,
+            "id": 99,
+            "sentence": 7,
+            "text": "bereitstehenden",
+            "word": 2
+        },
+        {
+            "charBegin": 623,
+            "charEnd": 637,
+            "id": 100,
+            "sentence": 7,
+            "text": "Rettungskräfte",
+            "word": 3
+        },
+        {
+            "charBegin": 637,
+            "charEnd": 638,
+            "id": 101,
+            "sentence": 7,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 639,
+            "charEnd": 642,
+            "id": 102,
+            "sentence": 7,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 643,
+            "charEnd": 661,
+            "id": 103,
+            "sentence": 7,
+            "text": "Flughafenfeuerwehr",
+            "word": 6
+        },
+        {
+            "charBegin": 662,
+            "charEnd": 667,
+            "id": 104,
+            "sentence": 7,
+            "text": "sowie",
+            "word": 7
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 671,
+            "id": 105,
+            "sentence": 7,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 672,
+            "charEnd": 685,
+            "id": 106,
+            "sentence": 7,
+            "text": "herbeigeeilte",
+            "word": 9
+        },
+        {
+            "charBegin": 686,
+            "charEnd": 701,
+            "id": 107,
+            "sentence": 7,
+            "text": "Berufsfeuerwehr",
+            "word": 10
+        },
+        {
+            "charBegin": 702,
+            "charEnd": 705,
+            "id": 108,
+            "sentence": 7,
+            "text": "von",
+            "word": 11
+        },
+        {
+            "charBegin": 706,
+            "charEnd": 713,
+            "id": 109,
+            "sentence": 7,
+            "text": "Lüttich",
+            "word": 12
+        },
+        {
+            "charBegin": 714,
+            "charEnd": 720,
+            "id": 110,
+            "sentence": 7,
+            "text": "wurden",
+            "word": 13
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 726,
+            "id": 111,
+            "sentence": 7,
+            "text": "nicht",
+            "word": 14
+        },
+        {
+            "charBegin": 727,
+            "charEnd": 735,
+            "id": 112,
+            "sentence": 7,
+            "text": "benötigt",
+            "word": 15
+        },
+        {
+            "charBegin": 735,
+            "charEnd": 736,
+            "id": 113,
+            "sentence": 7,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 737,
+            "charEnd": 740,
+            "id": 114,
+            "sentence": 8,
+            "text": "Von",
+            "word": 1
+        },
+        {
+            "charBegin": 741,
+            "charEnd": 744,
+            "id": 115,
+            "sentence": 8,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 745,
+            "charEnd": 754,
+            "id": 116,
+            "sentence": 8,
+            "text": "Besatzung",
+            "word": 3
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 760,
+            "id": 117,
+            "sentence": 8,
+            "text": "wurde",
+            "word": 4
+        },
+        {
+            "charBegin": 761,
+            "charEnd": 768,
+            "id": 118,
+            "sentence": 8,
+            "text": "niemand",
+            "word": 5
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 777,
+            "id": 119,
+            "sentence": 8,
+            "text": "verletzt",
+            "word": 6
+        },
+        {
+            "charBegin": 777,
+            "charEnd": 778,
+            "id": 120,
+            "sentence": 8,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 786,
+            "id": 121,
+            "sentence": 9,
+            "text": "Ersten",
+            "word": 1
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 794,
+            "id": 122,
+            "sentence": 9,
+            "text": "Angaben",
+            "word": 2
+        },
+        {
+            "charBegin": 795,
+            "charEnd": 802,
+            "id": 123,
+            "sentence": 9,
+            "text": "zufolge",
+            "word": 3
+        },
+        {
+            "charBegin": 803,
+            "charEnd": 809,
+            "id": 124,
+            "sentence": 9,
+            "text": "könnte",
+            "word": 4
+        },
+        {
+            "charBegin": 810,
+            "charEnd": 813,
+            "id": 125,
+            "sentence": 9,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 814,
+            "charEnd": 821,
+            "id": 126,
+            "sentence": 9,
+            "text": "Ursache",
+            "word": 6
+        },
+        {
+            "charBegin": 822,
+            "charEnd": 825,
+            "id": 127,
+            "sentence": 9,
+            "text": "für",
+            "word": 7
+        },
+        {
+            "charBegin": 826,
+            "charEnd": 829,
+            "id": 128,
+            "sentence": 9,
+            "text": "den",
+            "word": 8
+        },
+        {
+            "charBegin": 830,
+            "charEnd": 835,
+            "id": 129,
+            "sentence": 9,
+            "text": "Rauch",
+            "word": 9
+        },
+        {
+            "charBegin": 836,
+            "charEnd": 839,
+            "id": 130,
+            "sentence": 9,
+            "text": "ein",
+            "word": 10
+        },
+        {
+            "charBegin": 840,
+            "charEnd": 846,
+            "id": 131,
+            "sentence": 9,
+            "text": "Defekt",
+            "word": 11
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 849,
+            "id": 132,
+            "sentence": 9,
+            "text": "an",
+            "word": 12
+        },
+        {
+            "charBegin": 850,
+            "charEnd": 855,
+            "id": 133,
+            "sentence": 9,
+            "text": "einer",
+            "word": 13
+        },
+        {
+            "charBegin": 856,
+            "charEnd": 867,
+            "id": 134,
+            "sentence": 9,
+            "text": "Klimaanlage",
+            "word": 14
+        },
+        {
+            "charBegin": 868,
+            "charEnd": 875,
+            "id": 135,
+            "sentence": 9,
+            "text": "gewesen",
+            "word": 15
+        },
+        {
+            "charBegin": 876,
+            "charEnd": 880,
+            "id": 136,
+            "sentence": 9,
+            "text": "sein",
+            "word": 16
+        },
+        {
+            "charBegin": 880,
+            "charEnd": 881,
+            "id": 137,
+            "sentence": 9,
+            "text": ".",
+            "word": 17
+        }
+    ]
+}

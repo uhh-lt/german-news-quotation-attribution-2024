@@ -1,0 +1,1652 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 92,
+                        "charBegin": 631,
+                        "charEnd": 663,
+                        "end": 97
+                    },
+                    {
+                        "begin": 110,
+                        "charBegin": 740,
+                        "charEnd": 784,
+                        "end": 118
+                    }
+                ],
+                "text": "Erste Berichte örtlicher Medien, , wurden von den Behörden nicht kommentiert.",
+                "tokenIds": [
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 97,
+                        "charBegin": 664,
+                        "charEnd": 740,
+                        "end": 110
+                    }
+                ],
+                "text": "es würde sich bei der angezeigten Person um die Großmutter des Babys handeln",
+                "tokenIds": [
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 92,
+                        "charBegin": 631,
+                        "charEnd": 662,
+                        "end": 96
+                    }
+                ],
+                "text": "Erste Berichte örtlicher Medien",
+                "tokenIds": [
+                    92,
+                    93,
+                    94,
+                    95
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 118,
+                        "charBegin": 785,
+                        "charEnd": 789,
+                        "end": 119
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    118
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 118,
+                        "charBegin": 785,
+                        "charEnd": 803,
+                        "end": 120
+                    }
+                ],
+                "text": "Nach Medienangaben",
+                "tokenIds": [
+                    118,
+                    119
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 120,
+                        "charBegin": 804,
+                        "charEnd": 900,
+                        "end": 136
+                    }
+                ],
+                "text": "könnte es sich um einen Racheakt innerhalb der Familie handeln, dem ein großer Streit vorausging",
+                "tokenIds": [
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 119,
+                        "charBegin": 790,
+                        "charEnd": 803,
+                        "end": 120
+                    }
+                ],
+                "text": "Medienangaben",
+                "tokenIds": [
+                    119
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "12825 - Wohnungsdurchsuchung im Fall des eBay-Babys (2005-09-23)",
+    "originalText": "Im Fall des für 10.000 Euro beim Onlineaktionshaus eBay angebotenen vier Monate alten Babys hat die Staatsanwaltschaft in Hannover weiter ermittelt. Anfang der Woche wurde nun eine Wohnungsdurchsuchung bei einer Bekannten der Eltern anberaumt.\n\nSinn der Durchsuchung war die Sicherstellung zweier Personal-Computer. Die Staatsanwaltschaft möchte prüfen lassen, ob von diesen Geräten die Anzeige bei eBay aufgegeben wurde. Die Ermittlungen der Polizei gegen die Person aus dem Bekanntenkreis der Eltern lautet auf Fälschung technischer Aufzeichnungen.\n\nZusätzlich läuft eine Anzeige der Eltern gegen diese Person wegen Beleidigung. Erste Berichte örtlicher Medien, es würde sich bei der angezeigten Person um die Großmutter des Babys handeln, wurden von den Behörden nicht kommentiert. Nach Medienangaben könnte es sich um einen Racheakt innerhalb der Familie handeln, dem ein großer Streit vorausging.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 148,
+            "end": 22,
+            "id": 0,
+            "text": "Im Fall des für 10.000 Euro beim Onlineaktionshaus eBay angebotenen vier Monate alten Babys hat die Staatsanwaltschaft in Hannover weiter ermittelt. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Im",
+                "Fall",
+                "des",
+                "für",
+                "10.000",
+                "Euro",
+                "beim",
+                "Onlineaktionshaus",
+                "eBay",
+                "angebotenen",
+                "vier",
+                "Monate",
+                "alten",
+                "Babys",
+                "hat",
+                "die",
+                "Staatsanwaltschaft",
+                "in",
+                "Hannover",
+                "weiter",
+                "ermittelt",
+                "."
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 149,
+            "charEnd": 243,
+            "end": 36,
+            "id": 1,
+            "text": "Anfang der Woche wurde nun eine Wohnungsdurchsuchung bei einer Bekannten der Eltern anberaumt.",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "tokens": [
+                "Anfang",
+                "der",
+                "Woche",
+                "wurde",
+                "nun",
+                "eine",
+                "Wohnungsdurchsuchung",
+                "bei",
+                "einer",
+                "Bekannten",
+                "der",
+                "Eltern",
+                "anberaumt",
+                "."
+            ]
+        },
+        {
+            "begin": 36,
+            "charBegin": 245,
+            "charEnd": 315,
+            "end": 45,
+            "id": 2,
+            "text": "Sinn der Durchsuchung war die Sicherstellung zweier Personal-Computer. ",
+            "tokenIds": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44
+            ],
+            "tokens": [
+                "Sinn",
+                "der",
+                "Durchsuchung",
+                "war",
+                "die",
+                "Sicherstellung",
+                "zweier",
+                "Personal-Computer",
+                "."
+            ]
+        },
+        {
+            "begin": 45,
+            "charBegin": 316,
+            "charEnd": 421,
+            "end": 62,
+            "id": 3,
+            "text": "Die Staatsanwaltschaft möchte prüfen lassen, ob von diesen Geräten die Anzeige bei eBay aufgegeben wurde. ",
+            "tokenIds": [
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "tokens": [
+                "Die",
+                "Staatsanwaltschaft",
+                "möchte",
+                "prüfen",
+                "lassen",
+                ",",
+                "ob",
+                "von",
+                "diesen",
+                "Geräten",
+                "die",
+                "Anzeige",
+                "bei",
+                "eBay",
+                "aufgegeben",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "begin": 62,
+            "charBegin": 422,
+            "charEnd": 550,
+            "end": 80,
+            "id": 4,
+            "text": "Die Ermittlungen der Polizei gegen die Person aus dem Bekanntenkreis der Eltern lautet auf Fälschung technischer Aufzeichnungen.",
+            "tokenIds": [
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79
+            ],
+            "tokens": [
+                "Die",
+                "Ermittlungen",
+                "der",
+                "Polizei",
+                "gegen",
+                "die",
+                "Person",
+                "aus",
+                "dem",
+                "Bekanntenkreis",
+                "der",
+                "Eltern",
+                "lautet",
+                "auf",
+                "Fälschung",
+                "technischer",
+                "Aufzeichnungen",
+                "."
+            ]
+        },
+        {
+            "begin": 80,
+            "charBegin": 552,
+            "charEnd": 630,
+            "end": 92,
+            "id": 5,
+            "text": "Zusätzlich läuft eine Anzeige der Eltern gegen diese Person wegen Beleidigung. ",
+            "tokenIds": [
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91
+            ],
+            "tokens": [
+                "Zusätzlich",
+                "läuft",
+                "eine",
+                "Anzeige",
+                "der",
+                "Eltern",
+                "gegen",
+                "diese",
+                "Person",
+                "wegen",
+                "Beleidigung",
+                "."
+            ]
+        },
+        {
+            "begin": 92,
+            "charBegin": 631,
+            "charEnd": 784,
+            "end": 118,
+            "id": 6,
+            "text": "Erste Berichte örtlicher Medien, es würde sich bei der angezeigten Person um die Großmutter des Babys handeln, wurden von den Behörden nicht kommentiert. ",
+            "tokenIds": [
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117
+            ],
+            "tokens": [
+                "Erste",
+                "Berichte",
+                "örtlicher",
+                "Medien",
+                ",",
+                "es",
+                "würde",
+                "sich",
+                "bei",
+                "der",
+                "angezeigten",
+                "Person",
+                "um",
+                "die",
+                "Großmutter",
+                "des",
+                "Babys",
+                "handeln",
+                ",",
+                "wurden",
+                "von",
+                "den",
+                "Behörden",
+                "nicht",
+                "kommentiert",
+                "."
+            ]
+        },
+        {
+            "begin": 118,
+            "charBegin": 785,
+            "charEnd": 901,
+            "end": 137,
+            "id": 7,
+            "text": "Nach Medienangaben könnte es sich um einen Racheakt innerhalb der Familie handeln, dem ein großer Streit vorausging.",
+            "tokenIds": [
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136
+            ],
+            "tokens": [
+                "Nach",
+                "Medienangaben",
+                "könnte",
+                "es",
+                "sich",
+                "um",
+                "einen",
+                "Racheakt",
+                "innerhalb",
+                "der",
+                "Familie",
+                "handeln",
+                ",",
+                "dem",
+                "ein",
+                "großer",
+                "Streit",
+                "vorausging",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 7,
+            "id": 1,
+            "sentence": 1,
+            "text": "Fall",
+            "word": 2
+        },
+        {
+            "charBegin": 8,
+            "charEnd": 11,
+            "id": 2,
+            "sentence": 1,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 12,
+            "charEnd": 15,
+            "id": 3,
+            "sentence": 1,
+            "text": "für",
+            "word": 4
+        },
+        {
+            "charBegin": 16,
+            "charEnd": 22,
+            "id": 4,
+            "sentence": 1,
+            "text": "10.000",
+            "word": 5
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 27,
+            "id": 5,
+            "sentence": 1,
+            "text": "Euro",
+            "word": 6
+        },
+        {
+            "charBegin": 28,
+            "charEnd": 32,
+            "id": 6,
+            "sentence": 1,
+            "text": "beim",
+            "word": 7
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 50,
+            "id": 7,
+            "sentence": 1,
+            "text": "Onlineaktionshaus",
+            "word": 8
+        },
+        {
+            "charBegin": 51,
+            "charEnd": 55,
+            "id": 8,
+            "sentence": 1,
+            "text": "eBay",
+            "word": 9
+        },
+        {
+            "charBegin": 56,
+            "charEnd": 67,
+            "id": 9,
+            "sentence": 1,
+            "text": "angebotenen",
+            "word": 10
+        },
+        {
+            "charBegin": 68,
+            "charEnd": 72,
+            "id": 10,
+            "sentence": 1,
+            "text": "vier",
+            "word": 11
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 79,
+            "id": 11,
+            "sentence": 1,
+            "text": "Monate",
+            "word": 12
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 85,
+            "id": 12,
+            "sentence": 1,
+            "text": "alten",
+            "word": 13
+        },
+        {
+            "charBegin": 86,
+            "charEnd": 91,
+            "id": 13,
+            "sentence": 1,
+            "text": "Babys",
+            "word": 14
+        },
+        {
+            "charBegin": 92,
+            "charEnd": 95,
+            "id": 14,
+            "sentence": 1,
+            "text": "hat",
+            "word": 15
+        },
+        {
+            "charBegin": 96,
+            "charEnd": 99,
+            "id": 15,
+            "sentence": 1,
+            "text": "die",
+            "word": 16
+        },
+        {
+            "charBegin": 100,
+            "charEnd": 118,
+            "id": 16,
+            "sentence": 1,
+            "text": "Staatsanwaltschaft",
+            "word": 17
+        },
+        {
+            "charBegin": 119,
+            "charEnd": 121,
+            "id": 17,
+            "sentence": 1,
+            "text": "in",
+            "word": 18
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 130,
+            "id": 18,
+            "sentence": 1,
+            "text": "Hannover",
+            "word": 19
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 137,
+            "id": 19,
+            "sentence": 1,
+            "text": "weiter",
+            "word": 20
+        },
+        {
+            "charBegin": 138,
+            "charEnd": 147,
+            "id": 20,
+            "sentence": 1,
+            "text": "ermittelt",
+            "word": 21
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 148,
+            "id": 21,
+            "sentence": 1,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 155,
+            "id": 22,
+            "sentence": 2,
+            "text": "Anfang",
+            "word": 1
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 159,
+            "id": 23,
+            "sentence": 2,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 165,
+            "id": 24,
+            "sentence": 2,
+            "text": "Woche",
+            "word": 3
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 171,
+            "id": 25,
+            "sentence": 2,
+            "text": "wurde",
+            "word": 4
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 175,
+            "id": 26,
+            "sentence": 2,
+            "text": "nun",
+            "word": 5
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 180,
+            "id": 27,
+            "sentence": 2,
+            "text": "eine",
+            "word": 6
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 201,
+            "id": 28,
+            "sentence": 2,
+            "text": "Wohnungsdurchsuchung",
+            "word": 7
+        },
+        {
+            "charBegin": 202,
+            "charEnd": 205,
+            "id": 29,
+            "sentence": 2,
+            "text": "bei",
+            "word": 8
+        },
+        {
+            "charBegin": 206,
+            "charEnd": 211,
+            "id": 30,
+            "sentence": 2,
+            "text": "einer",
+            "word": 9
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 221,
+            "id": 31,
+            "sentence": 2,
+            "text": "Bekannten",
+            "word": 10
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 225,
+            "id": 32,
+            "sentence": 2,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 226,
+            "charEnd": 232,
+            "id": 33,
+            "sentence": 2,
+            "text": "Eltern",
+            "word": 12
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 242,
+            "id": 34,
+            "sentence": 2,
+            "text": "anberaumt",
+            "word": 13
+        },
+        {
+            "charBegin": 242,
+            "charEnd": 243,
+            "id": 35,
+            "sentence": 2,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 245,
+            "charEnd": 249,
+            "id": 36,
+            "sentence": 3,
+            "text": "Sinn",
+            "word": 1
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 253,
+            "id": 37,
+            "sentence": 3,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 254,
+            "charEnd": 266,
+            "id": 38,
+            "sentence": 3,
+            "text": "Durchsuchung",
+            "word": 3
+        },
+        {
+            "charBegin": 267,
+            "charEnd": 270,
+            "id": 39,
+            "sentence": 3,
+            "text": "war",
+            "word": 4
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 274,
+            "id": 40,
+            "sentence": 3,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 289,
+            "id": 41,
+            "sentence": 3,
+            "text": "Sicherstellung",
+            "word": 6
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 296,
+            "id": 42,
+            "sentence": 3,
+            "text": "zweier",
+            "word": 7
+        },
+        {
+            "charBegin": 297,
+            "charEnd": 314,
+            "id": 43,
+            "sentence": 3,
+            "text": "Personal-Computer",
+            "word": 8
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 315,
+            "id": 44,
+            "sentence": 3,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 316,
+            "charEnd": 319,
+            "id": 45,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 338,
+            "id": 46,
+            "sentence": 4,
+            "text": "Staatsanwaltschaft",
+            "word": 2
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 345,
+            "id": 47,
+            "sentence": 4,
+            "text": "möchte",
+            "word": 3
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 352,
+            "id": 48,
+            "sentence": 4,
+            "text": "prüfen",
+            "word": 4
+        },
+        {
+            "charBegin": 353,
+            "charEnd": 359,
+            "id": 49,
+            "sentence": 4,
+            "text": "lassen",
+            "word": 5
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 360,
+            "id": 50,
+            "sentence": 4,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 363,
+            "id": 51,
+            "sentence": 4,
+            "text": "ob",
+            "word": 7
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 367,
+            "id": 52,
+            "sentence": 4,
+            "text": "von",
+            "word": 8
+        },
+        {
+            "charBegin": 368,
+            "charEnd": 374,
+            "id": 53,
+            "sentence": 4,
+            "text": "diesen",
+            "word": 9
+        },
+        {
+            "charBegin": 375,
+            "charEnd": 382,
+            "id": 54,
+            "sentence": 4,
+            "text": "Geräten",
+            "word": 10
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 386,
+            "id": 55,
+            "sentence": 4,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 387,
+            "charEnd": 394,
+            "id": 56,
+            "sentence": 4,
+            "text": "Anzeige",
+            "word": 12
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 398,
+            "id": 57,
+            "sentence": 4,
+            "text": "bei",
+            "word": 13
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 403,
+            "id": 58,
+            "sentence": 4,
+            "text": "eBay",
+            "word": 14
+        },
+        {
+            "charBegin": 404,
+            "charEnd": 414,
+            "id": 59,
+            "sentence": 4,
+            "text": "aufgegeben",
+            "word": 15
+        },
+        {
+            "charBegin": 415,
+            "charEnd": 420,
+            "id": 60,
+            "sentence": 4,
+            "text": "wurde",
+            "word": 16
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 421,
+            "id": 61,
+            "sentence": 4,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 425,
+            "id": 62,
+            "sentence": 5,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 426,
+            "charEnd": 438,
+            "id": 63,
+            "sentence": 5,
+            "text": "Ermittlungen",
+            "word": 2
+        },
+        {
+            "charBegin": 439,
+            "charEnd": 442,
+            "id": 64,
+            "sentence": 5,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 443,
+            "charEnd": 450,
+            "id": 65,
+            "sentence": 5,
+            "text": "Polizei",
+            "word": 4
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 456,
+            "id": 66,
+            "sentence": 5,
+            "text": "gegen",
+            "word": 5
+        },
+        {
+            "charBegin": 457,
+            "charEnd": 460,
+            "id": 67,
+            "sentence": 5,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 467,
+            "id": 68,
+            "sentence": 5,
+            "text": "Person",
+            "word": 7
+        },
+        {
+            "charBegin": 468,
+            "charEnd": 471,
+            "id": 69,
+            "sentence": 5,
+            "text": "aus",
+            "word": 8
+        },
+        {
+            "charBegin": 472,
+            "charEnd": 475,
+            "id": 70,
+            "sentence": 5,
+            "text": "dem",
+            "word": 9
+        },
+        {
+            "charBegin": 476,
+            "charEnd": 490,
+            "id": 71,
+            "sentence": 5,
+            "text": "Bekanntenkreis",
+            "word": 10
+        },
+        {
+            "charBegin": 491,
+            "charEnd": 494,
+            "id": 72,
+            "sentence": 5,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 495,
+            "charEnd": 501,
+            "id": 73,
+            "sentence": 5,
+            "text": "Eltern",
+            "word": 12
+        },
+        {
+            "charBegin": 502,
+            "charEnd": 508,
+            "id": 74,
+            "sentence": 5,
+            "text": "lautet",
+            "word": 13
+        },
+        {
+            "charBegin": 509,
+            "charEnd": 512,
+            "id": 75,
+            "sentence": 5,
+            "text": "auf",
+            "word": 14
+        },
+        {
+            "charBegin": 513,
+            "charEnd": 522,
+            "id": 76,
+            "sentence": 5,
+            "text": "Fälschung",
+            "word": 15
+        },
+        {
+            "charBegin": 523,
+            "charEnd": 534,
+            "id": 77,
+            "sentence": 5,
+            "text": "technischer",
+            "word": 16
+        },
+        {
+            "charBegin": 535,
+            "charEnd": 549,
+            "id": 78,
+            "sentence": 5,
+            "text": "Aufzeichnungen",
+            "word": 17
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 550,
+            "id": 79,
+            "sentence": 5,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 552,
+            "charEnd": 562,
+            "id": 80,
+            "sentence": 6,
+            "text": "Zusätzlich",
+            "word": 1
+        },
+        {
+            "charBegin": 563,
+            "charEnd": 568,
+            "id": 81,
+            "sentence": 6,
+            "text": "läuft",
+            "word": 2
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 573,
+            "id": 82,
+            "sentence": 6,
+            "text": "eine",
+            "word": 3
+        },
+        {
+            "charBegin": 574,
+            "charEnd": 581,
+            "id": 83,
+            "sentence": 6,
+            "text": "Anzeige",
+            "word": 4
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 585,
+            "id": 84,
+            "sentence": 6,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 592,
+            "id": 85,
+            "sentence": 6,
+            "text": "Eltern",
+            "word": 6
+        },
+        {
+            "charBegin": 593,
+            "charEnd": 598,
+            "id": 86,
+            "sentence": 6,
+            "text": "gegen",
+            "word": 7
+        },
+        {
+            "charBegin": 599,
+            "charEnd": 604,
+            "id": 87,
+            "sentence": 6,
+            "text": "diese",
+            "word": 8
+        },
+        {
+            "charBegin": 605,
+            "charEnd": 611,
+            "id": 88,
+            "sentence": 6,
+            "text": "Person",
+            "word": 9
+        },
+        {
+            "charBegin": 612,
+            "charEnd": 617,
+            "id": 89,
+            "sentence": 6,
+            "text": "wegen",
+            "word": 10
+        },
+        {
+            "charBegin": 618,
+            "charEnd": 629,
+            "id": 90,
+            "sentence": 6,
+            "text": "Beleidigung",
+            "word": 11
+        },
+        {
+            "charBegin": 629,
+            "charEnd": 630,
+            "id": 91,
+            "sentence": 6,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 636,
+            "id": 92,
+            "sentence": 7,
+            "text": "Erste",
+            "word": 1
+        },
+        {
+            "charBegin": 637,
+            "charEnd": 645,
+            "id": 93,
+            "sentence": 7,
+            "text": "Berichte",
+            "word": 2
+        },
+        {
+            "charBegin": 646,
+            "charEnd": 655,
+            "id": 94,
+            "sentence": 7,
+            "text": "örtlicher",
+            "word": 3
+        },
+        {
+            "charBegin": 656,
+            "charEnd": 662,
+            "id": 95,
+            "sentence": 7,
+            "text": "Medien",
+            "word": 4
+        },
+        {
+            "charBegin": 662,
+            "charEnd": 663,
+            "id": 96,
+            "sentence": 7,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 666,
+            "id": 97,
+            "sentence": 7,
+            "text": "es",
+            "word": 6
+        },
+        {
+            "charBegin": 667,
+            "charEnd": 672,
+            "id": 98,
+            "sentence": 7,
+            "text": "würde",
+            "word": 7
+        },
+        {
+            "charBegin": 673,
+            "charEnd": 677,
+            "id": 99,
+            "sentence": 7,
+            "text": "sich",
+            "word": 8
+        },
+        {
+            "charBegin": 678,
+            "charEnd": 681,
+            "id": 100,
+            "sentence": 7,
+            "text": "bei",
+            "word": 9
+        },
+        {
+            "charBegin": 682,
+            "charEnd": 685,
+            "id": 101,
+            "sentence": 7,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 686,
+            "charEnd": 697,
+            "id": 102,
+            "sentence": 7,
+            "text": "angezeigten",
+            "word": 11
+        },
+        {
+            "charBegin": 698,
+            "charEnd": 704,
+            "id": 103,
+            "sentence": 7,
+            "text": "Person",
+            "word": 12
+        },
+        {
+            "charBegin": 705,
+            "charEnd": 707,
+            "id": 104,
+            "sentence": 7,
+            "text": "um",
+            "word": 13
+        },
+        {
+            "charBegin": 708,
+            "charEnd": 711,
+            "id": 105,
+            "sentence": 7,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 712,
+            "charEnd": 722,
+            "id": 106,
+            "sentence": 7,
+            "text": "Großmutter",
+            "word": 15
+        },
+        {
+            "charBegin": 723,
+            "charEnd": 726,
+            "id": 107,
+            "sentence": 7,
+            "text": "des",
+            "word": 16
+        },
+        {
+            "charBegin": 727,
+            "charEnd": 732,
+            "id": 108,
+            "sentence": 7,
+            "text": "Babys",
+            "word": 17
+        },
+        {
+            "charBegin": 733,
+            "charEnd": 740,
+            "id": 109,
+            "sentence": 7,
+            "text": "handeln",
+            "word": 18
+        },
+        {
+            "charBegin": 740,
+            "charEnd": 741,
+            "id": 110,
+            "sentence": 7,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 742,
+            "charEnd": 748,
+            "id": 111,
+            "sentence": 7,
+            "text": "wurden",
+            "word": 20
+        },
+        {
+            "charBegin": 749,
+            "charEnd": 752,
+            "id": 112,
+            "sentence": 7,
+            "text": "von",
+            "word": 21
+        },
+        {
+            "charBegin": 753,
+            "charEnd": 756,
+            "id": 113,
+            "sentence": 7,
+            "text": "den",
+            "word": 22
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 765,
+            "id": 114,
+            "sentence": 7,
+            "text": "Behörden",
+            "word": 23
+        },
+        {
+            "charBegin": 766,
+            "charEnd": 771,
+            "id": 115,
+            "sentence": 7,
+            "text": "nicht",
+            "word": 24
+        },
+        {
+            "charBegin": 772,
+            "charEnd": 783,
+            "id": 116,
+            "sentence": 7,
+            "text": "kommentiert",
+            "word": 25
+        },
+        {
+            "charBegin": 783,
+            "charEnd": 784,
+            "id": 117,
+            "sentence": 7,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 785,
+            "charEnd": 789,
+            "id": 118,
+            "sentence": 8,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 790,
+            "charEnd": 803,
+            "id": 119,
+            "sentence": 8,
+            "text": "Medienangaben",
+            "word": 2
+        },
+        {
+            "charBegin": 804,
+            "charEnd": 810,
+            "id": 120,
+            "sentence": 8,
+            "text": "könnte",
+            "word": 3
+        },
+        {
+            "charBegin": 811,
+            "charEnd": 813,
+            "id": 121,
+            "sentence": 8,
+            "text": "es",
+            "word": 4
+        },
+        {
+            "charBegin": 814,
+            "charEnd": 818,
+            "id": 122,
+            "sentence": 8,
+            "text": "sich",
+            "word": 5
+        },
+        {
+            "charBegin": 819,
+            "charEnd": 821,
+            "id": 123,
+            "sentence": 8,
+            "text": "um",
+            "word": 6
+        },
+        {
+            "charBegin": 822,
+            "charEnd": 827,
+            "id": 124,
+            "sentence": 8,
+            "text": "einen",
+            "word": 7
+        },
+        {
+            "charBegin": 828,
+            "charEnd": 836,
+            "id": 125,
+            "sentence": 8,
+            "text": "Racheakt",
+            "word": 8
+        },
+        {
+            "charBegin": 837,
+            "charEnd": 846,
+            "id": 126,
+            "sentence": 8,
+            "text": "innerhalb",
+            "word": 9
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 850,
+            "id": 127,
+            "sentence": 8,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 851,
+            "charEnd": 858,
+            "id": 128,
+            "sentence": 8,
+            "text": "Familie",
+            "word": 11
+        },
+        {
+            "charBegin": 859,
+            "charEnd": 866,
+            "id": 129,
+            "sentence": 8,
+            "text": "handeln",
+            "word": 12
+        },
+        {
+            "charBegin": 866,
+            "charEnd": 867,
+            "id": 130,
+            "sentence": 8,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 868,
+            "charEnd": 871,
+            "id": 131,
+            "sentence": 8,
+            "text": "dem",
+            "word": 14
+        },
+        {
+            "charBegin": 872,
+            "charEnd": 875,
+            "id": 132,
+            "sentence": 8,
+            "text": "ein",
+            "word": 15
+        },
+        {
+            "charBegin": 876,
+            "charEnd": 882,
+            "id": 133,
+            "sentence": 8,
+            "text": "großer",
+            "word": 16
+        },
+        {
+            "charBegin": 883,
+            "charEnd": 889,
+            "id": 134,
+            "sentence": 8,
+            "text": "Streit",
+            "word": 17
+        },
+        {
+            "charBegin": 890,
+            "charEnd": 900,
+            "id": 135,
+            "sentence": 8,
+            "text": "vorausging",
+            "word": 18
+        },
+        {
+            "charBegin": 900,
+            "charEnd": 901,
+            "id": 136,
+            "sentence": 8,
+            "text": ".",
+            "word": 19
+        }
+    ]
+}

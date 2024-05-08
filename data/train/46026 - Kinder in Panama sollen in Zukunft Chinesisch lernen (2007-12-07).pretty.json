@@ -1,0 +1,2222 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 72,
+                        "charBegin": 409,
+                        "charEnd": 414,
+                        "end": 73
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    72
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 71,
+                        "charBegin": 407,
+                        "charEnd": 459,
+                        "end": 81
+                    }
+                ],
+                "text": ", sagte Arturo Arauz, der das Gesetz entworfen hatte",
+                "tokenIds": [
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 45,
+                        "charBegin": 273,
+                        "charEnd": 407,
+                        "end": 71
+                    }
+                ],
+                "text": "„Wir können nicht ignorieren, dass eine Menge unseres Handels mit Asien abgewickelt wird. In 20 Jahren wird die Welt eine Andere sein“",
+                "tokenIds": [
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 76,
+                        "charBegin": 429,
+                        "charEnd": 432,
+                        "end": 77
+                    }
+                ],
+                "text": "der",
+                "tokenIds": [
+                    76
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 82,
+                        "charBegin": 461,
+                        "charEnd": 475,
+                        "end": 85
+                    }
+                ],
+                "text": "Es ist geplant",
+                "tokenIds": [
+                    82,
+                    83,
+                    84
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 82,
+                        "charBegin": 461,
+                        "charEnd": 476,
+                        "end": 86
+                    }
+                ],
+                "text": "Es ist geplant,",
+                "tokenIds": [
+                    82,
+                    83,
+                    84,
+                    85
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 86,
+                        "charBegin": 477,
+                        "charEnd": 532,
+                        "end": 93
+                    }
+                ],
+                "text": "dass jedes Kind zehn Jahre Chinesischunterricht bekommt",
+                "tokenIds": [
+                    86,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "46026 - Kinder in Panama sollen in Zukunft Chinesisch lernen (2007-12-07)",
+    "originalText": "Ein Gesetz, das vorsieht, dass alle Schulkinder in Panama zukünftig Mandarin lernen müssen, wurde bereits in der ersten Lesung des \nParlamentes angenommen. \n\nDie Befürworter erhoffen sich davon eine bessere Ausgangslage in einer Zukunft, in der China immer wichtiger wird. „Wir können nicht ignorieren, dass eine Menge unseres Handels mit Asien abgewickelt wird. In 20 Jahren wird die Welt eine Andere sein“, sagte Arturo Arauz, der das Gesetz entworfen hatte. Es ist geplant, dass jedes Kind zehn Jahre Chinesischunterricht bekommt. Das Gesetz erlaubt weiterhin die Einwanderung von chinesischen Spezialisten, die einheimische Lehrer unterstützen sollen. \n\nMandarin ist die offizielle Sprache in Taiwan und auch in der Volksrepublik China, mit der Panama selbst keine diplomatischen Beziehungen unterhält. Dennoch hat Peking großes wirtschaftliches Interesse an Panama. Der jährliche Handel zwischen beiden Nationen beträgt etwa eine Milliarde US-Dollar, und die Volksrepublik ist auch der größte Nutzer des Panamakanals, der in Zukunft ausgebaut werden soll. \n\nIn Panama lebt bereits seit mehr als 100 Jahren eine beachtliche chinesische Gemeinde, die jedoch mehrheitlich Kantonesisch spricht.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 155,
+            "end": 26,
+            "id": 0,
+            "text": "Ein Gesetz, das vorsieht, dass alle Schulkinder in Panama zukünftig Mandarin lernen müssen, wurde bereits in der ersten Lesung des \nParlamentes angenommen. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "tokens": [
+                "Ein",
+                "Gesetz",
+                ",",
+                "das",
+                "vorsieht",
+                ",",
+                "dass",
+                "alle",
+                "Schulkinder",
+                "in",
+                "Panama",
+                "zukünftig",
+                "Mandarin",
+                "lernen",
+                "müssen",
+                ",",
+                "wurde",
+                "bereits",
+                "in",
+                "der",
+                "ersten",
+                "Lesung",
+                "des",
+                "Parlamentes",
+                "angenommen",
+                "."
+            ]
+        },
+        {
+            "begin": 26,
+            "charBegin": 158,
+            "charEnd": 272,
+            "end": 45,
+            "id": 1,
+            "text": "Die Befürworter erhoffen sich davon eine bessere Ausgangslage in einer Zukunft, in der China immer wichtiger wird. ",
+            "tokenIds": [
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44
+            ],
+            "tokens": [
+                "Die",
+                "Befürworter",
+                "erhoffen",
+                "sich",
+                "davon",
+                "eine",
+                "bessere",
+                "Ausgangslage",
+                "in",
+                "einer",
+                "Zukunft",
+                ",",
+                "in",
+                "der",
+                "China",
+                "immer",
+                "wichtiger",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "begin": 45,
+            "charBegin": 273,
+            "charEnd": 362,
+            "end": 61,
+            "id": 2,
+            "text": "„Wir können nicht ignorieren, dass eine Menge unseres Handels mit Asien abgewickelt wird. ",
+            "tokenIds": [
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60
+            ],
+            "tokens": [
+                "„",
+                "Wir",
+                "können",
+                "nicht",
+                "ignorieren",
+                ",",
+                "dass",
+                "eine",
+                "Menge",
+                "unseres",
+                "Handels",
+                "mit",
+                "Asien",
+                "abgewickelt",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "begin": 61,
+            "charBegin": 363,
+            "charEnd": 460,
+            "end": 82,
+            "id": 3,
+            "text": "In 20 Jahren wird die Welt eine Andere sein“, sagte Arturo Arauz, der das Gesetz entworfen hatte. ",
+            "tokenIds": [
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81
+            ],
+            "tokens": [
+                "In",
+                "20",
+                "Jahren",
+                "wird",
+                "die",
+                "Welt",
+                "eine",
+                "Andere",
+                "sein",
+                "“",
+                ",",
+                "sagte",
+                "Arturo",
+                "Arauz",
+                ",",
+                "der",
+                "das",
+                "Gesetz",
+                "entworfen",
+                "hatte",
+                "."
+            ]
+        },
+        {
+            "begin": 82,
+            "charBegin": 461,
+            "charEnd": 533,
+            "end": 94,
+            "id": 4,
+            "text": "Es ist geplant, dass jedes Kind zehn Jahre Chinesischunterricht bekommt. ",
+            "tokenIds": [
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93
+            ],
+            "tokens": [
+                "Es",
+                "ist",
+                "geplant",
+                ",",
+                "dass",
+                "jedes",
+                "Kind",
+                "zehn",
+                "Jahre",
+                "Chinesischunterricht",
+                "bekommt",
+                "."
+            ]
+        },
+        {
+            "begin": 94,
+            "charBegin": 534,
+            "charEnd": 655,
+            "end": 110,
+            "id": 5,
+            "text": "Das Gesetz erlaubt weiterhin die Einwanderung von chinesischen Spezialisten, die einheimische Lehrer unterstützen sollen. ",
+            "tokenIds": [
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109
+            ],
+            "tokens": [
+                "Das",
+                "Gesetz",
+                "erlaubt",
+                "weiterhin",
+                "die",
+                "Einwanderung",
+                "von",
+                "chinesischen",
+                "Spezialisten",
+                ",",
+                "die",
+                "einheimische",
+                "Lehrer",
+                "unterstützen",
+                "sollen",
+                "."
+            ]
+        },
+        {
+            "begin": 110,
+            "charBegin": 658,
+            "charEnd": 806,
+            "end": 133,
+            "id": 6,
+            "text": "Mandarin ist die offizielle Sprache in Taiwan und auch in der Volksrepublik China, mit der Panama selbst keine diplomatischen Beziehungen unterhält. ",
+            "tokenIds": [
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132
+            ],
+            "tokens": [
+                "Mandarin",
+                "ist",
+                "die",
+                "offizielle",
+                "Sprache",
+                "in",
+                "Taiwan",
+                "und",
+                "auch",
+                "in",
+                "der",
+                "Volksrepublik",
+                "China",
+                ",",
+                "mit",
+                "der",
+                "Panama",
+                "selbst",
+                "keine",
+                "diplomatischen",
+                "Beziehungen",
+                "unterhält",
+                "."
+            ]
+        },
+        {
+            "begin": 133,
+            "charBegin": 807,
+            "charEnd": 870,
+            "end": 142,
+            "id": 7,
+            "text": "Dennoch hat Peking großes wirtschaftliches Interesse an Panama. ",
+            "tokenIds": [
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141
+            ],
+            "tokens": [
+                "Dennoch",
+                "hat",
+                "Peking",
+                "großes",
+                "wirtschaftliches",
+                "Interesse",
+                "an",
+                "Panama",
+                "."
+            ]
+        },
+        {
+            "begin": 142,
+            "charBegin": 871,
+            "charEnd": 1060,
+            "end": 172,
+            "id": 8,
+            "text": "Der jährliche Handel zwischen beiden Nationen beträgt etwa eine Milliarde US-Dollar, und die Volksrepublik ist auch der größte Nutzer des Panamakanals, der in Zukunft ausgebaut werden soll. ",
+            "tokenIds": [
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171
+            ],
+            "tokens": [
+                "Der",
+                "jährliche",
+                "Handel",
+                "zwischen",
+                "beiden",
+                "Nationen",
+                "beträgt",
+                "etwa",
+                "eine",
+                "Milliarde",
+                "US-Dollar",
+                ",",
+                "und",
+                "die",
+                "Volksrepublik",
+                "ist",
+                "auch",
+                "der",
+                "größte",
+                "Nutzer",
+                "des",
+                "Panamakanals",
+                ",",
+                "der",
+                "in",
+                "Zukunft",
+                "ausgebaut",
+                "werden",
+                "soll",
+                "."
+            ]
+        },
+        {
+            "begin": 172,
+            "charBegin": 1063,
+            "charEnd": 1195,
+            "end": 192,
+            "id": 9,
+            "text": "In Panama lebt bereits seit mehr als 100 Jahren eine beachtliche chinesische Gemeinde, die jedoch mehrheitlich Kantonesisch spricht.",
+            "tokenIds": [
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191
+            ],
+            "tokens": [
+                "In",
+                "Panama",
+                "lebt",
+                "bereits",
+                "seit",
+                "mehr",
+                "als",
+                "100",
+                "Jahren",
+                "eine",
+                "beachtliche",
+                "chinesische",
+                "Gemeinde",
+                ",",
+                "die",
+                "jedoch",
+                "mehrheitlich",
+                "Kantonesisch",
+                "spricht",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 10,
+            "id": 1,
+            "sentence": 1,
+            "text": "Gesetz",
+            "word": 2
+        },
+        {
+            "charBegin": 10,
+            "charEnd": 11,
+            "id": 2,
+            "sentence": 1,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 12,
+            "charEnd": 15,
+            "id": 3,
+            "sentence": 1,
+            "text": "das",
+            "word": 4
+        },
+        {
+            "charBegin": 16,
+            "charEnd": 24,
+            "id": 4,
+            "sentence": 1,
+            "text": "vorsieht",
+            "word": 5
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 25,
+            "id": 5,
+            "sentence": 1,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 26,
+            "charEnd": 30,
+            "id": 6,
+            "sentence": 1,
+            "text": "dass",
+            "word": 7
+        },
+        {
+            "charBegin": 31,
+            "charEnd": 35,
+            "id": 7,
+            "sentence": 1,
+            "text": "alle",
+            "word": 8
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 47,
+            "id": 8,
+            "sentence": 1,
+            "text": "Schulkinder",
+            "word": 9
+        },
+        {
+            "charBegin": 48,
+            "charEnd": 50,
+            "id": 9,
+            "sentence": 1,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 51,
+            "charEnd": 57,
+            "id": 10,
+            "sentence": 1,
+            "text": "Panama",
+            "word": 11
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 67,
+            "id": 11,
+            "sentence": 1,
+            "text": "zukünftig",
+            "word": 12
+        },
+        {
+            "charBegin": 68,
+            "charEnd": 76,
+            "id": 12,
+            "sentence": 1,
+            "text": "Mandarin",
+            "word": 13
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 83,
+            "id": 13,
+            "sentence": 1,
+            "text": "lernen",
+            "word": 14
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 90,
+            "id": 14,
+            "sentence": 1,
+            "text": "müssen",
+            "word": 15
+        },
+        {
+            "charBegin": 90,
+            "charEnd": 91,
+            "id": 15,
+            "sentence": 1,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 92,
+            "charEnd": 97,
+            "id": 16,
+            "sentence": 1,
+            "text": "wurde",
+            "word": 17
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 105,
+            "id": 17,
+            "sentence": 1,
+            "text": "bereits",
+            "word": 18
+        },
+        {
+            "charBegin": 106,
+            "charEnd": 108,
+            "id": 18,
+            "sentence": 1,
+            "text": "in",
+            "word": 19
+        },
+        {
+            "charBegin": 109,
+            "charEnd": 112,
+            "id": 19,
+            "sentence": 1,
+            "text": "der",
+            "word": 20
+        },
+        {
+            "charBegin": 113,
+            "charEnd": 119,
+            "id": 20,
+            "sentence": 1,
+            "text": "ersten",
+            "word": 21
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 126,
+            "id": 21,
+            "sentence": 1,
+            "text": "Lesung",
+            "word": 22
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 130,
+            "id": 22,
+            "sentence": 1,
+            "text": "des",
+            "word": 23
+        },
+        {
+            "charBegin": 132,
+            "charEnd": 143,
+            "id": 23,
+            "sentence": 1,
+            "text": "Parlamentes",
+            "word": 24
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 154,
+            "id": 24,
+            "sentence": 1,
+            "text": "angenommen",
+            "word": 25
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 155,
+            "id": 25,
+            "sentence": 1,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 161,
+            "id": 26,
+            "sentence": 2,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 162,
+            "charEnd": 173,
+            "id": 27,
+            "sentence": 2,
+            "text": "Befürworter",
+            "word": 2
+        },
+        {
+            "charBegin": 174,
+            "charEnd": 182,
+            "id": 28,
+            "sentence": 2,
+            "text": "erhoffen",
+            "word": 3
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 187,
+            "id": 29,
+            "sentence": 2,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 193,
+            "id": 30,
+            "sentence": 2,
+            "text": "davon",
+            "word": 5
+        },
+        {
+            "charBegin": 194,
+            "charEnd": 198,
+            "id": 31,
+            "sentence": 2,
+            "text": "eine",
+            "word": 6
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 206,
+            "id": 32,
+            "sentence": 2,
+            "text": "bessere",
+            "word": 7
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 219,
+            "id": 33,
+            "sentence": 2,
+            "text": "Ausgangslage",
+            "word": 8
+        },
+        {
+            "charBegin": 220,
+            "charEnd": 222,
+            "id": 34,
+            "sentence": 2,
+            "text": "in",
+            "word": 9
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 228,
+            "id": 35,
+            "sentence": 2,
+            "text": "einer",
+            "word": 10
+        },
+        {
+            "charBegin": 229,
+            "charEnd": 236,
+            "id": 36,
+            "sentence": 2,
+            "text": "Zukunft",
+            "word": 11
+        },
+        {
+            "charBegin": 236,
+            "charEnd": 237,
+            "id": 37,
+            "sentence": 2,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 238,
+            "charEnd": 240,
+            "id": 38,
+            "sentence": 2,
+            "text": "in",
+            "word": 13
+        },
+        {
+            "charBegin": 241,
+            "charEnd": 244,
+            "id": 39,
+            "sentence": 2,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 245,
+            "charEnd": 250,
+            "id": 40,
+            "sentence": 2,
+            "text": "China",
+            "word": 15
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 256,
+            "id": 41,
+            "sentence": 2,
+            "text": "immer",
+            "word": 16
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 266,
+            "id": 42,
+            "sentence": 2,
+            "text": "wichtiger",
+            "word": 17
+        },
+        {
+            "charBegin": 267,
+            "charEnd": 271,
+            "id": 43,
+            "sentence": 2,
+            "text": "wird",
+            "word": 18
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 272,
+            "id": 44,
+            "sentence": 2,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 274,
+            "id": 45,
+            "sentence": 3,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 274,
+            "charEnd": 277,
+            "id": 46,
+            "sentence": 3,
+            "text": "Wir",
+            "word": 2
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 284,
+            "id": 47,
+            "sentence": 3,
+            "text": "können",
+            "word": 3
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 290,
+            "id": 48,
+            "sentence": 3,
+            "text": "nicht",
+            "word": 4
+        },
+        {
+            "charBegin": 291,
+            "charEnd": 301,
+            "id": 49,
+            "sentence": 3,
+            "text": "ignorieren",
+            "word": 5
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 302,
+            "id": 50,
+            "sentence": 3,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 307,
+            "id": 51,
+            "sentence": 3,
+            "text": "dass",
+            "word": 7
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 312,
+            "id": 52,
+            "sentence": 3,
+            "text": "eine",
+            "word": 8
+        },
+        {
+            "charBegin": 313,
+            "charEnd": 318,
+            "id": 53,
+            "sentence": 3,
+            "text": "Menge",
+            "word": 9
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 326,
+            "id": 54,
+            "sentence": 3,
+            "text": "unseres",
+            "word": 10
+        },
+        {
+            "charBegin": 327,
+            "charEnd": 334,
+            "id": 55,
+            "sentence": 3,
+            "text": "Handels",
+            "word": 11
+        },
+        {
+            "charBegin": 335,
+            "charEnd": 338,
+            "id": 56,
+            "sentence": 3,
+            "text": "mit",
+            "word": 12
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 344,
+            "id": 57,
+            "sentence": 3,
+            "text": "Asien",
+            "word": 13
+        },
+        {
+            "charBegin": 345,
+            "charEnd": 356,
+            "id": 58,
+            "sentence": 3,
+            "text": "abgewickelt",
+            "word": 14
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 361,
+            "id": 59,
+            "sentence": 3,
+            "text": "wird",
+            "word": 15
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 362,
+            "id": 60,
+            "sentence": 3,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 363,
+            "charEnd": 365,
+            "id": 61,
+            "sentence": 4,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 368,
+            "id": 62,
+            "sentence": 4,
+            "text": "20",
+            "word": 2
+        },
+        {
+            "charBegin": 369,
+            "charEnd": 375,
+            "id": 63,
+            "sentence": 4,
+            "text": "Jahren",
+            "word": 3
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 380,
+            "id": 64,
+            "sentence": 4,
+            "text": "wird",
+            "word": 4
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 384,
+            "id": 65,
+            "sentence": 4,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 385,
+            "charEnd": 389,
+            "id": 66,
+            "sentence": 4,
+            "text": "Welt",
+            "word": 6
+        },
+        {
+            "charBegin": 390,
+            "charEnd": 394,
+            "id": 67,
+            "sentence": 4,
+            "text": "eine",
+            "word": 7
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 401,
+            "id": 68,
+            "sentence": 4,
+            "text": "Andere",
+            "word": 8
+        },
+        {
+            "charBegin": 402,
+            "charEnd": 406,
+            "id": 69,
+            "sentence": 4,
+            "text": "sein",
+            "word": 9
+        },
+        {
+            "charBegin": 406,
+            "charEnd": 407,
+            "id": 70,
+            "sentence": 4,
+            "text": "“",
+            "word": 10
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 408,
+            "id": 71,
+            "sentence": 4,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 414,
+            "id": 72,
+            "sentence": 4,
+            "text": "sagte",
+            "word": 12
+        },
+        {
+            "charBegin": 415,
+            "charEnd": 421,
+            "id": 73,
+            "sentence": 4,
+            "text": "Arturo",
+            "word": 13
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 427,
+            "id": 74,
+            "sentence": 4,
+            "text": "Arauz",
+            "word": 14
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 428,
+            "id": 75,
+            "sentence": 4,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 429,
+            "charEnd": 432,
+            "id": 76,
+            "sentence": 4,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 436,
+            "id": 77,
+            "sentence": 4,
+            "text": "das",
+            "word": 17
+        },
+        {
+            "charBegin": 437,
+            "charEnd": 443,
+            "id": 78,
+            "sentence": 4,
+            "text": "Gesetz",
+            "word": 18
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 453,
+            "id": 79,
+            "sentence": 4,
+            "text": "entworfen",
+            "word": 19
+        },
+        {
+            "charBegin": 454,
+            "charEnd": 459,
+            "id": 80,
+            "sentence": 4,
+            "text": "hatte",
+            "word": 20
+        },
+        {
+            "charBegin": 459,
+            "charEnd": 460,
+            "id": 81,
+            "sentence": 4,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 463,
+            "id": 82,
+            "sentence": 5,
+            "text": "Es",
+            "word": 1
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 467,
+            "id": 83,
+            "sentence": 5,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 468,
+            "charEnd": 475,
+            "id": 84,
+            "sentence": 5,
+            "text": "geplant",
+            "word": 3
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 476,
+            "id": 85,
+            "sentence": 5,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 481,
+            "id": 86,
+            "sentence": 5,
+            "text": "dass",
+            "word": 5
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 487,
+            "id": 87,
+            "sentence": 5,
+            "text": "jedes",
+            "word": 6
+        },
+        {
+            "charBegin": 488,
+            "charEnd": 492,
+            "id": 88,
+            "sentence": 5,
+            "text": "Kind",
+            "word": 7
+        },
+        {
+            "charBegin": 493,
+            "charEnd": 497,
+            "id": 89,
+            "sentence": 5,
+            "text": "zehn",
+            "word": 8
+        },
+        {
+            "charBegin": 498,
+            "charEnd": 503,
+            "id": 90,
+            "sentence": 5,
+            "text": "Jahre",
+            "word": 9
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 524,
+            "id": 91,
+            "sentence": 5,
+            "text": "Chinesischunterricht",
+            "word": 10
+        },
+        {
+            "charBegin": 525,
+            "charEnd": 532,
+            "id": 92,
+            "sentence": 5,
+            "text": "bekommt",
+            "word": 11
+        },
+        {
+            "charBegin": 532,
+            "charEnd": 533,
+            "id": 93,
+            "sentence": 5,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 534,
+            "charEnd": 537,
+            "id": 94,
+            "sentence": 6,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 538,
+            "charEnd": 544,
+            "id": 95,
+            "sentence": 6,
+            "text": "Gesetz",
+            "word": 2
+        },
+        {
+            "charBegin": 545,
+            "charEnd": 552,
+            "id": 96,
+            "sentence": 6,
+            "text": "erlaubt",
+            "word": 3
+        },
+        {
+            "charBegin": 553,
+            "charEnd": 562,
+            "id": 97,
+            "sentence": 6,
+            "text": "weiterhin",
+            "word": 4
+        },
+        {
+            "charBegin": 563,
+            "charEnd": 566,
+            "id": 98,
+            "sentence": 6,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 579,
+            "id": 99,
+            "sentence": 6,
+            "text": "Einwanderung",
+            "word": 6
+        },
+        {
+            "charBegin": 580,
+            "charEnd": 583,
+            "id": 100,
+            "sentence": 6,
+            "text": "von",
+            "word": 7
+        },
+        {
+            "charBegin": 584,
+            "charEnd": 596,
+            "id": 101,
+            "sentence": 6,
+            "text": "chinesischen",
+            "word": 8
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 609,
+            "id": 102,
+            "sentence": 6,
+            "text": "Spezialisten",
+            "word": 9
+        },
+        {
+            "charBegin": 609,
+            "charEnd": 610,
+            "id": 103,
+            "sentence": 6,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 611,
+            "charEnd": 614,
+            "id": 104,
+            "sentence": 6,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 627,
+            "id": 105,
+            "sentence": 6,
+            "text": "einheimische",
+            "word": 12
+        },
+        {
+            "charBegin": 628,
+            "charEnd": 634,
+            "id": 106,
+            "sentence": 6,
+            "text": "Lehrer",
+            "word": 13
+        },
+        {
+            "charBegin": 635,
+            "charEnd": 647,
+            "id": 107,
+            "sentence": 6,
+            "text": "unterstützen",
+            "word": 14
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 654,
+            "id": 108,
+            "sentence": 6,
+            "text": "sollen",
+            "word": 15
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 655,
+            "id": 109,
+            "sentence": 6,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 658,
+            "charEnd": 666,
+            "id": 110,
+            "sentence": 7,
+            "text": "Mandarin",
+            "word": 1
+        },
+        {
+            "charBegin": 667,
+            "charEnd": 670,
+            "id": 111,
+            "sentence": 7,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 671,
+            "charEnd": 674,
+            "id": 112,
+            "sentence": 7,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 675,
+            "charEnd": 685,
+            "id": 113,
+            "sentence": 7,
+            "text": "offizielle",
+            "word": 4
+        },
+        {
+            "charBegin": 686,
+            "charEnd": 693,
+            "id": 114,
+            "sentence": 7,
+            "text": "Sprache",
+            "word": 5
+        },
+        {
+            "charBegin": 694,
+            "charEnd": 696,
+            "id": 115,
+            "sentence": 7,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 697,
+            "charEnd": 703,
+            "id": 116,
+            "sentence": 7,
+            "text": "Taiwan",
+            "word": 7
+        },
+        {
+            "charBegin": 704,
+            "charEnd": 707,
+            "id": 117,
+            "sentence": 7,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 708,
+            "charEnd": 712,
+            "id": 118,
+            "sentence": 7,
+            "text": "auch",
+            "word": 9
+        },
+        {
+            "charBegin": 713,
+            "charEnd": 715,
+            "id": 119,
+            "sentence": 7,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 719,
+            "id": 120,
+            "sentence": 7,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 720,
+            "charEnd": 733,
+            "id": 121,
+            "sentence": 7,
+            "text": "Volksrepublik",
+            "word": 12
+        },
+        {
+            "charBegin": 734,
+            "charEnd": 739,
+            "id": 122,
+            "sentence": 7,
+            "text": "China",
+            "word": 13
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 740,
+            "id": 123,
+            "sentence": 7,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 741,
+            "charEnd": 744,
+            "id": 124,
+            "sentence": 7,
+            "text": "mit",
+            "word": 15
+        },
+        {
+            "charBegin": 745,
+            "charEnd": 748,
+            "id": 125,
+            "sentence": 7,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 749,
+            "charEnd": 755,
+            "id": 126,
+            "sentence": 7,
+            "text": "Panama",
+            "word": 17
+        },
+        {
+            "charBegin": 756,
+            "charEnd": 762,
+            "id": 127,
+            "sentence": 7,
+            "text": "selbst",
+            "word": 18
+        },
+        {
+            "charBegin": 763,
+            "charEnd": 768,
+            "id": 128,
+            "sentence": 7,
+            "text": "keine",
+            "word": 19
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 783,
+            "id": 129,
+            "sentence": 7,
+            "text": "diplomatischen",
+            "word": 20
+        },
+        {
+            "charBegin": 784,
+            "charEnd": 795,
+            "id": 130,
+            "sentence": 7,
+            "text": "Beziehungen",
+            "word": 21
+        },
+        {
+            "charBegin": 796,
+            "charEnd": 805,
+            "id": 131,
+            "sentence": 7,
+            "text": "unterhält",
+            "word": 22
+        },
+        {
+            "charBegin": 805,
+            "charEnd": 806,
+            "id": 132,
+            "sentence": 7,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 807,
+            "charEnd": 814,
+            "id": 133,
+            "sentence": 8,
+            "text": "Dennoch",
+            "word": 1
+        },
+        {
+            "charBegin": 815,
+            "charEnd": 818,
+            "id": 134,
+            "sentence": 8,
+            "text": "hat",
+            "word": 2
+        },
+        {
+            "charBegin": 819,
+            "charEnd": 825,
+            "id": 135,
+            "sentence": 8,
+            "text": "Peking",
+            "word": 3
+        },
+        {
+            "charBegin": 826,
+            "charEnd": 832,
+            "id": 136,
+            "sentence": 8,
+            "text": "großes",
+            "word": 4
+        },
+        {
+            "charBegin": 833,
+            "charEnd": 849,
+            "id": 137,
+            "sentence": 8,
+            "text": "wirtschaftliches",
+            "word": 5
+        },
+        {
+            "charBegin": 850,
+            "charEnd": 859,
+            "id": 138,
+            "sentence": 8,
+            "text": "Interesse",
+            "word": 6
+        },
+        {
+            "charBegin": 860,
+            "charEnd": 862,
+            "id": 139,
+            "sentence": 8,
+            "text": "an",
+            "word": 7
+        },
+        {
+            "charBegin": 863,
+            "charEnd": 869,
+            "id": 140,
+            "sentence": 8,
+            "text": "Panama",
+            "word": 8
+        },
+        {
+            "charBegin": 869,
+            "charEnd": 870,
+            "id": 141,
+            "sentence": 8,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 871,
+            "charEnd": 874,
+            "id": 142,
+            "sentence": 9,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 875,
+            "charEnd": 884,
+            "id": 143,
+            "sentence": 9,
+            "text": "jährliche",
+            "word": 2
+        },
+        {
+            "charBegin": 885,
+            "charEnd": 891,
+            "id": 144,
+            "sentence": 9,
+            "text": "Handel",
+            "word": 3
+        },
+        {
+            "charBegin": 892,
+            "charEnd": 900,
+            "id": 145,
+            "sentence": 9,
+            "text": "zwischen",
+            "word": 4
+        },
+        {
+            "charBegin": 901,
+            "charEnd": 907,
+            "id": 146,
+            "sentence": 9,
+            "text": "beiden",
+            "word": 5
+        },
+        {
+            "charBegin": 908,
+            "charEnd": 916,
+            "id": 147,
+            "sentence": 9,
+            "text": "Nationen",
+            "word": 6
+        },
+        {
+            "charBegin": 917,
+            "charEnd": 924,
+            "id": 148,
+            "sentence": 9,
+            "text": "beträgt",
+            "word": 7
+        },
+        {
+            "charBegin": 925,
+            "charEnd": 929,
+            "id": 149,
+            "sentence": 9,
+            "text": "etwa",
+            "word": 8
+        },
+        {
+            "charBegin": 930,
+            "charEnd": 934,
+            "id": 150,
+            "sentence": 9,
+            "text": "eine",
+            "word": 9
+        },
+        {
+            "charBegin": 935,
+            "charEnd": 944,
+            "id": 151,
+            "sentence": 9,
+            "text": "Milliarde",
+            "word": 10
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 954,
+            "id": 152,
+            "sentence": 9,
+            "text": "US-Dollar",
+            "word": 11
+        },
+        {
+            "charBegin": 954,
+            "charEnd": 955,
+            "id": 153,
+            "sentence": 9,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 956,
+            "charEnd": 959,
+            "id": 154,
+            "sentence": 9,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 960,
+            "charEnd": 963,
+            "id": 155,
+            "sentence": 9,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 964,
+            "charEnd": 977,
+            "id": 156,
+            "sentence": 9,
+            "text": "Volksrepublik",
+            "word": 15
+        },
+        {
+            "charBegin": 978,
+            "charEnd": 981,
+            "id": 157,
+            "sentence": 9,
+            "text": "ist",
+            "word": 16
+        },
+        {
+            "charBegin": 982,
+            "charEnd": 986,
+            "id": 158,
+            "sentence": 9,
+            "text": "auch",
+            "word": 17
+        },
+        {
+            "charBegin": 987,
+            "charEnd": 990,
+            "id": 159,
+            "sentence": 9,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 991,
+            "charEnd": 997,
+            "id": 160,
+            "sentence": 9,
+            "text": "größte",
+            "word": 19
+        },
+        {
+            "charBegin": 998,
+            "charEnd": 1004,
+            "id": 161,
+            "sentence": 9,
+            "text": "Nutzer",
+            "word": 20
+        },
+        {
+            "charBegin": 1005,
+            "charEnd": 1008,
+            "id": 162,
+            "sentence": 9,
+            "text": "des",
+            "word": 21
+        },
+        {
+            "charBegin": 1009,
+            "charEnd": 1021,
+            "id": 163,
+            "sentence": 9,
+            "text": "Panamakanals",
+            "word": 22
+        },
+        {
+            "charBegin": 1021,
+            "charEnd": 1022,
+            "id": 164,
+            "sentence": 9,
+            "text": ",",
+            "word": 23
+        },
+        {
+            "charBegin": 1023,
+            "charEnd": 1026,
+            "id": 165,
+            "sentence": 9,
+            "text": "der",
+            "word": 24
+        },
+        {
+            "charBegin": 1027,
+            "charEnd": 1029,
+            "id": 166,
+            "sentence": 9,
+            "text": "in",
+            "word": 25
+        },
+        {
+            "charBegin": 1030,
+            "charEnd": 1037,
+            "id": 167,
+            "sentence": 9,
+            "text": "Zukunft",
+            "word": 26
+        },
+        {
+            "charBegin": 1038,
+            "charEnd": 1047,
+            "id": 168,
+            "sentence": 9,
+            "text": "ausgebaut",
+            "word": 27
+        },
+        {
+            "charBegin": 1048,
+            "charEnd": 1054,
+            "id": 169,
+            "sentence": 9,
+            "text": "werden",
+            "word": 28
+        },
+        {
+            "charBegin": 1055,
+            "charEnd": 1059,
+            "id": 170,
+            "sentence": 9,
+            "text": "soll",
+            "word": 29
+        },
+        {
+            "charBegin": 1059,
+            "charEnd": 1060,
+            "id": 171,
+            "sentence": 9,
+            "text": ".",
+            "word": 30
+        },
+        {
+            "charBegin": 1063,
+            "charEnd": 1065,
+            "id": 172,
+            "sentence": 10,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 1066,
+            "charEnd": 1072,
+            "id": 173,
+            "sentence": 10,
+            "text": "Panama",
+            "word": 2
+        },
+        {
+            "charBegin": 1073,
+            "charEnd": 1077,
+            "id": 174,
+            "sentence": 10,
+            "text": "lebt",
+            "word": 3
+        },
+        {
+            "charBegin": 1078,
+            "charEnd": 1085,
+            "id": 175,
+            "sentence": 10,
+            "text": "bereits",
+            "word": 4
+        },
+        {
+            "charBegin": 1086,
+            "charEnd": 1090,
+            "id": 176,
+            "sentence": 10,
+            "text": "seit",
+            "word": 5
+        },
+        {
+            "charBegin": 1091,
+            "charEnd": 1095,
+            "id": 177,
+            "sentence": 10,
+            "text": "mehr",
+            "word": 6
+        },
+        {
+            "charBegin": 1096,
+            "charEnd": 1099,
+            "id": 178,
+            "sentence": 10,
+            "text": "als",
+            "word": 7
+        },
+        {
+            "charBegin": 1100,
+            "charEnd": 1103,
+            "id": 179,
+            "sentence": 10,
+            "text": "100",
+            "word": 8
+        },
+        {
+            "charBegin": 1104,
+            "charEnd": 1110,
+            "id": 180,
+            "sentence": 10,
+            "text": "Jahren",
+            "word": 9
+        },
+        {
+            "charBegin": 1111,
+            "charEnd": 1115,
+            "id": 181,
+            "sentence": 10,
+            "text": "eine",
+            "word": 10
+        },
+        {
+            "charBegin": 1116,
+            "charEnd": 1127,
+            "id": 182,
+            "sentence": 10,
+            "text": "beachtliche",
+            "word": 11
+        },
+        {
+            "charBegin": 1128,
+            "charEnd": 1139,
+            "id": 183,
+            "sentence": 10,
+            "text": "chinesische",
+            "word": 12
+        },
+        {
+            "charBegin": 1140,
+            "charEnd": 1148,
+            "id": 184,
+            "sentence": 10,
+            "text": "Gemeinde",
+            "word": 13
+        },
+        {
+            "charBegin": 1148,
+            "charEnd": 1149,
+            "id": 185,
+            "sentence": 10,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 1150,
+            "charEnd": 1153,
+            "id": 186,
+            "sentence": 10,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 1154,
+            "charEnd": 1160,
+            "id": 187,
+            "sentence": 10,
+            "text": "jedoch",
+            "word": 16
+        },
+        {
+            "charBegin": 1161,
+            "charEnd": 1173,
+            "id": 188,
+            "sentence": 10,
+            "text": "mehrheitlich",
+            "word": 17
+        },
+        {
+            "charBegin": 1174,
+            "charEnd": 1186,
+            "id": 189,
+            "sentence": 10,
+            "text": "Kantonesisch",
+            "word": 18
+        },
+        {
+            "charBegin": 1187,
+            "charEnd": 1194,
+            "id": 190,
+            "sentence": 10,
+            "text": "spricht",
+            "word": 19
+        },
+        {
+            "charBegin": 1194,
+            "charEnd": 1195,
+            "id": 191,
+            "sentence": 10,
+            "text": ".",
+            "word": 20
+        }
+    ]
+}

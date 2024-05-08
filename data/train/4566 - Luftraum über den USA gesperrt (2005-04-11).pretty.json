@@ -1,0 +1,1792 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 60,
+                        "charBegin": 376,
+                        "charEnd": 381,
+                        "end": 61
+                    },
+                    {
+                        "begin": 63,
+                        "charBegin": 390,
+                        "charEnd": 392,
+                        "end": 64
+                    }
+                ],
+                "text": "gaben an",
+                "tokenIds": [
+                    60,
+                    63
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 58,
+                        "charBegin": 361,
+                        "charEnd": 393,
+                        "end": 65
+                    }
+                ],
+                "text": "Als Begründung gaben die USA an,",
+                "tokenIds": [
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 65,
+                        "charBegin": 394,
+                        "charEnd": 464,
+                        "end": 75
+                    }
+                ],
+                "text": "vermutlich halten sich in der Maschine zwei verdächtige Passagiere auf",
+                "tokenIds": [
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 61,
+                        "charBegin": 382,
+                        "charEnd": 389,
+                        "end": 63
+                    }
+                ],
+                "text": "die USA",
+                "tokenIds": [
+                    61,
+                    62
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 103,
+                        "charBegin": 677,
+                        "charEnd": 688,
+                        "end": 104
+                    }
+                ],
+                "text": "versicherte",
+                "tokenIds": [
+                    103
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 99,
+                        "charBegin": 639,
+                        "charEnd": 712,
+                        "end": 108
+                    }
+                ],
+                "text": "Die holländische Fluggesellschaft KLM versicherte am darauffolgenden Tag,",
+                "tokenIds": [
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 108,
+                        "charBegin": 713,
+                        "charEnd": 787,
+                        "end": 117
+                    }
+                ],
+                "text": "sie würden die Passagierlisten der Überlandflüge selbst auch kontrollieren",
+                "tokenIds": [
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 99,
+                        "charBegin": 639,
+                        "charEnd": 676,
+                        "end": 103
+                    }
+                ],
+                "text": "Die holländische Fluggesellschaft KLM",
+                "tokenIds": [
+                    99,
+                    100,
+                    101,
+                    102
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 118,
+                        "charBegin": 789,
+                        "charEnd": 933,
+                        "end": 142
+                    }
+                ],
+                "text": "Gegen die beiden verdächtigen Personen läge jedoch in den Niederlanden nichts vor. Ein Flug in die USA wäre demnach durchaus vertretbar gewesen.",
+                "tokenIds": [
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 99,
+                        "charBegin": 639,
+                        "charEnd": 676,
+                        "end": 103
+                    }
+                ],
+                "text": "Die holländische Fluggesellschaft KLM",
+                "tokenIds": [
+                    99,
+                    100,
+                    101,
+                    102
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        }
+    ],
+    "documentName": "4566 - Luftraum über den USA gesperrt (2005-04-11)",
+    "originalText": "Die USA haben am Samstag, den 09.04.2005, einem anfliegenden Flugzeug aus den Niederlanden den Luftraum gesperrt.\n\nDie Boeing 747 der niederländischen Gesellschaft KLM kam aus Amsterdam und war auf dem Flug nach Mexiko. In den USA sollte eine Zwischenlandung stattfinden. Im kanadischen Luftraum wurden die Piloten über die Sperrung des Luftraumes informiert.\n\nAls Begründung gaben die USA an, vermutlich halten sich in der Maschine zwei verdächtige Passagiere auf. Daraufhin musste das Flugzeug zum Amsterdamer Flughafen Schiphol zurückkehren, da auf kanadischem Gebiet kein geeigneter Flughafen für eine Zwischenlandung vorhanden ist. \n\nDie holländische Fluggesellschaft KLM versicherte am darauffolgenden Tag, sie würden die Passagierlisten der Überlandflüge selbst auch kontrollieren. Gegen die beiden verdächtigen Personen läge jedoch in den Niederlanden nichts vor. Ein Flug in die USA wäre demnach durchaus vertretbar gewesen.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 113,
+            "end": 19,
+            "id": 0,
+            "text": "Die USA haben am Samstag, den 09.04.2005, einem anfliegenden Flugzeug aus den Niederlanden den Luftraum gesperrt.",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "tokens": [
+                "Die",
+                "USA",
+                "haben",
+                "am",
+                "Samstag",
+                ",",
+                "den",
+                "09.04.2005",
+                ",",
+                "einem",
+                "anfliegenden",
+                "Flugzeug",
+                "aus",
+                "den",
+                "Niederlanden",
+                "den",
+                "Luftraum",
+                "gesperrt",
+                "."
+            ]
+        },
+        {
+            "begin": 19,
+            "charBegin": 115,
+            "charEnd": 219,
+            "end": 37,
+            "id": 1,
+            "text": "Die Boeing 747 der niederländischen Gesellschaft KLM kam aus Amsterdam und war auf dem Flug nach Mexiko. ",
+            "tokenIds": [
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "tokens": [
+                "Die",
+                "Boeing",
+                "747",
+                "der",
+                "niederländischen",
+                "Gesellschaft",
+                "KLM",
+                "kam",
+                "aus",
+                "Amsterdam",
+                "und",
+                "war",
+                "auf",
+                "dem",
+                "Flug",
+                "nach",
+                "Mexiko",
+                "."
+            ]
+        },
+        {
+            "begin": 37,
+            "charBegin": 220,
+            "charEnd": 271,
+            "end": 45,
+            "id": 2,
+            "text": "In den USA sollte eine Zwischenlandung stattfinden. ",
+            "tokenIds": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44
+            ],
+            "tokens": [
+                "In",
+                "den",
+                "USA",
+                "sollte",
+                "eine",
+                "Zwischenlandung",
+                "stattfinden",
+                "."
+            ]
+        },
+        {
+            "begin": 45,
+            "charBegin": 272,
+            "charEnd": 359,
+            "end": 58,
+            "id": 3,
+            "text": "Im kanadischen Luftraum wurden die Piloten über die Sperrung des Luftraumes informiert.",
+            "tokenIds": [
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57
+            ],
+            "tokens": [
+                "Im",
+                "kanadischen",
+                "Luftraum",
+                "wurden",
+                "die",
+                "Piloten",
+                "über",
+                "die",
+                "Sperrung",
+                "des",
+                "Luftraumes",
+                "informiert",
+                "."
+            ]
+        },
+        {
+            "begin": 58,
+            "charBegin": 361,
+            "charEnd": 465,
+            "end": 76,
+            "id": 4,
+            "text": "Als Begründung gaben die USA an, vermutlich halten sich in der Maschine zwei verdächtige Passagiere auf. ",
+            "tokenIds": [
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75
+            ],
+            "tokens": [
+                "Als",
+                "Begründung",
+                "gaben",
+                "die",
+                "USA",
+                "an",
+                ",",
+                "vermutlich",
+                "halten",
+                "sich",
+                "in",
+                "der",
+                "Maschine",
+                "zwei",
+                "verdächtige",
+                "Passagiere",
+                "auf",
+                "."
+            ]
+        },
+        {
+            "begin": 76,
+            "charBegin": 466,
+            "charEnd": 636,
+            "end": 99,
+            "id": 5,
+            "text": "Daraufhin musste das Flugzeug zum Amsterdamer Flughafen Schiphol zurückkehren, da auf kanadischem Gebiet kein geeigneter Flughafen für eine Zwischenlandung vorhanden ist. ",
+            "tokenIds": [
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98
+            ],
+            "tokens": [
+                "Daraufhin",
+                "musste",
+                "das",
+                "Flugzeug",
+                "zum",
+                "Amsterdamer",
+                "Flughafen",
+                "Schiphol",
+                "zurückkehren",
+                ",",
+                "da",
+                "auf",
+                "kanadischem",
+                "Gebiet",
+                "kein",
+                "geeigneter",
+                "Flughafen",
+                "für",
+                "eine",
+                "Zwischenlandung",
+                "vorhanden",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "begin": 99,
+            "charBegin": 639,
+            "charEnd": 788,
+            "end": 118,
+            "id": 6,
+            "text": "Die holländische Fluggesellschaft KLM versicherte am darauffolgenden Tag, sie würden die Passagierlisten der Überlandflüge selbst auch kontrollieren. ",
+            "tokenIds": [
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117
+            ],
+            "tokens": [
+                "Die",
+                "holländische",
+                "Fluggesellschaft",
+                "KLM",
+                "versicherte",
+                "am",
+                "darauffolgenden",
+                "Tag",
+                ",",
+                "sie",
+                "würden",
+                "die",
+                "Passagierlisten",
+                "der",
+                "Überlandflüge",
+                "selbst",
+                "auch",
+                "kontrollieren",
+                "."
+            ]
+        },
+        {
+            "begin": 118,
+            "charBegin": 789,
+            "charEnd": 871,
+            "end": 131,
+            "id": 7,
+            "text": "Gegen die beiden verdächtigen Personen läge jedoch in den Niederlanden nichts vor. ",
+            "tokenIds": [
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130
+            ],
+            "tokens": [
+                "Gegen",
+                "die",
+                "beiden",
+                "verdächtigen",
+                "Personen",
+                "läge",
+                "jedoch",
+                "in",
+                "den",
+                "Niederlanden",
+                "nichts",
+                "vor",
+                "."
+            ]
+        },
+        {
+            "begin": 131,
+            "charBegin": 872,
+            "charEnd": 933,
+            "end": 142,
+            "id": 8,
+            "text": "Ein Flug in die USA wäre demnach durchaus vertretbar gewesen.",
+            "tokenIds": [
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141
+            ],
+            "tokens": [
+                "Ein",
+                "Flug",
+                "in",
+                "die",
+                "USA",
+                "wäre",
+                "demnach",
+                "durchaus",
+                "vertretbar",
+                "gewesen",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 7,
+            "id": 1,
+            "sentence": 1,
+            "text": "USA",
+            "word": 2
+        },
+        {
+            "charBegin": 8,
+            "charEnd": 13,
+            "id": 2,
+            "sentence": 1,
+            "text": "haben",
+            "word": 3
+        },
+        {
+            "charBegin": 14,
+            "charEnd": 16,
+            "id": 3,
+            "sentence": 1,
+            "text": "am",
+            "word": 4
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 24,
+            "id": 4,
+            "sentence": 1,
+            "text": "Samstag",
+            "word": 5
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 25,
+            "id": 5,
+            "sentence": 1,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 26,
+            "charEnd": 29,
+            "id": 6,
+            "sentence": 1,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 40,
+            "id": 7,
+            "sentence": 1,
+            "text": "09.04.2005",
+            "word": 8
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 41,
+            "id": 8,
+            "sentence": 1,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 47,
+            "id": 9,
+            "sentence": 1,
+            "text": "einem",
+            "word": 10
+        },
+        {
+            "charBegin": 48,
+            "charEnd": 60,
+            "id": 10,
+            "sentence": 1,
+            "text": "anfliegenden",
+            "word": 11
+        },
+        {
+            "charBegin": 61,
+            "charEnd": 69,
+            "id": 11,
+            "sentence": 1,
+            "text": "Flugzeug",
+            "word": 12
+        },
+        {
+            "charBegin": 70,
+            "charEnd": 73,
+            "id": 12,
+            "sentence": 1,
+            "text": "aus",
+            "word": 13
+        },
+        {
+            "charBegin": 74,
+            "charEnd": 77,
+            "id": 13,
+            "sentence": 1,
+            "text": "den",
+            "word": 14
+        },
+        {
+            "charBegin": 78,
+            "charEnd": 90,
+            "id": 14,
+            "sentence": 1,
+            "text": "Niederlanden",
+            "word": 15
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 94,
+            "id": 15,
+            "sentence": 1,
+            "text": "den",
+            "word": 16
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 103,
+            "id": 16,
+            "sentence": 1,
+            "text": "Luftraum",
+            "word": 17
+        },
+        {
+            "charBegin": 104,
+            "charEnd": 112,
+            "id": 17,
+            "sentence": 1,
+            "text": "gesperrt",
+            "word": 18
+        },
+        {
+            "charBegin": 112,
+            "charEnd": 113,
+            "id": 18,
+            "sentence": 1,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 115,
+            "charEnd": 118,
+            "id": 19,
+            "sentence": 2,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 119,
+            "charEnd": 125,
+            "id": 20,
+            "sentence": 2,
+            "text": "Boeing",
+            "word": 2
+        },
+        {
+            "charBegin": 126,
+            "charEnd": 129,
+            "id": 21,
+            "sentence": 2,
+            "text": "747",
+            "word": 3
+        },
+        {
+            "charBegin": 130,
+            "charEnd": 133,
+            "id": 22,
+            "sentence": 2,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 134,
+            "charEnd": 150,
+            "id": 23,
+            "sentence": 2,
+            "text": "niederländischen",
+            "word": 5
+        },
+        {
+            "charBegin": 151,
+            "charEnd": 163,
+            "id": 24,
+            "sentence": 2,
+            "text": "Gesellschaft",
+            "word": 6
+        },
+        {
+            "charBegin": 164,
+            "charEnd": 167,
+            "id": 25,
+            "sentence": 2,
+            "text": "KLM",
+            "word": 7
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 171,
+            "id": 26,
+            "sentence": 2,
+            "text": "kam",
+            "word": 8
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 175,
+            "id": 27,
+            "sentence": 2,
+            "text": "aus",
+            "word": 9
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 185,
+            "id": 28,
+            "sentence": 2,
+            "text": "Amsterdam",
+            "word": 10
+        },
+        {
+            "charBegin": 186,
+            "charEnd": 189,
+            "id": 29,
+            "sentence": 2,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 190,
+            "charEnd": 193,
+            "id": 30,
+            "sentence": 2,
+            "text": "war",
+            "word": 12
+        },
+        {
+            "charBegin": 194,
+            "charEnd": 197,
+            "id": 31,
+            "sentence": 2,
+            "text": "auf",
+            "word": 13
+        },
+        {
+            "charBegin": 198,
+            "charEnd": 201,
+            "id": 32,
+            "sentence": 2,
+            "text": "dem",
+            "word": 14
+        },
+        {
+            "charBegin": 202,
+            "charEnd": 206,
+            "id": 33,
+            "sentence": 2,
+            "text": "Flug",
+            "word": 15
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 211,
+            "id": 34,
+            "sentence": 2,
+            "text": "nach",
+            "word": 16
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 218,
+            "id": 35,
+            "sentence": 2,
+            "text": "Mexiko",
+            "word": 17
+        },
+        {
+            "charBegin": 218,
+            "charEnd": 219,
+            "id": 36,
+            "sentence": 2,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 220,
+            "charEnd": 222,
+            "id": 37,
+            "sentence": 3,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 226,
+            "id": 38,
+            "sentence": 3,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 230,
+            "id": 39,
+            "sentence": 3,
+            "text": "USA",
+            "word": 3
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 237,
+            "id": 40,
+            "sentence": 3,
+            "text": "sollte",
+            "word": 4
+        },
+        {
+            "charBegin": 238,
+            "charEnd": 242,
+            "id": 41,
+            "sentence": 3,
+            "text": "eine",
+            "word": 5
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 258,
+            "id": 42,
+            "sentence": 3,
+            "text": "Zwischenlandung",
+            "word": 6
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 270,
+            "id": 43,
+            "sentence": 3,
+            "text": "stattfinden",
+            "word": 7
+        },
+        {
+            "charBegin": 270,
+            "charEnd": 271,
+            "id": 44,
+            "sentence": 3,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 272,
+            "charEnd": 274,
+            "id": 45,
+            "sentence": 4,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 286,
+            "id": 46,
+            "sentence": 4,
+            "text": "kanadischen",
+            "word": 2
+        },
+        {
+            "charBegin": 287,
+            "charEnd": 295,
+            "id": 47,
+            "sentence": 4,
+            "text": "Luftraum",
+            "word": 3
+        },
+        {
+            "charBegin": 296,
+            "charEnd": 302,
+            "id": 48,
+            "sentence": 4,
+            "text": "wurden",
+            "word": 4
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 306,
+            "id": 49,
+            "sentence": 4,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 307,
+            "charEnd": 314,
+            "id": 50,
+            "sentence": 4,
+            "text": "Piloten",
+            "word": 6
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 319,
+            "id": 51,
+            "sentence": 4,
+            "text": "über",
+            "word": 7
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 323,
+            "id": 52,
+            "sentence": 4,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 332,
+            "id": 53,
+            "sentence": 4,
+            "text": "Sperrung",
+            "word": 9
+        },
+        {
+            "charBegin": 333,
+            "charEnd": 336,
+            "id": 54,
+            "sentence": 4,
+            "text": "des",
+            "word": 10
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 347,
+            "id": 55,
+            "sentence": 4,
+            "text": "Luftraumes",
+            "word": 11
+        },
+        {
+            "charBegin": 348,
+            "charEnd": 358,
+            "id": 56,
+            "sentence": 4,
+            "text": "informiert",
+            "word": 12
+        },
+        {
+            "charBegin": 358,
+            "charEnd": 359,
+            "id": 57,
+            "sentence": 4,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 364,
+            "id": 58,
+            "sentence": 5,
+            "text": "Als",
+            "word": 1
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 375,
+            "id": 59,
+            "sentence": 5,
+            "text": "Begründung",
+            "word": 2
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 381,
+            "id": 60,
+            "sentence": 5,
+            "text": "gaben",
+            "word": 3
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 385,
+            "id": 61,
+            "sentence": 5,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 386,
+            "charEnd": 389,
+            "id": 62,
+            "sentence": 5,
+            "text": "USA",
+            "word": 5
+        },
+        {
+            "charBegin": 390,
+            "charEnd": 392,
+            "id": 63,
+            "sentence": 5,
+            "text": "an",
+            "word": 6
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 393,
+            "id": 64,
+            "sentence": 5,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 404,
+            "id": 65,
+            "sentence": 5,
+            "text": "vermutlich",
+            "word": 8
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 411,
+            "id": 66,
+            "sentence": 5,
+            "text": "halten",
+            "word": 9
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 416,
+            "id": 67,
+            "sentence": 5,
+            "text": "sich",
+            "word": 10
+        },
+        {
+            "charBegin": 417,
+            "charEnd": 419,
+            "id": 68,
+            "sentence": 5,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 423,
+            "id": 69,
+            "sentence": 5,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 432,
+            "id": 70,
+            "sentence": 5,
+            "text": "Maschine",
+            "word": 13
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 437,
+            "id": 71,
+            "sentence": 5,
+            "text": "zwei",
+            "word": 14
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 449,
+            "id": 72,
+            "sentence": 5,
+            "text": "verdächtige",
+            "word": 15
+        },
+        {
+            "charBegin": 450,
+            "charEnd": 460,
+            "id": 73,
+            "sentence": 5,
+            "text": "Passagiere",
+            "word": 16
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 464,
+            "id": 74,
+            "sentence": 5,
+            "text": "auf",
+            "word": 17
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 465,
+            "id": 75,
+            "sentence": 5,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 466,
+            "charEnd": 475,
+            "id": 76,
+            "sentence": 6,
+            "text": "Daraufhin",
+            "word": 1
+        },
+        {
+            "charBegin": 476,
+            "charEnd": 482,
+            "id": 77,
+            "sentence": 6,
+            "text": "musste",
+            "word": 2
+        },
+        {
+            "charBegin": 483,
+            "charEnd": 486,
+            "id": 78,
+            "sentence": 6,
+            "text": "das",
+            "word": 3
+        },
+        {
+            "charBegin": 487,
+            "charEnd": 495,
+            "id": 79,
+            "sentence": 6,
+            "text": "Flugzeug",
+            "word": 4
+        },
+        {
+            "charBegin": 496,
+            "charEnd": 499,
+            "id": 80,
+            "sentence": 6,
+            "text": "zum",
+            "word": 5
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 511,
+            "id": 81,
+            "sentence": 6,
+            "text": "Amsterdamer",
+            "word": 6
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 521,
+            "id": 82,
+            "sentence": 6,
+            "text": "Flughafen",
+            "word": 7
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 530,
+            "id": 83,
+            "sentence": 6,
+            "text": "Schiphol",
+            "word": 8
+        },
+        {
+            "charBegin": 531,
+            "charEnd": 543,
+            "id": 84,
+            "sentence": 6,
+            "text": "zurückkehren",
+            "word": 9
+        },
+        {
+            "charBegin": 543,
+            "charEnd": 544,
+            "id": 85,
+            "sentence": 6,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 545,
+            "charEnd": 547,
+            "id": 86,
+            "sentence": 6,
+            "text": "da",
+            "word": 11
+        },
+        {
+            "charBegin": 548,
+            "charEnd": 551,
+            "id": 87,
+            "sentence": 6,
+            "text": "auf",
+            "word": 12
+        },
+        {
+            "charBegin": 552,
+            "charEnd": 563,
+            "id": 88,
+            "sentence": 6,
+            "text": "kanadischem",
+            "word": 13
+        },
+        {
+            "charBegin": 564,
+            "charEnd": 570,
+            "id": 89,
+            "sentence": 6,
+            "text": "Gebiet",
+            "word": 14
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 575,
+            "id": 90,
+            "sentence": 6,
+            "text": "kein",
+            "word": 15
+        },
+        {
+            "charBegin": 576,
+            "charEnd": 586,
+            "id": 91,
+            "sentence": 6,
+            "text": "geeigneter",
+            "word": 16
+        },
+        {
+            "charBegin": 587,
+            "charEnd": 596,
+            "id": 92,
+            "sentence": 6,
+            "text": "Flughafen",
+            "word": 17
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 600,
+            "id": 93,
+            "sentence": 6,
+            "text": "für",
+            "word": 18
+        },
+        {
+            "charBegin": 601,
+            "charEnd": 605,
+            "id": 94,
+            "sentence": 6,
+            "text": "eine",
+            "word": 19
+        },
+        {
+            "charBegin": 606,
+            "charEnd": 621,
+            "id": 95,
+            "sentence": 6,
+            "text": "Zwischenlandung",
+            "word": 20
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 631,
+            "id": 96,
+            "sentence": 6,
+            "text": "vorhanden",
+            "word": 21
+        },
+        {
+            "charBegin": 632,
+            "charEnd": 635,
+            "id": 97,
+            "sentence": 6,
+            "text": "ist",
+            "word": 22
+        },
+        {
+            "charBegin": 635,
+            "charEnd": 636,
+            "id": 98,
+            "sentence": 6,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 639,
+            "charEnd": 642,
+            "id": 99,
+            "sentence": 7,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 643,
+            "charEnd": 655,
+            "id": 100,
+            "sentence": 7,
+            "text": "holländische",
+            "word": 2
+        },
+        {
+            "charBegin": 656,
+            "charEnd": 672,
+            "id": 101,
+            "sentence": 7,
+            "text": "Fluggesellschaft",
+            "word": 3
+        },
+        {
+            "charBegin": 673,
+            "charEnd": 676,
+            "id": 102,
+            "sentence": 7,
+            "text": "KLM",
+            "word": 4
+        },
+        {
+            "charBegin": 677,
+            "charEnd": 688,
+            "id": 103,
+            "sentence": 7,
+            "text": "versicherte",
+            "word": 5
+        },
+        {
+            "charBegin": 689,
+            "charEnd": 691,
+            "id": 104,
+            "sentence": 7,
+            "text": "am",
+            "word": 6
+        },
+        {
+            "charBegin": 692,
+            "charEnd": 707,
+            "id": 105,
+            "sentence": 7,
+            "text": "darauffolgenden",
+            "word": 7
+        },
+        {
+            "charBegin": 708,
+            "charEnd": 711,
+            "id": 106,
+            "sentence": 7,
+            "text": "Tag",
+            "word": 8
+        },
+        {
+            "charBegin": 711,
+            "charEnd": 712,
+            "id": 107,
+            "sentence": 7,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 713,
+            "charEnd": 716,
+            "id": 108,
+            "sentence": 7,
+            "text": "sie",
+            "word": 10
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 723,
+            "id": 109,
+            "sentence": 7,
+            "text": "würden",
+            "word": 11
+        },
+        {
+            "charBegin": 724,
+            "charEnd": 727,
+            "id": 110,
+            "sentence": 7,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 728,
+            "charEnd": 743,
+            "id": 111,
+            "sentence": 7,
+            "text": "Passagierlisten",
+            "word": 13
+        },
+        {
+            "charBegin": 744,
+            "charEnd": 747,
+            "id": 112,
+            "sentence": 7,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 761,
+            "id": 113,
+            "sentence": 7,
+            "text": "Überlandflüge",
+            "word": 15
+        },
+        {
+            "charBegin": 762,
+            "charEnd": 768,
+            "id": 114,
+            "sentence": 7,
+            "text": "selbst",
+            "word": 16
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 773,
+            "id": 115,
+            "sentence": 7,
+            "text": "auch",
+            "word": 17
+        },
+        {
+            "charBegin": 774,
+            "charEnd": 787,
+            "id": 116,
+            "sentence": 7,
+            "text": "kontrollieren",
+            "word": 18
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 788,
+            "id": 117,
+            "sentence": 7,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 789,
+            "charEnd": 794,
+            "id": 118,
+            "sentence": 8,
+            "text": "Gegen",
+            "word": 1
+        },
+        {
+            "charBegin": 795,
+            "charEnd": 798,
+            "id": 119,
+            "sentence": 8,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 799,
+            "charEnd": 805,
+            "id": 120,
+            "sentence": 8,
+            "text": "beiden",
+            "word": 3
+        },
+        {
+            "charBegin": 806,
+            "charEnd": 818,
+            "id": 121,
+            "sentence": 8,
+            "text": "verdächtigen",
+            "word": 4
+        },
+        {
+            "charBegin": 819,
+            "charEnd": 827,
+            "id": 122,
+            "sentence": 8,
+            "text": "Personen",
+            "word": 5
+        },
+        {
+            "charBegin": 828,
+            "charEnd": 832,
+            "id": 123,
+            "sentence": 8,
+            "text": "läge",
+            "word": 6
+        },
+        {
+            "charBegin": 833,
+            "charEnd": 839,
+            "id": 124,
+            "sentence": 8,
+            "text": "jedoch",
+            "word": 7
+        },
+        {
+            "charBegin": 840,
+            "charEnd": 842,
+            "id": 125,
+            "sentence": 8,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 843,
+            "charEnd": 846,
+            "id": 126,
+            "sentence": 8,
+            "text": "den",
+            "word": 9
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 859,
+            "id": 127,
+            "sentence": 8,
+            "text": "Niederlanden",
+            "word": 10
+        },
+        {
+            "charBegin": 860,
+            "charEnd": 866,
+            "id": 128,
+            "sentence": 8,
+            "text": "nichts",
+            "word": 11
+        },
+        {
+            "charBegin": 867,
+            "charEnd": 870,
+            "id": 129,
+            "sentence": 8,
+            "text": "vor",
+            "word": 12
+        },
+        {
+            "charBegin": 870,
+            "charEnd": 871,
+            "id": 130,
+            "sentence": 8,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 872,
+            "charEnd": 875,
+            "id": 131,
+            "sentence": 9,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 876,
+            "charEnd": 880,
+            "id": 132,
+            "sentence": 9,
+            "text": "Flug",
+            "word": 2
+        },
+        {
+            "charBegin": 881,
+            "charEnd": 883,
+            "id": 133,
+            "sentence": 9,
+            "text": "in",
+            "word": 3
+        },
+        {
+            "charBegin": 884,
+            "charEnd": 887,
+            "id": 134,
+            "sentence": 9,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 891,
+            "id": 135,
+            "sentence": 9,
+            "text": "USA",
+            "word": 5
+        },
+        {
+            "charBegin": 892,
+            "charEnd": 896,
+            "id": 136,
+            "sentence": 9,
+            "text": "wäre",
+            "word": 6
+        },
+        {
+            "charBegin": 897,
+            "charEnd": 904,
+            "id": 137,
+            "sentence": 9,
+            "text": "demnach",
+            "word": 7
+        },
+        {
+            "charBegin": 905,
+            "charEnd": 913,
+            "id": 138,
+            "sentence": 9,
+            "text": "durchaus",
+            "word": 8
+        },
+        {
+            "charBegin": 914,
+            "charEnd": 924,
+            "id": 139,
+            "sentence": 9,
+            "text": "vertretbar",
+            "word": 9
+        },
+        {
+            "charBegin": 925,
+            "charEnd": 932,
+            "id": 140,
+            "sentence": 9,
+            "text": "gewesen",
+            "word": 10
+        },
+        {
+            "charBegin": 932,
+            "charEnd": 933,
+            "id": 141,
+            "sentence": 9,
+            "text": ".",
+            "word": 11
+        }
+    ]
+}

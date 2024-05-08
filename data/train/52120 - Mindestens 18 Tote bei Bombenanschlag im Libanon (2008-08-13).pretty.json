@@ -1,0 +1,1736 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 46,
+                        "charBegin": 308,
+                        "charEnd": 326,
+                        "end": 49
+                    }
+                ],
+                "text": "Es wird angenommen",
+                "tokenIds": [
+                    46,
+                    47,
+                    48
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 46,
+                        "charBegin": 308,
+                        "charEnd": 327,
+                        "end": 50
+                    }
+                ],
+                "text": "Es wird angenommen,",
+                "tokenIds": [
+                    46,
+                    47,
+                    48,
+                    49
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 50,
+                        "charBegin": 328,
+                        "charEnd": 363,
+                        "end": 55
+                    }
+                ],
+                "text": "dass die Explosion ferngezündet war",
+                "tokenIds": [
+                    50,
+                    51,
+                    52,
+                    53,
+                    54
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "52120 - Mindestens 18 Tote bei Bombenanschlag im Libanon (2008-08-13)",
+    "originalText": "Bei einem Bombenanschlag in der Hafenstadt Tripoli im nördlichen Libanon wurden 18 Menschen getötet, davon mindestens sieben Angehörige der libanesischen Armee. 40 Personen wurden bei dem Attentat verletzt. Ein am Straßenrand deponierte Sprengsatz explodierte, als im Berufsverkehr ein Omnibus vorüber fuhr. Es wird angenommen, dass die Explosion ferngezündet war. \n\nDer Anschlag erfolgte nur Stunden vor dem ersten Staatsbesuch eines libanesischen Präsidenten in Syrien seit drei Jahren. Manche libanesischen Politiker und westliche Regierungen machen den syrischen Geheimdienst für das Attentat auf den früheren Ministerpräsidenten Rafik al-Hariri verantwortlich. \n\nIn Tripoli war es in den letzten Wochen immer wieder zu Feuergefechten zwischen Sunniten und Schiiten gekommen. Bei diesen blutigen Zusammenstößen hatte es Dutzende von Toten und Verletzten gegeben. Das nahegelegene palästinensische Flüchtlingslager Nahr al Bared stand 2007 im Interesse der Weltöffentlichkeit, als eine al-Qauida nahestehende Gruppierung sich mit der libanesischen Armee einen wochenlangen Schlagabtausch lieferte.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 160,
+            "end": 23,
+            "id": 0,
+            "text": "Bei einem Bombenanschlag in der Hafenstadt Tripoli im nördlichen Libanon wurden 18 Menschen getötet, davon mindestens sieben Angehörige der libanesischen Armee. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22
+            ],
+            "tokens": [
+                "Bei",
+                "einem",
+                "Bombenanschlag",
+                "in",
+                "der",
+                "Hafenstadt",
+                "Tripoli",
+                "im",
+                "nördlichen",
+                "Libanon",
+                "wurden",
+                "18",
+                "Menschen",
+                "getötet",
+                ",",
+                "davon",
+                "mindestens",
+                "sieben",
+                "Angehörige",
+                "der",
+                "libanesischen",
+                "Armee",
+                "."
+            ]
+        },
+        {
+            "begin": 23,
+            "charBegin": 161,
+            "charEnd": 206,
+            "end": 31,
+            "id": 1,
+            "text": "40 Personen wurden bei dem Attentat verletzt. ",
+            "tokenIds": [
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "tokens": [
+                "40",
+                "Personen",
+                "wurden",
+                "bei",
+                "dem",
+                "Attentat",
+                "verletzt",
+                "."
+            ]
+        },
+        {
+            "begin": 31,
+            "charBegin": 207,
+            "charEnd": 307,
+            "end": 46,
+            "id": 2,
+            "text": "Ein am Straßenrand deponierte Sprengsatz explodierte, als im Berufsverkehr ein Omnibus vorüber fuhr. ",
+            "tokenIds": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45
+            ],
+            "tokens": [
+                "Ein",
+                "am",
+                "Straßenrand",
+                "deponierte",
+                "Sprengsatz",
+                "explodierte",
+                ",",
+                "als",
+                "im",
+                "Berufsverkehr",
+                "ein",
+                "Omnibus",
+                "vorüber",
+                "fuhr",
+                "."
+            ]
+        },
+        {
+            "begin": 46,
+            "charBegin": 308,
+            "charEnd": 364,
+            "end": 56,
+            "id": 3,
+            "text": "Es wird angenommen, dass die Explosion ferngezündet war. ",
+            "tokenIds": [
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55
+            ],
+            "tokens": [
+                "Es",
+                "wird",
+                "angenommen",
+                ",",
+                "dass",
+                "die",
+                "Explosion",
+                "ferngezündet",
+                "war",
+                "."
+            ]
+        },
+        {
+            "begin": 56,
+            "charBegin": 367,
+            "charEnd": 488,
+            "end": 74,
+            "id": 4,
+            "text": "Der Anschlag erfolgte nur Stunden vor dem ersten Staatsbesuch eines libanesischen Präsidenten in Syrien seit drei Jahren. ",
+            "tokenIds": [
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73
+            ],
+            "tokens": [
+                "Der",
+                "Anschlag",
+                "erfolgte",
+                "nur",
+                "Stunden",
+                "vor",
+                "dem",
+                "ersten",
+                "Staatsbesuch",
+                "eines",
+                "libanesischen",
+                "Präsidenten",
+                "in",
+                "Syrien",
+                "seit",
+                "drei",
+                "Jahren",
+                "."
+            ]
+        },
+        {
+            "begin": 74,
+            "charBegin": 489,
+            "charEnd": 665,
+            "end": 95,
+            "id": 5,
+            "text": "Manche libanesischen Politiker und westliche Regierungen machen den syrischen Geheimdienst für das Attentat auf den früheren Ministerpräsidenten Rafik al-Hariri verantwortlich. ",
+            "tokenIds": [
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94
+            ],
+            "tokens": [
+                "Manche",
+                "libanesischen",
+                "Politiker",
+                "und",
+                "westliche",
+                "Regierungen",
+                "machen",
+                "den",
+                "syrischen",
+                "Geheimdienst",
+                "für",
+                "das",
+                "Attentat",
+                "auf",
+                "den",
+                "früheren",
+                "Ministerpräsidenten",
+                "Rafik",
+                "al-Hariri",
+                "verantwortlich",
+                "."
+            ]
+        },
+        {
+            "begin": 95,
+            "charBegin": 668,
+            "charEnd": 779,
+            "end": 113,
+            "id": 6,
+            "text": "In Tripoli war es in den letzten Wochen immer wieder zu Feuergefechten zwischen Sunniten und Schiiten gekommen. ",
+            "tokenIds": [
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112
+            ],
+            "tokens": [
+                "In",
+                "Tripoli",
+                "war",
+                "es",
+                "in",
+                "den",
+                "letzten",
+                "Wochen",
+                "immer",
+                "wieder",
+                "zu",
+                "Feuergefechten",
+                "zwischen",
+                "Sunniten",
+                "und",
+                "Schiiten",
+                "gekommen",
+                "."
+            ]
+        },
+        {
+            "begin": 113,
+            "charBegin": 780,
+            "charEnd": 866,
+            "end": 126,
+            "id": 7,
+            "text": "Bei diesen blutigen Zusammenstößen hatte es Dutzende von Toten und Verletzten gegeben. ",
+            "tokenIds": [
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125
+            ],
+            "tokens": [
+                "Bei",
+                "diesen",
+                "blutigen",
+                "Zusammenstößen",
+                "hatte",
+                "es",
+                "Dutzende",
+                "von",
+                "Toten",
+                "und",
+                "Verletzten",
+                "gegeben",
+                "."
+            ]
+        },
+        {
+            "begin": 126,
+            "charBegin": 867,
+            "charEnd": 1100,
+            "end": 155,
+            "id": 8,
+            "text": "Das nahegelegene palästinensische Flüchtlingslager Nahr al Bared stand 2007 im Interesse der Weltöffentlichkeit, als eine al-Qauida nahestehende Gruppierung sich mit der libanesischen Armee einen wochenlangen Schlagabtausch lieferte.",
+            "tokenIds": [
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154
+            ],
+            "tokens": [
+                "Das",
+                "nahegelegene",
+                "palästinensische",
+                "Flüchtlingslager",
+                "Nahr",
+                "al",
+                "Bared",
+                "stand",
+                "2007",
+                "im",
+                "Interesse",
+                "der",
+                "Weltöffentlichkeit",
+                ",",
+                "als",
+                "eine",
+                "al-Qauida",
+                "nahestehende",
+                "Gruppierung",
+                "sich",
+                "mit",
+                "der",
+                "libanesischen",
+                "Armee",
+                "einen",
+                "wochenlangen",
+                "Schlagabtausch",
+                "lieferte",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Bei",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 9,
+            "id": 1,
+            "sentence": 1,
+            "text": "einem",
+            "word": 2
+        },
+        {
+            "charBegin": 10,
+            "charEnd": 24,
+            "id": 2,
+            "sentence": 1,
+            "text": "Bombenanschlag",
+            "word": 3
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 27,
+            "id": 3,
+            "sentence": 1,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 28,
+            "charEnd": 31,
+            "id": 4,
+            "sentence": 1,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 42,
+            "id": 5,
+            "sentence": 1,
+            "text": "Hafenstadt",
+            "word": 6
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 50,
+            "id": 6,
+            "sentence": 1,
+            "text": "Tripoli",
+            "word": 7
+        },
+        {
+            "charBegin": 51,
+            "charEnd": 53,
+            "id": 7,
+            "sentence": 1,
+            "text": "im",
+            "word": 8
+        },
+        {
+            "charBegin": 54,
+            "charEnd": 64,
+            "id": 8,
+            "sentence": 1,
+            "text": "nördlichen",
+            "word": 9
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 72,
+            "id": 9,
+            "sentence": 1,
+            "text": "Libanon",
+            "word": 10
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 79,
+            "id": 10,
+            "sentence": 1,
+            "text": "wurden",
+            "word": 11
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 82,
+            "id": 11,
+            "sentence": 1,
+            "text": "18",
+            "word": 12
+        },
+        {
+            "charBegin": 83,
+            "charEnd": 91,
+            "id": 12,
+            "sentence": 1,
+            "text": "Menschen",
+            "word": 13
+        },
+        {
+            "charBegin": 92,
+            "charEnd": 99,
+            "id": 13,
+            "sentence": 1,
+            "text": "getötet",
+            "word": 14
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 100,
+            "id": 14,
+            "sentence": 1,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 101,
+            "charEnd": 106,
+            "id": 15,
+            "sentence": 1,
+            "text": "davon",
+            "word": 16
+        },
+        {
+            "charBegin": 107,
+            "charEnd": 117,
+            "id": 16,
+            "sentence": 1,
+            "text": "mindestens",
+            "word": 17
+        },
+        {
+            "charBegin": 118,
+            "charEnd": 124,
+            "id": 17,
+            "sentence": 1,
+            "text": "sieben",
+            "word": 18
+        },
+        {
+            "charBegin": 125,
+            "charEnd": 135,
+            "id": 18,
+            "sentence": 1,
+            "text": "Angehörige",
+            "word": 19
+        },
+        {
+            "charBegin": 136,
+            "charEnd": 139,
+            "id": 19,
+            "sentence": 1,
+            "text": "der",
+            "word": 20
+        },
+        {
+            "charBegin": 140,
+            "charEnd": 153,
+            "id": 20,
+            "sentence": 1,
+            "text": "libanesischen",
+            "word": 21
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 159,
+            "id": 21,
+            "sentence": 1,
+            "text": "Armee",
+            "word": 22
+        },
+        {
+            "charBegin": 159,
+            "charEnd": 160,
+            "id": 22,
+            "sentence": 1,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 161,
+            "charEnd": 163,
+            "id": 23,
+            "sentence": 2,
+            "text": "40",
+            "word": 1
+        },
+        {
+            "charBegin": 164,
+            "charEnd": 172,
+            "id": 24,
+            "sentence": 2,
+            "text": "Personen",
+            "word": 2
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 179,
+            "id": 25,
+            "sentence": 2,
+            "text": "wurden",
+            "word": 3
+        },
+        {
+            "charBegin": 180,
+            "charEnd": 183,
+            "id": 26,
+            "sentence": 2,
+            "text": "bei",
+            "word": 4
+        },
+        {
+            "charBegin": 184,
+            "charEnd": 187,
+            "id": 27,
+            "sentence": 2,
+            "text": "dem",
+            "word": 5
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 196,
+            "id": 28,
+            "sentence": 2,
+            "text": "Attentat",
+            "word": 6
+        },
+        {
+            "charBegin": 197,
+            "charEnd": 205,
+            "id": 29,
+            "sentence": 2,
+            "text": "verletzt",
+            "word": 7
+        },
+        {
+            "charBegin": 205,
+            "charEnd": 206,
+            "id": 30,
+            "sentence": 2,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 210,
+            "id": 31,
+            "sentence": 3,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 211,
+            "charEnd": 213,
+            "id": 32,
+            "sentence": 3,
+            "text": "am",
+            "word": 2
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 225,
+            "id": 33,
+            "sentence": 3,
+            "text": "Straßenrand",
+            "word": 3
+        },
+        {
+            "charBegin": 226,
+            "charEnd": 236,
+            "id": 34,
+            "sentence": 3,
+            "text": "deponierte",
+            "word": 4
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 247,
+            "id": 35,
+            "sentence": 3,
+            "text": "Sprengsatz",
+            "word": 5
+        },
+        {
+            "charBegin": 248,
+            "charEnd": 259,
+            "id": 36,
+            "sentence": 3,
+            "text": "explodierte",
+            "word": 6
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 260,
+            "id": 37,
+            "sentence": 3,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 261,
+            "charEnd": 264,
+            "id": 38,
+            "sentence": 3,
+            "text": "als",
+            "word": 8
+        },
+        {
+            "charBegin": 265,
+            "charEnd": 267,
+            "id": 39,
+            "sentence": 3,
+            "text": "im",
+            "word": 9
+        },
+        {
+            "charBegin": 268,
+            "charEnd": 281,
+            "id": 40,
+            "sentence": 3,
+            "text": "Berufsverkehr",
+            "word": 10
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 285,
+            "id": 41,
+            "sentence": 3,
+            "text": "ein",
+            "word": 11
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 293,
+            "id": 42,
+            "sentence": 3,
+            "text": "Omnibus",
+            "word": 12
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 301,
+            "id": 43,
+            "sentence": 3,
+            "text": "vorüber",
+            "word": 13
+        },
+        {
+            "charBegin": 302,
+            "charEnd": 306,
+            "id": 44,
+            "sentence": 3,
+            "text": "fuhr",
+            "word": 14
+        },
+        {
+            "charBegin": 306,
+            "charEnd": 307,
+            "id": 45,
+            "sentence": 3,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 310,
+            "id": 46,
+            "sentence": 4,
+            "text": "Es",
+            "word": 1
+        },
+        {
+            "charBegin": 311,
+            "charEnd": 315,
+            "id": 47,
+            "sentence": 4,
+            "text": "wird",
+            "word": 2
+        },
+        {
+            "charBegin": 316,
+            "charEnd": 326,
+            "id": 48,
+            "sentence": 4,
+            "text": "angenommen",
+            "word": 3
+        },
+        {
+            "charBegin": 326,
+            "charEnd": 327,
+            "id": 49,
+            "sentence": 4,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 332,
+            "id": 50,
+            "sentence": 4,
+            "text": "dass",
+            "word": 5
+        },
+        {
+            "charBegin": 333,
+            "charEnd": 336,
+            "id": 51,
+            "sentence": 4,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 346,
+            "id": 52,
+            "sentence": 4,
+            "text": "Explosion",
+            "word": 7
+        },
+        {
+            "charBegin": 347,
+            "charEnd": 359,
+            "id": 53,
+            "sentence": 4,
+            "text": "ferngezündet",
+            "word": 8
+        },
+        {
+            "charBegin": 360,
+            "charEnd": 363,
+            "id": 54,
+            "sentence": 4,
+            "text": "war",
+            "word": 9
+        },
+        {
+            "charBegin": 363,
+            "charEnd": 364,
+            "id": 55,
+            "sentence": 4,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 367,
+            "charEnd": 370,
+            "id": 56,
+            "sentence": 5,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 371,
+            "charEnd": 379,
+            "id": 57,
+            "sentence": 5,
+            "text": "Anschlag",
+            "word": 2
+        },
+        {
+            "charBegin": 380,
+            "charEnd": 388,
+            "id": 58,
+            "sentence": 5,
+            "text": "erfolgte",
+            "word": 3
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 392,
+            "id": 59,
+            "sentence": 5,
+            "text": "nur",
+            "word": 4
+        },
+        {
+            "charBegin": 393,
+            "charEnd": 400,
+            "id": 60,
+            "sentence": 5,
+            "text": "Stunden",
+            "word": 5
+        },
+        {
+            "charBegin": 401,
+            "charEnd": 404,
+            "id": 61,
+            "sentence": 5,
+            "text": "vor",
+            "word": 6
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 408,
+            "id": 62,
+            "sentence": 5,
+            "text": "dem",
+            "word": 7
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 415,
+            "id": 63,
+            "sentence": 5,
+            "text": "ersten",
+            "word": 8
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 428,
+            "id": 64,
+            "sentence": 5,
+            "text": "Staatsbesuch",
+            "word": 9
+        },
+        {
+            "charBegin": 429,
+            "charEnd": 434,
+            "id": 65,
+            "sentence": 5,
+            "text": "eines",
+            "word": 10
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 448,
+            "id": 66,
+            "sentence": 5,
+            "text": "libanesischen",
+            "word": 11
+        },
+        {
+            "charBegin": 449,
+            "charEnd": 460,
+            "id": 67,
+            "sentence": 5,
+            "text": "Präsidenten",
+            "word": 12
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 463,
+            "id": 68,
+            "sentence": 5,
+            "text": "in",
+            "word": 13
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 470,
+            "id": 69,
+            "sentence": 5,
+            "text": "Syrien",
+            "word": 14
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 475,
+            "id": 70,
+            "sentence": 5,
+            "text": "seit",
+            "word": 15
+        },
+        {
+            "charBegin": 476,
+            "charEnd": 480,
+            "id": 71,
+            "sentence": 5,
+            "text": "drei",
+            "word": 16
+        },
+        {
+            "charBegin": 481,
+            "charEnd": 487,
+            "id": 72,
+            "sentence": 5,
+            "text": "Jahren",
+            "word": 17
+        },
+        {
+            "charBegin": 487,
+            "charEnd": 488,
+            "id": 73,
+            "sentence": 5,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 489,
+            "charEnd": 495,
+            "id": 74,
+            "sentence": 6,
+            "text": "Manche",
+            "word": 1
+        },
+        {
+            "charBegin": 496,
+            "charEnd": 509,
+            "id": 75,
+            "sentence": 6,
+            "text": "libanesischen",
+            "word": 2
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 519,
+            "id": 76,
+            "sentence": 6,
+            "text": "Politiker",
+            "word": 3
+        },
+        {
+            "charBegin": 520,
+            "charEnd": 523,
+            "id": 77,
+            "sentence": 6,
+            "text": "und",
+            "word": 4
+        },
+        {
+            "charBegin": 524,
+            "charEnd": 533,
+            "id": 78,
+            "sentence": 6,
+            "text": "westliche",
+            "word": 5
+        },
+        {
+            "charBegin": 534,
+            "charEnd": 545,
+            "id": 79,
+            "sentence": 6,
+            "text": "Regierungen",
+            "word": 6
+        },
+        {
+            "charBegin": 546,
+            "charEnd": 552,
+            "id": 80,
+            "sentence": 6,
+            "text": "machen",
+            "word": 7
+        },
+        {
+            "charBegin": 553,
+            "charEnd": 556,
+            "id": 81,
+            "sentence": 6,
+            "text": "den",
+            "word": 8
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 566,
+            "id": 82,
+            "sentence": 6,
+            "text": "syrischen",
+            "word": 9
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 579,
+            "id": 83,
+            "sentence": 6,
+            "text": "Geheimdienst",
+            "word": 10
+        },
+        {
+            "charBegin": 580,
+            "charEnd": 583,
+            "id": 84,
+            "sentence": 6,
+            "text": "für",
+            "word": 11
+        },
+        {
+            "charBegin": 584,
+            "charEnd": 587,
+            "id": 85,
+            "sentence": 6,
+            "text": "das",
+            "word": 12
+        },
+        {
+            "charBegin": 588,
+            "charEnd": 596,
+            "id": 86,
+            "sentence": 6,
+            "text": "Attentat",
+            "word": 13
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 600,
+            "id": 87,
+            "sentence": 6,
+            "text": "auf",
+            "word": 14
+        },
+        {
+            "charBegin": 601,
+            "charEnd": 604,
+            "id": 88,
+            "sentence": 6,
+            "text": "den",
+            "word": 15
+        },
+        {
+            "charBegin": 605,
+            "charEnd": 613,
+            "id": 89,
+            "sentence": 6,
+            "text": "früheren",
+            "word": 16
+        },
+        {
+            "charBegin": 614,
+            "charEnd": 633,
+            "id": 90,
+            "sentence": 6,
+            "text": "Ministerpräsidenten",
+            "word": 17
+        },
+        {
+            "charBegin": 634,
+            "charEnd": 639,
+            "id": 91,
+            "sentence": 6,
+            "text": "Rafik",
+            "word": 18
+        },
+        {
+            "charBegin": 640,
+            "charEnd": 649,
+            "id": 92,
+            "sentence": 6,
+            "text": "al-Hariri",
+            "word": 19
+        },
+        {
+            "charBegin": 650,
+            "charEnd": 664,
+            "id": 93,
+            "sentence": 6,
+            "text": "verantwortlich",
+            "word": 20
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 665,
+            "id": 94,
+            "sentence": 6,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 670,
+            "id": 95,
+            "sentence": 7,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 671,
+            "charEnd": 678,
+            "id": 96,
+            "sentence": 7,
+            "text": "Tripoli",
+            "word": 2
+        },
+        {
+            "charBegin": 679,
+            "charEnd": 682,
+            "id": 97,
+            "sentence": 7,
+            "text": "war",
+            "word": 3
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 685,
+            "id": 98,
+            "sentence": 7,
+            "text": "es",
+            "word": 4
+        },
+        {
+            "charBegin": 686,
+            "charEnd": 688,
+            "id": 99,
+            "sentence": 7,
+            "text": "in",
+            "word": 5
+        },
+        {
+            "charBegin": 689,
+            "charEnd": 692,
+            "id": 100,
+            "sentence": 7,
+            "text": "den",
+            "word": 6
+        },
+        {
+            "charBegin": 693,
+            "charEnd": 700,
+            "id": 101,
+            "sentence": 7,
+            "text": "letzten",
+            "word": 7
+        },
+        {
+            "charBegin": 701,
+            "charEnd": 707,
+            "id": 102,
+            "sentence": 7,
+            "text": "Wochen",
+            "word": 8
+        },
+        {
+            "charBegin": 708,
+            "charEnd": 713,
+            "id": 103,
+            "sentence": 7,
+            "text": "immer",
+            "word": 9
+        },
+        {
+            "charBegin": 714,
+            "charEnd": 720,
+            "id": 104,
+            "sentence": 7,
+            "text": "wieder",
+            "word": 10
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 723,
+            "id": 105,
+            "sentence": 7,
+            "text": "zu",
+            "word": 11
+        },
+        {
+            "charBegin": 724,
+            "charEnd": 738,
+            "id": 106,
+            "sentence": 7,
+            "text": "Feuergefechten",
+            "word": 12
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 747,
+            "id": 107,
+            "sentence": 7,
+            "text": "zwischen",
+            "word": 13
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 756,
+            "id": 108,
+            "sentence": 7,
+            "text": "Sunniten",
+            "word": 14
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 760,
+            "id": 109,
+            "sentence": 7,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 761,
+            "charEnd": 769,
+            "id": 110,
+            "sentence": 7,
+            "text": "Schiiten",
+            "word": 16
+        },
+        {
+            "charBegin": 770,
+            "charEnd": 778,
+            "id": 111,
+            "sentence": 7,
+            "text": "gekommen",
+            "word": 17
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 779,
+            "id": 112,
+            "sentence": 7,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 783,
+            "id": 113,
+            "sentence": 8,
+            "text": "Bei",
+            "word": 1
+        },
+        {
+            "charBegin": 784,
+            "charEnd": 790,
+            "id": 114,
+            "sentence": 8,
+            "text": "diesen",
+            "word": 2
+        },
+        {
+            "charBegin": 791,
+            "charEnd": 799,
+            "id": 115,
+            "sentence": 8,
+            "text": "blutigen",
+            "word": 3
+        },
+        {
+            "charBegin": 800,
+            "charEnd": 814,
+            "id": 116,
+            "sentence": 8,
+            "text": "Zusammenstößen",
+            "word": 4
+        },
+        {
+            "charBegin": 815,
+            "charEnd": 820,
+            "id": 117,
+            "sentence": 8,
+            "text": "hatte",
+            "word": 5
+        },
+        {
+            "charBegin": 821,
+            "charEnd": 823,
+            "id": 118,
+            "sentence": 8,
+            "text": "es",
+            "word": 6
+        },
+        {
+            "charBegin": 824,
+            "charEnd": 832,
+            "id": 119,
+            "sentence": 8,
+            "text": "Dutzende",
+            "word": 7
+        },
+        {
+            "charBegin": 833,
+            "charEnd": 836,
+            "id": 120,
+            "sentence": 8,
+            "text": "von",
+            "word": 8
+        },
+        {
+            "charBegin": 837,
+            "charEnd": 842,
+            "id": 121,
+            "sentence": 8,
+            "text": "Toten",
+            "word": 9
+        },
+        {
+            "charBegin": 843,
+            "charEnd": 846,
+            "id": 122,
+            "sentence": 8,
+            "text": "und",
+            "word": 10
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 857,
+            "id": 123,
+            "sentence": 8,
+            "text": "Verletzten",
+            "word": 11
+        },
+        {
+            "charBegin": 858,
+            "charEnd": 865,
+            "id": 124,
+            "sentence": 8,
+            "text": "gegeben",
+            "word": 12
+        },
+        {
+            "charBegin": 865,
+            "charEnd": 866,
+            "id": 125,
+            "sentence": 8,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 867,
+            "charEnd": 870,
+            "id": 126,
+            "sentence": 9,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 871,
+            "charEnd": 883,
+            "id": 127,
+            "sentence": 9,
+            "text": "nahegelegene",
+            "word": 2
+        },
+        {
+            "charBegin": 884,
+            "charEnd": 900,
+            "id": 128,
+            "sentence": 9,
+            "text": "palästinensische",
+            "word": 3
+        },
+        {
+            "charBegin": 901,
+            "charEnd": 917,
+            "id": 129,
+            "sentence": 9,
+            "text": "Flüchtlingslager",
+            "word": 4
+        },
+        {
+            "charBegin": 918,
+            "charEnd": 922,
+            "id": 130,
+            "sentence": 9,
+            "text": "Nahr",
+            "word": 5
+        },
+        {
+            "charBegin": 923,
+            "charEnd": 925,
+            "id": 131,
+            "sentence": 9,
+            "text": "al",
+            "word": 6
+        },
+        {
+            "charBegin": 926,
+            "charEnd": 931,
+            "id": 132,
+            "sentence": 9,
+            "text": "Bared",
+            "word": 7
+        },
+        {
+            "charBegin": 932,
+            "charEnd": 937,
+            "id": 133,
+            "sentence": 9,
+            "text": "stand",
+            "word": 8
+        },
+        {
+            "charBegin": 938,
+            "charEnd": 942,
+            "id": 134,
+            "sentence": 9,
+            "text": "2007",
+            "word": 9
+        },
+        {
+            "charBegin": 943,
+            "charEnd": 945,
+            "id": 135,
+            "sentence": 9,
+            "text": "im",
+            "word": 10
+        },
+        {
+            "charBegin": 946,
+            "charEnd": 955,
+            "id": 136,
+            "sentence": 9,
+            "text": "Interesse",
+            "word": 11
+        },
+        {
+            "charBegin": 956,
+            "charEnd": 959,
+            "id": 137,
+            "sentence": 9,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 960,
+            "charEnd": 978,
+            "id": 138,
+            "sentence": 9,
+            "text": "Weltöffentlichkeit",
+            "word": 13
+        },
+        {
+            "charBegin": 978,
+            "charEnd": 979,
+            "id": 139,
+            "sentence": 9,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 980,
+            "charEnd": 983,
+            "id": 140,
+            "sentence": 9,
+            "text": "als",
+            "word": 15
+        },
+        {
+            "charBegin": 984,
+            "charEnd": 988,
+            "id": 141,
+            "sentence": 9,
+            "text": "eine",
+            "word": 16
+        },
+        {
+            "charBegin": 989,
+            "charEnd": 998,
+            "id": 142,
+            "sentence": 9,
+            "text": "al-Qauida",
+            "word": 17
+        },
+        {
+            "charBegin": 999,
+            "charEnd": 1011,
+            "id": 143,
+            "sentence": 9,
+            "text": "nahestehende",
+            "word": 18
+        },
+        {
+            "charBegin": 1012,
+            "charEnd": 1023,
+            "id": 144,
+            "sentence": 9,
+            "text": "Gruppierung",
+            "word": 19
+        },
+        {
+            "charBegin": 1024,
+            "charEnd": 1028,
+            "id": 145,
+            "sentence": 9,
+            "text": "sich",
+            "word": 20
+        },
+        {
+            "charBegin": 1029,
+            "charEnd": 1032,
+            "id": 146,
+            "sentence": 9,
+            "text": "mit",
+            "word": 21
+        },
+        {
+            "charBegin": 1033,
+            "charEnd": 1036,
+            "id": 147,
+            "sentence": 9,
+            "text": "der",
+            "word": 22
+        },
+        {
+            "charBegin": 1037,
+            "charEnd": 1050,
+            "id": 148,
+            "sentence": 9,
+            "text": "libanesischen",
+            "word": 23
+        },
+        {
+            "charBegin": 1051,
+            "charEnd": 1056,
+            "id": 149,
+            "sentence": 9,
+            "text": "Armee",
+            "word": 24
+        },
+        {
+            "charBegin": 1057,
+            "charEnd": 1062,
+            "id": 150,
+            "sentence": 9,
+            "text": "einen",
+            "word": 25
+        },
+        {
+            "charBegin": 1063,
+            "charEnd": 1075,
+            "id": 151,
+            "sentence": 9,
+            "text": "wochenlangen",
+            "word": 26
+        },
+        {
+            "charBegin": 1076,
+            "charEnd": 1090,
+            "id": 152,
+            "sentence": 9,
+            "text": "Schlagabtausch",
+            "word": 27
+        },
+        {
+            "charBegin": 1091,
+            "charEnd": 1099,
+            "id": 153,
+            "sentence": 9,
+            "text": "lieferte",
+            "word": 28
+        },
+        {
+            "charBegin": 1099,
+            "charEnd": 1100,
+            "id": 154,
+            "sentence": 9,
+            "text": ".",
+            "word": 29
+        }
+    ]
+}

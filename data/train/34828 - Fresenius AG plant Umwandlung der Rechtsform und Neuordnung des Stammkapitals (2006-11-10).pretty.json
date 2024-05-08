@@ -1,0 +1,1606 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 22,
+                        "charBegin": 148,
+                        "charEnd": 152,
+                        "end": 23
+                    },
+                    {
+                        "begin": 28,
+                        "charBegin": 193,
+                        "charEnd": 199,
+                        "end": 29
+                    }
+                ],
+                "text": "geht hervor",
+                "tokenIds": [
+                    22,
+                    28
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 22,
+                        "charBegin": 148,
+                        "charEnd": 245,
+                        "end": 37
+                    }
+                ],
+                "text": "geht aus einer Pressemitteilung des Konzerns hervor, die am 11. Oktober 2006 veröffentlicht wurde",
+                "tokenIds": [
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 141,
+                        "end": 20
+                    },
+                    {
+                        "begin": 21,
+                        "charBegin": 143,
+                        "charEnd": 147,
+                        "end": 22
+                    }
+                ],
+                "text": "Der Gesundheitskonzern Fresenius plant eine Umwandlung in die neue Rechtsform Societas Europaea (S.E.), eine Gesellschaft europäischen Rechts Dies",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    21
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 24,
+                        "charBegin": 157,
+                        "charEnd": 192,
+                        "end": 28
+                    }
+                ],
+                "text": "einer Pressemitteilung des Konzerns",
+                "tokenIds": [
+                    24,
+                    25,
+                    26,
+                    27
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "34828 - Fresenius AG plant Umwandlung der Rechtsform und Neuordnung des Stammkapitals (2006-11-10)",
+    "originalText": "Der Gesundheitskonzern Fresenius plant eine Umwandlung in die neue Rechtsform Societas Europaea (S.E.), eine Gesellschaft europäischen Rechts. Dies geht aus einer Pressemitteilung des Konzerns hervor, die am 11. Oktober 2006 veröffentlicht wurde.\n\nSie wird zeitgleich die Menge der ausgegebenen Aktien verdreifachen. Dies nennt man einen „Aktiensplit“. Die neue Bezeichnung wird bei Zustimmung des Aufsichtsrates Ende des Jahres „Fresenius S.E. (Societas Europaea)“ lauten. Diese Umbenennung wird in diesem Fall Mitte 2007 erfolgen. Damit umgeht die Konzernleitung eine Aufstockung des Aufsichtsrates aufgrund der Größe des Konzerns von bisher zwölf auf 20 Mitglieder. Gleichzeitig öffnet Fresenius die Türen für einen europäischen Aufsichtsrat, welcher nicht mehr nur auf Deutschland beschränkt ist. Der Konzernsitz und auch die bisherige Ausrichtung bleiben indessen unverändert.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 142,
+            "end": 21,
+            "id": 0,
+            "text": "Der Gesundheitskonzern Fresenius plant eine Umwandlung in die neue Rechtsform Societas Europaea (S.E.), eine Gesellschaft europäischen Rechts. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "Der",
+                "Gesundheitskonzern",
+                "Fresenius",
+                "plant",
+                "eine",
+                "Umwandlung",
+                "in",
+                "die",
+                "neue",
+                "Rechtsform",
+                "Societas",
+                "Europaea",
+                "(",
+                "S.E.",
+                ")",
+                ",",
+                "eine",
+                "Gesellschaft",
+                "europäischen",
+                "Rechts",
+                "."
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 143,
+            "charEnd": 246,
+            "end": 38,
+            "id": 1,
+            "text": "Dies geht aus einer Pressemitteilung des Konzerns hervor, die am 11. Oktober 2006 veröffentlicht wurde.",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37
+            ],
+            "tokens": [
+                "Dies",
+                "geht",
+                "aus",
+                "einer",
+                "Pressemitteilung",
+                "des",
+                "Konzerns",
+                "hervor",
+                ",",
+                "die",
+                "am",
+                "11.",
+                "Oktober",
+                "2006",
+                "veröffentlicht",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "begin": 38,
+            "charBegin": 248,
+            "charEnd": 316,
+            "end": 48,
+            "id": 2,
+            "text": "Sie wird zeitgleich die Menge der ausgegebenen Aktien verdreifachen. ",
+            "tokenIds": [
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "tokens": [
+                "Sie",
+                "wird",
+                "zeitgleich",
+                "die",
+                "Menge",
+                "der",
+                "ausgegebenen",
+                "Aktien",
+                "verdreifachen",
+                "."
+            ]
+        },
+        {
+            "begin": 48,
+            "charBegin": 317,
+            "charEnd": 352,
+            "end": 56,
+            "id": 3,
+            "text": "Dies nennt man einen „Aktiensplit“. ",
+            "tokenIds": [
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55
+            ],
+            "tokens": [
+                "Dies",
+                "nennt",
+                "man",
+                "einen",
+                "„",
+                "Aktiensplit",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 56,
+            "charBegin": 353,
+            "charEnd": 473,
+            "end": 77,
+            "id": 4,
+            "text": "Die neue Bezeichnung wird bei Zustimmung des Aufsichtsrates Ende des Jahres „Fresenius S.E. (Societas Europaea)“ lauten. ",
+            "tokenIds": [
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76
+            ],
+            "tokens": [
+                "Die",
+                "neue",
+                "Bezeichnung",
+                "wird",
+                "bei",
+                "Zustimmung",
+                "des",
+                "Aufsichtsrates",
+                "Ende",
+                "des",
+                "Jahres",
+                "„",
+                "Fresenius",
+                "S.E.",
+                "(",
+                "Societas",
+                "Europaea",
+                ")",
+                "“",
+                "lauten",
+                "."
+            ]
+        },
+        {
+            "begin": 77,
+            "charBegin": 474,
+            "charEnd": 532,
+            "end": 87,
+            "id": 5,
+            "text": "Diese Umbenennung wird in diesem Fall Mitte 2007 erfolgen. ",
+            "tokenIds": [
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+            ],
+            "tokens": [
+                "Diese",
+                "Umbenennung",
+                "wird",
+                "in",
+                "diesem",
+                "Fall",
+                "Mitte",
+                "2007",
+                "erfolgen",
+                "."
+            ]
+        },
+        {
+            "begin": 87,
+            "charBegin": 533,
+            "charEnd": 668,
+            "end": 107,
+            "id": 6,
+            "text": "Damit umgeht die Konzernleitung eine Aufstockung des Aufsichtsrates aufgrund der Größe des Konzerns von bisher zwölf auf 20 Mitglieder. ",
+            "tokenIds": [
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106
+            ],
+            "tokens": [
+                "Damit",
+                "umgeht",
+                "die",
+                "Konzernleitung",
+                "eine",
+                "Aufstockung",
+                "des",
+                "Aufsichtsrates",
+                "aufgrund",
+                "der",
+                "Größe",
+                "des",
+                "Konzerns",
+                "von",
+                "bisher",
+                "zwölf",
+                "auf",
+                "20",
+                "Mitglieder",
+                "."
+            ]
+        },
+        {
+            "begin": 107,
+            "charBegin": 669,
+            "charEnd": 800,
+            "end": 126,
+            "id": 7,
+            "text": "Gleichzeitig öffnet Fresenius die Türen für einen europäischen Aufsichtsrat, welcher nicht mehr nur auf Deutschland beschränkt ist. ",
+            "tokenIds": [
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125
+            ],
+            "tokens": [
+                "Gleichzeitig",
+                "öffnet",
+                "Fresenius",
+                "die",
+                "Türen",
+                "für",
+                "einen",
+                "europäischen",
+                "Aufsichtsrat",
+                ",",
+                "welcher",
+                "nicht",
+                "mehr",
+                "nur",
+                "auf",
+                "Deutschland",
+                "beschränkt",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "begin": 126,
+            "charBegin": 801,
+            "charEnd": 881,
+            "end": 137,
+            "id": 8,
+            "text": "Der Konzernsitz und auch die bisherige Ausrichtung bleiben indessen unverändert.",
+            "tokenIds": [
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136
+            ],
+            "tokens": [
+                "Der",
+                "Konzernsitz",
+                "und",
+                "auch",
+                "die",
+                "bisherige",
+                "Ausrichtung",
+                "bleiben",
+                "indessen",
+                "unverändert",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 22,
+            "id": 1,
+            "sentence": 1,
+            "text": "Gesundheitskonzern",
+            "word": 2
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 32,
+            "id": 2,
+            "sentence": 1,
+            "text": "Fresenius",
+            "word": 3
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 38,
+            "id": 3,
+            "sentence": 1,
+            "text": "plant",
+            "word": 4
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 43,
+            "id": 4,
+            "sentence": 1,
+            "text": "eine",
+            "word": 5
+        },
+        {
+            "charBegin": 44,
+            "charEnd": 54,
+            "id": 5,
+            "sentence": 1,
+            "text": "Umwandlung",
+            "word": 6
+        },
+        {
+            "charBegin": 55,
+            "charEnd": 57,
+            "id": 6,
+            "sentence": 1,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 61,
+            "id": 7,
+            "sentence": 1,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 62,
+            "charEnd": 66,
+            "id": 8,
+            "sentence": 1,
+            "text": "neue",
+            "word": 9
+        },
+        {
+            "charBegin": 67,
+            "charEnd": 77,
+            "id": 9,
+            "sentence": 1,
+            "text": "Rechtsform",
+            "word": 10
+        },
+        {
+            "charBegin": 78,
+            "charEnd": 86,
+            "id": 10,
+            "sentence": 1,
+            "text": "Societas",
+            "word": 11
+        },
+        {
+            "charBegin": 87,
+            "charEnd": 95,
+            "id": 11,
+            "sentence": 1,
+            "text": "Europaea",
+            "word": 12
+        },
+        {
+            "charBegin": 96,
+            "charEnd": 97,
+            "id": 12,
+            "sentence": 1,
+            "text": "(",
+            "word": 13
+        },
+        {
+            "charBegin": 97,
+            "charEnd": 101,
+            "id": 13,
+            "sentence": 1,
+            "text": "S.E.",
+            "word": 14
+        },
+        {
+            "charBegin": 101,
+            "charEnd": 102,
+            "id": 14,
+            "sentence": 1,
+            "text": ")",
+            "word": 15
+        },
+        {
+            "charBegin": 102,
+            "charEnd": 103,
+            "id": 15,
+            "sentence": 1,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 104,
+            "charEnd": 108,
+            "id": 16,
+            "sentence": 1,
+            "text": "eine",
+            "word": 17
+        },
+        {
+            "charBegin": 109,
+            "charEnd": 121,
+            "id": 17,
+            "sentence": 1,
+            "text": "Gesellschaft",
+            "word": 18
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 134,
+            "id": 18,
+            "sentence": 1,
+            "text": "europäischen",
+            "word": 19
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 141,
+            "id": 19,
+            "sentence": 1,
+            "text": "Rechts",
+            "word": 20
+        },
+        {
+            "charBegin": 141,
+            "charEnd": 142,
+            "id": 20,
+            "sentence": 1,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 143,
+            "charEnd": 147,
+            "id": 21,
+            "sentence": 2,
+            "text": "Dies",
+            "word": 1
+        },
+        {
+            "charBegin": 148,
+            "charEnd": 152,
+            "id": 22,
+            "sentence": 2,
+            "text": "geht",
+            "word": 2
+        },
+        {
+            "charBegin": 153,
+            "charEnd": 156,
+            "id": 23,
+            "sentence": 2,
+            "text": "aus",
+            "word": 3
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 162,
+            "id": 24,
+            "sentence": 2,
+            "text": "einer",
+            "word": 4
+        },
+        {
+            "charBegin": 163,
+            "charEnd": 179,
+            "id": 25,
+            "sentence": 2,
+            "text": "Pressemitteilung",
+            "word": 5
+        },
+        {
+            "charBegin": 180,
+            "charEnd": 183,
+            "id": 26,
+            "sentence": 2,
+            "text": "des",
+            "word": 6
+        },
+        {
+            "charBegin": 184,
+            "charEnd": 192,
+            "id": 27,
+            "sentence": 2,
+            "text": "Konzerns",
+            "word": 7
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 199,
+            "id": 28,
+            "sentence": 2,
+            "text": "hervor",
+            "word": 8
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 200,
+            "id": 29,
+            "sentence": 2,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 204,
+            "id": 30,
+            "sentence": 2,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 205,
+            "charEnd": 207,
+            "id": 31,
+            "sentence": 2,
+            "text": "am",
+            "word": 11
+        },
+        {
+            "charBegin": 208,
+            "charEnd": 211,
+            "id": 32,
+            "sentence": 2,
+            "text": "11.",
+            "word": 12
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 219,
+            "id": 33,
+            "sentence": 2,
+            "text": "Oktober",
+            "word": 13
+        },
+        {
+            "charBegin": 220,
+            "charEnd": 224,
+            "id": 34,
+            "sentence": 2,
+            "text": "2006",
+            "word": 14
+        },
+        {
+            "charBegin": 225,
+            "charEnd": 239,
+            "id": 35,
+            "sentence": 2,
+            "text": "veröffentlicht",
+            "word": 15
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 245,
+            "id": 36,
+            "sentence": 2,
+            "text": "wurde",
+            "word": 16
+        },
+        {
+            "charBegin": 245,
+            "charEnd": 246,
+            "id": 37,
+            "sentence": 2,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 248,
+            "charEnd": 251,
+            "id": 38,
+            "sentence": 3,
+            "text": "Sie",
+            "word": 1
+        },
+        {
+            "charBegin": 252,
+            "charEnd": 256,
+            "id": 39,
+            "sentence": 3,
+            "text": "wird",
+            "word": 2
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 267,
+            "id": 40,
+            "sentence": 3,
+            "text": "zeitgleich",
+            "word": 3
+        },
+        {
+            "charBegin": 268,
+            "charEnd": 271,
+            "id": 41,
+            "sentence": 3,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 272,
+            "charEnd": 277,
+            "id": 42,
+            "sentence": 3,
+            "text": "Menge",
+            "word": 5
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 281,
+            "id": 43,
+            "sentence": 3,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 294,
+            "id": 44,
+            "sentence": 3,
+            "text": "ausgegebenen",
+            "word": 7
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 301,
+            "id": 45,
+            "sentence": 3,
+            "text": "Aktien",
+            "word": 8
+        },
+        {
+            "charBegin": 302,
+            "charEnd": 315,
+            "id": 46,
+            "sentence": 3,
+            "text": "verdreifachen",
+            "word": 9
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 316,
+            "id": 47,
+            "sentence": 3,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 317,
+            "charEnd": 321,
+            "id": 48,
+            "sentence": 4,
+            "text": "Dies",
+            "word": 1
+        },
+        {
+            "charBegin": 322,
+            "charEnd": 327,
+            "id": 49,
+            "sentence": 4,
+            "text": "nennt",
+            "word": 2
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 331,
+            "id": 50,
+            "sentence": 4,
+            "text": "man",
+            "word": 3
+        },
+        {
+            "charBegin": 332,
+            "charEnd": 337,
+            "id": 51,
+            "sentence": 4,
+            "text": "einen",
+            "word": 4
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 339,
+            "id": 52,
+            "sentence": 4,
+            "text": "„",
+            "word": 5
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 350,
+            "id": 53,
+            "sentence": 4,
+            "text": "Aktiensplit",
+            "word": 6
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 351,
+            "id": 54,
+            "sentence": 4,
+            "text": "“",
+            "word": 7
+        },
+        {
+            "charBegin": 351,
+            "charEnd": 352,
+            "id": 55,
+            "sentence": 4,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 353,
+            "charEnd": 356,
+            "id": 56,
+            "sentence": 5,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 361,
+            "id": 57,
+            "sentence": 5,
+            "text": "neue",
+            "word": 2
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 373,
+            "id": 58,
+            "sentence": 5,
+            "text": "Bezeichnung",
+            "word": 3
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 378,
+            "id": 59,
+            "sentence": 5,
+            "text": "wird",
+            "word": 4
+        },
+        {
+            "charBegin": 379,
+            "charEnd": 382,
+            "id": 60,
+            "sentence": 5,
+            "text": "bei",
+            "word": 5
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 393,
+            "id": 61,
+            "sentence": 5,
+            "text": "Zustimmung",
+            "word": 6
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 397,
+            "id": 62,
+            "sentence": 5,
+            "text": "des",
+            "word": 7
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 412,
+            "id": 63,
+            "sentence": 5,
+            "text": "Aufsichtsrates",
+            "word": 8
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 417,
+            "id": 64,
+            "sentence": 5,
+            "text": "Ende",
+            "word": 9
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 421,
+            "id": 65,
+            "sentence": 5,
+            "text": "des",
+            "word": 10
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 428,
+            "id": 66,
+            "sentence": 5,
+            "text": "Jahres",
+            "word": 11
+        },
+        {
+            "charBegin": 429,
+            "charEnd": 430,
+            "id": 67,
+            "sentence": 5,
+            "text": "„",
+            "word": 12
+        },
+        {
+            "charBegin": 430,
+            "charEnd": 439,
+            "id": 68,
+            "sentence": 5,
+            "text": "Fresenius",
+            "word": 13
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 444,
+            "id": 69,
+            "sentence": 5,
+            "text": "S.E.",
+            "word": 14
+        },
+        {
+            "charBegin": 445,
+            "charEnd": 446,
+            "id": 70,
+            "sentence": 5,
+            "text": "(",
+            "word": 15
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 454,
+            "id": 71,
+            "sentence": 5,
+            "text": "Societas",
+            "word": 16
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 463,
+            "id": 72,
+            "sentence": 5,
+            "text": "Europaea",
+            "word": 17
+        },
+        {
+            "charBegin": 463,
+            "charEnd": 464,
+            "id": 73,
+            "sentence": 5,
+            "text": ")",
+            "word": 18
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 465,
+            "id": 74,
+            "sentence": 5,
+            "text": "“",
+            "word": 19
+        },
+        {
+            "charBegin": 466,
+            "charEnd": 472,
+            "id": 75,
+            "sentence": 5,
+            "text": "lauten",
+            "word": 20
+        },
+        {
+            "charBegin": 472,
+            "charEnd": 473,
+            "id": 76,
+            "sentence": 5,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 474,
+            "charEnd": 479,
+            "id": 77,
+            "sentence": 6,
+            "text": "Diese",
+            "word": 1
+        },
+        {
+            "charBegin": 480,
+            "charEnd": 491,
+            "id": 78,
+            "sentence": 6,
+            "text": "Umbenennung",
+            "word": 2
+        },
+        {
+            "charBegin": 492,
+            "charEnd": 496,
+            "id": 79,
+            "sentence": 6,
+            "text": "wird",
+            "word": 3
+        },
+        {
+            "charBegin": 497,
+            "charEnd": 499,
+            "id": 80,
+            "sentence": 6,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 506,
+            "id": 81,
+            "sentence": 6,
+            "text": "diesem",
+            "word": 5
+        },
+        {
+            "charBegin": 507,
+            "charEnd": 511,
+            "id": 82,
+            "sentence": 6,
+            "text": "Fall",
+            "word": 6
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 517,
+            "id": 83,
+            "sentence": 6,
+            "text": "Mitte",
+            "word": 7
+        },
+        {
+            "charBegin": 518,
+            "charEnd": 522,
+            "id": 84,
+            "sentence": 6,
+            "text": "2007",
+            "word": 8
+        },
+        {
+            "charBegin": 523,
+            "charEnd": 531,
+            "id": 85,
+            "sentence": 6,
+            "text": "erfolgen",
+            "word": 9
+        },
+        {
+            "charBegin": 531,
+            "charEnd": 532,
+            "id": 86,
+            "sentence": 6,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 538,
+            "id": 87,
+            "sentence": 7,
+            "text": "Damit",
+            "word": 1
+        },
+        {
+            "charBegin": 539,
+            "charEnd": 545,
+            "id": 88,
+            "sentence": 7,
+            "text": "umgeht",
+            "word": 2
+        },
+        {
+            "charBegin": 546,
+            "charEnd": 549,
+            "id": 89,
+            "sentence": 7,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 550,
+            "charEnd": 564,
+            "id": 90,
+            "sentence": 7,
+            "text": "Konzernleitung",
+            "word": 4
+        },
+        {
+            "charBegin": 565,
+            "charEnd": 569,
+            "id": 91,
+            "sentence": 7,
+            "text": "eine",
+            "word": 5
+        },
+        {
+            "charBegin": 570,
+            "charEnd": 581,
+            "id": 92,
+            "sentence": 7,
+            "text": "Aufstockung",
+            "word": 6
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 585,
+            "id": 93,
+            "sentence": 7,
+            "text": "des",
+            "word": 7
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 600,
+            "id": 94,
+            "sentence": 7,
+            "text": "Aufsichtsrates",
+            "word": 8
+        },
+        {
+            "charBegin": 601,
+            "charEnd": 609,
+            "id": 95,
+            "sentence": 7,
+            "text": "aufgrund",
+            "word": 9
+        },
+        {
+            "charBegin": 610,
+            "charEnd": 613,
+            "id": 96,
+            "sentence": 7,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 614,
+            "charEnd": 619,
+            "id": 97,
+            "sentence": 7,
+            "text": "Größe",
+            "word": 11
+        },
+        {
+            "charBegin": 620,
+            "charEnd": 623,
+            "id": 98,
+            "sentence": 7,
+            "text": "des",
+            "word": 12
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 632,
+            "id": 99,
+            "sentence": 7,
+            "text": "Konzerns",
+            "word": 13
+        },
+        {
+            "charBegin": 633,
+            "charEnd": 636,
+            "id": 100,
+            "sentence": 7,
+            "text": "von",
+            "word": 14
+        },
+        {
+            "charBegin": 637,
+            "charEnd": 643,
+            "id": 101,
+            "sentence": 7,
+            "text": "bisher",
+            "word": 15
+        },
+        {
+            "charBegin": 644,
+            "charEnd": 649,
+            "id": 102,
+            "sentence": 7,
+            "text": "zwölf",
+            "word": 16
+        },
+        {
+            "charBegin": 650,
+            "charEnd": 653,
+            "id": 103,
+            "sentence": 7,
+            "text": "auf",
+            "word": 17
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 656,
+            "id": 104,
+            "sentence": 7,
+            "text": "20",
+            "word": 18
+        },
+        {
+            "charBegin": 657,
+            "charEnd": 667,
+            "id": 105,
+            "sentence": 7,
+            "text": "Mitglieder",
+            "word": 19
+        },
+        {
+            "charBegin": 667,
+            "charEnd": 668,
+            "id": 106,
+            "sentence": 7,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 669,
+            "charEnd": 681,
+            "id": 107,
+            "sentence": 8,
+            "text": "Gleichzeitig",
+            "word": 1
+        },
+        {
+            "charBegin": 682,
+            "charEnd": 688,
+            "id": 108,
+            "sentence": 8,
+            "text": "öffnet",
+            "word": 2
+        },
+        {
+            "charBegin": 689,
+            "charEnd": 698,
+            "id": 109,
+            "sentence": 8,
+            "text": "Fresenius",
+            "word": 3
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 702,
+            "id": 110,
+            "sentence": 8,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 708,
+            "id": 111,
+            "sentence": 8,
+            "text": "Türen",
+            "word": 5
+        },
+        {
+            "charBegin": 709,
+            "charEnd": 712,
+            "id": 112,
+            "sentence": 8,
+            "text": "für",
+            "word": 6
+        },
+        {
+            "charBegin": 713,
+            "charEnd": 718,
+            "id": 113,
+            "sentence": 8,
+            "text": "einen",
+            "word": 7
+        },
+        {
+            "charBegin": 719,
+            "charEnd": 731,
+            "id": 114,
+            "sentence": 8,
+            "text": "europäischen",
+            "word": 8
+        },
+        {
+            "charBegin": 732,
+            "charEnd": 744,
+            "id": 115,
+            "sentence": 8,
+            "text": "Aufsichtsrat",
+            "word": 9
+        },
+        {
+            "charBegin": 744,
+            "charEnd": 745,
+            "id": 116,
+            "sentence": 8,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 753,
+            "id": 117,
+            "sentence": 8,
+            "text": "welcher",
+            "word": 11
+        },
+        {
+            "charBegin": 754,
+            "charEnd": 759,
+            "id": 118,
+            "sentence": 8,
+            "text": "nicht",
+            "word": 12
+        },
+        {
+            "charBegin": 760,
+            "charEnd": 764,
+            "id": 119,
+            "sentence": 8,
+            "text": "mehr",
+            "word": 13
+        },
+        {
+            "charBegin": 765,
+            "charEnd": 768,
+            "id": 120,
+            "sentence": 8,
+            "text": "nur",
+            "word": 14
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 772,
+            "id": 121,
+            "sentence": 8,
+            "text": "auf",
+            "word": 15
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 784,
+            "id": 122,
+            "sentence": 8,
+            "text": "Deutschland",
+            "word": 16
+        },
+        {
+            "charBegin": 785,
+            "charEnd": 795,
+            "id": 123,
+            "sentence": 8,
+            "text": "beschränkt",
+            "word": 17
+        },
+        {
+            "charBegin": 796,
+            "charEnd": 799,
+            "id": 124,
+            "sentence": 8,
+            "text": "ist",
+            "word": 18
+        },
+        {
+            "charBegin": 799,
+            "charEnd": 800,
+            "id": 125,
+            "sentence": 8,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 801,
+            "charEnd": 804,
+            "id": 126,
+            "sentence": 9,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 805,
+            "charEnd": 816,
+            "id": 127,
+            "sentence": 9,
+            "text": "Konzernsitz",
+            "word": 2
+        },
+        {
+            "charBegin": 817,
+            "charEnd": 820,
+            "id": 128,
+            "sentence": 9,
+            "text": "und",
+            "word": 3
+        },
+        {
+            "charBegin": 821,
+            "charEnd": 825,
+            "id": 129,
+            "sentence": 9,
+            "text": "auch",
+            "word": 4
+        },
+        {
+            "charBegin": 826,
+            "charEnd": 829,
+            "id": 130,
+            "sentence": 9,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 830,
+            "charEnd": 839,
+            "id": 131,
+            "sentence": 9,
+            "text": "bisherige",
+            "word": 6
+        },
+        {
+            "charBegin": 840,
+            "charEnd": 851,
+            "id": 132,
+            "sentence": 9,
+            "text": "Ausrichtung",
+            "word": 7
+        },
+        {
+            "charBegin": 852,
+            "charEnd": 859,
+            "id": 133,
+            "sentence": 9,
+            "text": "bleiben",
+            "word": 8
+        },
+        {
+            "charBegin": 860,
+            "charEnd": 868,
+            "id": 134,
+            "sentence": 9,
+            "text": "indessen",
+            "word": 9
+        },
+        {
+            "charBegin": 869,
+            "charEnd": 880,
+            "id": 135,
+            "sentence": 9,
+            "text": "unverändert",
+            "word": 10
+        },
+        {
+            "charBegin": 880,
+            "charEnd": 881,
+            "id": 136,
+            "sentence": 9,
+            "text": ".",
+            "word": 11
+        }
+    ]
+}

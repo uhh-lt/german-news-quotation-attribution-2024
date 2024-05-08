@@ -1,0 +1,2237 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 110,
+                        "charBegin": 732,
+                        "charEnd": 740,
+                        "end": 111
+                    },
+                    {
+                        "begin": 115,
+                        "charBegin": 761,
+                        "charEnd": 776,
+                        "end": 118
+                    }
+                ],
+                "text": "stellten die Theorie auf",
+                "tokenIds": [
+                    110,
+                    115,
+                    116,
+                    117
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 109,
+                        "charBegin": 716,
+                        "charEnd": 777,
+                        "end": 119
+                    }
+                ],
+                "text": "Wissenschaftler stellten schon vor 20 Jahren die Theorie auf,",
+                "tokenIds": [
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 119,
+                        "charBegin": 778,
+                        "charEnd": 844,
+                        "end": 129
+                    }
+                ],
+                "text": "dass der Handel mit Sperma bei Zwittern auf Gegenseitigkeit beruht",
+                "tokenIds": [
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 109,
+                        "charBegin": 716,
+                        "charEnd": 731,
+                        "end": 110
+                    }
+                ],
+                "text": "Wissenschaftler",
+                "tokenIds": [
+                    109
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "13726 - Seeschnecken: Sex ist eine Kostenfrage (2005-10-11)",
+    "originalText": "Ein Forscherteam der Universität Tübingen hat herausgefunden, dass bei der Meeresschnecke „Chelidonura hirundinina“ der Kampf der Geschlechter herrscht.\n\nDer männliche Part beim Sex ist anstrengender, da ein großer Energieaufwand bei der Produktion von Sperma entsteht und dieses sehr wertvoll ist. Um sich vor dem Geschlechtsverkehr den Streit, wer welche Partnerrolle übernehmen darf, zu sparen, haben die Zwitterwesen eine strategische Lösung gefunden: Der Sex funktioniert nur mit gleichwertigem Aufwand.\n\nBeide Schnecken müssen dieselbe Menge Sperma produzieren und an ihren Geschlechtspartner abgeben. Wird eine Schnecke beim Schummeln erwischt, wird sie von dem Partner durch sofortigen Sexabbruch bestraft.\n\nWissenschaftler stellten schon vor 20 Jahren die Theorie auf, dass der Handel mit Sperma bei Zwittern auf Gegenseitigkeit beruht. Nun ist es Nils Anthes und seinen Kollegen erstmals gelungen, diese These zu belegen. Sie beobachteten 200 Meeresschnecken und ihr Paarungsverhalten. Bei 50 Schnecken haben sie die Spermaproduktion allerdings unterbunden, so dass die Tiere zwar zu einer Erektion, aber nicht zur Abgabe der Fruchtbarkeitsflüssigkeit in der Lage waren. Diese „beeinträchtigten“ Schnecken wurden dann sogleich von ihrem Partner mit dem Sexstopp bestraft.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 152,
+            "end": 22,
+            "id": 0,
+            "text": "Ein Forscherteam der Universität Tübingen hat herausgefunden, dass bei der Meeresschnecke „Chelidonura hirundinina“ der Kampf der Geschlechter herrscht.",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Ein",
+                "Forscherteam",
+                "der",
+                "Universität",
+                "Tübingen",
+                "hat",
+                "herausgefunden",
+                ",",
+                "dass",
+                "bei",
+                "der",
+                "Meeresschnecke",
+                "„",
+                "Chelidonura",
+                "hirundinina",
+                "“",
+                "der",
+                "Kampf",
+                "der",
+                "Geschlechter",
+                "herrscht",
+                "."
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 154,
+            "charEnd": 298,
+            "end": 46,
+            "id": 1,
+            "text": "Der männliche Part beim Sex ist anstrengender, da ein großer Energieaufwand bei der Produktion von Sperma entsteht und dieses sehr wertvoll ist. ",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45
+            ],
+            "tokens": [
+                "Der",
+                "männliche",
+                "Part",
+                "beim",
+                "Sex",
+                "ist",
+                "anstrengender",
+                ",",
+                "da",
+                "ein",
+                "großer",
+                "Energieaufwand",
+                "bei",
+                "der",
+                "Produktion",
+                "von",
+                "Sperma",
+                "entsteht",
+                "und",
+                "dieses",
+                "sehr",
+                "wertvoll",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "begin": 46,
+            "charBegin": 299,
+            "charEnd": 455,
+            "end": 71,
+            "id": 2,
+            "text": "Um sich vor dem Geschlechtsverkehr den Streit, wer welche Partnerrolle übernehmen darf, zu sparen, haben die Zwitterwesen eine strategische Lösung gefunden: ",
+            "tokenIds": [
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70
+            ],
+            "tokens": [
+                "Um",
+                "sich",
+                "vor",
+                "dem",
+                "Geschlechtsverkehr",
+                "den",
+                "Streit",
+                ",",
+                "wer",
+                "welche",
+                "Partnerrolle",
+                "übernehmen",
+                "darf",
+                ",",
+                "zu",
+                "sparen",
+                ",",
+                "haben",
+                "die",
+                "Zwitterwesen",
+                "eine",
+                "strategische",
+                "Lösung",
+                "gefunden",
+                ":"
+            ]
+        },
+        {
+            "begin": 71,
+            "charBegin": 456,
+            "charEnd": 508,
+            "end": 79,
+            "id": 3,
+            "text": "Der Sex funktioniert nur mit gleichwertigem Aufwand.",
+            "tokenIds": [
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78
+            ],
+            "tokens": [
+                "Der",
+                "Sex",
+                "funktioniert",
+                "nur",
+                "mit",
+                "gleichwertigem",
+                "Aufwand",
+                "."
+            ]
+        },
+        {
+            "begin": 79,
+            "charBegin": 510,
+            "charEnd": 607,
+            "end": 92,
+            "id": 4,
+            "text": "Beide Schnecken müssen dieselbe Menge Sperma produzieren und an ihren Geschlechtspartner abgeben. ",
+            "tokenIds": [
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91
+            ],
+            "tokens": [
+                "Beide",
+                "Schnecken",
+                "müssen",
+                "dieselbe",
+                "Menge",
+                "Sperma",
+                "produzieren",
+                "und",
+                "an",
+                "ihren",
+                "Geschlechtspartner",
+                "abgeben",
+                "."
+            ]
+        },
+        {
+            "begin": 92,
+            "charBegin": 608,
+            "charEnd": 714,
+            "end": 109,
+            "id": 5,
+            "text": "Wird eine Schnecke beim Schummeln erwischt, wird sie von dem Partner durch sofortigen Sexabbruch bestraft.",
+            "tokenIds": [
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108
+            ],
+            "tokens": [
+                "Wird",
+                "eine",
+                "Schnecke",
+                "beim",
+                "Schummeln",
+                "erwischt",
+                ",",
+                "wird",
+                "sie",
+                "von",
+                "dem",
+                "Partner",
+                "durch",
+                "sofortigen",
+                "Sexabbruch",
+                "bestraft",
+                "."
+            ]
+        },
+        {
+            "begin": 109,
+            "charBegin": 716,
+            "charEnd": 845,
+            "end": 130,
+            "id": 6,
+            "text": "Wissenschaftler stellten schon vor 20 Jahren die Theorie auf, dass der Handel mit Sperma bei Zwittern auf Gegenseitigkeit beruht. ",
+            "tokenIds": [
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129
+            ],
+            "tokens": [
+                "Wissenschaftler",
+                "stellten",
+                "schon",
+                "vor",
+                "20",
+                "Jahren",
+                "die",
+                "Theorie",
+                "auf",
+                ",",
+                "dass",
+                "der",
+                "Handel",
+                "mit",
+                "Sperma",
+                "bei",
+                "Zwittern",
+                "auf",
+                "Gegenseitigkeit",
+                "beruht",
+                "."
+            ]
+        },
+        {
+            "begin": 130,
+            "charBegin": 846,
+            "charEnd": 931,
+            "end": 146,
+            "id": 7,
+            "text": "Nun ist es Nils Anthes und seinen Kollegen erstmals gelungen, diese These zu belegen. ",
+            "tokenIds": [
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145
+            ],
+            "tokens": [
+                "Nun",
+                "ist",
+                "es",
+                "Nils",
+                "Anthes",
+                "und",
+                "seinen",
+                "Kollegen",
+                "erstmals",
+                "gelungen",
+                ",",
+                "diese",
+                "These",
+                "zu",
+                "belegen",
+                "."
+            ]
+        },
+        {
+            "begin": 146,
+            "charBegin": 932,
+            "charEnd": 995,
+            "end": 154,
+            "id": 8,
+            "text": "Sie beobachteten 200 Meeresschnecken und ihr Paarungsverhalten. ",
+            "tokenIds": [
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153
+            ],
+            "tokens": [
+                "Sie",
+                "beobachteten",
+                "200",
+                "Meeresschnecken",
+                "und",
+                "ihr",
+                "Paarungsverhalten",
+                "."
+            ]
+        },
+        {
+            "begin": 154,
+            "charBegin": 996,
+            "charEnd": 1180,
+            "end": 184,
+            "id": 9,
+            "text": "Bei 50 Schnecken haben sie die Spermaproduktion allerdings unterbunden, so dass die Tiere zwar zu einer Erektion, aber nicht zur Abgabe der Fruchtbarkeitsflüssigkeit in der Lage waren. ",
+            "tokenIds": [
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183
+            ],
+            "tokens": [
+                "Bei",
+                "50",
+                "Schnecken",
+                "haben",
+                "sie",
+                "die",
+                "Spermaproduktion",
+                "allerdings",
+                "unterbunden",
+                ",",
+                "so",
+                "dass",
+                "die",
+                "Tiere",
+                "zwar",
+                "zu",
+                "einer",
+                "Erektion",
+                ",",
+                "aber",
+                "nicht",
+                "zur",
+                "Abgabe",
+                "der",
+                "Fruchtbarkeitsflüssigkeit",
+                "in",
+                "der",
+                "Lage",
+                "waren",
+                "."
+            ]
+        },
+        {
+            "begin": 184,
+            "charBegin": 1181,
+            "charEnd": 1281,
+            "end": 200,
+            "id": 10,
+            "text": "Diese „beeinträchtigten“ Schnecken wurden dann sogleich von ihrem Partner mit dem Sexstopp bestraft.",
+            "tokenIds": [
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199
+            ],
+            "tokens": [
+                "Diese",
+                "„",
+                "beeinträchtigten",
+                "“",
+                "Schnecken",
+                "wurden",
+                "dann",
+                "sogleich",
+                "von",
+                "ihrem",
+                "Partner",
+                "mit",
+                "dem",
+                "Sexstopp",
+                "bestraft",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 16,
+            "id": 1,
+            "sentence": 1,
+            "text": "Forscherteam",
+            "word": 2
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 20,
+            "id": 2,
+            "sentence": 1,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 32,
+            "id": 3,
+            "sentence": 1,
+            "text": "Universität",
+            "word": 4
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 41,
+            "id": 4,
+            "sentence": 1,
+            "text": "Tübingen",
+            "word": 5
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 45,
+            "id": 5,
+            "sentence": 1,
+            "text": "hat",
+            "word": 6
+        },
+        {
+            "charBegin": 46,
+            "charEnd": 60,
+            "id": 6,
+            "sentence": 1,
+            "text": "herausgefunden",
+            "word": 7
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 61,
+            "id": 7,
+            "sentence": 1,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 62,
+            "charEnd": 66,
+            "id": 8,
+            "sentence": 1,
+            "text": "dass",
+            "word": 9
+        },
+        {
+            "charBegin": 67,
+            "charEnd": 70,
+            "id": 9,
+            "sentence": 1,
+            "text": "bei",
+            "word": 10
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 74,
+            "id": 10,
+            "sentence": 1,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 75,
+            "charEnd": 89,
+            "id": 11,
+            "sentence": 1,
+            "text": "Meeresschnecke",
+            "word": 12
+        },
+        {
+            "charBegin": 90,
+            "charEnd": 91,
+            "id": 12,
+            "sentence": 1,
+            "text": "„",
+            "word": 13
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 102,
+            "id": 13,
+            "sentence": 1,
+            "text": "Chelidonura",
+            "word": 14
+        },
+        {
+            "charBegin": 103,
+            "charEnd": 114,
+            "id": 14,
+            "sentence": 1,
+            "text": "hirundinina",
+            "word": 15
+        },
+        {
+            "charBegin": 114,
+            "charEnd": 115,
+            "id": 15,
+            "sentence": 1,
+            "text": "“",
+            "word": 16
+        },
+        {
+            "charBegin": 116,
+            "charEnd": 119,
+            "id": 16,
+            "sentence": 1,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 125,
+            "id": 17,
+            "sentence": 1,
+            "text": "Kampf",
+            "word": 18
+        },
+        {
+            "charBegin": 126,
+            "charEnd": 129,
+            "id": 18,
+            "sentence": 1,
+            "text": "der",
+            "word": 19
+        },
+        {
+            "charBegin": 130,
+            "charEnd": 142,
+            "id": 19,
+            "sentence": 1,
+            "text": "Geschlechter",
+            "word": 20
+        },
+        {
+            "charBegin": 143,
+            "charEnd": 151,
+            "id": 20,
+            "sentence": 1,
+            "text": "herrscht",
+            "word": 21
+        },
+        {
+            "charBegin": 151,
+            "charEnd": 152,
+            "id": 21,
+            "sentence": 1,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 157,
+            "id": 22,
+            "sentence": 2,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 167,
+            "id": 23,
+            "sentence": 2,
+            "text": "männliche",
+            "word": 2
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 172,
+            "id": 24,
+            "sentence": 2,
+            "text": "Part",
+            "word": 3
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 177,
+            "id": 25,
+            "sentence": 2,
+            "text": "beim",
+            "word": 4
+        },
+        {
+            "charBegin": 178,
+            "charEnd": 181,
+            "id": 26,
+            "sentence": 2,
+            "text": "Sex",
+            "word": 5
+        },
+        {
+            "charBegin": 182,
+            "charEnd": 185,
+            "id": 27,
+            "sentence": 2,
+            "text": "ist",
+            "word": 6
+        },
+        {
+            "charBegin": 186,
+            "charEnd": 199,
+            "id": 28,
+            "sentence": 2,
+            "text": "anstrengender",
+            "word": 7
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 200,
+            "id": 29,
+            "sentence": 2,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 203,
+            "id": 30,
+            "sentence": 2,
+            "text": "da",
+            "word": 9
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 207,
+            "id": 31,
+            "sentence": 2,
+            "text": "ein",
+            "word": 10
+        },
+        {
+            "charBegin": 208,
+            "charEnd": 214,
+            "id": 32,
+            "sentence": 2,
+            "text": "großer",
+            "word": 11
+        },
+        {
+            "charBegin": 215,
+            "charEnd": 229,
+            "id": 33,
+            "sentence": 2,
+            "text": "Energieaufwand",
+            "word": 12
+        },
+        {
+            "charBegin": 230,
+            "charEnd": 233,
+            "id": 34,
+            "sentence": 2,
+            "text": "bei",
+            "word": 13
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 237,
+            "id": 35,
+            "sentence": 2,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 238,
+            "charEnd": 248,
+            "id": 36,
+            "sentence": 2,
+            "text": "Produktion",
+            "word": 15
+        },
+        {
+            "charBegin": 249,
+            "charEnd": 252,
+            "id": 37,
+            "sentence": 2,
+            "text": "von",
+            "word": 16
+        },
+        {
+            "charBegin": 253,
+            "charEnd": 259,
+            "id": 38,
+            "sentence": 2,
+            "text": "Sperma",
+            "word": 17
+        },
+        {
+            "charBegin": 260,
+            "charEnd": 268,
+            "id": 39,
+            "sentence": 2,
+            "text": "entsteht",
+            "word": 18
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 272,
+            "id": 40,
+            "sentence": 2,
+            "text": "und",
+            "word": 19
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 279,
+            "id": 41,
+            "sentence": 2,
+            "text": "dieses",
+            "word": 20
+        },
+        {
+            "charBegin": 280,
+            "charEnd": 284,
+            "id": 42,
+            "sentence": 2,
+            "text": "sehr",
+            "word": 21
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 293,
+            "id": 43,
+            "sentence": 2,
+            "text": "wertvoll",
+            "word": 22
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 297,
+            "id": 44,
+            "sentence": 2,
+            "text": "ist",
+            "word": 23
+        },
+        {
+            "charBegin": 297,
+            "charEnd": 298,
+            "id": 45,
+            "sentence": 2,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 299,
+            "charEnd": 301,
+            "id": 46,
+            "sentence": 3,
+            "text": "Um",
+            "word": 1
+        },
+        {
+            "charBegin": 302,
+            "charEnd": 306,
+            "id": 47,
+            "sentence": 3,
+            "text": "sich",
+            "word": 2
+        },
+        {
+            "charBegin": 307,
+            "charEnd": 310,
+            "id": 48,
+            "sentence": 3,
+            "text": "vor",
+            "word": 3
+        },
+        {
+            "charBegin": 311,
+            "charEnd": 314,
+            "id": 49,
+            "sentence": 3,
+            "text": "dem",
+            "word": 4
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 333,
+            "id": 50,
+            "sentence": 3,
+            "text": "Geschlechtsverkehr",
+            "word": 5
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 337,
+            "id": 51,
+            "sentence": 3,
+            "text": "den",
+            "word": 6
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 344,
+            "id": 52,
+            "sentence": 3,
+            "text": "Streit",
+            "word": 7
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 345,
+            "id": 53,
+            "sentence": 3,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 349,
+            "id": 54,
+            "sentence": 3,
+            "text": "wer",
+            "word": 9
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 356,
+            "id": 55,
+            "sentence": 3,
+            "text": "welche",
+            "word": 10
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 369,
+            "id": 56,
+            "sentence": 3,
+            "text": "Partnerrolle",
+            "word": 11
+        },
+        {
+            "charBegin": 370,
+            "charEnd": 380,
+            "id": 57,
+            "sentence": 3,
+            "text": "übernehmen",
+            "word": 12
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 385,
+            "id": 58,
+            "sentence": 3,
+            "text": "darf",
+            "word": 13
+        },
+        {
+            "charBegin": 385,
+            "charEnd": 386,
+            "id": 59,
+            "sentence": 3,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 387,
+            "charEnd": 389,
+            "id": 60,
+            "sentence": 3,
+            "text": "zu",
+            "word": 15
+        },
+        {
+            "charBegin": 390,
+            "charEnd": 396,
+            "id": 61,
+            "sentence": 3,
+            "text": "sparen",
+            "word": 16
+        },
+        {
+            "charBegin": 396,
+            "charEnd": 397,
+            "id": 62,
+            "sentence": 3,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 403,
+            "id": 63,
+            "sentence": 3,
+            "text": "haben",
+            "word": 18
+        },
+        {
+            "charBegin": 404,
+            "charEnd": 407,
+            "id": 64,
+            "sentence": 3,
+            "text": "die",
+            "word": 19
+        },
+        {
+            "charBegin": 408,
+            "charEnd": 420,
+            "id": 65,
+            "sentence": 3,
+            "text": "Zwitterwesen",
+            "word": 20
+        },
+        {
+            "charBegin": 421,
+            "charEnd": 425,
+            "id": 66,
+            "sentence": 3,
+            "text": "eine",
+            "word": 21
+        },
+        {
+            "charBegin": 426,
+            "charEnd": 438,
+            "id": 67,
+            "sentence": 3,
+            "text": "strategische",
+            "word": 22
+        },
+        {
+            "charBegin": 439,
+            "charEnd": 445,
+            "id": 68,
+            "sentence": 3,
+            "text": "Lösung",
+            "word": 23
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 454,
+            "id": 69,
+            "sentence": 3,
+            "text": "gefunden",
+            "word": 24
+        },
+        {
+            "charBegin": 454,
+            "charEnd": 455,
+            "id": 70,
+            "sentence": 3,
+            "text": ":",
+            "word": 25
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 459,
+            "id": 71,
+            "sentence": 4,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 460,
+            "charEnd": 463,
+            "id": 72,
+            "sentence": 4,
+            "text": "Sex",
+            "word": 2
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 476,
+            "id": 73,
+            "sentence": 4,
+            "text": "funktioniert",
+            "word": 3
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 480,
+            "id": 74,
+            "sentence": 4,
+            "text": "nur",
+            "word": 4
+        },
+        {
+            "charBegin": 481,
+            "charEnd": 484,
+            "id": 75,
+            "sentence": 4,
+            "text": "mit",
+            "word": 5
+        },
+        {
+            "charBegin": 485,
+            "charEnd": 499,
+            "id": 76,
+            "sentence": 4,
+            "text": "gleichwertigem",
+            "word": 6
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 507,
+            "id": 77,
+            "sentence": 4,
+            "text": "Aufwand",
+            "word": 7
+        },
+        {
+            "charBegin": 507,
+            "charEnd": 508,
+            "id": 78,
+            "sentence": 4,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 515,
+            "id": 79,
+            "sentence": 5,
+            "text": "Beide",
+            "word": 1
+        },
+        {
+            "charBegin": 516,
+            "charEnd": 525,
+            "id": 80,
+            "sentence": 5,
+            "text": "Schnecken",
+            "word": 2
+        },
+        {
+            "charBegin": 526,
+            "charEnd": 532,
+            "id": 81,
+            "sentence": 5,
+            "text": "müssen",
+            "word": 3
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 541,
+            "id": 82,
+            "sentence": 5,
+            "text": "dieselbe",
+            "word": 4
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 547,
+            "id": 83,
+            "sentence": 5,
+            "text": "Menge",
+            "word": 5
+        },
+        {
+            "charBegin": 548,
+            "charEnd": 554,
+            "id": 84,
+            "sentence": 5,
+            "text": "Sperma",
+            "word": 6
+        },
+        {
+            "charBegin": 555,
+            "charEnd": 566,
+            "id": 85,
+            "sentence": 5,
+            "text": "produzieren",
+            "word": 7
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 570,
+            "id": 86,
+            "sentence": 5,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 573,
+            "id": 87,
+            "sentence": 5,
+            "text": "an",
+            "word": 9
+        },
+        {
+            "charBegin": 574,
+            "charEnd": 579,
+            "id": 88,
+            "sentence": 5,
+            "text": "ihren",
+            "word": 10
+        },
+        {
+            "charBegin": 580,
+            "charEnd": 598,
+            "id": 89,
+            "sentence": 5,
+            "text": "Geschlechtspartner",
+            "word": 11
+        },
+        {
+            "charBegin": 599,
+            "charEnd": 606,
+            "id": 90,
+            "sentence": 5,
+            "text": "abgeben",
+            "word": 12
+        },
+        {
+            "charBegin": 606,
+            "charEnd": 607,
+            "id": 91,
+            "sentence": 5,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 612,
+            "id": 92,
+            "sentence": 6,
+            "text": "Wird",
+            "word": 1
+        },
+        {
+            "charBegin": 613,
+            "charEnd": 617,
+            "id": 93,
+            "sentence": 6,
+            "text": "eine",
+            "word": 2
+        },
+        {
+            "charBegin": 618,
+            "charEnd": 626,
+            "id": 94,
+            "sentence": 6,
+            "text": "Schnecke",
+            "word": 3
+        },
+        {
+            "charBegin": 627,
+            "charEnd": 631,
+            "id": 95,
+            "sentence": 6,
+            "text": "beim",
+            "word": 4
+        },
+        {
+            "charBegin": 632,
+            "charEnd": 641,
+            "id": 96,
+            "sentence": 6,
+            "text": "Schummeln",
+            "word": 5
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 650,
+            "id": 97,
+            "sentence": 6,
+            "text": "erwischt",
+            "word": 6
+        },
+        {
+            "charBegin": 650,
+            "charEnd": 651,
+            "id": 98,
+            "sentence": 6,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 652,
+            "charEnd": 656,
+            "id": 99,
+            "sentence": 6,
+            "text": "wird",
+            "word": 8
+        },
+        {
+            "charBegin": 657,
+            "charEnd": 660,
+            "id": 100,
+            "sentence": 6,
+            "text": "sie",
+            "word": 9
+        },
+        {
+            "charBegin": 661,
+            "charEnd": 664,
+            "id": 101,
+            "sentence": 6,
+            "text": "von",
+            "word": 10
+        },
+        {
+            "charBegin": 665,
+            "charEnd": 668,
+            "id": 102,
+            "sentence": 6,
+            "text": "dem",
+            "word": 11
+        },
+        {
+            "charBegin": 669,
+            "charEnd": 676,
+            "id": 103,
+            "sentence": 6,
+            "text": "Partner",
+            "word": 12
+        },
+        {
+            "charBegin": 677,
+            "charEnd": 682,
+            "id": 104,
+            "sentence": 6,
+            "text": "durch",
+            "word": 13
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 693,
+            "id": 105,
+            "sentence": 6,
+            "text": "sofortigen",
+            "word": 14
+        },
+        {
+            "charBegin": 694,
+            "charEnd": 704,
+            "id": 106,
+            "sentence": 6,
+            "text": "Sexabbruch",
+            "word": 15
+        },
+        {
+            "charBegin": 705,
+            "charEnd": 713,
+            "id": 107,
+            "sentence": 6,
+            "text": "bestraft",
+            "word": 16
+        },
+        {
+            "charBegin": 713,
+            "charEnd": 714,
+            "id": 108,
+            "sentence": 6,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 731,
+            "id": 109,
+            "sentence": 7,
+            "text": "Wissenschaftler",
+            "word": 1
+        },
+        {
+            "charBegin": 732,
+            "charEnd": 740,
+            "id": 110,
+            "sentence": 7,
+            "text": "stellten",
+            "word": 2
+        },
+        {
+            "charBegin": 741,
+            "charEnd": 746,
+            "id": 111,
+            "sentence": 7,
+            "text": "schon",
+            "word": 3
+        },
+        {
+            "charBegin": 747,
+            "charEnd": 750,
+            "id": 112,
+            "sentence": 7,
+            "text": "vor",
+            "word": 4
+        },
+        {
+            "charBegin": 751,
+            "charEnd": 753,
+            "id": 113,
+            "sentence": 7,
+            "text": "20",
+            "word": 5
+        },
+        {
+            "charBegin": 754,
+            "charEnd": 760,
+            "id": 114,
+            "sentence": 7,
+            "text": "Jahren",
+            "word": 6
+        },
+        {
+            "charBegin": 761,
+            "charEnd": 764,
+            "id": 115,
+            "sentence": 7,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 765,
+            "charEnd": 772,
+            "id": 116,
+            "sentence": 7,
+            "text": "Theorie",
+            "word": 8
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 776,
+            "id": 117,
+            "sentence": 7,
+            "text": "auf",
+            "word": 9
+        },
+        {
+            "charBegin": 776,
+            "charEnd": 777,
+            "id": 118,
+            "sentence": 7,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 782,
+            "id": 119,
+            "sentence": 7,
+            "text": "dass",
+            "word": 11
+        },
+        {
+            "charBegin": 783,
+            "charEnd": 786,
+            "id": 120,
+            "sentence": 7,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 793,
+            "id": 121,
+            "sentence": 7,
+            "text": "Handel",
+            "word": 13
+        },
+        {
+            "charBegin": 794,
+            "charEnd": 797,
+            "id": 122,
+            "sentence": 7,
+            "text": "mit",
+            "word": 14
+        },
+        {
+            "charBegin": 798,
+            "charEnd": 804,
+            "id": 123,
+            "sentence": 7,
+            "text": "Sperma",
+            "word": 15
+        },
+        {
+            "charBegin": 805,
+            "charEnd": 808,
+            "id": 124,
+            "sentence": 7,
+            "text": "bei",
+            "word": 16
+        },
+        {
+            "charBegin": 809,
+            "charEnd": 817,
+            "id": 125,
+            "sentence": 7,
+            "text": "Zwittern",
+            "word": 17
+        },
+        {
+            "charBegin": 818,
+            "charEnd": 821,
+            "id": 126,
+            "sentence": 7,
+            "text": "auf",
+            "word": 18
+        },
+        {
+            "charBegin": 822,
+            "charEnd": 837,
+            "id": 127,
+            "sentence": 7,
+            "text": "Gegenseitigkeit",
+            "word": 19
+        },
+        {
+            "charBegin": 838,
+            "charEnd": 844,
+            "id": 128,
+            "sentence": 7,
+            "text": "beruht",
+            "word": 20
+        },
+        {
+            "charBegin": 844,
+            "charEnd": 845,
+            "id": 129,
+            "sentence": 7,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 846,
+            "charEnd": 849,
+            "id": 130,
+            "sentence": 8,
+            "text": "Nun",
+            "word": 1
+        },
+        {
+            "charBegin": 850,
+            "charEnd": 853,
+            "id": 131,
+            "sentence": 8,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 854,
+            "charEnd": 856,
+            "id": 132,
+            "sentence": 8,
+            "text": "es",
+            "word": 3
+        },
+        {
+            "charBegin": 857,
+            "charEnd": 861,
+            "id": 133,
+            "sentence": 8,
+            "text": "Nils",
+            "word": 4
+        },
+        {
+            "charBegin": 862,
+            "charEnd": 868,
+            "id": 134,
+            "sentence": 8,
+            "text": "Anthes",
+            "word": 5
+        },
+        {
+            "charBegin": 869,
+            "charEnd": 872,
+            "id": 135,
+            "sentence": 8,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 873,
+            "charEnd": 879,
+            "id": 136,
+            "sentence": 8,
+            "text": "seinen",
+            "word": 7
+        },
+        {
+            "charBegin": 880,
+            "charEnd": 888,
+            "id": 137,
+            "sentence": 8,
+            "text": "Kollegen",
+            "word": 8
+        },
+        {
+            "charBegin": 889,
+            "charEnd": 897,
+            "id": 138,
+            "sentence": 8,
+            "text": "erstmals",
+            "word": 9
+        },
+        {
+            "charBegin": 898,
+            "charEnd": 906,
+            "id": 139,
+            "sentence": 8,
+            "text": "gelungen",
+            "word": 10
+        },
+        {
+            "charBegin": 906,
+            "charEnd": 907,
+            "id": 140,
+            "sentence": 8,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 908,
+            "charEnd": 913,
+            "id": 141,
+            "sentence": 8,
+            "text": "diese",
+            "word": 12
+        },
+        {
+            "charBegin": 914,
+            "charEnd": 919,
+            "id": 142,
+            "sentence": 8,
+            "text": "These",
+            "word": 13
+        },
+        {
+            "charBegin": 920,
+            "charEnd": 922,
+            "id": 143,
+            "sentence": 8,
+            "text": "zu",
+            "word": 14
+        },
+        {
+            "charBegin": 923,
+            "charEnd": 930,
+            "id": 144,
+            "sentence": 8,
+            "text": "belegen",
+            "word": 15
+        },
+        {
+            "charBegin": 930,
+            "charEnd": 931,
+            "id": 145,
+            "sentence": 8,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 932,
+            "charEnd": 935,
+            "id": 146,
+            "sentence": 9,
+            "text": "Sie",
+            "word": 1
+        },
+        {
+            "charBegin": 936,
+            "charEnd": 948,
+            "id": 147,
+            "sentence": 9,
+            "text": "beobachteten",
+            "word": 2
+        },
+        {
+            "charBegin": 949,
+            "charEnd": 952,
+            "id": 148,
+            "sentence": 9,
+            "text": "200",
+            "word": 3
+        },
+        {
+            "charBegin": 953,
+            "charEnd": 968,
+            "id": 149,
+            "sentence": 9,
+            "text": "Meeresschnecken",
+            "word": 4
+        },
+        {
+            "charBegin": 969,
+            "charEnd": 972,
+            "id": 150,
+            "sentence": 9,
+            "text": "und",
+            "word": 5
+        },
+        {
+            "charBegin": 973,
+            "charEnd": 976,
+            "id": 151,
+            "sentence": 9,
+            "text": "ihr",
+            "word": 6
+        },
+        {
+            "charBegin": 977,
+            "charEnd": 994,
+            "id": 152,
+            "sentence": 9,
+            "text": "Paarungsverhalten",
+            "word": 7
+        },
+        {
+            "charBegin": 994,
+            "charEnd": 995,
+            "id": 153,
+            "sentence": 9,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 996,
+            "charEnd": 999,
+            "id": 154,
+            "sentence": 10,
+            "text": "Bei",
+            "word": 1
+        },
+        {
+            "charBegin": 1000,
+            "charEnd": 1002,
+            "id": 155,
+            "sentence": 10,
+            "text": "50",
+            "word": 2
+        },
+        {
+            "charBegin": 1003,
+            "charEnd": 1012,
+            "id": 156,
+            "sentence": 10,
+            "text": "Schnecken",
+            "word": 3
+        },
+        {
+            "charBegin": 1013,
+            "charEnd": 1018,
+            "id": 157,
+            "sentence": 10,
+            "text": "haben",
+            "word": 4
+        },
+        {
+            "charBegin": 1019,
+            "charEnd": 1022,
+            "id": 158,
+            "sentence": 10,
+            "text": "sie",
+            "word": 5
+        },
+        {
+            "charBegin": 1023,
+            "charEnd": 1026,
+            "id": 159,
+            "sentence": 10,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 1027,
+            "charEnd": 1043,
+            "id": 160,
+            "sentence": 10,
+            "text": "Spermaproduktion",
+            "word": 7
+        },
+        {
+            "charBegin": 1044,
+            "charEnd": 1054,
+            "id": 161,
+            "sentence": 10,
+            "text": "allerdings",
+            "word": 8
+        },
+        {
+            "charBegin": 1055,
+            "charEnd": 1066,
+            "id": 162,
+            "sentence": 10,
+            "text": "unterbunden",
+            "word": 9
+        },
+        {
+            "charBegin": 1066,
+            "charEnd": 1067,
+            "id": 163,
+            "sentence": 10,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 1068,
+            "charEnd": 1070,
+            "id": 164,
+            "sentence": 10,
+            "text": "so",
+            "word": 11
+        },
+        {
+            "charBegin": 1071,
+            "charEnd": 1075,
+            "id": 165,
+            "sentence": 10,
+            "text": "dass",
+            "word": 12
+        },
+        {
+            "charBegin": 1076,
+            "charEnd": 1079,
+            "id": 166,
+            "sentence": 10,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 1080,
+            "charEnd": 1085,
+            "id": 167,
+            "sentence": 10,
+            "text": "Tiere",
+            "word": 14
+        },
+        {
+            "charBegin": 1086,
+            "charEnd": 1090,
+            "id": 168,
+            "sentence": 10,
+            "text": "zwar",
+            "word": 15
+        },
+        {
+            "charBegin": 1091,
+            "charEnd": 1093,
+            "id": 169,
+            "sentence": 10,
+            "text": "zu",
+            "word": 16
+        },
+        {
+            "charBegin": 1094,
+            "charEnd": 1099,
+            "id": 170,
+            "sentence": 10,
+            "text": "einer",
+            "word": 17
+        },
+        {
+            "charBegin": 1100,
+            "charEnd": 1108,
+            "id": 171,
+            "sentence": 10,
+            "text": "Erektion",
+            "word": 18
+        },
+        {
+            "charBegin": 1108,
+            "charEnd": 1109,
+            "id": 172,
+            "sentence": 10,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 1110,
+            "charEnd": 1114,
+            "id": 173,
+            "sentence": 10,
+            "text": "aber",
+            "word": 20
+        },
+        {
+            "charBegin": 1115,
+            "charEnd": 1120,
+            "id": 174,
+            "sentence": 10,
+            "text": "nicht",
+            "word": 21
+        },
+        {
+            "charBegin": 1121,
+            "charEnd": 1124,
+            "id": 175,
+            "sentence": 10,
+            "text": "zur",
+            "word": 22
+        },
+        {
+            "charBegin": 1125,
+            "charEnd": 1131,
+            "id": 176,
+            "sentence": 10,
+            "text": "Abgabe",
+            "word": 23
+        },
+        {
+            "charBegin": 1132,
+            "charEnd": 1135,
+            "id": 177,
+            "sentence": 10,
+            "text": "der",
+            "word": 24
+        },
+        {
+            "charBegin": 1136,
+            "charEnd": 1161,
+            "id": 178,
+            "sentence": 10,
+            "text": "Fruchtbarkeitsflüssigkeit",
+            "word": 25
+        },
+        {
+            "charBegin": 1162,
+            "charEnd": 1164,
+            "id": 179,
+            "sentence": 10,
+            "text": "in",
+            "word": 26
+        },
+        {
+            "charBegin": 1165,
+            "charEnd": 1168,
+            "id": 180,
+            "sentence": 10,
+            "text": "der",
+            "word": 27
+        },
+        {
+            "charBegin": 1169,
+            "charEnd": 1173,
+            "id": 181,
+            "sentence": 10,
+            "text": "Lage",
+            "word": 28
+        },
+        {
+            "charBegin": 1174,
+            "charEnd": 1179,
+            "id": 182,
+            "sentence": 10,
+            "text": "waren",
+            "word": 29
+        },
+        {
+            "charBegin": 1179,
+            "charEnd": 1180,
+            "id": 183,
+            "sentence": 10,
+            "text": ".",
+            "word": 30
+        },
+        {
+            "charBegin": 1181,
+            "charEnd": 1186,
+            "id": 184,
+            "sentence": 11,
+            "text": "Diese",
+            "word": 1
+        },
+        {
+            "charBegin": 1187,
+            "charEnd": 1188,
+            "id": 185,
+            "sentence": 11,
+            "text": "„",
+            "word": 2
+        },
+        {
+            "charBegin": 1188,
+            "charEnd": 1204,
+            "id": 186,
+            "sentence": 11,
+            "text": "beeinträchtigten",
+            "word": 3
+        },
+        {
+            "charBegin": 1204,
+            "charEnd": 1205,
+            "id": 187,
+            "sentence": 11,
+            "text": "“",
+            "word": 4
+        },
+        {
+            "charBegin": 1206,
+            "charEnd": 1215,
+            "id": 188,
+            "sentence": 11,
+            "text": "Schnecken",
+            "word": 5
+        },
+        {
+            "charBegin": 1216,
+            "charEnd": 1222,
+            "id": 189,
+            "sentence": 11,
+            "text": "wurden",
+            "word": 6
+        },
+        {
+            "charBegin": 1223,
+            "charEnd": 1227,
+            "id": 190,
+            "sentence": 11,
+            "text": "dann",
+            "word": 7
+        },
+        {
+            "charBegin": 1228,
+            "charEnd": 1236,
+            "id": 191,
+            "sentence": 11,
+            "text": "sogleich",
+            "word": 8
+        },
+        {
+            "charBegin": 1237,
+            "charEnd": 1240,
+            "id": 192,
+            "sentence": 11,
+            "text": "von",
+            "word": 9
+        },
+        {
+            "charBegin": 1241,
+            "charEnd": 1246,
+            "id": 193,
+            "sentence": 11,
+            "text": "ihrem",
+            "word": 10
+        },
+        {
+            "charBegin": 1247,
+            "charEnd": 1254,
+            "id": 194,
+            "sentence": 11,
+            "text": "Partner",
+            "word": 11
+        },
+        {
+            "charBegin": 1255,
+            "charEnd": 1258,
+            "id": 195,
+            "sentence": 11,
+            "text": "mit",
+            "word": 12
+        },
+        {
+            "charBegin": 1259,
+            "charEnd": 1262,
+            "id": 196,
+            "sentence": 11,
+            "text": "dem",
+            "word": 13
+        },
+        {
+            "charBegin": 1263,
+            "charEnd": 1271,
+            "id": 197,
+            "sentence": 11,
+            "text": "Sexstopp",
+            "word": 14
+        },
+        {
+            "charBegin": 1272,
+            "charEnd": 1280,
+            "id": 198,
+            "sentence": 11,
+            "text": "bestraft",
+            "word": 15
+        },
+        {
+            "charBegin": 1280,
+            "charEnd": 1281,
+            "id": 199,
+            "sentence": 11,
+            "text": ".",
+            "word": 16
+        }
+    ]
+}

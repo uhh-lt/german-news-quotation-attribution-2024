@@ -1,0 +1,4369 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 331,
+                        "charBegin": 2007,
+                        "charEnd": 2019,
+                        "end": 332
+                    }
+                ],
+                "text": "kommentierte",
+                "tokenIds": [
+                    331
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 330,
+                        "charBegin": 2004,
+                        "charEnd": 2020,
+                        "end": 333
+                    }
+                ],
+                "text": "Er kommentierte:",
+                "tokenIds": [
+                    330,
+                    331,
+                    332
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 333,
+                        "charBegin": 2021,
+                        "charEnd": 2070,
+                        "end": 345
+                    }
+                ],
+                "text": "„Nun fahren könnt ihr ja, das ist die Hauptsache“",
+                "tokenIds": [
+                    333,
+                    334,
+                    335,
+                    336,
+                    337,
+                    338,
+                    339,
+                    340,
+                    341,
+                    342,
+                    343,
+                    344
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 330,
+                        "charBegin": 2004,
+                        "charEnd": 2006,
+                        "end": 331
+                    }
+                ],
+                "text": "Er",
+                "tokenIds": [
+                    330
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "68437 - Motocross in Freising: ADAC MX Masters (2011-05-30)",
+    "originalText": "Am Samstag und Sonntag wurden die ADAC MX Masters im Motocross bei Freising ausgetragen. Mehr als 8.000 Zuschauer verfolgten die Rennen in den verschiedenen Klassen. 240 Fahrer aus 19 Nationen waren am Start, darunter die Internationale Elite dieses Sports. 1870 Meter war die Strecke lang, 13 Hindernisse waren aufgeschüttet worden. Neben den Trainingsläufen und Rennen konnte man die Fahrer auch beim Freestyle bewundern. \n\nGefahren wurde in drei Klassen:\n\n ADAC MX Masters, die Internationale Deutsche Motocross Meisterschaft (offene Klasse von 125 – 650 ccm) \n ADAC MX Youngster Cup für Motorräder der Klasse 125 (bis 125 ccm)\n ADAC MX Junior Cup für Motorräder der Klasse 85 (bis 85 ccm) \n\nBilder aus den Rennen: \n\n\n\nBilder aus dem Fahrerlager:\n\n\n\n\n\nLeider wurden mehrere Fahrer verletzt, dabei ging es eher um Verstauchungen, ein Teilnehmer wurde mit dem Krankenwagen abtransportiert, nachdem ihn ein Notarzt untersucht hatte. Über die Schwere seiner Verletzung ist nichts bekannt. Der Bürgermeister von Freising Herr Dieter Thalhammer begrüßte die Fahrer und Besucher und lobte das Engagement des MSC Freising, der die Strecke, den Zuschauerbereich und das Fahrerlager noch attraktiver als 2010 gestaltet hatte. Die Biker waren sicher auch von den ADAC Girls begeistert, von ihnen wurden die Runden angezeigt, auch bei den Siegesehrungen gaben sie neben den harten Burschen ein hübsches Bild ab. Die Zuschauer konnten die Rennen hautnah erleben. An manchen Stellen flogen ihnen aufgewirbelte Erdklumpen entgegen. Im Fahrerlager hatte man Gelegenheit die Mechaniker beim Herrichten der Motocrossmaschinen zu beobachten, so mancher Reifen wurde gewechselt, da er der Beanspruchung nicht standgehalten hatte. Hier hörte man auch Diskussionen zwischen den Fahrern, warum eine Taktik nicht aufgegangenen war oder eine Situation im Rennen wurde besprochen, zumeist in englischer Sprache. Als die drei ersten im Juniorcup bei der Siegesehrung waren konnte ihnen der Moderator nur wenige Worte entlocken. Er kommentierte: „Nun fahren könnt ihr ja, das ist die Hauptsache“.  \n\nSieger bei den Masters wurde Soubeyras, Cedric, 2. Schiffer, Marcus und 3. Schmidinger, Günter. im Junior Cup 1. Jonass, Pauls, 2. van Nobelen, Jordi und 3. Kutsar, Karel. Im Youngster Cup 1. Olsen, Stefan, 2.Jorgensen, Rasmus und 3. Maillard, Boris.\n\nBilder vom Freestyle:",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 88,
+            "end": 15,
+            "id": 0,
+            "text": "Am Samstag und Sonntag wurden die ADAC MX Masters im Motocross bei Freising ausgetragen. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "tokens": [
+                "Am",
+                "Samstag",
+                "und",
+                "Sonntag",
+                "wurden",
+                "die",
+                "ADAC",
+                "MX",
+                "Masters",
+                "im",
+                "Motocross",
+                "bei",
+                "Freising",
+                "ausgetragen",
+                "."
+            ]
+        },
+        {
+            "begin": 15,
+            "charBegin": 89,
+            "charEnd": 165,
+            "end": 27,
+            "id": 1,
+            "text": "Mehr als 8.000 Zuschauer verfolgten die Rennen in den verschiedenen Klassen. ",
+            "tokenIds": [
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ],
+            "tokens": [
+                "Mehr",
+                "als",
+                "8.000",
+                "Zuschauer",
+                "verfolgten",
+                "die",
+                "Rennen",
+                "in",
+                "den",
+                "verschiedenen",
+                "Klassen",
+                "."
+            ]
+        },
+        {
+            "begin": 27,
+            "charBegin": 166,
+            "charEnd": 257,
+            "end": 43,
+            "id": 2,
+            "text": "240 Fahrer aus 19 Nationen waren am Start, darunter die Internationale Elite dieses Sports. ",
+            "tokenIds": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42
+            ],
+            "tokens": [
+                "240",
+                "Fahrer",
+                "aus",
+                "19",
+                "Nationen",
+                "waren",
+                "am",
+                "Start",
+                ",",
+                "darunter",
+                "die",
+                "Internationale",
+                "Elite",
+                "dieses",
+                "Sports",
+                "."
+            ]
+        },
+        {
+            "begin": 43,
+            "charBegin": 258,
+            "charEnd": 333,
+            "end": 56,
+            "id": 3,
+            "text": "1870 Meter war die Strecke lang, 13 Hindernisse waren aufgeschüttet worden. ",
+            "tokenIds": [
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55
+            ],
+            "tokens": [
+                "1870",
+                "Meter",
+                "war",
+                "die",
+                "Strecke",
+                "lang",
+                ",",
+                "13",
+                "Hindernisse",
+                "waren",
+                "aufgeschüttet",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "begin": 56,
+            "charBegin": 334,
+            "charEnd": 423,
+            "end": 70,
+            "id": 4,
+            "text": "Neben den Trainingsläufen und Rennen konnte man die Fahrer auch beim Freestyle bewundern. ",
+            "tokenIds": [
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69
+            ],
+            "tokens": [
+                "Neben",
+                "den",
+                "Trainingsläufen",
+                "und",
+                "Rennen",
+                "konnte",
+                "man",
+                "die",
+                "Fahrer",
+                "auch",
+                "beim",
+                "Freestyle",
+                "bewundern",
+                "."
+            ]
+        },
+        {
+            "begin": 70,
+            "charBegin": 426,
+            "charEnd": 692,
+            "end": 122,
+            "id": 5,
+            "text": "Gefahren wurde in drei Klassen:\n\n ADAC MX Masters, die Internationale Deutsche Motocross Meisterschaft (offene Klasse von 125 – 650 ccm) \n ADAC MX Youngster Cup für Motorräder der Klasse 125 (bis 125 ccm)\n ADAC MX Junior Cup für Motorräder der Klasse 85 (bis 85 ccm) ",
+            "tokenIds": [
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ],
+            "tokens": [
+                "Gefahren",
+                "wurde",
+                "in",
+                "drei",
+                "Klassen",
+                ":",
+                "ADAC",
+                "MX",
+                "Masters",
+                ",",
+                "die",
+                "Internationale",
+                "Deutsche",
+                "Motocross",
+                "Meisterschaft",
+                "(",
+                "offene",
+                "Klasse",
+                "von",
+                "125",
+                "–",
+                "650",
+                "ccm",
+                ")",
+                "ADAC",
+                "MX",
+                "Youngster",
+                "Cup",
+                "für",
+                "Motorräder",
+                "der",
+                "Klasse",
+                "125",
+                "(",
+                "bis",
+                "125",
+                "ccm",
+                ")",
+                "ADAC",
+                "MX",
+                "Junior",
+                "Cup",
+                "für",
+                "Motorräder",
+                "der",
+                "Klasse",
+                "85",
+                "(",
+                "bis",
+                "85",
+                "ccm",
+                ")"
+            ]
+        },
+        {
+            "begin": 122,
+            "charBegin": 695,
+            "charEnd": 717,
+            "end": 127,
+            "id": 6,
+            "text": "Bilder aus den Rennen: ",
+            "tokenIds": [
+                122,
+                123,
+                124,
+                125,
+                126
+            ],
+            "tokens": [
+                "Bilder",
+                "aus",
+                "den",
+                "Rennen",
+                ":"
+            ]
+        },
+        {
+            "begin": 127,
+            "charBegin": 722,
+            "charEnd": 932,
+            "end": 160,
+            "id": 7,
+            "text": "Bilder aus dem Fahrerlager:\n\n\n\n\n\nLeider wurden mehrere Fahrer verletzt, dabei ging es eher um Verstauchungen, ein Teilnehmer wurde mit dem Krankenwagen abtransportiert, nachdem ihn ein Notarzt untersucht hatte. ",
+            "tokenIds": [
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159
+            ],
+            "tokens": [
+                "Bilder",
+                "aus",
+                "dem",
+                "Fahrerlager",
+                ":",
+                "Leider",
+                "wurden",
+                "mehrere",
+                "Fahrer",
+                "verletzt",
+                ",",
+                "dabei",
+                "ging",
+                "es",
+                "eher",
+                "um",
+                "Verstauchungen",
+                ",",
+                "ein",
+                "Teilnehmer",
+                "wurde",
+                "mit",
+                "dem",
+                "Krankenwagen",
+                "abtransportiert",
+                ",",
+                "nachdem",
+                "ihn",
+                "ein",
+                "Notarzt",
+                "untersucht",
+                "hatte",
+                "."
+            ]
+        },
+        {
+            "begin": 160,
+            "charBegin": 933,
+            "charEnd": 987,
+            "end": 169,
+            "id": 8,
+            "text": "Über die Schwere seiner Verletzung ist nichts bekannt. ",
+            "tokenIds": [
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168
+            ],
+            "tokens": [
+                "Über",
+                "die",
+                "Schwere",
+                "seiner",
+                "Verletzung",
+                "ist",
+                "nichts",
+                "bekannt",
+                "."
+            ]
+        },
+        {
+            "begin": 169,
+            "charBegin": 988,
+            "charEnd": 1218,
+            "end": 205,
+            "id": 9,
+            "text": "Der Bürgermeister von Freising Herr Dieter Thalhammer begrüßte die Fahrer und Besucher und lobte das Engagement des MSC Freising, der die Strecke, den Zuschauerbereich und das Fahrerlager noch attraktiver als 2010 gestaltet hatte. ",
+            "tokenIds": [
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204
+            ],
+            "tokens": [
+                "Der",
+                "Bürgermeister",
+                "von",
+                "Freising",
+                "Herr",
+                "Dieter",
+                "Thalhammer",
+                "begrüßte",
+                "die",
+                "Fahrer",
+                "und",
+                "Besucher",
+                "und",
+                "lobte",
+                "das",
+                "Engagement",
+                "des",
+                "MSC",
+                "Freising",
+                ",",
+                "der",
+                "die",
+                "Strecke",
+                ",",
+                "den",
+                "Zuschauerbereich",
+                "und",
+                "das",
+                "Fahrerlager",
+                "noch",
+                "attraktiver",
+                "als",
+                "2010",
+                "gestaltet",
+                "hatte",
+                "."
+            ]
+        },
+        {
+            "begin": 205,
+            "charBegin": 1219,
+            "charEnd": 1402,
+            "end": 238,
+            "id": 10,
+            "text": "Die Biker waren sicher auch von den ADAC Girls begeistert, von ihnen wurden die Runden angezeigt, auch bei den Siegesehrungen gaben sie neben den harten Burschen ein hübsches Bild ab. ",
+            "tokenIds": [
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237
+            ],
+            "tokens": [
+                "Die",
+                "Biker",
+                "waren",
+                "sicher",
+                "auch",
+                "von",
+                "den",
+                "ADAC",
+                "Girls",
+                "begeistert",
+                ",",
+                "von",
+                "ihnen",
+                "wurden",
+                "die",
+                "Runden",
+                "angezeigt",
+                ",",
+                "auch",
+                "bei",
+                "den",
+                "Siegesehrungen",
+                "gaben",
+                "sie",
+                "neben",
+                "den",
+                "harten",
+                "Burschen",
+                "ein",
+                "hübsches",
+                "Bild",
+                "ab",
+                "."
+            ]
+        },
+        {
+            "begin": 238,
+            "charBegin": 1403,
+            "charEnd": 1452,
+            "end": 246,
+            "id": 11,
+            "text": "Die Zuschauer konnten die Rennen hautnah erleben. ",
+            "tokenIds": [
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245
+            ],
+            "tokens": [
+                "Die",
+                "Zuschauer",
+                "konnten",
+                "die",
+                "Rennen",
+                "hautnah",
+                "erleben",
+                "."
+            ]
+        },
+        {
+            "begin": 246,
+            "charBegin": 1453,
+            "charEnd": 1519,
+            "end": 255,
+            "id": 12,
+            "text": "An manchen Stellen flogen ihnen aufgewirbelte Erdklumpen entgegen. ",
+            "tokenIds": [
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254
+            ],
+            "tokens": [
+                "An",
+                "manchen",
+                "Stellen",
+                "flogen",
+                "ihnen",
+                "aufgewirbelte",
+                "Erdklumpen",
+                "entgegen",
+                "."
+            ]
+        },
+        {
+            "begin": 255,
+            "charBegin": 1520,
+            "charEnd": 1712,
+            "end": 283,
+            "id": 13,
+            "text": "Im Fahrerlager hatte man Gelegenheit die Mechaniker beim Herrichten der Motocrossmaschinen zu beobachten, so mancher Reifen wurde gewechselt, da er der Beanspruchung nicht standgehalten hatte. ",
+            "tokenIds": [
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273,
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282
+            ],
+            "tokens": [
+                "Im",
+                "Fahrerlager",
+                "hatte",
+                "man",
+                "Gelegenheit",
+                "die",
+                "Mechaniker",
+                "beim",
+                "Herrichten",
+                "der",
+                "Motocrossmaschinen",
+                "zu",
+                "beobachten",
+                ",",
+                "so",
+                "mancher",
+                "Reifen",
+                "wurde",
+                "gewechselt",
+                ",",
+                "da",
+                "er",
+                "der",
+                "Beanspruchung",
+                "nicht",
+                "standgehalten",
+                "hatte",
+                "."
+            ]
+        },
+        {
+            "begin": 283,
+            "charBegin": 1713,
+            "charEnd": 1888,
+            "end": 311,
+            "id": 14,
+            "text": "Hier hörte man auch Diskussionen zwischen den Fahrern, warum eine Taktik nicht aufgegangenen war oder eine Situation im Rennen wurde besprochen, zumeist in englischer Sprache. ",
+            "tokenIds": [
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292,
+                293,
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306,
+                307,
+                308,
+                309,
+                310
+            ],
+            "tokens": [
+                "Hier",
+                "hörte",
+                "man",
+                "auch",
+                "Diskussionen",
+                "zwischen",
+                "den",
+                "Fahrern",
+                ",",
+                "warum",
+                "eine",
+                "Taktik",
+                "nicht",
+                "aufgegangenen",
+                "war",
+                "oder",
+                "eine",
+                "Situation",
+                "im",
+                "Rennen",
+                "wurde",
+                "besprochen",
+                ",",
+                "zumeist",
+                "in",
+                "englischer",
+                "Sprache",
+                "."
+            ]
+        },
+        {
+            "begin": 311,
+            "charBegin": 1889,
+            "charEnd": 2003,
+            "end": 330,
+            "id": 15,
+            "text": "Als die drei ersten im Juniorcup bei der Siegesehrung waren konnte ihnen der Moderator nur wenige Worte entlocken. ",
+            "tokenIds": [
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322,
+                323,
+                324,
+                325,
+                326,
+                327,
+                328,
+                329
+            ],
+            "tokens": [
+                "Als",
+                "die",
+                "drei",
+                "ersten",
+                "im",
+                "Juniorcup",
+                "bei",
+                "der",
+                "Siegesehrung",
+                "waren",
+                "konnte",
+                "ihnen",
+                "der",
+                "Moderator",
+                "nur",
+                "wenige",
+                "Worte",
+                "entlocken",
+                "."
+            ]
+        },
+        {
+            "begin": 330,
+            "charBegin": 2004,
+            "charEnd": 2246,
+            "end": 384,
+            "id": 16,
+            "text": "Er kommentierte: „Nun fahren könnt ihr ja, das ist die Hauptsache“.  \n\nSieger bei den Masters wurde Soubeyras, Cedric, 2. Schiffer, Marcus und 3. Schmidinger, Günter. im Junior Cup 1. Jonass, Pauls, 2. van Nobelen, Jordi und 3. Kutsar, Karel. ",
+            "tokenIds": [
+                330,
+                331,
+                332,
+                333,
+                334,
+                335,
+                336,
+                337,
+                338,
+                339,
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346,
+                347,
+                348,
+                349,
+                350,
+                351,
+                352,
+                353,
+                354,
+                355,
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365,
+                366,
+                367,
+                368,
+                369,
+                370,
+                371,
+                372,
+                373,
+                374,
+                375,
+                376,
+                377,
+                378,
+                379,
+                380,
+                381,
+                382,
+                383
+            ],
+            "tokens": [
+                "Er",
+                "kommentierte",
+                ":",
+                "„",
+                "Nun",
+                "fahren",
+                "könnt",
+                "ihr",
+                "ja",
+                ",",
+                "das",
+                "ist",
+                "die",
+                "Hauptsache",
+                "“",
+                ".",
+                "Sieger",
+                "bei",
+                "den",
+                "Masters",
+                "wurde",
+                "Soubeyras",
+                ",",
+                "Cedric",
+                ",",
+                "2.",
+                "Schiffer",
+                ",",
+                "Marcus",
+                "und",
+                "3.",
+                "Schmidinger",
+                ",",
+                "Günter",
+                ".",
+                "im",
+                "Junior",
+                "Cup",
+                "1.",
+                "Jonass",
+                ",",
+                "Pauls",
+                ",",
+                "2.",
+                "van",
+                "Nobelen",
+                ",",
+                "Jordi",
+                "und",
+                "3.",
+                "Kutsar",
+                ",",
+                "Karel",
+                "."
+            ]
+        },
+        {
+            "begin": 384,
+            "charBegin": 2247,
+            "charEnd": 2325,
+            "end": 401,
+            "id": 17,
+            "text": "Im Youngster Cup 1. Olsen, Stefan, 2.Jorgensen, Rasmus und 3. Maillard, Boris.",
+            "tokenIds": [
+                384,
+                385,
+                386,
+                387,
+                388,
+                389,
+                390,
+                391,
+                392,
+                393,
+                394,
+                395,
+                396,
+                397,
+                398,
+                399,
+                400
+            ],
+            "tokens": [
+                "Im",
+                "Youngster",
+                "Cup",
+                "1.",
+                "Olsen",
+                ",",
+                "Stefan",
+                ",",
+                "2.Jorgensen",
+                ",",
+                "Rasmus",
+                "und",
+                "3.",
+                "Maillard",
+                ",",
+                "Boris",
+                "."
+            ]
+        },
+        {
+            "begin": 401,
+            "charBegin": 2327,
+            "charEnd": 2348,
+            "end": 405,
+            "id": 18,
+            "text": "Bilder vom Freestyle:",
+            "tokenIds": [
+                401,
+                402,
+                403,
+                404
+            ],
+            "tokens": [
+                "Bilder",
+                "vom",
+                "Freestyle",
+                ":"
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 10,
+            "id": 1,
+            "sentence": 1,
+            "text": "Samstag",
+            "word": 2
+        },
+        {
+            "charBegin": 11,
+            "charEnd": 14,
+            "id": 2,
+            "sentence": 1,
+            "text": "und",
+            "word": 3
+        },
+        {
+            "charBegin": 15,
+            "charEnd": 22,
+            "id": 3,
+            "sentence": 1,
+            "text": "Sonntag",
+            "word": 4
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 29,
+            "id": 4,
+            "sentence": 1,
+            "text": "wurden",
+            "word": 5
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 33,
+            "id": 5,
+            "sentence": 1,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 34,
+            "charEnd": 38,
+            "id": 6,
+            "sentence": 1,
+            "text": "ADAC",
+            "word": 7
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 41,
+            "id": 7,
+            "sentence": 1,
+            "text": "MX",
+            "word": 8
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 49,
+            "id": 8,
+            "sentence": 1,
+            "text": "Masters",
+            "word": 9
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 52,
+            "id": 9,
+            "sentence": 1,
+            "text": "im",
+            "word": 10
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 62,
+            "id": 10,
+            "sentence": 1,
+            "text": "Motocross",
+            "word": 11
+        },
+        {
+            "charBegin": 63,
+            "charEnd": 66,
+            "id": 11,
+            "sentence": 1,
+            "text": "bei",
+            "word": 12
+        },
+        {
+            "charBegin": 67,
+            "charEnd": 75,
+            "id": 12,
+            "sentence": 1,
+            "text": "Freising",
+            "word": 13
+        },
+        {
+            "charBegin": 76,
+            "charEnd": 87,
+            "id": 13,
+            "sentence": 1,
+            "text": "ausgetragen",
+            "word": 14
+        },
+        {
+            "charBegin": 87,
+            "charEnd": 88,
+            "id": 14,
+            "sentence": 1,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 89,
+            "charEnd": 93,
+            "id": 15,
+            "sentence": 2,
+            "text": "Mehr",
+            "word": 1
+        },
+        {
+            "charBegin": 94,
+            "charEnd": 97,
+            "id": 16,
+            "sentence": 2,
+            "text": "als",
+            "word": 2
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 103,
+            "id": 17,
+            "sentence": 2,
+            "text": "8.000",
+            "word": 3
+        },
+        {
+            "charBegin": 104,
+            "charEnd": 113,
+            "id": 18,
+            "sentence": 2,
+            "text": "Zuschauer",
+            "word": 4
+        },
+        {
+            "charBegin": 114,
+            "charEnd": 124,
+            "id": 19,
+            "sentence": 2,
+            "text": "verfolgten",
+            "word": 5
+        },
+        {
+            "charBegin": 125,
+            "charEnd": 128,
+            "id": 20,
+            "sentence": 2,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 129,
+            "charEnd": 135,
+            "id": 21,
+            "sentence": 2,
+            "text": "Rennen",
+            "word": 7
+        },
+        {
+            "charBegin": 136,
+            "charEnd": 138,
+            "id": 22,
+            "sentence": 2,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 139,
+            "charEnd": 142,
+            "id": 23,
+            "sentence": 2,
+            "text": "den",
+            "word": 9
+        },
+        {
+            "charBegin": 143,
+            "charEnd": 156,
+            "id": 24,
+            "sentence": 2,
+            "text": "verschiedenen",
+            "word": 10
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 164,
+            "id": 25,
+            "sentence": 2,
+            "text": "Klassen",
+            "word": 11
+        },
+        {
+            "charBegin": 164,
+            "charEnd": 165,
+            "id": 26,
+            "sentence": 2,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 169,
+            "id": 27,
+            "sentence": 3,
+            "text": "240",
+            "word": 1
+        },
+        {
+            "charBegin": 170,
+            "charEnd": 176,
+            "id": 28,
+            "sentence": 3,
+            "text": "Fahrer",
+            "word": 2
+        },
+        {
+            "charBegin": 177,
+            "charEnd": 180,
+            "id": 29,
+            "sentence": 3,
+            "text": "aus",
+            "word": 3
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 183,
+            "id": 30,
+            "sentence": 3,
+            "text": "19",
+            "word": 4
+        },
+        {
+            "charBegin": 184,
+            "charEnd": 192,
+            "id": 31,
+            "sentence": 3,
+            "text": "Nationen",
+            "word": 5
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 198,
+            "id": 32,
+            "sentence": 3,
+            "text": "waren",
+            "word": 6
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 201,
+            "id": 33,
+            "sentence": 3,
+            "text": "am",
+            "word": 7
+        },
+        {
+            "charBegin": 202,
+            "charEnd": 207,
+            "id": 34,
+            "sentence": 3,
+            "text": "Start",
+            "word": 8
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 208,
+            "id": 35,
+            "sentence": 3,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 209,
+            "charEnd": 217,
+            "id": 36,
+            "sentence": 3,
+            "text": "darunter",
+            "word": 10
+        },
+        {
+            "charBegin": 218,
+            "charEnd": 221,
+            "id": 37,
+            "sentence": 3,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 236,
+            "id": 38,
+            "sentence": 3,
+            "text": "Internationale",
+            "word": 12
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 242,
+            "id": 39,
+            "sentence": 3,
+            "text": "Elite",
+            "word": 13
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 249,
+            "id": 40,
+            "sentence": 3,
+            "text": "dieses",
+            "word": 14
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 256,
+            "id": 41,
+            "sentence": 3,
+            "text": "Sports",
+            "word": 15
+        },
+        {
+            "charBegin": 256,
+            "charEnd": 257,
+            "id": 42,
+            "sentence": 3,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 262,
+            "id": 43,
+            "sentence": 4,
+            "text": "1870",
+            "word": 1
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 268,
+            "id": 44,
+            "sentence": 4,
+            "text": "Meter",
+            "word": 2
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 272,
+            "id": 45,
+            "sentence": 4,
+            "text": "war",
+            "word": 3
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 276,
+            "id": 46,
+            "sentence": 4,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 277,
+            "charEnd": 284,
+            "id": 47,
+            "sentence": 4,
+            "text": "Strecke",
+            "word": 5
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 289,
+            "id": 48,
+            "sentence": 4,
+            "text": "lang",
+            "word": 6
+        },
+        {
+            "charBegin": 289,
+            "charEnd": 290,
+            "id": 49,
+            "sentence": 4,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 291,
+            "charEnd": 293,
+            "id": 50,
+            "sentence": 4,
+            "text": "13",
+            "word": 8
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 305,
+            "id": 51,
+            "sentence": 4,
+            "text": "Hindernisse",
+            "word": 9
+        },
+        {
+            "charBegin": 306,
+            "charEnd": 311,
+            "id": 52,
+            "sentence": 4,
+            "text": "waren",
+            "word": 10
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 325,
+            "id": 53,
+            "sentence": 4,
+            "text": "aufgeschüttet",
+            "word": 11
+        },
+        {
+            "charBegin": 326,
+            "charEnd": 332,
+            "id": 54,
+            "sentence": 4,
+            "text": "worden",
+            "word": 12
+        },
+        {
+            "charBegin": 332,
+            "charEnd": 333,
+            "id": 55,
+            "sentence": 4,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 339,
+            "id": 56,
+            "sentence": 5,
+            "text": "Neben",
+            "word": 1
+        },
+        {
+            "charBegin": 340,
+            "charEnd": 343,
+            "id": 57,
+            "sentence": 5,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 359,
+            "id": 58,
+            "sentence": 5,
+            "text": "Trainingsläufen",
+            "word": 3
+        },
+        {
+            "charBegin": 360,
+            "charEnd": 363,
+            "id": 59,
+            "sentence": 5,
+            "text": "und",
+            "word": 4
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 370,
+            "id": 60,
+            "sentence": 5,
+            "text": "Rennen",
+            "word": 5
+        },
+        {
+            "charBegin": 371,
+            "charEnd": 377,
+            "id": 61,
+            "sentence": 5,
+            "text": "konnte",
+            "word": 6
+        },
+        {
+            "charBegin": 378,
+            "charEnd": 381,
+            "id": 62,
+            "sentence": 5,
+            "text": "man",
+            "word": 7
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 385,
+            "id": 63,
+            "sentence": 5,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 386,
+            "charEnd": 392,
+            "id": 64,
+            "sentence": 5,
+            "text": "Fahrer",
+            "word": 9
+        },
+        {
+            "charBegin": 393,
+            "charEnd": 397,
+            "id": 65,
+            "sentence": 5,
+            "text": "auch",
+            "word": 10
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 402,
+            "id": 66,
+            "sentence": 5,
+            "text": "beim",
+            "word": 11
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 412,
+            "id": 67,
+            "sentence": 5,
+            "text": "Freestyle",
+            "word": 12
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 422,
+            "id": 68,
+            "sentence": 5,
+            "text": "bewundern",
+            "word": 13
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 423,
+            "id": 69,
+            "sentence": 5,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 426,
+            "charEnd": 434,
+            "id": 70,
+            "sentence": 6,
+            "text": "Gefahren",
+            "word": 1
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 440,
+            "id": 71,
+            "sentence": 6,
+            "text": "wurde",
+            "word": 2
+        },
+        {
+            "charBegin": 441,
+            "charEnd": 443,
+            "id": 72,
+            "sentence": 6,
+            "text": "in",
+            "word": 3
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 448,
+            "id": 73,
+            "sentence": 6,
+            "text": "drei",
+            "word": 4
+        },
+        {
+            "charBegin": 449,
+            "charEnd": 456,
+            "id": 74,
+            "sentence": 6,
+            "text": "Klassen",
+            "word": 5
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 457,
+            "id": 75,
+            "sentence": 6,
+            "text": ":",
+            "word": 6
+        },
+        {
+            "charBegin": 460,
+            "charEnd": 464,
+            "id": 76,
+            "sentence": 6,
+            "text": "ADAC",
+            "word": 7
+        },
+        {
+            "charBegin": 465,
+            "charEnd": 467,
+            "id": 77,
+            "sentence": 6,
+            "text": "MX",
+            "word": 8
+        },
+        {
+            "charBegin": 468,
+            "charEnd": 475,
+            "id": 78,
+            "sentence": 6,
+            "text": "Masters",
+            "word": 9
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 476,
+            "id": 79,
+            "sentence": 6,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 480,
+            "id": 80,
+            "sentence": 6,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 481,
+            "charEnd": 495,
+            "id": 81,
+            "sentence": 6,
+            "text": "Internationale",
+            "word": 12
+        },
+        {
+            "charBegin": 496,
+            "charEnd": 504,
+            "id": 82,
+            "sentence": 6,
+            "text": "Deutsche",
+            "word": 13
+        },
+        {
+            "charBegin": 505,
+            "charEnd": 514,
+            "id": 83,
+            "sentence": 6,
+            "text": "Motocross",
+            "word": 14
+        },
+        {
+            "charBegin": 515,
+            "charEnd": 528,
+            "id": 84,
+            "sentence": 6,
+            "text": "Meisterschaft",
+            "word": 15
+        },
+        {
+            "charBegin": 529,
+            "charEnd": 530,
+            "id": 85,
+            "sentence": 6,
+            "text": "(",
+            "word": 16
+        },
+        {
+            "charBegin": 530,
+            "charEnd": 536,
+            "id": 86,
+            "sentence": 6,
+            "text": "offene",
+            "word": 17
+        },
+        {
+            "charBegin": 537,
+            "charEnd": 543,
+            "id": 87,
+            "sentence": 6,
+            "text": "Klasse",
+            "word": 18
+        },
+        {
+            "charBegin": 544,
+            "charEnd": 547,
+            "id": 88,
+            "sentence": 6,
+            "text": "von",
+            "word": 19
+        },
+        {
+            "charBegin": 548,
+            "charEnd": 551,
+            "id": 89,
+            "sentence": 6,
+            "text": "125",
+            "word": 20
+        },
+        {
+            "charBegin": 552,
+            "charEnd": 553,
+            "id": 90,
+            "sentence": 6,
+            "text": "–",
+            "word": 21
+        },
+        {
+            "charBegin": 554,
+            "charEnd": 557,
+            "id": 91,
+            "sentence": 6,
+            "text": "650",
+            "word": 22
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 561,
+            "id": 92,
+            "sentence": 6,
+            "text": "ccm",
+            "word": 23
+        },
+        {
+            "charBegin": 561,
+            "charEnd": 562,
+            "id": 93,
+            "sentence": 6,
+            "text": ")",
+            "word": 24
+        },
+        {
+            "charBegin": 565,
+            "charEnd": 569,
+            "id": 94,
+            "sentence": 6,
+            "text": "ADAC",
+            "word": 25
+        },
+        {
+            "charBegin": 570,
+            "charEnd": 572,
+            "id": 95,
+            "sentence": 6,
+            "text": "MX",
+            "word": 26
+        },
+        {
+            "charBegin": 573,
+            "charEnd": 582,
+            "id": 96,
+            "sentence": 6,
+            "text": "Youngster",
+            "word": 27
+        },
+        {
+            "charBegin": 583,
+            "charEnd": 586,
+            "id": 97,
+            "sentence": 6,
+            "text": "Cup",
+            "word": 28
+        },
+        {
+            "charBegin": 587,
+            "charEnd": 590,
+            "id": 98,
+            "sentence": 6,
+            "text": "für",
+            "word": 29
+        },
+        {
+            "charBegin": 591,
+            "charEnd": 601,
+            "id": 99,
+            "sentence": 6,
+            "text": "Motorräder",
+            "word": 30
+        },
+        {
+            "charBegin": 602,
+            "charEnd": 605,
+            "id": 100,
+            "sentence": 6,
+            "text": "der",
+            "word": 31
+        },
+        {
+            "charBegin": 606,
+            "charEnd": 612,
+            "id": 101,
+            "sentence": 6,
+            "text": "Klasse",
+            "word": 32
+        },
+        {
+            "charBegin": 613,
+            "charEnd": 616,
+            "id": 102,
+            "sentence": 6,
+            "text": "125",
+            "word": 33
+        },
+        {
+            "charBegin": 617,
+            "charEnd": 618,
+            "id": 103,
+            "sentence": 6,
+            "text": "(",
+            "word": 34
+        },
+        {
+            "charBegin": 618,
+            "charEnd": 621,
+            "id": 104,
+            "sentence": 6,
+            "text": "bis",
+            "word": 35
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 625,
+            "id": 105,
+            "sentence": 6,
+            "text": "125",
+            "word": 36
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 629,
+            "id": 106,
+            "sentence": 6,
+            "text": "ccm",
+            "word": 37
+        },
+        {
+            "charBegin": 629,
+            "charEnd": 630,
+            "id": 107,
+            "sentence": 6,
+            "text": ")",
+            "word": 38
+        },
+        {
+            "charBegin": 632,
+            "charEnd": 636,
+            "id": 108,
+            "sentence": 6,
+            "text": "ADAC",
+            "word": 39
+        },
+        {
+            "charBegin": 637,
+            "charEnd": 639,
+            "id": 109,
+            "sentence": 6,
+            "text": "MX",
+            "word": 40
+        },
+        {
+            "charBegin": 640,
+            "charEnd": 646,
+            "id": 110,
+            "sentence": 6,
+            "text": "Junior",
+            "word": 41
+        },
+        {
+            "charBegin": 647,
+            "charEnd": 650,
+            "id": 111,
+            "sentence": 6,
+            "text": "Cup",
+            "word": 42
+        },
+        {
+            "charBegin": 651,
+            "charEnd": 654,
+            "id": 112,
+            "sentence": 6,
+            "text": "für",
+            "word": 43
+        },
+        {
+            "charBegin": 655,
+            "charEnd": 665,
+            "id": 113,
+            "sentence": 6,
+            "text": "Motorräder",
+            "word": 44
+        },
+        {
+            "charBegin": 666,
+            "charEnd": 669,
+            "id": 114,
+            "sentence": 6,
+            "text": "der",
+            "word": 45
+        },
+        {
+            "charBegin": 670,
+            "charEnd": 676,
+            "id": 115,
+            "sentence": 6,
+            "text": "Klasse",
+            "word": 46
+        },
+        {
+            "charBegin": 677,
+            "charEnd": 679,
+            "id": 116,
+            "sentence": 6,
+            "text": "85",
+            "word": 47
+        },
+        {
+            "charBegin": 680,
+            "charEnd": 681,
+            "id": 117,
+            "sentence": 6,
+            "text": "(",
+            "word": 48
+        },
+        {
+            "charBegin": 681,
+            "charEnd": 684,
+            "id": 118,
+            "sentence": 6,
+            "text": "bis",
+            "word": 49
+        },
+        {
+            "charBegin": 685,
+            "charEnd": 687,
+            "id": 119,
+            "sentence": 6,
+            "text": "85",
+            "word": 50
+        },
+        {
+            "charBegin": 688,
+            "charEnd": 691,
+            "id": 120,
+            "sentence": 6,
+            "text": "ccm",
+            "word": 51
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 692,
+            "id": 121,
+            "sentence": 6,
+            "text": ")",
+            "word": 52
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 701,
+            "id": 122,
+            "sentence": 7,
+            "text": "Bilder",
+            "word": 1
+        },
+        {
+            "charBegin": 702,
+            "charEnd": 705,
+            "id": 123,
+            "sentence": 7,
+            "text": "aus",
+            "word": 2
+        },
+        {
+            "charBegin": 706,
+            "charEnd": 709,
+            "id": 124,
+            "sentence": 7,
+            "text": "den",
+            "word": 3
+        },
+        {
+            "charBegin": 710,
+            "charEnd": 716,
+            "id": 125,
+            "sentence": 7,
+            "text": "Rennen",
+            "word": 4
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 717,
+            "id": 126,
+            "sentence": 7,
+            "text": ":",
+            "word": 5
+        },
+        {
+            "charBegin": 722,
+            "charEnd": 728,
+            "id": 127,
+            "sentence": 8,
+            "text": "Bilder",
+            "word": 1
+        },
+        {
+            "charBegin": 729,
+            "charEnd": 732,
+            "id": 128,
+            "sentence": 8,
+            "text": "aus",
+            "word": 2
+        },
+        {
+            "charBegin": 733,
+            "charEnd": 736,
+            "id": 129,
+            "sentence": 8,
+            "text": "dem",
+            "word": 3
+        },
+        {
+            "charBegin": 737,
+            "charEnd": 748,
+            "id": 130,
+            "sentence": 8,
+            "text": "Fahrerlager",
+            "word": 4
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 749,
+            "id": 131,
+            "sentence": 8,
+            "text": ":",
+            "word": 5
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 761,
+            "id": 132,
+            "sentence": 8,
+            "text": "Leider",
+            "word": 6
+        },
+        {
+            "charBegin": 762,
+            "charEnd": 768,
+            "id": 133,
+            "sentence": 8,
+            "text": "wurden",
+            "word": 7
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 776,
+            "id": 134,
+            "sentence": 8,
+            "text": "mehrere",
+            "word": 8
+        },
+        {
+            "charBegin": 777,
+            "charEnd": 783,
+            "id": 135,
+            "sentence": 8,
+            "text": "Fahrer",
+            "word": 9
+        },
+        {
+            "charBegin": 784,
+            "charEnd": 792,
+            "id": 136,
+            "sentence": 8,
+            "text": "verletzt",
+            "word": 10
+        },
+        {
+            "charBegin": 792,
+            "charEnd": 793,
+            "id": 137,
+            "sentence": 8,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 794,
+            "charEnd": 799,
+            "id": 138,
+            "sentence": 8,
+            "text": "dabei",
+            "word": 12
+        },
+        {
+            "charBegin": 800,
+            "charEnd": 804,
+            "id": 139,
+            "sentence": 8,
+            "text": "ging",
+            "word": 13
+        },
+        {
+            "charBegin": 805,
+            "charEnd": 807,
+            "id": 140,
+            "sentence": 8,
+            "text": "es",
+            "word": 14
+        },
+        {
+            "charBegin": 808,
+            "charEnd": 812,
+            "id": 141,
+            "sentence": 8,
+            "text": "eher",
+            "word": 15
+        },
+        {
+            "charBegin": 813,
+            "charEnd": 815,
+            "id": 142,
+            "sentence": 8,
+            "text": "um",
+            "word": 16
+        },
+        {
+            "charBegin": 816,
+            "charEnd": 830,
+            "id": 143,
+            "sentence": 8,
+            "text": "Verstauchungen",
+            "word": 17
+        },
+        {
+            "charBegin": 830,
+            "charEnd": 831,
+            "id": 144,
+            "sentence": 8,
+            "text": ",",
+            "word": 18
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 835,
+            "id": 145,
+            "sentence": 8,
+            "text": "ein",
+            "word": 19
+        },
+        {
+            "charBegin": 836,
+            "charEnd": 846,
+            "id": 146,
+            "sentence": 8,
+            "text": "Teilnehmer",
+            "word": 20
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 852,
+            "id": 147,
+            "sentence": 8,
+            "text": "wurde",
+            "word": 21
+        },
+        {
+            "charBegin": 853,
+            "charEnd": 856,
+            "id": 148,
+            "sentence": 8,
+            "text": "mit",
+            "word": 22
+        },
+        {
+            "charBegin": 857,
+            "charEnd": 860,
+            "id": 149,
+            "sentence": 8,
+            "text": "dem",
+            "word": 23
+        },
+        {
+            "charBegin": 861,
+            "charEnd": 873,
+            "id": 150,
+            "sentence": 8,
+            "text": "Krankenwagen",
+            "word": 24
+        },
+        {
+            "charBegin": 874,
+            "charEnd": 889,
+            "id": 151,
+            "sentence": 8,
+            "text": "abtransportiert",
+            "word": 25
+        },
+        {
+            "charBegin": 889,
+            "charEnd": 890,
+            "id": 152,
+            "sentence": 8,
+            "text": ",",
+            "word": 26
+        },
+        {
+            "charBegin": 891,
+            "charEnd": 898,
+            "id": 153,
+            "sentence": 8,
+            "text": "nachdem",
+            "word": 27
+        },
+        {
+            "charBegin": 899,
+            "charEnd": 902,
+            "id": 154,
+            "sentence": 8,
+            "text": "ihn",
+            "word": 28
+        },
+        {
+            "charBegin": 903,
+            "charEnd": 906,
+            "id": 155,
+            "sentence": 8,
+            "text": "ein",
+            "word": 29
+        },
+        {
+            "charBegin": 907,
+            "charEnd": 914,
+            "id": 156,
+            "sentence": 8,
+            "text": "Notarzt",
+            "word": 30
+        },
+        {
+            "charBegin": 915,
+            "charEnd": 925,
+            "id": 157,
+            "sentence": 8,
+            "text": "untersucht",
+            "word": 31
+        },
+        {
+            "charBegin": 926,
+            "charEnd": 931,
+            "id": 158,
+            "sentence": 8,
+            "text": "hatte",
+            "word": 32
+        },
+        {
+            "charBegin": 931,
+            "charEnd": 932,
+            "id": 159,
+            "sentence": 8,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 933,
+            "charEnd": 937,
+            "id": 160,
+            "sentence": 9,
+            "text": "Über",
+            "word": 1
+        },
+        {
+            "charBegin": 938,
+            "charEnd": 941,
+            "id": 161,
+            "sentence": 9,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 942,
+            "charEnd": 949,
+            "id": 162,
+            "sentence": 9,
+            "text": "Schwere",
+            "word": 3
+        },
+        {
+            "charBegin": 950,
+            "charEnd": 956,
+            "id": 163,
+            "sentence": 9,
+            "text": "seiner",
+            "word": 4
+        },
+        {
+            "charBegin": 957,
+            "charEnd": 967,
+            "id": 164,
+            "sentence": 9,
+            "text": "Verletzung",
+            "word": 5
+        },
+        {
+            "charBegin": 968,
+            "charEnd": 971,
+            "id": 165,
+            "sentence": 9,
+            "text": "ist",
+            "word": 6
+        },
+        {
+            "charBegin": 972,
+            "charEnd": 978,
+            "id": 166,
+            "sentence": 9,
+            "text": "nichts",
+            "word": 7
+        },
+        {
+            "charBegin": 979,
+            "charEnd": 986,
+            "id": 167,
+            "sentence": 9,
+            "text": "bekannt",
+            "word": 8
+        },
+        {
+            "charBegin": 986,
+            "charEnd": 987,
+            "id": 168,
+            "sentence": 9,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 988,
+            "charEnd": 991,
+            "id": 169,
+            "sentence": 10,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 992,
+            "charEnd": 1005,
+            "id": 170,
+            "sentence": 10,
+            "text": "Bürgermeister",
+            "word": 2
+        },
+        {
+            "charBegin": 1006,
+            "charEnd": 1009,
+            "id": 171,
+            "sentence": 10,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 1010,
+            "charEnd": 1018,
+            "id": 172,
+            "sentence": 10,
+            "text": "Freising",
+            "word": 4
+        },
+        {
+            "charBegin": 1019,
+            "charEnd": 1023,
+            "id": 173,
+            "sentence": 10,
+            "text": "Herr",
+            "word": 5
+        },
+        {
+            "charBegin": 1024,
+            "charEnd": 1030,
+            "id": 174,
+            "sentence": 10,
+            "text": "Dieter",
+            "word": 6
+        },
+        {
+            "charBegin": 1031,
+            "charEnd": 1041,
+            "id": 175,
+            "sentence": 10,
+            "text": "Thalhammer",
+            "word": 7
+        },
+        {
+            "charBegin": 1042,
+            "charEnd": 1050,
+            "id": 176,
+            "sentence": 10,
+            "text": "begrüßte",
+            "word": 8
+        },
+        {
+            "charBegin": 1051,
+            "charEnd": 1054,
+            "id": 177,
+            "sentence": 10,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 1055,
+            "charEnd": 1061,
+            "id": 178,
+            "sentence": 10,
+            "text": "Fahrer",
+            "word": 10
+        },
+        {
+            "charBegin": 1062,
+            "charEnd": 1065,
+            "id": 179,
+            "sentence": 10,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 1066,
+            "charEnd": 1074,
+            "id": 180,
+            "sentence": 10,
+            "text": "Besucher",
+            "word": 12
+        },
+        {
+            "charBegin": 1075,
+            "charEnd": 1078,
+            "id": 181,
+            "sentence": 10,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 1079,
+            "charEnd": 1084,
+            "id": 182,
+            "sentence": 10,
+            "text": "lobte",
+            "word": 14
+        },
+        {
+            "charBegin": 1085,
+            "charEnd": 1088,
+            "id": 183,
+            "sentence": 10,
+            "text": "das",
+            "word": 15
+        },
+        {
+            "charBegin": 1089,
+            "charEnd": 1099,
+            "id": 184,
+            "sentence": 10,
+            "text": "Engagement",
+            "word": 16
+        },
+        {
+            "charBegin": 1100,
+            "charEnd": 1103,
+            "id": 185,
+            "sentence": 10,
+            "text": "des",
+            "word": 17
+        },
+        {
+            "charBegin": 1104,
+            "charEnd": 1107,
+            "id": 186,
+            "sentence": 10,
+            "text": "MSC",
+            "word": 18
+        },
+        {
+            "charBegin": 1108,
+            "charEnd": 1116,
+            "id": 187,
+            "sentence": 10,
+            "text": "Freising",
+            "word": 19
+        },
+        {
+            "charBegin": 1116,
+            "charEnd": 1117,
+            "id": 188,
+            "sentence": 10,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 1118,
+            "charEnd": 1121,
+            "id": 189,
+            "sentence": 10,
+            "text": "der",
+            "word": 21
+        },
+        {
+            "charBegin": 1122,
+            "charEnd": 1125,
+            "id": 190,
+            "sentence": 10,
+            "text": "die",
+            "word": 22
+        },
+        {
+            "charBegin": 1126,
+            "charEnd": 1133,
+            "id": 191,
+            "sentence": 10,
+            "text": "Strecke",
+            "word": 23
+        },
+        {
+            "charBegin": 1133,
+            "charEnd": 1134,
+            "id": 192,
+            "sentence": 10,
+            "text": ",",
+            "word": 24
+        },
+        {
+            "charBegin": 1135,
+            "charEnd": 1138,
+            "id": 193,
+            "sentence": 10,
+            "text": "den",
+            "word": 25
+        },
+        {
+            "charBegin": 1139,
+            "charEnd": 1155,
+            "id": 194,
+            "sentence": 10,
+            "text": "Zuschauerbereich",
+            "word": 26
+        },
+        {
+            "charBegin": 1156,
+            "charEnd": 1159,
+            "id": 195,
+            "sentence": 10,
+            "text": "und",
+            "word": 27
+        },
+        {
+            "charBegin": 1160,
+            "charEnd": 1163,
+            "id": 196,
+            "sentence": 10,
+            "text": "das",
+            "word": 28
+        },
+        {
+            "charBegin": 1164,
+            "charEnd": 1175,
+            "id": 197,
+            "sentence": 10,
+            "text": "Fahrerlager",
+            "word": 29
+        },
+        {
+            "charBegin": 1176,
+            "charEnd": 1180,
+            "id": 198,
+            "sentence": 10,
+            "text": "noch",
+            "word": 30
+        },
+        {
+            "charBegin": 1181,
+            "charEnd": 1192,
+            "id": 199,
+            "sentence": 10,
+            "text": "attraktiver",
+            "word": 31
+        },
+        {
+            "charBegin": 1193,
+            "charEnd": 1196,
+            "id": 200,
+            "sentence": 10,
+            "text": "als",
+            "word": 32
+        },
+        {
+            "charBegin": 1197,
+            "charEnd": 1201,
+            "id": 201,
+            "sentence": 10,
+            "text": "2010",
+            "word": 33
+        },
+        {
+            "charBegin": 1202,
+            "charEnd": 1211,
+            "id": 202,
+            "sentence": 10,
+            "text": "gestaltet",
+            "word": 34
+        },
+        {
+            "charBegin": 1212,
+            "charEnd": 1217,
+            "id": 203,
+            "sentence": 10,
+            "text": "hatte",
+            "word": 35
+        },
+        {
+            "charBegin": 1217,
+            "charEnd": 1218,
+            "id": 204,
+            "sentence": 10,
+            "text": ".",
+            "word": 36
+        },
+        {
+            "charBegin": 1219,
+            "charEnd": 1222,
+            "id": 205,
+            "sentence": 11,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1223,
+            "charEnd": 1228,
+            "id": 206,
+            "sentence": 11,
+            "text": "Biker",
+            "word": 2
+        },
+        {
+            "charBegin": 1229,
+            "charEnd": 1234,
+            "id": 207,
+            "sentence": 11,
+            "text": "waren",
+            "word": 3
+        },
+        {
+            "charBegin": 1235,
+            "charEnd": 1241,
+            "id": 208,
+            "sentence": 11,
+            "text": "sicher",
+            "word": 4
+        },
+        {
+            "charBegin": 1242,
+            "charEnd": 1246,
+            "id": 209,
+            "sentence": 11,
+            "text": "auch",
+            "word": 5
+        },
+        {
+            "charBegin": 1247,
+            "charEnd": 1250,
+            "id": 210,
+            "sentence": 11,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 1251,
+            "charEnd": 1254,
+            "id": 211,
+            "sentence": 11,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 1255,
+            "charEnd": 1259,
+            "id": 212,
+            "sentence": 11,
+            "text": "ADAC",
+            "word": 8
+        },
+        {
+            "charBegin": 1260,
+            "charEnd": 1265,
+            "id": 213,
+            "sentence": 11,
+            "text": "Girls",
+            "word": 9
+        },
+        {
+            "charBegin": 1266,
+            "charEnd": 1276,
+            "id": 214,
+            "sentence": 11,
+            "text": "begeistert",
+            "word": 10
+        },
+        {
+            "charBegin": 1276,
+            "charEnd": 1277,
+            "id": 215,
+            "sentence": 11,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1278,
+            "charEnd": 1281,
+            "id": 216,
+            "sentence": 11,
+            "text": "von",
+            "word": 12
+        },
+        {
+            "charBegin": 1282,
+            "charEnd": 1287,
+            "id": 217,
+            "sentence": 11,
+            "text": "ihnen",
+            "word": 13
+        },
+        {
+            "charBegin": 1288,
+            "charEnd": 1294,
+            "id": 218,
+            "sentence": 11,
+            "text": "wurden",
+            "word": 14
+        },
+        {
+            "charBegin": 1295,
+            "charEnd": 1298,
+            "id": 219,
+            "sentence": 11,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 1299,
+            "charEnd": 1305,
+            "id": 220,
+            "sentence": 11,
+            "text": "Runden",
+            "word": 16
+        },
+        {
+            "charBegin": 1306,
+            "charEnd": 1315,
+            "id": 221,
+            "sentence": 11,
+            "text": "angezeigt",
+            "word": 17
+        },
+        {
+            "charBegin": 1315,
+            "charEnd": 1316,
+            "id": 222,
+            "sentence": 11,
+            "text": ",",
+            "word": 18
+        },
+        {
+            "charBegin": 1317,
+            "charEnd": 1321,
+            "id": 223,
+            "sentence": 11,
+            "text": "auch",
+            "word": 19
+        },
+        {
+            "charBegin": 1322,
+            "charEnd": 1325,
+            "id": 224,
+            "sentence": 11,
+            "text": "bei",
+            "word": 20
+        },
+        {
+            "charBegin": 1326,
+            "charEnd": 1329,
+            "id": 225,
+            "sentence": 11,
+            "text": "den",
+            "word": 21
+        },
+        {
+            "charBegin": 1330,
+            "charEnd": 1344,
+            "id": 226,
+            "sentence": 11,
+            "text": "Siegesehrungen",
+            "word": 22
+        },
+        {
+            "charBegin": 1345,
+            "charEnd": 1350,
+            "id": 227,
+            "sentence": 11,
+            "text": "gaben",
+            "word": 23
+        },
+        {
+            "charBegin": 1351,
+            "charEnd": 1354,
+            "id": 228,
+            "sentence": 11,
+            "text": "sie",
+            "word": 24
+        },
+        {
+            "charBegin": 1355,
+            "charEnd": 1360,
+            "id": 229,
+            "sentence": 11,
+            "text": "neben",
+            "word": 25
+        },
+        {
+            "charBegin": 1361,
+            "charEnd": 1364,
+            "id": 230,
+            "sentence": 11,
+            "text": "den",
+            "word": 26
+        },
+        {
+            "charBegin": 1365,
+            "charEnd": 1371,
+            "id": 231,
+            "sentence": 11,
+            "text": "harten",
+            "word": 27
+        },
+        {
+            "charBegin": 1372,
+            "charEnd": 1380,
+            "id": 232,
+            "sentence": 11,
+            "text": "Burschen",
+            "word": 28
+        },
+        {
+            "charBegin": 1381,
+            "charEnd": 1384,
+            "id": 233,
+            "sentence": 11,
+            "text": "ein",
+            "word": 29
+        },
+        {
+            "charBegin": 1385,
+            "charEnd": 1393,
+            "id": 234,
+            "sentence": 11,
+            "text": "hübsches",
+            "word": 30
+        },
+        {
+            "charBegin": 1394,
+            "charEnd": 1398,
+            "id": 235,
+            "sentence": 11,
+            "text": "Bild",
+            "word": 31
+        },
+        {
+            "charBegin": 1399,
+            "charEnd": 1401,
+            "id": 236,
+            "sentence": 11,
+            "text": "ab",
+            "word": 32
+        },
+        {
+            "charBegin": 1401,
+            "charEnd": 1402,
+            "id": 237,
+            "sentence": 11,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 1403,
+            "charEnd": 1406,
+            "id": 238,
+            "sentence": 12,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1407,
+            "charEnd": 1416,
+            "id": 239,
+            "sentence": 12,
+            "text": "Zuschauer",
+            "word": 2
+        },
+        {
+            "charBegin": 1417,
+            "charEnd": 1424,
+            "id": 240,
+            "sentence": 12,
+            "text": "konnten",
+            "word": 3
+        },
+        {
+            "charBegin": 1425,
+            "charEnd": 1428,
+            "id": 241,
+            "sentence": 12,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 1429,
+            "charEnd": 1435,
+            "id": 242,
+            "sentence": 12,
+            "text": "Rennen",
+            "word": 5
+        },
+        {
+            "charBegin": 1436,
+            "charEnd": 1443,
+            "id": 243,
+            "sentence": 12,
+            "text": "hautnah",
+            "word": 6
+        },
+        {
+            "charBegin": 1444,
+            "charEnd": 1451,
+            "id": 244,
+            "sentence": 12,
+            "text": "erleben",
+            "word": 7
+        },
+        {
+            "charBegin": 1451,
+            "charEnd": 1452,
+            "id": 245,
+            "sentence": 12,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 1453,
+            "charEnd": 1455,
+            "id": 246,
+            "sentence": 13,
+            "text": "An",
+            "word": 1
+        },
+        {
+            "charBegin": 1456,
+            "charEnd": 1463,
+            "id": 247,
+            "sentence": 13,
+            "text": "manchen",
+            "word": 2
+        },
+        {
+            "charBegin": 1464,
+            "charEnd": 1471,
+            "id": 248,
+            "sentence": 13,
+            "text": "Stellen",
+            "word": 3
+        },
+        {
+            "charBegin": 1472,
+            "charEnd": 1478,
+            "id": 249,
+            "sentence": 13,
+            "text": "flogen",
+            "word": 4
+        },
+        {
+            "charBegin": 1479,
+            "charEnd": 1484,
+            "id": 250,
+            "sentence": 13,
+            "text": "ihnen",
+            "word": 5
+        },
+        {
+            "charBegin": 1485,
+            "charEnd": 1498,
+            "id": 251,
+            "sentence": 13,
+            "text": "aufgewirbelte",
+            "word": 6
+        },
+        {
+            "charBegin": 1499,
+            "charEnd": 1509,
+            "id": 252,
+            "sentence": 13,
+            "text": "Erdklumpen",
+            "word": 7
+        },
+        {
+            "charBegin": 1510,
+            "charEnd": 1518,
+            "id": 253,
+            "sentence": 13,
+            "text": "entgegen",
+            "word": 8
+        },
+        {
+            "charBegin": 1518,
+            "charEnd": 1519,
+            "id": 254,
+            "sentence": 13,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 1520,
+            "charEnd": 1522,
+            "id": 255,
+            "sentence": 14,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 1523,
+            "charEnd": 1534,
+            "id": 256,
+            "sentence": 14,
+            "text": "Fahrerlager",
+            "word": 2
+        },
+        {
+            "charBegin": 1535,
+            "charEnd": 1540,
+            "id": 257,
+            "sentence": 14,
+            "text": "hatte",
+            "word": 3
+        },
+        {
+            "charBegin": 1541,
+            "charEnd": 1544,
+            "id": 258,
+            "sentence": 14,
+            "text": "man",
+            "word": 4
+        },
+        {
+            "charBegin": 1545,
+            "charEnd": 1556,
+            "id": 259,
+            "sentence": 14,
+            "text": "Gelegenheit",
+            "word": 5
+        },
+        {
+            "charBegin": 1557,
+            "charEnd": 1560,
+            "id": 260,
+            "sentence": 14,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 1561,
+            "charEnd": 1571,
+            "id": 261,
+            "sentence": 14,
+            "text": "Mechaniker",
+            "word": 7
+        },
+        {
+            "charBegin": 1572,
+            "charEnd": 1576,
+            "id": 262,
+            "sentence": 14,
+            "text": "beim",
+            "word": 8
+        },
+        {
+            "charBegin": 1577,
+            "charEnd": 1587,
+            "id": 263,
+            "sentence": 14,
+            "text": "Herrichten",
+            "word": 9
+        },
+        {
+            "charBegin": 1588,
+            "charEnd": 1591,
+            "id": 264,
+            "sentence": 14,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 1592,
+            "charEnd": 1610,
+            "id": 265,
+            "sentence": 14,
+            "text": "Motocrossmaschinen",
+            "word": 11
+        },
+        {
+            "charBegin": 1611,
+            "charEnd": 1613,
+            "id": 266,
+            "sentence": 14,
+            "text": "zu",
+            "word": 12
+        },
+        {
+            "charBegin": 1614,
+            "charEnd": 1624,
+            "id": 267,
+            "sentence": 14,
+            "text": "beobachten",
+            "word": 13
+        },
+        {
+            "charBegin": 1624,
+            "charEnd": 1625,
+            "id": 268,
+            "sentence": 14,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 1626,
+            "charEnd": 1628,
+            "id": 269,
+            "sentence": 14,
+            "text": "so",
+            "word": 15
+        },
+        {
+            "charBegin": 1629,
+            "charEnd": 1636,
+            "id": 270,
+            "sentence": 14,
+            "text": "mancher",
+            "word": 16
+        },
+        {
+            "charBegin": 1637,
+            "charEnd": 1643,
+            "id": 271,
+            "sentence": 14,
+            "text": "Reifen",
+            "word": 17
+        },
+        {
+            "charBegin": 1644,
+            "charEnd": 1649,
+            "id": 272,
+            "sentence": 14,
+            "text": "wurde",
+            "word": 18
+        },
+        {
+            "charBegin": 1650,
+            "charEnd": 1660,
+            "id": 273,
+            "sentence": 14,
+            "text": "gewechselt",
+            "word": 19
+        },
+        {
+            "charBegin": 1660,
+            "charEnd": 1661,
+            "id": 274,
+            "sentence": 14,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 1662,
+            "charEnd": 1664,
+            "id": 275,
+            "sentence": 14,
+            "text": "da",
+            "word": 21
+        },
+        {
+            "charBegin": 1665,
+            "charEnd": 1667,
+            "id": 276,
+            "sentence": 14,
+            "text": "er",
+            "word": 22
+        },
+        {
+            "charBegin": 1668,
+            "charEnd": 1671,
+            "id": 277,
+            "sentence": 14,
+            "text": "der",
+            "word": 23
+        },
+        {
+            "charBegin": 1672,
+            "charEnd": 1685,
+            "id": 278,
+            "sentence": 14,
+            "text": "Beanspruchung",
+            "word": 24
+        },
+        {
+            "charBegin": 1686,
+            "charEnd": 1691,
+            "id": 279,
+            "sentence": 14,
+            "text": "nicht",
+            "word": 25
+        },
+        {
+            "charBegin": 1692,
+            "charEnd": 1705,
+            "id": 280,
+            "sentence": 14,
+            "text": "standgehalten",
+            "word": 26
+        },
+        {
+            "charBegin": 1706,
+            "charEnd": 1711,
+            "id": 281,
+            "sentence": 14,
+            "text": "hatte",
+            "word": 27
+        },
+        {
+            "charBegin": 1711,
+            "charEnd": 1712,
+            "id": 282,
+            "sentence": 14,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 1713,
+            "charEnd": 1717,
+            "id": 283,
+            "sentence": 15,
+            "text": "Hier",
+            "word": 1
+        },
+        {
+            "charBegin": 1718,
+            "charEnd": 1723,
+            "id": 284,
+            "sentence": 15,
+            "text": "hörte",
+            "word": 2
+        },
+        {
+            "charBegin": 1724,
+            "charEnd": 1727,
+            "id": 285,
+            "sentence": 15,
+            "text": "man",
+            "word": 3
+        },
+        {
+            "charBegin": 1728,
+            "charEnd": 1732,
+            "id": 286,
+            "sentence": 15,
+            "text": "auch",
+            "word": 4
+        },
+        {
+            "charBegin": 1733,
+            "charEnd": 1745,
+            "id": 287,
+            "sentence": 15,
+            "text": "Diskussionen",
+            "word": 5
+        },
+        {
+            "charBegin": 1746,
+            "charEnd": 1754,
+            "id": 288,
+            "sentence": 15,
+            "text": "zwischen",
+            "word": 6
+        },
+        {
+            "charBegin": 1755,
+            "charEnd": 1758,
+            "id": 289,
+            "sentence": 15,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 1759,
+            "charEnd": 1766,
+            "id": 290,
+            "sentence": 15,
+            "text": "Fahrern",
+            "word": 8
+        },
+        {
+            "charBegin": 1766,
+            "charEnd": 1767,
+            "id": 291,
+            "sentence": 15,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 1768,
+            "charEnd": 1773,
+            "id": 292,
+            "sentence": 15,
+            "text": "warum",
+            "word": 10
+        },
+        {
+            "charBegin": 1774,
+            "charEnd": 1778,
+            "id": 293,
+            "sentence": 15,
+            "text": "eine",
+            "word": 11
+        },
+        {
+            "charBegin": 1779,
+            "charEnd": 1785,
+            "id": 294,
+            "sentence": 15,
+            "text": "Taktik",
+            "word": 12
+        },
+        {
+            "charBegin": 1786,
+            "charEnd": 1791,
+            "id": 295,
+            "sentence": 15,
+            "text": "nicht",
+            "word": 13
+        },
+        {
+            "charBegin": 1792,
+            "charEnd": 1805,
+            "id": 296,
+            "sentence": 15,
+            "text": "aufgegangenen",
+            "word": 14
+        },
+        {
+            "charBegin": 1806,
+            "charEnd": 1809,
+            "id": 297,
+            "sentence": 15,
+            "text": "war",
+            "word": 15
+        },
+        {
+            "charBegin": 1810,
+            "charEnd": 1814,
+            "id": 298,
+            "sentence": 15,
+            "text": "oder",
+            "word": 16
+        },
+        {
+            "charBegin": 1815,
+            "charEnd": 1819,
+            "id": 299,
+            "sentence": 15,
+            "text": "eine",
+            "word": 17
+        },
+        {
+            "charBegin": 1820,
+            "charEnd": 1829,
+            "id": 300,
+            "sentence": 15,
+            "text": "Situation",
+            "word": 18
+        },
+        {
+            "charBegin": 1830,
+            "charEnd": 1832,
+            "id": 301,
+            "sentence": 15,
+            "text": "im",
+            "word": 19
+        },
+        {
+            "charBegin": 1833,
+            "charEnd": 1839,
+            "id": 302,
+            "sentence": 15,
+            "text": "Rennen",
+            "word": 20
+        },
+        {
+            "charBegin": 1840,
+            "charEnd": 1845,
+            "id": 303,
+            "sentence": 15,
+            "text": "wurde",
+            "word": 21
+        },
+        {
+            "charBegin": 1846,
+            "charEnd": 1856,
+            "id": 304,
+            "sentence": 15,
+            "text": "besprochen",
+            "word": 22
+        },
+        {
+            "charBegin": 1856,
+            "charEnd": 1857,
+            "id": 305,
+            "sentence": 15,
+            "text": ",",
+            "word": 23
+        },
+        {
+            "charBegin": 1858,
+            "charEnd": 1865,
+            "id": 306,
+            "sentence": 15,
+            "text": "zumeist",
+            "word": 24
+        },
+        {
+            "charBegin": 1866,
+            "charEnd": 1868,
+            "id": 307,
+            "sentence": 15,
+            "text": "in",
+            "word": 25
+        },
+        {
+            "charBegin": 1869,
+            "charEnd": 1879,
+            "id": 308,
+            "sentence": 15,
+            "text": "englischer",
+            "word": 26
+        },
+        {
+            "charBegin": 1880,
+            "charEnd": 1887,
+            "id": 309,
+            "sentence": 15,
+            "text": "Sprache",
+            "word": 27
+        },
+        {
+            "charBegin": 1887,
+            "charEnd": 1888,
+            "id": 310,
+            "sentence": 15,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 1889,
+            "charEnd": 1892,
+            "id": 311,
+            "sentence": 16,
+            "text": "Als",
+            "word": 1
+        },
+        {
+            "charBegin": 1893,
+            "charEnd": 1896,
+            "id": 312,
+            "sentence": 16,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 1897,
+            "charEnd": 1901,
+            "id": 313,
+            "sentence": 16,
+            "text": "drei",
+            "word": 3
+        },
+        {
+            "charBegin": 1902,
+            "charEnd": 1908,
+            "id": 314,
+            "sentence": 16,
+            "text": "ersten",
+            "word": 4
+        },
+        {
+            "charBegin": 1909,
+            "charEnd": 1911,
+            "id": 315,
+            "sentence": 16,
+            "text": "im",
+            "word": 5
+        },
+        {
+            "charBegin": 1912,
+            "charEnd": 1921,
+            "id": 316,
+            "sentence": 16,
+            "text": "Juniorcup",
+            "word": 6
+        },
+        {
+            "charBegin": 1922,
+            "charEnd": 1925,
+            "id": 317,
+            "sentence": 16,
+            "text": "bei",
+            "word": 7
+        },
+        {
+            "charBegin": 1926,
+            "charEnd": 1929,
+            "id": 318,
+            "sentence": 16,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 1930,
+            "charEnd": 1942,
+            "id": 319,
+            "sentence": 16,
+            "text": "Siegesehrung",
+            "word": 9
+        },
+        {
+            "charBegin": 1943,
+            "charEnd": 1948,
+            "id": 320,
+            "sentence": 16,
+            "text": "waren",
+            "word": 10
+        },
+        {
+            "charBegin": 1949,
+            "charEnd": 1955,
+            "id": 321,
+            "sentence": 16,
+            "text": "konnte",
+            "word": 11
+        },
+        {
+            "charBegin": 1956,
+            "charEnd": 1961,
+            "id": 322,
+            "sentence": 16,
+            "text": "ihnen",
+            "word": 12
+        },
+        {
+            "charBegin": 1962,
+            "charEnd": 1965,
+            "id": 323,
+            "sentence": 16,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 1966,
+            "charEnd": 1975,
+            "id": 324,
+            "sentence": 16,
+            "text": "Moderator",
+            "word": 14
+        },
+        {
+            "charBegin": 1976,
+            "charEnd": 1979,
+            "id": 325,
+            "sentence": 16,
+            "text": "nur",
+            "word": 15
+        },
+        {
+            "charBegin": 1980,
+            "charEnd": 1986,
+            "id": 326,
+            "sentence": 16,
+            "text": "wenige",
+            "word": 16
+        },
+        {
+            "charBegin": 1987,
+            "charEnd": 1992,
+            "id": 327,
+            "sentence": 16,
+            "text": "Worte",
+            "word": 17
+        },
+        {
+            "charBegin": 1993,
+            "charEnd": 2002,
+            "id": 328,
+            "sentence": 16,
+            "text": "entlocken",
+            "word": 18
+        },
+        {
+            "charBegin": 2002,
+            "charEnd": 2003,
+            "id": 329,
+            "sentence": 16,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 2004,
+            "charEnd": 2006,
+            "id": 330,
+            "sentence": 17,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 2007,
+            "charEnd": 2019,
+            "id": 331,
+            "sentence": 17,
+            "text": "kommentierte",
+            "word": 2
+        },
+        {
+            "charBegin": 2019,
+            "charEnd": 2020,
+            "id": 332,
+            "sentence": 17,
+            "text": ":",
+            "word": 3
+        },
+        {
+            "charBegin": 2021,
+            "charEnd": 2022,
+            "id": 333,
+            "sentence": 17,
+            "text": "„",
+            "word": 4
+        },
+        {
+            "charBegin": 2022,
+            "charEnd": 2025,
+            "id": 334,
+            "sentence": 17,
+            "text": "Nun",
+            "word": 5
+        },
+        {
+            "charBegin": 2026,
+            "charEnd": 2032,
+            "id": 335,
+            "sentence": 17,
+            "text": "fahren",
+            "word": 6
+        },
+        {
+            "charBegin": 2033,
+            "charEnd": 2038,
+            "id": 336,
+            "sentence": 17,
+            "text": "könnt",
+            "word": 7
+        },
+        {
+            "charBegin": 2039,
+            "charEnd": 2042,
+            "id": 337,
+            "sentence": 17,
+            "text": "ihr",
+            "word": 8
+        },
+        {
+            "charBegin": 2043,
+            "charEnd": 2045,
+            "id": 338,
+            "sentence": 17,
+            "text": "ja",
+            "word": 9
+        },
+        {
+            "charBegin": 2045,
+            "charEnd": 2046,
+            "id": 339,
+            "sentence": 17,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 2047,
+            "charEnd": 2050,
+            "id": 340,
+            "sentence": 17,
+            "text": "das",
+            "word": 11
+        },
+        {
+            "charBegin": 2051,
+            "charEnd": 2054,
+            "id": 341,
+            "sentence": 17,
+            "text": "ist",
+            "word": 12
+        },
+        {
+            "charBegin": 2055,
+            "charEnd": 2058,
+            "id": 342,
+            "sentence": 17,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 2059,
+            "charEnd": 2069,
+            "id": 343,
+            "sentence": 17,
+            "text": "Hauptsache",
+            "word": 14
+        },
+        {
+            "charBegin": 2069,
+            "charEnd": 2070,
+            "id": 344,
+            "sentence": 17,
+            "text": "“",
+            "word": 15
+        },
+        {
+            "charBegin": 2070,
+            "charEnd": 2071,
+            "id": 345,
+            "sentence": 17,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 2075,
+            "charEnd": 2081,
+            "id": 346,
+            "sentence": 17,
+            "text": "Sieger",
+            "word": 17
+        },
+        {
+            "charBegin": 2082,
+            "charEnd": 2085,
+            "id": 347,
+            "sentence": 17,
+            "text": "bei",
+            "word": 18
+        },
+        {
+            "charBegin": 2086,
+            "charEnd": 2089,
+            "id": 348,
+            "sentence": 17,
+            "text": "den",
+            "word": 19
+        },
+        {
+            "charBegin": 2090,
+            "charEnd": 2097,
+            "id": 349,
+            "sentence": 17,
+            "text": "Masters",
+            "word": 20
+        },
+        {
+            "charBegin": 2098,
+            "charEnd": 2103,
+            "id": 350,
+            "sentence": 17,
+            "text": "wurde",
+            "word": 21
+        },
+        {
+            "charBegin": 2104,
+            "charEnd": 2113,
+            "id": 351,
+            "sentence": 17,
+            "text": "Soubeyras",
+            "word": 22
+        },
+        {
+            "charBegin": 2113,
+            "charEnd": 2114,
+            "id": 352,
+            "sentence": 17,
+            "text": ",",
+            "word": 23
+        },
+        {
+            "charBegin": 2115,
+            "charEnd": 2121,
+            "id": 353,
+            "sentence": 17,
+            "text": "Cedric",
+            "word": 24
+        },
+        {
+            "charBegin": 2121,
+            "charEnd": 2122,
+            "id": 354,
+            "sentence": 17,
+            "text": ",",
+            "word": 25
+        },
+        {
+            "charBegin": 2123,
+            "charEnd": 2125,
+            "id": 355,
+            "sentence": 17,
+            "text": "2.",
+            "word": 26
+        },
+        {
+            "charBegin": 2126,
+            "charEnd": 2134,
+            "id": 356,
+            "sentence": 17,
+            "text": "Schiffer",
+            "word": 27
+        },
+        {
+            "charBegin": 2134,
+            "charEnd": 2135,
+            "id": 357,
+            "sentence": 17,
+            "text": ",",
+            "word": 28
+        },
+        {
+            "charBegin": 2136,
+            "charEnd": 2142,
+            "id": 358,
+            "sentence": 17,
+            "text": "Marcus",
+            "word": 29
+        },
+        {
+            "charBegin": 2143,
+            "charEnd": 2146,
+            "id": 359,
+            "sentence": 17,
+            "text": "und",
+            "word": 30
+        },
+        {
+            "charBegin": 2147,
+            "charEnd": 2149,
+            "id": 360,
+            "sentence": 17,
+            "text": "3.",
+            "word": 31
+        },
+        {
+            "charBegin": 2150,
+            "charEnd": 2161,
+            "id": 361,
+            "sentence": 17,
+            "text": "Schmidinger",
+            "word": 32
+        },
+        {
+            "charBegin": 2161,
+            "charEnd": 2162,
+            "id": 362,
+            "sentence": 17,
+            "text": ",",
+            "word": 33
+        },
+        {
+            "charBegin": 2163,
+            "charEnd": 2169,
+            "id": 363,
+            "sentence": 17,
+            "text": "Günter",
+            "word": 34
+        },
+        {
+            "charBegin": 2169,
+            "charEnd": 2170,
+            "id": 364,
+            "sentence": 17,
+            "text": ".",
+            "word": 35
+        },
+        {
+            "charBegin": 2171,
+            "charEnd": 2173,
+            "id": 365,
+            "sentence": 17,
+            "text": "im",
+            "word": 36
+        },
+        {
+            "charBegin": 2174,
+            "charEnd": 2180,
+            "id": 366,
+            "sentence": 17,
+            "text": "Junior",
+            "word": 37
+        },
+        {
+            "charBegin": 2181,
+            "charEnd": 2184,
+            "id": 367,
+            "sentence": 17,
+            "text": "Cup",
+            "word": 38
+        },
+        {
+            "charBegin": 2185,
+            "charEnd": 2187,
+            "id": 368,
+            "sentence": 17,
+            "text": "1.",
+            "word": 39
+        },
+        {
+            "charBegin": 2188,
+            "charEnd": 2194,
+            "id": 369,
+            "sentence": 17,
+            "text": "Jonass",
+            "word": 40
+        },
+        {
+            "charBegin": 2194,
+            "charEnd": 2195,
+            "id": 370,
+            "sentence": 17,
+            "text": ",",
+            "word": 41
+        },
+        {
+            "charBegin": 2196,
+            "charEnd": 2201,
+            "id": 371,
+            "sentence": 17,
+            "text": "Pauls",
+            "word": 42
+        },
+        {
+            "charBegin": 2201,
+            "charEnd": 2202,
+            "id": 372,
+            "sentence": 17,
+            "text": ",",
+            "word": 43
+        },
+        {
+            "charBegin": 2203,
+            "charEnd": 2205,
+            "id": 373,
+            "sentence": 17,
+            "text": "2.",
+            "word": 44
+        },
+        {
+            "charBegin": 2206,
+            "charEnd": 2209,
+            "id": 374,
+            "sentence": 17,
+            "text": "van",
+            "word": 45
+        },
+        {
+            "charBegin": 2210,
+            "charEnd": 2217,
+            "id": 375,
+            "sentence": 17,
+            "text": "Nobelen",
+            "word": 46
+        },
+        {
+            "charBegin": 2217,
+            "charEnd": 2218,
+            "id": 376,
+            "sentence": 17,
+            "text": ",",
+            "word": 47
+        },
+        {
+            "charBegin": 2219,
+            "charEnd": 2224,
+            "id": 377,
+            "sentence": 17,
+            "text": "Jordi",
+            "word": 48
+        },
+        {
+            "charBegin": 2225,
+            "charEnd": 2228,
+            "id": 378,
+            "sentence": 17,
+            "text": "und",
+            "word": 49
+        },
+        {
+            "charBegin": 2229,
+            "charEnd": 2231,
+            "id": 379,
+            "sentence": 17,
+            "text": "3.",
+            "word": 50
+        },
+        {
+            "charBegin": 2232,
+            "charEnd": 2238,
+            "id": 380,
+            "sentence": 17,
+            "text": "Kutsar",
+            "word": 51
+        },
+        {
+            "charBegin": 2238,
+            "charEnd": 2239,
+            "id": 381,
+            "sentence": 17,
+            "text": ",",
+            "word": 52
+        },
+        {
+            "charBegin": 2240,
+            "charEnd": 2245,
+            "id": 382,
+            "sentence": 17,
+            "text": "Karel",
+            "word": 53
+        },
+        {
+            "charBegin": 2245,
+            "charEnd": 2246,
+            "id": 383,
+            "sentence": 17,
+            "text": ".",
+            "word": 54
+        },
+        {
+            "charBegin": 2247,
+            "charEnd": 2249,
+            "id": 384,
+            "sentence": 18,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 2250,
+            "charEnd": 2259,
+            "id": 385,
+            "sentence": 18,
+            "text": "Youngster",
+            "word": 2
+        },
+        {
+            "charBegin": 2260,
+            "charEnd": 2263,
+            "id": 386,
+            "sentence": 18,
+            "text": "Cup",
+            "word": 3
+        },
+        {
+            "charBegin": 2264,
+            "charEnd": 2266,
+            "id": 387,
+            "sentence": 18,
+            "text": "1.",
+            "word": 4
+        },
+        {
+            "charBegin": 2267,
+            "charEnd": 2272,
+            "id": 388,
+            "sentence": 18,
+            "text": "Olsen",
+            "word": 5
+        },
+        {
+            "charBegin": 2272,
+            "charEnd": 2273,
+            "id": 389,
+            "sentence": 18,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 2274,
+            "charEnd": 2280,
+            "id": 390,
+            "sentence": 18,
+            "text": "Stefan",
+            "word": 7
+        },
+        {
+            "charBegin": 2280,
+            "charEnd": 2281,
+            "id": 391,
+            "sentence": 18,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 2282,
+            "charEnd": 2293,
+            "id": 392,
+            "sentence": 18,
+            "text": "2.Jorgensen",
+            "word": 9
+        },
+        {
+            "charBegin": 2293,
+            "charEnd": 2294,
+            "id": 393,
+            "sentence": 18,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 2295,
+            "charEnd": 2301,
+            "id": 394,
+            "sentence": 18,
+            "text": "Rasmus",
+            "word": 11
+        },
+        {
+            "charBegin": 2302,
+            "charEnd": 2305,
+            "id": 395,
+            "sentence": 18,
+            "text": "und",
+            "word": 12
+        },
+        {
+            "charBegin": 2306,
+            "charEnd": 2308,
+            "id": 396,
+            "sentence": 18,
+            "text": "3.",
+            "word": 13
+        },
+        {
+            "charBegin": 2309,
+            "charEnd": 2317,
+            "id": 397,
+            "sentence": 18,
+            "text": "Maillard",
+            "word": 14
+        },
+        {
+            "charBegin": 2317,
+            "charEnd": 2318,
+            "id": 398,
+            "sentence": 18,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 2319,
+            "charEnd": 2324,
+            "id": 399,
+            "sentence": 18,
+            "text": "Boris",
+            "word": 16
+        },
+        {
+            "charBegin": 2324,
+            "charEnd": 2325,
+            "id": 400,
+            "sentence": 18,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 2327,
+            "charEnd": 2333,
+            "id": 401,
+            "sentence": 19,
+            "text": "Bilder",
+            "word": 1
+        },
+        {
+            "charBegin": 2334,
+            "charEnd": 2337,
+            "id": 402,
+            "sentence": 19,
+            "text": "vom",
+            "word": 2
+        },
+        {
+            "charBegin": 2338,
+            "charEnd": 2347,
+            "id": 403,
+            "sentence": 19,
+            "text": "Freestyle",
+            "word": 3
+        },
+        {
+            "charBegin": 2347,
+            "charEnd": 2348,
+            "id": 404,
+            "sentence": 19,
+            "text": ":",
+            "word": 4
+        }
+    ]
+}

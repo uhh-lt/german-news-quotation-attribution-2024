@@ -1,0 +1,2306 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 57,
+                        "charBegin": 336,
+                        "charEnd": 350,
+                        "end": 60
+                    }
+                ],
+                "text": "geht davon aus",
+                "tokenIds": [
+                    57,
+                    58,
+                    59
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 49,
+                        "charBegin": 296,
+                        "charEnd": 351,
+                        "end": 61
+                    }
+                ],
+                "text": "Das „National Hurricane Centre“ der USA geht davon aus,",
+                "tokenIds": [
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 61,
+                        "charBegin": 352,
+                        "charEnd": 389,
+                        "end": 67
+                    }
+                ],
+                "text": "dass er Kategorie fünf erreichen wird",
+                "tokenIds": [
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 49,
+                        "charBegin": 296,
+                        "charEnd": 335,
+                        "end": 57
+                    }
+                ],
+                "text": "Das „National Hurricane Centre“ der USA",
+                "tokenIds": [
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 149,
+                        "charBegin": 894,
+                        "charEnd": 1052,
+                        "end": 175
+                    }
+                ],
+                "text": "Der Bürgermeister von New Orleans forderte alle Bewohner seiner Stadt, welche in dieser Woche bereits in ihre Häuser zurückkehrten, zu sofortigem Rückzug auf.",
+                "tokenIds": [
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    162,
+                    163,
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    169,
+                    170,
+                    171,
+                    172,
+                    173,
+                    174
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 149,
+                        "charBegin": 894,
+                        "charEnd": 927,
+                        "end": 154
+                    }
+                ],
+                "text": "Der Bürgermeister von New Orleans",
+                "tokenIds": [
+                    149,
+                    150,
+                    151,
+                    152,
+                    153
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": true,
+            "id": 2,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 175,
+                        "charBegin": 1053,
+                        "charEnd": 1101,
+                        "end": 188
+                    }
+                ],
+                "text": "Kämen sie dem nicht nach, so „schütze sie Gott“.",
+                "tokenIds": [
+                    175,
+                    176,
+                    177,
+                    178,
+                    179,
+                    180,
+                    181,
+                    182,
+                    183,
+                    184,
+                    185,
+                    186,
+                    187
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 149,
+                        "charBegin": 894,
+                        "charEnd": 927,
+                        "end": 154
+                    }
+                ],
+                "text": "Der Bürgermeister von New Orleans",
+                "tokenIds": [
+                    149,
+                    150,
+                    151,
+                    152,
+                    153
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 182,
+                        "charBegin": 1082,
+                        "charEnd": 1100,
+                        "end": 187
+                    }
+                ],
+                "text": "„schütze sie Gott“",
+                "tokenIds": [
+                    182,
+                    183,
+                    184,
+                    185,
+                    186
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 149,
+                        "charBegin": 894,
+                        "charEnd": 927,
+                        "end": 154
+                    }
+                ],
+                "text": "Der Bürgermeister von New Orleans",
+                "tokenIds": [
+                    149,
+                    150,
+                    151,
+                    152,
+                    153
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "12706 - Tropensturm Rita hat sich zum Hurrikan gewandelt (2005-09-21)",
+    "originalText": "Der Tropensturm Rita hat sich in den letzten Stunden wie erwartet zu einem Hurrikan entwickelt. Bereits gestern hatte Rita Kurs auf Texas genommen und in den Südstaaten der USA Furcht vor einer neuen Naturkatastrophe wie in New Orleans ausgelöst, jetzt hat er die Hurrikan-Stärke zwei erreicht.\n\nDas „National Hurricane Centre“ der USA geht davon aus, dass er Kategorie fünf erreichen wird. Momentan befindet er sich noch mit einer Geschwindigkeit von 210 Kilometer pro Stunde über dem Atlantik in der Nähe der Küstenregion von den Bahamas, Süd-Florida und Kuba. Es ist bereits der siebzehnte benannte Hurrican in diesem Jahr.\n\nDer Gouverneur Rick Perry aus Texas rief vor einigen Stunden den Notstand aus. Erstmals in der Geschichte der Küstenstadt Galveston ordneten die Behörden die Zwangsevakuierung von fast 60.000 Bewohnern an. Zuvor hatten schon Tausende die Stadt freiwillig verlassen. Der Bürgermeister von New Orleans forderte alle Bewohner seiner Stadt, welche in dieser Woche bereits in ihre Häuser zurückkehrten, zu sofortigem Rückzug auf. Kämen sie dem nicht nach, so „schütze sie Gott“.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 95,
+            "end": 16,
+            "id": 0,
+            "text": "Der Tropensturm Rita hat sich in den letzten Stunden wie erwartet zu einem Hurrikan entwickelt. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "tokens": [
+                "Der",
+                "Tropensturm",
+                "Rita",
+                "hat",
+                "sich",
+                "in",
+                "den",
+                "letzten",
+                "Stunden",
+                "wie",
+                "erwartet",
+                "zu",
+                "einem",
+                "Hurrikan",
+                "entwickelt",
+                "."
+            ]
+        },
+        {
+            "begin": 16,
+            "charBegin": 96,
+            "charEnd": 294,
+            "end": 49,
+            "id": 1,
+            "text": "Bereits gestern hatte Rita Kurs auf Texas genommen und in den Südstaaten der USA Furcht vor einer neuen Naturkatastrophe wie in New Orleans ausgelöst, jetzt hat er die Hurrikan-Stärke zwei erreicht.",
+            "tokenIds": [
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48
+            ],
+            "tokens": [
+                "Bereits",
+                "gestern",
+                "hatte",
+                "Rita",
+                "Kurs",
+                "auf",
+                "Texas",
+                "genommen",
+                "und",
+                "in",
+                "den",
+                "Südstaaten",
+                "der",
+                "USA",
+                "Furcht",
+                "vor",
+                "einer",
+                "neuen",
+                "Naturkatastrophe",
+                "wie",
+                "in",
+                "New",
+                "Orleans",
+                "ausgelöst",
+                ",",
+                "jetzt",
+                "hat",
+                "er",
+                "die",
+                "Hurrikan-Stärke",
+                "zwei",
+                "erreicht",
+                "."
+            ]
+        },
+        {
+            "begin": 49,
+            "charBegin": 296,
+            "charEnd": 390,
+            "end": 68,
+            "id": 2,
+            "text": "Das „National Hurricane Centre“ der USA geht davon aus, dass er Kategorie fünf erreichen wird. ",
+            "tokenIds": [
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67
+            ],
+            "tokens": [
+                "Das",
+                "„",
+                "National",
+                "Hurricane",
+                "Centre",
+                "“",
+                "der",
+                "USA",
+                "geht",
+                "davon",
+                "aus",
+                ",",
+                "dass",
+                "er",
+                "Kategorie",
+                "fünf",
+                "erreichen",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "begin": 68,
+            "charBegin": 391,
+            "charEnd": 562,
+            "end": 97,
+            "id": 3,
+            "text": "Momentan befindet er sich noch mit einer Geschwindigkeit von 210 Kilometer pro Stunde über dem Atlantik in der Nähe der Küstenregion von den Bahamas, Süd-Florida und Kuba. ",
+            "tokenIds": [
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96
+            ],
+            "tokens": [
+                "Momentan",
+                "befindet",
+                "er",
+                "sich",
+                "noch",
+                "mit",
+                "einer",
+                "Geschwindigkeit",
+                "von",
+                "210",
+                "Kilometer",
+                "pro",
+                "Stunde",
+                "über",
+                "dem",
+                "Atlantik",
+                "in",
+                "der",
+                "Nähe",
+                "der",
+                "Küstenregion",
+                "von",
+                "den",
+                "Bahamas",
+                ",",
+                "Süd-Florida",
+                "und",
+                "Kuba",
+                "."
+            ]
+        },
+        {
+            "begin": 97,
+            "charBegin": 563,
+            "charEnd": 626,
+            "end": 108,
+            "id": 4,
+            "text": "Es ist bereits der siebzehnte benannte Hurrican in diesem Jahr.",
+            "tokenIds": [
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107
+            ],
+            "tokens": [
+                "Es",
+                "ist",
+                "bereits",
+                "der",
+                "siebzehnte",
+                "benannte",
+                "Hurrican",
+                "in",
+                "diesem",
+                "Jahr",
+                "."
+            ]
+        },
+        {
+            "begin": 108,
+            "charBegin": 628,
+            "charEnd": 706,
+            "end": 122,
+            "id": 5,
+            "text": "Der Gouverneur Rick Perry aus Texas rief vor einigen Stunden den Notstand aus. ",
+            "tokenIds": [
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ],
+            "tokens": [
+                "Der",
+                "Gouverneur",
+                "Rick",
+                "Perry",
+                "aus",
+                "Texas",
+                "rief",
+                "vor",
+                "einigen",
+                "Stunden",
+                "den",
+                "Notstand",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "begin": 122,
+            "charBegin": 707,
+            "charEnd": 833,
+            "end": 140,
+            "id": 6,
+            "text": "Erstmals in der Geschichte der Küstenstadt Galveston ordneten die Behörden die Zwangsevakuierung von fast 60.000 Bewohnern an. ",
+            "tokenIds": [
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139
+            ],
+            "tokens": [
+                "Erstmals",
+                "in",
+                "der",
+                "Geschichte",
+                "der",
+                "Küstenstadt",
+                "Galveston",
+                "ordneten",
+                "die",
+                "Behörden",
+                "die",
+                "Zwangsevakuierung",
+                "von",
+                "fast",
+                "60.000",
+                "Bewohnern",
+                "an",
+                "."
+            ]
+        },
+        {
+            "begin": 140,
+            "charBegin": 834,
+            "charEnd": 893,
+            "end": 149,
+            "id": 7,
+            "text": "Zuvor hatten schon Tausende die Stadt freiwillig verlassen. ",
+            "tokenIds": [
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148
+            ],
+            "tokens": [
+                "Zuvor",
+                "hatten",
+                "schon",
+                "Tausende",
+                "die",
+                "Stadt",
+                "freiwillig",
+                "verlassen",
+                "."
+            ]
+        },
+        {
+            "begin": 149,
+            "charBegin": 894,
+            "charEnd": 1052,
+            "end": 175,
+            "id": 8,
+            "text": "Der Bürgermeister von New Orleans forderte alle Bewohner seiner Stadt, welche in dieser Woche bereits in ihre Häuser zurückkehrten, zu sofortigem Rückzug auf. ",
+            "tokenIds": [
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174
+            ],
+            "tokens": [
+                "Der",
+                "Bürgermeister",
+                "von",
+                "New",
+                "Orleans",
+                "forderte",
+                "alle",
+                "Bewohner",
+                "seiner",
+                "Stadt",
+                ",",
+                "welche",
+                "in",
+                "dieser",
+                "Woche",
+                "bereits",
+                "in",
+                "ihre",
+                "Häuser",
+                "zurückkehrten",
+                ",",
+                "zu",
+                "sofortigem",
+                "Rückzug",
+                "auf",
+                "."
+            ]
+        },
+        {
+            "begin": 175,
+            "charBegin": 1053,
+            "charEnd": 1101,
+            "end": 188,
+            "id": 9,
+            "text": "Kämen sie dem nicht nach, so „schütze sie Gott“.",
+            "tokenIds": [
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187
+            ],
+            "tokens": [
+                "Kämen",
+                "sie",
+                "dem",
+                "nicht",
+                "nach",
+                ",",
+                "so",
+                "„",
+                "schütze",
+                "sie",
+                "Gott",
+                "“",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 15,
+            "id": 1,
+            "sentence": 1,
+            "text": "Tropensturm",
+            "word": 2
+        },
+        {
+            "charBegin": 16,
+            "charEnd": 20,
+            "id": 2,
+            "sentence": 1,
+            "text": "Rita",
+            "word": 3
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 24,
+            "id": 3,
+            "sentence": 1,
+            "text": "hat",
+            "word": 4
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 29,
+            "id": 4,
+            "sentence": 1,
+            "text": "sich",
+            "word": 5
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 32,
+            "id": 5,
+            "sentence": 1,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 36,
+            "id": 6,
+            "sentence": 1,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 37,
+            "charEnd": 44,
+            "id": 7,
+            "sentence": 1,
+            "text": "letzten",
+            "word": 8
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 52,
+            "id": 8,
+            "sentence": 1,
+            "text": "Stunden",
+            "word": 9
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 56,
+            "id": 9,
+            "sentence": 1,
+            "text": "wie",
+            "word": 10
+        },
+        {
+            "charBegin": 57,
+            "charEnd": 65,
+            "id": 10,
+            "sentence": 1,
+            "text": "erwartet",
+            "word": 11
+        },
+        {
+            "charBegin": 66,
+            "charEnd": 68,
+            "id": 11,
+            "sentence": 1,
+            "text": "zu",
+            "word": 12
+        },
+        {
+            "charBegin": 69,
+            "charEnd": 74,
+            "id": 12,
+            "sentence": 1,
+            "text": "einem",
+            "word": 13
+        },
+        {
+            "charBegin": 75,
+            "charEnd": 83,
+            "id": 13,
+            "sentence": 1,
+            "text": "Hurrikan",
+            "word": 14
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 94,
+            "id": 14,
+            "sentence": 1,
+            "text": "entwickelt",
+            "word": 15
+        },
+        {
+            "charBegin": 94,
+            "charEnd": 95,
+            "id": 15,
+            "sentence": 1,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 96,
+            "charEnd": 103,
+            "id": 16,
+            "sentence": 2,
+            "text": "Bereits",
+            "word": 1
+        },
+        {
+            "charBegin": 104,
+            "charEnd": 111,
+            "id": 17,
+            "sentence": 2,
+            "text": "gestern",
+            "word": 2
+        },
+        {
+            "charBegin": 112,
+            "charEnd": 117,
+            "id": 18,
+            "sentence": 2,
+            "text": "hatte",
+            "word": 3
+        },
+        {
+            "charBegin": 118,
+            "charEnd": 122,
+            "id": 19,
+            "sentence": 2,
+            "text": "Rita",
+            "word": 4
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 127,
+            "id": 20,
+            "sentence": 2,
+            "text": "Kurs",
+            "word": 5
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 131,
+            "id": 21,
+            "sentence": 2,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 132,
+            "charEnd": 137,
+            "id": 22,
+            "sentence": 2,
+            "text": "Texas",
+            "word": 7
+        },
+        {
+            "charBegin": 138,
+            "charEnd": 146,
+            "id": 23,
+            "sentence": 2,
+            "text": "genommen",
+            "word": 8
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 150,
+            "id": 24,
+            "sentence": 2,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 151,
+            "charEnd": 153,
+            "id": 25,
+            "sentence": 2,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 157,
+            "id": 26,
+            "sentence": 2,
+            "text": "den",
+            "word": 11
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 168,
+            "id": 27,
+            "sentence": 2,
+            "text": "Südstaaten",
+            "word": 12
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 172,
+            "id": 28,
+            "sentence": 2,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 176,
+            "id": 29,
+            "sentence": 2,
+            "text": "USA",
+            "word": 14
+        },
+        {
+            "charBegin": 177,
+            "charEnd": 183,
+            "id": 30,
+            "sentence": 2,
+            "text": "Furcht",
+            "word": 15
+        },
+        {
+            "charBegin": 184,
+            "charEnd": 187,
+            "id": 31,
+            "sentence": 2,
+            "text": "vor",
+            "word": 16
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 193,
+            "id": 32,
+            "sentence": 2,
+            "text": "einer",
+            "word": 17
+        },
+        {
+            "charBegin": 194,
+            "charEnd": 199,
+            "id": 33,
+            "sentence": 2,
+            "text": "neuen",
+            "word": 18
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 216,
+            "id": 34,
+            "sentence": 2,
+            "text": "Naturkatastrophe",
+            "word": 19
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 220,
+            "id": 35,
+            "sentence": 2,
+            "text": "wie",
+            "word": 20
+        },
+        {
+            "charBegin": 221,
+            "charEnd": 223,
+            "id": 36,
+            "sentence": 2,
+            "text": "in",
+            "word": 21
+        },
+        {
+            "charBegin": 224,
+            "charEnd": 227,
+            "id": 37,
+            "sentence": 2,
+            "text": "New",
+            "word": 22
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 235,
+            "id": 38,
+            "sentence": 2,
+            "text": "Orleans",
+            "word": 23
+        },
+        {
+            "charBegin": 236,
+            "charEnd": 245,
+            "id": 39,
+            "sentence": 2,
+            "text": "ausgelöst",
+            "word": 24
+        },
+        {
+            "charBegin": 245,
+            "charEnd": 246,
+            "id": 40,
+            "sentence": 2,
+            "text": ",",
+            "word": 25
+        },
+        {
+            "charBegin": 247,
+            "charEnd": 252,
+            "id": 41,
+            "sentence": 2,
+            "text": "jetzt",
+            "word": 26
+        },
+        {
+            "charBegin": 253,
+            "charEnd": 256,
+            "id": 42,
+            "sentence": 2,
+            "text": "hat",
+            "word": 27
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 259,
+            "id": 43,
+            "sentence": 2,
+            "text": "er",
+            "word": 28
+        },
+        {
+            "charBegin": 260,
+            "charEnd": 263,
+            "id": 44,
+            "sentence": 2,
+            "text": "die",
+            "word": 29
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 279,
+            "id": 45,
+            "sentence": 2,
+            "text": "Hurrikan-Stärke",
+            "word": 30
+        },
+        {
+            "charBegin": 280,
+            "charEnd": 284,
+            "id": 46,
+            "sentence": 2,
+            "text": "zwei",
+            "word": 31
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 293,
+            "id": 47,
+            "sentence": 2,
+            "text": "erreicht",
+            "word": 32
+        },
+        {
+            "charBegin": 293,
+            "charEnd": 294,
+            "id": 48,
+            "sentence": 2,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 296,
+            "charEnd": 299,
+            "id": 49,
+            "sentence": 3,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 301,
+            "id": 50,
+            "sentence": 3,
+            "text": "„",
+            "word": 2
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 309,
+            "id": 51,
+            "sentence": 3,
+            "text": "National",
+            "word": 3
+        },
+        {
+            "charBegin": 310,
+            "charEnd": 319,
+            "id": 52,
+            "sentence": 3,
+            "text": "Hurricane",
+            "word": 4
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 326,
+            "id": 53,
+            "sentence": 3,
+            "text": "Centre",
+            "word": 5
+        },
+        {
+            "charBegin": 326,
+            "charEnd": 327,
+            "id": 54,
+            "sentence": 3,
+            "text": "“",
+            "word": 6
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 331,
+            "id": 55,
+            "sentence": 3,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 332,
+            "charEnd": 335,
+            "id": 56,
+            "sentence": 3,
+            "text": "USA",
+            "word": 8
+        },
+        {
+            "charBegin": 336,
+            "charEnd": 340,
+            "id": 57,
+            "sentence": 3,
+            "text": "geht",
+            "word": 9
+        },
+        {
+            "charBegin": 341,
+            "charEnd": 346,
+            "id": 58,
+            "sentence": 3,
+            "text": "davon",
+            "word": 10
+        },
+        {
+            "charBegin": 347,
+            "charEnd": 350,
+            "id": 59,
+            "sentence": 3,
+            "text": "aus",
+            "word": 11
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 351,
+            "id": 60,
+            "sentence": 3,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 352,
+            "charEnd": 356,
+            "id": 61,
+            "sentence": 3,
+            "text": "dass",
+            "word": 13
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 359,
+            "id": 62,
+            "sentence": 3,
+            "text": "er",
+            "word": 14
+        },
+        {
+            "charBegin": 360,
+            "charEnd": 369,
+            "id": 63,
+            "sentence": 3,
+            "text": "Kategorie",
+            "word": 15
+        },
+        {
+            "charBegin": 370,
+            "charEnd": 374,
+            "id": 64,
+            "sentence": 3,
+            "text": "fünf",
+            "word": 16
+        },
+        {
+            "charBegin": 375,
+            "charEnd": 384,
+            "id": 65,
+            "sentence": 3,
+            "text": "erreichen",
+            "word": 17
+        },
+        {
+            "charBegin": 385,
+            "charEnd": 389,
+            "id": 66,
+            "sentence": 3,
+            "text": "wird",
+            "word": 18
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 390,
+            "id": 67,
+            "sentence": 3,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 391,
+            "charEnd": 399,
+            "id": 68,
+            "sentence": 4,
+            "text": "Momentan",
+            "word": 1
+        },
+        {
+            "charBegin": 400,
+            "charEnd": 408,
+            "id": 69,
+            "sentence": 4,
+            "text": "befindet",
+            "word": 2
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 411,
+            "id": 70,
+            "sentence": 4,
+            "text": "er",
+            "word": 3
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 416,
+            "id": 71,
+            "sentence": 4,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 417,
+            "charEnd": 421,
+            "id": 72,
+            "sentence": 4,
+            "text": "noch",
+            "word": 5
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 425,
+            "id": 73,
+            "sentence": 4,
+            "text": "mit",
+            "word": 6
+        },
+        {
+            "charBegin": 426,
+            "charEnd": 431,
+            "id": 74,
+            "sentence": 4,
+            "text": "einer",
+            "word": 7
+        },
+        {
+            "charBegin": 432,
+            "charEnd": 447,
+            "id": 75,
+            "sentence": 4,
+            "text": "Geschwindigkeit",
+            "word": 8
+        },
+        {
+            "charBegin": 448,
+            "charEnd": 451,
+            "id": 76,
+            "sentence": 4,
+            "text": "von",
+            "word": 9
+        },
+        {
+            "charBegin": 452,
+            "charEnd": 455,
+            "id": 77,
+            "sentence": 4,
+            "text": "210",
+            "word": 10
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 465,
+            "id": 78,
+            "sentence": 4,
+            "text": "Kilometer",
+            "word": 11
+        },
+        {
+            "charBegin": 466,
+            "charEnd": 469,
+            "id": 79,
+            "sentence": 4,
+            "text": "pro",
+            "word": 12
+        },
+        {
+            "charBegin": 470,
+            "charEnd": 476,
+            "id": 80,
+            "sentence": 4,
+            "text": "Stunde",
+            "word": 13
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 481,
+            "id": 81,
+            "sentence": 4,
+            "text": "über",
+            "word": 14
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 485,
+            "id": 82,
+            "sentence": 4,
+            "text": "dem",
+            "word": 15
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 494,
+            "id": 83,
+            "sentence": 4,
+            "text": "Atlantik",
+            "word": 16
+        },
+        {
+            "charBegin": 495,
+            "charEnd": 497,
+            "id": 84,
+            "sentence": 4,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 498,
+            "charEnd": 501,
+            "id": 85,
+            "sentence": 4,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 502,
+            "charEnd": 506,
+            "id": 86,
+            "sentence": 4,
+            "text": "Nähe",
+            "word": 19
+        },
+        {
+            "charBegin": 507,
+            "charEnd": 510,
+            "id": 87,
+            "sentence": 4,
+            "text": "der",
+            "word": 20
+        },
+        {
+            "charBegin": 511,
+            "charEnd": 523,
+            "id": 88,
+            "sentence": 4,
+            "text": "Küstenregion",
+            "word": 21
+        },
+        {
+            "charBegin": 524,
+            "charEnd": 527,
+            "id": 89,
+            "sentence": 4,
+            "text": "von",
+            "word": 22
+        },
+        {
+            "charBegin": 528,
+            "charEnd": 531,
+            "id": 90,
+            "sentence": 4,
+            "text": "den",
+            "word": 23
+        },
+        {
+            "charBegin": 532,
+            "charEnd": 539,
+            "id": 91,
+            "sentence": 4,
+            "text": "Bahamas",
+            "word": 24
+        },
+        {
+            "charBegin": 539,
+            "charEnd": 540,
+            "id": 92,
+            "sentence": 4,
+            "text": ",",
+            "word": 25
+        },
+        {
+            "charBegin": 541,
+            "charEnd": 552,
+            "id": 93,
+            "sentence": 4,
+            "text": "Süd-Florida",
+            "word": 26
+        },
+        {
+            "charBegin": 553,
+            "charEnd": 556,
+            "id": 94,
+            "sentence": 4,
+            "text": "und",
+            "word": 27
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 561,
+            "id": 95,
+            "sentence": 4,
+            "text": "Kuba",
+            "word": 28
+        },
+        {
+            "charBegin": 561,
+            "charEnd": 562,
+            "id": 96,
+            "sentence": 4,
+            "text": ".",
+            "word": 29
+        },
+        {
+            "charBegin": 563,
+            "charEnd": 565,
+            "id": 97,
+            "sentence": 5,
+            "text": "Es",
+            "word": 1
+        },
+        {
+            "charBegin": 566,
+            "charEnd": 569,
+            "id": 98,
+            "sentence": 5,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 570,
+            "charEnd": 577,
+            "id": 99,
+            "sentence": 5,
+            "text": "bereits",
+            "word": 3
+        },
+        {
+            "charBegin": 578,
+            "charEnd": 581,
+            "id": 100,
+            "sentence": 5,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 592,
+            "id": 101,
+            "sentence": 5,
+            "text": "siebzehnte",
+            "word": 5
+        },
+        {
+            "charBegin": 593,
+            "charEnd": 601,
+            "id": 102,
+            "sentence": 5,
+            "text": "benannte",
+            "word": 6
+        },
+        {
+            "charBegin": 602,
+            "charEnd": 610,
+            "id": 103,
+            "sentence": 5,
+            "text": "Hurrican",
+            "word": 7
+        },
+        {
+            "charBegin": 611,
+            "charEnd": 613,
+            "id": 104,
+            "sentence": 5,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 614,
+            "charEnd": 620,
+            "id": 105,
+            "sentence": 5,
+            "text": "diesem",
+            "word": 9
+        },
+        {
+            "charBegin": 621,
+            "charEnd": 625,
+            "id": 106,
+            "sentence": 5,
+            "text": "Jahr",
+            "word": 10
+        },
+        {
+            "charBegin": 625,
+            "charEnd": 626,
+            "id": 107,
+            "sentence": 5,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 628,
+            "charEnd": 631,
+            "id": 108,
+            "sentence": 6,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 632,
+            "charEnd": 642,
+            "id": 109,
+            "sentence": 6,
+            "text": "Gouverneur",
+            "word": 2
+        },
+        {
+            "charBegin": 643,
+            "charEnd": 647,
+            "id": 110,
+            "sentence": 6,
+            "text": "Rick",
+            "word": 3
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 653,
+            "id": 111,
+            "sentence": 6,
+            "text": "Perry",
+            "word": 4
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 657,
+            "id": 112,
+            "sentence": 6,
+            "text": "aus",
+            "word": 5
+        },
+        {
+            "charBegin": 658,
+            "charEnd": 663,
+            "id": 113,
+            "sentence": 6,
+            "text": "Texas",
+            "word": 6
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 668,
+            "id": 114,
+            "sentence": 6,
+            "text": "rief",
+            "word": 7
+        },
+        {
+            "charBegin": 669,
+            "charEnd": 672,
+            "id": 115,
+            "sentence": 6,
+            "text": "vor",
+            "word": 8
+        },
+        {
+            "charBegin": 673,
+            "charEnd": 680,
+            "id": 116,
+            "sentence": 6,
+            "text": "einigen",
+            "word": 9
+        },
+        {
+            "charBegin": 681,
+            "charEnd": 688,
+            "id": 117,
+            "sentence": 6,
+            "text": "Stunden",
+            "word": 10
+        },
+        {
+            "charBegin": 689,
+            "charEnd": 692,
+            "id": 118,
+            "sentence": 6,
+            "text": "den",
+            "word": 11
+        },
+        {
+            "charBegin": 693,
+            "charEnd": 701,
+            "id": 119,
+            "sentence": 6,
+            "text": "Notstand",
+            "word": 12
+        },
+        {
+            "charBegin": 702,
+            "charEnd": 705,
+            "id": 120,
+            "sentence": 6,
+            "text": "aus",
+            "word": 13
+        },
+        {
+            "charBegin": 705,
+            "charEnd": 706,
+            "id": 121,
+            "sentence": 6,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 707,
+            "charEnd": 715,
+            "id": 122,
+            "sentence": 7,
+            "text": "Erstmals",
+            "word": 1
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 718,
+            "id": 123,
+            "sentence": 7,
+            "text": "in",
+            "word": 2
+        },
+        {
+            "charBegin": 719,
+            "charEnd": 722,
+            "id": 124,
+            "sentence": 7,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 723,
+            "charEnd": 733,
+            "id": 125,
+            "sentence": 7,
+            "text": "Geschichte",
+            "word": 4
+        },
+        {
+            "charBegin": 734,
+            "charEnd": 737,
+            "id": 126,
+            "sentence": 7,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 738,
+            "charEnd": 749,
+            "id": 127,
+            "sentence": 7,
+            "text": "Küstenstadt",
+            "word": 6
+        },
+        {
+            "charBegin": 750,
+            "charEnd": 759,
+            "id": 128,
+            "sentence": 7,
+            "text": "Galveston",
+            "word": 7
+        },
+        {
+            "charBegin": 760,
+            "charEnd": 768,
+            "id": 129,
+            "sentence": 7,
+            "text": "ordneten",
+            "word": 8
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 772,
+            "id": 130,
+            "sentence": 7,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 781,
+            "id": 131,
+            "sentence": 7,
+            "text": "Behörden",
+            "word": 10
+        },
+        {
+            "charBegin": 782,
+            "charEnd": 785,
+            "id": 132,
+            "sentence": 7,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 786,
+            "charEnd": 803,
+            "id": 133,
+            "sentence": 7,
+            "text": "Zwangsevakuierung",
+            "word": 12
+        },
+        {
+            "charBegin": 804,
+            "charEnd": 807,
+            "id": 134,
+            "sentence": 7,
+            "text": "von",
+            "word": 13
+        },
+        {
+            "charBegin": 808,
+            "charEnd": 812,
+            "id": 135,
+            "sentence": 7,
+            "text": "fast",
+            "word": 14
+        },
+        {
+            "charBegin": 813,
+            "charEnd": 819,
+            "id": 136,
+            "sentence": 7,
+            "text": "60.000",
+            "word": 15
+        },
+        {
+            "charBegin": 820,
+            "charEnd": 829,
+            "id": 137,
+            "sentence": 7,
+            "text": "Bewohnern",
+            "word": 16
+        },
+        {
+            "charBegin": 830,
+            "charEnd": 832,
+            "id": 138,
+            "sentence": 7,
+            "text": "an",
+            "word": 17
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 833,
+            "id": 139,
+            "sentence": 7,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 834,
+            "charEnd": 839,
+            "id": 140,
+            "sentence": 8,
+            "text": "Zuvor",
+            "word": 1
+        },
+        {
+            "charBegin": 840,
+            "charEnd": 846,
+            "id": 141,
+            "sentence": 8,
+            "text": "hatten",
+            "word": 2
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 852,
+            "id": 142,
+            "sentence": 8,
+            "text": "schon",
+            "word": 3
+        },
+        {
+            "charBegin": 853,
+            "charEnd": 861,
+            "id": 143,
+            "sentence": 8,
+            "text": "Tausende",
+            "word": 4
+        },
+        {
+            "charBegin": 862,
+            "charEnd": 865,
+            "id": 144,
+            "sentence": 8,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 866,
+            "charEnd": 871,
+            "id": 145,
+            "sentence": 8,
+            "text": "Stadt",
+            "word": 6
+        },
+        {
+            "charBegin": 872,
+            "charEnd": 882,
+            "id": 146,
+            "sentence": 8,
+            "text": "freiwillig",
+            "word": 7
+        },
+        {
+            "charBegin": 883,
+            "charEnd": 892,
+            "id": 147,
+            "sentence": 8,
+            "text": "verlassen",
+            "word": 8
+        },
+        {
+            "charBegin": 892,
+            "charEnd": 893,
+            "id": 148,
+            "sentence": 8,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 894,
+            "charEnd": 897,
+            "id": 149,
+            "sentence": 9,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 898,
+            "charEnd": 911,
+            "id": 150,
+            "sentence": 9,
+            "text": "Bürgermeister",
+            "word": 2
+        },
+        {
+            "charBegin": 912,
+            "charEnd": 915,
+            "id": 151,
+            "sentence": 9,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 916,
+            "charEnd": 919,
+            "id": 152,
+            "sentence": 9,
+            "text": "New",
+            "word": 4
+        },
+        {
+            "charBegin": 920,
+            "charEnd": 927,
+            "id": 153,
+            "sentence": 9,
+            "text": "Orleans",
+            "word": 5
+        },
+        {
+            "charBegin": 928,
+            "charEnd": 936,
+            "id": 154,
+            "sentence": 9,
+            "text": "forderte",
+            "word": 6
+        },
+        {
+            "charBegin": 937,
+            "charEnd": 941,
+            "id": 155,
+            "sentence": 9,
+            "text": "alle",
+            "word": 7
+        },
+        {
+            "charBegin": 942,
+            "charEnd": 950,
+            "id": 156,
+            "sentence": 9,
+            "text": "Bewohner",
+            "word": 8
+        },
+        {
+            "charBegin": 951,
+            "charEnd": 957,
+            "id": 157,
+            "sentence": 9,
+            "text": "seiner",
+            "word": 9
+        },
+        {
+            "charBegin": 958,
+            "charEnd": 963,
+            "id": 158,
+            "sentence": 9,
+            "text": "Stadt",
+            "word": 10
+        },
+        {
+            "charBegin": 963,
+            "charEnd": 964,
+            "id": 159,
+            "sentence": 9,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 965,
+            "charEnd": 971,
+            "id": 160,
+            "sentence": 9,
+            "text": "welche",
+            "word": 12
+        },
+        {
+            "charBegin": 972,
+            "charEnd": 974,
+            "id": 161,
+            "sentence": 9,
+            "text": "in",
+            "word": 13
+        },
+        {
+            "charBegin": 975,
+            "charEnd": 981,
+            "id": 162,
+            "sentence": 9,
+            "text": "dieser",
+            "word": 14
+        },
+        {
+            "charBegin": 982,
+            "charEnd": 987,
+            "id": 163,
+            "sentence": 9,
+            "text": "Woche",
+            "word": 15
+        },
+        {
+            "charBegin": 988,
+            "charEnd": 995,
+            "id": 164,
+            "sentence": 9,
+            "text": "bereits",
+            "word": 16
+        },
+        {
+            "charBegin": 996,
+            "charEnd": 998,
+            "id": 165,
+            "sentence": 9,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 999,
+            "charEnd": 1003,
+            "id": 166,
+            "sentence": 9,
+            "text": "ihre",
+            "word": 18
+        },
+        {
+            "charBegin": 1004,
+            "charEnd": 1010,
+            "id": 167,
+            "sentence": 9,
+            "text": "Häuser",
+            "word": 19
+        },
+        {
+            "charBegin": 1011,
+            "charEnd": 1024,
+            "id": 168,
+            "sentence": 9,
+            "text": "zurückkehrten",
+            "word": 20
+        },
+        {
+            "charBegin": 1024,
+            "charEnd": 1025,
+            "id": 169,
+            "sentence": 9,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 1026,
+            "charEnd": 1028,
+            "id": 170,
+            "sentence": 9,
+            "text": "zu",
+            "word": 22
+        },
+        {
+            "charBegin": 1029,
+            "charEnd": 1039,
+            "id": 171,
+            "sentence": 9,
+            "text": "sofortigem",
+            "word": 23
+        },
+        {
+            "charBegin": 1040,
+            "charEnd": 1047,
+            "id": 172,
+            "sentence": 9,
+            "text": "Rückzug",
+            "word": 24
+        },
+        {
+            "charBegin": 1048,
+            "charEnd": 1051,
+            "id": 173,
+            "sentence": 9,
+            "text": "auf",
+            "word": 25
+        },
+        {
+            "charBegin": 1051,
+            "charEnd": 1052,
+            "id": 174,
+            "sentence": 9,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 1053,
+            "charEnd": 1058,
+            "id": 175,
+            "sentence": 10,
+            "text": "Kämen",
+            "word": 1
+        },
+        {
+            "charBegin": 1059,
+            "charEnd": 1062,
+            "id": 176,
+            "sentence": 10,
+            "text": "sie",
+            "word": 2
+        },
+        {
+            "charBegin": 1063,
+            "charEnd": 1066,
+            "id": 177,
+            "sentence": 10,
+            "text": "dem",
+            "word": 3
+        },
+        {
+            "charBegin": 1067,
+            "charEnd": 1072,
+            "id": 178,
+            "sentence": 10,
+            "text": "nicht",
+            "word": 4
+        },
+        {
+            "charBegin": 1073,
+            "charEnd": 1077,
+            "id": 179,
+            "sentence": 10,
+            "text": "nach",
+            "word": 5
+        },
+        {
+            "charBegin": 1077,
+            "charEnd": 1078,
+            "id": 180,
+            "sentence": 10,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 1079,
+            "charEnd": 1081,
+            "id": 181,
+            "sentence": 10,
+            "text": "so",
+            "word": 7
+        },
+        {
+            "charBegin": 1082,
+            "charEnd": 1083,
+            "id": 182,
+            "sentence": 10,
+            "text": "„",
+            "word": 8
+        },
+        {
+            "charBegin": 1083,
+            "charEnd": 1090,
+            "id": 183,
+            "sentence": 10,
+            "text": "schütze",
+            "word": 9
+        },
+        {
+            "charBegin": 1091,
+            "charEnd": 1094,
+            "id": 184,
+            "sentence": 10,
+            "text": "sie",
+            "word": 10
+        },
+        {
+            "charBegin": 1095,
+            "charEnd": 1099,
+            "id": 185,
+            "sentence": 10,
+            "text": "Gott",
+            "word": 11
+        },
+        {
+            "charBegin": 1099,
+            "charEnd": 1100,
+            "id": 186,
+            "sentence": 10,
+            "text": "“",
+            "word": 12
+        },
+        {
+            "charBegin": 1100,
+            "charEnd": 1101,
+            "id": 187,
+            "sentence": 10,
+            "text": ".",
+            "word": 13
+        }
+    ]
+}

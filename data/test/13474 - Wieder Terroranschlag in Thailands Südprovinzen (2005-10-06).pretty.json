@@ -1,0 +1,1824 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 38,
+                        "charBegin": 284,
+                        "charEnd": 289,
+                        "end": 39
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    38
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 33,
+                        "charBegin": 246,
+                        "charEnd": 290,
+                        "end": 40
+                    }
+                ],
+                "text": "Ein Sprecher der thailändischen Armee sagte,",
+                "tokenIds": [
+                    33,
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 40,
+                        "charBegin": 291,
+                        "charEnd": 433,
+                        "end": 61
+                    }
+                ],
+                "text": "die Angreifer hätten Gewehre auf die Gruppe abgefeuert, bevor sie von dem Schauplatz in einem Kleinlastwagen mit offener Ladefläche flüchteten",
+                "tokenIds": [
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 33,
+                        "charBegin": 246,
+                        "charEnd": 283,
+                        "end": 38
+                    }
+                ],
+                "text": "Ein Sprecher der thailändischen Armee",
+                "tokenIds": [
+                    33,
+                    34,
+                    35,
+                    36,
+                    37
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "13474 - Wieder Terroranschlag in Thailands Südprovinzen (2005-10-06)",
+    "originalText": "Fünf Soldaten in der thailändischen Südprovinz Narathiwat wurden von vorbeifahrenden mutmaßlich islamistischen Angreifern getötet, zwei weitere Soldaten wurden verletzt.\n\nDer Angriff ereignete sich, als die Soldaten ihre Abendmahlzeit einnahmen. Ein Sprecher der thailändischen Armee sagte, die Angreifer hätten Gewehre auf die Gruppe abgefeuert, bevor sie von dem Schauplatz in einem Kleinlastwagen mit offener Ladefläche flüchteten. Metallkrallen wurden auf die Straße gestreut, um die Verfolgung zu erschweren. Zusätzlich zu den Morden wurde eine Anzahl Feuerwaffen gestohlen, bevor die Aufständischen die Flucht antraten.\n\nDas war der zweite Vorfall dieser Art, bei dem mutmaßlich islamistische Kämpfer am Tag vor dem Ramadan beteiligt waren. Früher im Verlauf des Tages war die enthauptete Leiche eines Mannes mittleren Alters an einem Straßenrand in der Provinz Yala gefunden worden.\n\nÜber tausend Menschen sind seit 2004 im vorwiegend von Moslems bewohnten Südthailand bei Vorfällen getötet worden, die in Zusammenhang mit Aktionen von Aufständischen stehen.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 169,
+            "end": 21,
+            "id": 0,
+            "text": "Fünf Soldaten in der thailändischen Südprovinz Narathiwat wurden von vorbeifahrenden mutmaßlich islamistischen Angreifern getötet, zwei weitere Soldaten wurden verletzt.",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "Fünf",
+                "Soldaten",
+                "in",
+                "der",
+                "thailändischen",
+                "Südprovinz",
+                "Narathiwat",
+                "wurden",
+                "von",
+                "vorbeifahrenden",
+                "mutmaßlich",
+                "islamistischen",
+                "Angreifern",
+                "getötet",
+                ",",
+                "zwei",
+                "weitere",
+                "Soldaten",
+                "wurden",
+                "verletzt",
+                "."
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 171,
+            "charEnd": 245,
+            "end": 33,
+            "id": 1,
+            "text": "Der Angriff ereignete sich, als die Soldaten ihre Abendmahlzeit einnahmen. ",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32
+            ],
+            "tokens": [
+                "Der",
+                "Angriff",
+                "ereignete",
+                "sich",
+                ",",
+                "als",
+                "die",
+                "Soldaten",
+                "ihre",
+                "Abendmahlzeit",
+                "einnahmen",
+                "."
+            ]
+        },
+        {
+            "begin": 33,
+            "charBegin": 246,
+            "charEnd": 434,
+            "end": 62,
+            "id": 2,
+            "text": "Ein Sprecher der thailändischen Armee sagte, die Angreifer hätten Gewehre auf die Gruppe abgefeuert, bevor sie von dem Schauplatz in einem Kleinlastwagen mit offener Ladefläche flüchteten. ",
+            "tokenIds": [
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "tokens": [
+                "Ein",
+                "Sprecher",
+                "der",
+                "thailändischen",
+                "Armee",
+                "sagte",
+                ",",
+                "die",
+                "Angreifer",
+                "hätten",
+                "Gewehre",
+                "auf",
+                "die",
+                "Gruppe",
+                "abgefeuert",
+                ",",
+                "bevor",
+                "sie",
+                "von",
+                "dem",
+                "Schauplatz",
+                "in",
+                "einem",
+                "Kleinlastwagen",
+                "mit",
+                "offener",
+                "Ladefläche",
+                "flüchteten",
+                "."
+            ]
+        },
+        {
+            "begin": 62,
+            "charBegin": 435,
+            "charEnd": 513,
+            "end": 75,
+            "id": 3,
+            "text": "Metallkrallen wurden auf die Straße gestreut, um die Verfolgung zu erschweren. ",
+            "tokenIds": [
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74
+            ],
+            "tokens": [
+                "Metallkrallen",
+                "wurden",
+                "auf",
+                "die",
+                "Straße",
+                "gestreut",
+                ",",
+                "um",
+                "die",
+                "Verfolgung",
+                "zu",
+                "erschweren",
+                "."
+            ]
+        },
+        {
+            "begin": 75,
+            "charBegin": 514,
+            "charEnd": 625,
+            "end": 92,
+            "id": 4,
+            "text": "Zusätzlich zu den Morden wurde eine Anzahl Feuerwaffen gestohlen, bevor die Aufständischen die Flucht antraten.",
+            "tokenIds": [
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91
+            ],
+            "tokens": [
+                "Zusätzlich",
+                "zu",
+                "den",
+                "Morden",
+                "wurde",
+                "eine",
+                "Anzahl",
+                "Feuerwaffen",
+                "gestohlen",
+                ",",
+                "bevor",
+                "die",
+                "Aufständischen",
+                "die",
+                "Flucht",
+                "antraten",
+                "."
+            ]
+        },
+        {
+            "begin": 92,
+            "charBegin": 627,
+            "charEnd": 746,
+            "end": 113,
+            "id": 5,
+            "text": "Das war der zweite Vorfall dieser Art, bei dem mutmaßlich islamistische Kämpfer am Tag vor dem Ramadan beteiligt waren. ",
+            "tokenIds": [
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112
+            ],
+            "tokens": [
+                "Das",
+                "war",
+                "der",
+                "zweite",
+                "Vorfall",
+                "dieser",
+                "Art",
+                ",",
+                "bei",
+                "dem",
+                "mutmaßlich",
+                "islamistische",
+                "Kämpfer",
+                "am",
+                "Tag",
+                "vor",
+                "dem",
+                "Ramadan",
+                "beteiligt",
+                "waren",
+                "."
+            ]
+        },
+        {
+            "begin": 113,
+            "charBegin": 747,
+            "charEnd": 889,
+            "end": 136,
+            "id": 6,
+            "text": "Früher im Verlauf des Tages war die enthauptete Leiche eines Mannes mittleren Alters an einem Straßenrand in der Provinz Yala gefunden worden.",
+            "tokenIds": [
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135
+            ],
+            "tokens": [
+                "Früher",
+                "im",
+                "Verlauf",
+                "des",
+                "Tages",
+                "war",
+                "die",
+                "enthauptete",
+                "Leiche",
+                "eines",
+                "Mannes",
+                "mittleren",
+                "Alters",
+                "an",
+                "einem",
+                "Straßenrand",
+                "in",
+                "der",
+                "Provinz",
+                "Yala",
+                "gefunden",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "begin": 136,
+            "charBegin": 891,
+            "charEnd": 1065,
+            "end": 162,
+            "id": 7,
+            "text": "Über tausend Menschen sind seit 2004 im vorwiegend von Moslems bewohnten Südthailand bei Vorfällen getötet worden, die in Zusammenhang mit Aktionen von Aufständischen stehen.",
+            "tokenIds": [
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161
+            ],
+            "tokens": [
+                "Über",
+                "tausend",
+                "Menschen",
+                "sind",
+                "seit",
+                "2004",
+                "im",
+                "vorwiegend",
+                "von",
+                "Moslems",
+                "bewohnten",
+                "Südthailand",
+                "bei",
+                "Vorfällen",
+                "getötet",
+                "worden",
+                ",",
+                "die",
+                "in",
+                "Zusammenhang",
+                "mit",
+                "Aktionen",
+                "von",
+                "Aufständischen",
+                "stehen",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 4,
+            "id": 0,
+            "sentence": 1,
+            "text": "Fünf",
+            "word": 1
+        },
+        {
+            "charBegin": 5,
+            "charEnd": 13,
+            "id": 1,
+            "sentence": 1,
+            "text": "Soldaten",
+            "word": 2
+        },
+        {
+            "charBegin": 14,
+            "charEnd": 16,
+            "id": 2,
+            "sentence": 1,
+            "text": "in",
+            "word": 3
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 20,
+            "id": 3,
+            "sentence": 1,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 35,
+            "id": 4,
+            "sentence": 1,
+            "text": "thailändischen",
+            "word": 5
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 46,
+            "id": 5,
+            "sentence": 1,
+            "text": "Südprovinz",
+            "word": 6
+        },
+        {
+            "charBegin": 47,
+            "charEnd": 57,
+            "id": 6,
+            "sentence": 1,
+            "text": "Narathiwat",
+            "word": 7
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 64,
+            "id": 7,
+            "sentence": 1,
+            "text": "wurden",
+            "word": 8
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 68,
+            "id": 8,
+            "sentence": 1,
+            "text": "von",
+            "word": 9
+        },
+        {
+            "charBegin": 69,
+            "charEnd": 84,
+            "id": 9,
+            "sentence": 1,
+            "text": "vorbeifahrenden",
+            "word": 10
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 95,
+            "id": 10,
+            "sentence": 1,
+            "text": "mutmaßlich",
+            "word": 11
+        },
+        {
+            "charBegin": 96,
+            "charEnd": 110,
+            "id": 11,
+            "sentence": 1,
+            "text": "islamistischen",
+            "word": 12
+        },
+        {
+            "charBegin": 111,
+            "charEnd": 121,
+            "id": 12,
+            "sentence": 1,
+            "text": "Angreifern",
+            "word": 13
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 129,
+            "id": 13,
+            "sentence": 1,
+            "text": "getötet",
+            "word": 14
+        },
+        {
+            "charBegin": 129,
+            "charEnd": 130,
+            "id": 14,
+            "sentence": 1,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 135,
+            "id": 15,
+            "sentence": 1,
+            "text": "zwei",
+            "word": 16
+        },
+        {
+            "charBegin": 136,
+            "charEnd": 143,
+            "id": 16,
+            "sentence": 1,
+            "text": "weitere",
+            "word": 17
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 152,
+            "id": 17,
+            "sentence": 1,
+            "text": "Soldaten",
+            "word": 18
+        },
+        {
+            "charBegin": 153,
+            "charEnd": 159,
+            "id": 18,
+            "sentence": 1,
+            "text": "wurden",
+            "word": 19
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 168,
+            "id": 19,
+            "sentence": 1,
+            "text": "verletzt",
+            "word": 20
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 169,
+            "id": 20,
+            "sentence": 1,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 171,
+            "charEnd": 174,
+            "id": 21,
+            "sentence": 2,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 175,
+            "charEnd": 182,
+            "id": 22,
+            "sentence": 2,
+            "text": "Angriff",
+            "word": 2
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 192,
+            "id": 23,
+            "sentence": 2,
+            "text": "ereignete",
+            "word": 3
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 197,
+            "id": 24,
+            "sentence": 2,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 197,
+            "charEnd": 198,
+            "id": 25,
+            "sentence": 2,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 202,
+            "id": 26,
+            "sentence": 2,
+            "text": "als",
+            "word": 6
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 206,
+            "id": 27,
+            "sentence": 2,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 215,
+            "id": 28,
+            "sentence": 2,
+            "text": "Soldaten",
+            "word": 8
+        },
+        {
+            "charBegin": 216,
+            "charEnd": 220,
+            "id": 29,
+            "sentence": 2,
+            "text": "ihre",
+            "word": 9
+        },
+        {
+            "charBegin": 221,
+            "charEnd": 234,
+            "id": 30,
+            "sentence": 2,
+            "text": "Abendmahlzeit",
+            "word": 10
+        },
+        {
+            "charBegin": 235,
+            "charEnd": 244,
+            "id": 31,
+            "sentence": 2,
+            "text": "einnahmen",
+            "word": 11
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 245,
+            "id": 32,
+            "sentence": 2,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 249,
+            "id": 33,
+            "sentence": 3,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 258,
+            "id": 34,
+            "sentence": 3,
+            "text": "Sprecher",
+            "word": 2
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 262,
+            "id": 35,
+            "sentence": 3,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 277,
+            "id": 36,
+            "sentence": 3,
+            "text": "thailändischen",
+            "word": 4
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 283,
+            "id": 37,
+            "sentence": 3,
+            "text": "Armee",
+            "word": 5
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 289,
+            "id": 38,
+            "sentence": 3,
+            "text": "sagte",
+            "word": 6
+        },
+        {
+            "charBegin": 289,
+            "charEnd": 290,
+            "id": 39,
+            "sentence": 3,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 291,
+            "charEnd": 294,
+            "id": 40,
+            "sentence": 3,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 304,
+            "id": 41,
+            "sentence": 3,
+            "text": "Angreifer",
+            "word": 9
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 311,
+            "id": 42,
+            "sentence": 3,
+            "text": "hätten",
+            "word": 10
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 319,
+            "id": 43,
+            "sentence": 3,
+            "text": "Gewehre",
+            "word": 11
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 323,
+            "id": 44,
+            "sentence": 3,
+            "text": "auf",
+            "word": 12
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 327,
+            "id": 45,
+            "sentence": 3,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 334,
+            "id": 46,
+            "sentence": 3,
+            "text": "Gruppe",
+            "word": 14
+        },
+        {
+            "charBegin": 335,
+            "charEnd": 345,
+            "id": 47,
+            "sentence": 3,
+            "text": "abgefeuert",
+            "word": 15
+        },
+        {
+            "charBegin": 345,
+            "charEnd": 346,
+            "id": 48,
+            "sentence": 3,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 347,
+            "charEnd": 352,
+            "id": 49,
+            "sentence": 3,
+            "text": "bevor",
+            "word": 17
+        },
+        {
+            "charBegin": 353,
+            "charEnd": 356,
+            "id": 50,
+            "sentence": 3,
+            "text": "sie",
+            "word": 18
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 360,
+            "id": 51,
+            "sentence": 3,
+            "text": "von",
+            "word": 19
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 364,
+            "id": 52,
+            "sentence": 3,
+            "text": "dem",
+            "word": 20
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 375,
+            "id": 53,
+            "sentence": 3,
+            "text": "Schauplatz",
+            "word": 21
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 378,
+            "id": 54,
+            "sentence": 3,
+            "text": "in",
+            "word": 22
+        },
+        {
+            "charBegin": 379,
+            "charEnd": 384,
+            "id": 55,
+            "sentence": 3,
+            "text": "einem",
+            "word": 23
+        },
+        {
+            "charBegin": 385,
+            "charEnd": 399,
+            "id": 56,
+            "sentence": 3,
+            "text": "Kleinlastwagen",
+            "word": 24
+        },
+        {
+            "charBegin": 400,
+            "charEnd": 403,
+            "id": 57,
+            "sentence": 3,
+            "text": "mit",
+            "word": 25
+        },
+        {
+            "charBegin": 404,
+            "charEnd": 411,
+            "id": 58,
+            "sentence": 3,
+            "text": "offener",
+            "word": 26
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 422,
+            "id": 59,
+            "sentence": 3,
+            "text": "Ladefläche",
+            "word": 27
+        },
+        {
+            "charBegin": 423,
+            "charEnd": 433,
+            "id": 60,
+            "sentence": 3,
+            "text": "flüchteten",
+            "word": 28
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 434,
+            "id": 61,
+            "sentence": 3,
+            "text": ".",
+            "word": 29
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 448,
+            "id": 62,
+            "sentence": 4,
+            "text": "Metallkrallen",
+            "word": 1
+        },
+        {
+            "charBegin": 449,
+            "charEnd": 455,
+            "id": 63,
+            "sentence": 4,
+            "text": "wurden",
+            "word": 2
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 459,
+            "id": 64,
+            "sentence": 4,
+            "text": "auf",
+            "word": 3
+        },
+        {
+            "charBegin": 460,
+            "charEnd": 463,
+            "id": 65,
+            "sentence": 4,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 470,
+            "id": 66,
+            "sentence": 4,
+            "text": "Straße",
+            "word": 5
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 479,
+            "id": 67,
+            "sentence": 4,
+            "text": "gestreut",
+            "word": 6
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 480,
+            "id": 68,
+            "sentence": 4,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 481,
+            "charEnd": 483,
+            "id": 69,
+            "sentence": 4,
+            "text": "um",
+            "word": 8
+        },
+        {
+            "charBegin": 484,
+            "charEnd": 487,
+            "id": 70,
+            "sentence": 4,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 488,
+            "charEnd": 498,
+            "id": 71,
+            "sentence": 4,
+            "text": "Verfolgung",
+            "word": 10
+        },
+        {
+            "charBegin": 499,
+            "charEnd": 501,
+            "id": 72,
+            "sentence": 4,
+            "text": "zu",
+            "word": 11
+        },
+        {
+            "charBegin": 502,
+            "charEnd": 512,
+            "id": 73,
+            "sentence": 4,
+            "text": "erschweren",
+            "word": 12
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 513,
+            "id": 74,
+            "sentence": 4,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 514,
+            "charEnd": 524,
+            "id": 75,
+            "sentence": 5,
+            "text": "Zusätzlich",
+            "word": 1
+        },
+        {
+            "charBegin": 525,
+            "charEnd": 527,
+            "id": 76,
+            "sentence": 5,
+            "text": "zu",
+            "word": 2
+        },
+        {
+            "charBegin": 528,
+            "charEnd": 531,
+            "id": 77,
+            "sentence": 5,
+            "text": "den",
+            "word": 3
+        },
+        {
+            "charBegin": 532,
+            "charEnd": 538,
+            "id": 78,
+            "sentence": 5,
+            "text": "Morden",
+            "word": 4
+        },
+        {
+            "charBegin": 539,
+            "charEnd": 544,
+            "id": 79,
+            "sentence": 5,
+            "text": "wurde",
+            "word": 5
+        },
+        {
+            "charBegin": 545,
+            "charEnd": 549,
+            "id": 80,
+            "sentence": 5,
+            "text": "eine",
+            "word": 6
+        },
+        {
+            "charBegin": 550,
+            "charEnd": 556,
+            "id": 81,
+            "sentence": 5,
+            "text": "Anzahl",
+            "word": 7
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 568,
+            "id": 82,
+            "sentence": 5,
+            "text": "Feuerwaffen",
+            "word": 8
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 578,
+            "id": 83,
+            "sentence": 5,
+            "text": "gestohlen",
+            "word": 9
+        },
+        {
+            "charBegin": 578,
+            "charEnd": 579,
+            "id": 84,
+            "sentence": 5,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 580,
+            "charEnd": 585,
+            "id": 85,
+            "sentence": 5,
+            "text": "bevor",
+            "word": 11
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 589,
+            "id": 86,
+            "sentence": 5,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 590,
+            "charEnd": 604,
+            "id": 87,
+            "sentence": 5,
+            "text": "Aufständischen",
+            "word": 13
+        },
+        {
+            "charBegin": 605,
+            "charEnd": 608,
+            "id": 88,
+            "sentence": 5,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 609,
+            "charEnd": 615,
+            "id": 89,
+            "sentence": 5,
+            "text": "Flucht",
+            "word": 15
+        },
+        {
+            "charBegin": 616,
+            "charEnd": 624,
+            "id": 90,
+            "sentence": 5,
+            "text": "antraten",
+            "word": 16
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 625,
+            "id": 91,
+            "sentence": 5,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 627,
+            "charEnd": 630,
+            "id": 92,
+            "sentence": 6,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 634,
+            "id": 93,
+            "sentence": 6,
+            "text": "war",
+            "word": 2
+        },
+        {
+            "charBegin": 635,
+            "charEnd": 638,
+            "id": 94,
+            "sentence": 6,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 639,
+            "charEnd": 645,
+            "id": 95,
+            "sentence": 6,
+            "text": "zweite",
+            "word": 4
+        },
+        {
+            "charBegin": 646,
+            "charEnd": 653,
+            "id": 96,
+            "sentence": 6,
+            "text": "Vorfall",
+            "word": 5
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 660,
+            "id": 97,
+            "sentence": 6,
+            "text": "dieser",
+            "word": 6
+        },
+        {
+            "charBegin": 661,
+            "charEnd": 664,
+            "id": 98,
+            "sentence": 6,
+            "text": "Art",
+            "word": 7
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 665,
+            "id": 99,
+            "sentence": 6,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 666,
+            "charEnd": 669,
+            "id": 100,
+            "sentence": 6,
+            "text": "bei",
+            "word": 9
+        },
+        {
+            "charBegin": 670,
+            "charEnd": 673,
+            "id": 101,
+            "sentence": 6,
+            "text": "dem",
+            "word": 10
+        },
+        {
+            "charBegin": 674,
+            "charEnd": 684,
+            "id": 102,
+            "sentence": 6,
+            "text": "mutmaßlich",
+            "word": 11
+        },
+        {
+            "charBegin": 685,
+            "charEnd": 698,
+            "id": 103,
+            "sentence": 6,
+            "text": "islamistische",
+            "word": 12
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 706,
+            "id": 104,
+            "sentence": 6,
+            "text": "Kämpfer",
+            "word": 13
+        },
+        {
+            "charBegin": 707,
+            "charEnd": 709,
+            "id": 105,
+            "sentence": 6,
+            "text": "am",
+            "word": 14
+        },
+        {
+            "charBegin": 710,
+            "charEnd": 713,
+            "id": 106,
+            "sentence": 6,
+            "text": "Tag",
+            "word": 15
+        },
+        {
+            "charBegin": 714,
+            "charEnd": 717,
+            "id": 107,
+            "sentence": 6,
+            "text": "vor",
+            "word": 16
+        },
+        {
+            "charBegin": 718,
+            "charEnd": 721,
+            "id": 108,
+            "sentence": 6,
+            "text": "dem",
+            "word": 17
+        },
+        {
+            "charBegin": 722,
+            "charEnd": 729,
+            "id": 109,
+            "sentence": 6,
+            "text": "Ramadan",
+            "word": 18
+        },
+        {
+            "charBegin": 730,
+            "charEnd": 739,
+            "id": 110,
+            "sentence": 6,
+            "text": "beteiligt",
+            "word": 19
+        },
+        {
+            "charBegin": 740,
+            "charEnd": 745,
+            "id": 111,
+            "sentence": 6,
+            "text": "waren",
+            "word": 20
+        },
+        {
+            "charBegin": 745,
+            "charEnd": 746,
+            "id": 112,
+            "sentence": 6,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 747,
+            "charEnd": 753,
+            "id": 113,
+            "sentence": 7,
+            "text": "Früher",
+            "word": 1
+        },
+        {
+            "charBegin": 754,
+            "charEnd": 756,
+            "id": 114,
+            "sentence": 7,
+            "text": "im",
+            "word": 2
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 764,
+            "id": 115,
+            "sentence": 7,
+            "text": "Verlauf",
+            "word": 3
+        },
+        {
+            "charBegin": 765,
+            "charEnd": 768,
+            "id": 116,
+            "sentence": 7,
+            "text": "des",
+            "word": 4
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 774,
+            "id": 117,
+            "sentence": 7,
+            "text": "Tages",
+            "word": 5
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 778,
+            "id": 118,
+            "sentence": 7,
+            "text": "war",
+            "word": 6
+        },
+        {
+            "charBegin": 779,
+            "charEnd": 782,
+            "id": 119,
+            "sentence": 7,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 783,
+            "charEnd": 794,
+            "id": 120,
+            "sentence": 7,
+            "text": "enthauptete",
+            "word": 8
+        },
+        {
+            "charBegin": 795,
+            "charEnd": 801,
+            "id": 121,
+            "sentence": 7,
+            "text": "Leiche",
+            "word": 9
+        },
+        {
+            "charBegin": 802,
+            "charEnd": 807,
+            "id": 122,
+            "sentence": 7,
+            "text": "eines",
+            "word": 10
+        },
+        {
+            "charBegin": 808,
+            "charEnd": 814,
+            "id": 123,
+            "sentence": 7,
+            "text": "Mannes",
+            "word": 11
+        },
+        {
+            "charBegin": 815,
+            "charEnd": 824,
+            "id": 124,
+            "sentence": 7,
+            "text": "mittleren",
+            "word": 12
+        },
+        {
+            "charBegin": 825,
+            "charEnd": 831,
+            "id": 125,
+            "sentence": 7,
+            "text": "Alters",
+            "word": 13
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 834,
+            "id": 126,
+            "sentence": 7,
+            "text": "an",
+            "word": 14
+        },
+        {
+            "charBegin": 835,
+            "charEnd": 840,
+            "id": 127,
+            "sentence": 7,
+            "text": "einem",
+            "word": 15
+        },
+        {
+            "charBegin": 841,
+            "charEnd": 852,
+            "id": 128,
+            "sentence": 7,
+            "text": "Straßenrand",
+            "word": 16
+        },
+        {
+            "charBegin": 853,
+            "charEnd": 855,
+            "id": 129,
+            "sentence": 7,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 856,
+            "charEnd": 859,
+            "id": 130,
+            "sentence": 7,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 860,
+            "charEnd": 867,
+            "id": 131,
+            "sentence": 7,
+            "text": "Provinz",
+            "word": 19
+        },
+        {
+            "charBegin": 868,
+            "charEnd": 872,
+            "id": 132,
+            "sentence": 7,
+            "text": "Yala",
+            "word": 20
+        },
+        {
+            "charBegin": 873,
+            "charEnd": 881,
+            "id": 133,
+            "sentence": 7,
+            "text": "gefunden",
+            "word": 21
+        },
+        {
+            "charBegin": 882,
+            "charEnd": 888,
+            "id": 134,
+            "sentence": 7,
+            "text": "worden",
+            "word": 22
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 889,
+            "id": 135,
+            "sentence": 7,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 891,
+            "charEnd": 895,
+            "id": 136,
+            "sentence": 8,
+            "text": "Über",
+            "word": 1
+        },
+        {
+            "charBegin": 896,
+            "charEnd": 903,
+            "id": 137,
+            "sentence": 8,
+            "text": "tausend",
+            "word": 2
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 912,
+            "id": 138,
+            "sentence": 8,
+            "text": "Menschen",
+            "word": 3
+        },
+        {
+            "charBegin": 913,
+            "charEnd": 917,
+            "id": 139,
+            "sentence": 8,
+            "text": "sind",
+            "word": 4
+        },
+        {
+            "charBegin": 918,
+            "charEnd": 922,
+            "id": 140,
+            "sentence": 8,
+            "text": "seit",
+            "word": 5
+        },
+        {
+            "charBegin": 923,
+            "charEnd": 927,
+            "id": 141,
+            "sentence": 8,
+            "text": "2004",
+            "word": 6
+        },
+        {
+            "charBegin": 928,
+            "charEnd": 930,
+            "id": 142,
+            "sentence": 8,
+            "text": "im",
+            "word": 7
+        },
+        {
+            "charBegin": 931,
+            "charEnd": 941,
+            "id": 143,
+            "sentence": 8,
+            "text": "vorwiegend",
+            "word": 8
+        },
+        {
+            "charBegin": 942,
+            "charEnd": 945,
+            "id": 144,
+            "sentence": 8,
+            "text": "von",
+            "word": 9
+        },
+        {
+            "charBegin": 946,
+            "charEnd": 953,
+            "id": 145,
+            "sentence": 8,
+            "text": "Moslems",
+            "word": 10
+        },
+        {
+            "charBegin": 954,
+            "charEnd": 963,
+            "id": 146,
+            "sentence": 8,
+            "text": "bewohnten",
+            "word": 11
+        },
+        {
+            "charBegin": 964,
+            "charEnd": 975,
+            "id": 147,
+            "sentence": 8,
+            "text": "Südthailand",
+            "word": 12
+        },
+        {
+            "charBegin": 976,
+            "charEnd": 979,
+            "id": 148,
+            "sentence": 8,
+            "text": "bei",
+            "word": 13
+        },
+        {
+            "charBegin": 980,
+            "charEnd": 989,
+            "id": 149,
+            "sentence": 8,
+            "text": "Vorfällen",
+            "word": 14
+        },
+        {
+            "charBegin": 990,
+            "charEnd": 997,
+            "id": 150,
+            "sentence": 8,
+            "text": "getötet",
+            "word": 15
+        },
+        {
+            "charBegin": 998,
+            "charEnd": 1004,
+            "id": 151,
+            "sentence": 8,
+            "text": "worden",
+            "word": 16
+        },
+        {
+            "charBegin": 1004,
+            "charEnd": 1005,
+            "id": 152,
+            "sentence": 8,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 1006,
+            "charEnd": 1009,
+            "id": 153,
+            "sentence": 8,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 1010,
+            "charEnd": 1012,
+            "id": 154,
+            "sentence": 8,
+            "text": "in",
+            "word": 19
+        },
+        {
+            "charBegin": 1013,
+            "charEnd": 1025,
+            "id": 155,
+            "sentence": 8,
+            "text": "Zusammenhang",
+            "word": 20
+        },
+        {
+            "charBegin": 1026,
+            "charEnd": 1029,
+            "id": 156,
+            "sentence": 8,
+            "text": "mit",
+            "word": 21
+        },
+        {
+            "charBegin": 1030,
+            "charEnd": 1038,
+            "id": 157,
+            "sentence": 8,
+            "text": "Aktionen",
+            "word": 22
+        },
+        {
+            "charBegin": 1039,
+            "charEnd": 1042,
+            "id": 158,
+            "sentence": 8,
+            "text": "von",
+            "word": 23
+        },
+        {
+            "charBegin": 1043,
+            "charEnd": 1057,
+            "id": 159,
+            "sentence": 8,
+            "text": "Aufständischen",
+            "word": 24
+        },
+        {
+            "charBegin": 1058,
+            "charEnd": 1064,
+            "id": 160,
+            "sentence": 8,
+            "text": "stehen",
+            "word": 25
+        },
+        {
+            "charBegin": 1064,
+            "charEnd": 1065,
+            "id": 161,
+            "sentence": 8,
+            "text": ".",
+            "word": 26
+        }
+    ]
+}

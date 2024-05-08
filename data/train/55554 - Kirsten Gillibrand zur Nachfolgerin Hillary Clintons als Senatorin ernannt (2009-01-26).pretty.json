@@ -1,0 +1,5654 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 198,
+                        "charBegin": 1387,
+                        "charEnd": 1397,
+                        "end": 199
+                    }
+                ],
+                "text": "Gillibrand",
+                "tokenIds": [
+                    198
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 197,
+                        "charBegin": 1375,
+                        "charEnd": 1386,
+                        "end": 198
+                    },
+                    {
+                        "begin": 200,
+                        "charBegin": 1404,
+                        "charEnd": 1409,
+                        "end": 201
+                    }
+                ],
+                "text": "kritisierte dafür",
+                "tokenIds": [
+                    197,
+                    200
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 192,
+                        "charBegin": 1333,
+                        "charEnd": 1410,
+                        "end": 202
+                    }
+                ],
+                "text": "New Yorks Bürgermeister Michael Bloomberg kritisierte Gillibrand offen dafür,",
+                "tokenIds": [
+                    192,
+                    193,
+                    194,
+                    195,
+                    196,
+                    197,
+                    198,
+                    199,
+                    200,
+                    201
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 202,
+                        "charBegin": 1411,
+                        "charEnd": 1519,
+                        "end": 221
+                    }
+                ],
+                "text": "gegen die Bemühungen New York Citys gestimmt zu haben, illegale Waffen von den Straßen der Stadt zu bekommen",
+                "tokenIds": [
+                    202,
+                    203,
+                    204,
+                    205,
+                    206,
+                    207,
+                    208,
+                    209,
+                    210,
+                    211,
+                    212,
+                    213,
+                    214,
+                    215,
+                    216,
+                    217,
+                    218,
+                    219,
+                    220
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 192,
+                        "charBegin": 1333,
+                        "charEnd": 1374,
+                        "end": 197
+                    }
+                ],
+                "text": "New Yorks Bürgermeister Michael Bloomberg",
+                "tokenIds": [
+                    192,
+                    193,
+                    194,
+                    195,
+                    196
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 226,
+                        "charBegin": 1562,
+                        "charEnd": 1570,
+                        "end": 227
+                    }
+                ],
+                "text": "erklärte",
+                "tokenIds": [
+                    226
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 222,
+                        "charBegin": 1521,
+                        "charEnd": 1571,
+                        "end": 228
+                    }
+                ],
+                "text": "Die Kongressabgeordnete Carolyn McCarthy erklärte,",
+                "tokenIds": [
+                    222,
+                    223,
+                    224,
+                    225,
+                    226,
+                    227
+                ]
+            },
+            "hasNested": true,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 228,
+                        "charBegin": 1572,
+                        "charEnd": 1659,
+                        "end": 245
+                    }
+                ],
+                "text": "Gillibrand sei „das Postergirl der NRA, und das repräsentiert nicht den Staat New York“",
+                "tokenIds": [
+                    228,
+                    229,
+                    230,
+                    231,
+                    232,
+                    233,
+                    234,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241,
+                    242,
+                    243,
+                    244
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 226,
+                        "charBegin": 1562,
+                        "charEnd": 1570,
+                        "end": 227
+                    }
+                ],
+                "text": "erklärte",
+                "tokenIds": [
+                    226
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 222,
+                        "charBegin": 1521,
+                        "charEnd": 1571,
+                        "end": 228
+                    }
+                ],
+                "text": "Die Kongressabgeordnete Carolyn McCarthy erklärte,",
+                "tokenIds": [
+                    222,
+                    223,
+                    224,
+                    225,
+                    226,
+                    227
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 230,
+                        "charBegin": 1587,
+                        "charEnd": 1659,
+                        "end": 245
+                    }
+                ],
+                "text": "„das Postergirl der NRA, und das repräsentiert nicht den Staat New York“",
+                "tokenIds": [
+                    230,
+                    231,
+                    232,
+                    233,
+                    234,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241,
+                    242,
+                    243,
+                    244
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 246,
+                        "charBegin": 1664,
+                        "charEnd": 1675,
+                        "end": 248
+                    }
+                ],
+                "text": "kündigte an",
+                "tokenIds": [
+                    246,
+                    247
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 245,
+                        "charBegin": 1660,
+                        "charEnd": 1676,
+                        "end": 249
+                    }
+                ],
+                "text": "und kündigte an,",
+                "tokenIds": [
+                    245,
+                    246,
+                    247,
+                    248
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 249,
+                        "charBegin": 1677,
+                        "charEnd": 1720,
+                        "end": 255
+                    }
+                ],
+                "text": "2010 gegen Gillibrand kandidieren zu wollen",
+                "tokenIds": [
+                    249,
+                    250,
+                    251,
+                    252,
+                    253,
+                    254
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 222,
+                        "charBegin": 1521,
+                        "charEnd": 1561,
+                        "end": 226
+                    }
+                ],
+                "text": "Die Kongressabgeordnete Carolyn McCarthy",
+                "tokenIds": [
+                    222,
+                    223,
+                    224,
+                    225
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 290,
+                        "charBegin": 1919,
+                        "charEnd": 1925,
+                        "end": 291
+                    }
+                ],
+                "text": "nannte",
+                "tokenIds": [
+                    290
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 289,
+                        "charBegin": 1910,
+                        "charEnd": 1948,
+                        "end": 293
+                    }
+                ],
+                "text": "McCarthy nannte Patersons Entscheidung",
+                "tokenIds": [
+                    289,
+                    290,
+                    291,
+                    292
+                ]
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 293,
+                        "charBegin": 1949,
+                        "charEnd": 1975,
+                        "end": 299
+                    }
+                ],
+                "text": "„eine sehr schlechte Wahl“",
+                "tokenIds": [
+                    293,
+                    294,
+                    295,
+                    296,
+                    297,
+                    298
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 289,
+                        "charBegin": 1910,
+                        "charEnd": 1918,
+                        "end": 290
+                    }
+                ],
+                "text": "McCarthy",
+                "tokenIds": [
+                    289
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 303,
+                        "charBegin": 1999,
+                        "charEnd": 2007,
+                        "end": 304
+                    },
+                    {
+                        "begin": 306,
+                        "charBegin": 2030,
+                        "charEnd": 2032,
+                        "end": 307
+                    }
+                ],
+                "text": "kündigte an",
+                "tokenIds": [
+                    303,
+                    306
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 300,
+                        "charBegin": 1978,
+                        "charEnd": 2033,
+                        "end": 308
+                    }
+                ],
+                "text": "Nach ihrer Ernennung kündigte Gillibrand allerdings an,",
+                "tokenIds": [
+                    300,
+                    301,
+                    302,
+                    303,
+                    304,
+                    305,
+                    306,
+                    307
+                ]
+            },
+            "hasNested": false,
+            "id": 5,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 308,
+                        "charBegin": 2034,
+                        "charEnd": 2114,
+                        "end": 321
+                    }
+                ],
+                "text": "an Gesetzen mitwirken zu wollen, die Kriminellen den Zugang zu Waffen verhindert",
+                "tokenIds": [
+                    308,
+                    309,
+                    310,
+                    311,
+                    312,
+                    313,
+                    314,
+                    315,
+                    316,
+                    317,
+                    318,
+                    319,
+                    320
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 304,
+                        "charBegin": 2008,
+                        "charEnd": 2018,
+                        "end": 305
+                    }
+                ],
+                "text": "Gillibrand",
+                "tokenIds": [
+                    304
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 410,
+                        "charBegin": 2667,
+                        "charEnd": 2671,
+                        "end": 411
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    410
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 410,
+                        "charBegin": 2667,
+                        "charEnd": 2686,
+                        "end": 413
+                    }
+                ],
+                "text": "Nach der Verfassung",
+                "tokenIds": [
+                    410,
+                    411,
+                    412
+                ]
+            },
+            "hasNested": false,
+            "id": 6,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 413,
+                        "charBegin": 2687,
+                        "charEnd": 2875,
+                        "end": 447
+                    }
+                ],
+                "text": "muss sich Gillibrand nun im Jahr 2010 der Wahl stellen, um dann für die restliche Amtszeit bestätigt zu werden, 2012 findet dann die reguläre Wahl mit einer Amtszeit von sechs Jahren statt",
+                "tokenIds": [
+                    413,
+                    414,
+                    415,
+                    416,
+                    417,
+                    418,
+                    419,
+                    420,
+                    421,
+                    422,
+                    423,
+                    424,
+                    425,
+                    426,
+                    427,
+                    428,
+                    429,
+                    430,
+                    431,
+                    432,
+                    433,
+                    434,
+                    435,
+                    436,
+                    437,
+                    438,
+                    439,
+                    440,
+                    441,
+                    442,
+                    443,
+                    444,
+                    445,
+                    446
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 411,
+                        "charBegin": 2672,
+                        "charEnd": 2686,
+                        "end": 413
+                    }
+                ],
+                "text": "der Verfassung",
+                "tokenIds": [
+                    411,
+                    412
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 450,
+                        "charBegin": 2896,
+                        "charEnd": 2901,
+                        "end": 451
+                    }
+                ],
+                "text": "sagen",
+                "tokenIds": [
+                    450
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 448,
+                        "charBegin": 2877,
+                        "charEnd": 2902,
+                        "end": 452
+                    }
+                ],
+                "text": "Politische Berater sagen,",
+                "tokenIds": [
+                    448,
+                    449,
+                    450,
+                    451
+                ]
+            },
+            "hasNested": false,
+            "id": 7,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 452,
+                        "charBegin": 2903,
+                        "charEnd": 3028,
+                        "end": 468
+                    }
+                ],
+                "text": "dass ein erfolgreicher Kandidat für beide Wahlen mindestens 40 Millionen US-Dollar an Wahlkampfspenden aufbringen werden muss",
+                "tokenIds": [
+                    452,
+                    453,
+                    454,
+                    455,
+                    456,
+                    457,
+                    458,
+                    459,
+                    460,
+                    461,
+                    462,
+                    463,
+                    464,
+                    465,
+                    466,
+                    467
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 448,
+                        "charBegin": 2877,
+                        "charEnd": 2895,
+                        "end": 450
+                    }
+                ],
+                "text": "Politische Berater",
+                "tokenIds": [
+                    448,
+                    449
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "55554 - Kirsten Gillibrand zur Nachfolgerin Hillary Clintons als Senatorin ernannt (2009-01-26)",
+    "originalText": "Der Gouverneur des Bundesstaates New York, David A. Paterson ernannte am 22. Januar die Demokratin Kirsten Gillibrand zur Nachfolgerin der bisherigen Amtsinhaberin Hillary Clinton, deren Sitz im US-Senat frei geworden war. Clinton hatte in der Regierung des neuen US-Präsidenten Barack Obama die Funktion der Außenministerin übernommen.\n\nPaterson gab Gillibrand den Vorzug vor einigen prominenteren Bewerbern um den Posten, darunter waren Caroline Kennedy, der Tochter John F. Kennedys und der Generalstaatsanwalt des Bundesstaates Andrew Cuomo. Kennedy hatte ihre Bereitschaft, für den Posten zur Verfügung zu stehen, am Tage von Obamas Amtseinführung überraschend aus persönlichen Gründen zurückgezogen. Patersons Entscheidung könnte ihm bei seiner eigenen Wiederwahl 2010 zu Stimmengewinnen im ländlichen Teil des Bundesstaates verhelfen, vor allem im konservativen Hudson Valley, wo Gillibrand beheimatet ist.\n\nDie Ernennung Gillibrands ist unterdessen auf Kritik gestoßen. Gillibrand hatte als einzige Kongressabgeordnete gegen das 700-Milliarden-US-Dollar-Hilfspaket fur die Finanzbranche gestimmt und wird von der National Rifle Association, durch die ein freier Zugang zu Waffen propagiert wird, hervorragend beurteilt. Der Bundesstaat New York hat allerdings eines der strengsten Waffengesetze in den Vereinigten Staaten. \n\nNew Yorks Bürgermeister Michael Bloomberg kritisierte Gillibrand offen dafür, gegen die Bemühungen New York Citys gestimmt zu haben, illegale Waffen von den Straßen der Stadt zu bekommen. Die Kongressabgeordnete Carolyn McCarthy erklärte, Gillibrand sei „das Postergirl der NRA, und das repräsentiert nicht den Staat New York“ und kündigte an, 2010 gegen Gillibrand kandidieren zu wollen. McCartys Ehemann war eines von sechs Opfern, die ein Amokläufer vor 15 Jahren in einem Pendlerzug auf Long Island erschossen hatte, ihr Sohn war bei der Schießerei schwer verletzt worden. McCarthy nannte Patersons Entscheidung „eine sehr schlechte Wahl“.\n\nNach ihrer Ernennung kündigte Gillibrand allerdings an, an Gesetzen mitwirken zu wollen, die Kriminellen den Zugang zu Waffen verhindert. Gillibrand unterstützt das Recht der Frauen auf eine Abtreibung und Gesetze, die die gleichgeschlechtliche Ehe erlauben.\n\nKirsten Gillibrand ist 42 Jahre alt, verheirat und hat zwei Söhne. Sie wurde 2006 zum ersten Mal in den Kongress gewählt, als sie den damaligen republikanischen Amtsinhaber John Sweeney hinter sich ließ. Der 20. Wahlbezirk bei Albany erstreckt sich von Lake Placid in den Adirondack Mountains bis ins Dutchess County. Gillibrand war im Repräsentantenhaus Mitglied in den Ausschüssen für Landwirtschaft und für die Streitkräfte.\n\nNach der Verfassung muss sich Gillibrand nun im Jahr 2010 der Wahl stellen, um dann für die restliche Amtszeit bestätigt zu werden, 2012 findet dann die reguläre Wahl mit einer Amtszeit von sechs Jahren statt. Politische Berater sagen, dass ein erfolgreicher Kandidat für beide Wahlen mindestens 40 Millionen US-Dollar an Wahlkampfspenden aufbringen werden muss.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 222,
+            "end": 34,
+            "id": 0,
+            "text": "Der Gouverneur des Bundesstaates New York, David A. Paterson ernannte am 22. Januar die Demokratin Kirsten Gillibrand zur Nachfolgerin der bisherigen Amtsinhaberin Hillary Clinton, deren Sitz im US-Senat frei geworden war. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33
+            ],
+            "tokens": [
+                "Der",
+                "Gouverneur",
+                "des",
+                "Bundesstaates",
+                "New",
+                "York",
+                ",",
+                "David",
+                "A.",
+                "Paterson",
+                "ernannte",
+                "am",
+                "22.",
+                "Januar",
+                "die",
+                "Demokratin",
+                "Kirsten",
+                "Gillibrand",
+                "zur",
+                "Nachfolgerin",
+                "der",
+                "bisherigen",
+                "Amtsinhaberin",
+                "Hillary",
+                "Clinton",
+                ",",
+                "deren",
+                "Sitz",
+                "im",
+                "US-Senat",
+                "frei",
+                "geworden",
+                "war",
+                "."
+            ]
+        },
+        {
+            "begin": 34,
+            "charBegin": 223,
+            "charEnd": 336,
+            "end": 50,
+            "id": 1,
+            "text": "Clinton hatte in der Regierung des neuen US-Präsidenten Barack Obama die Funktion der Außenministerin übernommen.",
+            "tokenIds": [
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ],
+            "tokens": [
+                "Clinton",
+                "hatte",
+                "in",
+                "der",
+                "Regierung",
+                "des",
+                "neuen",
+                "US-Präsidenten",
+                "Barack",
+                "Obama",
+                "die",
+                "Funktion",
+                "der",
+                "Außenministerin",
+                "übernommen",
+                "."
+            ]
+        },
+        {
+            "begin": 50,
+            "charBegin": 338,
+            "charEnd": 545,
+            "end": 81,
+            "id": 2,
+            "text": "Paterson gab Gillibrand den Vorzug vor einigen prominenteren Bewerbern um den Posten, darunter waren Caroline Kennedy, der Tochter John F. Kennedys und der Generalstaatsanwalt des Bundesstaates Andrew Cuomo. ",
+            "tokenIds": [
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80
+            ],
+            "tokens": [
+                "Paterson",
+                "gab",
+                "Gillibrand",
+                "den",
+                "Vorzug",
+                "vor",
+                "einigen",
+                "prominenteren",
+                "Bewerbern",
+                "um",
+                "den",
+                "Posten",
+                ",",
+                "darunter",
+                "waren",
+                "Caroline",
+                "Kennedy",
+                ",",
+                "der",
+                "Tochter",
+                "John",
+                "F.",
+                "Kennedys",
+                "und",
+                "der",
+                "Generalstaatsanwalt",
+                "des",
+                "Bundesstaates",
+                "Andrew",
+                "Cuomo",
+                "."
+            ]
+        },
+        {
+            "begin": 81,
+            "charBegin": 546,
+            "charEnd": 705,
+            "end": 105,
+            "id": 3,
+            "text": "Kennedy hatte ihre Bereitschaft, für den Posten zur Verfügung zu stehen, am Tage von Obamas Amtseinführung überraschend aus persönlichen Gründen zurückgezogen. ",
+            "tokenIds": [
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104
+            ],
+            "tokens": [
+                "Kennedy",
+                "hatte",
+                "ihre",
+                "Bereitschaft",
+                ",",
+                "für",
+                "den",
+                "Posten",
+                "zur",
+                "Verfügung",
+                "zu",
+                "stehen",
+                ",",
+                "am",
+                "Tage",
+                "von",
+                "Obamas",
+                "Amtseinführung",
+                "überraschend",
+                "aus",
+                "persönlichen",
+                "Gründen",
+                "zurückgezogen",
+                "."
+            ]
+        },
+        {
+            "begin": 105,
+            "charBegin": 706,
+            "charEnd": 913,
+            "end": 135,
+            "id": 4,
+            "text": "Patersons Entscheidung könnte ihm bei seiner eigenen Wiederwahl 2010 zu Stimmengewinnen im ländlichen Teil des Bundesstaates verhelfen, vor allem im konservativen Hudson Valley, wo Gillibrand beheimatet ist.",
+            "tokenIds": [
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134
+            ],
+            "tokens": [
+                "Patersons",
+                "Entscheidung",
+                "könnte",
+                "ihm",
+                "bei",
+                "seiner",
+                "eigenen",
+                "Wiederwahl",
+                "2010",
+                "zu",
+                "Stimmengewinnen",
+                "im",
+                "ländlichen",
+                "Teil",
+                "des",
+                "Bundesstaates",
+                "verhelfen",
+                ",",
+                "vor",
+                "allem",
+                "im",
+                "konservativen",
+                "Hudson",
+                "Valley",
+                ",",
+                "wo",
+                "Gillibrand",
+                "beheimatet",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "begin": 135,
+            "charBegin": 915,
+            "charEnd": 977,
+            "end": 144,
+            "id": 5,
+            "text": "Die Ernennung Gillibrands ist unterdessen auf Kritik gestoßen. ",
+            "tokenIds": [
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143
+            ],
+            "tokens": [
+                "Die",
+                "Ernennung",
+                "Gillibrands",
+                "ist",
+                "unterdessen",
+                "auf",
+                "Kritik",
+                "gestoßen",
+                "."
+            ]
+        },
+        {
+            "begin": 144,
+            "charBegin": 978,
+            "charEnd": 1227,
+            "end": 177,
+            "id": 6,
+            "text": "Gillibrand hatte als einzige Kongressabgeordnete gegen das 700-Milliarden-US-Dollar-Hilfspaket fur die Finanzbranche gestimmt und wird von der National Rifle Association, durch die ein freier Zugang zu Waffen propagiert wird, hervorragend beurteilt. ",
+            "tokenIds": [
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176
+            ],
+            "tokens": [
+                "Gillibrand",
+                "hatte",
+                "als",
+                "einzige",
+                "Kongressabgeordnete",
+                "gegen",
+                "das",
+                "700-Milliarden-US-Dollar-Hilfspaket",
+                "fur",
+                "die",
+                "Finanzbranche",
+                "gestimmt",
+                "und",
+                "wird",
+                "von",
+                "der",
+                "National",
+                "Rifle",
+                "Association",
+                ",",
+                "durch",
+                "die",
+                "ein",
+                "freier",
+                "Zugang",
+                "zu",
+                "Waffen",
+                "propagiert",
+                "wird",
+                ",",
+                "hervorragend",
+                "beurteilt",
+                "."
+            ]
+        },
+        {
+            "begin": 177,
+            "charBegin": 1228,
+            "charEnd": 1330,
+            "end": 192,
+            "id": 7,
+            "text": "Der Bundesstaat New York hat allerdings eines der strengsten Waffengesetze in den Vereinigten Staaten. ",
+            "tokenIds": [
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191
+            ],
+            "tokens": [
+                "Der",
+                "Bundesstaat",
+                "New",
+                "York",
+                "hat",
+                "allerdings",
+                "eines",
+                "der",
+                "strengsten",
+                "Waffengesetze",
+                "in",
+                "den",
+                "Vereinigten",
+                "Staaten",
+                "."
+            ]
+        },
+        {
+            "begin": 192,
+            "charBegin": 1333,
+            "charEnd": 1520,
+            "end": 222,
+            "id": 8,
+            "text": "New Yorks Bürgermeister Michael Bloomberg kritisierte Gillibrand offen dafür, gegen die Bemühungen New York Citys gestimmt zu haben, illegale Waffen von den Straßen der Stadt zu bekommen. ",
+            "tokenIds": [
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221
+            ],
+            "tokens": [
+                "New",
+                "Yorks",
+                "Bürgermeister",
+                "Michael",
+                "Bloomberg",
+                "kritisierte",
+                "Gillibrand",
+                "offen",
+                "dafür",
+                ",",
+                "gegen",
+                "die",
+                "Bemühungen",
+                "New",
+                "York",
+                "Citys",
+                "gestimmt",
+                "zu",
+                "haben",
+                ",",
+                "illegale",
+                "Waffen",
+                "von",
+                "den",
+                "Straßen",
+                "der",
+                "Stadt",
+                "zu",
+                "bekommen",
+                "."
+            ]
+        },
+        {
+            "begin": 222,
+            "charBegin": 1521,
+            "charEnd": 1721,
+            "end": 256,
+            "id": 9,
+            "text": "Die Kongressabgeordnete Carolyn McCarthy erklärte, Gillibrand sei „das Postergirl der NRA, und das repräsentiert nicht den Staat New York“ und kündigte an, 2010 gegen Gillibrand kandidieren zu wollen. ",
+            "tokenIds": [
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255
+            ],
+            "tokens": [
+                "Die",
+                "Kongressabgeordnete",
+                "Carolyn",
+                "McCarthy",
+                "erklärte",
+                ",",
+                "Gillibrand",
+                "sei",
+                "„",
+                "das",
+                "Postergirl",
+                "der",
+                "NRA",
+                ",",
+                "und",
+                "das",
+                "repräsentiert",
+                "nicht",
+                "den",
+                "Staat",
+                "New",
+                "York",
+                "“",
+                "und",
+                "kündigte",
+                "an",
+                ",",
+                "2010",
+                "gegen",
+                "Gillibrand",
+                "kandidieren",
+                "zu",
+                "wollen",
+                "."
+            ]
+        },
+        {
+            "begin": 256,
+            "charBegin": 1722,
+            "charEnd": 1909,
+            "end": 289,
+            "id": 10,
+            "text": "McCartys Ehemann war eines von sechs Opfern, die ein Amokläufer vor 15 Jahren in einem Pendlerzug auf Long Island erschossen hatte, ihr Sohn war bei der Schießerei schwer verletzt worden. ",
+            "tokenIds": [
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273,
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288
+            ],
+            "tokens": [
+                "McCartys",
+                "Ehemann",
+                "war",
+                "eines",
+                "von",
+                "sechs",
+                "Opfern",
+                ",",
+                "die",
+                "ein",
+                "Amokläufer",
+                "vor",
+                "15",
+                "Jahren",
+                "in",
+                "einem",
+                "Pendlerzug",
+                "auf",
+                "Long",
+                "Island",
+                "erschossen",
+                "hatte",
+                ",",
+                "ihr",
+                "Sohn",
+                "war",
+                "bei",
+                "der",
+                "Schießerei",
+                "schwer",
+                "verletzt",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "begin": 289,
+            "charBegin": 1910,
+            "charEnd": 1976,
+            "end": 300,
+            "id": 11,
+            "text": "McCarthy nannte Patersons Entscheidung „eine sehr schlechte Wahl“.",
+            "tokenIds": [
+                289,
+                290,
+                291,
+                292,
+                293,
+                294,
+                295,
+                296,
+                297,
+                298,
+                299
+            ],
+            "tokens": [
+                "McCarthy",
+                "nannte",
+                "Patersons",
+                "Entscheidung",
+                "„",
+                "eine",
+                "sehr",
+                "schlechte",
+                "Wahl",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 300,
+            "charBegin": 1978,
+            "charEnd": 2115,
+            "end": 322,
+            "id": 12,
+            "text": "Nach ihrer Ernennung kündigte Gillibrand allerdings an, an Gesetzen mitwirken zu wollen, die Kriminellen den Zugang zu Waffen verhindert. ",
+            "tokenIds": [
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306,
+                307,
+                308,
+                309,
+                310,
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321
+            ],
+            "tokens": [
+                "Nach",
+                "ihrer",
+                "Ernennung",
+                "kündigte",
+                "Gillibrand",
+                "allerdings",
+                "an",
+                ",",
+                "an",
+                "Gesetzen",
+                "mitwirken",
+                "zu",
+                "wollen",
+                ",",
+                "die",
+                "Kriminellen",
+                "den",
+                "Zugang",
+                "zu",
+                "Waffen",
+                "verhindert",
+                "."
+            ]
+        },
+        {
+            "begin": 322,
+            "charBegin": 2116,
+            "charEnd": 2236,
+            "end": 340,
+            "id": 13,
+            "text": "Gillibrand unterstützt das Recht der Frauen auf eine Abtreibung und Gesetze, die die gleichgeschlechtliche Ehe erlauben.",
+            "tokenIds": [
+                322,
+                323,
+                324,
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332,
+                333,
+                334,
+                335,
+                336,
+                337,
+                338,
+                339
+            ],
+            "tokens": [
+                "Gillibrand",
+                "unterstützt",
+                "das",
+                "Recht",
+                "der",
+                "Frauen",
+                "auf",
+                "eine",
+                "Abtreibung",
+                "und",
+                "Gesetze",
+                ",",
+                "die",
+                "die",
+                "gleichgeschlechtliche",
+                "Ehe",
+                "erlauben",
+                "."
+            ]
+        },
+        {
+            "begin": 340,
+            "charBegin": 2238,
+            "charEnd": 2304,
+            "end": 353,
+            "id": 14,
+            "text": "Kirsten Gillibrand ist 42 Jahre alt, verheirat und hat zwei Söhne. ",
+            "tokenIds": [
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346,
+                347,
+                348,
+                349,
+                350,
+                351,
+                352
+            ],
+            "tokens": [
+                "Kirsten",
+                "Gillibrand",
+                "ist",
+                "42",
+                "Jahre",
+                "alt",
+                ",",
+                "verheirat",
+                "und",
+                "hat",
+                "zwei",
+                "Söhne",
+                "."
+            ]
+        },
+        {
+            "begin": 353,
+            "charBegin": 2305,
+            "charEnd": 2441,
+            "end": 376,
+            "id": 15,
+            "text": "Sie wurde 2006 zum ersten Mal in den Kongress gewählt, als sie den damaligen republikanischen Amtsinhaber John Sweeney hinter sich ließ. ",
+            "tokenIds": [
+                353,
+                354,
+                355,
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365,
+                366,
+                367,
+                368,
+                369,
+                370,
+                371,
+                372,
+                373,
+                374,
+                375
+            ],
+            "tokens": [
+                "Sie",
+                "wurde",
+                "2006",
+                "zum",
+                "ersten",
+                "Mal",
+                "in",
+                "den",
+                "Kongress",
+                "gewählt",
+                ",",
+                "als",
+                "sie",
+                "den",
+                "damaligen",
+                "republikanischen",
+                "Amtsinhaber",
+                "John",
+                "Sweeney",
+                "hinter",
+                "sich",
+                "ließ",
+                "."
+            ]
+        },
+        {
+            "begin": 376,
+            "charBegin": 2442,
+            "charEnd": 2555,
+            "end": 395,
+            "id": 16,
+            "text": "Der 20. Wahlbezirk bei Albany erstreckt sich von Lake Placid in den Adirondack Mountains bis ins Dutchess County. ",
+            "tokenIds": [
+                376,
+                377,
+                378,
+                379,
+                380,
+                381,
+                382,
+                383,
+                384,
+                385,
+                386,
+                387,
+                388,
+                389,
+                390,
+                391,
+                392,
+                393,
+                394
+            ],
+            "tokens": [
+                "Der",
+                "20.",
+                "Wahlbezirk",
+                "bei",
+                "Albany",
+                "erstreckt",
+                "sich",
+                "von",
+                "Lake",
+                "Placid",
+                "in",
+                "den",
+                "Adirondack",
+                "Mountains",
+                "bis",
+                "ins",
+                "Dutchess",
+                "County",
+                "."
+            ]
+        },
+        {
+            "begin": 395,
+            "charBegin": 2556,
+            "charEnd": 2665,
+            "end": 410,
+            "id": 17,
+            "text": "Gillibrand war im Repräsentantenhaus Mitglied in den Ausschüssen für Landwirtschaft und für die Streitkräfte.",
+            "tokenIds": [
+                395,
+                396,
+                397,
+                398,
+                399,
+                400,
+                401,
+                402,
+                403,
+                404,
+                405,
+                406,
+                407,
+                408,
+                409
+            ],
+            "tokens": [
+                "Gillibrand",
+                "war",
+                "im",
+                "Repräsentantenhaus",
+                "Mitglied",
+                "in",
+                "den",
+                "Ausschüssen",
+                "für",
+                "Landwirtschaft",
+                "und",
+                "für",
+                "die",
+                "Streitkräfte",
+                "."
+            ]
+        },
+        {
+            "begin": 410,
+            "charBegin": 2667,
+            "charEnd": 2876,
+            "end": 448,
+            "id": 18,
+            "text": "Nach der Verfassung muss sich Gillibrand nun im Jahr 2010 der Wahl stellen, um dann für die restliche Amtszeit bestätigt zu werden, 2012 findet dann die reguläre Wahl mit einer Amtszeit von sechs Jahren statt. ",
+            "tokenIds": [
+                410,
+                411,
+                412,
+                413,
+                414,
+                415,
+                416,
+                417,
+                418,
+                419,
+                420,
+                421,
+                422,
+                423,
+                424,
+                425,
+                426,
+                427,
+                428,
+                429,
+                430,
+                431,
+                432,
+                433,
+                434,
+                435,
+                436,
+                437,
+                438,
+                439,
+                440,
+                441,
+                442,
+                443,
+                444,
+                445,
+                446,
+                447
+            ],
+            "tokens": [
+                "Nach",
+                "der",
+                "Verfassung",
+                "muss",
+                "sich",
+                "Gillibrand",
+                "nun",
+                "im",
+                "Jahr",
+                "2010",
+                "der",
+                "Wahl",
+                "stellen",
+                ",",
+                "um",
+                "dann",
+                "für",
+                "die",
+                "restliche",
+                "Amtszeit",
+                "bestätigt",
+                "zu",
+                "werden",
+                ",",
+                "2012",
+                "findet",
+                "dann",
+                "die",
+                "reguläre",
+                "Wahl",
+                "mit",
+                "einer",
+                "Amtszeit",
+                "von",
+                "sechs",
+                "Jahren",
+                "statt",
+                "."
+            ]
+        },
+        {
+            "begin": 448,
+            "charBegin": 2877,
+            "charEnd": 3029,
+            "end": 469,
+            "id": 19,
+            "text": "Politische Berater sagen, dass ein erfolgreicher Kandidat für beide Wahlen mindestens 40 Millionen US-Dollar an Wahlkampfspenden aufbringen werden muss.",
+            "tokenIds": [
+                448,
+                449,
+                450,
+                451,
+                452,
+                453,
+                454,
+                455,
+                456,
+                457,
+                458,
+                459,
+                460,
+                461,
+                462,
+                463,
+                464,
+                465,
+                466,
+                467,
+                468
+            ],
+            "tokens": [
+                "Politische",
+                "Berater",
+                "sagen",
+                ",",
+                "dass",
+                "ein",
+                "erfolgreicher",
+                "Kandidat",
+                "für",
+                "beide",
+                "Wahlen",
+                "mindestens",
+                "40",
+                "Millionen",
+                "US-Dollar",
+                "an",
+                "Wahlkampfspenden",
+                "aufbringen",
+                "werden",
+                "muss",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 14,
+            "id": 1,
+            "sentence": 1,
+            "text": "Gouverneur",
+            "word": 2
+        },
+        {
+            "charBegin": 15,
+            "charEnd": 18,
+            "id": 2,
+            "sentence": 1,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 32,
+            "id": 3,
+            "sentence": 1,
+            "text": "Bundesstaates",
+            "word": 4
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 36,
+            "id": 4,
+            "sentence": 1,
+            "text": "New",
+            "word": 5
+        },
+        {
+            "charBegin": 37,
+            "charEnd": 41,
+            "id": 5,
+            "sentence": 1,
+            "text": "York",
+            "word": 6
+        },
+        {
+            "charBegin": 41,
+            "charEnd": 42,
+            "id": 6,
+            "sentence": 1,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 48,
+            "id": 7,
+            "sentence": 1,
+            "text": "David",
+            "word": 8
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 51,
+            "id": 8,
+            "sentence": 1,
+            "text": "A.",
+            "word": 9
+        },
+        {
+            "charBegin": 52,
+            "charEnd": 60,
+            "id": 9,
+            "sentence": 1,
+            "text": "Paterson",
+            "word": 10
+        },
+        {
+            "charBegin": 61,
+            "charEnd": 69,
+            "id": 10,
+            "sentence": 1,
+            "text": "ernannte",
+            "word": 11
+        },
+        {
+            "charBegin": 70,
+            "charEnd": 72,
+            "id": 11,
+            "sentence": 1,
+            "text": "am",
+            "word": 12
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 76,
+            "id": 12,
+            "sentence": 1,
+            "text": "22.",
+            "word": 13
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 83,
+            "id": 13,
+            "sentence": 1,
+            "text": "Januar",
+            "word": 14
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 87,
+            "id": 14,
+            "sentence": 1,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 88,
+            "charEnd": 98,
+            "id": 15,
+            "sentence": 1,
+            "text": "Demokratin",
+            "word": 16
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 106,
+            "id": 16,
+            "sentence": 1,
+            "text": "Kirsten",
+            "word": 17
+        },
+        {
+            "charBegin": 107,
+            "charEnd": 117,
+            "id": 17,
+            "sentence": 1,
+            "text": "Gillibrand",
+            "word": 18
+        },
+        {
+            "charBegin": 118,
+            "charEnd": 121,
+            "id": 18,
+            "sentence": 1,
+            "text": "zur",
+            "word": 19
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 134,
+            "id": 19,
+            "sentence": 1,
+            "text": "Nachfolgerin",
+            "word": 20
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 138,
+            "id": 20,
+            "sentence": 1,
+            "text": "der",
+            "word": 21
+        },
+        {
+            "charBegin": 139,
+            "charEnd": 149,
+            "id": 21,
+            "sentence": 1,
+            "text": "bisherigen",
+            "word": 22
+        },
+        {
+            "charBegin": 150,
+            "charEnd": 163,
+            "id": 22,
+            "sentence": 1,
+            "text": "Amtsinhaberin",
+            "word": 23
+        },
+        {
+            "charBegin": 164,
+            "charEnd": 171,
+            "id": 23,
+            "sentence": 1,
+            "text": "Hillary",
+            "word": 24
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 179,
+            "id": 24,
+            "sentence": 1,
+            "text": "Clinton",
+            "word": 25
+        },
+        {
+            "charBegin": 179,
+            "charEnd": 180,
+            "id": 25,
+            "sentence": 1,
+            "text": ",",
+            "word": 26
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 186,
+            "id": 26,
+            "sentence": 1,
+            "text": "deren",
+            "word": 27
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 191,
+            "id": 27,
+            "sentence": 1,
+            "text": "Sitz",
+            "word": 28
+        },
+        {
+            "charBegin": 192,
+            "charEnd": 194,
+            "id": 28,
+            "sentence": 1,
+            "text": "im",
+            "word": 29
+        },
+        {
+            "charBegin": 195,
+            "charEnd": 203,
+            "id": 29,
+            "sentence": 1,
+            "text": "US-Senat",
+            "word": 30
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 208,
+            "id": 30,
+            "sentence": 1,
+            "text": "frei",
+            "word": 31
+        },
+        {
+            "charBegin": 209,
+            "charEnd": 217,
+            "id": 31,
+            "sentence": 1,
+            "text": "geworden",
+            "word": 32
+        },
+        {
+            "charBegin": 218,
+            "charEnd": 221,
+            "id": 32,
+            "sentence": 1,
+            "text": "war",
+            "word": 33
+        },
+        {
+            "charBegin": 221,
+            "charEnd": 222,
+            "id": 33,
+            "sentence": 1,
+            "text": ".",
+            "word": 34
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 230,
+            "id": 34,
+            "sentence": 2,
+            "text": "Clinton",
+            "word": 1
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 236,
+            "id": 35,
+            "sentence": 2,
+            "text": "hatte",
+            "word": 2
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 239,
+            "id": 36,
+            "sentence": 2,
+            "text": "in",
+            "word": 3
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 243,
+            "id": 37,
+            "sentence": 2,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 253,
+            "id": 38,
+            "sentence": 2,
+            "text": "Regierung",
+            "word": 5
+        },
+        {
+            "charBegin": 254,
+            "charEnd": 257,
+            "id": 39,
+            "sentence": 2,
+            "text": "des",
+            "word": 6
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 263,
+            "id": 40,
+            "sentence": 2,
+            "text": "neuen",
+            "word": 7
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 278,
+            "id": 41,
+            "sentence": 2,
+            "text": "US-Präsidenten",
+            "word": 8
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 285,
+            "id": 42,
+            "sentence": 2,
+            "text": "Barack",
+            "word": 9
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 291,
+            "id": 43,
+            "sentence": 2,
+            "text": "Obama",
+            "word": 10
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 295,
+            "id": 44,
+            "sentence": 2,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 296,
+            "charEnd": 304,
+            "id": 45,
+            "sentence": 2,
+            "text": "Funktion",
+            "word": 12
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 308,
+            "id": 46,
+            "sentence": 2,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 324,
+            "id": 47,
+            "sentence": 2,
+            "text": "Außenministerin",
+            "word": 14
+        },
+        {
+            "charBegin": 325,
+            "charEnd": 335,
+            "id": 48,
+            "sentence": 2,
+            "text": "übernommen",
+            "word": 15
+        },
+        {
+            "charBegin": 335,
+            "charEnd": 336,
+            "id": 49,
+            "sentence": 2,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 346,
+            "id": 50,
+            "sentence": 3,
+            "text": "Paterson",
+            "word": 1
+        },
+        {
+            "charBegin": 347,
+            "charEnd": 350,
+            "id": 51,
+            "sentence": 3,
+            "text": "gab",
+            "word": 2
+        },
+        {
+            "charBegin": 351,
+            "charEnd": 361,
+            "id": 52,
+            "sentence": 3,
+            "text": "Gillibrand",
+            "word": 3
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 365,
+            "id": 53,
+            "sentence": 3,
+            "text": "den",
+            "word": 4
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 372,
+            "id": 54,
+            "sentence": 3,
+            "text": "Vorzug",
+            "word": 5
+        },
+        {
+            "charBegin": 373,
+            "charEnd": 376,
+            "id": 55,
+            "sentence": 3,
+            "text": "vor",
+            "word": 6
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 384,
+            "id": 56,
+            "sentence": 3,
+            "text": "einigen",
+            "word": 7
+        },
+        {
+            "charBegin": 385,
+            "charEnd": 398,
+            "id": 57,
+            "sentence": 3,
+            "text": "prominenteren",
+            "word": 8
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 408,
+            "id": 58,
+            "sentence": 3,
+            "text": "Bewerbern",
+            "word": 9
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 411,
+            "id": 59,
+            "sentence": 3,
+            "text": "um",
+            "word": 10
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 415,
+            "id": 60,
+            "sentence": 3,
+            "text": "den",
+            "word": 11
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 422,
+            "id": 61,
+            "sentence": 3,
+            "text": "Posten",
+            "word": 12
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 423,
+            "id": 62,
+            "sentence": 3,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 432,
+            "id": 63,
+            "sentence": 3,
+            "text": "darunter",
+            "word": 14
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 438,
+            "id": 64,
+            "sentence": 3,
+            "text": "waren",
+            "word": 15
+        },
+        {
+            "charBegin": 439,
+            "charEnd": 447,
+            "id": 65,
+            "sentence": 3,
+            "text": "Caroline",
+            "word": 16
+        },
+        {
+            "charBegin": 448,
+            "charEnd": 455,
+            "id": 66,
+            "sentence": 3,
+            "text": "Kennedy",
+            "word": 17
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 456,
+            "id": 67,
+            "sentence": 3,
+            "text": ",",
+            "word": 18
+        },
+        {
+            "charBegin": 457,
+            "charEnd": 460,
+            "id": 68,
+            "sentence": 3,
+            "text": "der",
+            "word": 19
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 468,
+            "id": 69,
+            "sentence": 3,
+            "text": "Tochter",
+            "word": 20
+        },
+        {
+            "charBegin": 469,
+            "charEnd": 473,
+            "id": 70,
+            "sentence": 3,
+            "text": "John",
+            "word": 21
+        },
+        {
+            "charBegin": 474,
+            "charEnd": 476,
+            "id": 71,
+            "sentence": 3,
+            "text": "F.",
+            "word": 22
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 485,
+            "id": 72,
+            "sentence": 3,
+            "text": "Kennedys",
+            "word": 23
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 489,
+            "id": 73,
+            "sentence": 3,
+            "text": "und",
+            "word": 24
+        },
+        {
+            "charBegin": 490,
+            "charEnd": 493,
+            "id": 74,
+            "sentence": 3,
+            "text": "der",
+            "word": 25
+        },
+        {
+            "charBegin": 494,
+            "charEnd": 513,
+            "id": 75,
+            "sentence": 3,
+            "text": "Generalstaatsanwalt",
+            "word": 26
+        },
+        {
+            "charBegin": 514,
+            "charEnd": 517,
+            "id": 76,
+            "sentence": 3,
+            "text": "des",
+            "word": 27
+        },
+        {
+            "charBegin": 518,
+            "charEnd": 531,
+            "id": 77,
+            "sentence": 3,
+            "text": "Bundesstaates",
+            "word": 28
+        },
+        {
+            "charBegin": 532,
+            "charEnd": 538,
+            "id": 78,
+            "sentence": 3,
+            "text": "Andrew",
+            "word": 29
+        },
+        {
+            "charBegin": 539,
+            "charEnd": 544,
+            "id": 79,
+            "sentence": 3,
+            "text": "Cuomo",
+            "word": 30
+        },
+        {
+            "charBegin": 544,
+            "charEnd": 545,
+            "id": 80,
+            "sentence": 3,
+            "text": ".",
+            "word": 31
+        },
+        {
+            "charBegin": 546,
+            "charEnd": 553,
+            "id": 81,
+            "sentence": 4,
+            "text": "Kennedy",
+            "word": 1
+        },
+        {
+            "charBegin": 554,
+            "charEnd": 559,
+            "id": 82,
+            "sentence": 4,
+            "text": "hatte",
+            "word": 2
+        },
+        {
+            "charBegin": 560,
+            "charEnd": 564,
+            "id": 83,
+            "sentence": 4,
+            "text": "ihre",
+            "word": 3
+        },
+        {
+            "charBegin": 565,
+            "charEnd": 577,
+            "id": 84,
+            "sentence": 4,
+            "text": "Bereitschaft",
+            "word": 4
+        },
+        {
+            "charBegin": 577,
+            "charEnd": 578,
+            "id": 85,
+            "sentence": 4,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 579,
+            "charEnd": 582,
+            "id": 86,
+            "sentence": 4,
+            "text": "für",
+            "word": 6
+        },
+        {
+            "charBegin": 583,
+            "charEnd": 586,
+            "id": 87,
+            "sentence": 4,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 587,
+            "charEnd": 593,
+            "id": 88,
+            "sentence": 4,
+            "text": "Posten",
+            "word": 8
+        },
+        {
+            "charBegin": 594,
+            "charEnd": 597,
+            "id": 89,
+            "sentence": 4,
+            "text": "zur",
+            "word": 9
+        },
+        {
+            "charBegin": 598,
+            "charEnd": 607,
+            "id": 90,
+            "sentence": 4,
+            "text": "Verfügung",
+            "word": 10
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 610,
+            "id": 91,
+            "sentence": 4,
+            "text": "zu",
+            "word": 11
+        },
+        {
+            "charBegin": 611,
+            "charEnd": 617,
+            "id": 92,
+            "sentence": 4,
+            "text": "stehen",
+            "word": 12
+        },
+        {
+            "charBegin": 617,
+            "charEnd": 618,
+            "id": 93,
+            "sentence": 4,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 619,
+            "charEnd": 621,
+            "id": 94,
+            "sentence": 4,
+            "text": "am",
+            "word": 14
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 626,
+            "id": 95,
+            "sentence": 4,
+            "text": "Tage",
+            "word": 15
+        },
+        {
+            "charBegin": 627,
+            "charEnd": 630,
+            "id": 96,
+            "sentence": 4,
+            "text": "von",
+            "word": 16
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 637,
+            "id": 97,
+            "sentence": 4,
+            "text": "Obamas",
+            "word": 17
+        },
+        {
+            "charBegin": 638,
+            "charEnd": 652,
+            "id": 98,
+            "sentence": 4,
+            "text": "Amtseinführung",
+            "word": 18
+        },
+        {
+            "charBegin": 653,
+            "charEnd": 665,
+            "id": 99,
+            "sentence": 4,
+            "text": "überraschend",
+            "word": 19
+        },
+        {
+            "charBegin": 666,
+            "charEnd": 669,
+            "id": 100,
+            "sentence": 4,
+            "text": "aus",
+            "word": 20
+        },
+        {
+            "charBegin": 670,
+            "charEnd": 682,
+            "id": 101,
+            "sentence": 4,
+            "text": "persönlichen",
+            "word": 21
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 690,
+            "id": 102,
+            "sentence": 4,
+            "text": "Gründen",
+            "word": 22
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 704,
+            "id": 103,
+            "sentence": 4,
+            "text": "zurückgezogen",
+            "word": 23
+        },
+        {
+            "charBegin": 704,
+            "charEnd": 705,
+            "id": 104,
+            "sentence": 4,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 706,
+            "charEnd": 715,
+            "id": 105,
+            "sentence": 5,
+            "text": "Patersons",
+            "word": 1
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 728,
+            "id": 106,
+            "sentence": 5,
+            "text": "Entscheidung",
+            "word": 2
+        },
+        {
+            "charBegin": 729,
+            "charEnd": 735,
+            "id": 107,
+            "sentence": 5,
+            "text": "könnte",
+            "word": 3
+        },
+        {
+            "charBegin": 736,
+            "charEnd": 739,
+            "id": 108,
+            "sentence": 5,
+            "text": "ihm",
+            "word": 4
+        },
+        {
+            "charBegin": 740,
+            "charEnd": 743,
+            "id": 109,
+            "sentence": 5,
+            "text": "bei",
+            "word": 5
+        },
+        {
+            "charBegin": 744,
+            "charEnd": 750,
+            "id": 110,
+            "sentence": 5,
+            "text": "seiner",
+            "word": 6
+        },
+        {
+            "charBegin": 751,
+            "charEnd": 758,
+            "id": 111,
+            "sentence": 5,
+            "text": "eigenen",
+            "word": 7
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 769,
+            "id": 112,
+            "sentence": 5,
+            "text": "Wiederwahl",
+            "word": 8
+        },
+        {
+            "charBegin": 770,
+            "charEnd": 774,
+            "id": 113,
+            "sentence": 5,
+            "text": "2010",
+            "word": 9
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 777,
+            "id": 114,
+            "sentence": 5,
+            "text": "zu",
+            "word": 10
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 793,
+            "id": 115,
+            "sentence": 5,
+            "text": "Stimmengewinnen",
+            "word": 11
+        },
+        {
+            "charBegin": 794,
+            "charEnd": 796,
+            "id": 116,
+            "sentence": 5,
+            "text": "im",
+            "word": 12
+        },
+        {
+            "charBegin": 797,
+            "charEnd": 807,
+            "id": 117,
+            "sentence": 5,
+            "text": "ländlichen",
+            "word": 13
+        },
+        {
+            "charBegin": 808,
+            "charEnd": 812,
+            "id": 118,
+            "sentence": 5,
+            "text": "Teil",
+            "word": 14
+        },
+        {
+            "charBegin": 813,
+            "charEnd": 816,
+            "id": 119,
+            "sentence": 5,
+            "text": "des",
+            "word": 15
+        },
+        {
+            "charBegin": 817,
+            "charEnd": 830,
+            "id": 120,
+            "sentence": 5,
+            "text": "Bundesstaates",
+            "word": 16
+        },
+        {
+            "charBegin": 831,
+            "charEnd": 840,
+            "id": 121,
+            "sentence": 5,
+            "text": "verhelfen",
+            "word": 17
+        },
+        {
+            "charBegin": 840,
+            "charEnd": 841,
+            "id": 122,
+            "sentence": 5,
+            "text": ",",
+            "word": 18
+        },
+        {
+            "charBegin": 842,
+            "charEnd": 845,
+            "id": 123,
+            "sentence": 5,
+            "text": "vor",
+            "word": 19
+        },
+        {
+            "charBegin": 846,
+            "charEnd": 851,
+            "id": 124,
+            "sentence": 5,
+            "text": "allem",
+            "word": 20
+        },
+        {
+            "charBegin": 852,
+            "charEnd": 854,
+            "id": 125,
+            "sentence": 5,
+            "text": "im",
+            "word": 21
+        },
+        {
+            "charBegin": 855,
+            "charEnd": 868,
+            "id": 126,
+            "sentence": 5,
+            "text": "konservativen",
+            "word": 22
+        },
+        {
+            "charBegin": 869,
+            "charEnd": 875,
+            "id": 127,
+            "sentence": 5,
+            "text": "Hudson",
+            "word": 23
+        },
+        {
+            "charBegin": 876,
+            "charEnd": 882,
+            "id": 128,
+            "sentence": 5,
+            "text": "Valley",
+            "word": 24
+        },
+        {
+            "charBegin": 882,
+            "charEnd": 883,
+            "id": 129,
+            "sentence": 5,
+            "text": ",",
+            "word": 25
+        },
+        {
+            "charBegin": 884,
+            "charEnd": 886,
+            "id": 130,
+            "sentence": 5,
+            "text": "wo",
+            "word": 26
+        },
+        {
+            "charBegin": 887,
+            "charEnd": 897,
+            "id": 131,
+            "sentence": 5,
+            "text": "Gillibrand",
+            "word": 27
+        },
+        {
+            "charBegin": 898,
+            "charEnd": 908,
+            "id": 132,
+            "sentence": 5,
+            "text": "beheimatet",
+            "word": 28
+        },
+        {
+            "charBegin": 909,
+            "charEnd": 912,
+            "id": 133,
+            "sentence": 5,
+            "text": "ist",
+            "word": 29
+        },
+        {
+            "charBegin": 912,
+            "charEnd": 913,
+            "id": 134,
+            "sentence": 5,
+            "text": ".",
+            "word": 30
+        },
+        {
+            "charBegin": 915,
+            "charEnd": 918,
+            "id": 135,
+            "sentence": 6,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 919,
+            "charEnd": 928,
+            "id": 136,
+            "sentence": 6,
+            "text": "Ernennung",
+            "word": 2
+        },
+        {
+            "charBegin": 929,
+            "charEnd": 940,
+            "id": 137,
+            "sentence": 6,
+            "text": "Gillibrands",
+            "word": 3
+        },
+        {
+            "charBegin": 941,
+            "charEnd": 944,
+            "id": 138,
+            "sentence": 6,
+            "text": "ist",
+            "word": 4
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 956,
+            "id": 139,
+            "sentence": 6,
+            "text": "unterdessen",
+            "word": 5
+        },
+        {
+            "charBegin": 957,
+            "charEnd": 960,
+            "id": 140,
+            "sentence": 6,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 961,
+            "charEnd": 967,
+            "id": 141,
+            "sentence": 6,
+            "text": "Kritik",
+            "word": 7
+        },
+        {
+            "charBegin": 968,
+            "charEnd": 976,
+            "id": 142,
+            "sentence": 6,
+            "text": "gestoßen",
+            "word": 8
+        },
+        {
+            "charBegin": 976,
+            "charEnd": 977,
+            "id": 143,
+            "sentence": 6,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 978,
+            "charEnd": 988,
+            "id": 144,
+            "sentence": 7,
+            "text": "Gillibrand",
+            "word": 1
+        },
+        {
+            "charBegin": 989,
+            "charEnd": 994,
+            "id": 145,
+            "sentence": 7,
+            "text": "hatte",
+            "word": 2
+        },
+        {
+            "charBegin": 995,
+            "charEnd": 998,
+            "id": 146,
+            "sentence": 7,
+            "text": "als",
+            "word": 3
+        },
+        {
+            "charBegin": 999,
+            "charEnd": 1006,
+            "id": 147,
+            "sentence": 7,
+            "text": "einzige",
+            "word": 4
+        },
+        {
+            "charBegin": 1007,
+            "charEnd": 1026,
+            "id": 148,
+            "sentence": 7,
+            "text": "Kongressabgeordnete",
+            "word": 5
+        },
+        {
+            "charBegin": 1027,
+            "charEnd": 1032,
+            "id": 149,
+            "sentence": 7,
+            "text": "gegen",
+            "word": 6
+        },
+        {
+            "charBegin": 1033,
+            "charEnd": 1036,
+            "id": 150,
+            "sentence": 7,
+            "text": "das",
+            "word": 7
+        },
+        {
+            "charBegin": 1037,
+            "charEnd": 1072,
+            "id": 151,
+            "sentence": 7,
+            "text": "700-Milliarden-US-Dollar-Hilfspaket",
+            "word": 8
+        },
+        {
+            "charBegin": 1073,
+            "charEnd": 1076,
+            "id": 152,
+            "sentence": 7,
+            "text": "fur",
+            "word": 9
+        },
+        {
+            "charBegin": 1077,
+            "charEnd": 1080,
+            "id": 153,
+            "sentence": 7,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 1081,
+            "charEnd": 1094,
+            "id": 154,
+            "sentence": 7,
+            "text": "Finanzbranche",
+            "word": 11
+        },
+        {
+            "charBegin": 1095,
+            "charEnd": 1103,
+            "id": 155,
+            "sentence": 7,
+            "text": "gestimmt",
+            "word": 12
+        },
+        {
+            "charBegin": 1104,
+            "charEnd": 1107,
+            "id": 156,
+            "sentence": 7,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 1108,
+            "charEnd": 1112,
+            "id": 157,
+            "sentence": 7,
+            "text": "wird",
+            "word": 14
+        },
+        {
+            "charBegin": 1113,
+            "charEnd": 1116,
+            "id": 158,
+            "sentence": 7,
+            "text": "von",
+            "word": 15
+        },
+        {
+            "charBegin": 1117,
+            "charEnd": 1120,
+            "id": 159,
+            "sentence": 7,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 1121,
+            "charEnd": 1129,
+            "id": 160,
+            "sentence": 7,
+            "text": "National",
+            "word": 17
+        },
+        {
+            "charBegin": 1130,
+            "charEnd": 1135,
+            "id": 161,
+            "sentence": 7,
+            "text": "Rifle",
+            "word": 18
+        },
+        {
+            "charBegin": 1136,
+            "charEnd": 1147,
+            "id": 162,
+            "sentence": 7,
+            "text": "Association",
+            "word": 19
+        },
+        {
+            "charBegin": 1147,
+            "charEnd": 1148,
+            "id": 163,
+            "sentence": 7,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 1149,
+            "charEnd": 1154,
+            "id": 164,
+            "sentence": 7,
+            "text": "durch",
+            "word": 21
+        },
+        {
+            "charBegin": 1155,
+            "charEnd": 1158,
+            "id": 165,
+            "sentence": 7,
+            "text": "die",
+            "word": 22
+        },
+        {
+            "charBegin": 1159,
+            "charEnd": 1162,
+            "id": 166,
+            "sentence": 7,
+            "text": "ein",
+            "word": 23
+        },
+        {
+            "charBegin": 1163,
+            "charEnd": 1169,
+            "id": 167,
+            "sentence": 7,
+            "text": "freier",
+            "word": 24
+        },
+        {
+            "charBegin": 1170,
+            "charEnd": 1176,
+            "id": 168,
+            "sentence": 7,
+            "text": "Zugang",
+            "word": 25
+        },
+        {
+            "charBegin": 1177,
+            "charEnd": 1179,
+            "id": 169,
+            "sentence": 7,
+            "text": "zu",
+            "word": 26
+        },
+        {
+            "charBegin": 1180,
+            "charEnd": 1186,
+            "id": 170,
+            "sentence": 7,
+            "text": "Waffen",
+            "word": 27
+        },
+        {
+            "charBegin": 1187,
+            "charEnd": 1197,
+            "id": 171,
+            "sentence": 7,
+            "text": "propagiert",
+            "word": 28
+        },
+        {
+            "charBegin": 1198,
+            "charEnd": 1202,
+            "id": 172,
+            "sentence": 7,
+            "text": "wird",
+            "word": 29
+        },
+        {
+            "charBegin": 1202,
+            "charEnd": 1203,
+            "id": 173,
+            "sentence": 7,
+            "text": ",",
+            "word": 30
+        },
+        {
+            "charBegin": 1204,
+            "charEnd": 1216,
+            "id": 174,
+            "sentence": 7,
+            "text": "hervorragend",
+            "word": 31
+        },
+        {
+            "charBegin": 1217,
+            "charEnd": 1226,
+            "id": 175,
+            "sentence": 7,
+            "text": "beurteilt",
+            "word": 32
+        },
+        {
+            "charBegin": 1226,
+            "charEnd": 1227,
+            "id": 176,
+            "sentence": 7,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 1228,
+            "charEnd": 1231,
+            "id": 177,
+            "sentence": 8,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1232,
+            "charEnd": 1243,
+            "id": 178,
+            "sentence": 8,
+            "text": "Bundesstaat",
+            "word": 2
+        },
+        {
+            "charBegin": 1244,
+            "charEnd": 1247,
+            "id": 179,
+            "sentence": 8,
+            "text": "New",
+            "word": 3
+        },
+        {
+            "charBegin": 1248,
+            "charEnd": 1252,
+            "id": 180,
+            "sentence": 8,
+            "text": "York",
+            "word": 4
+        },
+        {
+            "charBegin": 1253,
+            "charEnd": 1256,
+            "id": 181,
+            "sentence": 8,
+            "text": "hat",
+            "word": 5
+        },
+        {
+            "charBegin": 1257,
+            "charEnd": 1267,
+            "id": 182,
+            "sentence": 8,
+            "text": "allerdings",
+            "word": 6
+        },
+        {
+            "charBegin": 1268,
+            "charEnd": 1273,
+            "id": 183,
+            "sentence": 8,
+            "text": "eines",
+            "word": 7
+        },
+        {
+            "charBegin": 1274,
+            "charEnd": 1277,
+            "id": 184,
+            "sentence": 8,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 1278,
+            "charEnd": 1288,
+            "id": 185,
+            "sentence": 8,
+            "text": "strengsten",
+            "word": 9
+        },
+        {
+            "charBegin": 1289,
+            "charEnd": 1302,
+            "id": 186,
+            "sentence": 8,
+            "text": "Waffengesetze",
+            "word": 10
+        },
+        {
+            "charBegin": 1303,
+            "charEnd": 1305,
+            "id": 187,
+            "sentence": 8,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 1306,
+            "charEnd": 1309,
+            "id": 188,
+            "sentence": 8,
+            "text": "den",
+            "word": 12
+        },
+        {
+            "charBegin": 1310,
+            "charEnd": 1321,
+            "id": 189,
+            "sentence": 8,
+            "text": "Vereinigten",
+            "word": 13
+        },
+        {
+            "charBegin": 1322,
+            "charEnd": 1329,
+            "id": 190,
+            "sentence": 8,
+            "text": "Staaten",
+            "word": 14
+        },
+        {
+            "charBegin": 1329,
+            "charEnd": 1330,
+            "id": 191,
+            "sentence": 8,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 1333,
+            "charEnd": 1336,
+            "id": 192,
+            "sentence": 9,
+            "text": "New",
+            "word": 1
+        },
+        {
+            "charBegin": 1337,
+            "charEnd": 1342,
+            "id": 193,
+            "sentence": 9,
+            "text": "Yorks",
+            "word": 2
+        },
+        {
+            "charBegin": 1343,
+            "charEnd": 1356,
+            "id": 194,
+            "sentence": 9,
+            "text": "Bürgermeister",
+            "word": 3
+        },
+        {
+            "charBegin": 1357,
+            "charEnd": 1364,
+            "id": 195,
+            "sentence": 9,
+            "text": "Michael",
+            "word": 4
+        },
+        {
+            "charBegin": 1365,
+            "charEnd": 1374,
+            "id": 196,
+            "sentence": 9,
+            "text": "Bloomberg",
+            "word": 5
+        },
+        {
+            "charBegin": 1375,
+            "charEnd": 1386,
+            "id": 197,
+            "sentence": 9,
+            "text": "kritisierte",
+            "word": 6
+        },
+        {
+            "charBegin": 1387,
+            "charEnd": 1397,
+            "id": 198,
+            "sentence": 9,
+            "text": "Gillibrand",
+            "word": 7
+        },
+        {
+            "charBegin": 1398,
+            "charEnd": 1403,
+            "id": 199,
+            "sentence": 9,
+            "text": "offen",
+            "word": 8
+        },
+        {
+            "charBegin": 1404,
+            "charEnd": 1409,
+            "id": 200,
+            "sentence": 9,
+            "text": "dafür",
+            "word": 9
+        },
+        {
+            "charBegin": 1409,
+            "charEnd": 1410,
+            "id": 201,
+            "sentence": 9,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 1411,
+            "charEnd": 1416,
+            "id": 202,
+            "sentence": 9,
+            "text": "gegen",
+            "word": 11
+        },
+        {
+            "charBegin": 1417,
+            "charEnd": 1420,
+            "id": 203,
+            "sentence": 9,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 1421,
+            "charEnd": 1431,
+            "id": 204,
+            "sentence": 9,
+            "text": "Bemühungen",
+            "word": 13
+        },
+        {
+            "charBegin": 1432,
+            "charEnd": 1435,
+            "id": 205,
+            "sentence": 9,
+            "text": "New",
+            "word": 14
+        },
+        {
+            "charBegin": 1436,
+            "charEnd": 1440,
+            "id": 206,
+            "sentence": 9,
+            "text": "York",
+            "word": 15
+        },
+        {
+            "charBegin": 1441,
+            "charEnd": 1446,
+            "id": 207,
+            "sentence": 9,
+            "text": "Citys",
+            "word": 16
+        },
+        {
+            "charBegin": 1447,
+            "charEnd": 1455,
+            "id": 208,
+            "sentence": 9,
+            "text": "gestimmt",
+            "word": 17
+        },
+        {
+            "charBegin": 1456,
+            "charEnd": 1458,
+            "id": 209,
+            "sentence": 9,
+            "text": "zu",
+            "word": 18
+        },
+        {
+            "charBegin": 1459,
+            "charEnd": 1464,
+            "id": 210,
+            "sentence": 9,
+            "text": "haben",
+            "word": 19
+        },
+        {
+            "charBegin": 1464,
+            "charEnd": 1465,
+            "id": 211,
+            "sentence": 9,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 1466,
+            "charEnd": 1474,
+            "id": 212,
+            "sentence": 9,
+            "text": "illegale",
+            "word": 21
+        },
+        {
+            "charBegin": 1475,
+            "charEnd": 1481,
+            "id": 213,
+            "sentence": 9,
+            "text": "Waffen",
+            "word": 22
+        },
+        {
+            "charBegin": 1482,
+            "charEnd": 1485,
+            "id": 214,
+            "sentence": 9,
+            "text": "von",
+            "word": 23
+        },
+        {
+            "charBegin": 1486,
+            "charEnd": 1489,
+            "id": 215,
+            "sentence": 9,
+            "text": "den",
+            "word": 24
+        },
+        {
+            "charBegin": 1490,
+            "charEnd": 1497,
+            "id": 216,
+            "sentence": 9,
+            "text": "Straßen",
+            "word": 25
+        },
+        {
+            "charBegin": 1498,
+            "charEnd": 1501,
+            "id": 217,
+            "sentence": 9,
+            "text": "der",
+            "word": 26
+        },
+        {
+            "charBegin": 1502,
+            "charEnd": 1507,
+            "id": 218,
+            "sentence": 9,
+            "text": "Stadt",
+            "word": 27
+        },
+        {
+            "charBegin": 1508,
+            "charEnd": 1510,
+            "id": 219,
+            "sentence": 9,
+            "text": "zu",
+            "word": 28
+        },
+        {
+            "charBegin": 1511,
+            "charEnd": 1519,
+            "id": 220,
+            "sentence": 9,
+            "text": "bekommen",
+            "word": 29
+        },
+        {
+            "charBegin": 1519,
+            "charEnd": 1520,
+            "id": 221,
+            "sentence": 9,
+            "text": ".",
+            "word": 30
+        },
+        {
+            "charBegin": 1521,
+            "charEnd": 1524,
+            "id": 222,
+            "sentence": 10,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1525,
+            "charEnd": 1544,
+            "id": 223,
+            "sentence": 10,
+            "text": "Kongressabgeordnete",
+            "word": 2
+        },
+        {
+            "charBegin": 1545,
+            "charEnd": 1552,
+            "id": 224,
+            "sentence": 10,
+            "text": "Carolyn",
+            "word": 3
+        },
+        {
+            "charBegin": 1553,
+            "charEnd": 1561,
+            "id": 225,
+            "sentence": 10,
+            "text": "McCarthy",
+            "word": 4
+        },
+        {
+            "charBegin": 1562,
+            "charEnd": 1570,
+            "id": 226,
+            "sentence": 10,
+            "text": "erklärte",
+            "word": 5
+        },
+        {
+            "charBegin": 1570,
+            "charEnd": 1571,
+            "id": 227,
+            "sentence": 10,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 1572,
+            "charEnd": 1582,
+            "id": 228,
+            "sentence": 10,
+            "text": "Gillibrand",
+            "word": 7
+        },
+        {
+            "charBegin": 1583,
+            "charEnd": 1586,
+            "id": 229,
+            "sentence": 10,
+            "text": "sei",
+            "word": 8
+        },
+        {
+            "charBegin": 1587,
+            "charEnd": 1588,
+            "id": 230,
+            "sentence": 10,
+            "text": "„",
+            "word": 9
+        },
+        {
+            "charBegin": 1588,
+            "charEnd": 1591,
+            "id": 231,
+            "sentence": 10,
+            "text": "das",
+            "word": 10
+        },
+        {
+            "charBegin": 1592,
+            "charEnd": 1602,
+            "id": 232,
+            "sentence": 10,
+            "text": "Postergirl",
+            "word": 11
+        },
+        {
+            "charBegin": 1603,
+            "charEnd": 1606,
+            "id": 233,
+            "sentence": 10,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 1607,
+            "charEnd": 1610,
+            "id": 234,
+            "sentence": 10,
+            "text": "NRA",
+            "word": 13
+        },
+        {
+            "charBegin": 1610,
+            "charEnd": 1611,
+            "id": 235,
+            "sentence": 10,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 1612,
+            "charEnd": 1615,
+            "id": 236,
+            "sentence": 10,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 1616,
+            "charEnd": 1619,
+            "id": 237,
+            "sentence": 10,
+            "text": "das",
+            "word": 16
+        },
+        {
+            "charBegin": 1620,
+            "charEnd": 1633,
+            "id": 238,
+            "sentence": 10,
+            "text": "repräsentiert",
+            "word": 17
+        },
+        {
+            "charBegin": 1634,
+            "charEnd": 1639,
+            "id": 239,
+            "sentence": 10,
+            "text": "nicht",
+            "word": 18
+        },
+        {
+            "charBegin": 1640,
+            "charEnd": 1643,
+            "id": 240,
+            "sentence": 10,
+            "text": "den",
+            "word": 19
+        },
+        {
+            "charBegin": 1644,
+            "charEnd": 1649,
+            "id": 241,
+            "sentence": 10,
+            "text": "Staat",
+            "word": 20
+        },
+        {
+            "charBegin": 1650,
+            "charEnd": 1653,
+            "id": 242,
+            "sentence": 10,
+            "text": "New",
+            "word": 21
+        },
+        {
+            "charBegin": 1654,
+            "charEnd": 1658,
+            "id": 243,
+            "sentence": 10,
+            "text": "York",
+            "word": 22
+        },
+        {
+            "charBegin": 1658,
+            "charEnd": 1659,
+            "id": 244,
+            "sentence": 10,
+            "text": "“",
+            "word": 23
+        },
+        {
+            "charBegin": 1660,
+            "charEnd": 1663,
+            "id": 245,
+            "sentence": 10,
+            "text": "und",
+            "word": 24
+        },
+        {
+            "charBegin": 1664,
+            "charEnd": 1672,
+            "id": 246,
+            "sentence": 10,
+            "text": "kündigte",
+            "word": 25
+        },
+        {
+            "charBegin": 1673,
+            "charEnd": 1675,
+            "id": 247,
+            "sentence": 10,
+            "text": "an",
+            "word": 26
+        },
+        {
+            "charBegin": 1675,
+            "charEnd": 1676,
+            "id": 248,
+            "sentence": 10,
+            "text": ",",
+            "word": 27
+        },
+        {
+            "charBegin": 1677,
+            "charEnd": 1681,
+            "id": 249,
+            "sentence": 10,
+            "text": "2010",
+            "word": 28
+        },
+        {
+            "charBegin": 1682,
+            "charEnd": 1687,
+            "id": 250,
+            "sentence": 10,
+            "text": "gegen",
+            "word": 29
+        },
+        {
+            "charBegin": 1688,
+            "charEnd": 1698,
+            "id": 251,
+            "sentence": 10,
+            "text": "Gillibrand",
+            "word": 30
+        },
+        {
+            "charBegin": 1699,
+            "charEnd": 1710,
+            "id": 252,
+            "sentence": 10,
+            "text": "kandidieren",
+            "word": 31
+        },
+        {
+            "charBegin": 1711,
+            "charEnd": 1713,
+            "id": 253,
+            "sentence": 10,
+            "text": "zu",
+            "word": 32
+        },
+        {
+            "charBegin": 1714,
+            "charEnd": 1720,
+            "id": 254,
+            "sentence": 10,
+            "text": "wollen",
+            "word": 33
+        },
+        {
+            "charBegin": 1720,
+            "charEnd": 1721,
+            "id": 255,
+            "sentence": 10,
+            "text": ".",
+            "word": 34
+        },
+        {
+            "charBegin": 1722,
+            "charEnd": 1730,
+            "id": 256,
+            "sentence": 11,
+            "text": "McCartys",
+            "word": 1
+        },
+        {
+            "charBegin": 1731,
+            "charEnd": 1738,
+            "id": 257,
+            "sentence": 11,
+            "text": "Ehemann",
+            "word": 2
+        },
+        {
+            "charBegin": 1739,
+            "charEnd": 1742,
+            "id": 258,
+            "sentence": 11,
+            "text": "war",
+            "word": 3
+        },
+        {
+            "charBegin": 1743,
+            "charEnd": 1748,
+            "id": 259,
+            "sentence": 11,
+            "text": "eines",
+            "word": 4
+        },
+        {
+            "charBegin": 1749,
+            "charEnd": 1752,
+            "id": 260,
+            "sentence": 11,
+            "text": "von",
+            "word": 5
+        },
+        {
+            "charBegin": 1753,
+            "charEnd": 1758,
+            "id": 261,
+            "sentence": 11,
+            "text": "sechs",
+            "word": 6
+        },
+        {
+            "charBegin": 1759,
+            "charEnd": 1765,
+            "id": 262,
+            "sentence": 11,
+            "text": "Opfern",
+            "word": 7
+        },
+        {
+            "charBegin": 1765,
+            "charEnd": 1766,
+            "id": 263,
+            "sentence": 11,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 1767,
+            "charEnd": 1770,
+            "id": 264,
+            "sentence": 11,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 1771,
+            "charEnd": 1774,
+            "id": 265,
+            "sentence": 11,
+            "text": "ein",
+            "word": 10
+        },
+        {
+            "charBegin": 1775,
+            "charEnd": 1785,
+            "id": 266,
+            "sentence": 11,
+            "text": "Amokläufer",
+            "word": 11
+        },
+        {
+            "charBegin": 1786,
+            "charEnd": 1789,
+            "id": 267,
+            "sentence": 11,
+            "text": "vor",
+            "word": 12
+        },
+        {
+            "charBegin": 1790,
+            "charEnd": 1792,
+            "id": 268,
+            "sentence": 11,
+            "text": "15",
+            "word": 13
+        },
+        {
+            "charBegin": 1793,
+            "charEnd": 1799,
+            "id": 269,
+            "sentence": 11,
+            "text": "Jahren",
+            "word": 14
+        },
+        {
+            "charBegin": 1800,
+            "charEnd": 1802,
+            "id": 270,
+            "sentence": 11,
+            "text": "in",
+            "word": 15
+        },
+        {
+            "charBegin": 1803,
+            "charEnd": 1808,
+            "id": 271,
+            "sentence": 11,
+            "text": "einem",
+            "word": 16
+        },
+        {
+            "charBegin": 1809,
+            "charEnd": 1819,
+            "id": 272,
+            "sentence": 11,
+            "text": "Pendlerzug",
+            "word": 17
+        },
+        {
+            "charBegin": 1820,
+            "charEnd": 1823,
+            "id": 273,
+            "sentence": 11,
+            "text": "auf",
+            "word": 18
+        },
+        {
+            "charBegin": 1824,
+            "charEnd": 1828,
+            "id": 274,
+            "sentence": 11,
+            "text": "Long",
+            "word": 19
+        },
+        {
+            "charBegin": 1829,
+            "charEnd": 1835,
+            "id": 275,
+            "sentence": 11,
+            "text": "Island",
+            "word": 20
+        },
+        {
+            "charBegin": 1836,
+            "charEnd": 1846,
+            "id": 276,
+            "sentence": 11,
+            "text": "erschossen",
+            "word": 21
+        },
+        {
+            "charBegin": 1847,
+            "charEnd": 1852,
+            "id": 277,
+            "sentence": 11,
+            "text": "hatte",
+            "word": 22
+        },
+        {
+            "charBegin": 1852,
+            "charEnd": 1853,
+            "id": 278,
+            "sentence": 11,
+            "text": ",",
+            "word": 23
+        },
+        {
+            "charBegin": 1854,
+            "charEnd": 1857,
+            "id": 279,
+            "sentence": 11,
+            "text": "ihr",
+            "word": 24
+        },
+        {
+            "charBegin": 1858,
+            "charEnd": 1862,
+            "id": 280,
+            "sentence": 11,
+            "text": "Sohn",
+            "word": 25
+        },
+        {
+            "charBegin": 1863,
+            "charEnd": 1866,
+            "id": 281,
+            "sentence": 11,
+            "text": "war",
+            "word": 26
+        },
+        {
+            "charBegin": 1867,
+            "charEnd": 1870,
+            "id": 282,
+            "sentence": 11,
+            "text": "bei",
+            "word": 27
+        },
+        {
+            "charBegin": 1871,
+            "charEnd": 1874,
+            "id": 283,
+            "sentence": 11,
+            "text": "der",
+            "word": 28
+        },
+        {
+            "charBegin": 1875,
+            "charEnd": 1885,
+            "id": 284,
+            "sentence": 11,
+            "text": "Schießerei",
+            "word": 29
+        },
+        {
+            "charBegin": 1886,
+            "charEnd": 1892,
+            "id": 285,
+            "sentence": 11,
+            "text": "schwer",
+            "word": 30
+        },
+        {
+            "charBegin": 1893,
+            "charEnd": 1901,
+            "id": 286,
+            "sentence": 11,
+            "text": "verletzt",
+            "word": 31
+        },
+        {
+            "charBegin": 1902,
+            "charEnd": 1908,
+            "id": 287,
+            "sentence": 11,
+            "text": "worden",
+            "word": 32
+        },
+        {
+            "charBegin": 1908,
+            "charEnd": 1909,
+            "id": 288,
+            "sentence": 11,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 1910,
+            "charEnd": 1918,
+            "id": 289,
+            "sentence": 12,
+            "text": "McCarthy",
+            "word": 1
+        },
+        {
+            "charBegin": 1919,
+            "charEnd": 1925,
+            "id": 290,
+            "sentence": 12,
+            "text": "nannte",
+            "word": 2
+        },
+        {
+            "charBegin": 1926,
+            "charEnd": 1935,
+            "id": 291,
+            "sentence": 12,
+            "text": "Patersons",
+            "word": 3
+        },
+        {
+            "charBegin": 1936,
+            "charEnd": 1948,
+            "id": 292,
+            "sentence": 12,
+            "text": "Entscheidung",
+            "word": 4
+        },
+        {
+            "charBegin": 1949,
+            "charEnd": 1950,
+            "id": 293,
+            "sentence": 12,
+            "text": "„",
+            "word": 5
+        },
+        {
+            "charBegin": 1950,
+            "charEnd": 1954,
+            "id": 294,
+            "sentence": 12,
+            "text": "eine",
+            "word": 6
+        },
+        {
+            "charBegin": 1955,
+            "charEnd": 1959,
+            "id": 295,
+            "sentence": 12,
+            "text": "sehr",
+            "word": 7
+        },
+        {
+            "charBegin": 1960,
+            "charEnd": 1969,
+            "id": 296,
+            "sentence": 12,
+            "text": "schlechte",
+            "word": 8
+        },
+        {
+            "charBegin": 1970,
+            "charEnd": 1974,
+            "id": 297,
+            "sentence": 12,
+            "text": "Wahl",
+            "word": 9
+        },
+        {
+            "charBegin": 1974,
+            "charEnd": 1975,
+            "id": 298,
+            "sentence": 12,
+            "text": "“",
+            "word": 10
+        },
+        {
+            "charBegin": 1975,
+            "charEnd": 1976,
+            "id": 299,
+            "sentence": 12,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 1978,
+            "charEnd": 1982,
+            "id": 300,
+            "sentence": 13,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 1983,
+            "charEnd": 1988,
+            "id": 301,
+            "sentence": 13,
+            "text": "ihrer",
+            "word": 2
+        },
+        {
+            "charBegin": 1989,
+            "charEnd": 1998,
+            "id": 302,
+            "sentence": 13,
+            "text": "Ernennung",
+            "word": 3
+        },
+        {
+            "charBegin": 1999,
+            "charEnd": 2007,
+            "id": 303,
+            "sentence": 13,
+            "text": "kündigte",
+            "word": 4
+        },
+        {
+            "charBegin": 2008,
+            "charEnd": 2018,
+            "id": 304,
+            "sentence": 13,
+            "text": "Gillibrand",
+            "word": 5
+        },
+        {
+            "charBegin": 2019,
+            "charEnd": 2029,
+            "id": 305,
+            "sentence": 13,
+            "text": "allerdings",
+            "word": 6
+        },
+        {
+            "charBegin": 2030,
+            "charEnd": 2032,
+            "id": 306,
+            "sentence": 13,
+            "text": "an",
+            "word": 7
+        },
+        {
+            "charBegin": 2032,
+            "charEnd": 2033,
+            "id": 307,
+            "sentence": 13,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 2034,
+            "charEnd": 2036,
+            "id": 308,
+            "sentence": 13,
+            "text": "an",
+            "word": 9
+        },
+        {
+            "charBegin": 2037,
+            "charEnd": 2045,
+            "id": 309,
+            "sentence": 13,
+            "text": "Gesetzen",
+            "word": 10
+        },
+        {
+            "charBegin": 2046,
+            "charEnd": 2055,
+            "id": 310,
+            "sentence": 13,
+            "text": "mitwirken",
+            "word": 11
+        },
+        {
+            "charBegin": 2056,
+            "charEnd": 2058,
+            "id": 311,
+            "sentence": 13,
+            "text": "zu",
+            "word": 12
+        },
+        {
+            "charBegin": 2059,
+            "charEnd": 2065,
+            "id": 312,
+            "sentence": 13,
+            "text": "wollen",
+            "word": 13
+        },
+        {
+            "charBegin": 2065,
+            "charEnd": 2066,
+            "id": 313,
+            "sentence": 13,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 2067,
+            "charEnd": 2070,
+            "id": 314,
+            "sentence": 13,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 2071,
+            "charEnd": 2082,
+            "id": 315,
+            "sentence": 13,
+            "text": "Kriminellen",
+            "word": 16
+        },
+        {
+            "charBegin": 2083,
+            "charEnd": 2086,
+            "id": 316,
+            "sentence": 13,
+            "text": "den",
+            "word": 17
+        },
+        {
+            "charBegin": 2087,
+            "charEnd": 2093,
+            "id": 317,
+            "sentence": 13,
+            "text": "Zugang",
+            "word": 18
+        },
+        {
+            "charBegin": 2094,
+            "charEnd": 2096,
+            "id": 318,
+            "sentence": 13,
+            "text": "zu",
+            "word": 19
+        },
+        {
+            "charBegin": 2097,
+            "charEnd": 2103,
+            "id": 319,
+            "sentence": 13,
+            "text": "Waffen",
+            "word": 20
+        },
+        {
+            "charBegin": 2104,
+            "charEnd": 2114,
+            "id": 320,
+            "sentence": 13,
+            "text": "verhindert",
+            "word": 21
+        },
+        {
+            "charBegin": 2114,
+            "charEnd": 2115,
+            "id": 321,
+            "sentence": 13,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 2116,
+            "charEnd": 2126,
+            "id": 322,
+            "sentence": 14,
+            "text": "Gillibrand",
+            "word": 1
+        },
+        {
+            "charBegin": 2127,
+            "charEnd": 2138,
+            "id": 323,
+            "sentence": 14,
+            "text": "unterstützt",
+            "word": 2
+        },
+        {
+            "charBegin": 2139,
+            "charEnd": 2142,
+            "id": 324,
+            "sentence": 14,
+            "text": "das",
+            "word": 3
+        },
+        {
+            "charBegin": 2143,
+            "charEnd": 2148,
+            "id": 325,
+            "sentence": 14,
+            "text": "Recht",
+            "word": 4
+        },
+        {
+            "charBegin": 2149,
+            "charEnd": 2152,
+            "id": 326,
+            "sentence": 14,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 2153,
+            "charEnd": 2159,
+            "id": 327,
+            "sentence": 14,
+            "text": "Frauen",
+            "word": 6
+        },
+        {
+            "charBegin": 2160,
+            "charEnd": 2163,
+            "id": 328,
+            "sentence": 14,
+            "text": "auf",
+            "word": 7
+        },
+        {
+            "charBegin": 2164,
+            "charEnd": 2168,
+            "id": 329,
+            "sentence": 14,
+            "text": "eine",
+            "word": 8
+        },
+        {
+            "charBegin": 2169,
+            "charEnd": 2179,
+            "id": 330,
+            "sentence": 14,
+            "text": "Abtreibung",
+            "word": 9
+        },
+        {
+            "charBegin": 2180,
+            "charEnd": 2183,
+            "id": 331,
+            "sentence": 14,
+            "text": "und",
+            "word": 10
+        },
+        {
+            "charBegin": 2184,
+            "charEnd": 2191,
+            "id": 332,
+            "sentence": 14,
+            "text": "Gesetze",
+            "word": 11
+        },
+        {
+            "charBegin": 2191,
+            "charEnd": 2192,
+            "id": 333,
+            "sentence": 14,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 2193,
+            "charEnd": 2196,
+            "id": 334,
+            "sentence": 14,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 2197,
+            "charEnd": 2200,
+            "id": 335,
+            "sentence": 14,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 2201,
+            "charEnd": 2222,
+            "id": 336,
+            "sentence": 14,
+            "text": "gleichgeschlechtliche",
+            "word": 15
+        },
+        {
+            "charBegin": 2223,
+            "charEnd": 2226,
+            "id": 337,
+            "sentence": 14,
+            "text": "Ehe",
+            "word": 16
+        },
+        {
+            "charBegin": 2227,
+            "charEnd": 2235,
+            "id": 338,
+            "sentence": 14,
+            "text": "erlauben",
+            "word": 17
+        },
+        {
+            "charBegin": 2235,
+            "charEnd": 2236,
+            "id": 339,
+            "sentence": 14,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 2238,
+            "charEnd": 2245,
+            "id": 340,
+            "sentence": 15,
+            "text": "Kirsten",
+            "word": 1
+        },
+        {
+            "charBegin": 2246,
+            "charEnd": 2256,
+            "id": 341,
+            "sentence": 15,
+            "text": "Gillibrand",
+            "word": 2
+        },
+        {
+            "charBegin": 2257,
+            "charEnd": 2260,
+            "id": 342,
+            "sentence": 15,
+            "text": "ist",
+            "word": 3
+        },
+        {
+            "charBegin": 2261,
+            "charEnd": 2263,
+            "id": 343,
+            "sentence": 15,
+            "text": "42",
+            "word": 4
+        },
+        {
+            "charBegin": 2264,
+            "charEnd": 2269,
+            "id": 344,
+            "sentence": 15,
+            "text": "Jahre",
+            "word": 5
+        },
+        {
+            "charBegin": 2270,
+            "charEnd": 2273,
+            "id": 345,
+            "sentence": 15,
+            "text": "alt",
+            "word": 6
+        },
+        {
+            "charBegin": 2273,
+            "charEnd": 2274,
+            "id": 346,
+            "sentence": 15,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 2275,
+            "charEnd": 2284,
+            "id": 347,
+            "sentence": 15,
+            "text": "verheirat",
+            "word": 8
+        },
+        {
+            "charBegin": 2285,
+            "charEnd": 2288,
+            "id": 348,
+            "sentence": 15,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 2289,
+            "charEnd": 2292,
+            "id": 349,
+            "sentence": 15,
+            "text": "hat",
+            "word": 10
+        },
+        {
+            "charBegin": 2293,
+            "charEnd": 2297,
+            "id": 350,
+            "sentence": 15,
+            "text": "zwei",
+            "word": 11
+        },
+        {
+            "charBegin": 2298,
+            "charEnd": 2303,
+            "id": 351,
+            "sentence": 15,
+            "text": "Söhne",
+            "word": 12
+        },
+        {
+            "charBegin": 2303,
+            "charEnd": 2304,
+            "id": 352,
+            "sentence": 15,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 2305,
+            "charEnd": 2308,
+            "id": 353,
+            "sentence": 16,
+            "text": "Sie",
+            "word": 1
+        },
+        {
+            "charBegin": 2309,
+            "charEnd": 2314,
+            "id": 354,
+            "sentence": 16,
+            "text": "wurde",
+            "word": 2
+        },
+        {
+            "charBegin": 2315,
+            "charEnd": 2319,
+            "id": 355,
+            "sentence": 16,
+            "text": "2006",
+            "word": 3
+        },
+        {
+            "charBegin": 2320,
+            "charEnd": 2323,
+            "id": 356,
+            "sentence": 16,
+            "text": "zum",
+            "word": 4
+        },
+        {
+            "charBegin": 2324,
+            "charEnd": 2330,
+            "id": 357,
+            "sentence": 16,
+            "text": "ersten",
+            "word": 5
+        },
+        {
+            "charBegin": 2331,
+            "charEnd": 2334,
+            "id": 358,
+            "sentence": 16,
+            "text": "Mal",
+            "word": 6
+        },
+        {
+            "charBegin": 2335,
+            "charEnd": 2337,
+            "id": 359,
+            "sentence": 16,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 2338,
+            "charEnd": 2341,
+            "id": 360,
+            "sentence": 16,
+            "text": "den",
+            "word": 8
+        },
+        {
+            "charBegin": 2342,
+            "charEnd": 2350,
+            "id": 361,
+            "sentence": 16,
+            "text": "Kongress",
+            "word": 9
+        },
+        {
+            "charBegin": 2351,
+            "charEnd": 2358,
+            "id": 362,
+            "sentence": 16,
+            "text": "gewählt",
+            "word": 10
+        },
+        {
+            "charBegin": 2358,
+            "charEnd": 2359,
+            "id": 363,
+            "sentence": 16,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 2360,
+            "charEnd": 2363,
+            "id": 364,
+            "sentence": 16,
+            "text": "als",
+            "word": 12
+        },
+        {
+            "charBegin": 2364,
+            "charEnd": 2367,
+            "id": 365,
+            "sentence": 16,
+            "text": "sie",
+            "word": 13
+        },
+        {
+            "charBegin": 2368,
+            "charEnd": 2371,
+            "id": 366,
+            "sentence": 16,
+            "text": "den",
+            "word": 14
+        },
+        {
+            "charBegin": 2372,
+            "charEnd": 2381,
+            "id": 367,
+            "sentence": 16,
+            "text": "damaligen",
+            "word": 15
+        },
+        {
+            "charBegin": 2382,
+            "charEnd": 2398,
+            "id": 368,
+            "sentence": 16,
+            "text": "republikanischen",
+            "word": 16
+        },
+        {
+            "charBegin": 2399,
+            "charEnd": 2410,
+            "id": 369,
+            "sentence": 16,
+            "text": "Amtsinhaber",
+            "word": 17
+        },
+        {
+            "charBegin": 2411,
+            "charEnd": 2415,
+            "id": 370,
+            "sentence": 16,
+            "text": "John",
+            "word": 18
+        },
+        {
+            "charBegin": 2416,
+            "charEnd": 2423,
+            "id": 371,
+            "sentence": 16,
+            "text": "Sweeney",
+            "word": 19
+        },
+        {
+            "charBegin": 2424,
+            "charEnd": 2430,
+            "id": 372,
+            "sentence": 16,
+            "text": "hinter",
+            "word": 20
+        },
+        {
+            "charBegin": 2431,
+            "charEnd": 2435,
+            "id": 373,
+            "sentence": 16,
+            "text": "sich",
+            "word": 21
+        },
+        {
+            "charBegin": 2436,
+            "charEnd": 2440,
+            "id": 374,
+            "sentence": 16,
+            "text": "ließ",
+            "word": 22
+        },
+        {
+            "charBegin": 2440,
+            "charEnd": 2441,
+            "id": 375,
+            "sentence": 16,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 2442,
+            "charEnd": 2445,
+            "id": 376,
+            "sentence": 17,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 2446,
+            "charEnd": 2449,
+            "id": 377,
+            "sentence": 17,
+            "text": "20.",
+            "word": 2
+        },
+        {
+            "charBegin": 2450,
+            "charEnd": 2460,
+            "id": 378,
+            "sentence": 17,
+            "text": "Wahlbezirk",
+            "word": 3
+        },
+        {
+            "charBegin": 2461,
+            "charEnd": 2464,
+            "id": 379,
+            "sentence": 17,
+            "text": "bei",
+            "word": 4
+        },
+        {
+            "charBegin": 2465,
+            "charEnd": 2471,
+            "id": 380,
+            "sentence": 17,
+            "text": "Albany",
+            "word": 5
+        },
+        {
+            "charBegin": 2472,
+            "charEnd": 2481,
+            "id": 381,
+            "sentence": 17,
+            "text": "erstreckt",
+            "word": 6
+        },
+        {
+            "charBegin": 2482,
+            "charEnd": 2486,
+            "id": 382,
+            "sentence": 17,
+            "text": "sich",
+            "word": 7
+        },
+        {
+            "charBegin": 2487,
+            "charEnd": 2490,
+            "id": 383,
+            "sentence": 17,
+            "text": "von",
+            "word": 8
+        },
+        {
+            "charBegin": 2491,
+            "charEnd": 2495,
+            "id": 384,
+            "sentence": 17,
+            "text": "Lake",
+            "word": 9
+        },
+        {
+            "charBegin": 2496,
+            "charEnd": 2502,
+            "id": 385,
+            "sentence": 17,
+            "text": "Placid",
+            "word": 10
+        },
+        {
+            "charBegin": 2503,
+            "charEnd": 2505,
+            "id": 386,
+            "sentence": 17,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 2506,
+            "charEnd": 2509,
+            "id": 387,
+            "sentence": 17,
+            "text": "den",
+            "word": 12
+        },
+        {
+            "charBegin": 2510,
+            "charEnd": 2520,
+            "id": 388,
+            "sentence": 17,
+            "text": "Adirondack",
+            "word": 13
+        },
+        {
+            "charBegin": 2521,
+            "charEnd": 2530,
+            "id": 389,
+            "sentence": 17,
+            "text": "Mountains",
+            "word": 14
+        },
+        {
+            "charBegin": 2531,
+            "charEnd": 2534,
+            "id": 390,
+            "sentence": 17,
+            "text": "bis",
+            "word": 15
+        },
+        {
+            "charBegin": 2535,
+            "charEnd": 2538,
+            "id": 391,
+            "sentence": 17,
+            "text": "ins",
+            "word": 16
+        },
+        {
+            "charBegin": 2539,
+            "charEnd": 2547,
+            "id": 392,
+            "sentence": 17,
+            "text": "Dutchess",
+            "word": 17
+        },
+        {
+            "charBegin": 2548,
+            "charEnd": 2554,
+            "id": 393,
+            "sentence": 17,
+            "text": "County",
+            "word": 18
+        },
+        {
+            "charBegin": 2554,
+            "charEnd": 2555,
+            "id": 394,
+            "sentence": 17,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 2556,
+            "charEnd": 2566,
+            "id": 395,
+            "sentence": 18,
+            "text": "Gillibrand",
+            "word": 1
+        },
+        {
+            "charBegin": 2567,
+            "charEnd": 2570,
+            "id": 396,
+            "sentence": 18,
+            "text": "war",
+            "word": 2
+        },
+        {
+            "charBegin": 2571,
+            "charEnd": 2573,
+            "id": 397,
+            "sentence": 18,
+            "text": "im",
+            "word": 3
+        },
+        {
+            "charBegin": 2574,
+            "charEnd": 2592,
+            "id": 398,
+            "sentence": 18,
+            "text": "Repräsentantenhaus",
+            "word": 4
+        },
+        {
+            "charBegin": 2593,
+            "charEnd": 2601,
+            "id": 399,
+            "sentence": 18,
+            "text": "Mitglied",
+            "word": 5
+        },
+        {
+            "charBegin": 2602,
+            "charEnd": 2604,
+            "id": 400,
+            "sentence": 18,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 2605,
+            "charEnd": 2608,
+            "id": 401,
+            "sentence": 18,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 2609,
+            "charEnd": 2620,
+            "id": 402,
+            "sentence": 18,
+            "text": "Ausschüssen",
+            "word": 8
+        },
+        {
+            "charBegin": 2621,
+            "charEnd": 2624,
+            "id": 403,
+            "sentence": 18,
+            "text": "für",
+            "word": 9
+        },
+        {
+            "charBegin": 2625,
+            "charEnd": 2639,
+            "id": 404,
+            "sentence": 18,
+            "text": "Landwirtschaft",
+            "word": 10
+        },
+        {
+            "charBegin": 2640,
+            "charEnd": 2643,
+            "id": 405,
+            "sentence": 18,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 2644,
+            "charEnd": 2647,
+            "id": 406,
+            "sentence": 18,
+            "text": "für",
+            "word": 12
+        },
+        {
+            "charBegin": 2648,
+            "charEnd": 2651,
+            "id": 407,
+            "sentence": 18,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 2652,
+            "charEnd": 2664,
+            "id": 408,
+            "sentence": 18,
+            "text": "Streitkräfte",
+            "word": 14
+        },
+        {
+            "charBegin": 2664,
+            "charEnd": 2665,
+            "id": 409,
+            "sentence": 18,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 2667,
+            "charEnd": 2671,
+            "id": 410,
+            "sentence": 19,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 2672,
+            "charEnd": 2675,
+            "id": 411,
+            "sentence": 19,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 2676,
+            "charEnd": 2686,
+            "id": 412,
+            "sentence": 19,
+            "text": "Verfassung",
+            "word": 3
+        },
+        {
+            "charBegin": 2687,
+            "charEnd": 2691,
+            "id": 413,
+            "sentence": 19,
+            "text": "muss",
+            "word": 4
+        },
+        {
+            "charBegin": 2692,
+            "charEnd": 2696,
+            "id": 414,
+            "sentence": 19,
+            "text": "sich",
+            "word": 5
+        },
+        {
+            "charBegin": 2697,
+            "charEnd": 2707,
+            "id": 415,
+            "sentence": 19,
+            "text": "Gillibrand",
+            "word": 6
+        },
+        {
+            "charBegin": 2708,
+            "charEnd": 2711,
+            "id": 416,
+            "sentence": 19,
+            "text": "nun",
+            "word": 7
+        },
+        {
+            "charBegin": 2712,
+            "charEnd": 2714,
+            "id": 417,
+            "sentence": 19,
+            "text": "im",
+            "word": 8
+        },
+        {
+            "charBegin": 2715,
+            "charEnd": 2719,
+            "id": 418,
+            "sentence": 19,
+            "text": "Jahr",
+            "word": 9
+        },
+        {
+            "charBegin": 2720,
+            "charEnd": 2724,
+            "id": 419,
+            "sentence": 19,
+            "text": "2010",
+            "word": 10
+        },
+        {
+            "charBegin": 2725,
+            "charEnd": 2728,
+            "id": 420,
+            "sentence": 19,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 2729,
+            "charEnd": 2733,
+            "id": 421,
+            "sentence": 19,
+            "text": "Wahl",
+            "word": 12
+        },
+        {
+            "charBegin": 2734,
+            "charEnd": 2741,
+            "id": 422,
+            "sentence": 19,
+            "text": "stellen",
+            "word": 13
+        },
+        {
+            "charBegin": 2741,
+            "charEnd": 2742,
+            "id": 423,
+            "sentence": 19,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 2743,
+            "charEnd": 2745,
+            "id": 424,
+            "sentence": 19,
+            "text": "um",
+            "word": 15
+        },
+        {
+            "charBegin": 2746,
+            "charEnd": 2750,
+            "id": 425,
+            "sentence": 19,
+            "text": "dann",
+            "word": 16
+        },
+        {
+            "charBegin": 2751,
+            "charEnd": 2754,
+            "id": 426,
+            "sentence": 19,
+            "text": "für",
+            "word": 17
+        },
+        {
+            "charBegin": 2755,
+            "charEnd": 2758,
+            "id": 427,
+            "sentence": 19,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 2759,
+            "charEnd": 2768,
+            "id": 428,
+            "sentence": 19,
+            "text": "restliche",
+            "word": 19
+        },
+        {
+            "charBegin": 2769,
+            "charEnd": 2777,
+            "id": 429,
+            "sentence": 19,
+            "text": "Amtszeit",
+            "word": 20
+        },
+        {
+            "charBegin": 2778,
+            "charEnd": 2787,
+            "id": 430,
+            "sentence": 19,
+            "text": "bestätigt",
+            "word": 21
+        },
+        {
+            "charBegin": 2788,
+            "charEnd": 2790,
+            "id": 431,
+            "sentence": 19,
+            "text": "zu",
+            "word": 22
+        },
+        {
+            "charBegin": 2791,
+            "charEnd": 2797,
+            "id": 432,
+            "sentence": 19,
+            "text": "werden",
+            "word": 23
+        },
+        {
+            "charBegin": 2797,
+            "charEnd": 2798,
+            "id": 433,
+            "sentence": 19,
+            "text": ",",
+            "word": 24
+        },
+        {
+            "charBegin": 2799,
+            "charEnd": 2803,
+            "id": 434,
+            "sentence": 19,
+            "text": "2012",
+            "word": 25
+        },
+        {
+            "charBegin": 2804,
+            "charEnd": 2810,
+            "id": 435,
+            "sentence": 19,
+            "text": "findet",
+            "word": 26
+        },
+        {
+            "charBegin": 2811,
+            "charEnd": 2815,
+            "id": 436,
+            "sentence": 19,
+            "text": "dann",
+            "word": 27
+        },
+        {
+            "charBegin": 2816,
+            "charEnd": 2819,
+            "id": 437,
+            "sentence": 19,
+            "text": "die",
+            "word": 28
+        },
+        {
+            "charBegin": 2820,
+            "charEnd": 2828,
+            "id": 438,
+            "sentence": 19,
+            "text": "reguläre",
+            "word": 29
+        },
+        {
+            "charBegin": 2829,
+            "charEnd": 2833,
+            "id": 439,
+            "sentence": 19,
+            "text": "Wahl",
+            "word": 30
+        },
+        {
+            "charBegin": 2834,
+            "charEnd": 2837,
+            "id": 440,
+            "sentence": 19,
+            "text": "mit",
+            "word": 31
+        },
+        {
+            "charBegin": 2838,
+            "charEnd": 2843,
+            "id": 441,
+            "sentence": 19,
+            "text": "einer",
+            "word": 32
+        },
+        {
+            "charBegin": 2844,
+            "charEnd": 2852,
+            "id": 442,
+            "sentence": 19,
+            "text": "Amtszeit",
+            "word": 33
+        },
+        {
+            "charBegin": 2853,
+            "charEnd": 2856,
+            "id": 443,
+            "sentence": 19,
+            "text": "von",
+            "word": 34
+        },
+        {
+            "charBegin": 2857,
+            "charEnd": 2862,
+            "id": 444,
+            "sentence": 19,
+            "text": "sechs",
+            "word": 35
+        },
+        {
+            "charBegin": 2863,
+            "charEnd": 2869,
+            "id": 445,
+            "sentence": 19,
+            "text": "Jahren",
+            "word": 36
+        },
+        {
+            "charBegin": 2870,
+            "charEnd": 2875,
+            "id": 446,
+            "sentence": 19,
+            "text": "statt",
+            "word": 37
+        },
+        {
+            "charBegin": 2875,
+            "charEnd": 2876,
+            "id": 447,
+            "sentence": 19,
+            "text": ".",
+            "word": 38
+        },
+        {
+            "charBegin": 2877,
+            "charEnd": 2887,
+            "id": 448,
+            "sentence": 20,
+            "text": "Politische",
+            "word": 1
+        },
+        {
+            "charBegin": 2888,
+            "charEnd": 2895,
+            "id": 449,
+            "sentence": 20,
+            "text": "Berater",
+            "word": 2
+        },
+        {
+            "charBegin": 2896,
+            "charEnd": 2901,
+            "id": 450,
+            "sentence": 20,
+            "text": "sagen",
+            "word": 3
+        },
+        {
+            "charBegin": 2901,
+            "charEnd": 2902,
+            "id": 451,
+            "sentence": 20,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 2903,
+            "charEnd": 2907,
+            "id": 452,
+            "sentence": 20,
+            "text": "dass",
+            "word": 5
+        },
+        {
+            "charBegin": 2908,
+            "charEnd": 2911,
+            "id": 453,
+            "sentence": 20,
+            "text": "ein",
+            "word": 6
+        },
+        {
+            "charBegin": 2912,
+            "charEnd": 2925,
+            "id": 454,
+            "sentence": 20,
+            "text": "erfolgreicher",
+            "word": 7
+        },
+        {
+            "charBegin": 2926,
+            "charEnd": 2934,
+            "id": 455,
+            "sentence": 20,
+            "text": "Kandidat",
+            "word": 8
+        },
+        {
+            "charBegin": 2935,
+            "charEnd": 2938,
+            "id": 456,
+            "sentence": 20,
+            "text": "für",
+            "word": 9
+        },
+        {
+            "charBegin": 2939,
+            "charEnd": 2944,
+            "id": 457,
+            "sentence": 20,
+            "text": "beide",
+            "word": 10
+        },
+        {
+            "charBegin": 2945,
+            "charEnd": 2951,
+            "id": 458,
+            "sentence": 20,
+            "text": "Wahlen",
+            "word": 11
+        },
+        {
+            "charBegin": 2952,
+            "charEnd": 2962,
+            "id": 459,
+            "sentence": 20,
+            "text": "mindestens",
+            "word": 12
+        },
+        {
+            "charBegin": 2963,
+            "charEnd": 2965,
+            "id": 460,
+            "sentence": 20,
+            "text": "40",
+            "word": 13
+        },
+        {
+            "charBegin": 2966,
+            "charEnd": 2975,
+            "id": 461,
+            "sentence": 20,
+            "text": "Millionen",
+            "word": 14
+        },
+        {
+            "charBegin": 2976,
+            "charEnd": 2985,
+            "id": 462,
+            "sentence": 20,
+            "text": "US-Dollar",
+            "word": 15
+        },
+        {
+            "charBegin": 2986,
+            "charEnd": 2988,
+            "id": 463,
+            "sentence": 20,
+            "text": "an",
+            "word": 16
+        },
+        {
+            "charBegin": 2989,
+            "charEnd": 3005,
+            "id": 464,
+            "sentence": 20,
+            "text": "Wahlkampfspenden",
+            "word": 17
+        },
+        {
+            "charBegin": 3006,
+            "charEnd": 3016,
+            "id": 465,
+            "sentence": 20,
+            "text": "aufbringen",
+            "word": 18
+        },
+        {
+            "charBegin": 3017,
+            "charEnd": 3023,
+            "id": 466,
+            "sentence": 20,
+            "text": "werden",
+            "word": 19
+        },
+        {
+            "charBegin": 3024,
+            "charEnd": 3028,
+            "id": 467,
+            "sentence": 20,
+            "text": "muss",
+            "word": 20
+        },
+        {
+            "charBegin": 3028,
+            "charEnd": 3029,
+            "id": 468,
+            "sentence": 20,
+            "text": ".",
+            "word": 21
+        }
+    ]
+}

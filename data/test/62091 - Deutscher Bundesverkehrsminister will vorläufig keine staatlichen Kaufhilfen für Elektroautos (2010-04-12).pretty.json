@@ -1,0 +1,2434 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 17,
+                        "charBegin": 140,
+                        "charEnd": 176,
+                        "end": 23
+                    }
+                ],
+                "text": "dem Nachrichtenmagazin „Der Spiegel“",
+                "tokenIds": [
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 14,
+                        "charBegin": 121,
+                        "charEnd": 126,
+                        "end": 15
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    14
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 14,
+                        "charBegin": 121,
+                        "charEnd": 176,
+                        "end": 23
+                    }
+                ],
+                "text": "sagte er gegenüber dem Nachrichtenmagazin „Der Spiegel“",
+                "tokenIds": [
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 112,
+                        "end": 12
+                    },
+                    {
+                        "begin": 13,
+                        "charBegin": 114,
+                        "charEnd": 120,
+                        "end": 14
+                    }
+                ],
+                "text": "Der deutsche Bundesverkehrsminister Peter Ramsauer lehnt vorläufig staatliche Verkaufshilfen für Elektroautos ab Dieses",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    13
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 15,
+                        "charBegin": 127,
+                        "charEnd": 129,
+                        "end": 16
+                    }
+                ],
+                "text": "er",
+                "tokenIds": [
+                    15
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 25,
+                        "charBegin": 181,
+                        "charEnd": 191,
+                        "end": 26
+                    },
+                    {
+                        "begin": 28,
+                        "charBegin": 206,
+                        "charEnd": 221,
+                        "end": 31
+                    }
+                ],
+                "text": "begründete mit dem Umstand",
+                "tokenIds": [
+                    25,
+                    28,
+                    29,
+                    30
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 24,
+                        "charBegin": 178,
+                        "charEnd": 222,
+                        "end": 32
+                    }
+                ],
+                "text": "Er begründete seine Haltung mit dem Umstand,",
+                "tokenIds": [
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 32,
+                        "charBegin": 223,
+                        "charEnd": 290,
+                        "end": 43
+                    }
+                ],
+                "text": "das zurzeit noch nicht klar sei, welche Technologie sich durchsetze",
+                "tokenIds": [
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40,
+                    41,
+                    42
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 24,
+                        "charBegin": 178,
+                        "charEnd": 180,
+                        "end": 25
+                    }
+                ],
+                "text": "Er",
+                "tokenIds": [
+                    24
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 47,
+                        "charBegin": 303,
+                        "charEnd": 325,
+                        "end": 51
+                    }
+                ],
+                "text": "mit den Worten zitiert",
+                "tokenIds": [
+                    47,
+                    48,
+                    49,
+                    50
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 44,
+                        "charBegin": 292,
+                        "charEnd": 326,
+                        "end": 52
+                    }
+                ],
+                "text": "So wird er mit den Worten zitiert:",
+                "tokenIds": [
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 52,
+                        "charBegin": 327,
+                        "charEnd": 361,
+                        "end": 59
+                    }
+                ],
+                "text": "„Von Kaufprämien halte ich nichts“",
+                "tokenIds": [
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 46,
+                        "charBegin": 300,
+                        "charEnd": 302,
+                        "end": 47
+                    }
+                ],
+                "text": "er",
+                "tokenIds": [
+                    46
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 60,
+                        "charBegin": 363,
+                        "charEnd": 435,
+                        "end": 71
+                    }
+                ],
+                "text": "Er verwies zudem auf laufende Tests in acht Modellregionen Deutschlands.",
+                "tokenIds": [
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 60,
+                        "charBegin": 363,
+                        "charEnd": 365,
+                        "end": 61
+                    }
+                ],
+                "text": "Er",
+                "tokenIds": [
+                    60
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 82,
+                        "charBegin": 514,
+                        "charEnd": 701,
+                        "end": 107
+                    }
+                ],
+                "text": "In dieser Phase solle der Staat noch keine Regulierung durchführen. Außerdem habe in Deutschland bisher niemand ein ausgereiftes und preislich wettbewerbsfähiges Serienprodukt entwickelt.",
+                "tokenIds": [
+                    82,
+                    83,
+                    84,
+                    85,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 60,
+                        "charBegin": 363,
+                        "charEnd": 365,
+                        "end": 61
+                    }
+                ],
+                "text": "Er",
+                "tokenIds": [
+                    60
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        }
+    ],
+    "documentName": "62091 - Deutscher Bundesverkehrsminister will vorläufig keine staatlichen Kaufhilfen für Elektroautos (2010-04-12)",
+    "originalText": "Der deutsche Bundesverkehrsminister Peter Ramsauer lehnt vorläufig staatliche Verkaufshilfen für Elektroautos ab. Dieses sagte er gegenüber dem Nachrichtenmagazin „Der Spiegel“. Er begründete seine Haltung mit dem Umstand, das zurzeit noch nicht klar sei, welche Technologie sich durchsetze. So wird er mit den Worten zitiert: „Von Kaufprämien halte ich nichts“. Er verwies zudem auf laufende Tests in acht Modellregionen Deutschlands. In insgesamt 150 Einzelprojekten wird nach der richtigen Technologie gesucht. In dieser Phase solle der Staat noch keine Regulierung durchführen. Außerdem habe in Deutschland bisher niemand ein ausgereiftes und preislich wettbewerbsfähiges Serienprodukt entwickelt.\n\nOb es tatsächlich so kommt, wird am kommenden Mittwoch, den 14. April 2010 ein zweitägiges Treffen in Bremen zeigen. Dann findet eine Verkehrsministerkonferenz statt, an der alle Landesminister sowie der Bundesminister teilnehmen werden. Der Thüringer Verkehrsminister Christian Carius ist turnusmäßig Vorsitzender und wird in Abstimmung mit dem Bremer Verkehrssenator Dr. Reinhard Loske dazu einladen. Themen des Treffens werden außerdem eventuelle Konsequenzen aus der Winterperiode 2009\/2010 sowie die fehlenden Pendlerparkplätze sein.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 113,
+            "end": 13,
+            "id": 0,
+            "text": "Der deutsche Bundesverkehrsminister Peter Ramsauer lehnt vorläufig staatliche Verkaufshilfen für Elektroautos ab. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "tokens": [
+                "Der",
+                "deutsche",
+                "Bundesverkehrsminister",
+                "Peter",
+                "Ramsauer",
+                "lehnt",
+                "vorläufig",
+                "staatliche",
+                "Verkaufshilfen",
+                "für",
+                "Elektroautos",
+                "ab",
+                "."
+            ]
+        },
+        {
+            "begin": 13,
+            "charBegin": 114,
+            "charEnd": 177,
+            "end": 24,
+            "id": 1,
+            "text": "Dieses sagte er gegenüber dem Nachrichtenmagazin „Der Spiegel“. ",
+            "tokenIds": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ],
+            "tokens": [
+                "Dieses",
+                "sagte",
+                "er",
+                "gegenüber",
+                "dem",
+                "Nachrichtenmagazin",
+                "„",
+                "Der",
+                "Spiegel",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 24,
+            "charBegin": 178,
+            "charEnd": 291,
+            "end": 44,
+            "id": 2,
+            "text": "Er begründete seine Haltung mit dem Umstand, das zurzeit noch nicht klar sei, welche Technologie sich durchsetze. ",
+            "tokenIds": [
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "tokens": [
+                "Er",
+                "begründete",
+                "seine",
+                "Haltung",
+                "mit",
+                "dem",
+                "Umstand",
+                ",",
+                "das",
+                "zurzeit",
+                "noch",
+                "nicht",
+                "klar",
+                "sei",
+                ",",
+                "welche",
+                "Technologie",
+                "sich",
+                "durchsetze",
+                "."
+            ]
+        },
+        {
+            "begin": 44,
+            "charBegin": 292,
+            "charEnd": 362,
+            "end": 60,
+            "id": 3,
+            "text": "So wird er mit den Worten zitiert: „Von Kaufprämien halte ich nichts“. ",
+            "tokenIds": [
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59
+            ],
+            "tokens": [
+                "So",
+                "wird",
+                "er",
+                "mit",
+                "den",
+                "Worten",
+                "zitiert",
+                ":",
+                "„",
+                "Von",
+                "Kaufprämien",
+                "halte",
+                "ich",
+                "nichts",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 60,
+            "charBegin": 363,
+            "charEnd": 435,
+            "end": 71,
+            "id": 4,
+            "text": "Er verwies zudem auf laufende Tests in acht Modellregionen Deutschlands. ",
+            "tokenIds": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70
+            ],
+            "tokens": [
+                "Er",
+                "verwies",
+                "zudem",
+                "auf",
+                "laufende",
+                "Tests",
+                "in",
+                "acht",
+                "Modellregionen",
+                "Deutschlands",
+                "."
+            ]
+        },
+        {
+            "begin": 71,
+            "charBegin": 436,
+            "charEnd": 513,
+            "end": 82,
+            "id": 5,
+            "text": "In insgesamt 150 Einzelprojekten wird nach der richtigen Technologie gesucht. ",
+            "tokenIds": [
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81
+            ],
+            "tokens": [
+                "In",
+                "insgesamt",
+                "150",
+                "Einzelprojekten",
+                "wird",
+                "nach",
+                "der",
+                "richtigen",
+                "Technologie",
+                "gesucht",
+                "."
+            ]
+        },
+        {
+            "begin": 82,
+            "charBegin": 514,
+            "charEnd": 581,
+            "end": 93,
+            "id": 6,
+            "text": "In dieser Phase solle der Staat noch keine Regulierung durchführen. ",
+            "tokenIds": [
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92
+            ],
+            "tokens": [
+                "In",
+                "dieser",
+                "Phase",
+                "solle",
+                "der",
+                "Staat",
+                "noch",
+                "keine",
+                "Regulierung",
+                "durchführen",
+                "."
+            ]
+        },
+        {
+            "begin": 93,
+            "charBegin": 582,
+            "charEnd": 701,
+            "end": 107,
+            "id": 7,
+            "text": "Außerdem habe in Deutschland bisher niemand ein ausgereiftes und preislich wettbewerbsfähiges Serienprodukt entwickelt.",
+            "tokenIds": [
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106
+            ],
+            "tokens": [
+                "Außerdem",
+                "habe",
+                "in",
+                "Deutschland",
+                "bisher",
+                "niemand",
+                "ein",
+                "ausgereiftes",
+                "und",
+                "preislich",
+                "wettbewerbsfähiges",
+                "Serienprodukt",
+                "entwickelt",
+                "."
+            ]
+        },
+        {
+            "begin": 107,
+            "charBegin": 703,
+            "charEnd": 819,
+            "end": 129,
+            "id": 8,
+            "text": "Ob es tatsächlich so kommt, wird am kommenden Mittwoch, den 14. April 2010 ein zweitägiges Treffen in Bremen zeigen. ",
+            "tokenIds": [
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128
+            ],
+            "tokens": [
+                "Ob",
+                "es",
+                "tatsächlich",
+                "so",
+                "kommt",
+                ",",
+                "wird",
+                "am",
+                "kommenden",
+                "Mittwoch",
+                ",",
+                "den",
+                "14.",
+                "April",
+                "2010",
+                "ein",
+                "zweitägiges",
+                "Treffen",
+                "in",
+                "Bremen",
+                "zeigen",
+                "."
+            ]
+        },
+        {
+            "begin": 129,
+            "charBegin": 820,
+            "charEnd": 940,
+            "end": 145,
+            "id": 9,
+            "text": "Dann findet eine Verkehrsministerkonferenz statt, an der alle Landesminister sowie der Bundesminister teilnehmen werden. ",
+            "tokenIds": [
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144
+            ],
+            "tokens": [
+                "Dann",
+                "findet",
+                "eine",
+                "Verkehrsministerkonferenz",
+                "statt",
+                ",",
+                "an",
+                "der",
+                "alle",
+                "Landesminister",
+                "sowie",
+                "der",
+                "Bundesminister",
+                "teilnehmen",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 145,
+            "charBegin": 941,
+            "charEnd": 1105,
+            "end": 167,
+            "id": 10,
+            "text": "Der Thüringer Verkehrsminister Christian Carius ist turnusmäßig Vorsitzender und wird in Abstimmung mit dem Bremer Verkehrssenator Dr. Reinhard Loske dazu einladen. ",
+            "tokenIds": [
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166
+            ],
+            "tokens": [
+                "Der",
+                "Thüringer",
+                "Verkehrsminister",
+                "Christian",
+                "Carius",
+                "ist",
+                "turnusmäßig",
+                "Vorsitzender",
+                "und",
+                "wird",
+                "in",
+                "Abstimmung",
+                "mit",
+                "dem",
+                "Bremer",
+                "Verkehrssenator",
+                "Dr.",
+                "Reinhard",
+                "Loske",
+                "dazu",
+                "einladen",
+                "."
+            ]
+        },
+        {
+            "begin": 167,
+            "charBegin": 1106,
+            "charEnd": 1241,
+            "end": 186,
+            "id": 11,
+            "text": "Themen des Treffens werden außerdem eventuelle Konsequenzen aus der Winterperiode 2009\/2010 sowie die fehlenden Pendlerparkplätze sein.",
+            "tokenIds": [
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185
+            ],
+            "tokens": [
+                "Themen",
+                "des",
+                "Treffens",
+                "werden",
+                "außerdem",
+                "eventuelle",
+                "Konsequenzen",
+                "aus",
+                "der",
+                "Winterperiode",
+                "2009",
+                "\/",
+                "2010",
+                "sowie",
+                "die",
+                "fehlenden",
+                "Pendlerparkplätze",
+                "sein",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 12,
+            "id": 1,
+            "sentence": 1,
+            "text": "deutsche",
+            "word": 2
+        },
+        {
+            "charBegin": 13,
+            "charEnd": 35,
+            "id": 2,
+            "sentence": 1,
+            "text": "Bundesverkehrsminister",
+            "word": 3
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 41,
+            "id": 3,
+            "sentence": 1,
+            "text": "Peter",
+            "word": 4
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 50,
+            "id": 4,
+            "sentence": 1,
+            "text": "Ramsauer",
+            "word": 5
+        },
+        {
+            "charBegin": 51,
+            "charEnd": 56,
+            "id": 5,
+            "sentence": 1,
+            "text": "lehnt",
+            "word": 6
+        },
+        {
+            "charBegin": 57,
+            "charEnd": 66,
+            "id": 6,
+            "sentence": 1,
+            "text": "vorläufig",
+            "word": 7
+        },
+        {
+            "charBegin": 67,
+            "charEnd": 77,
+            "id": 7,
+            "sentence": 1,
+            "text": "staatliche",
+            "word": 8
+        },
+        {
+            "charBegin": 78,
+            "charEnd": 92,
+            "id": 8,
+            "sentence": 1,
+            "text": "Verkaufshilfen",
+            "word": 9
+        },
+        {
+            "charBegin": 93,
+            "charEnd": 96,
+            "id": 9,
+            "sentence": 1,
+            "text": "für",
+            "word": 10
+        },
+        {
+            "charBegin": 97,
+            "charEnd": 109,
+            "id": 10,
+            "sentence": 1,
+            "text": "Elektroautos",
+            "word": 11
+        },
+        {
+            "charBegin": 110,
+            "charEnd": 112,
+            "id": 11,
+            "sentence": 1,
+            "text": "ab",
+            "word": 12
+        },
+        {
+            "charBegin": 112,
+            "charEnd": 113,
+            "id": 12,
+            "sentence": 1,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 114,
+            "charEnd": 120,
+            "id": 13,
+            "sentence": 2,
+            "text": "Dieses",
+            "word": 1
+        },
+        {
+            "charBegin": 121,
+            "charEnd": 126,
+            "id": 14,
+            "sentence": 2,
+            "text": "sagte",
+            "word": 2
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 129,
+            "id": 15,
+            "sentence": 2,
+            "text": "er",
+            "word": 3
+        },
+        {
+            "charBegin": 130,
+            "charEnd": 139,
+            "id": 16,
+            "sentence": 2,
+            "text": "gegenüber",
+            "word": 4
+        },
+        {
+            "charBegin": 140,
+            "charEnd": 143,
+            "id": 17,
+            "sentence": 2,
+            "text": "dem",
+            "word": 5
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 162,
+            "id": 18,
+            "sentence": 2,
+            "text": "Nachrichtenmagazin",
+            "word": 6
+        },
+        {
+            "charBegin": 163,
+            "charEnd": 164,
+            "id": 19,
+            "sentence": 2,
+            "text": "„",
+            "word": 7
+        },
+        {
+            "charBegin": 164,
+            "charEnd": 167,
+            "id": 20,
+            "sentence": 2,
+            "text": "Der",
+            "word": 8
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 175,
+            "id": 21,
+            "sentence": 2,
+            "text": "Spiegel",
+            "word": 9
+        },
+        {
+            "charBegin": 175,
+            "charEnd": 176,
+            "id": 22,
+            "sentence": 2,
+            "text": "“",
+            "word": 10
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 177,
+            "id": 23,
+            "sentence": 2,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 178,
+            "charEnd": 180,
+            "id": 24,
+            "sentence": 3,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 191,
+            "id": 25,
+            "sentence": 3,
+            "text": "begründete",
+            "word": 2
+        },
+        {
+            "charBegin": 192,
+            "charEnd": 197,
+            "id": 26,
+            "sentence": 3,
+            "text": "seine",
+            "word": 3
+        },
+        {
+            "charBegin": 198,
+            "charEnd": 205,
+            "id": 27,
+            "sentence": 3,
+            "text": "Haltung",
+            "word": 4
+        },
+        {
+            "charBegin": 206,
+            "charEnd": 209,
+            "id": 28,
+            "sentence": 3,
+            "text": "mit",
+            "word": 5
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 213,
+            "id": 29,
+            "sentence": 3,
+            "text": "dem",
+            "word": 6
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 221,
+            "id": 30,
+            "sentence": 3,
+            "text": "Umstand",
+            "word": 7
+        },
+        {
+            "charBegin": 221,
+            "charEnd": 222,
+            "id": 31,
+            "sentence": 3,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 226,
+            "id": 32,
+            "sentence": 3,
+            "text": "das",
+            "word": 9
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 234,
+            "id": 33,
+            "sentence": 3,
+            "text": "zurzeit",
+            "word": 10
+        },
+        {
+            "charBegin": 235,
+            "charEnd": 239,
+            "id": 34,
+            "sentence": 3,
+            "text": "noch",
+            "word": 11
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 245,
+            "id": 35,
+            "sentence": 3,
+            "text": "nicht",
+            "word": 12
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 250,
+            "id": 36,
+            "sentence": 3,
+            "text": "klar",
+            "word": 13
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 254,
+            "id": 37,
+            "sentence": 3,
+            "text": "sei",
+            "word": 14
+        },
+        {
+            "charBegin": 254,
+            "charEnd": 255,
+            "id": 38,
+            "sentence": 3,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 256,
+            "charEnd": 262,
+            "id": 39,
+            "sentence": 3,
+            "text": "welche",
+            "word": 16
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 274,
+            "id": 40,
+            "sentence": 3,
+            "text": "Technologie",
+            "word": 17
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 279,
+            "id": 41,
+            "sentence": 3,
+            "text": "sich",
+            "word": 18
+        },
+        {
+            "charBegin": 280,
+            "charEnd": 290,
+            "id": 42,
+            "sentence": 3,
+            "text": "durchsetze",
+            "word": 19
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 291,
+            "id": 43,
+            "sentence": 3,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 294,
+            "id": 44,
+            "sentence": 4,
+            "text": "So",
+            "word": 1
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 299,
+            "id": 45,
+            "sentence": 4,
+            "text": "wird",
+            "word": 2
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 302,
+            "id": 46,
+            "sentence": 4,
+            "text": "er",
+            "word": 3
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 306,
+            "id": 47,
+            "sentence": 4,
+            "text": "mit",
+            "word": 4
+        },
+        {
+            "charBegin": 307,
+            "charEnd": 310,
+            "id": 48,
+            "sentence": 4,
+            "text": "den",
+            "word": 5
+        },
+        {
+            "charBegin": 311,
+            "charEnd": 317,
+            "id": 49,
+            "sentence": 4,
+            "text": "Worten",
+            "word": 6
+        },
+        {
+            "charBegin": 318,
+            "charEnd": 325,
+            "id": 50,
+            "sentence": 4,
+            "text": "zitiert",
+            "word": 7
+        },
+        {
+            "charBegin": 325,
+            "charEnd": 326,
+            "id": 51,
+            "sentence": 4,
+            "text": ":",
+            "word": 8
+        },
+        {
+            "charBegin": 327,
+            "charEnd": 328,
+            "id": 52,
+            "sentence": 4,
+            "text": "„",
+            "word": 9
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 331,
+            "id": 53,
+            "sentence": 4,
+            "text": "Von",
+            "word": 10
+        },
+        {
+            "charBegin": 332,
+            "charEnd": 343,
+            "id": 54,
+            "sentence": 4,
+            "text": "Kaufprämien",
+            "word": 11
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 349,
+            "id": 55,
+            "sentence": 4,
+            "text": "halte",
+            "word": 12
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 353,
+            "id": 56,
+            "sentence": 4,
+            "text": "ich",
+            "word": 13
+        },
+        {
+            "charBegin": 354,
+            "charEnd": 360,
+            "id": 57,
+            "sentence": 4,
+            "text": "nichts",
+            "word": 14
+        },
+        {
+            "charBegin": 360,
+            "charEnd": 361,
+            "id": 58,
+            "sentence": 4,
+            "text": "“",
+            "word": 15
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 362,
+            "id": 59,
+            "sentence": 4,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 363,
+            "charEnd": 365,
+            "id": 60,
+            "sentence": 5,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 373,
+            "id": 61,
+            "sentence": 5,
+            "text": "verwies",
+            "word": 2
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 379,
+            "id": 62,
+            "sentence": 5,
+            "text": "zudem",
+            "word": 3
+        },
+        {
+            "charBegin": 380,
+            "charEnd": 383,
+            "id": 63,
+            "sentence": 5,
+            "text": "auf",
+            "word": 4
+        },
+        {
+            "charBegin": 384,
+            "charEnd": 392,
+            "id": 64,
+            "sentence": 5,
+            "text": "laufende",
+            "word": 5
+        },
+        {
+            "charBegin": 393,
+            "charEnd": 398,
+            "id": 65,
+            "sentence": 5,
+            "text": "Tests",
+            "word": 6
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 401,
+            "id": 66,
+            "sentence": 5,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 402,
+            "charEnd": 406,
+            "id": 67,
+            "sentence": 5,
+            "text": "acht",
+            "word": 8
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 421,
+            "id": 68,
+            "sentence": 5,
+            "text": "Modellregionen",
+            "word": 9
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 434,
+            "id": 69,
+            "sentence": 5,
+            "text": "Deutschlands",
+            "word": 10
+        },
+        {
+            "charBegin": 434,
+            "charEnd": 435,
+            "id": 70,
+            "sentence": 5,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 436,
+            "charEnd": 438,
+            "id": 71,
+            "sentence": 6,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 439,
+            "charEnd": 448,
+            "id": 72,
+            "sentence": 6,
+            "text": "insgesamt",
+            "word": 2
+        },
+        {
+            "charBegin": 449,
+            "charEnd": 452,
+            "id": 73,
+            "sentence": 6,
+            "text": "150",
+            "word": 3
+        },
+        {
+            "charBegin": 453,
+            "charEnd": 468,
+            "id": 74,
+            "sentence": 6,
+            "text": "Einzelprojekten",
+            "word": 4
+        },
+        {
+            "charBegin": 469,
+            "charEnd": 473,
+            "id": 75,
+            "sentence": 6,
+            "text": "wird",
+            "word": 5
+        },
+        {
+            "charBegin": 474,
+            "charEnd": 478,
+            "id": 76,
+            "sentence": 6,
+            "text": "nach",
+            "word": 6
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 482,
+            "id": 77,
+            "sentence": 6,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 483,
+            "charEnd": 492,
+            "id": 78,
+            "sentence": 6,
+            "text": "richtigen",
+            "word": 8
+        },
+        {
+            "charBegin": 493,
+            "charEnd": 504,
+            "id": 79,
+            "sentence": 6,
+            "text": "Technologie",
+            "word": 9
+        },
+        {
+            "charBegin": 505,
+            "charEnd": 512,
+            "id": 80,
+            "sentence": 6,
+            "text": "gesucht",
+            "word": 10
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 513,
+            "id": 81,
+            "sentence": 6,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 514,
+            "charEnd": 516,
+            "id": 82,
+            "sentence": 7,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 517,
+            "charEnd": 523,
+            "id": 83,
+            "sentence": 7,
+            "text": "dieser",
+            "word": 2
+        },
+        {
+            "charBegin": 524,
+            "charEnd": 529,
+            "id": 84,
+            "sentence": 7,
+            "text": "Phase",
+            "word": 3
+        },
+        {
+            "charBegin": 530,
+            "charEnd": 535,
+            "id": 85,
+            "sentence": 7,
+            "text": "solle",
+            "word": 4
+        },
+        {
+            "charBegin": 536,
+            "charEnd": 539,
+            "id": 86,
+            "sentence": 7,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 540,
+            "charEnd": 545,
+            "id": 87,
+            "sentence": 7,
+            "text": "Staat",
+            "word": 6
+        },
+        {
+            "charBegin": 546,
+            "charEnd": 550,
+            "id": 88,
+            "sentence": 7,
+            "text": "noch",
+            "word": 7
+        },
+        {
+            "charBegin": 551,
+            "charEnd": 556,
+            "id": 89,
+            "sentence": 7,
+            "text": "keine",
+            "word": 8
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 568,
+            "id": 90,
+            "sentence": 7,
+            "text": "Regulierung",
+            "word": 9
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 580,
+            "id": 91,
+            "sentence": 7,
+            "text": "durchführen",
+            "word": 10
+        },
+        {
+            "charBegin": 580,
+            "charEnd": 581,
+            "id": 92,
+            "sentence": 7,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 590,
+            "id": 93,
+            "sentence": 8,
+            "text": "Außerdem",
+            "word": 1
+        },
+        {
+            "charBegin": 591,
+            "charEnd": 595,
+            "id": 94,
+            "sentence": 8,
+            "text": "habe",
+            "word": 2
+        },
+        {
+            "charBegin": 596,
+            "charEnd": 598,
+            "id": 95,
+            "sentence": 8,
+            "text": "in",
+            "word": 3
+        },
+        {
+            "charBegin": 599,
+            "charEnd": 610,
+            "id": 96,
+            "sentence": 8,
+            "text": "Deutschland",
+            "word": 4
+        },
+        {
+            "charBegin": 611,
+            "charEnd": 617,
+            "id": 97,
+            "sentence": 8,
+            "text": "bisher",
+            "word": 5
+        },
+        {
+            "charBegin": 618,
+            "charEnd": 625,
+            "id": 98,
+            "sentence": 8,
+            "text": "niemand",
+            "word": 6
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 629,
+            "id": 99,
+            "sentence": 8,
+            "text": "ein",
+            "word": 7
+        },
+        {
+            "charBegin": 630,
+            "charEnd": 642,
+            "id": 100,
+            "sentence": 8,
+            "text": "ausgereiftes",
+            "word": 8
+        },
+        {
+            "charBegin": 643,
+            "charEnd": 646,
+            "id": 101,
+            "sentence": 8,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 647,
+            "charEnd": 656,
+            "id": 102,
+            "sentence": 8,
+            "text": "preislich",
+            "word": 10
+        },
+        {
+            "charBegin": 657,
+            "charEnd": 675,
+            "id": 103,
+            "sentence": 8,
+            "text": "wettbewerbsfähiges",
+            "word": 11
+        },
+        {
+            "charBegin": 676,
+            "charEnd": 689,
+            "id": 104,
+            "sentence": 8,
+            "text": "Serienprodukt",
+            "word": 12
+        },
+        {
+            "charBegin": 690,
+            "charEnd": 700,
+            "id": 105,
+            "sentence": 8,
+            "text": "entwickelt",
+            "word": 13
+        },
+        {
+            "charBegin": 700,
+            "charEnd": 701,
+            "id": 106,
+            "sentence": 8,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 705,
+            "id": 107,
+            "sentence": 9,
+            "text": "Ob",
+            "word": 1
+        },
+        {
+            "charBegin": 706,
+            "charEnd": 708,
+            "id": 108,
+            "sentence": 9,
+            "text": "es",
+            "word": 2
+        },
+        {
+            "charBegin": 709,
+            "charEnd": 720,
+            "id": 109,
+            "sentence": 9,
+            "text": "tatsächlich",
+            "word": 3
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 723,
+            "id": 110,
+            "sentence": 9,
+            "text": "so",
+            "word": 4
+        },
+        {
+            "charBegin": 724,
+            "charEnd": 729,
+            "id": 111,
+            "sentence": 9,
+            "text": "kommt",
+            "word": 5
+        },
+        {
+            "charBegin": 729,
+            "charEnd": 730,
+            "id": 112,
+            "sentence": 9,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 731,
+            "charEnd": 735,
+            "id": 113,
+            "sentence": 9,
+            "text": "wird",
+            "word": 7
+        },
+        {
+            "charBegin": 736,
+            "charEnd": 738,
+            "id": 114,
+            "sentence": 9,
+            "text": "am",
+            "word": 8
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 748,
+            "id": 115,
+            "sentence": 9,
+            "text": "kommenden",
+            "word": 9
+        },
+        {
+            "charBegin": 749,
+            "charEnd": 757,
+            "id": 116,
+            "sentence": 9,
+            "text": "Mittwoch",
+            "word": 10
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 758,
+            "id": 117,
+            "sentence": 9,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 762,
+            "id": 118,
+            "sentence": 9,
+            "text": "den",
+            "word": 12
+        },
+        {
+            "charBegin": 763,
+            "charEnd": 766,
+            "id": 119,
+            "sentence": 9,
+            "text": "14.",
+            "word": 13
+        },
+        {
+            "charBegin": 767,
+            "charEnd": 772,
+            "id": 120,
+            "sentence": 9,
+            "text": "April",
+            "word": 14
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 777,
+            "id": 121,
+            "sentence": 9,
+            "text": "2010",
+            "word": 15
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 781,
+            "id": 122,
+            "sentence": 9,
+            "text": "ein",
+            "word": 16
+        },
+        {
+            "charBegin": 782,
+            "charEnd": 793,
+            "id": 123,
+            "sentence": 9,
+            "text": "zweitägiges",
+            "word": 17
+        },
+        {
+            "charBegin": 794,
+            "charEnd": 801,
+            "id": 124,
+            "sentence": 9,
+            "text": "Treffen",
+            "word": 18
+        },
+        {
+            "charBegin": 802,
+            "charEnd": 804,
+            "id": 125,
+            "sentence": 9,
+            "text": "in",
+            "word": 19
+        },
+        {
+            "charBegin": 805,
+            "charEnd": 811,
+            "id": 126,
+            "sentence": 9,
+            "text": "Bremen",
+            "word": 20
+        },
+        {
+            "charBegin": 812,
+            "charEnd": 818,
+            "id": 127,
+            "sentence": 9,
+            "text": "zeigen",
+            "word": 21
+        },
+        {
+            "charBegin": 818,
+            "charEnd": 819,
+            "id": 128,
+            "sentence": 9,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 820,
+            "charEnd": 824,
+            "id": 129,
+            "sentence": 10,
+            "text": "Dann",
+            "word": 1
+        },
+        {
+            "charBegin": 825,
+            "charEnd": 831,
+            "id": 130,
+            "sentence": 10,
+            "text": "findet",
+            "word": 2
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 836,
+            "id": 131,
+            "sentence": 10,
+            "text": "eine",
+            "word": 3
+        },
+        {
+            "charBegin": 837,
+            "charEnd": 862,
+            "id": 132,
+            "sentence": 10,
+            "text": "Verkehrsministerkonferenz",
+            "word": 4
+        },
+        {
+            "charBegin": 863,
+            "charEnd": 868,
+            "id": 133,
+            "sentence": 10,
+            "text": "statt",
+            "word": 5
+        },
+        {
+            "charBegin": 868,
+            "charEnd": 869,
+            "id": 134,
+            "sentence": 10,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 870,
+            "charEnd": 872,
+            "id": 135,
+            "sentence": 10,
+            "text": "an",
+            "word": 7
+        },
+        {
+            "charBegin": 873,
+            "charEnd": 876,
+            "id": 136,
+            "sentence": 10,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 877,
+            "charEnd": 881,
+            "id": 137,
+            "sentence": 10,
+            "text": "alle",
+            "word": 9
+        },
+        {
+            "charBegin": 882,
+            "charEnd": 896,
+            "id": 138,
+            "sentence": 10,
+            "text": "Landesminister",
+            "word": 10
+        },
+        {
+            "charBegin": 897,
+            "charEnd": 902,
+            "id": 139,
+            "sentence": 10,
+            "text": "sowie",
+            "word": 11
+        },
+        {
+            "charBegin": 903,
+            "charEnd": 906,
+            "id": 140,
+            "sentence": 10,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 907,
+            "charEnd": 921,
+            "id": 141,
+            "sentence": 10,
+            "text": "Bundesminister",
+            "word": 13
+        },
+        {
+            "charBegin": 922,
+            "charEnd": 932,
+            "id": 142,
+            "sentence": 10,
+            "text": "teilnehmen",
+            "word": 14
+        },
+        {
+            "charBegin": 933,
+            "charEnd": 939,
+            "id": 143,
+            "sentence": 10,
+            "text": "werden",
+            "word": 15
+        },
+        {
+            "charBegin": 939,
+            "charEnd": 940,
+            "id": 144,
+            "sentence": 10,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 941,
+            "charEnd": 944,
+            "id": 145,
+            "sentence": 11,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 954,
+            "id": 146,
+            "sentence": 11,
+            "text": "Thüringer",
+            "word": 2
+        },
+        {
+            "charBegin": 955,
+            "charEnd": 971,
+            "id": 147,
+            "sentence": 11,
+            "text": "Verkehrsminister",
+            "word": 3
+        },
+        {
+            "charBegin": 972,
+            "charEnd": 981,
+            "id": 148,
+            "sentence": 11,
+            "text": "Christian",
+            "word": 4
+        },
+        {
+            "charBegin": 982,
+            "charEnd": 988,
+            "id": 149,
+            "sentence": 11,
+            "text": "Carius",
+            "word": 5
+        },
+        {
+            "charBegin": 989,
+            "charEnd": 992,
+            "id": 150,
+            "sentence": 11,
+            "text": "ist",
+            "word": 6
+        },
+        {
+            "charBegin": 993,
+            "charEnd": 1004,
+            "id": 151,
+            "sentence": 11,
+            "text": "turnusmäßig",
+            "word": 7
+        },
+        {
+            "charBegin": 1005,
+            "charEnd": 1017,
+            "id": 152,
+            "sentence": 11,
+            "text": "Vorsitzender",
+            "word": 8
+        },
+        {
+            "charBegin": 1018,
+            "charEnd": 1021,
+            "id": 153,
+            "sentence": 11,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 1022,
+            "charEnd": 1026,
+            "id": 154,
+            "sentence": 11,
+            "text": "wird",
+            "word": 10
+        },
+        {
+            "charBegin": 1027,
+            "charEnd": 1029,
+            "id": 155,
+            "sentence": 11,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 1030,
+            "charEnd": 1040,
+            "id": 156,
+            "sentence": 11,
+            "text": "Abstimmung",
+            "word": 12
+        },
+        {
+            "charBegin": 1041,
+            "charEnd": 1044,
+            "id": 157,
+            "sentence": 11,
+            "text": "mit",
+            "word": 13
+        },
+        {
+            "charBegin": 1045,
+            "charEnd": 1048,
+            "id": 158,
+            "sentence": 11,
+            "text": "dem",
+            "word": 14
+        },
+        {
+            "charBegin": 1049,
+            "charEnd": 1055,
+            "id": 159,
+            "sentence": 11,
+            "text": "Bremer",
+            "word": 15
+        },
+        {
+            "charBegin": 1056,
+            "charEnd": 1071,
+            "id": 160,
+            "sentence": 11,
+            "text": "Verkehrssenator",
+            "word": 16
+        },
+        {
+            "charBegin": 1072,
+            "charEnd": 1075,
+            "id": 161,
+            "sentence": 11,
+            "text": "Dr.",
+            "word": 17
+        },
+        {
+            "charBegin": 1076,
+            "charEnd": 1084,
+            "id": 162,
+            "sentence": 11,
+            "text": "Reinhard",
+            "word": 18
+        },
+        {
+            "charBegin": 1085,
+            "charEnd": 1090,
+            "id": 163,
+            "sentence": 11,
+            "text": "Loske",
+            "word": 19
+        },
+        {
+            "charBegin": 1091,
+            "charEnd": 1095,
+            "id": 164,
+            "sentence": 11,
+            "text": "dazu",
+            "word": 20
+        },
+        {
+            "charBegin": 1096,
+            "charEnd": 1104,
+            "id": 165,
+            "sentence": 11,
+            "text": "einladen",
+            "word": 21
+        },
+        {
+            "charBegin": 1104,
+            "charEnd": 1105,
+            "id": 166,
+            "sentence": 11,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 1106,
+            "charEnd": 1112,
+            "id": 167,
+            "sentence": 12,
+            "text": "Themen",
+            "word": 1
+        },
+        {
+            "charBegin": 1113,
+            "charEnd": 1116,
+            "id": 168,
+            "sentence": 12,
+            "text": "des",
+            "word": 2
+        },
+        {
+            "charBegin": 1117,
+            "charEnd": 1125,
+            "id": 169,
+            "sentence": 12,
+            "text": "Treffens",
+            "word": 3
+        },
+        {
+            "charBegin": 1126,
+            "charEnd": 1132,
+            "id": 170,
+            "sentence": 12,
+            "text": "werden",
+            "word": 4
+        },
+        {
+            "charBegin": 1133,
+            "charEnd": 1141,
+            "id": 171,
+            "sentence": 12,
+            "text": "außerdem",
+            "word": 5
+        },
+        {
+            "charBegin": 1142,
+            "charEnd": 1152,
+            "id": 172,
+            "sentence": 12,
+            "text": "eventuelle",
+            "word": 6
+        },
+        {
+            "charBegin": 1153,
+            "charEnd": 1165,
+            "id": 173,
+            "sentence": 12,
+            "text": "Konsequenzen",
+            "word": 7
+        },
+        {
+            "charBegin": 1166,
+            "charEnd": 1169,
+            "id": 174,
+            "sentence": 12,
+            "text": "aus",
+            "word": 8
+        },
+        {
+            "charBegin": 1170,
+            "charEnd": 1173,
+            "id": 175,
+            "sentence": 12,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 1174,
+            "charEnd": 1187,
+            "id": 176,
+            "sentence": 12,
+            "text": "Winterperiode",
+            "word": 10
+        },
+        {
+            "charBegin": 1188,
+            "charEnd": 1192,
+            "id": 177,
+            "sentence": 12,
+            "text": "2009",
+            "word": 11
+        },
+        {
+            "charBegin": 1192,
+            "charEnd": 1193,
+            "id": 178,
+            "sentence": 12,
+            "text": "\/",
+            "word": 12
+        },
+        {
+            "charBegin": 1193,
+            "charEnd": 1197,
+            "id": 179,
+            "sentence": 12,
+            "text": "2010",
+            "word": 13
+        },
+        {
+            "charBegin": 1198,
+            "charEnd": 1203,
+            "id": 180,
+            "sentence": 12,
+            "text": "sowie",
+            "word": 14
+        },
+        {
+            "charBegin": 1204,
+            "charEnd": 1207,
+            "id": 181,
+            "sentence": 12,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 1208,
+            "charEnd": 1217,
+            "id": 182,
+            "sentence": 12,
+            "text": "fehlenden",
+            "word": 16
+        },
+        {
+            "charBegin": 1218,
+            "charEnd": 1235,
+            "id": 183,
+            "sentence": 12,
+            "text": "Pendlerparkplätze",
+            "word": 17
+        },
+        {
+            "charBegin": 1236,
+            "charEnd": 1240,
+            "id": 184,
+            "sentence": 12,
+            "text": "sein",
+            "word": 18
+        },
+        {
+            "charBegin": 1240,
+            "charEnd": 1241,
+            "id": 185,
+            "sentence": 12,
+            "text": ".",
+            "word": 19
+        }
+    ]
+}

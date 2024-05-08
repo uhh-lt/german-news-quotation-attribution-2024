@@ -1,0 +1,709 @@
+{
+    "annotations": [],
+    "documentName": "20735 - Zwei deutsche Ingenieure im Irak entführt (2006-01-24)",
+    "originalText": "Im Irak wurden zwei deutsche Ingenieure aus Leipzig entführt, ein dritter konnte der Entführung entkommen. Die Täter waren eine Gruppe bewaffneter Männer in irakischen Militäruniformen. Sie verschafften sich mit Gewalt Zutritt zum Gelände einer Ölraffinerie in der Stadt Bedschi. Die beiden Entführten sind Mitarbeiter einer Reinigungsmittelfirma aus Wurzen bei Leipzig.\n\nDas Auswärtige Amt hat inzwischen einen Krisenstab eingerichtet.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 106,
+            "end": 17,
+            "id": 0,
+            "text": "Im Irak wurden zwei deutsche Ingenieure aus Leipzig entführt, ein dritter konnte der Entführung entkommen. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ],
+            "tokens": [
+                "Im",
+                "Irak",
+                "wurden",
+                "zwei",
+                "deutsche",
+                "Ingenieure",
+                "aus",
+                "Leipzig",
+                "entführt",
+                ",",
+                "ein",
+                "dritter",
+                "konnte",
+                "der",
+                "Entführung",
+                "entkommen",
+                "."
+            ]
+        },
+        {
+            "begin": 17,
+            "charBegin": 107,
+            "charEnd": 185,
+            "end": 28,
+            "id": 1,
+            "text": "Die Täter waren eine Gruppe bewaffneter Männer in irakischen Militäruniformen. ",
+            "tokenIds": [
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27
+            ],
+            "tokens": [
+                "Die",
+                "Täter",
+                "waren",
+                "eine",
+                "Gruppe",
+                "bewaffneter",
+                "Männer",
+                "in",
+                "irakischen",
+                "Militäruniformen",
+                "."
+            ]
+        },
+        {
+            "begin": 28,
+            "charBegin": 186,
+            "charEnd": 279,
+            "end": 43,
+            "id": 2,
+            "text": "Sie verschafften sich mit Gewalt Zutritt zum Gelände einer Ölraffinerie in der Stadt Bedschi. ",
+            "tokenIds": [
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42
+            ],
+            "tokens": [
+                "Sie",
+                "verschafften",
+                "sich",
+                "mit",
+                "Gewalt",
+                "Zutritt",
+                "zum",
+                "Gelände",
+                "einer",
+                "Ölraffinerie",
+                "in",
+                "der",
+                "Stadt",
+                "Bedschi",
+                "."
+            ]
+        },
+        {
+            "begin": 43,
+            "charBegin": 280,
+            "charEnd": 370,
+            "end": 55,
+            "id": 3,
+            "text": "Die beiden Entführten sind Mitarbeiter einer Reinigungsmittelfirma aus Wurzen bei Leipzig.",
+            "tokenIds": [
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "tokens": [
+                "Die",
+                "beiden",
+                "Entführten",
+                "sind",
+                "Mitarbeiter",
+                "einer",
+                "Reinigungsmittelfirma",
+                "aus",
+                "Wurzen",
+                "bei",
+                "Leipzig",
+                "."
+            ]
+        },
+        {
+            "begin": 55,
+            "charBegin": 372,
+            "charEnd": 436,
+            "end": 64,
+            "id": 4,
+            "text": "Das Auswärtige Amt hat inzwischen einen Krisenstab eingerichtet.",
+            "tokenIds": [
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63
+            ],
+            "tokens": [
+                "Das",
+                "Auswärtige",
+                "Amt",
+                "hat",
+                "inzwischen",
+                "einen",
+                "Krisenstab",
+                "eingerichtet",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 7,
+            "id": 1,
+            "sentence": 1,
+            "text": "Irak",
+            "word": 2
+        },
+        {
+            "charBegin": 8,
+            "charEnd": 14,
+            "id": 2,
+            "sentence": 1,
+            "text": "wurden",
+            "word": 3
+        },
+        {
+            "charBegin": 15,
+            "charEnd": 19,
+            "id": 3,
+            "sentence": 1,
+            "text": "zwei",
+            "word": 4
+        },
+        {
+            "charBegin": 20,
+            "charEnd": 28,
+            "id": 4,
+            "sentence": 1,
+            "text": "deutsche",
+            "word": 5
+        },
+        {
+            "charBegin": 29,
+            "charEnd": 39,
+            "id": 5,
+            "sentence": 1,
+            "text": "Ingenieure",
+            "word": 6
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 43,
+            "id": 6,
+            "sentence": 1,
+            "text": "aus",
+            "word": 7
+        },
+        {
+            "charBegin": 44,
+            "charEnd": 51,
+            "id": 7,
+            "sentence": 1,
+            "text": "Leipzig",
+            "word": 8
+        },
+        {
+            "charBegin": 52,
+            "charEnd": 60,
+            "id": 8,
+            "sentence": 1,
+            "text": "entführt",
+            "word": 9
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 61,
+            "id": 9,
+            "sentence": 1,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 62,
+            "charEnd": 65,
+            "id": 10,
+            "sentence": 1,
+            "text": "ein",
+            "word": 11
+        },
+        {
+            "charBegin": 66,
+            "charEnd": 73,
+            "id": 11,
+            "sentence": 1,
+            "text": "dritter",
+            "word": 12
+        },
+        {
+            "charBegin": 74,
+            "charEnd": 80,
+            "id": 12,
+            "sentence": 1,
+            "text": "konnte",
+            "word": 13
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 84,
+            "id": 13,
+            "sentence": 1,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 95,
+            "id": 14,
+            "sentence": 1,
+            "text": "Entführung",
+            "word": 15
+        },
+        {
+            "charBegin": 96,
+            "charEnd": 105,
+            "id": 15,
+            "sentence": 1,
+            "text": "entkommen",
+            "word": 16
+        },
+        {
+            "charBegin": 105,
+            "charEnd": 106,
+            "id": 16,
+            "sentence": 1,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 107,
+            "charEnd": 110,
+            "id": 17,
+            "sentence": 2,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 111,
+            "charEnd": 116,
+            "id": 18,
+            "sentence": 2,
+            "text": "Täter",
+            "word": 2
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 122,
+            "id": 19,
+            "sentence": 2,
+            "text": "waren",
+            "word": 3
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 127,
+            "id": 20,
+            "sentence": 2,
+            "text": "eine",
+            "word": 4
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 134,
+            "id": 21,
+            "sentence": 2,
+            "text": "Gruppe",
+            "word": 5
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 146,
+            "id": 22,
+            "sentence": 2,
+            "text": "bewaffneter",
+            "word": 6
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 153,
+            "id": 23,
+            "sentence": 2,
+            "text": "Männer",
+            "word": 7
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 156,
+            "id": 24,
+            "sentence": 2,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 167,
+            "id": 25,
+            "sentence": 2,
+            "text": "irakischen",
+            "word": 9
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 184,
+            "id": 26,
+            "sentence": 2,
+            "text": "Militäruniformen",
+            "word": 10
+        },
+        {
+            "charBegin": 184,
+            "charEnd": 185,
+            "id": 27,
+            "sentence": 2,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 186,
+            "charEnd": 189,
+            "id": 28,
+            "sentence": 3,
+            "text": "Sie",
+            "word": 1
+        },
+        {
+            "charBegin": 190,
+            "charEnd": 202,
+            "id": 29,
+            "sentence": 3,
+            "text": "verschafften",
+            "word": 2
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 207,
+            "id": 30,
+            "sentence": 3,
+            "text": "sich",
+            "word": 3
+        },
+        {
+            "charBegin": 208,
+            "charEnd": 211,
+            "id": 31,
+            "sentence": 3,
+            "text": "mit",
+            "word": 4
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 218,
+            "id": 32,
+            "sentence": 3,
+            "text": "Gewalt",
+            "word": 5
+        },
+        {
+            "charBegin": 219,
+            "charEnd": 226,
+            "id": 33,
+            "sentence": 3,
+            "text": "Zutritt",
+            "word": 6
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 230,
+            "id": 34,
+            "sentence": 3,
+            "text": "zum",
+            "word": 7
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 238,
+            "id": 35,
+            "sentence": 3,
+            "text": "Gelände",
+            "word": 8
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 244,
+            "id": 36,
+            "sentence": 3,
+            "text": "einer",
+            "word": 9
+        },
+        {
+            "charBegin": 245,
+            "charEnd": 257,
+            "id": 37,
+            "sentence": 3,
+            "text": "Ölraffinerie",
+            "word": 10
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 260,
+            "id": 38,
+            "sentence": 3,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 261,
+            "charEnd": 264,
+            "id": 39,
+            "sentence": 3,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 265,
+            "charEnd": 270,
+            "id": 40,
+            "sentence": 3,
+            "text": "Stadt",
+            "word": 13
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 278,
+            "id": 41,
+            "sentence": 3,
+            "text": "Bedschi",
+            "word": 14
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 279,
+            "id": 42,
+            "sentence": 3,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 280,
+            "charEnd": 283,
+            "id": 43,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 290,
+            "id": 44,
+            "sentence": 4,
+            "text": "beiden",
+            "word": 2
+        },
+        {
+            "charBegin": 291,
+            "charEnd": 301,
+            "id": 45,
+            "sentence": 4,
+            "text": "Entführten",
+            "word": 3
+        },
+        {
+            "charBegin": 302,
+            "charEnd": 306,
+            "id": 46,
+            "sentence": 4,
+            "text": "sind",
+            "word": 4
+        },
+        {
+            "charBegin": 307,
+            "charEnd": 318,
+            "id": 47,
+            "sentence": 4,
+            "text": "Mitarbeiter",
+            "word": 5
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 324,
+            "id": 48,
+            "sentence": 4,
+            "text": "einer",
+            "word": 6
+        },
+        {
+            "charBegin": 325,
+            "charEnd": 346,
+            "id": 49,
+            "sentence": 4,
+            "text": "Reinigungsmittelfirma",
+            "word": 7
+        },
+        {
+            "charBegin": 347,
+            "charEnd": 350,
+            "id": 50,
+            "sentence": 4,
+            "text": "aus",
+            "word": 8
+        },
+        {
+            "charBegin": 351,
+            "charEnd": 357,
+            "id": 51,
+            "sentence": 4,
+            "text": "Wurzen",
+            "word": 9
+        },
+        {
+            "charBegin": 358,
+            "charEnd": 361,
+            "id": 52,
+            "sentence": 4,
+            "text": "bei",
+            "word": 10
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 369,
+            "id": 53,
+            "sentence": 4,
+            "text": "Leipzig",
+            "word": 11
+        },
+        {
+            "charBegin": 369,
+            "charEnd": 370,
+            "id": 54,
+            "sentence": 4,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 372,
+            "charEnd": 375,
+            "id": 55,
+            "sentence": 5,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 386,
+            "id": 56,
+            "sentence": 5,
+            "text": "Auswärtige",
+            "word": 2
+        },
+        {
+            "charBegin": 387,
+            "charEnd": 390,
+            "id": 57,
+            "sentence": 5,
+            "text": "Amt",
+            "word": 3
+        },
+        {
+            "charBegin": 391,
+            "charEnd": 394,
+            "id": 58,
+            "sentence": 5,
+            "text": "hat",
+            "word": 4
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 405,
+            "id": 59,
+            "sentence": 5,
+            "text": "inzwischen",
+            "word": 5
+        },
+        {
+            "charBegin": 406,
+            "charEnd": 411,
+            "id": 60,
+            "sentence": 5,
+            "text": "einen",
+            "word": 6
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 422,
+            "id": 61,
+            "sentence": 5,
+            "text": "Krisenstab",
+            "word": 7
+        },
+        {
+            "charBegin": 423,
+            "charEnd": 435,
+            "id": 62,
+            "sentence": 5,
+            "text": "eingerichtet",
+            "word": 8
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 436,
+            "id": 63,
+            "sentence": 5,
+            "text": ".",
+            "word": 9
+        }
+    ]
+}

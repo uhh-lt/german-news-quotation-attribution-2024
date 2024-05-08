@@ -1,0 +1,738 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 4,
+                        "end": 1
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    0
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 42,
+                        "end": 5
+                    }
+                ],
+                "text": "Nach Angaben der Polizeidirektion Hannover",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 5,
+                        "charBegin": 43,
+                        "charEnd": 116,
+                        "end": 14
+                    }
+                ],
+                "text": "ist Fussballnationaltorwart Robert Enke gestern am frühen Abend gestorben",
+                "tokenIds": [
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 1,
+                        "charBegin": 5,
+                        "charEnd": 42,
+                        "end": 5
+                    }
+                ],
+                "text": "Angaben der Polizeidirektion Hannover",
+                "tokenIds": [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 15,
+                        "charBegin": 118,
+                        "charEnd": 212,
+                        "end": 30
+                    }
+                ],
+                "text": "Enke sei bei Neustadt-Eilvese auf einem Bahnübergang von einem Zug erfasst und getötet worden.",
+                "tokenIds": [
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 1,
+                        "charBegin": 5,
+                        "charEnd": 42,
+                        "end": 5
+                    }
+                ],
+                "text": "Angaben der Polizeidirektion Hannover",
+                "tokenIds": [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        }
+    ],
+    "documentName": "59630 - Fußballnationaltorwart Robert Enke tot – Polizei spricht von Suizid (2009-11-11)",
+    "originalText": "Nach Angaben der Polizeidirektion Hannover ist Fussballnationaltorwart Robert Enke gestern am frühen Abend gestorben. Enke sei bei Neustadt-Eilvese auf einem Bahnübergang von einem Zug erfasst und getötet worden. Erste Ermittlungen der Polizei deuten auf Suizid. Der Tod des 32 Jahre alten Fußballprofis von Hannover 96 hat die Fußball-Welt erschüttert.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 117,
+            "end": 15,
+            "id": 0,
+            "text": "Nach Angaben der Polizeidirektion Hannover ist Fussballnationaltorwart Robert Enke gestern am frühen Abend gestorben. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "tokens": [
+                "Nach",
+                "Angaben",
+                "der",
+                "Polizeidirektion",
+                "Hannover",
+                "ist",
+                "Fussballnationaltorwart",
+                "Robert",
+                "Enke",
+                "gestern",
+                "am",
+                "frühen",
+                "Abend",
+                "gestorben",
+                "."
+            ]
+        },
+        {
+            "begin": 15,
+            "charBegin": 118,
+            "charEnd": 212,
+            "end": 30,
+            "id": 1,
+            "text": "Enke sei bei Neustadt-Eilvese auf einem Bahnübergang von einem Zug erfasst und getötet worden. ",
+            "tokenIds": [
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "tokens": [
+                "Enke",
+                "sei",
+                "bei",
+                "Neustadt-Eilvese",
+                "auf",
+                "einem",
+                "Bahnübergang",
+                "von",
+                "einem",
+                "Zug",
+                "erfasst",
+                "und",
+                "getötet",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "begin": 30,
+            "charBegin": 213,
+            "charEnd": 262,
+            "end": 38,
+            "id": 2,
+            "text": "Erste Ermittlungen der Polizei deuten auf Suizid. ",
+            "tokenIds": [
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37
+            ],
+            "tokens": [
+                "Erste",
+                "Ermittlungen",
+                "der",
+                "Polizei",
+                "deuten",
+                "auf",
+                "Suizid",
+                "."
+            ]
+        },
+        {
+            "begin": 38,
+            "charBegin": 263,
+            "charEnd": 353,
+            "end": 53,
+            "id": 3,
+            "text": "Der Tod des 32 Jahre alten Fußballprofis von Hannover 96 hat die Fußball-Welt erschüttert.",
+            "tokenIds": [
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52
+            ],
+            "tokens": [
+                "Der",
+                "Tod",
+                "des",
+                "32",
+                "Jahre",
+                "alten",
+                "Fußballprofis",
+                "von",
+                "Hannover",
+                "96",
+                "hat",
+                "die",
+                "Fußball-Welt",
+                "erschüttert",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 4,
+            "id": 0,
+            "sentence": 1,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 5,
+            "charEnd": 12,
+            "id": 1,
+            "sentence": 1,
+            "text": "Angaben",
+            "word": 2
+        },
+        {
+            "charBegin": 13,
+            "charEnd": 16,
+            "id": 2,
+            "sentence": 1,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 33,
+            "id": 3,
+            "sentence": 1,
+            "text": "Polizeidirektion",
+            "word": 4
+        },
+        {
+            "charBegin": 34,
+            "charEnd": 42,
+            "id": 4,
+            "sentence": 1,
+            "text": "Hannover",
+            "word": 5
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 46,
+            "id": 5,
+            "sentence": 1,
+            "text": "ist",
+            "word": 6
+        },
+        {
+            "charBegin": 47,
+            "charEnd": 70,
+            "id": 6,
+            "sentence": 1,
+            "text": "Fussballnationaltorwart",
+            "word": 7
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 77,
+            "id": 7,
+            "sentence": 1,
+            "text": "Robert",
+            "word": 8
+        },
+        {
+            "charBegin": 78,
+            "charEnd": 82,
+            "id": 8,
+            "sentence": 1,
+            "text": "Enke",
+            "word": 9
+        },
+        {
+            "charBegin": 83,
+            "charEnd": 90,
+            "id": 9,
+            "sentence": 1,
+            "text": "gestern",
+            "word": 10
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 93,
+            "id": 10,
+            "sentence": 1,
+            "text": "am",
+            "word": 11
+        },
+        {
+            "charBegin": 94,
+            "charEnd": 100,
+            "id": 11,
+            "sentence": 1,
+            "text": "frühen",
+            "word": 12
+        },
+        {
+            "charBegin": 101,
+            "charEnd": 106,
+            "id": 12,
+            "sentence": 1,
+            "text": "Abend",
+            "word": 13
+        },
+        {
+            "charBegin": 107,
+            "charEnd": 116,
+            "id": 13,
+            "sentence": 1,
+            "text": "gestorben",
+            "word": 14
+        },
+        {
+            "charBegin": 116,
+            "charEnd": 117,
+            "id": 14,
+            "sentence": 1,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 118,
+            "charEnd": 122,
+            "id": 15,
+            "sentence": 2,
+            "text": "Enke",
+            "word": 1
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 126,
+            "id": 16,
+            "sentence": 2,
+            "text": "sei",
+            "word": 2
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 130,
+            "id": 17,
+            "sentence": 2,
+            "text": "bei",
+            "word": 3
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 147,
+            "id": 18,
+            "sentence": 2,
+            "text": "Neustadt-Eilvese",
+            "word": 4
+        },
+        {
+            "charBegin": 148,
+            "charEnd": 151,
+            "id": 19,
+            "sentence": 2,
+            "text": "auf",
+            "word": 5
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 157,
+            "id": 20,
+            "sentence": 2,
+            "text": "einem",
+            "word": 6
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 170,
+            "id": 21,
+            "sentence": 2,
+            "text": "Bahnübergang",
+            "word": 7
+        },
+        {
+            "charBegin": 171,
+            "charEnd": 174,
+            "id": 22,
+            "sentence": 2,
+            "text": "von",
+            "word": 8
+        },
+        {
+            "charBegin": 175,
+            "charEnd": 180,
+            "id": 23,
+            "sentence": 2,
+            "text": "einem",
+            "word": 9
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 184,
+            "id": 24,
+            "sentence": 2,
+            "text": "Zug",
+            "word": 10
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 192,
+            "id": 25,
+            "sentence": 2,
+            "text": "erfasst",
+            "word": 11
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 196,
+            "id": 26,
+            "sentence": 2,
+            "text": "und",
+            "word": 12
+        },
+        {
+            "charBegin": 197,
+            "charEnd": 204,
+            "id": 27,
+            "sentence": 2,
+            "text": "getötet",
+            "word": 13
+        },
+        {
+            "charBegin": 205,
+            "charEnd": 211,
+            "id": 28,
+            "sentence": 2,
+            "text": "worden",
+            "word": 14
+        },
+        {
+            "charBegin": 211,
+            "charEnd": 212,
+            "id": 29,
+            "sentence": 2,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 213,
+            "charEnd": 218,
+            "id": 30,
+            "sentence": 3,
+            "text": "Erste",
+            "word": 1
+        },
+        {
+            "charBegin": 219,
+            "charEnd": 231,
+            "id": 31,
+            "sentence": 3,
+            "text": "Ermittlungen",
+            "word": 2
+        },
+        {
+            "charBegin": 232,
+            "charEnd": 235,
+            "id": 32,
+            "sentence": 3,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 236,
+            "charEnd": 243,
+            "id": 33,
+            "sentence": 3,
+            "text": "Polizei",
+            "word": 4
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 250,
+            "id": 34,
+            "sentence": 3,
+            "text": "deuten",
+            "word": 5
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 254,
+            "id": 35,
+            "sentence": 3,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 255,
+            "charEnd": 261,
+            "id": 36,
+            "sentence": 3,
+            "text": "Suizid",
+            "word": 7
+        },
+        {
+            "charBegin": 261,
+            "charEnd": 262,
+            "id": 37,
+            "sentence": 3,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 266,
+            "id": 38,
+            "sentence": 4,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 267,
+            "charEnd": 270,
+            "id": 39,
+            "sentence": 4,
+            "text": "Tod",
+            "word": 2
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 274,
+            "id": 40,
+            "sentence": 4,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 277,
+            "id": 41,
+            "sentence": 4,
+            "text": "32",
+            "word": 4
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 283,
+            "id": 42,
+            "sentence": 4,
+            "text": "Jahre",
+            "word": 5
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 289,
+            "id": 43,
+            "sentence": 4,
+            "text": "alten",
+            "word": 6
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 303,
+            "id": 44,
+            "sentence": 4,
+            "text": "Fußballprofis",
+            "word": 7
+        },
+        {
+            "charBegin": 304,
+            "charEnd": 307,
+            "id": 45,
+            "sentence": 4,
+            "text": "von",
+            "word": 8
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 316,
+            "id": 46,
+            "sentence": 4,
+            "text": "Hannover",
+            "word": 9
+        },
+        {
+            "charBegin": 317,
+            "charEnd": 319,
+            "id": 47,
+            "sentence": 4,
+            "text": "96",
+            "word": 10
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 323,
+            "id": 48,
+            "sentence": 4,
+            "text": "hat",
+            "word": 11
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 327,
+            "id": 49,
+            "sentence": 4,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 340,
+            "id": 50,
+            "sentence": 4,
+            "text": "Fußball-Welt",
+            "word": 13
+        },
+        {
+            "charBegin": 341,
+            "charEnd": 352,
+            "id": 51,
+            "sentence": 4,
+            "text": "erschüttert",
+            "word": 14
+        },
+        {
+            "charBegin": 352,
+            "charEnd": 353,
+            "id": 52,
+            "sentence": 4,
+            "text": ".",
+            "word": 15
+        }
+    ]
+}

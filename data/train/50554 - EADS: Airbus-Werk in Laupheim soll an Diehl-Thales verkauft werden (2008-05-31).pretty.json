@@ -1,0 +1,2219 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 16,
+                        "charBegin": 140,
+                        "charEnd": 143,
+                        "end": 17
+                    },
+                    {
+                        "begin": 26,
+                        "charBegin": 199,
+                        "charEnd": 208,
+                        "end": 27
+                    }
+                ],
+                "text": "Wie mitteilte",
+                "tokenIds": [
+                    16,
+                    26
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 16,
+                        "charBegin": 140,
+                        "charEnd": 209,
+                        "end": 28
+                    }
+                ],
+                "text": "Wie ein Vertreter des Mutterkonzern von Airbus, EADS heute mitteilte,",
+                "tokenIds": [
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27
+                ]
+            },
+            "hasNested": true,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 28,
+                        "charBegin": 210,
+                        "charEnd": 374,
+                        "end": 49
+                    }
+                ],
+                "text": "wurde das aus dem deutschen Rüstungsproduzenten Diehl aus Nürnberg und dem französischen Thales-Konzern bestehende Joint-Venture „als bevorzugter Bieter“ ausgewählt",
+                "tokenIds": [
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 17,
+                        "charBegin": 144,
+                        "charEnd": 192,
+                        "end": 25
+                    }
+                ],
+                "text": "ein Vertreter des Mutterkonzern von Airbus, EADS",
+                "tokenIds": [
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 16,
+                        "charBegin": 140,
+                        "charEnd": 143,
+                        "end": 17
+                    },
+                    {
+                        "begin": 26,
+                        "charBegin": 199,
+                        "charEnd": 208,
+                        "end": 27
+                    }
+                ],
+                "text": "Wie mitteilte",
+                "tokenIds": [
+                    16,
+                    26
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 16,
+                        "charBegin": 140,
+                        "charEnd": 209,
+                        "end": 28
+                    }
+                ],
+                "text": "Wie ein Vertreter des Mutterkonzern von Airbus, EADS heute mitteilte,",
+                "tokenIds": [
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 43,
+                        "charBegin": 339,
+                        "charEnd": 363,
+                        "end": 48
+                    }
+                ],
+                "text": "„als bevorzugter Bieter“",
+                "tokenIds": [
+                    43,
+                    44,
+                    45,
+                    46,
+                    47
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 17,
+                        "charBegin": 144,
+                        "charEnd": 192,
+                        "end": 25
+                    }
+                ],
+                "text": "ein Vertreter des Mutterkonzern von Airbus, EADS",
+                "tokenIds": [
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 97,
+                        "charBegin": 721,
+                        "charEnd": 724,
+                        "end": 98
+                    },
+                    {
+                        "begin": 100,
+                        "charBegin": 737,
+                        "charEnd": 767,
+                        "end": 104
+                    }
+                ],
+                "text": "war für gescheitert erklärt worden",
+                "tokenIds": [
+                    97,
+                    100,
+                    101,
+                    102,
+                    103
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 95,
+                        "charBegin": 713,
+                        "charEnd": 768,
+                        "end": 105
+                    }
+                ],
+                "text": "Im März war der Versuch für gescheitert erklärt worden,",
+                "tokenIds": [
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 105,
+                        "charBegin": 769,
+                        "charEnd": 824,
+                        "end": 115
+                    }
+                ],
+                "text": "die Werke in Varel, Nordenham und Augsburg zu verkaufen",
+                "tokenIds": [
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "50554 - EADS: Airbus-Werk in Laupheim soll an Diehl-Thales verkauft werden (2008-05-31)",
+    "originalText": "Das Airbus-Werk im baden-württembergischen Laupheim soll an das deutsch-französische Gemeinschaftsunternehmen Diehl\/Thales verkauft werden. Wie ein Vertreter des Mutterkonzern von Airbus, EADS heute mitteilte, wurde das aus dem deutschen Rüstungsproduzenten Diehl aus Nürnberg und dem französischen Thales-Konzern bestehende Joint-Venture „als bevorzugter Bieter“ ausgewählt. \n\nDas Airbus-Werk in Laupheim soll im Rahmen des großangelegten Sparprogramms „Power8“ aus dem Airbuskonzern ausgegliedert werden. Nach den Lieferschwierigkeiten mit dem Airbus A380 muss der Luftfahrtkonzern mit Milliardenverlusten fertig werden. Insgesamt sechs deutsche und französische Airbus-Standorte sollten daher verkauft werden. Im März war der Versuch für gescheitert erklärt worden, die Werke in Varel, Nordenham und Augsburg zu verkaufen.\n\nMit dem Nürnberger Rüstungskonzern Diehl und seinem französischen Partner bestehen schon seit längerer Zeit intensive Geschäftsbeziehungen. Diehl\/Thales gilt als Hauptzulieferer für Airbus. Die beiden Unternehmen produzieren für Airbus unter anderem Kabinenbeleuchtungen. Im Airbus-Werk Laupheim werden unter anderem Flugzeugkabinen, Ruheräume für die Kabinenbesatzung sowie Klimarohre für alle Airbusmodell hergestellt. In Laupheim sind 1.100 Beschäftigte tätig.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 139,
+            "end": 16,
+            "id": 0,
+            "text": "Das Airbus-Werk im baden-württembergischen Laupheim soll an das deutsch-französische Gemeinschaftsunternehmen Diehl\/Thales verkauft werden. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "tokens": [
+                "Das",
+                "Airbus-Werk",
+                "im",
+                "baden-württembergischen",
+                "Laupheim",
+                "soll",
+                "an",
+                "das",
+                "deutsch-französische",
+                "Gemeinschaftsunternehmen",
+                "Diehl",
+                "\/",
+                "Thales",
+                "verkauft",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 16,
+            "charBegin": 140,
+            "charEnd": 375,
+            "end": 50,
+            "id": 1,
+            "text": "Wie ein Vertreter des Mutterkonzern von Airbus, EADS heute mitteilte, wurde das aus dem deutschen Rüstungsproduzenten Diehl aus Nürnberg und dem französischen Thales-Konzern bestehende Joint-Venture „als bevorzugter Bieter“ ausgewählt. ",
+            "tokenIds": [
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ],
+            "tokens": [
+                "Wie",
+                "ein",
+                "Vertreter",
+                "des",
+                "Mutterkonzern",
+                "von",
+                "Airbus",
+                ",",
+                "EADS",
+                "heute",
+                "mitteilte",
+                ",",
+                "wurde",
+                "das",
+                "aus",
+                "dem",
+                "deutschen",
+                "Rüstungsproduzenten",
+                "Diehl",
+                "aus",
+                "Nürnberg",
+                "und",
+                "dem",
+                "französischen",
+                "Thales-Konzern",
+                "bestehende",
+                "Joint-Venture",
+                "„",
+                "als",
+                "bevorzugter",
+                "Bieter",
+                "“",
+                "ausgewählt",
+                "."
+            ]
+        },
+        {
+            "begin": 50,
+            "charBegin": 378,
+            "charEnd": 506,
+            "end": 69,
+            "id": 2,
+            "text": "Das Airbus-Werk in Laupheim soll im Rahmen des großangelegten Sparprogramms „Power8“ aus dem Airbuskonzern ausgegliedert werden. ",
+            "tokenIds": [
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68
+            ],
+            "tokens": [
+                "Das",
+                "Airbus-Werk",
+                "in",
+                "Laupheim",
+                "soll",
+                "im",
+                "Rahmen",
+                "des",
+                "großangelegten",
+                "Sparprogramms",
+                "„",
+                "Power8",
+                "“",
+                "aus",
+                "dem",
+                "Airbuskonzern",
+                "ausgegliedert",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 69,
+            "charBegin": 507,
+            "charEnd": 622,
+            "end": 84,
+            "id": 3,
+            "text": "Nach den Lieferschwierigkeiten mit dem Airbus A380 muss der Luftfahrtkonzern mit Milliardenverlusten fertig werden. ",
+            "tokenIds": [
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83
+            ],
+            "tokens": [
+                "Nach",
+                "den",
+                "Lieferschwierigkeiten",
+                "mit",
+                "dem",
+                "Airbus",
+                "A380",
+                "muss",
+                "der",
+                "Luftfahrtkonzern",
+                "mit",
+                "Milliardenverlusten",
+                "fertig",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 84,
+            "charBegin": 623,
+            "charEnd": 712,
+            "end": 95,
+            "id": 4,
+            "text": "Insgesamt sechs deutsche und französische Airbus-Standorte sollten daher verkauft werden. ",
+            "tokenIds": [
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94
+            ],
+            "tokens": [
+                "Insgesamt",
+                "sechs",
+                "deutsche",
+                "und",
+                "französische",
+                "Airbus-Standorte",
+                "sollten",
+                "daher",
+                "verkauft",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 95,
+            "charBegin": 713,
+            "charEnd": 825,
+            "end": 116,
+            "id": 5,
+            "text": "Im März war der Versuch für gescheitert erklärt worden, die Werke in Varel, Nordenham und Augsburg zu verkaufen.",
+            "tokenIds": [
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115
+            ],
+            "tokens": [
+                "Im",
+                "März",
+                "war",
+                "der",
+                "Versuch",
+                "für",
+                "gescheitert",
+                "erklärt",
+                "worden",
+                ",",
+                "die",
+                "Werke",
+                "in",
+                "Varel",
+                ",",
+                "Nordenham",
+                "und",
+                "Augsburg",
+                "zu",
+                "verkaufen",
+                "."
+            ]
+        },
+        {
+            "begin": 116,
+            "charBegin": 827,
+            "charEnd": 966,
+            "end": 133,
+            "id": 6,
+            "text": "Mit dem Nürnberger Rüstungskonzern Diehl und seinem französischen Partner bestehen schon seit längerer Zeit intensive Geschäftsbeziehungen. ",
+            "tokenIds": [
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132
+            ],
+            "tokens": [
+                "Mit",
+                "dem",
+                "Nürnberger",
+                "Rüstungskonzern",
+                "Diehl",
+                "und",
+                "seinem",
+                "französischen",
+                "Partner",
+                "bestehen",
+                "schon",
+                "seit",
+                "längerer",
+                "Zeit",
+                "intensive",
+                "Geschäftsbeziehungen",
+                "."
+            ]
+        },
+        {
+            "begin": 133,
+            "charBegin": 967,
+            "charEnd": 1016,
+            "end": 142,
+            "id": 7,
+            "text": "Diehl\/Thales gilt als Hauptzulieferer für Airbus. ",
+            "tokenIds": [
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141
+            ],
+            "tokens": [
+                "Diehl",
+                "\/",
+                "Thales",
+                "gilt",
+                "als",
+                "Hauptzulieferer",
+                "für",
+                "Airbus",
+                "."
+            ]
+        },
+        {
+            "begin": 142,
+            "charBegin": 1017,
+            "charEnd": 1098,
+            "end": 152,
+            "id": 8,
+            "text": "Die beiden Unternehmen produzieren für Airbus unter anderem Kabinenbeleuchtungen. ",
+            "tokenIds": [
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151
+            ],
+            "tokens": [
+                "Die",
+                "beiden",
+                "Unternehmen",
+                "produzieren",
+                "für",
+                "Airbus",
+                "unter",
+                "anderem",
+                "Kabinenbeleuchtungen",
+                "."
+            ]
+        },
+        {
+            "begin": 152,
+            "charBegin": 1099,
+            "charEnd": 1247,
+            "end": 171,
+            "id": 9,
+            "text": "Im Airbus-Werk Laupheim werden unter anderem Flugzeugkabinen, Ruheräume für die Kabinenbesatzung sowie Klimarohre für alle Airbusmodell hergestellt. ",
+            "tokenIds": [
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170
+            ],
+            "tokens": [
+                "Im",
+                "Airbus-Werk",
+                "Laupheim",
+                "werden",
+                "unter",
+                "anderem",
+                "Flugzeugkabinen",
+                ",",
+                "Ruheräume",
+                "für",
+                "die",
+                "Kabinenbesatzung",
+                "sowie",
+                "Klimarohre",
+                "für",
+                "alle",
+                "Airbusmodell",
+                "hergestellt",
+                "."
+            ]
+        },
+        {
+            "begin": 171,
+            "charBegin": 1248,
+            "charEnd": 1290,
+            "end": 178,
+            "id": 10,
+            "text": "In Laupheim sind 1.100 Beschäftigte tätig.",
+            "tokenIds": [
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177
+            ],
+            "tokens": [
+                "In",
+                "Laupheim",
+                "sind",
+                "1.100",
+                "Beschäftigte",
+                "tätig",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 15,
+            "id": 1,
+            "sentence": 1,
+            "text": "Airbus-Werk",
+            "word": 2
+        },
+        {
+            "charBegin": 16,
+            "charEnd": 18,
+            "id": 2,
+            "sentence": 1,
+            "text": "im",
+            "word": 3
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 42,
+            "id": 3,
+            "sentence": 1,
+            "text": "baden-württembergischen",
+            "word": 4
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 51,
+            "id": 4,
+            "sentence": 1,
+            "text": "Laupheim",
+            "word": 5
+        },
+        {
+            "charBegin": 52,
+            "charEnd": 56,
+            "id": 5,
+            "sentence": 1,
+            "text": "soll",
+            "word": 6
+        },
+        {
+            "charBegin": 57,
+            "charEnd": 59,
+            "id": 6,
+            "sentence": 1,
+            "text": "an",
+            "word": 7
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 63,
+            "id": 7,
+            "sentence": 1,
+            "text": "das",
+            "word": 8
+        },
+        {
+            "charBegin": 64,
+            "charEnd": 84,
+            "id": 8,
+            "sentence": 1,
+            "text": "deutsch-französische",
+            "word": 9
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 109,
+            "id": 9,
+            "sentence": 1,
+            "text": "Gemeinschaftsunternehmen",
+            "word": 10
+        },
+        {
+            "charBegin": 110,
+            "charEnd": 115,
+            "id": 10,
+            "sentence": 1,
+            "text": "Diehl",
+            "word": 11
+        },
+        {
+            "charBegin": 115,
+            "charEnd": 116,
+            "id": 11,
+            "sentence": 1,
+            "text": "\/",
+            "word": 12
+        },
+        {
+            "charBegin": 116,
+            "charEnd": 122,
+            "id": 12,
+            "sentence": 1,
+            "text": "Thales",
+            "word": 13
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 131,
+            "id": 13,
+            "sentence": 1,
+            "text": "verkauft",
+            "word": 14
+        },
+        {
+            "charBegin": 132,
+            "charEnd": 138,
+            "id": 14,
+            "sentence": 1,
+            "text": "werden",
+            "word": 15
+        },
+        {
+            "charBegin": 138,
+            "charEnd": 139,
+            "id": 15,
+            "sentence": 1,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 140,
+            "charEnd": 143,
+            "id": 16,
+            "sentence": 2,
+            "text": "Wie",
+            "word": 1
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 147,
+            "id": 17,
+            "sentence": 2,
+            "text": "ein",
+            "word": 2
+        },
+        {
+            "charBegin": 148,
+            "charEnd": 157,
+            "id": 18,
+            "sentence": 2,
+            "text": "Vertreter",
+            "word": 3
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 161,
+            "id": 19,
+            "sentence": 2,
+            "text": "des",
+            "word": 4
+        },
+        {
+            "charBegin": 162,
+            "charEnd": 175,
+            "id": 20,
+            "sentence": 2,
+            "text": "Mutterkonzern",
+            "word": 5
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 179,
+            "id": 21,
+            "sentence": 2,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 180,
+            "charEnd": 186,
+            "id": 22,
+            "sentence": 2,
+            "text": "Airbus",
+            "word": 7
+        },
+        {
+            "charBegin": 186,
+            "charEnd": 187,
+            "id": 23,
+            "sentence": 2,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 192,
+            "id": 24,
+            "sentence": 2,
+            "text": "EADS",
+            "word": 9
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 198,
+            "id": 25,
+            "sentence": 2,
+            "text": "heute",
+            "word": 10
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 208,
+            "id": 26,
+            "sentence": 2,
+            "text": "mitteilte",
+            "word": 11
+        },
+        {
+            "charBegin": 208,
+            "charEnd": 209,
+            "id": 27,
+            "sentence": 2,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 215,
+            "id": 28,
+            "sentence": 2,
+            "text": "wurde",
+            "word": 13
+        },
+        {
+            "charBegin": 216,
+            "charEnd": 219,
+            "id": 29,
+            "sentence": 2,
+            "text": "das",
+            "word": 14
+        },
+        {
+            "charBegin": 220,
+            "charEnd": 223,
+            "id": 30,
+            "sentence": 2,
+            "text": "aus",
+            "word": 15
+        },
+        {
+            "charBegin": 224,
+            "charEnd": 227,
+            "id": 31,
+            "sentence": 2,
+            "text": "dem",
+            "word": 16
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 237,
+            "id": 32,
+            "sentence": 2,
+            "text": "deutschen",
+            "word": 17
+        },
+        {
+            "charBegin": 238,
+            "charEnd": 257,
+            "id": 33,
+            "sentence": 2,
+            "text": "Rüstungsproduzenten",
+            "word": 18
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 263,
+            "id": 34,
+            "sentence": 2,
+            "text": "Diehl",
+            "word": 19
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 267,
+            "id": 35,
+            "sentence": 2,
+            "text": "aus",
+            "word": 20
+        },
+        {
+            "charBegin": 268,
+            "charEnd": 276,
+            "id": 36,
+            "sentence": 2,
+            "text": "Nürnberg",
+            "word": 21
+        },
+        {
+            "charBegin": 277,
+            "charEnd": 280,
+            "id": 37,
+            "sentence": 2,
+            "text": "und",
+            "word": 22
+        },
+        {
+            "charBegin": 281,
+            "charEnd": 284,
+            "id": 38,
+            "sentence": 2,
+            "text": "dem",
+            "word": 23
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 298,
+            "id": 39,
+            "sentence": 2,
+            "text": "französischen",
+            "word": 24
+        },
+        {
+            "charBegin": 299,
+            "charEnd": 313,
+            "id": 40,
+            "sentence": 2,
+            "text": "Thales-Konzern",
+            "word": 25
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 324,
+            "id": 41,
+            "sentence": 2,
+            "text": "bestehende",
+            "word": 26
+        },
+        {
+            "charBegin": 325,
+            "charEnd": 338,
+            "id": 42,
+            "sentence": 2,
+            "text": "Joint-Venture",
+            "word": 27
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 340,
+            "id": 43,
+            "sentence": 2,
+            "text": "„",
+            "word": 28
+        },
+        {
+            "charBegin": 340,
+            "charEnd": 343,
+            "id": 44,
+            "sentence": 2,
+            "text": "als",
+            "word": 29
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 355,
+            "id": 45,
+            "sentence": 2,
+            "text": "bevorzugter",
+            "word": 30
+        },
+        {
+            "charBegin": 356,
+            "charEnd": 362,
+            "id": 46,
+            "sentence": 2,
+            "text": "Bieter",
+            "word": 31
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 363,
+            "id": 47,
+            "sentence": 2,
+            "text": "“",
+            "word": 32
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 374,
+            "id": 48,
+            "sentence": 2,
+            "text": "ausgewählt",
+            "word": 33
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 375,
+            "id": 49,
+            "sentence": 2,
+            "text": ".",
+            "word": 34
+        },
+        {
+            "charBegin": 378,
+            "charEnd": 381,
+            "id": 50,
+            "sentence": 3,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 393,
+            "id": 51,
+            "sentence": 3,
+            "text": "Airbus-Werk",
+            "word": 2
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 396,
+            "id": 52,
+            "sentence": 3,
+            "text": "in",
+            "word": 3
+        },
+        {
+            "charBegin": 397,
+            "charEnd": 405,
+            "id": 53,
+            "sentence": 3,
+            "text": "Laupheim",
+            "word": 4
+        },
+        {
+            "charBegin": 406,
+            "charEnd": 410,
+            "id": 54,
+            "sentence": 3,
+            "text": "soll",
+            "word": 5
+        },
+        {
+            "charBegin": 411,
+            "charEnd": 413,
+            "id": 55,
+            "sentence": 3,
+            "text": "im",
+            "word": 6
+        },
+        {
+            "charBegin": 414,
+            "charEnd": 420,
+            "id": 56,
+            "sentence": 3,
+            "text": "Rahmen",
+            "word": 7
+        },
+        {
+            "charBegin": 421,
+            "charEnd": 424,
+            "id": 57,
+            "sentence": 3,
+            "text": "des",
+            "word": 8
+        },
+        {
+            "charBegin": 425,
+            "charEnd": 439,
+            "id": 58,
+            "sentence": 3,
+            "text": "großangelegten",
+            "word": 9
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 453,
+            "id": 59,
+            "sentence": 3,
+            "text": "Sparprogramms",
+            "word": 10
+        },
+        {
+            "charBegin": 454,
+            "charEnd": 455,
+            "id": 60,
+            "sentence": 3,
+            "text": "„",
+            "word": 11
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 461,
+            "id": 61,
+            "sentence": 3,
+            "text": "Power8",
+            "word": 12
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 462,
+            "id": 62,
+            "sentence": 3,
+            "text": "“",
+            "word": 13
+        },
+        {
+            "charBegin": 463,
+            "charEnd": 466,
+            "id": 63,
+            "sentence": 3,
+            "text": "aus",
+            "word": 14
+        },
+        {
+            "charBegin": 467,
+            "charEnd": 470,
+            "id": 64,
+            "sentence": 3,
+            "text": "dem",
+            "word": 15
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 484,
+            "id": 65,
+            "sentence": 3,
+            "text": "Airbuskonzern",
+            "word": 16
+        },
+        {
+            "charBegin": 485,
+            "charEnd": 498,
+            "id": 66,
+            "sentence": 3,
+            "text": "ausgegliedert",
+            "word": 17
+        },
+        {
+            "charBegin": 499,
+            "charEnd": 505,
+            "id": 67,
+            "sentence": 3,
+            "text": "werden",
+            "word": 18
+        },
+        {
+            "charBegin": 505,
+            "charEnd": 506,
+            "id": 68,
+            "sentence": 3,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 507,
+            "charEnd": 511,
+            "id": 69,
+            "sentence": 4,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 515,
+            "id": 70,
+            "sentence": 4,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 516,
+            "charEnd": 537,
+            "id": 71,
+            "sentence": 4,
+            "text": "Lieferschwierigkeiten",
+            "word": 3
+        },
+        {
+            "charBegin": 538,
+            "charEnd": 541,
+            "id": 72,
+            "sentence": 4,
+            "text": "mit",
+            "word": 4
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 545,
+            "id": 73,
+            "sentence": 4,
+            "text": "dem",
+            "word": 5
+        },
+        {
+            "charBegin": 546,
+            "charEnd": 552,
+            "id": 74,
+            "sentence": 4,
+            "text": "Airbus",
+            "word": 6
+        },
+        {
+            "charBegin": 553,
+            "charEnd": 557,
+            "id": 75,
+            "sentence": 4,
+            "text": "A380",
+            "word": 7
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 562,
+            "id": 76,
+            "sentence": 4,
+            "text": "muss",
+            "word": 8
+        },
+        {
+            "charBegin": 563,
+            "charEnd": 566,
+            "id": 77,
+            "sentence": 4,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 583,
+            "id": 78,
+            "sentence": 4,
+            "text": "Luftfahrtkonzern",
+            "word": 10
+        },
+        {
+            "charBegin": 584,
+            "charEnd": 587,
+            "id": 79,
+            "sentence": 4,
+            "text": "mit",
+            "word": 11
+        },
+        {
+            "charBegin": 588,
+            "charEnd": 607,
+            "id": 80,
+            "sentence": 4,
+            "text": "Milliardenverlusten",
+            "word": 12
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 614,
+            "id": 81,
+            "sentence": 4,
+            "text": "fertig",
+            "word": 13
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 621,
+            "id": 82,
+            "sentence": 4,
+            "text": "werden",
+            "word": 14
+        },
+        {
+            "charBegin": 621,
+            "charEnd": 622,
+            "id": 83,
+            "sentence": 4,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 623,
+            "charEnd": 632,
+            "id": 84,
+            "sentence": 5,
+            "text": "Insgesamt",
+            "word": 1
+        },
+        {
+            "charBegin": 633,
+            "charEnd": 638,
+            "id": 85,
+            "sentence": 5,
+            "text": "sechs",
+            "word": 2
+        },
+        {
+            "charBegin": 639,
+            "charEnd": 647,
+            "id": 86,
+            "sentence": 5,
+            "text": "deutsche",
+            "word": 3
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 651,
+            "id": 87,
+            "sentence": 5,
+            "text": "und",
+            "word": 4
+        },
+        {
+            "charBegin": 652,
+            "charEnd": 664,
+            "id": 88,
+            "sentence": 5,
+            "text": "französische",
+            "word": 5
+        },
+        {
+            "charBegin": 665,
+            "charEnd": 681,
+            "id": 89,
+            "sentence": 5,
+            "text": "Airbus-Standorte",
+            "word": 6
+        },
+        {
+            "charBegin": 682,
+            "charEnd": 689,
+            "id": 90,
+            "sentence": 5,
+            "text": "sollten",
+            "word": 7
+        },
+        {
+            "charBegin": 690,
+            "charEnd": 695,
+            "id": 91,
+            "sentence": 5,
+            "text": "daher",
+            "word": 8
+        },
+        {
+            "charBegin": 696,
+            "charEnd": 704,
+            "id": 92,
+            "sentence": 5,
+            "text": "verkauft",
+            "word": 9
+        },
+        {
+            "charBegin": 705,
+            "charEnd": 711,
+            "id": 93,
+            "sentence": 5,
+            "text": "werden",
+            "word": 10
+        },
+        {
+            "charBegin": 711,
+            "charEnd": 712,
+            "id": 94,
+            "sentence": 5,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 713,
+            "charEnd": 715,
+            "id": 95,
+            "sentence": 6,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 720,
+            "id": 96,
+            "sentence": 6,
+            "text": "März",
+            "word": 2
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 724,
+            "id": 97,
+            "sentence": 6,
+            "text": "war",
+            "word": 3
+        },
+        {
+            "charBegin": 725,
+            "charEnd": 728,
+            "id": 98,
+            "sentence": 6,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 729,
+            "charEnd": 736,
+            "id": 99,
+            "sentence": 6,
+            "text": "Versuch",
+            "word": 5
+        },
+        {
+            "charBegin": 737,
+            "charEnd": 740,
+            "id": 100,
+            "sentence": 6,
+            "text": "für",
+            "word": 6
+        },
+        {
+            "charBegin": 741,
+            "charEnd": 752,
+            "id": 101,
+            "sentence": 6,
+            "text": "gescheitert",
+            "word": 7
+        },
+        {
+            "charBegin": 753,
+            "charEnd": 760,
+            "id": 102,
+            "sentence": 6,
+            "text": "erklärt",
+            "word": 8
+        },
+        {
+            "charBegin": 761,
+            "charEnd": 767,
+            "id": 103,
+            "sentence": 6,
+            "text": "worden",
+            "word": 9
+        },
+        {
+            "charBegin": 767,
+            "charEnd": 768,
+            "id": 104,
+            "sentence": 6,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 772,
+            "id": 105,
+            "sentence": 6,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 778,
+            "id": 106,
+            "sentence": 6,
+            "text": "Werke",
+            "word": 12
+        },
+        {
+            "charBegin": 779,
+            "charEnd": 781,
+            "id": 107,
+            "sentence": 6,
+            "text": "in",
+            "word": 13
+        },
+        {
+            "charBegin": 782,
+            "charEnd": 787,
+            "id": 108,
+            "sentence": 6,
+            "text": "Varel",
+            "word": 14
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 788,
+            "id": 109,
+            "sentence": 6,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 789,
+            "charEnd": 798,
+            "id": 110,
+            "sentence": 6,
+            "text": "Nordenham",
+            "word": 16
+        },
+        {
+            "charBegin": 799,
+            "charEnd": 802,
+            "id": 111,
+            "sentence": 6,
+            "text": "und",
+            "word": 17
+        },
+        {
+            "charBegin": 803,
+            "charEnd": 811,
+            "id": 112,
+            "sentence": 6,
+            "text": "Augsburg",
+            "word": 18
+        },
+        {
+            "charBegin": 812,
+            "charEnd": 814,
+            "id": 113,
+            "sentence": 6,
+            "text": "zu",
+            "word": 19
+        },
+        {
+            "charBegin": 815,
+            "charEnd": 824,
+            "id": 114,
+            "sentence": 6,
+            "text": "verkaufen",
+            "word": 20
+        },
+        {
+            "charBegin": 824,
+            "charEnd": 825,
+            "id": 115,
+            "sentence": 6,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 827,
+            "charEnd": 830,
+            "id": 116,
+            "sentence": 7,
+            "text": "Mit",
+            "word": 1
+        },
+        {
+            "charBegin": 831,
+            "charEnd": 834,
+            "id": 117,
+            "sentence": 7,
+            "text": "dem",
+            "word": 2
+        },
+        {
+            "charBegin": 835,
+            "charEnd": 845,
+            "id": 118,
+            "sentence": 7,
+            "text": "Nürnberger",
+            "word": 3
+        },
+        {
+            "charBegin": 846,
+            "charEnd": 861,
+            "id": 119,
+            "sentence": 7,
+            "text": "Rüstungskonzern",
+            "word": 4
+        },
+        {
+            "charBegin": 862,
+            "charEnd": 867,
+            "id": 120,
+            "sentence": 7,
+            "text": "Diehl",
+            "word": 5
+        },
+        {
+            "charBegin": 868,
+            "charEnd": 871,
+            "id": 121,
+            "sentence": 7,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 872,
+            "charEnd": 878,
+            "id": 122,
+            "sentence": 7,
+            "text": "seinem",
+            "word": 7
+        },
+        {
+            "charBegin": 879,
+            "charEnd": 892,
+            "id": 123,
+            "sentence": 7,
+            "text": "französischen",
+            "word": 8
+        },
+        {
+            "charBegin": 893,
+            "charEnd": 900,
+            "id": 124,
+            "sentence": 7,
+            "text": "Partner",
+            "word": 9
+        },
+        {
+            "charBegin": 901,
+            "charEnd": 909,
+            "id": 125,
+            "sentence": 7,
+            "text": "bestehen",
+            "word": 10
+        },
+        {
+            "charBegin": 910,
+            "charEnd": 915,
+            "id": 126,
+            "sentence": 7,
+            "text": "schon",
+            "word": 11
+        },
+        {
+            "charBegin": 916,
+            "charEnd": 920,
+            "id": 127,
+            "sentence": 7,
+            "text": "seit",
+            "word": 12
+        },
+        {
+            "charBegin": 921,
+            "charEnd": 929,
+            "id": 128,
+            "sentence": 7,
+            "text": "längerer",
+            "word": 13
+        },
+        {
+            "charBegin": 930,
+            "charEnd": 934,
+            "id": 129,
+            "sentence": 7,
+            "text": "Zeit",
+            "word": 14
+        },
+        {
+            "charBegin": 935,
+            "charEnd": 944,
+            "id": 130,
+            "sentence": 7,
+            "text": "intensive",
+            "word": 15
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 965,
+            "id": 131,
+            "sentence": 7,
+            "text": "Geschäftsbeziehungen",
+            "word": 16
+        },
+        {
+            "charBegin": 965,
+            "charEnd": 966,
+            "id": 132,
+            "sentence": 7,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 967,
+            "charEnd": 972,
+            "id": 133,
+            "sentence": 8,
+            "text": "Diehl",
+            "word": 1
+        },
+        {
+            "charBegin": 972,
+            "charEnd": 973,
+            "id": 134,
+            "sentence": 8,
+            "text": "\/",
+            "word": 2
+        },
+        {
+            "charBegin": 973,
+            "charEnd": 979,
+            "id": 135,
+            "sentence": 8,
+            "text": "Thales",
+            "word": 3
+        },
+        {
+            "charBegin": 980,
+            "charEnd": 984,
+            "id": 136,
+            "sentence": 8,
+            "text": "gilt",
+            "word": 4
+        },
+        {
+            "charBegin": 985,
+            "charEnd": 988,
+            "id": 137,
+            "sentence": 8,
+            "text": "als",
+            "word": 5
+        },
+        {
+            "charBegin": 989,
+            "charEnd": 1004,
+            "id": 138,
+            "sentence": 8,
+            "text": "Hauptzulieferer",
+            "word": 6
+        },
+        {
+            "charBegin": 1005,
+            "charEnd": 1008,
+            "id": 139,
+            "sentence": 8,
+            "text": "für",
+            "word": 7
+        },
+        {
+            "charBegin": 1009,
+            "charEnd": 1015,
+            "id": 140,
+            "sentence": 8,
+            "text": "Airbus",
+            "word": 8
+        },
+        {
+            "charBegin": 1015,
+            "charEnd": 1016,
+            "id": 141,
+            "sentence": 8,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 1017,
+            "charEnd": 1020,
+            "id": 142,
+            "sentence": 9,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1021,
+            "charEnd": 1027,
+            "id": 143,
+            "sentence": 9,
+            "text": "beiden",
+            "word": 2
+        },
+        {
+            "charBegin": 1028,
+            "charEnd": 1039,
+            "id": 144,
+            "sentence": 9,
+            "text": "Unternehmen",
+            "word": 3
+        },
+        {
+            "charBegin": 1040,
+            "charEnd": 1051,
+            "id": 145,
+            "sentence": 9,
+            "text": "produzieren",
+            "word": 4
+        },
+        {
+            "charBegin": 1052,
+            "charEnd": 1055,
+            "id": 146,
+            "sentence": 9,
+            "text": "für",
+            "word": 5
+        },
+        {
+            "charBegin": 1056,
+            "charEnd": 1062,
+            "id": 147,
+            "sentence": 9,
+            "text": "Airbus",
+            "word": 6
+        },
+        {
+            "charBegin": 1063,
+            "charEnd": 1068,
+            "id": 148,
+            "sentence": 9,
+            "text": "unter",
+            "word": 7
+        },
+        {
+            "charBegin": 1069,
+            "charEnd": 1076,
+            "id": 149,
+            "sentence": 9,
+            "text": "anderem",
+            "word": 8
+        },
+        {
+            "charBegin": 1077,
+            "charEnd": 1097,
+            "id": 150,
+            "sentence": 9,
+            "text": "Kabinenbeleuchtungen",
+            "word": 9
+        },
+        {
+            "charBegin": 1097,
+            "charEnd": 1098,
+            "id": 151,
+            "sentence": 9,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 1099,
+            "charEnd": 1101,
+            "id": 152,
+            "sentence": 10,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 1102,
+            "charEnd": 1113,
+            "id": 153,
+            "sentence": 10,
+            "text": "Airbus-Werk",
+            "word": 2
+        },
+        {
+            "charBegin": 1114,
+            "charEnd": 1122,
+            "id": 154,
+            "sentence": 10,
+            "text": "Laupheim",
+            "word": 3
+        },
+        {
+            "charBegin": 1123,
+            "charEnd": 1129,
+            "id": 155,
+            "sentence": 10,
+            "text": "werden",
+            "word": 4
+        },
+        {
+            "charBegin": 1130,
+            "charEnd": 1135,
+            "id": 156,
+            "sentence": 10,
+            "text": "unter",
+            "word": 5
+        },
+        {
+            "charBegin": 1136,
+            "charEnd": 1143,
+            "id": 157,
+            "sentence": 10,
+            "text": "anderem",
+            "word": 6
+        },
+        {
+            "charBegin": 1144,
+            "charEnd": 1159,
+            "id": 158,
+            "sentence": 10,
+            "text": "Flugzeugkabinen",
+            "word": 7
+        },
+        {
+            "charBegin": 1159,
+            "charEnd": 1160,
+            "id": 159,
+            "sentence": 10,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 1161,
+            "charEnd": 1170,
+            "id": 160,
+            "sentence": 10,
+            "text": "Ruheräume",
+            "word": 9
+        },
+        {
+            "charBegin": 1171,
+            "charEnd": 1174,
+            "id": 161,
+            "sentence": 10,
+            "text": "für",
+            "word": 10
+        },
+        {
+            "charBegin": 1175,
+            "charEnd": 1178,
+            "id": 162,
+            "sentence": 10,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 1179,
+            "charEnd": 1195,
+            "id": 163,
+            "sentence": 10,
+            "text": "Kabinenbesatzung",
+            "word": 12
+        },
+        {
+            "charBegin": 1196,
+            "charEnd": 1201,
+            "id": 164,
+            "sentence": 10,
+            "text": "sowie",
+            "word": 13
+        },
+        {
+            "charBegin": 1202,
+            "charEnd": 1212,
+            "id": 165,
+            "sentence": 10,
+            "text": "Klimarohre",
+            "word": 14
+        },
+        {
+            "charBegin": 1213,
+            "charEnd": 1216,
+            "id": 166,
+            "sentence": 10,
+            "text": "für",
+            "word": 15
+        },
+        {
+            "charBegin": 1217,
+            "charEnd": 1221,
+            "id": 167,
+            "sentence": 10,
+            "text": "alle",
+            "word": 16
+        },
+        {
+            "charBegin": 1222,
+            "charEnd": 1234,
+            "id": 168,
+            "sentence": 10,
+            "text": "Airbusmodell",
+            "word": 17
+        },
+        {
+            "charBegin": 1235,
+            "charEnd": 1246,
+            "id": 169,
+            "sentence": 10,
+            "text": "hergestellt",
+            "word": 18
+        },
+        {
+            "charBegin": 1246,
+            "charEnd": 1247,
+            "id": 170,
+            "sentence": 10,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 1248,
+            "charEnd": 1250,
+            "id": 171,
+            "sentence": 11,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 1251,
+            "charEnd": 1259,
+            "id": 172,
+            "sentence": 11,
+            "text": "Laupheim",
+            "word": 2
+        },
+        {
+            "charBegin": 1260,
+            "charEnd": 1264,
+            "id": 173,
+            "sentence": 11,
+            "text": "sind",
+            "word": 3
+        },
+        {
+            "charBegin": 1265,
+            "charEnd": 1270,
+            "id": 174,
+            "sentence": 11,
+            "text": "1.100",
+            "word": 4
+        },
+        {
+            "charBegin": 1271,
+            "charEnd": 1283,
+            "id": 175,
+            "sentence": 11,
+            "text": "Beschäftigte",
+            "word": 5
+        },
+        {
+            "charBegin": 1284,
+            "charEnd": 1289,
+            "id": 176,
+            "sentence": 11,
+            "text": "tätig",
+            "word": 6
+        },
+        {
+            "charBegin": 1289,
+            "charEnd": 1290,
+            "id": 177,
+            "sentence": 11,
+            "text": ".",
+            "word": 7
+        }
+    ]
+}

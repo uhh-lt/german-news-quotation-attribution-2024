@@ -1,0 +1,909 @@
+{
+    "annotations": [],
+    "documentName": "22774 - Nach dem Oscar nun der César (2006-02-26)",
+    "originalText": "Bei der Oscar-Verleihung 2005 in Los Angeles war das Boxer-Drama „Million Dollar Baby“ mit vier Auszeichnungen der große Gewinner. Der Regisseur des Films, Clint Eastwood, konnte am Samstagabend in Paris nun auch den französischen César einheimsen. Der César ist das europäische Gegenstück zum Oscar und wurde heuer zum 31. Mal vergeben.\n\nDen César bekam der Film in der Rubrik „Bester ausländischer Film“. Allerdings war der 74-jährige Eastwood bei der Verleihung nicht persönlich anwesend.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 130,
+            "end": 22,
+            "id": 0,
+            "text": "Bei der Oscar-Verleihung 2005 in Los Angeles war das Boxer-Drama „Million Dollar Baby“ mit vier Auszeichnungen der große Gewinner. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Bei",
+                "der",
+                "Oscar-Verleihung",
+                "2005",
+                "in",
+                "Los",
+                "Angeles",
+                "war",
+                "das",
+                "Boxer-Drama",
+                "„",
+                "Million",
+                "Dollar",
+                "Baby",
+                "“",
+                "mit",
+                "vier",
+                "Auszeichnungen",
+                "der",
+                "große",
+                "Gewinner",
+                "."
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 131,
+            "charEnd": 248,
+            "end": 42,
+            "id": 1,
+            "text": "Der Regisseur des Films, Clint Eastwood, konnte am Samstagabend in Paris nun auch den französischen César einheimsen. ",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "tokens": [
+                "Der",
+                "Regisseur",
+                "des",
+                "Films",
+                ",",
+                "Clint",
+                "Eastwood",
+                ",",
+                "konnte",
+                "am",
+                "Samstagabend",
+                "in",
+                "Paris",
+                "nun",
+                "auch",
+                "den",
+                "französischen",
+                "César",
+                "einheimsen",
+                "."
+            ]
+        },
+        {
+            "begin": 42,
+            "charBegin": 249,
+            "charEnd": 337,
+            "end": 58,
+            "id": 2,
+            "text": "Der César ist das europäische Gegenstück zum Oscar und wurde heuer zum 31. Mal vergeben.",
+            "tokenIds": [
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57
+            ],
+            "tokens": [
+                "Der",
+                "César",
+                "ist",
+                "das",
+                "europäische",
+                "Gegenstück",
+                "zum",
+                "Oscar",
+                "und",
+                "wurde",
+                "heuer",
+                "zum",
+                "31.",
+                "Mal",
+                "vergeben",
+                "."
+            ]
+        },
+        {
+            "begin": 58,
+            "charBegin": 339,
+            "charEnd": 406,
+            "end": 72,
+            "id": 3,
+            "text": "Den César bekam der Film in der Rubrik „Bester ausländischer Film“. ",
+            "tokenIds": [
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71
+            ],
+            "tokens": [
+                "Den",
+                "César",
+                "bekam",
+                "der",
+                "Film",
+                "in",
+                "der",
+                "Rubrik",
+                "„",
+                "Bester",
+                "ausländischer",
+                "Film",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 72,
+            "charBegin": 407,
+            "charEnd": 491,
+            "end": 84,
+            "id": 4,
+            "text": "Allerdings war der 74-jährige Eastwood bei der Verleihung nicht persönlich anwesend.",
+            "tokenIds": [
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83
+            ],
+            "tokens": [
+                "Allerdings",
+                "war",
+                "der",
+                "74-jährige",
+                "Eastwood",
+                "bei",
+                "der",
+                "Verleihung",
+                "nicht",
+                "persönlich",
+                "anwesend",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Bei",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 7,
+            "id": 1,
+            "sentence": 1,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 8,
+            "charEnd": 24,
+            "id": 2,
+            "sentence": 1,
+            "text": "Oscar-Verleihung",
+            "word": 3
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 29,
+            "id": 3,
+            "sentence": 1,
+            "text": "2005",
+            "word": 4
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 32,
+            "id": 4,
+            "sentence": 1,
+            "text": "in",
+            "word": 5
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 36,
+            "id": 5,
+            "sentence": 1,
+            "text": "Los",
+            "word": 6
+        },
+        {
+            "charBegin": 37,
+            "charEnd": 44,
+            "id": 6,
+            "sentence": 1,
+            "text": "Angeles",
+            "word": 7
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 48,
+            "id": 7,
+            "sentence": 1,
+            "text": "war",
+            "word": 8
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 52,
+            "id": 8,
+            "sentence": 1,
+            "text": "das",
+            "word": 9
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 64,
+            "id": 9,
+            "sentence": 1,
+            "text": "Boxer-Drama",
+            "word": 10
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 66,
+            "id": 10,
+            "sentence": 1,
+            "text": "„",
+            "word": 11
+        },
+        {
+            "charBegin": 66,
+            "charEnd": 73,
+            "id": 11,
+            "sentence": 1,
+            "text": "Million",
+            "word": 12
+        },
+        {
+            "charBegin": 74,
+            "charEnd": 80,
+            "id": 12,
+            "sentence": 1,
+            "text": "Dollar",
+            "word": 13
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 85,
+            "id": 13,
+            "sentence": 1,
+            "text": "Baby",
+            "word": 14
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 86,
+            "id": 14,
+            "sentence": 1,
+            "text": "“",
+            "word": 15
+        },
+        {
+            "charBegin": 87,
+            "charEnd": 90,
+            "id": 15,
+            "sentence": 1,
+            "text": "mit",
+            "word": 16
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 95,
+            "id": 16,
+            "sentence": 1,
+            "text": "vier",
+            "word": 17
+        },
+        {
+            "charBegin": 96,
+            "charEnd": 110,
+            "id": 17,
+            "sentence": 1,
+            "text": "Auszeichnungen",
+            "word": 18
+        },
+        {
+            "charBegin": 111,
+            "charEnd": 114,
+            "id": 18,
+            "sentence": 1,
+            "text": "der",
+            "word": 19
+        },
+        {
+            "charBegin": 115,
+            "charEnd": 120,
+            "id": 19,
+            "sentence": 1,
+            "text": "große",
+            "word": 20
+        },
+        {
+            "charBegin": 121,
+            "charEnd": 129,
+            "id": 20,
+            "sentence": 1,
+            "text": "Gewinner",
+            "word": 21
+        },
+        {
+            "charBegin": 129,
+            "charEnd": 130,
+            "id": 21,
+            "sentence": 1,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 134,
+            "id": 22,
+            "sentence": 2,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 144,
+            "id": 23,
+            "sentence": 2,
+            "text": "Regisseur",
+            "word": 2
+        },
+        {
+            "charBegin": 145,
+            "charEnd": 148,
+            "id": 24,
+            "sentence": 2,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 154,
+            "id": 25,
+            "sentence": 2,
+            "text": "Films",
+            "word": 4
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 155,
+            "id": 26,
+            "sentence": 2,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 161,
+            "id": 27,
+            "sentence": 2,
+            "text": "Clint",
+            "word": 6
+        },
+        {
+            "charBegin": 162,
+            "charEnd": 170,
+            "id": 28,
+            "sentence": 2,
+            "text": "Eastwood",
+            "word": 7
+        },
+        {
+            "charBegin": 170,
+            "charEnd": 171,
+            "id": 29,
+            "sentence": 2,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 178,
+            "id": 30,
+            "sentence": 2,
+            "text": "konnte",
+            "word": 9
+        },
+        {
+            "charBegin": 179,
+            "charEnd": 181,
+            "id": 31,
+            "sentence": 2,
+            "text": "am",
+            "word": 10
+        },
+        {
+            "charBegin": 182,
+            "charEnd": 194,
+            "id": 32,
+            "sentence": 2,
+            "text": "Samstagabend",
+            "word": 11
+        },
+        {
+            "charBegin": 195,
+            "charEnd": 197,
+            "id": 33,
+            "sentence": 2,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 198,
+            "charEnd": 203,
+            "id": 34,
+            "sentence": 2,
+            "text": "Paris",
+            "word": 13
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 207,
+            "id": 35,
+            "sentence": 2,
+            "text": "nun",
+            "word": 14
+        },
+        {
+            "charBegin": 208,
+            "charEnd": 212,
+            "id": 36,
+            "sentence": 2,
+            "text": "auch",
+            "word": 15
+        },
+        {
+            "charBegin": 213,
+            "charEnd": 216,
+            "id": 37,
+            "sentence": 2,
+            "text": "den",
+            "word": 16
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 230,
+            "id": 38,
+            "sentence": 2,
+            "text": "französischen",
+            "word": 17
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 236,
+            "id": 39,
+            "sentence": 2,
+            "text": "César",
+            "word": 18
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 247,
+            "id": 40,
+            "sentence": 2,
+            "text": "einheimsen",
+            "word": 19
+        },
+        {
+            "charBegin": 247,
+            "charEnd": 248,
+            "id": 41,
+            "sentence": 2,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 249,
+            "charEnd": 252,
+            "id": 42,
+            "sentence": 3,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 253,
+            "charEnd": 258,
+            "id": 43,
+            "sentence": 3,
+            "text": "César",
+            "word": 2
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 262,
+            "id": 44,
+            "sentence": 3,
+            "text": "ist",
+            "word": 3
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 266,
+            "id": 45,
+            "sentence": 3,
+            "text": "das",
+            "word": 4
+        },
+        {
+            "charBegin": 267,
+            "charEnd": 278,
+            "id": 46,
+            "sentence": 3,
+            "text": "europäische",
+            "word": 5
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 289,
+            "id": 47,
+            "sentence": 3,
+            "text": "Gegenstück",
+            "word": 6
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 293,
+            "id": 48,
+            "sentence": 3,
+            "text": "zum",
+            "word": 7
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 299,
+            "id": 49,
+            "sentence": 3,
+            "text": "Oscar",
+            "word": 8
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 303,
+            "id": 50,
+            "sentence": 3,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 304,
+            "charEnd": 309,
+            "id": 51,
+            "sentence": 3,
+            "text": "wurde",
+            "word": 10
+        },
+        {
+            "charBegin": 310,
+            "charEnd": 315,
+            "id": 52,
+            "sentence": 3,
+            "text": "heuer",
+            "word": 11
+        },
+        {
+            "charBegin": 316,
+            "charEnd": 319,
+            "id": 53,
+            "sentence": 3,
+            "text": "zum",
+            "word": 12
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 323,
+            "id": 54,
+            "sentence": 3,
+            "text": "31.",
+            "word": 13
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 327,
+            "id": 55,
+            "sentence": 3,
+            "text": "Mal",
+            "word": 14
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 336,
+            "id": 56,
+            "sentence": 3,
+            "text": "vergeben",
+            "word": 15
+        },
+        {
+            "charBegin": 336,
+            "charEnd": 337,
+            "id": 57,
+            "sentence": 3,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 342,
+            "id": 58,
+            "sentence": 4,
+            "text": "Den",
+            "word": 1
+        },
+        {
+            "charBegin": 343,
+            "charEnd": 348,
+            "id": 59,
+            "sentence": 4,
+            "text": "César",
+            "word": 2
+        },
+        {
+            "charBegin": 349,
+            "charEnd": 354,
+            "id": 60,
+            "sentence": 4,
+            "text": "bekam",
+            "word": 3
+        },
+        {
+            "charBegin": 355,
+            "charEnd": 358,
+            "id": 61,
+            "sentence": 4,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 363,
+            "id": 62,
+            "sentence": 4,
+            "text": "Film",
+            "word": 5
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 366,
+            "id": 63,
+            "sentence": 4,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 367,
+            "charEnd": 370,
+            "id": 64,
+            "sentence": 4,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 371,
+            "charEnd": 377,
+            "id": 65,
+            "sentence": 4,
+            "text": "Rubrik",
+            "word": 8
+        },
+        {
+            "charBegin": 378,
+            "charEnd": 379,
+            "id": 66,
+            "sentence": 4,
+            "text": "„",
+            "word": 9
+        },
+        {
+            "charBegin": 379,
+            "charEnd": 385,
+            "id": 67,
+            "sentence": 4,
+            "text": "Bester",
+            "word": 10
+        },
+        {
+            "charBegin": 386,
+            "charEnd": 399,
+            "id": 68,
+            "sentence": 4,
+            "text": "ausländischer",
+            "word": 11
+        },
+        {
+            "charBegin": 400,
+            "charEnd": 404,
+            "id": 69,
+            "sentence": 4,
+            "text": "Film",
+            "word": 12
+        },
+        {
+            "charBegin": 404,
+            "charEnd": 405,
+            "id": 70,
+            "sentence": 4,
+            "text": "“",
+            "word": 13
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 406,
+            "id": 71,
+            "sentence": 4,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 417,
+            "id": 72,
+            "sentence": 5,
+            "text": "Allerdings",
+            "word": 1
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 421,
+            "id": 73,
+            "sentence": 5,
+            "text": "war",
+            "word": 2
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 425,
+            "id": 74,
+            "sentence": 5,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 426,
+            "charEnd": 436,
+            "id": 75,
+            "sentence": 5,
+            "text": "74-jährige",
+            "word": 4
+        },
+        {
+            "charBegin": 437,
+            "charEnd": 445,
+            "id": 76,
+            "sentence": 5,
+            "text": "Eastwood",
+            "word": 5
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 449,
+            "id": 77,
+            "sentence": 5,
+            "text": "bei",
+            "word": 6
+        },
+        {
+            "charBegin": 450,
+            "charEnd": 453,
+            "id": 78,
+            "sentence": 5,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 454,
+            "charEnd": 464,
+            "id": 79,
+            "sentence": 5,
+            "text": "Verleihung",
+            "word": 8
+        },
+        {
+            "charBegin": 465,
+            "charEnd": 470,
+            "id": 80,
+            "sentence": 5,
+            "text": "nicht",
+            "word": 9
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 481,
+            "id": 81,
+            "sentence": 5,
+            "text": "persönlich",
+            "word": 10
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 490,
+            "id": 82,
+            "sentence": 5,
+            "text": "anwesend",
+            "word": 11
+        },
+        {
+            "charBegin": 490,
+            "charEnd": 491,
+            "id": 83,
+            "sentence": 5,
+            "text": ".",
+            "word": 12
+        }
+    ]
+}

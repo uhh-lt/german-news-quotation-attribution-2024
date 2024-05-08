@@ -1,0 +1,5258 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 14,
+                        "charBegin": 78,
+                        "charEnd": 82,
+                        "end": 15
+                    }
+                ],
+                "text": "nach",
+                "tokenIds": [
+                    14
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 14,
+                        "charBegin": 78,
+                        "charEnd": 107,
+                        "end": 18
+                    }
+                ],
+                "text": "nach Angaben der Veranstalter",
+                "tokenIds": [
+                    14,
+                    15,
+                    16,
+                    17
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 77,
+                        "end": 14
+                    },
+                    {
+                        "begin": 18,
+                        "charBegin": 108,
+                        "charEnd": 203,
+                        "end": 30
+                    }
+                ],
+                "text": "Unter dem Motto „Freiheit statt Angst“ haben am vergangenen Samstag in Berlin insgesamt 25.000 Menschen für die Stärkung von Bürgerrechten und gegen Überwachung demonstriert",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 15,
+                        "charBegin": 83,
+                        "charEnd": 107,
+                        "end": 18
+                    }
+                ],
+                "text": "Angaben der Veranstalter",
+                "tokenIds": [
+                    15,
+                    16,
+                    17
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 31,
+                        "charBegin": 205,
+                        "charEnd": 209,
+                        "end": 32
+                    }
+                ],
+                "text": "Laut",
+                "tokenIds": [
+                    31
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 31,
+                        "charBegin": 205,
+                        "charEnd": 226,
+                        "end": 34
+                    }
+                ],
+                "text": "Laut Berliner Polizei",
+                "tokenIds": [
+                    31,
+                    32,
+                    33
+                ]
+            },
+            "hasNested": true,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 34,
+                        "charBegin": 227,
+                        "charEnd": 383,
+                        "end": 57
+                    }
+                ],
+                "text": "ist die Demonstration, zu der ein Bündnis von 167 Organisationen aus vielen gesellschaftlichen Gruppen aufgerufen hatte, „weitgehend störungsfrei“ verlaufen",
+                "tokenIds": [
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 32,
+                        "charBegin": 210,
+                        "charEnd": 226,
+                        "end": 34
+                    }
+                ],
+                "text": "Berliner Polizei",
+                "tokenIds": [
+                    32,
+                    33
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 31,
+                        "charBegin": 205,
+                        "charEnd": 209,
+                        "end": 32
+                    }
+                ],
+                "text": "Laut",
+                "tokenIds": [
+                    31
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 31,
+                        "charBegin": 205,
+                        "charEnd": 226,
+                        "end": 34
+                    }
+                ],
+                "text": "Laut Berliner Polizei",
+                "tokenIds": [
+                    31,
+                    32,
+                    33
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": true,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 52,
+                        "charBegin": 348,
+                        "charEnd": 373,
+                        "end": 56
+                    }
+                ],
+                "text": "„weitgehend störungsfrei“",
+                "tokenIds": [
+                    52,
+                    53,
+                    54,
+                    55
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 32,
+                        "charBegin": 210,
+                        "charEnd": 226,
+                        "end": 34
+                    }
+                ],
+                "text": "Berliner Polizei",
+                "tokenIds": [
+                    32,
+                    33
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 132,
+                        "charBegin": 871,
+                        "charEnd": 875,
+                        "end": 133
+                    }
+                ],
+                "text": "Laut",
+                "tokenIds": [
+                    132
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 132,
+                        "charBegin": 871,
+                        "charEnd": 883,
+                        "end": 134
+                    }
+                ],
+                "text": "Laut Polizei",
+                "tokenIds": [
+                    132,
+                    133
+                ]
+            },
+            "hasNested": true,
+            "id": 3,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 134,
+                        "charBegin": 884,
+                        "charEnd": 982,
+                        "end": 149
+                    }
+                ],
+                "text": "habe es eine Überprüfung des Lautsprecherwagens des „antikapitalistischen Blocks“ gegeben, von dem",
+                "tokenIds": [
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 133,
+                        "charBegin": 876,
+                        "charEnd": 883,
+                        "end": 134
+                    }
+                ],
+                "text": "Polizei",
+                "tokenIds": [
+                    133
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 132,
+                        "charBegin": 871,
+                        "charEnd": 875,
+                        "end": 133
+                    }
+                ],
+                "text": "Laut",
+                "tokenIds": [
+                    132
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 132,
+                        "charBegin": 871,
+                        "charEnd": 883,
+                        "end": 134
+                    }
+                ],
+                "text": "Laut Polizei",
+                "tokenIds": [
+                    132,
+                    133
+                ]
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": true,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 141,
+                        "charBegin": 936,
+                        "charEnd": 965,
+                        "end": 145
+                    }
+                ],
+                "text": "„antikapitalistischen Blocks“",
+                "tokenIds": [
+                    141,
+                    142,
+                    143,
+                    144
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 133,
+                        "charBegin": 876,
+                        "charEnd": 883,
+                        "end": 134
+                    }
+                ],
+                "text": "Polizei",
+                "tokenIds": [
+                    133
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 149,
+                        "charBegin": 983,
+                        "charEnd": 987,
+                        "end": 150
+                    }
+                ],
+                "text": "laut",
+                "tokenIds": [
+                    149
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 149,
+                        "charBegin": 983,
+                        "charEnd": 995,
+                        "end": 151
+                    }
+                ],
+                "text": "laut Polizei",
+                "tokenIds": [
+                    149,
+                    150
+                ]
+            },
+            "hasNested": false,
+            "id": 5,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 151,
+                        "charBegin": 996,
+                        "charEnd": 1037,
+                        "end": 157
+                    }
+                ],
+                "text": "zu Straftaten aufgerufen worden sein soll",
+                "tokenIds": [
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    156
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 150,
+                        "charBegin": 988,
+                        "charEnd": 995,
+                        "end": 151
+                    }
+                ],
+                "text": "Polizei",
+                "tokenIds": [
+                    150
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": true,
+            "id": 6,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 158,
+                        "charBegin": 1039,
+                        "charEnd": 1279,
+                        "end": 197
+                    }
+                ],
+                "text": "Dabei sei eine Person festgenommen worden, die sich zuvor einem Platzverweis widersetzt habe. Nun habe eine weitere Person versucht, den Festgenommenen zu befreien. Dies hätten die Beamten „mittels einfacher körperlicher Gewalt“ verhindert.",
+                "tokenIds": [
+                    158,
+                    159,
+                    160,
+                    161,
+                    162,
+                    163,
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    169,
+                    170,
+                    171,
+                    172,
+                    173,
+                    174,
+                    175,
+                    176,
+                    177,
+                    178,
+                    179,
+                    180,
+                    181,
+                    182,
+                    183,
+                    184,
+                    185,
+                    186,
+                    187,
+                    188,
+                    189,
+                    190,
+                    191,
+                    192,
+                    193,
+                    194,
+                    195,
+                    196
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 150,
+                        "charBegin": 988,
+                        "charEnd": 995,
+                        "end": 151
+                    }
+                ],
+                "text": "Polizei",
+                "tokenIds": [
+                    150
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 149,
+                        "charBegin": 983,
+                        "charEnd": 987,
+                        "end": 150
+                    }
+                ],
+                "text": "laut",
+                "tokenIds": [
+                    149
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 149,
+                        "charBegin": 983,
+                        "charEnd": 995,
+                        "end": 151
+                    }
+                ],
+                "text": "laut Polizei",
+                "tokenIds": [
+                    149,
+                    150
+                ]
+            },
+            "hasNested": false,
+            "id": 7,
+            "isNested": true,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 189,
+                        "charBegin": 1228,
+                        "charEnd": 1267,
+                        "end": 195
+                    }
+                ],
+                "text": "„mittels einfacher körperlicher Gewalt“",
+                "tokenIds": [
+                    189,
+                    190,
+                    191,
+                    192,
+                    193,
+                    194
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 150,
+                        "charBegin": 988,
+                        "charEnd": 995,
+                        "end": 151
+                    }
+                ],
+                "text": "Polizei",
+                "tokenIds": [
+                    150
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 201,
+                        "charBegin": 1317,
+                        "charEnd": 1325,
+                        "end": 202
+                    }
+                ],
+                "text": "erklären",
+                "tokenIds": [
+                    201
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 197,
+                        "charBegin": 1282,
+                        "charEnd": 1334,
+                        "end": 204
+                    }
+                ],
+                "text": "Die Veranstalter der Demonstration erklären dagegen,",
+                "tokenIds": [
+                    197,
+                    198,
+                    199,
+                    200,
+                    201,
+                    202,
+                    203
+                ]
+            },
+            "hasNested": true,
+            "id": 8,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 204,
+                        "charBegin": 1335,
+                        "charEnd": 1492,
+                        "end": 230
+                    }
+                ],
+                "text": "sie hätten Hinweise darauf, dass die Gewalt seitens der Polizisten eine Reaktion auf „die rechtmäßige und legitime Frage nach ihrer Dienstnummer“ gewesen sei",
+                "tokenIds": [
+                    204,
+                    205,
+                    206,
+                    207,
+                    208,
+                    209,
+                    210,
+                    211,
+                    212,
+                    213,
+                    214,
+                    215,
+                    216,
+                    217,
+                    218,
+                    219,
+                    220,
+                    221,
+                    222,
+                    223,
+                    224,
+                    225,
+                    226,
+                    227,
+                    228,
+                    229
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 197,
+                        "charBegin": 1282,
+                        "charEnd": 1316,
+                        "end": 201
+                    }
+                ],
+                "text": "Die Veranstalter der Demonstration",
+                "tokenIds": [
+                    197,
+                    198,
+                    199,
+                    200
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 201,
+                        "charBegin": 1317,
+                        "charEnd": 1325,
+                        "end": 202
+                    }
+                ],
+                "text": "erklären",
+                "tokenIds": [
+                    201
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 197,
+                        "charBegin": 1282,
+                        "charEnd": 1334,
+                        "end": 204
+                    }
+                ],
+                "text": "Die Veranstalter der Demonstration erklären dagegen,",
+                "tokenIds": [
+                    197,
+                    198,
+                    199,
+                    200,
+                    201,
+                    202,
+                    203
+                ]
+            },
+            "hasNested": false,
+            "id": 9,
+            "isNested": true,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 218,
+                        "charBegin": 1420,
+                        "charEnd": 1480,
+                        "end": 228
+                    }
+                ],
+                "text": "„die rechtmäßige und legitime Frage nach ihrer Dienstnummer“",
+                "tokenIds": [
+                    218,
+                    219,
+                    220,
+                    221,
+                    222,
+                    223,
+                    224,
+                    225,
+                    226,
+                    227
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 197,
+                        "charBegin": 1282,
+                        "charEnd": 1316,
+                        "end": 201
+                    }
+                ],
+                "text": "Die Veranstalter der Demonstration",
+                "tokenIds": [
+                    197,
+                    198,
+                    199,
+                    200
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 10,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 231,
+                        "charBegin": 1494,
+                        "charEnd": 1593,
+                        "end": 247
+                    }
+                ],
+                "text": "Diese Auskunft sei benötigt worden, um Anzeige wegen einer zuvor getätigten Festnahme zu erstatten.",
+                "tokenIds": [
+                    231,
+                    232,
+                    233,
+                    234,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241,
+                    242,
+                    243,
+                    244,
+                    245,
+                    246
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 197,
+                        "charBegin": 1282,
+                        "charEnd": 1316,
+                        "end": 201
+                    }
+                ],
+                "text": "Die Veranstalter der Demonstration",
+                "tokenIds": [
+                    197,
+                    198,
+                    199,
+                    200
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 255,
+                        "charBegin": 1658,
+                        "charEnd": 1669,
+                        "end": 257
+                    }
+                ],
+                "text": "der Polizei",
+                "tokenIds": [
+                    255,
+                    256
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 249,
+                        "charBegin": 1609,
+                        "charEnd": 1614,
+                        "end": 250
+                    },
+                    {
+                        "begin": 257,
+                        "charBegin": 1670,
+                        "charEnd": 1673,
+                        "end": 258
+                    }
+                ],
+                "text": "wirft vor",
+                "tokenIds": [
+                    249,
+                    257
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 247,
+                        "charBegin": 1594,
+                        "charEnd": 1674,
+                        "end": 259
+                    }
+                ],
+                "text": "Darüber hinaus wirft der „Arbeitskreis Vorratsdatenspeicherung“ der Polizei vor,",
+                "tokenIds": [
+                    247,
+                    248,
+                    249,
+                    250,
+                    251,
+                    252,
+                    253,
+                    254,
+                    255,
+                    256,
+                    257,
+                    258
+                ]
+            },
+            "hasNested": false,
+            "id": 11,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 259,
+                        "charBegin": 1675,
+                        "charEnd": 1761,
+                        "end": 273
+                    }
+                ],
+                "text": "sich nicht an Absprachen gehalten zu haben, die vor der Demonstration getroffen wurden",
+                "tokenIds": [
+                    259,
+                    260,
+                    261,
+                    262,
+                    263,
+                    264,
+                    265,
+                    266,
+                    267,
+                    268,
+                    269,
+                    270,
+                    271,
+                    272
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 12,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 278,
+                        "charBegin": 1793,
+                        "charEnd": 1900,
+                        "end": 290
+                    }
+                ],
+                "text": "dass die Demonstration gefilmt worden sei und systematisch Demonstrationsteilnehmer durchsucht worden seien",
+                "tokenIds": [
+                    278,
+                    279,
+                    280,
+                    281,
+                    282,
+                    283,
+                    284,
+                    285,
+                    286,
+                    287,
+                    288,
+                    289
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 250,
+                        "charBegin": 1615,
+                        "charEnd": 1657,
+                        "end": 255
+                    }
+                ],
+                "text": "der „Arbeitskreis Vorratsdatenspeicherung“",
+                "tokenIds": [
+                    250,
+                    251,
+                    252,
+                    253,
+                    254
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 373,
+                        "charBegin": 2457,
+                        "charEnd": 2465,
+                        "end": 375
+                    }
+                ],
+                "text": "heißt es",
+                "tokenIds": [
+                    373,
+                    374
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 373,
+                        "charBegin": 2457,
+                        "charEnd": 2504,
+                        "end": 381
+                    }
+                ],
+                "text": "heißt es dazu in einer Pressemitteilung des CCC",
+                "tokenIds": [
+                    373,
+                    374,
+                    375,
+                    376,
+                    377,
+                    378,
+                    379,
+                    380
+                ]
+            },
+            "hasNested": false,
+            "id": 13,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 311,
+                        "charBegin": 2024,
+                        "charEnd": 2456,
+                        "end": 373
+                    }
+                ],
+                "text": "„Werden von Polizisten begangene Straftaten nicht mit der selben Härte verfolgt wie die ebenfalls verabscheuenswürdigen Angriffe von Demonstranten auf die Beamten, und wenn falsch verstandener Korpsgeist die Strafverfolgung behindert, besteht die Gefahr, dass das Internet als öffentlicher Pranger mißbraucht wird. Der Achtung vor unserem Staat und seinen Organen wird durch Vertuschung dieser Vorkommnisse ein Bärendienst erwiesen“",
+                "tokenIds": [
+                    311,
+                    312,
+                    313,
+                    314,
+                    315,
+                    316,
+                    317,
+                    318,
+                    319,
+                    320,
+                    321,
+                    322,
+                    323,
+                    324,
+                    325,
+                    326,
+                    327,
+                    328,
+                    329,
+                    330,
+                    331,
+                    332,
+                    333,
+                    334,
+                    335,
+                    336,
+                    337,
+                    338,
+                    339,
+                    340,
+                    341,
+                    342,
+                    343,
+                    344,
+                    345,
+                    346,
+                    347,
+                    348,
+                    349,
+                    350,
+                    351,
+                    352,
+                    353,
+                    354,
+                    355,
+                    356,
+                    357,
+                    358,
+                    359,
+                    360,
+                    361,
+                    362,
+                    363,
+                    364,
+                    365,
+                    366,
+                    367,
+                    368,
+                    369,
+                    370,
+                    371,
+                    372
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 376,
+                        "charBegin": 2471,
+                        "charEnd": 2504,
+                        "end": 381
+                    }
+                ],
+                "text": "in einer Pressemitteilung des CCC",
+                "tokenIds": [
+                    376,
+                    377,
+                    378,
+                    379,
+                    380
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "58768 - Polizeigewalt am Rande der Demonstration „Freiheit statt Angst“ in Berlin (2009-09-14)",
+    "originalText": "Unter dem Motto „Freiheit statt Angst“ haben am vergangenen Samstag in Berlin nach Angaben der Veranstalter insgesamt 25.000 Menschen für die Stärkung von Bürgerrechten und gegen Überwachung demonstriert. Laut Berliner Polizei ist die Demonstration, zu der ein Bündnis von 167 Organisationen aus vielen gesellschaftlichen Gruppen aufgerufen hatte, „weitgehend störungsfrei“ verlaufen. Es gab jedoch einen auf Video dokumentierten Polizeiübergriff, der die Polizei dazu veranlasst hat, ein Strafverfahren wegen Körperverletzung im Amt einzuleiten. Auf dem Video ist ein Mann zu sehen, der zunächst von einem Polizisten an seinem T-Shirt weggezerrt und danach von einem anderen Beamten geschlagen wird. Auch eine zweite Person wird von Schlägen getroffen.\n\nDie Veranstalter der Demonstration und die Berliner Polizei verbreiten unterschiedliche Darstellungen des Vorfalls. Laut Polizei habe es eine Überprüfung des Lautsprecherwagens des „antikapitalistischen Blocks“ gegeben, von dem laut Polizei zu Straftaten aufgerufen worden sein soll. Dabei sei eine Person festgenommen worden, die sich zuvor einem Platzverweis widersetzt habe. Nun habe eine weitere Person versucht, den Festgenommenen zu befreien. Dies hätten die Beamten „mittels einfacher körperlicher Gewalt“ verhindert. \n\nDie Veranstalter der Demonstration erklären dagegen, sie hätten Hinweise darauf, dass die Gewalt seitens der Polizisten eine Reaktion auf „die rechtmäßige und legitime Frage nach ihrer Dienstnummer“ gewesen sei. Diese Auskunft sei benötigt worden, um Anzeige wegen einer zuvor getätigten Festnahme zu erstatten. Darüber hinaus wirft der „Arbeitskreis Vorratsdatenspeicherung“ der Polizei vor, sich nicht an Absprachen gehalten zu haben, die vor der Demonstration getroffen wurden. Insbesondere kritisiert wird, dass die Demonstration gefilmt worden sei und systematisch Demonstrationsteilnehmer durchsucht worden seien. \n\nDer „Chaos Computer Club“ (CCC) fordert als Reaktion auf den Vorfall bundeseinheitliche Nummernschilder für Polizisten. „Werden von Polizisten begangene Straftaten nicht mit der selben Härte verfolgt wie die ebenfalls verabscheuenswürdigen Angriffe von Demonstranten auf die Beamten, und wenn falsch verstandener Korpsgeist die Strafverfolgung behindert, besteht die Gefahr, dass das Internet als öffentlicher Pranger mißbraucht wird. Der Achtung vor unserem Staat und seinen Organen wird durch Vertuschung dieser Vorkommnisse ein Bärendienst erwiesen“ heißt es dazu in einer Pressemitteilung des CCC.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 204,
+            "end": 31,
+            "id": 0,
+            "text": "Unter dem Motto „Freiheit statt Angst“ haben am vergangenen Samstag in Berlin nach Angaben der Veranstalter insgesamt 25.000 Menschen für die Stärkung von Bürgerrechten und gegen Überwachung demonstriert. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "tokens": [
+                "Unter",
+                "dem",
+                "Motto",
+                "„",
+                "Freiheit",
+                "statt",
+                "Angst",
+                "“",
+                "haben",
+                "am",
+                "vergangenen",
+                "Samstag",
+                "in",
+                "Berlin",
+                "nach",
+                "Angaben",
+                "der",
+                "Veranstalter",
+                "insgesamt",
+                "25.000",
+                "Menschen",
+                "für",
+                "die",
+                "Stärkung",
+                "von",
+                "Bürgerrechten",
+                "und",
+                "gegen",
+                "Überwachung",
+                "demonstriert",
+                "."
+            ]
+        },
+        {
+            "begin": 31,
+            "charBegin": 205,
+            "charEnd": 384,
+            "end": 58,
+            "id": 1,
+            "text": "Laut Berliner Polizei ist die Demonstration, zu der ein Bündnis von 167 Organisationen aus vielen gesellschaftlichen Gruppen aufgerufen hatte, „weitgehend störungsfrei“ verlaufen. ",
+            "tokenIds": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57
+            ],
+            "tokens": [
+                "Laut",
+                "Berliner",
+                "Polizei",
+                "ist",
+                "die",
+                "Demonstration",
+                ",",
+                "zu",
+                "der",
+                "ein",
+                "Bündnis",
+                "von",
+                "167",
+                "Organisationen",
+                "aus",
+                "vielen",
+                "gesellschaftlichen",
+                "Gruppen",
+                "aufgerufen",
+                "hatte",
+                ",",
+                "„",
+                "weitgehend",
+                "störungsfrei",
+                "“",
+                "verlaufen",
+                "."
+            ]
+        },
+        {
+            "begin": 58,
+            "charBegin": 385,
+            "charEnd": 546,
+            "end": 82,
+            "id": 2,
+            "text": "Es gab jedoch einen auf Video dokumentierten Polizeiübergriff, der die Polizei dazu veranlasst hat, ein Strafverfahren wegen Körperverletzung im Amt einzuleiten. ",
+            "tokenIds": [
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81
+            ],
+            "tokens": [
+                "Es",
+                "gab",
+                "jedoch",
+                "einen",
+                "auf",
+                "Video",
+                "dokumentierten",
+                "Polizeiübergriff",
+                ",",
+                "der",
+                "die",
+                "Polizei",
+                "dazu",
+                "veranlasst",
+                "hat",
+                ",",
+                "ein",
+                "Strafverfahren",
+                "wegen",
+                "Körperverletzung",
+                "im",
+                "Amt",
+                "einzuleiten",
+                "."
+            ]
+        },
+        {
+            "begin": 82,
+            "charBegin": 547,
+            "charEnd": 700,
+            "end": 109,
+            "id": 3,
+            "text": "Auf dem Video ist ein Mann zu sehen, der zunächst von einem Polizisten an seinem T-Shirt weggezerrt und danach von einem anderen Beamten geschlagen wird. ",
+            "tokenIds": [
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108
+            ],
+            "tokens": [
+                "Auf",
+                "dem",
+                "Video",
+                "ist",
+                "ein",
+                "Mann",
+                "zu",
+                "sehen",
+                ",",
+                "der",
+                "zunächst",
+                "von",
+                "einem",
+                "Polizisten",
+                "an",
+                "seinem",
+                "T-Shirt",
+                "weggezerrt",
+                "und",
+                "danach",
+                "von",
+                "einem",
+                "anderen",
+                "Beamten",
+                "geschlagen",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "begin": 109,
+            "charBegin": 701,
+            "charEnd": 753,
+            "end": 118,
+            "id": 4,
+            "text": "Auch eine zweite Person wird von Schlägen getroffen.",
+            "tokenIds": [
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117
+            ],
+            "tokens": [
+                "Auch",
+                "eine",
+                "zweite",
+                "Person",
+                "wird",
+                "von",
+                "Schlägen",
+                "getroffen",
+                "."
+            ]
+        },
+        {
+            "begin": 118,
+            "charBegin": 755,
+            "charEnd": 870,
+            "end": 132,
+            "id": 5,
+            "text": "Die Veranstalter der Demonstration und die Berliner Polizei verbreiten unterschiedliche Darstellungen des Vorfalls. ",
+            "tokenIds": [
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131
+            ],
+            "tokens": [
+                "Die",
+                "Veranstalter",
+                "der",
+                "Demonstration",
+                "und",
+                "die",
+                "Berliner",
+                "Polizei",
+                "verbreiten",
+                "unterschiedliche",
+                "Darstellungen",
+                "des",
+                "Vorfalls",
+                "."
+            ]
+        },
+        {
+            "begin": 132,
+            "charBegin": 871,
+            "charEnd": 1038,
+            "end": 158,
+            "id": 6,
+            "text": "Laut Polizei habe es eine Überprüfung des Lautsprecherwagens des „antikapitalistischen Blocks“ gegeben, von dem laut Polizei zu Straftaten aufgerufen worden sein soll. ",
+            "tokenIds": [
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157
+            ],
+            "tokens": [
+                "Laut",
+                "Polizei",
+                "habe",
+                "es",
+                "eine",
+                "Überprüfung",
+                "des",
+                "Lautsprecherwagens",
+                "des",
+                "„",
+                "antikapitalistischen",
+                "Blocks",
+                "“",
+                "gegeben",
+                ",",
+                "von",
+                "dem",
+                "laut",
+                "Polizei",
+                "zu",
+                "Straftaten",
+                "aufgerufen",
+                "worden",
+                "sein",
+                "soll",
+                "."
+            ]
+        },
+        {
+            "begin": 158,
+            "charBegin": 1039,
+            "charEnd": 1132,
+            "end": 173,
+            "id": 7,
+            "text": "Dabei sei eine Person festgenommen worden, die sich zuvor einem Platzverweis widersetzt habe. ",
+            "tokenIds": [
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172
+            ],
+            "tokens": [
+                "Dabei",
+                "sei",
+                "eine",
+                "Person",
+                "festgenommen",
+                "worden",
+                ",",
+                "die",
+                "sich",
+                "zuvor",
+                "einem",
+                "Platzverweis",
+                "widersetzt",
+                "habe",
+                "."
+            ]
+        },
+        {
+            "begin": 173,
+            "charBegin": 1133,
+            "charEnd": 1203,
+            "end": 185,
+            "id": 8,
+            "text": "Nun habe eine weitere Person versucht, den Festgenommenen zu befreien. ",
+            "tokenIds": [
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184
+            ],
+            "tokens": [
+                "Nun",
+                "habe",
+                "eine",
+                "weitere",
+                "Person",
+                "versucht",
+                ",",
+                "den",
+                "Festgenommenen",
+                "zu",
+                "befreien",
+                "."
+            ]
+        },
+        {
+            "begin": 185,
+            "charBegin": 1204,
+            "charEnd": 1279,
+            "end": 197,
+            "id": 9,
+            "text": "Dies hätten die Beamten „mittels einfacher körperlicher Gewalt“ verhindert. ",
+            "tokenIds": [
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196
+            ],
+            "tokens": [
+                "Dies",
+                "hätten",
+                "die",
+                "Beamten",
+                "„",
+                "mittels",
+                "einfacher",
+                "körperlicher",
+                "Gewalt",
+                "“",
+                "verhindert",
+                "."
+            ]
+        },
+        {
+            "begin": 197,
+            "charBegin": 1282,
+            "charEnd": 1493,
+            "end": 231,
+            "id": 10,
+            "text": "Die Veranstalter der Demonstration erklären dagegen, sie hätten Hinweise darauf, dass die Gewalt seitens der Polizisten eine Reaktion auf „die rechtmäßige und legitime Frage nach ihrer Dienstnummer“ gewesen sei. ",
+            "tokenIds": [
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230
+            ],
+            "tokens": [
+                "Die",
+                "Veranstalter",
+                "der",
+                "Demonstration",
+                "erklären",
+                "dagegen",
+                ",",
+                "sie",
+                "hätten",
+                "Hinweise",
+                "darauf",
+                ",",
+                "dass",
+                "die",
+                "Gewalt",
+                "seitens",
+                "der",
+                "Polizisten",
+                "eine",
+                "Reaktion",
+                "auf",
+                "„",
+                "die",
+                "rechtmäßige",
+                "und",
+                "legitime",
+                "Frage",
+                "nach",
+                "ihrer",
+                "Dienstnummer",
+                "“",
+                "gewesen",
+                "sei",
+                "."
+            ]
+        },
+        {
+            "begin": 231,
+            "charBegin": 1494,
+            "charEnd": 1593,
+            "end": 247,
+            "id": 11,
+            "text": "Diese Auskunft sei benötigt worden, um Anzeige wegen einer zuvor getätigten Festnahme zu erstatten. ",
+            "tokenIds": [
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246
+            ],
+            "tokens": [
+                "Diese",
+                "Auskunft",
+                "sei",
+                "benötigt",
+                "worden",
+                ",",
+                "um",
+                "Anzeige",
+                "wegen",
+                "einer",
+                "zuvor",
+                "getätigten",
+                "Festnahme",
+                "zu",
+                "erstatten",
+                "."
+            ]
+        },
+        {
+            "begin": 247,
+            "charBegin": 1594,
+            "charEnd": 1762,
+            "end": 274,
+            "id": 12,
+            "text": "Darüber hinaus wirft der „Arbeitskreis Vorratsdatenspeicherung“ der Polizei vor, sich nicht an Absprachen gehalten zu haben, die vor der Demonstration getroffen wurden. ",
+            "tokenIds": [
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273
+            ],
+            "tokens": [
+                "Darüber",
+                "hinaus",
+                "wirft",
+                "der",
+                "„",
+                "Arbeitskreis",
+                "Vorratsdatenspeicherung",
+                "“",
+                "der",
+                "Polizei",
+                "vor",
+                ",",
+                "sich",
+                "nicht",
+                "an",
+                "Absprachen",
+                "gehalten",
+                "zu",
+                "haben",
+                ",",
+                "die",
+                "vor",
+                "der",
+                "Demonstration",
+                "getroffen",
+                "wurden",
+                "."
+            ]
+        },
+        {
+            "begin": 274,
+            "charBegin": 1763,
+            "charEnd": 1901,
+            "end": 291,
+            "id": 13,
+            "text": "Insbesondere kritisiert wird, dass die Demonstration gefilmt worden sei und systematisch Demonstrationsteilnehmer durchsucht worden seien. ",
+            "tokenIds": [
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290
+            ],
+            "tokens": [
+                "Insbesondere",
+                "kritisiert",
+                "wird",
+                ",",
+                "dass",
+                "die",
+                "Demonstration",
+                "gefilmt",
+                "worden",
+                "sei",
+                "und",
+                "systematisch",
+                "Demonstrationsteilnehmer",
+                "durchsucht",
+                "worden",
+                "seien",
+                "."
+            ]
+        },
+        {
+            "begin": 291,
+            "charBegin": 1904,
+            "charEnd": 2023,
+            "end": 311,
+            "id": 14,
+            "text": "Der „Chaos Computer Club“ (CCC) fordert als Reaktion auf den Vorfall bundeseinheitliche Nummernschilder für Polizisten. ",
+            "tokenIds": [
+                291,
+                292,
+                293,
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306,
+                307,
+                308,
+                309,
+                310
+            ],
+            "tokens": [
+                "Der",
+                "„",
+                "Chaos",
+                "Computer",
+                "Club",
+                "“",
+                "(",
+                "CCC",
+                ")",
+                "fordert",
+                "als",
+                "Reaktion",
+                "auf",
+                "den",
+                "Vorfall",
+                "bundeseinheitliche",
+                "Nummernschilder",
+                "für",
+                "Polizisten",
+                "."
+            ]
+        },
+        {
+            "begin": 311,
+            "charBegin": 2024,
+            "charEnd": 2338,
+            "end": 356,
+            "id": 15,
+            "text": "„Werden von Polizisten begangene Straftaten nicht mit der selben Härte verfolgt wie die ebenfalls verabscheuenswürdigen Angriffe von Demonstranten auf die Beamten, und wenn falsch verstandener Korpsgeist die Strafverfolgung behindert, besteht die Gefahr, dass das Internet als öffentlicher Pranger mißbraucht wird. ",
+            "tokenIds": [
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322,
+                323,
+                324,
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332,
+                333,
+                334,
+                335,
+                336,
+                337,
+                338,
+                339,
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346,
+                347,
+                348,
+                349,
+                350,
+                351,
+                352,
+                353,
+                354,
+                355
+            ],
+            "tokens": [
+                "„",
+                "Werden",
+                "von",
+                "Polizisten",
+                "begangene",
+                "Straftaten",
+                "nicht",
+                "mit",
+                "der",
+                "selben",
+                "Härte",
+                "verfolgt",
+                "wie",
+                "die",
+                "ebenfalls",
+                "verabscheuenswürdigen",
+                "Angriffe",
+                "von",
+                "Demonstranten",
+                "auf",
+                "die",
+                "Beamten",
+                ",",
+                "und",
+                "wenn",
+                "falsch",
+                "verstandener",
+                "Korpsgeist",
+                "die",
+                "Strafverfolgung",
+                "behindert",
+                ",",
+                "besteht",
+                "die",
+                "Gefahr",
+                ",",
+                "dass",
+                "das",
+                "Internet",
+                "als",
+                "öffentlicher",
+                "Pranger",
+                "mißbraucht",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "begin": 356,
+            "charBegin": 2339,
+            "charEnd": 2505,
+            "end": 382,
+            "id": 16,
+            "text": "Der Achtung vor unserem Staat und seinen Organen wird durch Vertuschung dieser Vorkommnisse ein Bärendienst erwiesen“ heißt es dazu in einer Pressemitteilung des CCC.",
+            "tokenIds": [
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365,
+                366,
+                367,
+                368,
+                369,
+                370,
+                371,
+                372,
+                373,
+                374,
+                375,
+                376,
+                377,
+                378,
+                379,
+                380,
+                381
+            ],
+            "tokens": [
+                "Der",
+                "Achtung",
+                "vor",
+                "unserem",
+                "Staat",
+                "und",
+                "seinen",
+                "Organen",
+                "wird",
+                "durch",
+                "Vertuschung",
+                "dieser",
+                "Vorkommnisse",
+                "ein",
+                "Bärendienst",
+                "erwiesen",
+                "“",
+                "heißt",
+                "es",
+                "dazu",
+                "in",
+                "einer",
+                "Pressemitteilung",
+                "des",
+                "CCC",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 5,
+            "id": 0,
+            "sentence": 1,
+            "text": "Unter",
+            "word": 1
+        },
+        {
+            "charBegin": 6,
+            "charEnd": 9,
+            "id": 1,
+            "sentence": 1,
+            "text": "dem",
+            "word": 2
+        },
+        {
+            "charBegin": 10,
+            "charEnd": 15,
+            "id": 2,
+            "sentence": 1,
+            "text": "Motto",
+            "word": 3
+        },
+        {
+            "charBegin": 16,
+            "charEnd": 17,
+            "id": 3,
+            "sentence": 1,
+            "text": "„",
+            "word": 4
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 25,
+            "id": 4,
+            "sentence": 1,
+            "text": "Freiheit",
+            "word": 5
+        },
+        {
+            "charBegin": 26,
+            "charEnd": 31,
+            "id": 5,
+            "sentence": 1,
+            "text": "statt",
+            "word": 6
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 37,
+            "id": 6,
+            "sentence": 1,
+            "text": "Angst",
+            "word": 7
+        },
+        {
+            "charBegin": 37,
+            "charEnd": 38,
+            "id": 7,
+            "sentence": 1,
+            "text": "“",
+            "word": 8
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 44,
+            "id": 8,
+            "sentence": 1,
+            "text": "haben",
+            "word": 9
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 47,
+            "id": 9,
+            "sentence": 1,
+            "text": "am",
+            "word": 10
+        },
+        {
+            "charBegin": 48,
+            "charEnd": 59,
+            "id": 10,
+            "sentence": 1,
+            "text": "vergangenen",
+            "word": 11
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 67,
+            "id": 11,
+            "sentence": 1,
+            "text": "Samstag",
+            "word": 12
+        },
+        {
+            "charBegin": 68,
+            "charEnd": 70,
+            "id": 12,
+            "sentence": 1,
+            "text": "in",
+            "word": 13
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 77,
+            "id": 13,
+            "sentence": 1,
+            "text": "Berlin",
+            "word": 14
+        },
+        {
+            "charBegin": 78,
+            "charEnd": 82,
+            "id": 14,
+            "sentence": 1,
+            "text": "nach",
+            "word": 15
+        },
+        {
+            "charBegin": 83,
+            "charEnd": 90,
+            "id": 15,
+            "sentence": 1,
+            "text": "Angaben",
+            "word": 16
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 94,
+            "id": 16,
+            "sentence": 1,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 107,
+            "id": 17,
+            "sentence": 1,
+            "text": "Veranstalter",
+            "word": 18
+        },
+        {
+            "charBegin": 108,
+            "charEnd": 117,
+            "id": 18,
+            "sentence": 1,
+            "text": "insgesamt",
+            "word": 19
+        },
+        {
+            "charBegin": 118,
+            "charEnd": 124,
+            "id": 19,
+            "sentence": 1,
+            "text": "25.000",
+            "word": 20
+        },
+        {
+            "charBegin": 125,
+            "charEnd": 133,
+            "id": 20,
+            "sentence": 1,
+            "text": "Menschen",
+            "word": 21
+        },
+        {
+            "charBegin": 134,
+            "charEnd": 137,
+            "id": 21,
+            "sentence": 1,
+            "text": "für",
+            "word": 22
+        },
+        {
+            "charBegin": 138,
+            "charEnd": 141,
+            "id": 22,
+            "sentence": 1,
+            "text": "die",
+            "word": 23
+        },
+        {
+            "charBegin": 142,
+            "charEnd": 150,
+            "id": 23,
+            "sentence": 1,
+            "text": "Stärkung",
+            "word": 24
+        },
+        {
+            "charBegin": 151,
+            "charEnd": 154,
+            "id": 24,
+            "sentence": 1,
+            "text": "von",
+            "word": 25
+        },
+        {
+            "charBegin": 155,
+            "charEnd": 168,
+            "id": 25,
+            "sentence": 1,
+            "text": "Bürgerrechten",
+            "word": 26
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 172,
+            "id": 26,
+            "sentence": 1,
+            "text": "und",
+            "word": 27
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 178,
+            "id": 27,
+            "sentence": 1,
+            "text": "gegen",
+            "word": 28
+        },
+        {
+            "charBegin": 179,
+            "charEnd": 190,
+            "id": 28,
+            "sentence": 1,
+            "text": "Überwachung",
+            "word": 29
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 203,
+            "id": 29,
+            "sentence": 1,
+            "text": "demonstriert",
+            "word": 30
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 204,
+            "id": 30,
+            "sentence": 1,
+            "text": ".",
+            "word": 31
+        },
+        {
+            "charBegin": 205,
+            "charEnd": 209,
+            "id": 31,
+            "sentence": 2,
+            "text": "Laut",
+            "word": 1
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 218,
+            "id": 32,
+            "sentence": 2,
+            "text": "Berliner",
+            "word": 2
+        },
+        {
+            "charBegin": 219,
+            "charEnd": 226,
+            "id": 33,
+            "sentence": 2,
+            "text": "Polizei",
+            "word": 3
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 230,
+            "id": 34,
+            "sentence": 2,
+            "text": "ist",
+            "word": 4
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 234,
+            "id": 35,
+            "sentence": 2,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 235,
+            "charEnd": 248,
+            "id": 36,
+            "sentence": 2,
+            "text": "Demonstration",
+            "word": 6
+        },
+        {
+            "charBegin": 248,
+            "charEnd": 249,
+            "id": 37,
+            "sentence": 2,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 252,
+            "id": 38,
+            "sentence": 2,
+            "text": "zu",
+            "word": 8
+        },
+        {
+            "charBegin": 253,
+            "charEnd": 256,
+            "id": 39,
+            "sentence": 2,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 260,
+            "id": 40,
+            "sentence": 2,
+            "text": "ein",
+            "word": 10
+        },
+        {
+            "charBegin": 261,
+            "charEnd": 268,
+            "id": 41,
+            "sentence": 2,
+            "text": "Bündnis",
+            "word": 11
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 272,
+            "id": 42,
+            "sentence": 2,
+            "text": "von",
+            "word": 12
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 276,
+            "id": 43,
+            "sentence": 2,
+            "text": "167",
+            "word": 13
+        },
+        {
+            "charBegin": 277,
+            "charEnd": 291,
+            "id": 44,
+            "sentence": 2,
+            "text": "Organisationen",
+            "word": 14
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 295,
+            "id": 45,
+            "sentence": 2,
+            "text": "aus",
+            "word": 15
+        },
+        {
+            "charBegin": 296,
+            "charEnd": 302,
+            "id": 46,
+            "sentence": 2,
+            "text": "vielen",
+            "word": 16
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 321,
+            "id": 47,
+            "sentence": 2,
+            "text": "gesellschaftlichen",
+            "word": 17
+        },
+        {
+            "charBegin": 322,
+            "charEnd": 329,
+            "id": 48,
+            "sentence": 2,
+            "text": "Gruppen",
+            "word": 18
+        },
+        {
+            "charBegin": 330,
+            "charEnd": 340,
+            "id": 49,
+            "sentence": 2,
+            "text": "aufgerufen",
+            "word": 19
+        },
+        {
+            "charBegin": 341,
+            "charEnd": 346,
+            "id": 50,
+            "sentence": 2,
+            "text": "hatte",
+            "word": 20
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 347,
+            "id": 51,
+            "sentence": 2,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 348,
+            "charEnd": 349,
+            "id": 52,
+            "sentence": 2,
+            "text": "„",
+            "word": 22
+        },
+        {
+            "charBegin": 349,
+            "charEnd": 359,
+            "id": 53,
+            "sentence": 2,
+            "text": "weitgehend",
+            "word": 23
+        },
+        {
+            "charBegin": 360,
+            "charEnd": 372,
+            "id": 54,
+            "sentence": 2,
+            "text": "störungsfrei",
+            "word": 24
+        },
+        {
+            "charBegin": 372,
+            "charEnd": 373,
+            "id": 55,
+            "sentence": 2,
+            "text": "“",
+            "word": 25
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 383,
+            "id": 56,
+            "sentence": 2,
+            "text": "verlaufen",
+            "word": 26
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 384,
+            "id": 57,
+            "sentence": 2,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 385,
+            "charEnd": 387,
+            "id": 58,
+            "sentence": 3,
+            "text": "Es",
+            "word": 1
+        },
+        {
+            "charBegin": 388,
+            "charEnd": 391,
+            "id": 59,
+            "sentence": 3,
+            "text": "gab",
+            "word": 2
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 398,
+            "id": 60,
+            "sentence": 3,
+            "text": "jedoch",
+            "word": 3
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 404,
+            "id": 61,
+            "sentence": 3,
+            "text": "einen",
+            "word": 4
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 408,
+            "id": 62,
+            "sentence": 3,
+            "text": "auf",
+            "word": 5
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 414,
+            "id": 63,
+            "sentence": 3,
+            "text": "Video",
+            "word": 6
+        },
+        {
+            "charBegin": 415,
+            "charEnd": 429,
+            "id": 64,
+            "sentence": 3,
+            "text": "dokumentierten",
+            "word": 7
+        },
+        {
+            "charBegin": 430,
+            "charEnd": 446,
+            "id": 65,
+            "sentence": 3,
+            "text": "Polizeiübergriff",
+            "word": 8
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 447,
+            "id": 66,
+            "sentence": 3,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 448,
+            "charEnd": 451,
+            "id": 67,
+            "sentence": 3,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 452,
+            "charEnd": 455,
+            "id": 68,
+            "sentence": 3,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 463,
+            "id": 69,
+            "sentence": 3,
+            "text": "Polizei",
+            "word": 12
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 468,
+            "id": 70,
+            "sentence": 3,
+            "text": "dazu",
+            "word": 13
+        },
+        {
+            "charBegin": 469,
+            "charEnd": 479,
+            "id": 71,
+            "sentence": 3,
+            "text": "veranlasst",
+            "word": 14
+        },
+        {
+            "charBegin": 480,
+            "charEnd": 483,
+            "id": 72,
+            "sentence": 3,
+            "text": "hat",
+            "word": 15
+        },
+        {
+            "charBegin": 483,
+            "charEnd": 484,
+            "id": 73,
+            "sentence": 3,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 485,
+            "charEnd": 488,
+            "id": 74,
+            "sentence": 3,
+            "text": "ein",
+            "word": 17
+        },
+        {
+            "charBegin": 489,
+            "charEnd": 503,
+            "id": 75,
+            "sentence": 3,
+            "text": "Strafverfahren",
+            "word": 18
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 509,
+            "id": 76,
+            "sentence": 3,
+            "text": "wegen",
+            "word": 19
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 526,
+            "id": 77,
+            "sentence": 3,
+            "text": "Körperverletzung",
+            "word": 20
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 529,
+            "id": 78,
+            "sentence": 3,
+            "text": "im",
+            "word": 21
+        },
+        {
+            "charBegin": 530,
+            "charEnd": 533,
+            "id": 79,
+            "sentence": 3,
+            "text": "Amt",
+            "word": 22
+        },
+        {
+            "charBegin": 534,
+            "charEnd": 545,
+            "id": 80,
+            "sentence": 3,
+            "text": "einzuleiten",
+            "word": 23
+        },
+        {
+            "charBegin": 545,
+            "charEnd": 546,
+            "id": 81,
+            "sentence": 3,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 547,
+            "charEnd": 550,
+            "id": 82,
+            "sentence": 4,
+            "text": "Auf",
+            "word": 1
+        },
+        {
+            "charBegin": 551,
+            "charEnd": 554,
+            "id": 83,
+            "sentence": 4,
+            "text": "dem",
+            "word": 2
+        },
+        {
+            "charBegin": 555,
+            "charEnd": 560,
+            "id": 84,
+            "sentence": 4,
+            "text": "Video",
+            "word": 3
+        },
+        {
+            "charBegin": 561,
+            "charEnd": 564,
+            "id": 85,
+            "sentence": 4,
+            "text": "ist",
+            "word": 4
+        },
+        {
+            "charBegin": 565,
+            "charEnd": 568,
+            "id": 86,
+            "sentence": 4,
+            "text": "ein",
+            "word": 5
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 573,
+            "id": 87,
+            "sentence": 4,
+            "text": "Mann",
+            "word": 6
+        },
+        {
+            "charBegin": 574,
+            "charEnd": 576,
+            "id": 88,
+            "sentence": 4,
+            "text": "zu",
+            "word": 7
+        },
+        {
+            "charBegin": 577,
+            "charEnd": 582,
+            "id": 89,
+            "sentence": 4,
+            "text": "sehen",
+            "word": 8
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 583,
+            "id": 90,
+            "sentence": 4,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 584,
+            "charEnd": 587,
+            "id": 91,
+            "sentence": 4,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 588,
+            "charEnd": 596,
+            "id": 92,
+            "sentence": 4,
+            "text": "zunächst",
+            "word": 11
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 600,
+            "id": 93,
+            "sentence": 4,
+            "text": "von",
+            "word": 12
+        },
+        {
+            "charBegin": 601,
+            "charEnd": 606,
+            "id": 94,
+            "sentence": 4,
+            "text": "einem",
+            "word": 13
+        },
+        {
+            "charBegin": 607,
+            "charEnd": 617,
+            "id": 95,
+            "sentence": 4,
+            "text": "Polizisten",
+            "word": 14
+        },
+        {
+            "charBegin": 618,
+            "charEnd": 620,
+            "id": 96,
+            "sentence": 4,
+            "text": "an",
+            "word": 15
+        },
+        {
+            "charBegin": 621,
+            "charEnd": 627,
+            "id": 97,
+            "sentence": 4,
+            "text": "seinem",
+            "word": 16
+        },
+        {
+            "charBegin": 628,
+            "charEnd": 635,
+            "id": 98,
+            "sentence": 4,
+            "text": "T-Shirt",
+            "word": 17
+        },
+        {
+            "charBegin": 636,
+            "charEnd": 646,
+            "id": 99,
+            "sentence": 4,
+            "text": "weggezerrt",
+            "word": 18
+        },
+        {
+            "charBegin": 647,
+            "charEnd": 650,
+            "id": 100,
+            "sentence": 4,
+            "text": "und",
+            "word": 19
+        },
+        {
+            "charBegin": 651,
+            "charEnd": 657,
+            "id": 101,
+            "sentence": 4,
+            "text": "danach",
+            "word": 20
+        },
+        {
+            "charBegin": 658,
+            "charEnd": 661,
+            "id": 102,
+            "sentence": 4,
+            "text": "von",
+            "word": 21
+        },
+        {
+            "charBegin": 662,
+            "charEnd": 667,
+            "id": 103,
+            "sentence": 4,
+            "text": "einem",
+            "word": 22
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 675,
+            "id": 104,
+            "sentence": 4,
+            "text": "anderen",
+            "word": 23
+        },
+        {
+            "charBegin": 676,
+            "charEnd": 683,
+            "id": 105,
+            "sentence": 4,
+            "text": "Beamten",
+            "word": 24
+        },
+        {
+            "charBegin": 684,
+            "charEnd": 694,
+            "id": 106,
+            "sentence": 4,
+            "text": "geschlagen",
+            "word": 25
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 699,
+            "id": 107,
+            "sentence": 4,
+            "text": "wird",
+            "word": 26
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 700,
+            "id": 108,
+            "sentence": 4,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 701,
+            "charEnd": 705,
+            "id": 109,
+            "sentence": 5,
+            "text": "Auch",
+            "word": 1
+        },
+        {
+            "charBegin": 706,
+            "charEnd": 710,
+            "id": 110,
+            "sentence": 5,
+            "text": "eine",
+            "word": 2
+        },
+        {
+            "charBegin": 711,
+            "charEnd": 717,
+            "id": 111,
+            "sentence": 5,
+            "text": "zweite",
+            "word": 3
+        },
+        {
+            "charBegin": 718,
+            "charEnd": 724,
+            "id": 112,
+            "sentence": 5,
+            "text": "Person",
+            "word": 4
+        },
+        {
+            "charBegin": 725,
+            "charEnd": 729,
+            "id": 113,
+            "sentence": 5,
+            "text": "wird",
+            "word": 5
+        },
+        {
+            "charBegin": 730,
+            "charEnd": 733,
+            "id": 114,
+            "sentence": 5,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 734,
+            "charEnd": 742,
+            "id": 115,
+            "sentence": 5,
+            "text": "Schlägen",
+            "word": 7
+        },
+        {
+            "charBegin": 743,
+            "charEnd": 752,
+            "id": 116,
+            "sentence": 5,
+            "text": "getroffen",
+            "word": 8
+        },
+        {
+            "charBegin": 752,
+            "charEnd": 753,
+            "id": 117,
+            "sentence": 5,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 758,
+            "id": 118,
+            "sentence": 6,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 771,
+            "id": 119,
+            "sentence": 6,
+            "text": "Veranstalter",
+            "word": 2
+        },
+        {
+            "charBegin": 772,
+            "charEnd": 775,
+            "id": 120,
+            "sentence": 6,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 776,
+            "charEnd": 789,
+            "id": 121,
+            "sentence": 6,
+            "text": "Demonstration",
+            "word": 4
+        },
+        {
+            "charBegin": 790,
+            "charEnd": 793,
+            "id": 122,
+            "sentence": 6,
+            "text": "und",
+            "word": 5
+        },
+        {
+            "charBegin": 794,
+            "charEnd": 797,
+            "id": 123,
+            "sentence": 6,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 798,
+            "charEnd": 806,
+            "id": 124,
+            "sentence": 6,
+            "text": "Berliner",
+            "word": 7
+        },
+        {
+            "charBegin": 807,
+            "charEnd": 814,
+            "id": 125,
+            "sentence": 6,
+            "text": "Polizei",
+            "word": 8
+        },
+        {
+            "charBegin": 815,
+            "charEnd": 825,
+            "id": 126,
+            "sentence": 6,
+            "text": "verbreiten",
+            "word": 9
+        },
+        {
+            "charBegin": 826,
+            "charEnd": 842,
+            "id": 127,
+            "sentence": 6,
+            "text": "unterschiedliche",
+            "word": 10
+        },
+        {
+            "charBegin": 843,
+            "charEnd": 856,
+            "id": 128,
+            "sentence": 6,
+            "text": "Darstellungen",
+            "word": 11
+        },
+        {
+            "charBegin": 857,
+            "charEnd": 860,
+            "id": 129,
+            "sentence": 6,
+            "text": "des",
+            "word": 12
+        },
+        {
+            "charBegin": 861,
+            "charEnd": 869,
+            "id": 130,
+            "sentence": 6,
+            "text": "Vorfalls",
+            "word": 13
+        },
+        {
+            "charBegin": 869,
+            "charEnd": 870,
+            "id": 131,
+            "sentence": 6,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 871,
+            "charEnd": 875,
+            "id": 132,
+            "sentence": 7,
+            "text": "Laut",
+            "word": 1
+        },
+        {
+            "charBegin": 876,
+            "charEnd": 883,
+            "id": 133,
+            "sentence": 7,
+            "text": "Polizei",
+            "word": 2
+        },
+        {
+            "charBegin": 884,
+            "charEnd": 888,
+            "id": 134,
+            "sentence": 7,
+            "text": "habe",
+            "word": 3
+        },
+        {
+            "charBegin": 889,
+            "charEnd": 891,
+            "id": 135,
+            "sentence": 7,
+            "text": "es",
+            "word": 4
+        },
+        {
+            "charBegin": 892,
+            "charEnd": 896,
+            "id": 136,
+            "sentence": 7,
+            "text": "eine",
+            "word": 5
+        },
+        {
+            "charBegin": 897,
+            "charEnd": 908,
+            "id": 137,
+            "sentence": 7,
+            "text": "Überprüfung",
+            "word": 6
+        },
+        {
+            "charBegin": 909,
+            "charEnd": 912,
+            "id": 138,
+            "sentence": 7,
+            "text": "des",
+            "word": 7
+        },
+        {
+            "charBegin": 913,
+            "charEnd": 931,
+            "id": 139,
+            "sentence": 7,
+            "text": "Lautsprecherwagens",
+            "word": 8
+        },
+        {
+            "charBegin": 932,
+            "charEnd": 935,
+            "id": 140,
+            "sentence": 7,
+            "text": "des",
+            "word": 9
+        },
+        {
+            "charBegin": 936,
+            "charEnd": 937,
+            "id": 141,
+            "sentence": 7,
+            "text": "„",
+            "word": 10
+        },
+        {
+            "charBegin": 937,
+            "charEnd": 957,
+            "id": 142,
+            "sentence": 7,
+            "text": "antikapitalistischen",
+            "word": 11
+        },
+        {
+            "charBegin": 958,
+            "charEnd": 964,
+            "id": 143,
+            "sentence": 7,
+            "text": "Blocks",
+            "word": 12
+        },
+        {
+            "charBegin": 964,
+            "charEnd": 965,
+            "id": 144,
+            "sentence": 7,
+            "text": "“",
+            "word": 13
+        },
+        {
+            "charBegin": 966,
+            "charEnd": 973,
+            "id": 145,
+            "sentence": 7,
+            "text": "gegeben",
+            "word": 14
+        },
+        {
+            "charBegin": 973,
+            "charEnd": 974,
+            "id": 146,
+            "sentence": 7,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 975,
+            "charEnd": 978,
+            "id": 147,
+            "sentence": 7,
+            "text": "von",
+            "word": 16
+        },
+        {
+            "charBegin": 979,
+            "charEnd": 982,
+            "id": 148,
+            "sentence": 7,
+            "text": "dem",
+            "word": 17
+        },
+        {
+            "charBegin": 983,
+            "charEnd": 987,
+            "id": 149,
+            "sentence": 7,
+            "text": "laut",
+            "word": 18
+        },
+        {
+            "charBegin": 988,
+            "charEnd": 995,
+            "id": 150,
+            "sentence": 7,
+            "text": "Polizei",
+            "word": 19
+        },
+        {
+            "charBegin": 996,
+            "charEnd": 998,
+            "id": 151,
+            "sentence": 7,
+            "text": "zu",
+            "word": 20
+        },
+        {
+            "charBegin": 999,
+            "charEnd": 1009,
+            "id": 152,
+            "sentence": 7,
+            "text": "Straftaten",
+            "word": 21
+        },
+        {
+            "charBegin": 1010,
+            "charEnd": 1020,
+            "id": 153,
+            "sentence": 7,
+            "text": "aufgerufen",
+            "word": 22
+        },
+        {
+            "charBegin": 1021,
+            "charEnd": 1027,
+            "id": 154,
+            "sentence": 7,
+            "text": "worden",
+            "word": 23
+        },
+        {
+            "charBegin": 1028,
+            "charEnd": 1032,
+            "id": 155,
+            "sentence": 7,
+            "text": "sein",
+            "word": 24
+        },
+        {
+            "charBegin": 1033,
+            "charEnd": 1037,
+            "id": 156,
+            "sentence": 7,
+            "text": "soll",
+            "word": 25
+        },
+        {
+            "charBegin": 1037,
+            "charEnd": 1038,
+            "id": 157,
+            "sentence": 7,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 1039,
+            "charEnd": 1044,
+            "id": 158,
+            "sentence": 8,
+            "text": "Dabei",
+            "word": 1
+        },
+        {
+            "charBegin": 1045,
+            "charEnd": 1048,
+            "id": 159,
+            "sentence": 8,
+            "text": "sei",
+            "word": 2
+        },
+        {
+            "charBegin": 1049,
+            "charEnd": 1053,
+            "id": 160,
+            "sentence": 8,
+            "text": "eine",
+            "word": 3
+        },
+        {
+            "charBegin": 1054,
+            "charEnd": 1060,
+            "id": 161,
+            "sentence": 8,
+            "text": "Person",
+            "word": 4
+        },
+        {
+            "charBegin": 1061,
+            "charEnd": 1073,
+            "id": 162,
+            "sentence": 8,
+            "text": "festgenommen",
+            "word": 5
+        },
+        {
+            "charBegin": 1074,
+            "charEnd": 1080,
+            "id": 163,
+            "sentence": 8,
+            "text": "worden",
+            "word": 6
+        },
+        {
+            "charBegin": 1080,
+            "charEnd": 1081,
+            "id": 164,
+            "sentence": 8,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 1082,
+            "charEnd": 1085,
+            "id": 165,
+            "sentence": 8,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 1086,
+            "charEnd": 1090,
+            "id": 166,
+            "sentence": 8,
+            "text": "sich",
+            "word": 9
+        },
+        {
+            "charBegin": 1091,
+            "charEnd": 1096,
+            "id": 167,
+            "sentence": 8,
+            "text": "zuvor",
+            "word": 10
+        },
+        {
+            "charBegin": 1097,
+            "charEnd": 1102,
+            "id": 168,
+            "sentence": 8,
+            "text": "einem",
+            "word": 11
+        },
+        {
+            "charBegin": 1103,
+            "charEnd": 1115,
+            "id": 169,
+            "sentence": 8,
+            "text": "Platzverweis",
+            "word": 12
+        },
+        {
+            "charBegin": 1116,
+            "charEnd": 1126,
+            "id": 170,
+            "sentence": 8,
+            "text": "widersetzt",
+            "word": 13
+        },
+        {
+            "charBegin": 1127,
+            "charEnd": 1131,
+            "id": 171,
+            "sentence": 8,
+            "text": "habe",
+            "word": 14
+        },
+        {
+            "charBegin": 1131,
+            "charEnd": 1132,
+            "id": 172,
+            "sentence": 8,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 1133,
+            "charEnd": 1136,
+            "id": 173,
+            "sentence": 9,
+            "text": "Nun",
+            "word": 1
+        },
+        {
+            "charBegin": 1137,
+            "charEnd": 1141,
+            "id": 174,
+            "sentence": 9,
+            "text": "habe",
+            "word": 2
+        },
+        {
+            "charBegin": 1142,
+            "charEnd": 1146,
+            "id": 175,
+            "sentence": 9,
+            "text": "eine",
+            "word": 3
+        },
+        {
+            "charBegin": 1147,
+            "charEnd": 1154,
+            "id": 176,
+            "sentence": 9,
+            "text": "weitere",
+            "word": 4
+        },
+        {
+            "charBegin": 1155,
+            "charEnd": 1161,
+            "id": 177,
+            "sentence": 9,
+            "text": "Person",
+            "word": 5
+        },
+        {
+            "charBegin": 1162,
+            "charEnd": 1170,
+            "id": 178,
+            "sentence": 9,
+            "text": "versucht",
+            "word": 6
+        },
+        {
+            "charBegin": 1170,
+            "charEnd": 1171,
+            "id": 179,
+            "sentence": 9,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 1172,
+            "charEnd": 1175,
+            "id": 180,
+            "sentence": 9,
+            "text": "den",
+            "word": 8
+        },
+        {
+            "charBegin": 1176,
+            "charEnd": 1190,
+            "id": 181,
+            "sentence": 9,
+            "text": "Festgenommenen",
+            "word": 9
+        },
+        {
+            "charBegin": 1191,
+            "charEnd": 1193,
+            "id": 182,
+            "sentence": 9,
+            "text": "zu",
+            "word": 10
+        },
+        {
+            "charBegin": 1194,
+            "charEnd": 1202,
+            "id": 183,
+            "sentence": 9,
+            "text": "befreien",
+            "word": 11
+        },
+        {
+            "charBegin": 1202,
+            "charEnd": 1203,
+            "id": 184,
+            "sentence": 9,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 1204,
+            "charEnd": 1208,
+            "id": 185,
+            "sentence": 10,
+            "text": "Dies",
+            "word": 1
+        },
+        {
+            "charBegin": 1209,
+            "charEnd": 1215,
+            "id": 186,
+            "sentence": 10,
+            "text": "hätten",
+            "word": 2
+        },
+        {
+            "charBegin": 1216,
+            "charEnd": 1219,
+            "id": 187,
+            "sentence": 10,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 1220,
+            "charEnd": 1227,
+            "id": 188,
+            "sentence": 10,
+            "text": "Beamten",
+            "word": 4
+        },
+        {
+            "charBegin": 1228,
+            "charEnd": 1229,
+            "id": 189,
+            "sentence": 10,
+            "text": "„",
+            "word": 5
+        },
+        {
+            "charBegin": 1229,
+            "charEnd": 1236,
+            "id": 190,
+            "sentence": 10,
+            "text": "mittels",
+            "word": 6
+        },
+        {
+            "charBegin": 1237,
+            "charEnd": 1246,
+            "id": 191,
+            "sentence": 10,
+            "text": "einfacher",
+            "word": 7
+        },
+        {
+            "charBegin": 1247,
+            "charEnd": 1259,
+            "id": 192,
+            "sentence": 10,
+            "text": "körperlicher",
+            "word": 8
+        },
+        {
+            "charBegin": 1260,
+            "charEnd": 1266,
+            "id": 193,
+            "sentence": 10,
+            "text": "Gewalt",
+            "word": 9
+        },
+        {
+            "charBegin": 1266,
+            "charEnd": 1267,
+            "id": 194,
+            "sentence": 10,
+            "text": "“",
+            "word": 10
+        },
+        {
+            "charBegin": 1268,
+            "charEnd": 1278,
+            "id": 195,
+            "sentence": 10,
+            "text": "verhindert",
+            "word": 11
+        },
+        {
+            "charBegin": 1278,
+            "charEnd": 1279,
+            "id": 196,
+            "sentence": 10,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 1282,
+            "charEnd": 1285,
+            "id": 197,
+            "sentence": 11,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1286,
+            "charEnd": 1298,
+            "id": 198,
+            "sentence": 11,
+            "text": "Veranstalter",
+            "word": 2
+        },
+        {
+            "charBegin": 1299,
+            "charEnd": 1302,
+            "id": 199,
+            "sentence": 11,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 1303,
+            "charEnd": 1316,
+            "id": 200,
+            "sentence": 11,
+            "text": "Demonstration",
+            "word": 4
+        },
+        {
+            "charBegin": 1317,
+            "charEnd": 1325,
+            "id": 201,
+            "sentence": 11,
+            "text": "erklären",
+            "word": 5
+        },
+        {
+            "charBegin": 1326,
+            "charEnd": 1333,
+            "id": 202,
+            "sentence": 11,
+            "text": "dagegen",
+            "word": 6
+        },
+        {
+            "charBegin": 1333,
+            "charEnd": 1334,
+            "id": 203,
+            "sentence": 11,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 1335,
+            "charEnd": 1338,
+            "id": 204,
+            "sentence": 11,
+            "text": "sie",
+            "word": 8
+        },
+        {
+            "charBegin": 1339,
+            "charEnd": 1345,
+            "id": 205,
+            "sentence": 11,
+            "text": "hätten",
+            "word": 9
+        },
+        {
+            "charBegin": 1346,
+            "charEnd": 1354,
+            "id": 206,
+            "sentence": 11,
+            "text": "Hinweise",
+            "word": 10
+        },
+        {
+            "charBegin": 1355,
+            "charEnd": 1361,
+            "id": 207,
+            "sentence": 11,
+            "text": "darauf",
+            "word": 11
+        },
+        {
+            "charBegin": 1361,
+            "charEnd": 1362,
+            "id": 208,
+            "sentence": 11,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 1363,
+            "charEnd": 1367,
+            "id": 209,
+            "sentence": 11,
+            "text": "dass",
+            "word": 13
+        },
+        {
+            "charBegin": 1368,
+            "charEnd": 1371,
+            "id": 210,
+            "sentence": 11,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 1372,
+            "charEnd": 1378,
+            "id": 211,
+            "sentence": 11,
+            "text": "Gewalt",
+            "word": 15
+        },
+        {
+            "charBegin": 1379,
+            "charEnd": 1386,
+            "id": 212,
+            "sentence": 11,
+            "text": "seitens",
+            "word": 16
+        },
+        {
+            "charBegin": 1387,
+            "charEnd": 1390,
+            "id": 213,
+            "sentence": 11,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 1391,
+            "charEnd": 1401,
+            "id": 214,
+            "sentence": 11,
+            "text": "Polizisten",
+            "word": 18
+        },
+        {
+            "charBegin": 1402,
+            "charEnd": 1406,
+            "id": 215,
+            "sentence": 11,
+            "text": "eine",
+            "word": 19
+        },
+        {
+            "charBegin": 1407,
+            "charEnd": 1415,
+            "id": 216,
+            "sentence": 11,
+            "text": "Reaktion",
+            "word": 20
+        },
+        {
+            "charBegin": 1416,
+            "charEnd": 1419,
+            "id": 217,
+            "sentence": 11,
+            "text": "auf",
+            "word": 21
+        },
+        {
+            "charBegin": 1420,
+            "charEnd": 1421,
+            "id": 218,
+            "sentence": 11,
+            "text": "„",
+            "word": 22
+        },
+        {
+            "charBegin": 1421,
+            "charEnd": 1424,
+            "id": 219,
+            "sentence": 11,
+            "text": "die",
+            "word": 23
+        },
+        {
+            "charBegin": 1425,
+            "charEnd": 1436,
+            "id": 220,
+            "sentence": 11,
+            "text": "rechtmäßige",
+            "word": 24
+        },
+        {
+            "charBegin": 1437,
+            "charEnd": 1440,
+            "id": 221,
+            "sentence": 11,
+            "text": "und",
+            "word": 25
+        },
+        {
+            "charBegin": 1441,
+            "charEnd": 1449,
+            "id": 222,
+            "sentence": 11,
+            "text": "legitime",
+            "word": 26
+        },
+        {
+            "charBegin": 1450,
+            "charEnd": 1455,
+            "id": 223,
+            "sentence": 11,
+            "text": "Frage",
+            "word": 27
+        },
+        {
+            "charBegin": 1456,
+            "charEnd": 1460,
+            "id": 224,
+            "sentence": 11,
+            "text": "nach",
+            "word": 28
+        },
+        {
+            "charBegin": 1461,
+            "charEnd": 1466,
+            "id": 225,
+            "sentence": 11,
+            "text": "ihrer",
+            "word": 29
+        },
+        {
+            "charBegin": 1467,
+            "charEnd": 1479,
+            "id": 226,
+            "sentence": 11,
+            "text": "Dienstnummer",
+            "word": 30
+        },
+        {
+            "charBegin": 1479,
+            "charEnd": 1480,
+            "id": 227,
+            "sentence": 11,
+            "text": "“",
+            "word": 31
+        },
+        {
+            "charBegin": 1481,
+            "charEnd": 1488,
+            "id": 228,
+            "sentence": 11,
+            "text": "gewesen",
+            "word": 32
+        },
+        {
+            "charBegin": 1489,
+            "charEnd": 1492,
+            "id": 229,
+            "sentence": 11,
+            "text": "sei",
+            "word": 33
+        },
+        {
+            "charBegin": 1492,
+            "charEnd": 1493,
+            "id": 230,
+            "sentence": 11,
+            "text": ".",
+            "word": 34
+        },
+        {
+            "charBegin": 1494,
+            "charEnd": 1499,
+            "id": 231,
+            "sentence": 12,
+            "text": "Diese",
+            "word": 1
+        },
+        {
+            "charBegin": 1500,
+            "charEnd": 1508,
+            "id": 232,
+            "sentence": 12,
+            "text": "Auskunft",
+            "word": 2
+        },
+        {
+            "charBegin": 1509,
+            "charEnd": 1512,
+            "id": 233,
+            "sentence": 12,
+            "text": "sei",
+            "word": 3
+        },
+        {
+            "charBegin": 1513,
+            "charEnd": 1521,
+            "id": 234,
+            "sentence": 12,
+            "text": "benötigt",
+            "word": 4
+        },
+        {
+            "charBegin": 1522,
+            "charEnd": 1528,
+            "id": 235,
+            "sentence": 12,
+            "text": "worden",
+            "word": 5
+        },
+        {
+            "charBegin": 1528,
+            "charEnd": 1529,
+            "id": 236,
+            "sentence": 12,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 1530,
+            "charEnd": 1532,
+            "id": 237,
+            "sentence": 12,
+            "text": "um",
+            "word": 7
+        },
+        {
+            "charBegin": 1533,
+            "charEnd": 1540,
+            "id": 238,
+            "sentence": 12,
+            "text": "Anzeige",
+            "word": 8
+        },
+        {
+            "charBegin": 1541,
+            "charEnd": 1546,
+            "id": 239,
+            "sentence": 12,
+            "text": "wegen",
+            "word": 9
+        },
+        {
+            "charBegin": 1547,
+            "charEnd": 1552,
+            "id": 240,
+            "sentence": 12,
+            "text": "einer",
+            "word": 10
+        },
+        {
+            "charBegin": 1553,
+            "charEnd": 1558,
+            "id": 241,
+            "sentence": 12,
+            "text": "zuvor",
+            "word": 11
+        },
+        {
+            "charBegin": 1559,
+            "charEnd": 1569,
+            "id": 242,
+            "sentence": 12,
+            "text": "getätigten",
+            "word": 12
+        },
+        {
+            "charBegin": 1570,
+            "charEnd": 1579,
+            "id": 243,
+            "sentence": 12,
+            "text": "Festnahme",
+            "word": 13
+        },
+        {
+            "charBegin": 1580,
+            "charEnd": 1582,
+            "id": 244,
+            "sentence": 12,
+            "text": "zu",
+            "word": 14
+        },
+        {
+            "charBegin": 1583,
+            "charEnd": 1592,
+            "id": 245,
+            "sentence": 12,
+            "text": "erstatten",
+            "word": 15
+        },
+        {
+            "charBegin": 1592,
+            "charEnd": 1593,
+            "id": 246,
+            "sentence": 12,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 1594,
+            "charEnd": 1601,
+            "id": 247,
+            "sentence": 13,
+            "text": "Darüber",
+            "word": 1
+        },
+        {
+            "charBegin": 1602,
+            "charEnd": 1608,
+            "id": 248,
+            "sentence": 13,
+            "text": "hinaus",
+            "word": 2
+        },
+        {
+            "charBegin": 1609,
+            "charEnd": 1614,
+            "id": 249,
+            "sentence": 13,
+            "text": "wirft",
+            "word": 3
+        },
+        {
+            "charBegin": 1615,
+            "charEnd": 1618,
+            "id": 250,
+            "sentence": 13,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 1619,
+            "charEnd": 1620,
+            "id": 251,
+            "sentence": 13,
+            "text": "„",
+            "word": 5
+        },
+        {
+            "charBegin": 1620,
+            "charEnd": 1632,
+            "id": 252,
+            "sentence": 13,
+            "text": "Arbeitskreis",
+            "word": 6
+        },
+        {
+            "charBegin": 1633,
+            "charEnd": 1656,
+            "id": 253,
+            "sentence": 13,
+            "text": "Vorratsdatenspeicherung",
+            "word": 7
+        },
+        {
+            "charBegin": 1656,
+            "charEnd": 1657,
+            "id": 254,
+            "sentence": 13,
+            "text": "“",
+            "word": 8
+        },
+        {
+            "charBegin": 1658,
+            "charEnd": 1661,
+            "id": 255,
+            "sentence": 13,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 1662,
+            "charEnd": 1669,
+            "id": 256,
+            "sentence": 13,
+            "text": "Polizei",
+            "word": 10
+        },
+        {
+            "charBegin": 1670,
+            "charEnd": 1673,
+            "id": 257,
+            "sentence": 13,
+            "text": "vor",
+            "word": 11
+        },
+        {
+            "charBegin": 1673,
+            "charEnd": 1674,
+            "id": 258,
+            "sentence": 13,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 1675,
+            "charEnd": 1679,
+            "id": 259,
+            "sentence": 13,
+            "text": "sich",
+            "word": 13
+        },
+        {
+            "charBegin": 1680,
+            "charEnd": 1685,
+            "id": 260,
+            "sentence": 13,
+            "text": "nicht",
+            "word": 14
+        },
+        {
+            "charBegin": 1686,
+            "charEnd": 1688,
+            "id": 261,
+            "sentence": 13,
+            "text": "an",
+            "word": 15
+        },
+        {
+            "charBegin": 1689,
+            "charEnd": 1699,
+            "id": 262,
+            "sentence": 13,
+            "text": "Absprachen",
+            "word": 16
+        },
+        {
+            "charBegin": 1700,
+            "charEnd": 1708,
+            "id": 263,
+            "sentence": 13,
+            "text": "gehalten",
+            "word": 17
+        },
+        {
+            "charBegin": 1709,
+            "charEnd": 1711,
+            "id": 264,
+            "sentence": 13,
+            "text": "zu",
+            "word": 18
+        },
+        {
+            "charBegin": 1712,
+            "charEnd": 1717,
+            "id": 265,
+            "sentence": 13,
+            "text": "haben",
+            "word": 19
+        },
+        {
+            "charBegin": 1717,
+            "charEnd": 1718,
+            "id": 266,
+            "sentence": 13,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 1719,
+            "charEnd": 1722,
+            "id": 267,
+            "sentence": 13,
+            "text": "die",
+            "word": 21
+        },
+        {
+            "charBegin": 1723,
+            "charEnd": 1726,
+            "id": 268,
+            "sentence": 13,
+            "text": "vor",
+            "word": 22
+        },
+        {
+            "charBegin": 1727,
+            "charEnd": 1730,
+            "id": 269,
+            "sentence": 13,
+            "text": "der",
+            "word": 23
+        },
+        {
+            "charBegin": 1731,
+            "charEnd": 1744,
+            "id": 270,
+            "sentence": 13,
+            "text": "Demonstration",
+            "word": 24
+        },
+        {
+            "charBegin": 1745,
+            "charEnd": 1754,
+            "id": 271,
+            "sentence": 13,
+            "text": "getroffen",
+            "word": 25
+        },
+        {
+            "charBegin": 1755,
+            "charEnd": 1761,
+            "id": 272,
+            "sentence": 13,
+            "text": "wurden",
+            "word": 26
+        },
+        {
+            "charBegin": 1761,
+            "charEnd": 1762,
+            "id": 273,
+            "sentence": 13,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 1763,
+            "charEnd": 1775,
+            "id": 274,
+            "sentence": 14,
+            "text": "Insbesondere",
+            "word": 1
+        },
+        {
+            "charBegin": 1776,
+            "charEnd": 1786,
+            "id": 275,
+            "sentence": 14,
+            "text": "kritisiert",
+            "word": 2
+        },
+        {
+            "charBegin": 1787,
+            "charEnd": 1791,
+            "id": 276,
+            "sentence": 14,
+            "text": "wird",
+            "word": 3
+        },
+        {
+            "charBegin": 1791,
+            "charEnd": 1792,
+            "id": 277,
+            "sentence": 14,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 1793,
+            "charEnd": 1797,
+            "id": 278,
+            "sentence": 14,
+            "text": "dass",
+            "word": 5
+        },
+        {
+            "charBegin": 1798,
+            "charEnd": 1801,
+            "id": 279,
+            "sentence": 14,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 1802,
+            "charEnd": 1815,
+            "id": 280,
+            "sentence": 14,
+            "text": "Demonstration",
+            "word": 7
+        },
+        {
+            "charBegin": 1816,
+            "charEnd": 1823,
+            "id": 281,
+            "sentence": 14,
+            "text": "gefilmt",
+            "word": 8
+        },
+        {
+            "charBegin": 1824,
+            "charEnd": 1830,
+            "id": 282,
+            "sentence": 14,
+            "text": "worden",
+            "word": 9
+        },
+        {
+            "charBegin": 1831,
+            "charEnd": 1834,
+            "id": 283,
+            "sentence": 14,
+            "text": "sei",
+            "word": 10
+        },
+        {
+            "charBegin": 1835,
+            "charEnd": 1838,
+            "id": 284,
+            "sentence": 14,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 1839,
+            "charEnd": 1851,
+            "id": 285,
+            "sentence": 14,
+            "text": "systematisch",
+            "word": 12
+        },
+        {
+            "charBegin": 1852,
+            "charEnd": 1876,
+            "id": 286,
+            "sentence": 14,
+            "text": "Demonstrationsteilnehmer",
+            "word": 13
+        },
+        {
+            "charBegin": 1877,
+            "charEnd": 1887,
+            "id": 287,
+            "sentence": 14,
+            "text": "durchsucht",
+            "word": 14
+        },
+        {
+            "charBegin": 1888,
+            "charEnd": 1894,
+            "id": 288,
+            "sentence": 14,
+            "text": "worden",
+            "word": 15
+        },
+        {
+            "charBegin": 1895,
+            "charEnd": 1900,
+            "id": 289,
+            "sentence": 14,
+            "text": "seien",
+            "word": 16
+        },
+        {
+            "charBegin": 1900,
+            "charEnd": 1901,
+            "id": 290,
+            "sentence": 14,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 1904,
+            "charEnd": 1907,
+            "id": 291,
+            "sentence": 15,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1908,
+            "charEnd": 1909,
+            "id": 292,
+            "sentence": 15,
+            "text": "„",
+            "word": 2
+        },
+        {
+            "charBegin": 1909,
+            "charEnd": 1914,
+            "id": 293,
+            "sentence": 15,
+            "text": "Chaos",
+            "word": 3
+        },
+        {
+            "charBegin": 1915,
+            "charEnd": 1923,
+            "id": 294,
+            "sentence": 15,
+            "text": "Computer",
+            "word": 4
+        },
+        {
+            "charBegin": 1924,
+            "charEnd": 1928,
+            "id": 295,
+            "sentence": 15,
+            "text": "Club",
+            "word": 5
+        },
+        {
+            "charBegin": 1928,
+            "charEnd": 1929,
+            "id": 296,
+            "sentence": 15,
+            "text": "“",
+            "word": 6
+        },
+        {
+            "charBegin": 1930,
+            "charEnd": 1931,
+            "id": 297,
+            "sentence": 15,
+            "text": "(",
+            "word": 7
+        },
+        {
+            "charBegin": 1931,
+            "charEnd": 1934,
+            "id": 298,
+            "sentence": 15,
+            "text": "CCC",
+            "word": 8
+        },
+        {
+            "charBegin": 1934,
+            "charEnd": 1935,
+            "id": 299,
+            "sentence": 15,
+            "text": ")",
+            "word": 9
+        },
+        {
+            "charBegin": 1936,
+            "charEnd": 1943,
+            "id": 300,
+            "sentence": 15,
+            "text": "fordert",
+            "word": 10
+        },
+        {
+            "charBegin": 1944,
+            "charEnd": 1947,
+            "id": 301,
+            "sentence": 15,
+            "text": "als",
+            "word": 11
+        },
+        {
+            "charBegin": 1948,
+            "charEnd": 1956,
+            "id": 302,
+            "sentence": 15,
+            "text": "Reaktion",
+            "word": 12
+        },
+        {
+            "charBegin": 1957,
+            "charEnd": 1960,
+            "id": 303,
+            "sentence": 15,
+            "text": "auf",
+            "word": 13
+        },
+        {
+            "charBegin": 1961,
+            "charEnd": 1964,
+            "id": 304,
+            "sentence": 15,
+            "text": "den",
+            "word": 14
+        },
+        {
+            "charBegin": 1965,
+            "charEnd": 1972,
+            "id": 305,
+            "sentence": 15,
+            "text": "Vorfall",
+            "word": 15
+        },
+        {
+            "charBegin": 1973,
+            "charEnd": 1991,
+            "id": 306,
+            "sentence": 15,
+            "text": "bundeseinheitliche",
+            "word": 16
+        },
+        {
+            "charBegin": 1992,
+            "charEnd": 2007,
+            "id": 307,
+            "sentence": 15,
+            "text": "Nummernschilder",
+            "word": 17
+        },
+        {
+            "charBegin": 2008,
+            "charEnd": 2011,
+            "id": 308,
+            "sentence": 15,
+            "text": "für",
+            "word": 18
+        },
+        {
+            "charBegin": 2012,
+            "charEnd": 2022,
+            "id": 309,
+            "sentence": 15,
+            "text": "Polizisten",
+            "word": 19
+        },
+        {
+            "charBegin": 2022,
+            "charEnd": 2023,
+            "id": 310,
+            "sentence": 15,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 2024,
+            "charEnd": 2025,
+            "id": 311,
+            "sentence": 16,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 2025,
+            "charEnd": 2031,
+            "id": 312,
+            "sentence": 16,
+            "text": "Werden",
+            "word": 2
+        },
+        {
+            "charBegin": 2032,
+            "charEnd": 2035,
+            "id": 313,
+            "sentence": 16,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 2036,
+            "charEnd": 2046,
+            "id": 314,
+            "sentence": 16,
+            "text": "Polizisten",
+            "word": 4
+        },
+        {
+            "charBegin": 2047,
+            "charEnd": 2056,
+            "id": 315,
+            "sentence": 16,
+            "text": "begangene",
+            "word": 5
+        },
+        {
+            "charBegin": 2057,
+            "charEnd": 2067,
+            "id": 316,
+            "sentence": 16,
+            "text": "Straftaten",
+            "word": 6
+        },
+        {
+            "charBegin": 2068,
+            "charEnd": 2073,
+            "id": 317,
+            "sentence": 16,
+            "text": "nicht",
+            "word": 7
+        },
+        {
+            "charBegin": 2074,
+            "charEnd": 2077,
+            "id": 318,
+            "sentence": 16,
+            "text": "mit",
+            "word": 8
+        },
+        {
+            "charBegin": 2078,
+            "charEnd": 2081,
+            "id": 319,
+            "sentence": 16,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 2082,
+            "charEnd": 2088,
+            "id": 320,
+            "sentence": 16,
+            "text": "selben",
+            "word": 10
+        },
+        {
+            "charBegin": 2089,
+            "charEnd": 2094,
+            "id": 321,
+            "sentence": 16,
+            "text": "Härte",
+            "word": 11
+        },
+        {
+            "charBegin": 2095,
+            "charEnd": 2103,
+            "id": 322,
+            "sentence": 16,
+            "text": "verfolgt",
+            "word": 12
+        },
+        {
+            "charBegin": 2104,
+            "charEnd": 2107,
+            "id": 323,
+            "sentence": 16,
+            "text": "wie",
+            "word": 13
+        },
+        {
+            "charBegin": 2108,
+            "charEnd": 2111,
+            "id": 324,
+            "sentence": 16,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 2112,
+            "charEnd": 2121,
+            "id": 325,
+            "sentence": 16,
+            "text": "ebenfalls",
+            "word": 15
+        },
+        {
+            "charBegin": 2122,
+            "charEnd": 2143,
+            "id": 326,
+            "sentence": 16,
+            "text": "verabscheuenswürdigen",
+            "word": 16
+        },
+        {
+            "charBegin": 2144,
+            "charEnd": 2152,
+            "id": 327,
+            "sentence": 16,
+            "text": "Angriffe",
+            "word": 17
+        },
+        {
+            "charBegin": 2153,
+            "charEnd": 2156,
+            "id": 328,
+            "sentence": 16,
+            "text": "von",
+            "word": 18
+        },
+        {
+            "charBegin": 2157,
+            "charEnd": 2170,
+            "id": 329,
+            "sentence": 16,
+            "text": "Demonstranten",
+            "word": 19
+        },
+        {
+            "charBegin": 2171,
+            "charEnd": 2174,
+            "id": 330,
+            "sentence": 16,
+            "text": "auf",
+            "word": 20
+        },
+        {
+            "charBegin": 2175,
+            "charEnd": 2178,
+            "id": 331,
+            "sentence": 16,
+            "text": "die",
+            "word": 21
+        },
+        {
+            "charBegin": 2179,
+            "charEnd": 2186,
+            "id": 332,
+            "sentence": 16,
+            "text": "Beamten",
+            "word": 22
+        },
+        {
+            "charBegin": 2186,
+            "charEnd": 2187,
+            "id": 333,
+            "sentence": 16,
+            "text": ",",
+            "word": 23
+        },
+        {
+            "charBegin": 2188,
+            "charEnd": 2191,
+            "id": 334,
+            "sentence": 16,
+            "text": "und",
+            "word": 24
+        },
+        {
+            "charBegin": 2192,
+            "charEnd": 2196,
+            "id": 335,
+            "sentence": 16,
+            "text": "wenn",
+            "word": 25
+        },
+        {
+            "charBegin": 2197,
+            "charEnd": 2203,
+            "id": 336,
+            "sentence": 16,
+            "text": "falsch",
+            "word": 26
+        },
+        {
+            "charBegin": 2204,
+            "charEnd": 2216,
+            "id": 337,
+            "sentence": 16,
+            "text": "verstandener",
+            "word": 27
+        },
+        {
+            "charBegin": 2217,
+            "charEnd": 2227,
+            "id": 338,
+            "sentence": 16,
+            "text": "Korpsgeist",
+            "word": 28
+        },
+        {
+            "charBegin": 2228,
+            "charEnd": 2231,
+            "id": 339,
+            "sentence": 16,
+            "text": "die",
+            "word": 29
+        },
+        {
+            "charBegin": 2232,
+            "charEnd": 2247,
+            "id": 340,
+            "sentence": 16,
+            "text": "Strafverfolgung",
+            "word": 30
+        },
+        {
+            "charBegin": 2248,
+            "charEnd": 2257,
+            "id": 341,
+            "sentence": 16,
+            "text": "behindert",
+            "word": 31
+        },
+        {
+            "charBegin": 2257,
+            "charEnd": 2258,
+            "id": 342,
+            "sentence": 16,
+            "text": ",",
+            "word": 32
+        },
+        {
+            "charBegin": 2259,
+            "charEnd": 2266,
+            "id": 343,
+            "sentence": 16,
+            "text": "besteht",
+            "word": 33
+        },
+        {
+            "charBegin": 2267,
+            "charEnd": 2270,
+            "id": 344,
+            "sentence": 16,
+            "text": "die",
+            "word": 34
+        },
+        {
+            "charBegin": 2271,
+            "charEnd": 2277,
+            "id": 345,
+            "sentence": 16,
+            "text": "Gefahr",
+            "word": 35
+        },
+        {
+            "charBegin": 2277,
+            "charEnd": 2278,
+            "id": 346,
+            "sentence": 16,
+            "text": ",",
+            "word": 36
+        },
+        {
+            "charBegin": 2279,
+            "charEnd": 2283,
+            "id": 347,
+            "sentence": 16,
+            "text": "dass",
+            "word": 37
+        },
+        {
+            "charBegin": 2284,
+            "charEnd": 2287,
+            "id": 348,
+            "sentence": 16,
+            "text": "das",
+            "word": 38
+        },
+        {
+            "charBegin": 2288,
+            "charEnd": 2296,
+            "id": 349,
+            "sentence": 16,
+            "text": "Internet",
+            "word": 39
+        },
+        {
+            "charBegin": 2297,
+            "charEnd": 2300,
+            "id": 350,
+            "sentence": 16,
+            "text": "als",
+            "word": 40
+        },
+        {
+            "charBegin": 2301,
+            "charEnd": 2313,
+            "id": 351,
+            "sentence": 16,
+            "text": "öffentlicher",
+            "word": 41
+        },
+        {
+            "charBegin": 2314,
+            "charEnd": 2321,
+            "id": 352,
+            "sentence": 16,
+            "text": "Pranger",
+            "word": 42
+        },
+        {
+            "charBegin": 2322,
+            "charEnd": 2332,
+            "id": 353,
+            "sentence": 16,
+            "text": "mißbraucht",
+            "word": 43
+        },
+        {
+            "charBegin": 2333,
+            "charEnd": 2337,
+            "id": 354,
+            "sentence": 16,
+            "text": "wird",
+            "word": 44
+        },
+        {
+            "charBegin": 2337,
+            "charEnd": 2338,
+            "id": 355,
+            "sentence": 16,
+            "text": ".",
+            "word": 45
+        },
+        {
+            "charBegin": 2339,
+            "charEnd": 2342,
+            "id": 356,
+            "sentence": 17,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 2343,
+            "charEnd": 2350,
+            "id": 357,
+            "sentence": 17,
+            "text": "Achtung",
+            "word": 2
+        },
+        {
+            "charBegin": 2351,
+            "charEnd": 2354,
+            "id": 358,
+            "sentence": 17,
+            "text": "vor",
+            "word": 3
+        },
+        {
+            "charBegin": 2355,
+            "charEnd": 2362,
+            "id": 359,
+            "sentence": 17,
+            "text": "unserem",
+            "word": 4
+        },
+        {
+            "charBegin": 2363,
+            "charEnd": 2368,
+            "id": 360,
+            "sentence": 17,
+            "text": "Staat",
+            "word": 5
+        },
+        {
+            "charBegin": 2369,
+            "charEnd": 2372,
+            "id": 361,
+            "sentence": 17,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 2373,
+            "charEnd": 2379,
+            "id": 362,
+            "sentence": 17,
+            "text": "seinen",
+            "word": 7
+        },
+        {
+            "charBegin": 2380,
+            "charEnd": 2387,
+            "id": 363,
+            "sentence": 17,
+            "text": "Organen",
+            "word": 8
+        },
+        {
+            "charBegin": 2388,
+            "charEnd": 2392,
+            "id": 364,
+            "sentence": 17,
+            "text": "wird",
+            "word": 9
+        },
+        {
+            "charBegin": 2393,
+            "charEnd": 2398,
+            "id": 365,
+            "sentence": 17,
+            "text": "durch",
+            "word": 10
+        },
+        {
+            "charBegin": 2399,
+            "charEnd": 2410,
+            "id": 366,
+            "sentence": 17,
+            "text": "Vertuschung",
+            "word": 11
+        },
+        {
+            "charBegin": 2411,
+            "charEnd": 2417,
+            "id": 367,
+            "sentence": 17,
+            "text": "dieser",
+            "word": 12
+        },
+        {
+            "charBegin": 2418,
+            "charEnd": 2430,
+            "id": 368,
+            "sentence": 17,
+            "text": "Vorkommnisse",
+            "word": 13
+        },
+        {
+            "charBegin": 2431,
+            "charEnd": 2434,
+            "id": 369,
+            "sentence": 17,
+            "text": "ein",
+            "word": 14
+        },
+        {
+            "charBegin": 2435,
+            "charEnd": 2446,
+            "id": 370,
+            "sentence": 17,
+            "text": "Bärendienst",
+            "word": 15
+        },
+        {
+            "charBegin": 2447,
+            "charEnd": 2455,
+            "id": 371,
+            "sentence": 17,
+            "text": "erwiesen",
+            "word": 16
+        },
+        {
+            "charBegin": 2455,
+            "charEnd": 2456,
+            "id": 372,
+            "sentence": 17,
+            "text": "“",
+            "word": 17
+        },
+        {
+            "charBegin": 2457,
+            "charEnd": 2462,
+            "id": 373,
+            "sentence": 17,
+            "text": "heißt",
+            "word": 18
+        },
+        {
+            "charBegin": 2463,
+            "charEnd": 2465,
+            "id": 374,
+            "sentence": 17,
+            "text": "es",
+            "word": 19
+        },
+        {
+            "charBegin": 2466,
+            "charEnd": 2470,
+            "id": 375,
+            "sentence": 17,
+            "text": "dazu",
+            "word": 20
+        },
+        {
+            "charBegin": 2471,
+            "charEnd": 2473,
+            "id": 376,
+            "sentence": 17,
+            "text": "in",
+            "word": 21
+        },
+        {
+            "charBegin": 2474,
+            "charEnd": 2479,
+            "id": 377,
+            "sentence": 17,
+            "text": "einer",
+            "word": 22
+        },
+        {
+            "charBegin": 2480,
+            "charEnd": 2496,
+            "id": 378,
+            "sentence": 17,
+            "text": "Pressemitteilung",
+            "word": 23
+        },
+        {
+            "charBegin": 2497,
+            "charEnd": 2500,
+            "id": 379,
+            "sentence": 17,
+            "text": "des",
+            "word": 24
+        },
+        {
+            "charBegin": 2501,
+            "charEnd": 2504,
+            "id": 380,
+            "sentence": 17,
+            "text": "CCC",
+            "word": 25
+        },
+        {
+            "charBegin": 2504,
+            "charEnd": 2505,
+            "id": 381,
+            "sentence": 17,
+            "text": ".",
+            "word": 26
+        }
+    ]
+}

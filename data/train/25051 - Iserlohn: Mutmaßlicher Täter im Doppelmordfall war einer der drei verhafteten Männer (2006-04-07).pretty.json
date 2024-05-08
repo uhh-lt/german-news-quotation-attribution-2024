@@ -1,0 +1,2126 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 99,
+                        "charBegin": 638,
+                        "charEnd": 708,
+                        "end": 111
+                    }
+                ],
+                "text": "Das Motiv für den Doppelmord soll eine Kränkung der Familienehre sein.",
+                "tokenIds": [
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 67,
+                        "charBegin": 434,
+                        "charEnd": 494,
+                        "end": 74
+                    }
+                ],
+                "text": "die Staatsanwaltschaft auf einer Pressekonferenz in Iserlohn",
+                "tokenIds": [
+                    67,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73
+                ]
+            },
+            "type": "FreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 150,
+                        "charBegin": 950,
+                        "charEnd": 958,
+                        "end": 152
+                    },
+                    {
+                        "begin": 154,
+                        "charBegin": 981,
+                        "charEnd": 987,
+                        "end": 155
+                    }
+                ],
+                "text": "war sich sicher",
+                "tokenIds": [
+                    150,
+                    151,
+                    154
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 134,
+                        "charBegin": 851,
+                        "charEnd": 988,
+                        "end": 156
+                    }
+                ],
+                "text": "Als dann auch noch Schmauchspuren an den Opfern mit den Spuren an dem 38-jährigen übereinstimmten, war sich die Staatsanwaltschat sicher,",
+                "tokenIds": [
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 156,
+                        "charBegin": 989,
+                        "charEnd": 1048,
+                        "end": 164
+                    }
+                ],
+                "text": "dass diese Beweismittel für einen Prozess ausreichen würden",
+                "tokenIds": [
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    162,
+                    163
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 152,
+                        "charBegin": 959,
+                        "charEnd": 980,
+                        "end": 154
+                    }
+                ],
+                "text": "die Staatsanwaltschat",
+                "tokenIds": [
+                    152,
+                    153
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "25051 - Iserlohn: Mutmaßlicher Täter im Doppelmordfall war einer der drei verhafteten Männer (2006-04-07)",
+    "originalText": "In der Silvesternacht 2005\/06 ereignete sich ein Doppelmord in Iserlohn. Gut drei Monate später hat die Polizei am Montag einen 38-jährigen Mann türkischer Staatsangehörigkeit verhaftet. Er befindet sich derzeit im Untersuchungsgefängnis.\n\nKurz nach der Tat wurden Anfang Januar drei Tatverdächtige verhaftet, die jedoch wieder freigelassen werden mussten, weil sie für die Tatzeit ein Alibi vorweisen konnten. \n\nAm Dienstag erklärte die Staatsanwaltschaft auf einer Pressekonferenz in Iserlohn die Hintergründe der Verhaftung. Bei dem Mann handelt es sich tatsächlich um einen der drei Männer, die bereits im Januar tatverdächtig waren. Das Motiv für den Doppelmord soll eine Kränkung der Familienehre sein. \n\nWochenlange Ermittlungen haben jetzt zu einem Ergebnis geführt. So konnte die Polizei nach und nach die Alibis der drei Männer erschüttern. Als dann auch noch Schmauchspuren an den Opfern mit den Spuren an dem 38-jährigen übereinstimmten, war sich die Staatsanwaltschat sicher, dass diese Beweismittel für einen Prozess ausreichen würden. Der 38-Jährige schweigt zu den Vorwürfen. Die Mordwaffe ist bis heute nicht aufgetaucht.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 72,
+            "end": 13,
+            "id": 0,
+            "text": "In der Silvesternacht 2005\/06 ereignete sich ein Doppelmord in Iserlohn. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "tokens": [
+                "In",
+                "der",
+                "Silvesternacht",
+                "2005",
+                "\/",
+                "06",
+                "ereignete",
+                "sich",
+                "ein",
+                "Doppelmord",
+                "in",
+                "Iserlohn",
+                "."
+            ]
+        },
+        {
+            "begin": 13,
+            "charBegin": 73,
+            "charEnd": 186,
+            "end": 29,
+            "id": 1,
+            "text": "Gut drei Monate später hat die Polizei am Montag einen 38-jährigen Mann türkischer Staatsangehörigkeit verhaftet. ",
+            "tokenIds": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28
+            ],
+            "tokens": [
+                "Gut",
+                "drei",
+                "Monate",
+                "später",
+                "hat",
+                "die",
+                "Polizei",
+                "am",
+                "Montag",
+                "einen",
+                "38-jährigen",
+                "Mann",
+                "türkischer",
+                "Staatsangehörigkeit",
+                "verhaftet",
+                "."
+            ]
+        },
+        {
+            "begin": 29,
+            "charBegin": 187,
+            "charEnd": 238,
+            "end": 36,
+            "id": 2,
+            "text": "Er befindet sich derzeit im Untersuchungsgefängnis.",
+            "tokenIds": [
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "tokens": [
+                "Er",
+                "befindet",
+                "sich",
+                "derzeit",
+                "im",
+                "Untersuchungsgefängnis",
+                "."
+            ]
+        },
+        {
+            "begin": 36,
+            "charBegin": 240,
+            "charEnd": 410,
+            "end": 64,
+            "id": 3,
+            "text": "Kurz nach der Tat wurden Anfang Januar drei Tatverdächtige verhaftet, die jedoch wieder freigelassen werden mussten, weil sie für die Tatzeit ein Alibi vorweisen konnten. ",
+            "tokenIds": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63
+            ],
+            "tokens": [
+                "Kurz",
+                "nach",
+                "der",
+                "Tat",
+                "wurden",
+                "Anfang",
+                "Januar",
+                "drei",
+                "Tatverdächtige",
+                "verhaftet",
+                ",",
+                "die",
+                "jedoch",
+                "wieder",
+                "freigelassen",
+                "werden",
+                "mussten",
+                ",",
+                "weil",
+                "sie",
+                "für",
+                "die",
+                "Tatzeit",
+                "ein",
+                "Alibi",
+                "vorweisen",
+                "konnten",
+                "."
+            ]
+        },
+        {
+            "begin": 64,
+            "charBegin": 413,
+            "charEnd": 527,
+            "end": 79,
+            "id": 4,
+            "text": "Am Dienstag erklärte die Staatsanwaltschaft auf einer Pressekonferenz in Iserlohn die Hintergründe der Verhaftung. ",
+            "tokenIds": [
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78
+            ],
+            "tokens": [
+                "Am",
+                "Dienstag",
+                "erklärte",
+                "die",
+                "Staatsanwaltschaft",
+                "auf",
+                "einer",
+                "Pressekonferenz",
+                "in",
+                "Iserlohn",
+                "die",
+                "Hintergründe",
+                "der",
+                "Verhaftung",
+                "."
+            ]
+        },
+        {
+            "begin": 79,
+            "charBegin": 528,
+            "charEnd": 637,
+            "end": 99,
+            "id": 5,
+            "text": "Bei dem Mann handelt es sich tatsächlich um einen der drei Männer, die bereits im Januar tatverdächtig waren. ",
+            "tokenIds": [
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98
+            ],
+            "tokens": [
+                "Bei",
+                "dem",
+                "Mann",
+                "handelt",
+                "es",
+                "sich",
+                "tatsächlich",
+                "um",
+                "einen",
+                "der",
+                "drei",
+                "Männer",
+                ",",
+                "die",
+                "bereits",
+                "im",
+                "Januar",
+                "tatverdächtig",
+                "waren",
+                "."
+            ]
+        },
+        {
+            "begin": 99,
+            "charBegin": 638,
+            "charEnd": 708,
+            "end": 111,
+            "id": 6,
+            "text": "Das Motiv für den Doppelmord soll eine Kränkung der Familienehre sein. ",
+            "tokenIds": [
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110
+            ],
+            "tokens": [
+                "Das",
+                "Motiv",
+                "für",
+                "den",
+                "Doppelmord",
+                "soll",
+                "eine",
+                "Kränkung",
+                "der",
+                "Familienehre",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "begin": 111,
+            "charBegin": 711,
+            "charEnd": 774,
+            "end": 120,
+            "id": 7,
+            "text": "Wochenlange Ermittlungen haben jetzt zu einem Ergebnis geführt. ",
+            "tokenIds": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119
+            ],
+            "tokens": [
+                "Wochenlange",
+                "Ermittlungen",
+                "haben",
+                "jetzt",
+                "zu",
+                "einem",
+                "Ergebnis",
+                "geführt",
+                "."
+            ]
+        },
+        {
+            "begin": 120,
+            "charBegin": 775,
+            "charEnd": 850,
+            "end": 134,
+            "id": 8,
+            "text": "So konnte die Polizei nach und nach die Alibis der drei Männer erschüttern. ",
+            "tokenIds": [
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133
+            ],
+            "tokens": [
+                "So",
+                "konnte",
+                "die",
+                "Polizei",
+                "nach",
+                "und",
+                "nach",
+                "die",
+                "Alibis",
+                "der",
+                "drei",
+                "Männer",
+                "erschüttern",
+                "."
+            ]
+        },
+        {
+            "begin": 134,
+            "charBegin": 851,
+            "charEnd": 1049,
+            "end": 165,
+            "id": 9,
+            "text": "Als dann auch noch Schmauchspuren an den Opfern mit den Spuren an dem 38-jährigen übereinstimmten, war sich die Staatsanwaltschat sicher, dass diese Beweismittel für einen Prozess ausreichen würden. ",
+            "tokenIds": [
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164
+            ],
+            "tokens": [
+                "Als",
+                "dann",
+                "auch",
+                "noch",
+                "Schmauchspuren",
+                "an",
+                "den",
+                "Opfern",
+                "mit",
+                "den",
+                "Spuren",
+                "an",
+                "dem",
+                "38-jährigen",
+                "übereinstimmten",
+                ",",
+                "war",
+                "sich",
+                "die",
+                "Staatsanwaltschat",
+                "sicher",
+                ",",
+                "dass",
+                "diese",
+                "Beweismittel",
+                "für",
+                "einen",
+                "Prozess",
+                "ausreichen",
+                "würden",
+                "."
+            ]
+        },
+        {
+            "begin": 165,
+            "charBegin": 1050,
+            "charEnd": 1091,
+            "end": 172,
+            "id": 10,
+            "text": "Der 38-Jährige schweigt zu den Vorwürfen. ",
+            "tokenIds": [
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171
+            ],
+            "tokens": [
+                "Der",
+                "38-Jährige",
+                "schweigt",
+                "zu",
+                "den",
+                "Vorwürfen",
+                "."
+            ]
+        },
+        {
+            "begin": 172,
+            "charBegin": 1092,
+            "charEnd": 1138,
+            "end": 180,
+            "id": 11,
+            "text": "Die Mordwaffe ist bis heute nicht aufgetaucht.",
+            "tokenIds": [
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179
+            ],
+            "tokens": [
+                "Die",
+                "Mordwaffe",
+                "ist",
+                "bis",
+                "heute",
+                "nicht",
+                "aufgetaucht",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 6,
+            "id": 1,
+            "sentence": 1,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 7,
+            "charEnd": 21,
+            "id": 2,
+            "sentence": 1,
+            "text": "Silvesternacht",
+            "word": 3
+        },
+        {
+            "charBegin": 22,
+            "charEnd": 26,
+            "id": 3,
+            "sentence": 1,
+            "text": "2005",
+            "word": 4
+        },
+        {
+            "charBegin": 26,
+            "charEnd": 27,
+            "id": 4,
+            "sentence": 1,
+            "text": "\/",
+            "word": 5
+        },
+        {
+            "charBegin": 27,
+            "charEnd": 29,
+            "id": 5,
+            "sentence": 1,
+            "text": "06",
+            "word": 6
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 39,
+            "id": 6,
+            "sentence": 1,
+            "text": "ereignete",
+            "word": 7
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 44,
+            "id": 7,
+            "sentence": 1,
+            "text": "sich",
+            "word": 8
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 48,
+            "id": 8,
+            "sentence": 1,
+            "text": "ein",
+            "word": 9
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 59,
+            "id": 9,
+            "sentence": 1,
+            "text": "Doppelmord",
+            "word": 10
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 62,
+            "id": 10,
+            "sentence": 1,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 63,
+            "charEnd": 71,
+            "id": 11,
+            "sentence": 1,
+            "text": "Iserlohn",
+            "word": 12
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 72,
+            "id": 12,
+            "sentence": 1,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 76,
+            "id": 13,
+            "sentence": 2,
+            "text": "Gut",
+            "word": 1
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 81,
+            "id": 14,
+            "sentence": 2,
+            "text": "drei",
+            "word": 2
+        },
+        {
+            "charBegin": 82,
+            "charEnd": 88,
+            "id": 15,
+            "sentence": 2,
+            "text": "Monate",
+            "word": 3
+        },
+        {
+            "charBegin": 89,
+            "charEnd": 95,
+            "id": 16,
+            "sentence": 2,
+            "text": "später",
+            "word": 4
+        },
+        {
+            "charBegin": 96,
+            "charEnd": 99,
+            "id": 17,
+            "sentence": 2,
+            "text": "hat",
+            "word": 5
+        },
+        {
+            "charBegin": 100,
+            "charEnd": 103,
+            "id": 18,
+            "sentence": 2,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 104,
+            "charEnd": 111,
+            "id": 19,
+            "sentence": 2,
+            "text": "Polizei",
+            "word": 7
+        },
+        {
+            "charBegin": 112,
+            "charEnd": 114,
+            "id": 20,
+            "sentence": 2,
+            "text": "am",
+            "word": 8
+        },
+        {
+            "charBegin": 115,
+            "charEnd": 121,
+            "id": 21,
+            "sentence": 2,
+            "text": "Montag",
+            "word": 9
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 127,
+            "id": 22,
+            "sentence": 2,
+            "text": "einen",
+            "word": 10
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 139,
+            "id": 23,
+            "sentence": 2,
+            "text": "38-jährigen",
+            "word": 11
+        },
+        {
+            "charBegin": 140,
+            "charEnd": 144,
+            "id": 24,
+            "sentence": 2,
+            "text": "Mann",
+            "word": 12
+        },
+        {
+            "charBegin": 145,
+            "charEnd": 155,
+            "id": 25,
+            "sentence": 2,
+            "text": "türkischer",
+            "word": 13
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 175,
+            "id": 26,
+            "sentence": 2,
+            "text": "Staatsangehörigkeit",
+            "word": 14
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 185,
+            "id": 27,
+            "sentence": 2,
+            "text": "verhaftet",
+            "word": 15
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 186,
+            "id": 28,
+            "sentence": 2,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 189,
+            "id": 29,
+            "sentence": 3,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 190,
+            "charEnd": 198,
+            "id": 30,
+            "sentence": 3,
+            "text": "befindet",
+            "word": 2
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 203,
+            "id": 31,
+            "sentence": 3,
+            "text": "sich",
+            "word": 3
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 211,
+            "id": 32,
+            "sentence": 3,
+            "text": "derzeit",
+            "word": 4
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 214,
+            "id": 33,
+            "sentence": 3,
+            "text": "im",
+            "word": 5
+        },
+        {
+            "charBegin": 215,
+            "charEnd": 237,
+            "id": 34,
+            "sentence": 3,
+            "text": "Untersuchungsgefängnis",
+            "word": 6
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 238,
+            "id": 35,
+            "sentence": 3,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 244,
+            "id": 36,
+            "sentence": 4,
+            "text": "Kurz",
+            "word": 1
+        },
+        {
+            "charBegin": 245,
+            "charEnd": 249,
+            "id": 37,
+            "sentence": 4,
+            "text": "nach",
+            "word": 2
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 253,
+            "id": 38,
+            "sentence": 4,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 254,
+            "charEnd": 257,
+            "id": 39,
+            "sentence": 4,
+            "text": "Tat",
+            "word": 4
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 264,
+            "id": 40,
+            "sentence": 4,
+            "text": "wurden",
+            "word": 5
+        },
+        {
+            "charBegin": 265,
+            "charEnd": 271,
+            "id": 41,
+            "sentence": 4,
+            "text": "Anfang",
+            "word": 6
+        },
+        {
+            "charBegin": 272,
+            "charEnd": 278,
+            "id": 42,
+            "sentence": 4,
+            "text": "Januar",
+            "word": 7
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 283,
+            "id": 43,
+            "sentence": 4,
+            "text": "drei",
+            "word": 8
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 298,
+            "id": 44,
+            "sentence": 4,
+            "text": "Tatverdächtige",
+            "word": 9
+        },
+        {
+            "charBegin": 299,
+            "charEnd": 308,
+            "id": 45,
+            "sentence": 4,
+            "text": "verhaftet",
+            "word": 10
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 309,
+            "id": 46,
+            "sentence": 4,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 310,
+            "charEnd": 313,
+            "id": 47,
+            "sentence": 4,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 320,
+            "id": 48,
+            "sentence": 4,
+            "text": "jedoch",
+            "word": 13
+        },
+        {
+            "charBegin": 321,
+            "charEnd": 327,
+            "id": 49,
+            "sentence": 4,
+            "text": "wieder",
+            "word": 14
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 340,
+            "id": 50,
+            "sentence": 4,
+            "text": "freigelassen",
+            "word": 15
+        },
+        {
+            "charBegin": 341,
+            "charEnd": 347,
+            "id": 51,
+            "sentence": 4,
+            "text": "werden",
+            "word": 16
+        },
+        {
+            "charBegin": 348,
+            "charEnd": 355,
+            "id": 52,
+            "sentence": 4,
+            "text": "mussten",
+            "word": 17
+        },
+        {
+            "charBegin": 355,
+            "charEnd": 356,
+            "id": 53,
+            "sentence": 4,
+            "text": ",",
+            "word": 18
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 361,
+            "id": 54,
+            "sentence": 4,
+            "text": "weil",
+            "word": 19
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 365,
+            "id": 55,
+            "sentence": 4,
+            "text": "sie",
+            "word": 20
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 369,
+            "id": 56,
+            "sentence": 4,
+            "text": "für",
+            "word": 21
+        },
+        {
+            "charBegin": 370,
+            "charEnd": 373,
+            "id": 57,
+            "sentence": 4,
+            "text": "die",
+            "word": 22
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 381,
+            "id": 58,
+            "sentence": 4,
+            "text": "Tatzeit",
+            "word": 23
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 385,
+            "id": 59,
+            "sentence": 4,
+            "text": "ein",
+            "word": 24
+        },
+        {
+            "charBegin": 386,
+            "charEnd": 391,
+            "id": 60,
+            "sentence": 4,
+            "text": "Alibi",
+            "word": 25
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 401,
+            "id": 61,
+            "sentence": 4,
+            "text": "vorweisen",
+            "word": 26
+        },
+        {
+            "charBegin": 402,
+            "charEnd": 409,
+            "id": 62,
+            "sentence": 4,
+            "text": "konnten",
+            "word": 27
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 410,
+            "id": 63,
+            "sentence": 4,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 415,
+            "id": 64,
+            "sentence": 5,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 424,
+            "id": 65,
+            "sentence": 5,
+            "text": "Dienstag",
+            "word": 2
+        },
+        {
+            "charBegin": 425,
+            "charEnd": 433,
+            "id": 66,
+            "sentence": 5,
+            "text": "erklärte",
+            "word": 3
+        },
+        {
+            "charBegin": 434,
+            "charEnd": 437,
+            "id": 67,
+            "sentence": 5,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 456,
+            "id": 68,
+            "sentence": 5,
+            "text": "Staatsanwaltschaft",
+            "word": 5
+        },
+        {
+            "charBegin": 457,
+            "charEnd": 460,
+            "id": 69,
+            "sentence": 5,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 466,
+            "id": 70,
+            "sentence": 5,
+            "text": "einer",
+            "word": 7
+        },
+        {
+            "charBegin": 467,
+            "charEnd": 482,
+            "id": 71,
+            "sentence": 5,
+            "text": "Pressekonferenz",
+            "word": 8
+        },
+        {
+            "charBegin": 483,
+            "charEnd": 485,
+            "id": 72,
+            "sentence": 5,
+            "text": "in",
+            "word": 9
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 494,
+            "id": 73,
+            "sentence": 5,
+            "text": "Iserlohn",
+            "word": 10
+        },
+        {
+            "charBegin": 495,
+            "charEnd": 498,
+            "id": 74,
+            "sentence": 5,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 499,
+            "charEnd": 511,
+            "id": 75,
+            "sentence": 5,
+            "text": "Hintergründe",
+            "word": 12
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 515,
+            "id": 76,
+            "sentence": 5,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 516,
+            "charEnd": 526,
+            "id": 77,
+            "sentence": 5,
+            "text": "Verhaftung",
+            "word": 14
+        },
+        {
+            "charBegin": 526,
+            "charEnd": 527,
+            "id": 78,
+            "sentence": 5,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 528,
+            "charEnd": 531,
+            "id": 79,
+            "sentence": 6,
+            "text": "Bei",
+            "word": 1
+        },
+        {
+            "charBegin": 532,
+            "charEnd": 535,
+            "id": 80,
+            "sentence": 6,
+            "text": "dem",
+            "word": 2
+        },
+        {
+            "charBegin": 536,
+            "charEnd": 540,
+            "id": 81,
+            "sentence": 6,
+            "text": "Mann",
+            "word": 3
+        },
+        {
+            "charBegin": 541,
+            "charEnd": 548,
+            "id": 82,
+            "sentence": 6,
+            "text": "handelt",
+            "word": 4
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 551,
+            "id": 83,
+            "sentence": 6,
+            "text": "es",
+            "word": 5
+        },
+        {
+            "charBegin": 552,
+            "charEnd": 556,
+            "id": 84,
+            "sentence": 6,
+            "text": "sich",
+            "word": 6
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 568,
+            "id": 85,
+            "sentence": 6,
+            "text": "tatsächlich",
+            "word": 7
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 571,
+            "id": 86,
+            "sentence": 6,
+            "text": "um",
+            "word": 8
+        },
+        {
+            "charBegin": 572,
+            "charEnd": 577,
+            "id": 87,
+            "sentence": 6,
+            "text": "einen",
+            "word": 9
+        },
+        {
+            "charBegin": 578,
+            "charEnd": 581,
+            "id": 88,
+            "sentence": 6,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 586,
+            "id": 89,
+            "sentence": 6,
+            "text": "drei",
+            "word": 11
+        },
+        {
+            "charBegin": 587,
+            "charEnd": 593,
+            "id": 90,
+            "sentence": 6,
+            "text": "Männer",
+            "word": 12
+        },
+        {
+            "charBegin": 593,
+            "charEnd": 594,
+            "id": 91,
+            "sentence": 6,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 595,
+            "charEnd": 598,
+            "id": 92,
+            "sentence": 6,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 599,
+            "charEnd": 606,
+            "id": 93,
+            "sentence": 6,
+            "text": "bereits",
+            "word": 15
+        },
+        {
+            "charBegin": 607,
+            "charEnd": 609,
+            "id": 94,
+            "sentence": 6,
+            "text": "im",
+            "word": 16
+        },
+        {
+            "charBegin": 610,
+            "charEnd": 616,
+            "id": 95,
+            "sentence": 6,
+            "text": "Januar",
+            "word": 17
+        },
+        {
+            "charBegin": 617,
+            "charEnd": 630,
+            "id": 96,
+            "sentence": 6,
+            "text": "tatverdächtig",
+            "word": 18
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 636,
+            "id": 97,
+            "sentence": 6,
+            "text": "waren",
+            "word": 19
+        },
+        {
+            "charBegin": 636,
+            "charEnd": 637,
+            "id": 98,
+            "sentence": 6,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 638,
+            "charEnd": 641,
+            "id": 99,
+            "sentence": 7,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 647,
+            "id": 100,
+            "sentence": 7,
+            "text": "Motiv",
+            "word": 2
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 651,
+            "id": 101,
+            "sentence": 7,
+            "text": "für",
+            "word": 3
+        },
+        {
+            "charBegin": 652,
+            "charEnd": 655,
+            "id": 102,
+            "sentence": 7,
+            "text": "den",
+            "word": 4
+        },
+        {
+            "charBegin": 656,
+            "charEnd": 666,
+            "id": 103,
+            "sentence": 7,
+            "text": "Doppelmord",
+            "word": 5
+        },
+        {
+            "charBegin": 667,
+            "charEnd": 671,
+            "id": 104,
+            "sentence": 7,
+            "text": "soll",
+            "word": 6
+        },
+        {
+            "charBegin": 672,
+            "charEnd": 676,
+            "id": 105,
+            "sentence": 7,
+            "text": "eine",
+            "word": 7
+        },
+        {
+            "charBegin": 677,
+            "charEnd": 685,
+            "id": 106,
+            "sentence": 7,
+            "text": "Kränkung",
+            "word": 8
+        },
+        {
+            "charBegin": 686,
+            "charEnd": 689,
+            "id": 107,
+            "sentence": 7,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 690,
+            "charEnd": 702,
+            "id": 108,
+            "sentence": 7,
+            "text": "Familienehre",
+            "word": 10
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 707,
+            "id": 109,
+            "sentence": 7,
+            "text": "sein",
+            "word": 11
+        },
+        {
+            "charBegin": 707,
+            "charEnd": 708,
+            "id": 110,
+            "sentence": 7,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 711,
+            "charEnd": 722,
+            "id": 111,
+            "sentence": 8,
+            "text": "Wochenlange",
+            "word": 1
+        },
+        {
+            "charBegin": 723,
+            "charEnd": 735,
+            "id": 112,
+            "sentence": 8,
+            "text": "Ermittlungen",
+            "word": 2
+        },
+        {
+            "charBegin": 736,
+            "charEnd": 741,
+            "id": 113,
+            "sentence": 8,
+            "text": "haben",
+            "word": 3
+        },
+        {
+            "charBegin": 742,
+            "charEnd": 747,
+            "id": 114,
+            "sentence": 8,
+            "text": "jetzt",
+            "word": 4
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 750,
+            "id": 115,
+            "sentence": 8,
+            "text": "zu",
+            "word": 5
+        },
+        {
+            "charBegin": 751,
+            "charEnd": 756,
+            "id": 116,
+            "sentence": 8,
+            "text": "einem",
+            "word": 6
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 765,
+            "id": 117,
+            "sentence": 8,
+            "text": "Ergebnis",
+            "word": 7
+        },
+        {
+            "charBegin": 766,
+            "charEnd": 773,
+            "id": 118,
+            "sentence": 8,
+            "text": "geführt",
+            "word": 8
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 774,
+            "id": 119,
+            "sentence": 8,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 777,
+            "id": 120,
+            "sentence": 9,
+            "text": "So",
+            "word": 1
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 784,
+            "id": 121,
+            "sentence": 9,
+            "text": "konnte",
+            "word": 2
+        },
+        {
+            "charBegin": 785,
+            "charEnd": 788,
+            "id": 122,
+            "sentence": 9,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 789,
+            "charEnd": 796,
+            "id": 123,
+            "sentence": 9,
+            "text": "Polizei",
+            "word": 4
+        },
+        {
+            "charBegin": 797,
+            "charEnd": 801,
+            "id": 124,
+            "sentence": 9,
+            "text": "nach",
+            "word": 5
+        },
+        {
+            "charBegin": 802,
+            "charEnd": 805,
+            "id": 125,
+            "sentence": 9,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 806,
+            "charEnd": 810,
+            "id": 126,
+            "sentence": 9,
+            "text": "nach",
+            "word": 7
+        },
+        {
+            "charBegin": 811,
+            "charEnd": 814,
+            "id": 127,
+            "sentence": 9,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 815,
+            "charEnd": 821,
+            "id": 128,
+            "sentence": 9,
+            "text": "Alibis",
+            "word": 9
+        },
+        {
+            "charBegin": 822,
+            "charEnd": 825,
+            "id": 129,
+            "sentence": 9,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 826,
+            "charEnd": 830,
+            "id": 130,
+            "sentence": 9,
+            "text": "drei",
+            "word": 11
+        },
+        {
+            "charBegin": 831,
+            "charEnd": 837,
+            "id": 131,
+            "sentence": 9,
+            "text": "Männer",
+            "word": 12
+        },
+        {
+            "charBegin": 838,
+            "charEnd": 849,
+            "id": 132,
+            "sentence": 9,
+            "text": "erschüttern",
+            "word": 13
+        },
+        {
+            "charBegin": 849,
+            "charEnd": 850,
+            "id": 133,
+            "sentence": 9,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 851,
+            "charEnd": 854,
+            "id": 134,
+            "sentence": 10,
+            "text": "Als",
+            "word": 1
+        },
+        {
+            "charBegin": 855,
+            "charEnd": 859,
+            "id": 135,
+            "sentence": 10,
+            "text": "dann",
+            "word": 2
+        },
+        {
+            "charBegin": 860,
+            "charEnd": 864,
+            "id": 136,
+            "sentence": 10,
+            "text": "auch",
+            "word": 3
+        },
+        {
+            "charBegin": 865,
+            "charEnd": 869,
+            "id": 137,
+            "sentence": 10,
+            "text": "noch",
+            "word": 4
+        },
+        {
+            "charBegin": 870,
+            "charEnd": 884,
+            "id": 138,
+            "sentence": 10,
+            "text": "Schmauchspuren",
+            "word": 5
+        },
+        {
+            "charBegin": 885,
+            "charEnd": 887,
+            "id": 139,
+            "sentence": 10,
+            "text": "an",
+            "word": 6
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 891,
+            "id": 140,
+            "sentence": 10,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 892,
+            "charEnd": 898,
+            "id": 141,
+            "sentence": 10,
+            "text": "Opfern",
+            "word": 8
+        },
+        {
+            "charBegin": 899,
+            "charEnd": 902,
+            "id": 142,
+            "sentence": 10,
+            "text": "mit",
+            "word": 9
+        },
+        {
+            "charBegin": 903,
+            "charEnd": 906,
+            "id": 143,
+            "sentence": 10,
+            "text": "den",
+            "word": 10
+        },
+        {
+            "charBegin": 907,
+            "charEnd": 913,
+            "id": 144,
+            "sentence": 10,
+            "text": "Spuren",
+            "word": 11
+        },
+        {
+            "charBegin": 914,
+            "charEnd": 916,
+            "id": 145,
+            "sentence": 10,
+            "text": "an",
+            "word": 12
+        },
+        {
+            "charBegin": 917,
+            "charEnd": 920,
+            "id": 146,
+            "sentence": 10,
+            "text": "dem",
+            "word": 13
+        },
+        {
+            "charBegin": 921,
+            "charEnd": 932,
+            "id": 147,
+            "sentence": 10,
+            "text": "38-jährigen",
+            "word": 14
+        },
+        {
+            "charBegin": 933,
+            "charEnd": 948,
+            "id": 148,
+            "sentence": 10,
+            "text": "übereinstimmten",
+            "word": 15
+        },
+        {
+            "charBegin": 948,
+            "charEnd": 949,
+            "id": 149,
+            "sentence": 10,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 950,
+            "charEnd": 953,
+            "id": 150,
+            "sentence": 10,
+            "text": "war",
+            "word": 17
+        },
+        {
+            "charBegin": 954,
+            "charEnd": 958,
+            "id": 151,
+            "sentence": 10,
+            "text": "sich",
+            "word": 18
+        },
+        {
+            "charBegin": 959,
+            "charEnd": 962,
+            "id": 152,
+            "sentence": 10,
+            "text": "die",
+            "word": 19
+        },
+        {
+            "charBegin": 963,
+            "charEnd": 980,
+            "id": 153,
+            "sentence": 10,
+            "text": "Staatsanwaltschat",
+            "word": 20
+        },
+        {
+            "charBegin": 981,
+            "charEnd": 987,
+            "id": 154,
+            "sentence": 10,
+            "text": "sicher",
+            "word": 21
+        },
+        {
+            "charBegin": 987,
+            "charEnd": 988,
+            "id": 155,
+            "sentence": 10,
+            "text": ",",
+            "word": 22
+        },
+        {
+            "charBegin": 989,
+            "charEnd": 993,
+            "id": 156,
+            "sentence": 10,
+            "text": "dass",
+            "word": 23
+        },
+        {
+            "charBegin": 994,
+            "charEnd": 999,
+            "id": 157,
+            "sentence": 10,
+            "text": "diese",
+            "word": 24
+        },
+        {
+            "charBegin": 1000,
+            "charEnd": 1012,
+            "id": 158,
+            "sentence": 10,
+            "text": "Beweismittel",
+            "word": 25
+        },
+        {
+            "charBegin": 1013,
+            "charEnd": 1016,
+            "id": 159,
+            "sentence": 10,
+            "text": "für",
+            "word": 26
+        },
+        {
+            "charBegin": 1017,
+            "charEnd": 1022,
+            "id": 160,
+            "sentence": 10,
+            "text": "einen",
+            "word": 27
+        },
+        {
+            "charBegin": 1023,
+            "charEnd": 1030,
+            "id": 161,
+            "sentence": 10,
+            "text": "Prozess",
+            "word": 28
+        },
+        {
+            "charBegin": 1031,
+            "charEnd": 1041,
+            "id": 162,
+            "sentence": 10,
+            "text": "ausreichen",
+            "word": 29
+        },
+        {
+            "charBegin": 1042,
+            "charEnd": 1048,
+            "id": 163,
+            "sentence": 10,
+            "text": "würden",
+            "word": 30
+        },
+        {
+            "charBegin": 1048,
+            "charEnd": 1049,
+            "id": 164,
+            "sentence": 10,
+            "text": ".",
+            "word": 31
+        },
+        {
+            "charBegin": 1050,
+            "charEnd": 1053,
+            "id": 165,
+            "sentence": 11,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1054,
+            "charEnd": 1064,
+            "id": 166,
+            "sentence": 11,
+            "text": "38-Jährige",
+            "word": 2
+        },
+        {
+            "charBegin": 1065,
+            "charEnd": 1073,
+            "id": 167,
+            "sentence": 11,
+            "text": "schweigt",
+            "word": 3
+        },
+        {
+            "charBegin": 1074,
+            "charEnd": 1076,
+            "id": 168,
+            "sentence": 11,
+            "text": "zu",
+            "word": 4
+        },
+        {
+            "charBegin": 1077,
+            "charEnd": 1080,
+            "id": 169,
+            "sentence": 11,
+            "text": "den",
+            "word": 5
+        },
+        {
+            "charBegin": 1081,
+            "charEnd": 1090,
+            "id": 170,
+            "sentence": 11,
+            "text": "Vorwürfen",
+            "word": 6
+        },
+        {
+            "charBegin": 1090,
+            "charEnd": 1091,
+            "id": 171,
+            "sentence": 11,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 1092,
+            "charEnd": 1095,
+            "id": 172,
+            "sentence": 12,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1096,
+            "charEnd": 1105,
+            "id": 173,
+            "sentence": 12,
+            "text": "Mordwaffe",
+            "word": 2
+        },
+        {
+            "charBegin": 1106,
+            "charEnd": 1109,
+            "id": 174,
+            "sentence": 12,
+            "text": "ist",
+            "word": 3
+        },
+        {
+            "charBegin": 1110,
+            "charEnd": 1113,
+            "id": 175,
+            "sentence": 12,
+            "text": "bis",
+            "word": 4
+        },
+        {
+            "charBegin": 1114,
+            "charEnd": 1119,
+            "id": 176,
+            "sentence": 12,
+            "text": "heute",
+            "word": 5
+        },
+        {
+            "charBegin": 1120,
+            "charEnd": 1125,
+            "id": 177,
+            "sentence": 12,
+            "text": "nicht",
+            "word": 6
+        },
+        {
+            "charBegin": 1126,
+            "charEnd": 1137,
+            "id": 178,
+            "sentence": 12,
+            "text": "aufgetaucht",
+            "word": 7
+        },
+        {
+            "charBegin": 1137,
+            "charEnd": 1138,
+            "id": 179,
+            "sentence": 12,
+            "text": ".",
+            "word": 8
+        }
+    ]
+}

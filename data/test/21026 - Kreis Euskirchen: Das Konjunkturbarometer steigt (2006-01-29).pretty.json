@@ -1,0 +1,929 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 4,
+                        "end": 1
+                    }
+                ],
+                "text": "Laut",
+                "tokenIds": [
+                    0
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 80,
+                        "end": 11
+                    }
+                ],
+                "text": "Laut einer Umfrage unter 384 Unternehmen der Industrie- und Handelskammer Aachen",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 11,
+                        "charBegin": 81,
+                        "charEnd": 141,
+                        "end": 20
+                    }
+                ],
+                "text": "blickt die Euskirchener Wirtschaft positiv in das Jahr 2006.",
+                "tokenIds": [
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 1,
+                        "charBegin": 5,
+                        "charEnd": 80,
+                        "end": 11
+                    }
+                ],
+                "text": "einer Umfrage unter 384 Unternehmen der Industrie- und Handelskammer Aachen",
+                "tokenIds": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 20,
+                        "charBegin": 142,
+                        "charEnd": 212,
+                        "end": 31
+                    }
+                ],
+                "text": "Während 33 Prozent der Befragten das Geschäftsklima als gut bezeichen,",
+                "tokenIds": [
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 21,
+                        "charBegin": 150,
+                        "charEnd": 174,
+                        "end": 25
+                    }
+                ],
+                "text": "33 Prozent der Befragten",
+                "tokenIds": [
+                    21,
+                    22,
+                    23,
+                    24
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 31,
+                        "charBegin": 213,
+                        "charEnd": 289,
+                        "end": 41
+                    }
+                ],
+                "text": "berichten nur zwölf Prozent von einer schlechten wirtschaftlichen Situation.",
+                "tokenIds": [
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 33,
+                        "charBegin": 227,
+                        "charEnd": 240,
+                        "end": 35
+                    }
+                ],
+                "text": "zwölf Prozent",
+                "tokenIds": [
+                    33,
+                    34
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 41,
+                        "charBegin": 290,
+                        "charEnd": 355,
+                        "end": 49
+                    }
+                ],
+                "text": "Allerdings planen nur 20 Prozent der Unternehmen Neueinstellungen",
+                "tokenIds": [
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 44,
+                        "charBegin": 312,
+                        "charEnd": 338,
+                        "end": 48
+                    }
+                ],
+                "text": "20 Prozent der Unternehmen",
+                "tokenIds": [
+                    44,
+                    45,
+                    46,
+                    47
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 49,
+                        "charBegin": 356,
+                        "charEnd": 403,
+                        "end": 54
+                    }
+                ],
+                "text": "während 25 Prozent Entlassungen prognostizieren",
+                "tokenIds": [
+                    49,
+                    50,
+                    51,
+                    52,
+                    53
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 50,
+                        "charBegin": 364,
+                        "charEnd": 374,
+                        "end": 52
+                    }
+                ],
+                "text": "25 Prozent",
+                "tokenIds": [
+                    50,
+                    51
+                ]
+            },
+            "type": "Reported"
+        }
+    ],
+    "documentName": "21026 - Kreis Euskirchen: Das Konjunkturbarometer steigt (2006-01-29)",
+    "originalText": "Laut einer Umfrage unter 384 Unternehmen der Industrie- und Handelskammer Aachen blickt die Euskirchener Wirtschaft positiv in das Jahr 2006. Während 33 Prozent der Befragten das Geschäftsklima als gut bezeichen, berichten nur zwölf Prozent von einer schlechten wirtschaftlichen Situation. Allerdings planen nur 20 Prozent der Unternehmen Neueinstellungen während 25 Prozent Entlassungen prognostizieren.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 141,
+            "end": 20,
+            "id": 0,
+            "text": "Laut einer Umfrage unter 384 Unternehmen der Industrie- und Handelskammer Aachen blickt die Euskirchener Wirtschaft positiv in das Jahr 2006. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "tokens": [
+                "Laut",
+                "einer",
+                "Umfrage",
+                "unter",
+                "384",
+                "Unternehmen",
+                "der",
+                "Industrie-",
+                "und",
+                "Handelskammer",
+                "Aachen",
+                "blickt",
+                "die",
+                "Euskirchener",
+                "Wirtschaft",
+                "positiv",
+                "in",
+                "das",
+                "Jahr",
+                "2006."
+            ]
+        },
+        {
+            "begin": 20,
+            "charBegin": 142,
+            "charEnd": 289,
+            "end": 41,
+            "id": 1,
+            "text": "Während 33 Prozent der Befragten das Geschäftsklima als gut bezeichen, berichten nur zwölf Prozent von einer schlechten wirtschaftlichen Situation. ",
+            "tokenIds": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40
+            ],
+            "tokens": [
+                "Während",
+                "33",
+                "Prozent",
+                "der",
+                "Befragten",
+                "das",
+                "Geschäftsklima",
+                "als",
+                "gut",
+                "bezeichen",
+                ",",
+                "berichten",
+                "nur",
+                "zwölf",
+                "Prozent",
+                "von",
+                "einer",
+                "schlechten",
+                "wirtschaftlichen",
+                "Situation",
+                "."
+            ]
+        },
+        {
+            "begin": 41,
+            "charBegin": 290,
+            "charEnd": 404,
+            "end": 55,
+            "id": 2,
+            "text": "Allerdings planen nur 20 Prozent der Unternehmen Neueinstellungen während 25 Prozent Entlassungen prognostizieren.",
+            "tokenIds": [
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "tokens": [
+                "Allerdings",
+                "planen",
+                "nur",
+                "20",
+                "Prozent",
+                "der",
+                "Unternehmen",
+                "Neueinstellungen",
+                "während",
+                "25",
+                "Prozent",
+                "Entlassungen",
+                "prognostizieren",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 4,
+            "id": 0,
+            "sentence": 1,
+            "text": "Laut",
+            "word": 1
+        },
+        {
+            "charBegin": 5,
+            "charEnd": 10,
+            "id": 1,
+            "sentence": 1,
+            "text": "einer",
+            "word": 2
+        },
+        {
+            "charBegin": 11,
+            "charEnd": 18,
+            "id": 2,
+            "sentence": 1,
+            "text": "Umfrage",
+            "word": 3
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 24,
+            "id": 3,
+            "sentence": 1,
+            "text": "unter",
+            "word": 4
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 28,
+            "id": 4,
+            "sentence": 1,
+            "text": "384",
+            "word": 5
+        },
+        {
+            "charBegin": 29,
+            "charEnd": 40,
+            "id": 5,
+            "sentence": 1,
+            "text": "Unternehmen",
+            "word": 6
+        },
+        {
+            "charBegin": 41,
+            "charEnd": 44,
+            "id": 6,
+            "sentence": 1,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 55,
+            "id": 7,
+            "sentence": 1,
+            "text": "Industrie-",
+            "word": 8
+        },
+        {
+            "charBegin": 56,
+            "charEnd": 59,
+            "id": 8,
+            "sentence": 1,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 73,
+            "id": 9,
+            "sentence": 1,
+            "text": "Handelskammer",
+            "word": 10
+        },
+        {
+            "charBegin": 74,
+            "charEnd": 80,
+            "id": 10,
+            "sentence": 1,
+            "text": "Aachen",
+            "word": 11
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 87,
+            "id": 11,
+            "sentence": 1,
+            "text": "blickt",
+            "word": 12
+        },
+        {
+            "charBegin": 88,
+            "charEnd": 91,
+            "id": 12,
+            "sentence": 1,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 92,
+            "charEnd": 104,
+            "id": 13,
+            "sentence": 1,
+            "text": "Euskirchener",
+            "word": 14
+        },
+        {
+            "charBegin": 105,
+            "charEnd": 115,
+            "id": 14,
+            "sentence": 1,
+            "text": "Wirtschaft",
+            "word": 15
+        },
+        {
+            "charBegin": 116,
+            "charEnd": 123,
+            "id": 15,
+            "sentence": 1,
+            "text": "positiv",
+            "word": 16
+        },
+        {
+            "charBegin": 124,
+            "charEnd": 126,
+            "id": 16,
+            "sentence": 1,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 130,
+            "id": 17,
+            "sentence": 1,
+            "text": "das",
+            "word": 18
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 135,
+            "id": 18,
+            "sentence": 1,
+            "text": "Jahr",
+            "word": 19
+        },
+        {
+            "charBegin": 136,
+            "charEnd": 141,
+            "id": 19,
+            "sentence": 1,
+            "text": "2006.",
+            "word": 20
+        },
+        {
+            "charBegin": 142,
+            "charEnd": 149,
+            "id": 20,
+            "sentence": 2,
+            "text": "Während",
+            "word": 1
+        },
+        {
+            "charBegin": 150,
+            "charEnd": 152,
+            "id": 21,
+            "sentence": 2,
+            "text": "33",
+            "word": 2
+        },
+        {
+            "charBegin": 153,
+            "charEnd": 160,
+            "id": 22,
+            "sentence": 2,
+            "text": "Prozent",
+            "word": 3
+        },
+        {
+            "charBegin": 161,
+            "charEnd": 164,
+            "id": 23,
+            "sentence": 2,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 174,
+            "id": 24,
+            "sentence": 2,
+            "text": "Befragten",
+            "word": 5
+        },
+        {
+            "charBegin": 175,
+            "charEnd": 178,
+            "id": 25,
+            "sentence": 2,
+            "text": "das",
+            "word": 6
+        },
+        {
+            "charBegin": 179,
+            "charEnd": 193,
+            "id": 26,
+            "sentence": 2,
+            "text": "Geschäftsklima",
+            "word": 7
+        },
+        {
+            "charBegin": 194,
+            "charEnd": 197,
+            "id": 27,
+            "sentence": 2,
+            "text": "als",
+            "word": 8
+        },
+        {
+            "charBegin": 198,
+            "charEnd": 201,
+            "id": 28,
+            "sentence": 2,
+            "text": "gut",
+            "word": 9
+        },
+        {
+            "charBegin": 202,
+            "charEnd": 211,
+            "id": 29,
+            "sentence": 2,
+            "text": "bezeichen",
+            "word": 10
+        },
+        {
+            "charBegin": 211,
+            "charEnd": 212,
+            "id": 30,
+            "sentence": 2,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 213,
+            "charEnd": 222,
+            "id": 31,
+            "sentence": 2,
+            "text": "berichten",
+            "word": 12
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 226,
+            "id": 32,
+            "sentence": 2,
+            "text": "nur",
+            "word": 13
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 232,
+            "id": 33,
+            "sentence": 2,
+            "text": "zwölf",
+            "word": 14
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 240,
+            "id": 34,
+            "sentence": 2,
+            "text": "Prozent",
+            "word": 15
+        },
+        {
+            "charBegin": 241,
+            "charEnd": 244,
+            "id": 35,
+            "sentence": 2,
+            "text": "von",
+            "word": 16
+        },
+        {
+            "charBegin": 245,
+            "charEnd": 250,
+            "id": 36,
+            "sentence": 2,
+            "text": "einer",
+            "word": 17
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 261,
+            "id": 37,
+            "sentence": 2,
+            "text": "schlechten",
+            "word": 18
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 278,
+            "id": 38,
+            "sentence": 2,
+            "text": "wirtschaftlichen",
+            "word": 19
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 288,
+            "id": 39,
+            "sentence": 2,
+            "text": "Situation",
+            "word": 20
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 289,
+            "id": 40,
+            "sentence": 2,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 300,
+            "id": 41,
+            "sentence": 3,
+            "text": "Allerdings",
+            "word": 1
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 307,
+            "id": 42,
+            "sentence": 3,
+            "text": "planen",
+            "word": 2
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 311,
+            "id": 43,
+            "sentence": 3,
+            "text": "nur",
+            "word": 3
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 314,
+            "id": 44,
+            "sentence": 3,
+            "text": "20",
+            "word": 4
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 322,
+            "id": 45,
+            "sentence": 3,
+            "text": "Prozent",
+            "word": 5
+        },
+        {
+            "charBegin": 323,
+            "charEnd": 326,
+            "id": 46,
+            "sentence": 3,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 327,
+            "charEnd": 338,
+            "id": 47,
+            "sentence": 3,
+            "text": "Unternehmen",
+            "word": 7
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 355,
+            "id": 48,
+            "sentence": 3,
+            "text": "Neueinstellungen",
+            "word": 8
+        },
+        {
+            "charBegin": 356,
+            "charEnd": 363,
+            "id": 49,
+            "sentence": 3,
+            "text": "während",
+            "word": 9
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 366,
+            "id": 50,
+            "sentence": 3,
+            "text": "25",
+            "word": 10
+        },
+        {
+            "charBegin": 367,
+            "charEnd": 374,
+            "id": 51,
+            "sentence": 3,
+            "text": "Prozent",
+            "word": 11
+        },
+        {
+            "charBegin": 375,
+            "charEnd": 387,
+            "id": 52,
+            "sentence": 3,
+            "text": "Entlassungen",
+            "word": 12
+        },
+        {
+            "charBegin": 388,
+            "charEnd": 403,
+            "id": 53,
+            "sentence": 3,
+            "text": "prognostizieren",
+            "word": 13
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 404,
+            "id": 54,
+            "sentence": 3,
+            "text": ".",
+            "word": 14
+        }
+    ]
+}

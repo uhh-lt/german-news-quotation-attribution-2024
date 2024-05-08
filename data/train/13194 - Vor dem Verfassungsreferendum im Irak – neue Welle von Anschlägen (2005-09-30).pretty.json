@@ -1,0 +1,2318 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 181,
+                        "charBegin": 1188,
+                        "charEnd": 1194,
+                        "end": 182
+                    },
+                    {
+                        "begin": 191,
+                        "charBegin": 1271,
+                        "charEnd": 1299,
+                        "end": 194
+                    }
+                ],
+                "text": "halten für immer unwahrscheinlicher",
+                "tokenIds": [
+                    181,
+                    191,
+                    192,
+                    193
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 177,
+                        "charBegin": 1152,
+                        "charEnd": 1300,
+                        "end": 195
+                    }
+                ],
+                "text": "Unter den gegenwärtigen Bedingungen halten die Befehlshaber der US-Streitkräfte einen vorzeitigen Abzug der US-Truppen für immer unwahrscheinlicher,",
+                "tokenIds": [
+                    177,
+                    178,
+                    179,
+                    180,
+                    181,
+                    182,
+                    183,
+                    184,
+                    185,
+                    186,
+                    187,
+                    188,
+                    189,
+                    190,
+                    191,
+                    192,
+                    193,
+                    194
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 195,
+                        "charBegin": 1301,
+                        "charEnd": 1379,
+                        "end": 207
+                    }
+                ],
+                "text": "da die irakische Armee und Polizei ihren Aufgaben offenbar nicht gewachsen sei",
+                "tokenIds": [
+                    195,
+                    196,
+                    197,
+                    198,
+                    199,
+                    200,
+                    201,
+                    202,
+                    203,
+                    204,
+                    205,
+                    206
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 182,
+                        "charBegin": 1195,
+                        "charEnd": 1231,
+                        "end": 186
+                    }
+                ],
+                "text": "die Befehlshaber der US-Streitkräfte",
+                "tokenIds": [
+                    182,
+                    183,
+                    184,
+                    185
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "13194 - Vor dem Verfassungsreferendum im Irak – neue Welle von Anschlägen (2005-09-30)",
+    "originalText": "Die in zwei Wochen anstehende Abstimmung über die neue Verfassung bildet den Hintergrund für eine Welle neuer Anschläge im Irak. Innerhalb weniger Stunden starben 150 Menschen durch Terroranschläge.\n\nIn Hilla, einer hauptsächlich von Schiiten bewohnten Stadt südlich von Bagdad, starben zwölf Menschen durch eine Bombe, die auf einem Gemüsemarkt gezündet worden war. Dabei wurden 47 Menschen verletzt.\n\nIn Balad, das ebenfalls mehrheitlich von Schiiten bewohnt wird und etwa 90 Kilometer nördlich von Bagdad liegt, explodierten bereits am Donnerstagabend vier Autobomben und töteten 98 Menschen. Die Bomben waren so eingestellt, dass sie unter den Besuchern eines Marktes am Abend möglichst viele Opfer erreichen sollte. Die Krankenhäuser waren durch die insgesamt 119 Verletzten völlig überfordert, so dass Kapazitäten in Bagdader Krankenhäusern genutzt werden mussten.\n\nDie Ausrichtung der Attentate auf schiitische Gebiete ist offenbar Bestandteil eines Kalküls. Die sunnitische Minderheit fühlt sich bei dem vorliegenden Verfassungsentwurf benachteiligt, da sie alle Privilegien, die sie unter der Herrschaft Saddams genossen hatte, verloren hat.\n\nUnter den gegenwärtigen Bedingungen halten die Befehlshaber der US-Streitkräfte einen vorzeitigen Abzug der US-Truppen für immer unwahrscheinlicher, da die irakische Armee und Polizei ihren Aufgaben offenbar nicht gewachsen sei.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 128,
+            "end": 21,
+            "id": 0,
+            "text": "Die in zwei Wochen anstehende Abstimmung über die neue Verfassung bildet den Hintergrund für eine Welle neuer Anschläge im Irak. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "Die",
+                "in",
+                "zwei",
+                "Wochen",
+                "anstehende",
+                "Abstimmung",
+                "über",
+                "die",
+                "neue",
+                "Verfassung",
+                "bildet",
+                "den",
+                "Hintergrund",
+                "für",
+                "eine",
+                "Welle",
+                "neuer",
+                "Anschläge",
+                "im",
+                "Irak",
+                "."
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 129,
+            "charEnd": 198,
+            "end": 30,
+            "id": 1,
+            "text": "Innerhalb weniger Stunden starben 150 Menschen durch Terroranschläge.",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "tokens": [
+                "Innerhalb",
+                "weniger",
+                "Stunden",
+                "starben",
+                "150",
+                "Menschen",
+                "durch",
+                "Terroranschläge",
+                "."
+            ]
+        },
+        {
+            "begin": 30,
+            "charBegin": 200,
+            "charEnd": 366,
+            "end": 58,
+            "id": 2,
+            "text": "In Hilla, einer hauptsächlich von Schiiten bewohnten Stadt südlich von Bagdad, starben zwölf Menschen durch eine Bombe, die auf einem Gemüsemarkt gezündet worden war. ",
+            "tokenIds": [
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57
+            ],
+            "tokens": [
+                "In",
+                "Hilla",
+                ",",
+                "einer",
+                "hauptsächlich",
+                "von",
+                "Schiiten",
+                "bewohnten",
+                "Stadt",
+                "südlich",
+                "von",
+                "Bagdad",
+                ",",
+                "starben",
+                "zwölf",
+                "Menschen",
+                "durch",
+                "eine",
+                "Bombe",
+                ",",
+                "die",
+                "auf",
+                "einem",
+                "Gemüsemarkt",
+                "gezündet",
+                "worden",
+                "war",
+                "."
+            ]
+        },
+        {
+            "begin": 58,
+            "charBegin": 367,
+            "charEnd": 401,
+            "end": 64,
+            "id": 3,
+            "text": "Dabei wurden 47 Menschen verletzt.",
+            "tokenIds": [
+                58,
+                59,
+                60,
+                61,
+                62,
+                63
+            ],
+            "tokens": [
+                "Dabei",
+                "wurden",
+                "47",
+                "Menschen",
+                "verletzt",
+                "."
+            ]
+        },
+        {
+            "begin": 64,
+            "charBegin": 403,
+            "charEnd": 595,
+            "end": 94,
+            "id": 4,
+            "text": "In Balad, das ebenfalls mehrheitlich von Schiiten bewohnt wird und etwa 90 Kilometer nördlich von Bagdad liegt, explodierten bereits am Donnerstagabend vier Autobomben und töteten 98 Menschen. ",
+            "tokenIds": [
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93
+            ],
+            "tokens": [
+                "In",
+                "Balad",
+                ",",
+                "das",
+                "ebenfalls",
+                "mehrheitlich",
+                "von",
+                "Schiiten",
+                "bewohnt",
+                "wird",
+                "und",
+                "etwa",
+                "90",
+                "Kilometer",
+                "nördlich",
+                "von",
+                "Bagdad",
+                "liegt",
+                ",",
+                "explodierten",
+                "bereits",
+                "am",
+                "Donnerstagabend",
+                "vier",
+                "Autobomben",
+                "und",
+                "töteten",
+                "98",
+                "Menschen",
+                "."
+            ]
+        },
+        {
+            "begin": 94,
+            "charBegin": 596,
+            "charEnd": 720,
+            "end": 115,
+            "id": 5,
+            "text": "Die Bomben waren so eingestellt, dass sie unter den Besuchern eines Marktes am Abend möglichst viele Opfer erreichen sollte. ",
+            "tokenIds": [
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114
+            ],
+            "tokens": [
+                "Die",
+                "Bomben",
+                "waren",
+                "so",
+                "eingestellt",
+                ",",
+                "dass",
+                "sie",
+                "unter",
+                "den",
+                "Besuchern",
+                "eines",
+                "Marktes",
+                "am",
+                "Abend",
+                "möglichst",
+                "viele",
+                "Opfer",
+                "erreichen",
+                "sollte",
+                "."
+            ]
+        },
+        {
+            "begin": 115,
+            "charBegin": 721,
+            "charEnd": 870,
+            "end": 136,
+            "id": 6,
+            "text": "Die Krankenhäuser waren durch die insgesamt 119 Verletzten völlig überfordert, so dass Kapazitäten in Bagdader Krankenhäusern genutzt werden mussten.",
+            "tokenIds": [
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135
+            ],
+            "tokens": [
+                "Die",
+                "Krankenhäuser",
+                "waren",
+                "durch",
+                "die",
+                "insgesamt",
+                "119",
+                "Verletzten",
+                "völlig",
+                "überfordert",
+                ",",
+                "so",
+                "dass",
+                "Kapazitäten",
+                "in",
+                "Bagdader",
+                "Krankenhäusern",
+                "genutzt",
+                "werden",
+                "mussten",
+                "."
+            ]
+        },
+        {
+            "begin": 136,
+            "charBegin": 872,
+            "charEnd": 965,
+            "end": 149,
+            "id": 7,
+            "text": "Die Ausrichtung der Attentate auf schiitische Gebiete ist offenbar Bestandteil eines Kalküls. ",
+            "tokenIds": [
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148
+            ],
+            "tokens": [
+                "Die",
+                "Ausrichtung",
+                "der",
+                "Attentate",
+                "auf",
+                "schiitische",
+                "Gebiete",
+                "ist",
+                "offenbar",
+                "Bestandteil",
+                "eines",
+                "Kalküls",
+                "."
+            ]
+        },
+        {
+            "begin": 149,
+            "charBegin": 966,
+            "charEnd": 1150,
+            "end": 177,
+            "id": 8,
+            "text": "Die sunnitische Minderheit fühlt sich bei dem vorliegenden Verfassungsentwurf benachteiligt, da sie alle Privilegien, die sie unter der Herrschaft Saddams genossen hatte, verloren hat.",
+            "tokenIds": [
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176
+            ],
+            "tokens": [
+                "Die",
+                "sunnitische",
+                "Minderheit",
+                "fühlt",
+                "sich",
+                "bei",
+                "dem",
+                "vorliegenden",
+                "Verfassungsentwurf",
+                "benachteiligt",
+                ",",
+                "da",
+                "sie",
+                "alle",
+                "Privilegien",
+                ",",
+                "die",
+                "sie",
+                "unter",
+                "der",
+                "Herrschaft",
+                "Saddams",
+                "genossen",
+                "hatte",
+                ",",
+                "verloren",
+                "hat",
+                "."
+            ]
+        },
+        {
+            "begin": 177,
+            "charBegin": 1152,
+            "charEnd": 1380,
+            "end": 208,
+            "id": 9,
+            "text": "Unter den gegenwärtigen Bedingungen halten die Befehlshaber der US-Streitkräfte einen vorzeitigen Abzug der US-Truppen für immer unwahrscheinlicher, da die irakische Armee und Polizei ihren Aufgaben offenbar nicht gewachsen sei.",
+            "tokenIds": [
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207
+            ],
+            "tokens": [
+                "Unter",
+                "den",
+                "gegenwärtigen",
+                "Bedingungen",
+                "halten",
+                "die",
+                "Befehlshaber",
+                "der",
+                "US-Streitkräfte",
+                "einen",
+                "vorzeitigen",
+                "Abzug",
+                "der",
+                "US-Truppen",
+                "für",
+                "immer",
+                "unwahrscheinlicher",
+                ",",
+                "da",
+                "die",
+                "irakische",
+                "Armee",
+                "und",
+                "Polizei",
+                "ihren",
+                "Aufgaben",
+                "offenbar",
+                "nicht",
+                "gewachsen",
+                "sei",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 6,
+            "id": 1,
+            "sentence": 1,
+            "text": "in",
+            "word": 2
+        },
+        {
+            "charBegin": 7,
+            "charEnd": 11,
+            "id": 2,
+            "sentence": 1,
+            "text": "zwei",
+            "word": 3
+        },
+        {
+            "charBegin": 12,
+            "charEnd": 18,
+            "id": 3,
+            "sentence": 1,
+            "text": "Wochen",
+            "word": 4
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 29,
+            "id": 4,
+            "sentence": 1,
+            "text": "anstehende",
+            "word": 5
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 40,
+            "id": 5,
+            "sentence": 1,
+            "text": "Abstimmung",
+            "word": 6
+        },
+        {
+            "charBegin": 41,
+            "charEnd": 45,
+            "id": 6,
+            "sentence": 1,
+            "text": "über",
+            "word": 7
+        },
+        {
+            "charBegin": 46,
+            "charEnd": 49,
+            "id": 7,
+            "sentence": 1,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 54,
+            "id": 8,
+            "sentence": 1,
+            "text": "neue",
+            "word": 9
+        },
+        {
+            "charBegin": 55,
+            "charEnd": 65,
+            "id": 9,
+            "sentence": 1,
+            "text": "Verfassung",
+            "word": 10
+        },
+        {
+            "charBegin": 66,
+            "charEnd": 72,
+            "id": 10,
+            "sentence": 1,
+            "text": "bildet",
+            "word": 11
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 76,
+            "id": 11,
+            "sentence": 1,
+            "text": "den",
+            "word": 12
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 88,
+            "id": 12,
+            "sentence": 1,
+            "text": "Hintergrund",
+            "word": 13
+        },
+        {
+            "charBegin": 89,
+            "charEnd": 92,
+            "id": 13,
+            "sentence": 1,
+            "text": "für",
+            "word": 14
+        },
+        {
+            "charBegin": 93,
+            "charEnd": 97,
+            "id": 14,
+            "sentence": 1,
+            "text": "eine",
+            "word": 15
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 103,
+            "id": 15,
+            "sentence": 1,
+            "text": "Welle",
+            "word": 16
+        },
+        {
+            "charBegin": 104,
+            "charEnd": 109,
+            "id": 16,
+            "sentence": 1,
+            "text": "neuer",
+            "word": 17
+        },
+        {
+            "charBegin": 110,
+            "charEnd": 119,
+            "id": 17,
+            "sentence": 1,
+            "text": "Anschläge",
+            "word": 18
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 122,
+            "id": 18,
+            "sentence": 1,
+            "text": "im",
+            "word": 19
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 127,
+            "id": 19,
+            "sentence": 1,
+            "text": "Irak",
+            "word": 20
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 128,
+            "id": 20,
+            "sentence": 1,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 129,
+            "charEnd": 138,
+            "id": 21,
+            "sentence": 2,
+            "text": "Innerhalb",
+            "word": 1
+        },
+        {
+            "charBegin": 139,
+            "charEnd": 146,
+            "id": 22,
+            "sentence": 2,
+            "text": "weniger",
+            "word": 2
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 154,
+            "id": 23,
+            "sentence": 2,
+            "text": "Stunden",
+            "word": 3
+        },
+        {
+            "charBegin": 155,
+            "charEnd": 162,
+            "id": 24,
+            "sentence": 2,
+            "text": "starben",
+            "word": 4
+        },
+        {
+            "charBegin": 163,
+            "charEnd": 166,
+            "id": 25,
+            "sentence": 2,
+            "text": "150",
+            "word": 5
+        },
+        {
+            "charBegin": 167,
+            "charEnd": 175,
+            "id": 26,
+            "sentence": 2,
+            "text": "Menschen",
+            "word": 6
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 181,
+            "id": 27,
+            "sentence": 2,
+            "text": "durch",
+            "word": 7
+        },
+        {
+            "charBegin": 182,
+            "charEnd": 197,
+            "id": 28,
+            "sentence": 2,
+            "text": "Terroranschläge",
+            "word": 8
+        },
+        {
+            "charBegin": 197,
+            "charEnd": 198,
+            "id": 29,
+            "sentence": 2,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 202,
+            "id": 30,
+            "sentence": 3,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 208,
+            "id": 31,
+            "sentence": 3,
+            "text": "Hilla",
+            "word": 2
+        },
+        {
+            "charBegin": 208,
+            "charEnd": 209,
+            "id": 32,
+            "sentence": 3,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 215,
+            "id": 33,
+            "sentence": 3,
+            "text": "einer",
+            "word": 4
+        },
+        {
+            "charBegin": 216,
+            "charEnd": 229,
+            "id": 34,
+            "sentence": 3,
+            "text": "hauptsächlich",
+            "word": 5
+        },
+        {
+            "charBegin": 230,
+            "charEnd": 233,
+            "id": 35,
+            "sentence": 3,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 242,
+            "id": 36,
+            "sentence": 3,
+            "text": "Schiiten",
+            "word": 7
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 252,
+            "id": 37,
+            "sentence": 3,
+            "text": "bewohnten",
+            "word": 8
+        },
+        {
+            "charBegin": 253,
+            "charEnd": 258,
+            "id": 38,
+            "sentence": 3,
+            "text": "Stadt",
+            "word": 9
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 266,
+            "id": 39,
+            "sentence": 3,
+            "text": "südlich",
+            "word": 10
+        },
+        {
+            "charBegin": 267,
+            "charEnd": 270,
+            "id": 40,
+            "sentence": 3,
+            "text": "von",
+            "word": 11
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 277,
+            "id": 41,
+            "sentence": 3,
+            "text": "Bagdad",
+            "word": 12
+        },
+        {
+            "charBegin": 277,
+            "charEnd": 278,
+            "id": 42,
+            "sentence": 3,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 286,
+            "id": 43,
+            "sentence": 3,
+            "text": "starben",
+            "word": 14
+        },
+        {
+            "charBegin": 287,
+            "charEnd": 292,
+            "id": 44,
+            "sentence": 3,
+            "text": "zwölf",
+            "word": 15
+        },
+        {
+            "charBegin": 293,
+            "charEnd": 301,
+            "id": 45,
+            "sentence": 3,
+            "text": "Menschen",
+            "word": 16
+        },
+        {
+            "charBegin": 302,
+            "charEnd": 307,
+            "id": 46,
+            "sentence": 3,
+            "text": "durch",
+            "word": 17
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 312,
+            "id": 47,
+            "sentence": 3,
+            "text": "eine",
+            "word": 18
+        },
+        {
+            "charBegin": 313,
+            "charEnd": 318,
+            "id": 48,
+            "sentence": 3,
+            "text": "Bombe",
+            "word": 19
+        },
+        {
+            "charBegin": 318,
+            "charEnd": 319,
+            "id": 49,
+            "sentence": 3,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 323,
+            "id": 50,
+            "sentence": 3,
+            "text": "die",
+            "word": 21
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 327,
+            "id": 51,
+            "sentence": 3,
+            "text": "auf",
+            "word": 22
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 333,
+            "id": 52,
+            "sentence": 3,
+            "text": "einem",
+            "word": 23
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 345,
+            "id": 53,
+            "sentence": 3,
+            "text": "Gemüsemarkt",
+            "word": 24
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 354,
+            "id": 54,
+            "sentence": 3,
+            "text": "gezündet",
+            "word": 25
+        },
+        {
+            "charBegin": 355,
+            "charEnd": 361,
+            "id": 55,
+            "sentence": 3,
+            "text": "worden",
+            "word": 26
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 365,
+            "id": 56,
+            "sentence": 3,
+            "text": "war",
+            "word": 27
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 366,
+            "id": 57,
+            "sentence": 3,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 367,
+            "charEnd": 372,
+            "id": 58,
+            "sentence": 4,
+            "text": "Dabei",
+            "word": 1
+        },
+        {
+            "charBegin": 373,
+            "charEnd": 379,
+            "id": 59,
+            "sentence": 4,
+            "text": "wurden",
+            "word": 2
+        },
+        {
+            "charBegin": 380,
+            "charEnd": 382,
+            "id": 60,
+            "sentence": 4,
+            "text": "47",
+            "word": 3
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 391,
+            "id": 61,
+            "sentence": 4,
+            "text": "Menschen",
+            "word": 4
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 400,
+            "id": 62,
+            "sentence": 4,
+            "text": "verletzt",
+            "word": 5
+        },
+        {
+            "charBegin": 400,
+            "charEnd": 401,
+            "id": 63,
+            "sentence": 4,
+            "text": ".",
+            "word": 6
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 405,
+            "id": 64,
+            "sentence": 5,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 406,
+            "charEnd": 411,
+            "id": 65,
+            "sentence": 5,
+            "text": "Balad",
+            "word": 2
+        },
+        {
+            "charBegin": 411,
+            "charEnd": 412,
+            "id": 66,
+            "sentence": 5,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 416,
+            "id": 67,
+            "sentence": 5,
+            "text": "das",
+            "word": 4
+        },
+        {
+            "charBegin": 417,
+            "charEnd": 426,
+            "id": 68,
+            "sentence": 5,
+            "text": "ebenfalls",
+            "word": 5
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 439,
+            "id": 69,
+            "sentence": 5,
+            "text": "mehrheitlich",
+            "word": 6
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 443,
+            "id": 70,
+            "sentence": 5,
+            "text": "von",
+            "word": 7
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 452,
+            "id": 71,
+            "sentence": 5,
+            "text": "Schiiten",
+            "word": 8
+        },
+        {
+            "charBegin": 453,
+            "charEnd": 460,
+            "id": 72,
+            "sentence": 5,
+            "text": "bewohnt",
+            "word": 9
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 465,
+            "id": 73,
+            "sentence": 5,
+            "text": "wird",
+            "word": 10
+        },
+        {
+            "charBegin": 466,
+            "charEnd": 469,
+            "id": 74,
+            "sentence": 5,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 470,
+            "charEnd": 474,
+            "id": 75,
+            "sentence": 5,
+            "text": "etwa",
+            "word": 12
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 477,
+            "id": 76,
+            "sentence": 5,
+            "text": "90",
+            "word": 13
+        },
+        {
+            "charBegin": 478,
+            "charEnd": 487,
+            "id": 77,
+            "sentence": 5,
+            "text": "Kilometer",
+            "word": 14
+        },
+        {
+            "charBegin": 488,
+            "charEnd": 496,
+            "id": 78,
+            "sentence": 5,
+            "text": "nördlich",
+            "word": 15
+        },
+        {
+            "charBegin": 497,
+            "charEnd": 500,
+            "id": 79,
+            "sentence": 5,
+            "text": "von",
+            "word": 16
+        },
+        {
+            "charBegin": 501,
+            "charEnd": 507,
+            "id": 80,
+            "sentence": 5,
+            "text": "Bagdad",
+            "word": 17
+        },
+        {
+            "charBegin": 508,
+            "charEnd": 513,
+            "id": 81,
+            "sentence": 5,
+            "text": "liegt",
+            "word": 18
+        },
+        {
+            "charBegin": 513,
+            "charEnd": 514,
+            "id": 82,
+            "sentence": 5,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 515,
+            "charEnd": 527,
+            "id": 83,
+            "sentence": 5,
+            "text": "explodierten",
+            "word": 20
+        },
+        {
+            "charBegin": 528,
+            "charEnd": 535,
+            "id": 84,
+            "sentence": 5,
+            "text": "bereits",
+            "word": 21
+        },
+        {
+            "charBegin": 536,
+            "charEnd": 538,
+            "id": 85,
+            "sentence": 5,
+            "text": "am",
+            "word": 22
+        },
+        {
+            "charBegin": 539,
+            "charEnd": 554,
+            "id": 86,
+            "sentence": 5,
+            "text": "Donnerstagabend",
+            "word": 23
+        },
+        {
+            "charBegin": 555,
+            "charEnd": 559,
+            "id": 87,
+            "sentence": 5,
+            "text": "vier",
+            "word": 24
+        },
+        {
+            "charBegin": 560,
+            "charEnd": 570,
+            "id": 88,
+            "sentence": 5,
+            "text": "Autobomben",
+            "word": 25
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 574,
+            "id": 89,
+            "sentence": 5,
+            "text": "und",
+            "word": 26
+        },
+        {
+            "charBegin": 575,
+            "charEnd": 582,
+            "id": 90,
+            "sentence": 5,
+            "text": "töteten",
+            "word": 27
+        },
+        {
+            "charBegin": 583,
+            "charEnd": 585,
+            "id": 91,
+            "sentence": 5,
+            "text": "98",
+            "word": 28
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 594,
+            "id": 92,
+            "sentence": 5,
+            "text": "Menschen",
+            "word": 29
+        },
+        {
+            "charBegin": 594,
+            "charEnd": 595,
+            "id": 93,
+            "sentence": 5,
+            "text": ".",
+            "word": 30
+        },
+        {
+            "charBegin": 596,
+            "charEnd": 599,
+            "id": 94,
+            "sentence": 6,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 600,
+            "charEnd": 606,
+            "id": 95,
+            "sentence": 6,
+            "text": "Bomben",
+            "word": 2
+        },
+        {
+            "charBegin": 607,
+            "charEnd": 612,
+            "id": 96,
+            "sentence": 6,
+            "text": "waren",
+            "word": 3
+        },
+        {
+            "charBegin": 613,
+            "charEnd": 615,
+            "id": 97,
+            "sentence": 6,
+            "text": "so",
+            "word": 4
+        },
+        {
+            "charBegin": 616,
+            "charEnd": 627,
+            "id": 98,
+            "sentence": 6,
+            "text": "eingestellt",
+            "word": 5
+        },
+        {
+            "charBegin": 627,
+            "charEnd": 628,
+            "id": 99,
+            "sentence": 6,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 629,
+            "charEnd": 633,
+            "id": 100,
+            "sentence": 6,
+            "text": "dass",
+            "word": 7
+        },
+        {
+            "charBegin": 634,
+            "charEnd": 637,
+            "id": 101,
+            "sentence": 6,
+            "text": "sie",
+            "word": 8
+        },
+        {
+            "charBegin": 638,
+            "charEnd": 643,
+            "id": 102,
+            "sentence": 6,
+            "text": "unter",
+            "word": 9
+        },
+        {
+            "charBegin": 644,
+            "charEnd": 647,
+            "id": 103,
+            "sentence": 6,
+            "text": "den",
+            "word": 10
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 657,
+            "id": 104,
+            "sentence": 6,
+            "text": "Besuchern",
+            "word": 11
+        },
+        {
+            "charBegin": 658,
+            "charEnd": 663,
+            "id": 105,
+            "sentence": 6,
+            "text": "eines",
+            "word": 12
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 671,
+            "id": 106,
+            "sentence": 6,
+            "text": "Marktes",
+            "word": 13
+        },
+        {
+            "charBegin": 672,
+            "charEnd": 674,
+            "id": 107,
+            "sentence": 6,
+            "text": "am",
+            "word": 14
+        },
+        {
+            "charBegin": 675,
+            "charEnd": 680,
+            "id": 108,
+            "sentence": 6,
+            "text": "Abend",
+            "word": 15
+        },
+        {
+            "charBegin": 681,
+            "charEnd": 690,
+            "id": 109,
+            "sentence": 6,
+            "text": "möglichst",
+            "word": 16
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 696,
+            "id": 110,
+            "sentence": 6,
+            "text": "viele",
+            "word": 17
+        },
+        {
+            "charBegin": 697,
+            "charEnd": 702,
+            "id": 111,
+            "sentence": 6,
+            "text": "Opfer",
+            "word": 18
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 712,
+            "id": 112,
+            "sentence": 6,
+            "text": "erreichen",
+            "word": 19
+        },
+        {
+            "charBegin": 713,
+            "charEnd": 719,
+            "id": 113,
+            "sentence": 6,
+            "text": "sollte",
+            "word": 20
+        },
+        {
+            "charBegin": 719,
+            "charEnd": 720,
+            "id": 114,
+            "sentence": 6,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 724,
+            "id": 115,
+            "sentence": 7,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 725,
+            "charEnd": 738,
+            "id": 116,
+            "sentence": 7,
+            "text": "Krankenhäuser",
+            "word": 2
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 744,
+            "id": 117,
+            "sentence": 7,
+            "text": "waren",
+            "word": 3
+        },
+        {
+            "charBegin": 745,
+            "charEnd": 750,
+            "id": 118,
+            "sentence": 7,
+            "text": "durch",
+            "word": 4
+        },
+        {
+            "charBegin": 751,
+            "charEnd": 754,
+            "id": 119,
+            "sentence": 7,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 764,
+            "id": 120,
+            "sentence": 7,
+            "text": "insgesamt",
+            "word": 6
+        },
+        {
+            "charBegin": 765,
+            "charEnd": 768,
+            "id": 121,
+            "sentence": 7,
+            "text": "119",
+            "word": 7
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 779,
+            "id": 122,
+            "sentence": 7,
+            "text": "Verletzten",
+            "word": 8
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 786,
+            "id": 123,
+            "sentence": 7,
+            "text": "völlig",
+            "word": 9
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 798,
+            "id": 124,
+            "sentence": 7,
+            "text": "überfordert",
+            "word": 10
+        },
+        {
+            "charBegin": 798,
+            "charEnd": 799,
+            "id": 125,
+            "sentence": 7,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 800,
+            "charEnd": 802,
+            "id": 126,
+            "sentence": 7,
+            "text": "so",
+            "word": 12
+        },
+        {
+            "charBegin": 803,
+            "charEnd": 807,
+            "id": 127,
+            "sentence": 7,
+            "text": "dass",
+            "word": 13
+        },
+        {
+            "charBegin": 808,
+            "charEnd": 819,
+            "id": 128,
+            "sentence": 7,
+            "text": "Kapazitäten",
+            "word": 14
+        },
+        {
+            "charBegin": 820,
+            "charEnd": 822,
+            "id": 129,
+            "sentence": 7,
+            "text": "in",
+            "word": 15
+        },
+        {
+            "charBegin": 823,
+            "charEnd": 831,
+            "id": 130,
+            "sentence": 7,
+            "text": "Bagdader",
+            "word": 16
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 846,
+            "id": 131,
+            "sentence": 7,
+            "text": "Krankenhäusern",
+            "word": 17
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 854,
+            "id": 132,
+            "sentence": 7,
+            "text": "genutzt",
+            "word": 18
+        },
+        {
+            "charBegin": 855,
+            "charEnd": 861,
+            "id": 133,
+            "sentence": 7,
+            "text": "werden",
+            "word": 19
+        },
+        {
+            "charBegin": 862,
+            "charEnd": 869,
+            "id": 134,
+            "sentence": 7,
+            "text": "mussten",
+            "word": 20
+        },
+        {
+            "charBegin": 869,
+            "charEnd": 870,
+            "id": 135,
+            "sentence": 7,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 872,
+            "charEnd": 875,
+            "id": 136,
+            "sentence": 8,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 876,
+            "charEnd": 887,
+            "id": 137,
+            "sentence": 8,
+            "text": "Ausrichtung",
+            "word": 2
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 891,
+            "id": 138,
+            "sentence": 8,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 892,
+            "charEnd": 901,
+            "id": 139,
+            "sentence": 8,
+            "text": "Attentate",
+            "word": 4
+        },
+        {
+            "charBegin": 902,
+            "charEnd": 905,
+            "id": 140,
+            "sentence": 8,
+            "text": "auf",
+            "word": 5
+        },
+        {
+            "charBegin": 906,
+            "charEnd": 917,
+            "id": 141,
+            "sentence": 8,
+            "text": "schiitische",
+            "word": 6
+        },
+        {
+            "charBegin": 918,
+            "charEnd": 925,
+            "id": 142,
+            "sentence": 8,
+            "text": "Gebiete",
+            "word": 7
+        },
+        {
+            "charBegin": 926,
+            "charEnd": 929,
+            "id": 143,
+            "sentence": 8,
+            "text": "ist",
+            "word": 8
+        },
+        {
+            "charBegin": 930,
+            "charEnd": 938,
+            "id": 144,
+            "sentence": 8,
+            "text": "offenbar",
+            "word": 9
+        },
+        {
+            "charBegin": 939,
+            "charEnd": 950,
+            "id": 145,
+            "sentence": 8,
+            "text": "Bestandteil",
+            "word": 10
+        },
+        {
+            "charBegin": 951,
+            "charEnd": 956,
+            "id": 146,
+            "sentence": 8,
+            "text": "eines",
+            "word": 11
+        },
+        {
+            "charBegin": 957,
+            "charEnd": 964,
+            "id": 147,
+            "sentence": 8,
+            "text": "Kalküls",
+            "word": 12
+        },
+        {
+            "charBegin": 964,
+            "charEnd": 965,
+            "id": 148,
+            "sentence": 8,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 966,
+            "charEnd": 969,
+            "id": 149,
+            "sentence": 9,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 970,
+            "charEnd": 981,
+            "id": 150,
+            "sentence": 9,
+            "text": "sunnitische",
+            "word": 2
+        },
+        {
+            "charBegin": 982,
+            "charEnd": 992,
+            "id": 151,
+            "sentence": 9,
+            "text": "Minderheit",
+            "word": 3
+        },
+        {
+            "charBegin": 993,
+            "charEnd": 998,
+            "id": 152,
+            "sentence": 9,
+            "text": "fühlt",
+            "word": 4
+        },
+        {
+            "charBegin": 999,
+            "charEnd": 1003,
+            "id": 153,
+            "sentence": 9,
+            "text": "sich",
+            "word": 5
+        },
+        {
+            "charBegin": 1004,
+            "charEnd": 1007,
+            "id": 154,
+            "sentence": 9,
+            "text": "bei",
+            "word": 6
+        },
+        {
+            "charBegin": 1008,
+            "charEnd": 1011,
+            "id": 155,
+            "sentence": 9,
+            "text": "dem",
+            "word": 7
+        },
+        {
+            "charBegin": 1012,
+            "charEnd": 1024,
+            "id": 156,
+            "sentence": 9,
+            "text": "vorliegenden",
+            "word": 8
+        },
+        {
+            "charBegin": 1025,
+            "charEnd": 1043,
+            "id": 157,
+            "sentence": 9,
+            "text": "Verfassungsentwurf",
+            "word": 9
+        },
+        {
+            "charBegin": 1044,
+            "charEnd": 1057,
+            "id": 158,
+            "sentence": 9,
+            "text": "benachteiligt",
+            "word": 10
+        },
+        {
+            "charBegin": 1057,
+            "charEnd": 1058,
+            "id": 159,
+            "sentence": 9,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1059,
+            "charEnd": 1061,
+            "id": 160,
+            "sentence": 9,
+            "text": "da",
+            "word": 12
+        },
+        {
+            "charBegin": 1062,
+            "charEnd": 1065,
+            "id": 161,
+            "sentence": 9,
+            "text": "sie",
+            "word": 13
+        },
+        {
+            "charBegin": 1066,
+            "charEnd": 1070,
+            "id": 162,
+            "sentence": 9,
+            "text": "alle",
+            "word": 14
+        },
+        {
+            "charBegin": 1071,
+            "charEnd": 1082,
+            "id": 163,
+            "sentence": 9,
+            "text": "Privilegien",
+            "word": 15
+        },
+        {
+            "charBegin": 1082,
+            "charEnd": 1083,
+            "id": 164,
+            "sentence": 9,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 1084,
+            "charEnd": 1087,
+            "id": 165,
+            "sentence": 9,
+            "text": "die",
+            "word": 17
+        },
+        {
+            "charBegin": 1088,
+            "charEnd": 1091,
+            "id": 166,
+            "sentence": 9,
+            "text": "sie",
+            "word": 18
+        },
+        {
+            "charBegin": 1092,
+            "charEnd": 1097,
+            "id": 167,
+            "sentence": 9,
+            "text": "unter",
+            "word": 19
+        },
+        {
+            "charBegin": 1098,
+            "charEnd": 1101,
+            "id": 168,
+            "sentence": 9,
+            "text": "der",
+            "word": 20
+        },
+        {
+            "charBegin": 1102,
+            "charEnd": 1112,
+            "id": 169,
+            "sentence": 9,
+            "text": "Herrschaft",
+            "word": 21
+        },
+        {
+            "charBegin": 1113,
+            "charEnd": 1120,
+            "id": 170,
+            "sentence": 9,
+            "text": "Saddams",
+            "word": 22
+        },
+        {
+            "charBegin": 1121,
+            "charEnd": 1129,
+            "id": 171,
+            "sentence": 9,
+            "text": "genossen",
+            "word": 23
+        },
+        {
+            "charBegin": 1130,
+            "charEnd": 1135,
+            "id": 172,
+            "sentence": 9,
+            "text": "hatte",
+            "word": 24
+        },
+        {
+            "charBegin": 1135,
+            "charEnd": 1136,
+            "id": 173,
+            "sentence": 9,
+            "text": ",",
+            "word": 25
+        },
+        {
+            "charBegin": 1137,
+            "charEnd": 1145,
+            "id": 174,
+            "sentence": 9,
+            "text": "verloren",
+            "word": 26
+        },
+        {
+            "charBegin": 1146,
+            "charEnd": 1149,
+            "id": 175,
+            "sentence": 9,
+            "text": "hat",
+            "word": 27
+        },
+        {
+            "charBegin": 1149,
+            "charEnd": 1150,
+            "id": 176,
+            "sentence": 9,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 1152,
+            "charEnd": 1157,
+            "id": 177,
+            "sentence": 10,
+            "text": "Unter",
+            "word": 1
+        },
+        {
+            "charBegin": 1158,
+            "charEnd": 1161,
+            "id": 178,
+            "sentence": 10,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 1162,
+            "charEnd": 1175,
+            "id": 179,
+            "sentence": 10,
+            "text": "gegenwärtigen",
+            "word": 3
+        },
+        {
+            "charBegin": 1176,
+            "charEnd": 1187,
+            "id": 180,
+            "sentence": 10,
+            "text": "Bedingungen",
+            "word": 4
+        },
+        {
+            "charBegin": 1188,
+            "charEnd": 1194,
+            "id": 181,
+            "sentence": 10,
+            "text": "halten",
+            "word": 5
+        },
+        {
+            "charBegin": 1195,
+            "charEnd": 1198,
+            "id": 182,
+            "sentence": 10,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 1199,
+            "charEnd": 1211,
+            "id": 183,
+            "sentence": 10,
+            "text": "Befehlshaber",
+            "word": 7
+        },
+        {
+            "charBegin": 1212,
+            "charEnd": 1215,
+            "id": 184,
+            "sentence": 10,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 1216,
+            "charEnd": 1231,
+            "id": 185,
+            "sentence": 10,
+            "text": "US-Streitkräfte",
+            "word": 9
+        },
+        {
+            "charBegin": 1232,
+            "charEnd": 1237,
+            "id": 186,
+            "sentence": 10,
+            "text": "einen",
+            "word": 10
+        },
+        {
+            "charBegin": 1238,
+            "charEnd": 1249,
+            "id": 187,
+            "sentence": 10,
+            "text": "vorzeitigen",
+            "word": 11
+        },
+        {
+            "charBegin": 1250,
+            "charEnd": 1255,
+            "id": 188,
+            "sentence": 10,
+            "text": "Abzug",
+            "word": 12
+        },
+        {
+            "charBegin": 1256,
+            "charEnd": 1259,
+            "id": 189,
+            "sentence": 10,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 1260,
+            "charEnd": 1270,
+            "id": 190,
+            "sentence": 10,
+            "text": "US-Truppen",
+            "word": 14
+        },
+        {
+            "charBegin": 1271,
+            "charEnd": 1274,
+            "id": 191,
+            "sentence": 10,
+            "text": "für",
+            "word": 15
+        },
+        {
+            "charBegin": 1275,
+            "charEnd": 1280,
+            "id": 192,
+            "sentence": 10,
+            "text": "immer",
+            "word": 16
+        },
+        {
+            "charBegin": 1281,
+            "charEnd": 1299,
+            "id": 193,
+            "sentence": 10,
+            "text": "unwahrscheinlicher",
+            "word": 17
+        },
+        {
+            "charBegin": 1299,
+            "charEnd": 1300,
+            "id": 194,
+            "sentence": 10,
+            "text": ",",
+            "word": 18
+        },
+        {
+            "charBegin": 1301,
+            "charEnd": 1303,
+            "id": 195,
+            "sentence": 10,
+            "text": "da",
+            "word": 19
+        },
+        {
+            "charBegin": 1304,
+            "charEnd": 1307,
+            "id": 196,
+            "sentence": 10,
+            "text": "die",
+            "word": 20
+        },
+        {
+            "charBegin": 1308,
+            "charEnd": 1317,
+            "id": 197,
+            "sentence": 10,
+            "text": "irakische",
+            "word": 21
+        },
+        {
+            "charBegin": 1318,
+            "charEnd": 1323,
+            "id": 198,
+            "sentence": 10,
+            "text": "Armee",
+            "word": 22
+        },
+        {
+            "charBegin": 1324,
+            "charEnd": 1327,
+            "id": 199,
+            "sentence": 10,
+            "text": "und",
+            "word": 23
+        },
+        {
+            "charBegin": 1328,
+            "charEnd": 1335,
+            "id": 200,
+            "sentence": 10,
+            "text": "Polizei",
+            "word": 24
+        },
+        {
+            "charBegin": 1336,
+            "charEnd": 1341,
+            "id": 201,
+            "sentence": 10,
+            "text": "ihren",
+            "word": 25
+        },
+        {
+            "charBegin": 1342,
+            "charEnd": 1350,
+            "id": 202,
+            "sentence": 10,
+            "text": "Aufgaben",
+            "word": 26
+        },
+        {
+            "charBegin": 1351,
+            "charEnd": 1359,
+            "id": 203,
+            "sentence": 10,
+            "text": "offenbar",
+            "word": 27
+        },
+        {
+            "charBegin": 1360,
+            "charEnd": 1365,
+            "id": 204,
+            "sentence": 10,
+            "text": "nicht",
+            "word": 28
+        },
+        {
+            "charBegin": 1366,
+            "charEnd": 1375,
+            "id": 205,
+            "sentence": 10,
+            "text": "gewachsen",
+            "word": 29
+        },
+        {
+            "charBegin": 1376,
+            "charEnd": 1379,
+            "id": 206,
+            "sentence": 10,
+            "text": "sei",
+            "word": 30
+        },
+        {
+            "charBegin": 1379,
+            "charEnd": 1380,
+            "id": 207,
+            "sentence": 10,
+            "text": ".",
+            "word": 31
+        }
+    ]
+}

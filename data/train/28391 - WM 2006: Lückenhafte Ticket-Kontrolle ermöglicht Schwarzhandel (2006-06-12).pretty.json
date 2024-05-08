@@ -1,0 +1,2404 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 2,
+                        "charBegin": 11,
+                        "charEnd": 16,
+                        "end": 3
+                    },
+                    {
+                        "begin": 11,
+                        "charBegin": 86,
+                        "charEnd": 92,
+                        "end": 12
+                    }
+                ],
+                "text": "hatte betont",
+                "tokenIds": [
+                    2,
+                    11
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 93,
+                        "end": 13
+                    }
+                ],
+                "text": "Im Vorfeld hatte das deutsche Organisationskomitee (OK) der Fußball-Weltmeisterschaft betont,",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 13,
+                        "charBegin": 94,
+                        "charEnd": 204,
+                        "end": 27
+                    }
+                ],
+                "text": "dass die personalisierten Eintrittskarten wichtig seien, um jeden Zuschauer eindeutig identifizieren zu können",
+                "tokenIds": [
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 3,
+                        "charBegin": 17,
+                        "charEnd": 85,
+                        "end": 11
+                    }
+                ],
+                "text": "das deutsche Organisationskomitee (OK) der Fußball-Weltmeisterschaft",
+                "tokenIds": [
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 52,
+                        "charBegin": 364,
+                        "charEnd": 375,
+                        "end": 53
+                    }
+                ],
+                "text": "berichteten",
+                "tokenIds": [
+                    52
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 50,
+                        "charBegin": 344,
+                        "charEnd": 376,
+                        "end": 54
+                    }
+                ],
+                "text": "Verschiedene Medien berichteten,",
+                "tokenIds": [
+                    50,
+                    51,
+                    52,
+                    53
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 54,
+                        "charBegin": 377,
+                        "charEnd": 479,
+                        "end": 72
+                    }
+                ],
+                "text": "dass nur bei etwa jedem hundersten Besucher überprüft werde, ob die Karte auch auf ihn registriert sei",
+                "tokenIds": [
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 50,
+                        "charBegin": 344,
+                        "charEnd": 363,
+                        "end": 52
+                    }
+                ],
+                "text": "Verschiedene Medien",
+                "tokenIds": [
+                    50,
+                    51
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 153,
+                        "charBegin": 982,
+                        "charEnd": 993,
+                        "end": 155
+                    }
+                ],
+                "text": "zeigte sich",
+                "tokenIds": [
+                    153,
+                    154
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 145,
+                        "charBegin": 936,
+                        "charEnd": 993,
+                        "end": 155
+                    }
+                ],
+                "text": "Der Vizepräsident des OK, Wolfgang Niersbach, zeigte sich",
+                "tokenIds": [
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154
+                ]
+            },
+            "hasNested": true,
+            "id": 2,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 155,
+                        "charBegin": 994,
+                        "charEnd": 1042,
+                        "end": 166
+                    }
+                ],
+                "text": "„sehr glücklich, wie die WM bisher gelaufen“ sei",
+                "tokenIds": [
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    162,
+                    163,
+                    164,
+                    165
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 153,
+                        "charBegin": 982,
+                        "charEnd": 993,
+                        "end": 155
+                    }
+                ],
+                "text": "zeigte sich",
+                "tokenIds": [
+                    153,
+                    154
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 145,
+                        "charBegin": 936,
+                        "charEnd": 993,
+                        "end": 155
+                    }
+                ],
+                "text": "Der Vizepräsident des OK, Wolfgang Niersbach, zeigte sich",
+                "tokenIds": [
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 155,
+                        "charBegin": 994,
+                        "charEnd": 1038,
+                        "end": 165
+                    }
+                ],
+                "text": "„sehr glücklich, wie die WM bisher gelaufen“",
+                "tokenIds": [
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    162,
+                    163,
+                    164
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 167,
+                        "charBegin": 1044,
+                        "charEnd": 1160,
+                        "end": 187
+                    }
+                ],
+                "text": "Die große Anzahl der Fans aus einzelnen Ländern schreibt er Zufall und Glück bei der Kartenverlosung im Internet zu.",
+                "tokenIds": [
+                    167,
+                    168,
+                    169,
+                    170,
+                    171,
+                    172,
+                    173,
+                    174,
+                    175,
+                    176,
+                    177,
+                    178,
+                    179,
+                    180,
+                    181,
+                    182,
+                    183,
+                    184,
+                    185,
+                    186
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 145,
+                        "charBegin": 936,
+                        "charEnd": 980,
+                        "end": 152
+                    }
+                ],
+                "text": "Der Vizepräsident des OK, Wolfgang Niersbach",
+                "tokenIds": [
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151
+                ]
+            },
+            "type": "Reported"
+        }
+    ],
+    "documentName": "28391 - WM 2006: Lückenhafte Ticket-Kontrolle ermöglicht Schwarzhandel (2006-06-12)",
+    "originalText": "Im Vorfeld hatte das deutsche Organisationskomitee (OK) der Fußball-Weltmeisterschaft betont, dass die personalisierten Eintrittskarten wichtig seien, um jeden Zuschauer eindeutig identifizieren zu können. Doch eine systematische Kontrolle, ob auch wirklich der registrierte Besitzer einer Karte ins Stadion kommt, findet offenbar nicht statt. Verschiedene Medien berichteten, dass nur bei etwa jedem hundersten Besucher überprüft werde, ob die Karte auch auf ihn registriert sei.\n\nKarten, die vermutlich aus den Kontingenten spezialisierter Broker stammten, wurden zu Preisen von bis zu 1.450 Euro schwarz verkauft. So waren die Anteile an schwedischen, polnischen und englischen Fans, die bei den Auftaktspielen ihrer Mannschaften dabei waren, weitaus höher als die eigentlich vorgesehene Quote von acht Prozent. 40.000 polnische Fans in Gelsenkirchen und 20.000 englische Fans in Frankfurt sorgten für den Eindruck von Heimspielen.\n\nDer Vizepräsident des OK, Wolfgang Niersbach, zeigte sich „sehr glücklich, wie die WM bisher gelaufen“ sei. Die große Anzahl der Fans aus einzelnen Ländern schreibt er Zufall und Glück bei der Kartenverlosung im Internet zu.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 205,
+            "end": 28,
+            "id": 0,
+            "text": "Im Vorfeld hatte das deutsche Organisationskomitee (OK) der Fußball-Weltmeisterschaft betont, dass die personalisierten Eintrittskarten wichtig seien, um jeden Zuschauer eindeutig identifizieren zu können. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27
+            ],
+            "tokens": [
+                "Im",
+                "Vorfeld",
+                "hatte",
+                "das",
+                "deutsche",
+                "Organisationskomitee",
+                "(",
+                "OK",
+                ")",
+                "der",
+                "Fußball-Weltmeisterschaft",
+                "betont",
+                ",",
+                "dass",
+                "die",
+                "personalisierten",
+                "Eintrittskarten",
+                "wichtig",
+                "seien",
+                ",",
+                "um",
+                "jeden",
+                "Zuschauer",
+                "eindeutig",
+                "identifizieren",
+                "zu",
+                "können",
+                "."
+            ]
+        },
+        {
+            "begin": 28,
+            "charBegin": 206,
+            "charEnd": 343,
+            "end": 50,
+            "id": 1,
+            "text": "Doch eine systematische Kontrolle, ob auch wirklich der registrierte Besitzer einer Karte ins Stadion kommt, findet offenbar nicht statt. ",
+            "tokenIds": [
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ],
+            "tokens": [
+                "Doch",
+                "eine",
+                "systematische",
+                "Kontrolle",
+                ",",
+                "ob",
+                "auch",
+                "wirklich",
+                "der",
+                "registrierte",
+                "Besitzer",
+                "einer",
+                "Karte",
+                "ins",
+                "Stadion",
+                "kommt",
+                ",",
+                "findet",
+                "offenbar",
+                "nicht",
+                "statt",
+                "."
+            ]
+        },
+        {
+            "begin": 50,
+            "charBegin": 344,
+            "charEnd": 480,
+            "end": 73,
+            "id": 2,
+            "text": "Verschiedene Medien berichteten, dass nur bei etwa jedem hundersten Besucher überprüft werde, ob die Karte auch auf ihn registriert sei.",
+            "tokenIds": [
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72
+            ],
+            "tokens": [
+                "Verschiedene",
+                "Medien",
+                "berichteten",
+                ",",
+                "dass",
+                "nur",
+                "bei",
+                "etwa",
+                "jedem",
+                "hundersten",
+                "Besucher",
+                "überprüft",
+                "werde",
+                ",",
+                "ob",
+                "die",
+                "Karte",
+                "auch",
+                "auf",
+                "ihn",
+                "registriert",
+                "sei",
+                "."
+            ]
+        },
+        {
+            "begin": 73,
+            "charBegin": 482,
+            "charEnd": 616,
+            "end": 95,
+            "id": 3,
+            "text": "Karten, die vermutlich aus den Kontingenten spezialisierter Broker stammten, wurden zu Preisen von bis zu 1.450 Euro schwarz verkauft. ",
+            "tokenIds": [
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94
+            ],
+            "tokens": [
+                "Karten",
+                ",",
+                "die",
+                "vermutlich",
+                "aus",
+                "den",
+                "Kontingenten",
+                "spezialisierter",
+                "Broker",
+                "stammten",
+                ",",
+                "wurden",
+                "zu",
+                "Preisen",
+                "von",
+                "bis",
+                "zu",
+                "1.450",
+                "Euro",
+                "schwarz",
+                "verkauft",
+                "."
+            ]
+        },
+        {
+            "begin": 95,
+            "charBegin": 617,
+            "charEnd": 814,
+            "end": 127,
+            "id": 4,
+            "text": "So waren die Anteile an schwedischen, polnischen und englischen Fans, die bei den Auftaktspielen ihrer Mannschaften dabei waren, weitaus höher als die eigentlich vorgesehene Quote von acht Prozent. ",
+            "tokenIds": [
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126
+            ],
+            "tokens": [
+                "So",
+                "waren",
+                "die",
+                "Anteile",
+                "an",
+                "schwedischen",
+                ",",
+                "polnischen",
+                "und",
+                "englischen",
+                "Fans",
+                ",",
+                "die",
+                "bei",
+                "den",
+                "Auftaktspielen",
+                "ihrer",
+                "Mannschaften",
+                "dabei",
+                "waren",
+                ",",
+                "weitaus",
+                "höher",
+                "als",
+                "die",
+                "eigentlich",
+                "vorgesehene",
+                "Quote",
+                "von",
+                "acht",
+                "Prozent",
+                "."
+            ]
+        },
+        {
+            "begin": 127,
+            "charBegin": 815,
+            "charEnd": 934,
+            "end": 145,
+            "id": 5,
+            "text": "40.000 polnische Fans in Gelsenkirchen und 20.000 englische Fans in Frankfurt sorgten für den Eindruck von Heimspielen.",
+            "tokenIds": [
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144
+            ],
+            "tokens": [
+                "40.000",
+                "polnische",
+                "Fans",
+                "in",
+                "Gelsenkirchen",
+                "und",
+                "20.000",
+                "englische",
+                "Fans",
+                "in",
+                "Frankfurt",
+                "sorgten",
+                "für",
+                "den",
+                "Eindruck",
+                "von",
+                "Heimspielen",
+                "."
+            ]
+        },
+        {
+            "begin": 145,
+            "charBegin": 936,
+            "charEnd": 1043,
+            "end": 167,
+            "id": 6,
+            "text": "Der Vizepräsident des OK, Wolfgang Niersbach, zeigte sich „sehr glücklich, wie die WM bisher gelaufen“ sei. ",
+            "tokenIds": [
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166
+            ],
+            "tokens": [
+                "Der",
+                "Vizepräsident",
+                "des",
+                "OK",
+                ",",
+                "Wolfgang",
+                "Niersbach",
+                ",",
+                "zeigte",
+                "sich",
+                "„",
+                "sehr",
+                "glücklich",
+                ",",
+                "wie",
+                "die",
+                "WM",
+                "bisher",
+                "gelaufen",
+                "“",
+                "sei",
+                "."
+            ]
+        },
+        {
+            "begin": 167,
+            "charBegin": 1044,
+            "charEnd": 1160,
+            "end": 187,
+            "id": 7,
+            "text": "Die große Anzahl der Fans aus einzelnen Ländern schreibt er Zufall und Glück bei der Kartenverlosung im Internet zu.",
+            "tokenIds": [
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186
+            ],
+            "tokens": [
+                "Die",
+                "große",
+                "Anzahl",
+                "der",
+                "Fans",
+                "aus",
+                "einzelnen",
+                "Ländern",
+                "schreibt",
+                "er",
+                "Zufall",
+                "und",
+                "Glück",
+                "bei",
+                "der",
+                "Kartenverlosung",
+                "im",
+                "Internet",
+                "zu",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 10,
+            "id": 1,
+            "sentence": 1,
+            "text": "Vorfeld",
+            "word": 2
+        },
+        {
+            "charBegin": 11,
+            "charEnd": 16,
+            "id": 2,
+            "sentence": 1,
+            "text": "hatte",
+            "word": 3
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 20,
+            "id": 3,
+            "sentence": 1,
+            "text": "das",
+            "word": 4
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 29,
+            "id": 4,
+            "sentence": 1,
+            "text": "deutsche",
+            "word": 5
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 50,
+            "id": 5,
+            "sentence": 1,
+            "text": "Organisationskomitee",
+            "word": 6
+        },
+        {
+            "charBegin": 51,
+            "charEnd": 52,
+            "id": 6,
+            "sentence": 1,
+            "text": "(",
+            "word": 7
+        },
+        {
+            "charBegin": 52,
+            "charEnd": 54,
+            "id": 7,
+            "sentence": 1,
+            "text": "OK",
+            "word": 8
+        },
+        {
+            "charBegin": 54,
+            "charEnd": 55,
+            "id": 8,
+            "sentence": 1,
+            "text": ")",
+            "word": 9
+        },
+        {
+            "charBegin": 56,
+            "charEnd": 59,
+            "id": 9,
+            "sentence": 1,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 85,
+            "id": 10,
+            "sentence": 1,
+            "text": "Fußball-Weltmeisterschaft",
+            "word": 11
+        },
+        {
+            "charBegin": 86,
+            "charEnd": 92,
+            "id": 11,
+            "sentence": 1,
+            "text": "betont",
+            "word": 12
+        },
+        {
+            "charBegin": 92,
+            "charEnd": 93,
+            "id": 12,
+            "sentence": 1,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 94,
+            "charEnd": 98,
+            "id": 13,
+            "sentence": 1,
+            "text": "dass",
+            "word": 14
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 102,
+            "id": 14,
+            "sentence": 1,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 103,
+            "charEnd": 119,
+            "id": 15,
+            "sentence": 1,
+            "text": "personalisierten",
+            "word": 16
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 135,
+            "id": 16,
+            "sentence": 1,
+            "text": "Eintrittskarten",
+            "word": 17
+        },
+        {
+            "charBegin": 136,
+            "charEnd": 143,
+            "id": 17,
+            "sentence": 1,
+            "text": "wichtig",
+            "word": 18
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 149,
+            "id": 18,
+            "sentence": 1,
+            "text": "seien",
+            "word": 19
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 150,
+            "id": 19,
+            "sentence": 1,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 151,
+            "charEnd": 153,
+            "id": 20,
+            "sentence": 1,
+            "text": "um",
+            "word": 21
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 159,
+            "id": 21,
+            "sentence": 1,
+            "text": "jeden",
+            "word": 22
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 169,
+            "id": 22,
+            "sentence": 1,
+            "text": "Zuschauer",
+            "word": 23
+        },
+        {
+            "charBegin": 170,
+            "charEnd": 179,
+            "id": 23,
+            "sentence": 1,
+            "text": "eindeutig",
+            "word": 24
+        },
+        {
+            "charBegin": 180,
+            "charEnd": 194,
+            "id": 24,
+            "sentence": 1,
+            "text": "identifizieren",
+            "word": 25
+        },
+        {
+            "charBegin": 195,
+            "charEnd": 197,
+            "id": 25,
+            "sentence": 1,
+            "text": "zu",
+            "word": 26
+        },
+        {
+            "charBegin": 198,
+            "charEnd": 204,
+            "id": 26,
+            "sentence": 1,
+            "text": "können",
+            "word": 27
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 205,
+            "id": 27,
+            "sentence": 1,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 206,
+            "charEnd": 210,
+            "id": 28,
+            "sentence": 2,
+            "text": "Doch",
+            "word": 1
+        },
+        {
+            "charBegin": 211,
+            "charEnd": 215,
+            "id": 29,
+            "sentence": 2,
+            "text": "eine",
+            "word": 2
+        },
+        {
+            "charBegin": 216,
+            "charEnd": 229,
+            "id": 30,
+            "sentence": 2,
+            "text": "systematische",
+            "word": 3
+        },
+        {
+            "charBegin": 230,
+            "charEnd": 239,
+            "id": 31,
+            "sentence": 2,
+            "text": "Kontrolle",
+            "word": 4
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 240,
+            "id": 32,
+            "sentence": 2,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 241,
+            "charEnd": 243,
+            "id": 33,
+            "sentence": 2,
+            "text": "ob",
+            "word": 6
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 248,
+            "id": 34,
+            "sentence": 2,
+            "text": "auch",
+            "word": 7
+        },
+        {
+            "charBegin": 249,
+            "charEnd": 257,
+            "id": 35,
+            "sentence": 2,
+            "text": "wirklich",
+            "word": 8
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 261,
+            "id": 36,
+            "sentence": 2,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 274,
+            "id": 37,
+            "sentence": 2,
+            "text": "registrierte",
+            "word": 10
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 283,
+            "id": 38,
+            "sentence": 2,
+            "text": "Besitzer",
+            "word": 11
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 289,
+            "id": 39,
+            "sentence": 2,
+            "text": "einer",
+            "word": 12
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 295,
+            "id": 40,
+            "sentence": 2,
+            "text": "Karte",
+            "word": 13
+        },
+        {
+            "charBegin": 296,
+            "charEnd": 299,
+            "id": 41,
+            "sentence": 2,
+            "text": "ins",
+            "word": 14
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 307,
+            "id": 42,
+            "sentence": 2,
+            "text": "Stadion",
+            "word": 15
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 313,
+            "id": 43,
+            "sentence": 2,
+            "text": "kommt",
+            "word": 16
+        },
+        {
+            "charBegin": 313,
+            "charEnd": 314,
+            "id": 44,
+            "sentence": 2,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 321,
+            "id": 45,
+            "sentence": 2,
+            "text": "findet",
+            "word": 18
+        },
+        {
+            "charBegin": 322,
+            "charEnd": 330,
+            "id": 46,
+            "sentence": 2,
+            "text": "offenbar",
+            "word": 19
+        },
+        {
+            "charBegin": 331,
+            "charEnd": 336,
+            "id": 47,
+            "sentence": 2,
+            "text": "nicht",
+            "word": 20
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 342,
+            "id": 48,
+            "sentence": 2,
+            "text": "statt",
+            "word": 21
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 343,
+            "id": 49,
+            "sentence": 2,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 356,
+            "id": 50,
+            "sentence": 3,
+            "text": "Verschiedene",
+            "word": 1
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 363,
+            "id": 51,
+            "sentence": 3,
+            "text": "Medien",
+            "word": 2
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 375,
+            "id": 52,
+            "sentence": 3,
+            "text": "berichteten",
+            "word": 3
+        },
+        {
+            "charBegin": 375,
+            "charEnd": 376,
+            "id": 53,
+            "sentence": 3,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 381,
+            "id": 54,
+            "sentence": 3,
+            "text": "dass",
+            "word": 5
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 385,
+            "id": 55,
+            "sentence": 3,
+            "text": "nur",
+            "word": 6
+        },
+        {
+            "charBegin": 386,
+            "charEnd": 389,
+            "id": 56,
+            "sentence": 3,
+            "text": "bei",
+            "word": 7
+        },
+        {
+            "charBegin": 390,
+            "charEnd": 394,
+            "id": 57,
+            "sentence": 3,
+            "text": "etwa",
+            "word": 8
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 400,
+            "id": 58,
+            "sentence": 3,
+            "text": "jedem",
+            "word": 9
+        },
+        {
+            "charBegin": 401,
+            "charEnd": 411,
+            "id": 59,
+            "sentence": 3,
+            "text": "hundersten",
+            "word": 10
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 420,
+            "id": 60,
+            "sentence": 3,
+            "text": "Besucher",
+            "word": 11
+        },
+        {
+            "charBegin": 421,
+            "charEnd": 430,
+            "id": 61,
+            "sentence": 3,
+            "text": "überprüft",
+            "word": 12
+        },
+        {
+            "charBegin": 431,
+            "charEnd": 436,
+            "id": 62,
+            "sentence": 3,
+            "text": "werde",
+            "word": 13
+        },
+        {
+            "charBegin": 436,
+            "charEnd": 437,
+            "id": 63,
+            "sentence": 3,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 440,
+            "id": 64,
+            "sentence": 3,
+            "text": "ob",
+            "word": 15
+        },
+        {
+            "charBegin": 441,
+            "charEnd": 444,
+            "id": 65,
+            "sentence": 3,
+            "text": "die",
+            "word": 16
+        },
+        {
+            "charBegin": 445,
+            "charEnd": 450,
+            "id": 66,
+            "sentence": 3,
+            "text": "Karte",
+            "word": 17
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 455,
+            "id": 67,
+            "sentence": 3,
+            "text": "auch",
+            "word": 18
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 459,
+            "id": 68,
+            "sentence": 3,
+            "text": "auf",
+            "word": 19
+        },
+        {
+            "charBegin": 460,
+            "charEnd": 463,
+            "id": 69,
+            "sentence": 3,
+            "text": "ihn",
+            "word": 20
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 475,
+            "id": 70,
+            "sentence": 3,
+            "text": "registriert",
+            "word": 21
+        },
+        {
+            "charBegin": 476,
+            "charEnd": 479,
+            "id": 71,
+            "sentence": 3,
+            "text": "sei",
+            "word": 22
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 480,
+            "id": 72,
+            "sentence": 3,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 488,
+            "id": 73,
+            "sentence": 4,
+            "text": "Karten",
+            "word": 1
+        },
+        {
+            "charBegin": 488,
+            "charEnd": 489,
+            "id": 74,
+            "sentence": 4,
+            "text": ",",
+            "word": 2
+        },
+        {
+            "charBegin": 490,
+            "charEnd": 493,
+            "id": 75,
+            "sentence": 4,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 494,
+            "charEnd": 504,
+            "id": 76,
+            "sentence": 4,
+            "text": "vermutlich",
+            "word": 4
+        },
+        {
+            "charBegin": 505,
+            "charEnd": 508,
+            "id": 77,
+            "sentence": 4,
+            "text": "aus",
+            "word": 5
+        },
+        {
+            "charBegin": 509,
+            "charEnd": 512,
+            "id": 78,
+            "sentence": 4,
+            "text": "den",
+            "word": 6
+        },
+        {
+            "charBegin": 513,
+            "charEnd": 525,
+            "id": 79,
+            "sentence": 4,
+            "text": "Kontingenten",
+            "word": 7
+        },
+        {
+            "charBegin": 526,
+            "charEnd": 541,
+            "id": 80,
+            "sentence": 4,
+            "text": "spezialisierter",
+            "word": 8
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 548,
+            "id": 81,
+            "sentence": 4,
+            "text": "Broker",
+            "word": 9
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 557,
+            "id": 82,
+            "sentence": 4,
+            "text": "stammten",
+            "word": 10
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 558,
+            "id": 83,
+            "sentence": 4,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 559,
+            "charEnd": 565,
+            "id": 84,
+            "sentence": 4,
+            "text": "wurden",
+            "word": 12
+        },
+        {
+            "charBegin": 566,
+            "charEnd": 568,
+            "id": 85,
+            "sentence": 4,
+            "text": "zu",
+            "word": 13
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 576,
+            "id": 86,
+            "sentence": 4,
+            "text": "Preisen",
+            "word": 14
+        },
+        {
+            "charBegin": 577,
+            "charEnd": 580,
+            "id": 87,
+            "sentence": 4,
+            "text": "von",
+            "word": 15
+        },
+        {
+            "charBegin": 581,
+            "charEnd": 584,
+            "id": 88,
+            "sentence": 4,
+            "text": "bis",
+            "word": 16
+        },
+        {
+            "charBegin": 585,
+            "charEnd": 587,
+            "id": 89,
+            "sentence": 4,
+            "text": "zu",
+            "word": 17
+        },
+        {
+            "charBegin": 588,
+            "charEnd": 593,
+            "id": 90,
+            "sentence": 4,
+            "text": "1.450",
+            "word": 18
+        },
+        {
+            "charBegin": 594,
+            "charEnd": 598,
+            "id": 91,
+            "sentence": 4,
+            "text": "Euro",
+            "word": 19
+        },
+        {
+            "charBegin": 599,
+            "charEnd": 606,
+            "id": 92,
+            "sentence": 4,
+            "text": "schwarz",
+            "word": 20
+        },
+        {
+            "charBegin": 607,
+            "charEnd": 615,
+            "id": 93,
+            "sentence": 4,
+            "text": "verkauft",
+            "word": 21
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 616,
+            "id": 94,
+            "sentence": 4,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 617,
+            "charEnd": 619,
+            "id": 95,
+            "sentence": 5,
+            "text": "So",
+            "word": 1
+        },
+        {
+            "charBegin": 620,
+            "charEnd": 625,
+            "id": 96,
+            "sentence": 5,
+            "text": "waren",
+            "word": 2
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 629,
+            "id": 97,
+            "sentence": 5,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 630,
+            "charEnd": 637,
+            "id": 98,
+            "sentence": 5,
+            "text": "Anteile",
+            "word": 4
+        },
+        {
+            "charBegin": 638,
+            "charEnd": 640,
+            "id": 99,
+            "sentence": 5,
+            "text": "an",
+            "word": 5
+        },
+        {
+            "charBegin": 641,
+            "charEnd": 653,
+            "id": 100,
+            "sentence": 5,
+            "text": "schwedischen",
+            "word": 6
+        },
+        {
+            "charBegin": 653,
+            "charEnd": 654,
+            "id": 101,
+            "sentence": 5,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 655,
+            "charEnd": 665,
+            "id": 102,
+            "sentence": 5,
+            "text": "polnischen",
+            "word": 8
+        },
+        {
+            "charBegin": 666,
+            "charEnd": 669,
+            "id": 103,
+            "sentence": 5,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 670,
+            "charEnd": 680,
+            "id": 104,
+            "sentence": 5,
+            "text": "englischen",
+            "word": 10
+        },
+        {
+            "charBegin": 681,
+            "charEnd": 685,
+            "id": 105,
+            "sentence": 5,
+            "text": "Fans",
+            "word": 11
+        },
+        {
+            "charBegin": 685,
+            "charEnd": 686,
+            "id": 106,
+            "sentence": 5,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 687,
+            "charEnd": 690,
+            "id": 107,
+            "sentence": 5,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 694,
+            "id": 108,
+            "sentence": 5,
+            "text": "bei",
+            "word": 14
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 698,
+            "id": 109,
+            "sentence": 5,
+            "text": "den",
+            "word": 15
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 713,
+            "id": 110,
+            "sentence": 5,
+            "text": "Auftaktspielen",
+            "word": 16
+        },
+        {
+            "charBegin": 714,
+            "charEnd": 719,
+            "id": 111,
+            "sentence": 5,
+            "text": "ihrer",
+            "word": 17
+        },
+        {
+            "charBegin": 720,
+            "charEnd": 732,
+            "id": 112,
+            "sentence": 5,
+            "text": "Mannschaften",
+            "word": 18
+        },
+        {
+            "charBegin": 733,
+            "charEnd": 738,
+            "id": 113,
+            "sentence": 5,
+            "text": "dabei",
+            "word": 19
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 744,
+            "id": 114,
+            "sentence": 5,
+            "text": "waren",
+            "word": 20
+        },
+        {
+            "charBegin": 744,
+            "charEnd": 745,
+            "id": 115,
+            "sentence": 5,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 753,
+            "id": 116,
+            "sentence": 5,
+            "text": "weitaus",
+            "word": 22
+        },
+        {
+            "charBegin": 754,
+            "charEnd": 759,
+            "id": 117,
+            "sentence": 5,
+            "text": "höher",
+            "word": 23
+        },
+        {
+            "charBegin": 760,
+            "charEnd": 763,
+            "id": 118,
+            "sentence": 5,
+            "text": "als",
+            "word": 24
+        },
+        {
+            "charBegin": 764,
+            "charEnd": 767,
+            "id": 119,
+            "sentence": 5,
+            "text": "die",
+            "word": 25
+        },
+        {
+            "charBegin": 768,
+            "charEnd": 778,
+            "id": 120,
+            "sentence": 5,
+            "text": "eigentlich",
+            "word": 26
+        },
+        {
+            "charBegin": 779,
+            "charEnd": 790,
+            "id": 121,
+            "sentence": 5,
+            "text": "vorgesehene",
+            "word": 27
+        },
+        {
+            "charBegin": 791,
+            "charEnd": 796,
+            "id": 122,
+            "sentence": 5,
+            "text": "Quote",
+            "word": 28
+        },
+        {
+            "charBegin": 797,
+            "charEnd": 800,
+            "id": 123,
+            "sentence": 5,
+            "text": "von",
+            "word": 29
+        },
+        {
+            "charBegin": 801,
+            "charEnd": 805,
+            "id": 124,
+            "sentence": 5,
+            "text": "acht",
+            "word": 30
+        },
+        {
+            "charBegin": 806,
+            "charEnd": 813,
+            "id": 125,
+            "sentence": 5,
+            "text": "Prozent",
+            "word": 31
+        },
+        {
+            "charBegin": 813,
+            "charEnd": 814,
+            "id": 126,
+            "sentence": 5,
+            "text": ".",
+            "word": 32
+        },
+        {
+            "charBegin": 815,
+            "charEnd": 821,
+            "id": 127,
+            "sentence": 6,
+            "text": "40.000",
+            "word": 1
+        },
+        {
+            "charBegin": 822,
+            "charEnd": 831,
+            "id": 128,
+            "sentence": 6,
+            "text": "polnische",
+            "word": 2
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 836,
+            "id": 129,
+            "sentence": 6,
+            "text": "Fans",
+            "word": 3
+        },
+        {
+            "charBegin": 837,
+            "charEnd": 839,
+            "id": 130,
+            "sentence": 6,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 840,
+            "charEnd": 853,
+            "id": 131,
+            "sentence": 6,
+            "text": "Gelsenkirchen",
+            "word": 5
+        },
+        {
+            "charBegin": 854,
+            "charEnd": 857,
+            "id": 132,
+            "sentence": 6,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 858,
+            "charEnd": 864,
+            "id": 133,
+            "sentence": 6,
+            "text": "20.000",
+            "word": 7
+        },
+        {
+            "charBegin": 865,
+            "charEnd": 874,
+            "id": 134,
+            "sentence": 6,
+            "text": "englische",
+            "word": 8
+        },
+        {
+            "charBegin": 875,
+            "charEnd": 879,
+            "id": 135,
+            "sentence": 6,
+            "text": "Fans",
+            "word": 9
+        },
+        {
+            "charBegin": 880,
+            "charEnd": 882,
+            "id": 136,
+            "sentence": 6,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 883,
+            "charEnd": 892,
+            "id": 137,
+            "sentence": 6,
+            "text": "Frankfurt",
+            "word": 11
+        },
+        {
+            "charBegin": 893,
+            "charEnd": 900,
+            "id": 138,
+            "sentence": 6,
+            "text": "sorgten",
+            "word": 12
+        },
+        {
+            "charBegin": 901,
+            "charEnd": 904,
+            "id": 139,
+            "sentence": 6,
+            "text": "für",
+            "word": 13
+        },
+        {
+            "charBegin": 905,
+            "charEnd": 908,
+            "id": 140,
+            "sentence": 6,
+            "text": "den",
+            "word": 14
+        },
+        {
+            "charBegin": 909,
+            "charEnd": 917,
+            "id": 141,
+            "sentence": 6,
+            "text": "Eindruck",
+            "word": 15
+        },
+        {
+            "charBegin": 918,
+            "charEnd": 921,
+            "id": 142,
+            "sentence": 6,
+            "text": "von",
+            "word": 16
+        },
+        {
+            "charBegin": 922,
+            "charEnd": 933,
+            "id": 143,
+            "sentence": 6,
+            "text": "Heimspielen",
+            "word": 17
+        },
+        {
+            "charBegin": 933,
+            "charEnd": 934,
+            "id": 144,
+            "sentence": 6,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 936,
+            "charEnd": 939,
+            "id": 145,
+            "sentence": 7,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 940,
+            "charEnd": 953,
+            "id": 146,
+            "sentence": 7,
+            "text": "Vizepräsident",
+            "word": 2
+        },
+        {
+            "charBegin": 954,
+            "charEnd": 957,
+            "id": 147,
+            "sentence": 7,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 958,
+            "charEnd": 960,
+            "id": 148,
+            "sentence": 7,
+            "text": "OK",
+            "word": 4
+        },
+        {
+            "charBegin": 960,
+            "charEnd": 961,
+            "id": 149,
+            "sentence": 7,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 962,
+            "charEnd": 970,
+            "id": 150,
+            "sentence": 7,
+            "text": "Wolfgang",
+            "word": 6
+        },
+        {
+            "charBegin": 971,
+            "charEnd": 980,
+            "id": 151,
+            "sentence": 7,
+            "text": "Niersbach",
+            "word": 7
+        },
+        {
+            "charBegin": 980,
+            "charEnd": 981,
+            "id": 152,
+            "sentence": 7,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 982,
+            "charEnd": 988,
+            "id": 153,
+            "sentence": 7,
+            "text": "zeigte",
+            "word": 9
+        },
+        {
+            "charBegin": 989,
+            "charEnd": 993,
+            "id": 154,
+            "sentence": 7,
+            "text": "sich",
+            "word": 10
+        },
+        {
+            "charBegin": 994,
+            "charEnd": 995,
+            "id": 155,
+            "sentence": 7,
+            "text": "„",
+            "word": 11
+        },
+        {
+            "charBegin": 995,
+            "charEnd": 999,
+            "id": 156,
+            "sentence": 7,
+            "text": "sehr",
+            "word": 12
+        },
+        {
+            "charBegin": 1000,
+            "charEnd": 1009,
+            "id": 157,
+            "sentence": 7,
+            "text": "glücklich",
+            "word": 13
+        },
+        {
+            "charBegin": 1009,
+            "charEnd": 1010,
+            "id": 158,
+            "sentence": 7,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 1011,
+            "charEnd": 1014,
+            "id": 159,
+            "sentence": 7,
+            "text": "wie",
+            "word": 15
+        },
+        {
+            "charBegin": 1015,
+            "charEnd": 1018,
+            "id": 160,
+            "sentence": 7,
+            "text": "die",
+            "word": 16
+        },
+        {
+            "charBegin": 1019,
+            "charEnd": 1021,
+            "id": 161,
+            "sentence": 7,
+            "text": "WM",
+            "word": 17
+        },
+        {
+            "charBegin": 1022,
+            "charEnd": 1028,
+            "id": 162,
+            "sentence": 7,
+            "text": "bisher",
+            "word": 18
+        },
+        {
+            "charBegin": 1029,
+            "charEnd": 1037,
+            "id": 163,
+            "sentence": 7,
+            "text": "gelaufen",
+            "word": 19
+        },
+        {
+            "charBegin": 1037,
+            "charEnd": 1038,
+            "id": 164,
+            "sentence": 7,
+            "text": "“",
+            "word": 20
+        },
+        {
+            "charBegin": 1039,
+            "charEnd": 1042,
+            "id": 165,
+            "sentence": 7,
+            "text": "sei",
+            "word": 21
+        },
+        {
+            "charBegin": 1042,
+            "charEnd": 1043,
+            "id": 166,
+            "sentence": 7,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 1044,
+            "charEnd": 1047,
+            "id": 167,
+            "sentence": 8,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1048,
+            "charEnd": 1053,
+            "id": 168,
+            "sentence": 8,
+            "text": "große",
+            "word": 2
+        },
+        {
+            "charBegin": 1054,
+            "charEnd": 1060,
+            "id": 169,
+            "sentence": 8,
+            "text": "Anzahl",
+            "word": 3
+        },
+        {
+            "charBegin": 1061,
+            "charEnd": 1064,
+            "id": 170,
+            "sentence": 8,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 1065,
+            "charEnd": 1069,
+            "id": 171,
+            "sentence": 8,
+            "text": "Fans",
+            "word": 5
+        },
+        {
+            "charBegin": 1070,
+            "charEnd": 1073,
+            "id": 172,
+            "sentence": 8,
+            "text": "aus",
+            "word": 6
+        },
+        {
+            "charBegin": 1074,
+            "charEnd": 1083,
+            "id": 173,
+            "sentence": 8,
+            "text": "einzelnen",
+            "word": 7
+        },
+        {
+            "charBegin": 1084,
+            "charEnd": 1091,
+            "id": 174,
+            "sentence": 8,
+            "text": "Ländern",
+            "word": 8
+        },
+        {
+            "charBegin": 1092,
+            "charEnd": 1100,
+            "id": 175,
+            "sentence": 8,
+            "text": "schreibt",
+            "word": 9
+        },
+        {
+            "charBegin": 1101,
+            "charEnd": 1103,
+            "id": 176,
+            "sentence": 8,
+            "text": "er",
+            "word": 10
+        },
+        {
+            "charBegin": 1104,
+            "charEnd": 1110,
+            "id": 177,
+            "sentence": 8,
+            "text": "Zufall",
+            "word": 11
+        },
+        {
+            "charBegin": 1111,
+            "charEnd": 1114,
+            "id": 178,
+            "sentence": 8,
+            "text": "und",
+            "word": 12
+        },
+        {
+            "charBegin": 1115,
+            "charEnd": 1120,
+            "id": 179,
+            "sentence": 8,
+            "text": "Glück",
+            "word": 13
+        },
+        {
+            "charBegin": 1121,
+            "charEnd": 1124,
+            "id": 180,
+            "sentence": 8,
+            "text": "bei",
+            "word": 14
+        },
+        {
+            "charBegin": 1125,
+            "charEnd": 1128,
+            "id": 181,
+            "sentence": 8,
+            "text": "der",
+            "word": 15
+        },
+        {
+            "charBegin": 1129,
+            "charEnd": 1144,
+            "id": 182,
+            "sentence": 8,
+            "text": "Kartenverlosung",
+            "word": 16
+        },
+        {
+            "charBegin": 1145,
+            "charEnd": 1147,
+            "id": 183,
+            "sentence": 8,
+            "text": "im",
+            "word": 17
+        },
+        {
+            "charBegin": 1148,
+            "charEnd": 1156,
+            "id": 184,
+            "sentence": 8,
+            "text": "Internet",
+            "word": 18
+        },
+        {
+            "charBegin": 1157,
+            "charEnd": 1159,
+            "id": 185,
+            "sentence": 8,
+            "text": "zu",
+            "word": 19
+        },
+        {
+            "charBegin": 1159,
+            "charEnd": 1160,
+            "id": 186,
+            "sentence": 8,
+            "text": ".",
+            "word": 20
+        }
+    ]
+}

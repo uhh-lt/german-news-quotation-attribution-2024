@@ -1,0 +1,2527 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 119,
+                        "charBegin": 821,
+                        "charEnd": 829,
+                        "end": 121
+                    }
+                ],
+                "text": "heißt es",
+                "tokenIds": [
+                    119,
+                    120
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 118,
+                        "charBegin": 819,
+                        "charEnd": 830,
+                        "end": 122
+                    }
+                ],
+                "text": ", heißt es.",
+                "tokenIds": [
+                    118,
+                    119,
+                    120,
+                    121
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 111,
+                        "charBegin": 757,
+                        "charEnd": 819,
+                        "end": 118
+                    }
+                ],
+                "text": "Feierlichkeiten anlässlich des Wechsels seien nicht vorgesehen",
+                "tokenIds": [
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "20089 - Hamburg: Betreiberwechsel in der Luftrettung (2006-01-15)",
+    "originalText": "Der seit 1973 in Hamburg im Rettungsdienst eingesetzte Bundeswehr-Hubschrauber „SAR 71“ stellt zum 19.01.2006 seinen Betrieb ein. Abgelöst wird der Rettungshubschrauber des Baumusters Bell UH-1D, der durch die ZDF-Vorabendserie „Die Rettungsflieger“ deutschlandweit bekannt wurde, durch einen Hubschrauber der Bundespolizei (BPol) vom Typ Bell 212.\n\nGrund für die Umstellung ist der Rückzug der Luftwaffe aus dem zivilen Luftrettungsdienst. Die Bundeswehr stellt jedoch weiterhin für den Hamburger Rettungshubschrauber, der ab dem 20.01.2006 „Christoph 29“ heißen wird, den Stützpunkt am Bundeswehrkrankenhaus sowie das sanitätsdienstliche Personal zur Verfügung. Die Alarmierung erfolgt weiter hauptsächlich über die Einsatzzentrale der Feuerwehr Hamburg. Feierlichkeiten anlässlich des Wechsels seien nicht vorgesehen, heißt es.\n\nDie Luftwaffe hatte im Zuge der Entstehung der zivilen Luftrettung als Teil des westdeutschen Rettungsdienstes aufgrund vorhandener Kapazitäten ab 1971 mehrere Standorte des militärischen „Such- und Rettungsdienstes“ (SAR) mit Hubschraubern und rettungsdienstlichem Personal zur Verfügung gestellt. Nach der Wiedervereinigung erfolgte dies auch in den neuen Bundesländern, bevor sich die Bundeswehr dann ab Ende der 1990er Jahre schrittweise wieder zugunsten ziviler Betreiber zurückzog.\nAb 2010 werden die sehr zuverlässigen, aber hochbetagten Hubschrauber vom Typ Bell UH-1D nicht mehr den verschärften EU-Sicherheitsvorschriften „JAR-OPS 3“ für die Luftrettung genügen. Das Bundeswehr-Nachfolgemodell NH 90 wird jedoch zu groß sein für den Einsatz im Rettungsdienst.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 129,
+            "end": 20,
+            "id": 0,
+            "text": "Der seit 1973 in Hamburg im Rettungsdienst eingesetzte Bundeswehr-Hubschrauber „SAR 71“ stellt zum 19.01.2006 seinen Betrieb ein. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "tokens": [
+                "Der",
+                "seit",
+                "1973",
+                "in",
+                "Hamburg",
+                "im",
+                "Rettungsdienst",
+                "eingesetzte",
+                "Bundeswehr-Hubschrauber",
+                "„",
+                "SAR",
+                "71",
+                "“",
+                "stellt",
+                "zum",
+                "19.01.2006",
+                "seinen",
+                "Betrieb",
+                "ein",
+                "."
+            ]
+        },
+        {
+            "begin": 20,
+            "charBegin": 130,
+            "charEnd": 348,
+            "end": 53,
+            "id": 1,
+            "text": "Abgelöst wird der Rettungshubschrauber des Baumusters Bell UH-1D, der durch die ZDF-Vorabendserie „Die Rettungsflieger“ deutschlandweit bekannt wurde, durch einen Hubschrauber der Bundespolizei (BPol) vom Typ Bell 212.",
+            "tokenIds": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52
+            ],
+            "tokens": [
+                "Abgelöst",
+                "wird",
+                "der",
+                "Rettungshubschrauber",
+                "des",
+                "Baumusters",
+                "Bell",
+                "UH-1D",
+                ",",
+                "der",
+                "durch",
+                "die",
+                "ZDF-Vorabendserie",
+                "„",
+                "Die",
+                "Rettungsflieger",
+                "“",
+                "deutschlandweit",
+                "bekannt",
+                "wurde",
+                ",",
+                "durch",
+                "einen",
+                "Hubschrauber",
+                "der",
+                "Bundespolizei",
+                "(",
+                "BPol",
+                ")",
+                "vom",
+                "Typ",
+                "Bell",
+                "212."
+            ]
+        },
+        {
+            "begin": 53,
+            "charBegin": 350,
+            "charEnd": 440,
+            "end": 67,
+            "id": 2,
+            "text": "Grund für die Umstellung ist der Rückzug der Luftwaffe aus dem zivilen Luftrettungsdienst. ",
+            "tokenIds": [
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66
+            ],
+            "tokens": [
+                "Grund",
+                "für",
+                "die",
+                "Umstellung",
+                "ist",
+                "der",
+                "Rückzug",
+                "der",
+                "Luftwaffe",
+                "aus",
+                "dem",
+                "zivilen",
+                "Luftrettungsdienst",
+                "."
+            ]
+        },
+        {
+            "begin": 67,
+            "charBegin": 441,
+            "charEnd": 663,
+            "end": 99,
+            "id": 3,
+            "text": "Die Bundeswehr stellt jedoch weiterhin für den Hamburger Rettungshubschrauber, der ab dem 20.01.2006 „Christoph 29“ heißen wird, den Stützpunkt am Bundeswehrkrankenhaus sowie das sanitätsdienstliche Personal zur Verfügung. ",
+            "tokenIds": [
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98
+            ],
+            "tokens": [
+                "Die",
+                "Bundeswehr",
+                "stellt",
+                "jedoch",
+                "weiterhin",
+                "für",
+                "den",
+                "Hamburger",
+                "Rettungshubschrauber",
+                ",",
+                "der",
+                "ab",
+                "dem",
+                "20.01.2006",
+                "„",
+                "Christoph",
+                "29",
+                "“",
+                "heißen",
+                "wird",
+                ",",
+                "den",
+                "Stützpunkt",
+                "am",
+                "Bundeswehrkrankenhaus",
+                "sowie",
+                "das",
+                "sanitätsdienstliche",
+                "Personal",
+                "zur",
+                "Verfügung",
+                "."
+            ]
+        },
+        {
+            "begin": 99,
+            "charBegin": 664,
+            "charEnd": 756,
+            "end": 111,
+            "id": 4,
+            "text": "Die Alarmierung erfolgt weiter hauptsächlich über die Einsatzzentrale der Feuerwehr Hamburg. ",
+            "tokenIds": [
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110
+            ],
+            "tokens": [
+                "Die",
+                "Alarmierung",
+                "erfolgt",
+                "weiter",
+                "hauptsächlich",
+                "über",
+                "die",
+                "Einsatzzentrale",
+                "der",
+                "Feuerwehr",
+                "Hamburg",
+                "."
+            ]
+        },
+        {
+            "begin": 111,
+            "charBegin": 757,
+            "charEnd": 830,
+            "end": 122,
+            "id": 5,
+            "text": "Feierlichkeiten anlässlich des Wechsels seien nicht vorgesehen, heißt es.",
+            "tokenIds": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ],
+            "tokens": [
+                "Feierlichkeiten",
+                "anlässlich",
+                "des",
+                "Wechsels",
+                "seien",
+                "nicht",
+                "vorgesehen",
+                ",",
+                "heißt",
+                "es",
+                "."
+            ]
+        },
+        {
+            "begin": 122,
+            "charBegin": 832,
+            "charEnd": 1130,
+            "end": 163,
+            "id": 6,
+            "text": "Die Luftwaffe hatte im Zuge der Entstehung der zivilen Luftrettung als Teil des westdeutschen Rettungsdienstes aufgrund vorhandener Kapazitäten ab 1971 mehrere Standorte des militärischen „Such- und Rettungsdienstes“ (SAR) mit Hubschraubern und rettungsdienstlichem Personal zur Verfügung gestellt. ",
+            "tokenIds": [
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162
+            ],
+            "tokens": [
+                "Die",
+                "Luftwaffe",
+                "hatte",
+                "im",
+                "Zuge",
+                "der",
+                "Entstehung",
+                "der",
+                "zivilen",
+                "Luftrettung",
+                "als",
+                "Teil",
+                "des",
+                "westdeutschen",
+                "Rettungsdienstes",
+                "aufgrund",
+                "vorhandener",
+                "Kapazitäten",
+                "ab",
+                "1971",
+                "mehrere",
+                "Standorte",
+                "des",
+                "militärischen",
+                "„",
+                "Such-",
+                "und",
+                "Rettungsdienstes",
+                "“",
+                "(",
+                "SAR",
+                ")",
+                "mit",
+                "Hubschraubern",
+                "und",
+                "rettungsdienstlichem",
+                "Personal",
+                "zur",
+                "Verfügung",
+                "gestellt",
+                "."
+            ]
+        },
+        {
+            "begin": 163,
+            "charBegin": 1131,
+            "charEnd": 1504,
+            "end": 219,
+            "id": 7,
+            "text": "Nach der Wiedervereinigung erfolgte dies auch in den neuen Bundesländern, bevor sich die Bundeswehr dann ab Ende der 1990er Jahre schrittweise wieder zugunsten ziviler Betreiber zurückzog.\nAb 2010 werden die sehr zuverlässigen, aber hochbetagten Hubschrauber vom Typ Bell UH-1D nicht mehr den verschärften EU-Sicherheitsvorschriften „JAR-OPS 3“ für die Luftrettung genügen. ",
+            "tokenIds": [
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218
+            ],
+            "tokens": [
+                "Nach",
+                "der",
+                "Wiedervereinigung",
+                "erfolgte",
+                "dies",
+                "auch",
+                "in",
+                "den",
+                "neuen",
+                "Bundesländern",
+                ",",
+                "bevor",
+                "sich",
+                "die",
+                "Bundeswehr",
+                "dann",
+                "ab",
+                "Ende",
+                "der",
+                "1990er",
+                "Jahre",
+                "schrittweise",
+                "wieder",
+                "zugunsten",
+                "ziviler",
+                "Betreiber",
+                "zurückzog",
+                ".",
+                "Ab",
+                "2010",
+                "werden",
+                "die",
+                "sehr",
+                "zuverlässigen",
+                ",",
+                "aber",
+                "hochbetagten",
+                "Hubschrauber",
+                "vom",
+                "Typ",
+                "Bell",
+                "UH-1D",
+                "nicht",
+                "mehr",
+                "den",
+                "verschärften",
+                "EU-Sicherheitsvorschriften",
+                "„",
+                "JAR-OPS",
+                "3",
+                "“",
+                "für",
+                "die",
+                "Luftrettung",
+                "genügen",
+                "."
+            ]
+        },
+        {
+            "begin": 219,
+            "charBegin": 1505,
+            "charEnd": 1601,
+            "end": 234,
+            "id": 8,
+            "text": "Das Bundeswehr-Nachfolgemodell NH 90 wird jedoch zu groß sein für den Einsatz im Rettungsdienst.",
+            "tokenIds": [
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233
+            ],
+            "tokens": [
+                "Das",
+                "Bundeswehr-Nachfolgemodell",
+                "NH",
+                "90",
+                "wird",
+                "jedoch",
+                "zu",
+                "groß",
+                "sein",
+                "für",
+                "den",
+                "Einsatz",
+                "im",
+                "Rettungsdienst",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 8,
+            "id": 1,
+            "sentence": 1,
+            "text": "seit",
+            "word": 2
+        },
+        {
+            "charBegin": 9,
+            "charEnd": 13,
+            "id": 2,
+            "sentence": 1,
+            "text": "1973",
+            "word": 3
+        },
+        {
+            "charBegin": 14,
+            "charEnd": 16,
+            "id": 3,
+            "sentence": 1,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 24,
+            "id": 4,
+            "sentence": 1,
+            "text": "Hamburg",
+            "word": 5
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 27,
+            "id": 5,
+            "sentence": 1,
+            "text": "im",
+            "word": 6
+        },
+        {
+            "charBegin": 28,
+            "charEnd": 42,
+            "id": 6,
+            "sentence": 1,
+            "text": "Rettungsdienst",
+            "word": 7
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 54,
+            "id": 7,
+            "sentence": 1,
+            "text": "eingesetzte",
+            "word": 8
+        },
+        {
+            "charBegin": 55,
+            "charEnd": 78,
+            "id": 8,
+            "sentence": 1,
+            "text": "Bundeswehr-Hubschrauber",
+            "word": 9
+        },
+        {
+            "charBegin": 79,
+            "charEnd": 80,
+            "id": 9,
+            "sentence": 1,
+            "text": "„",
+            "word": 10
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 83,
+            "id": 10,
+            "sentence": 1,
+            "text": "SAR",
+            "word": 11
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 86,
+            "id": 11,
+            "sentence": 1,
+            "text": "71",
+            "word": 12
+        },
+        {
+            "charBegin": 86,
+            "charEnd": 87,
+            "id": 12,
+            "sentence": 1,
+            "text": "“",
+            "word": 13
+        },
+        {
+            "charBegin": 88,
+            "charEnd": 94,
+            "id": 13,
+            "sentence": 1,
+            "text": "stellt",
+            "word": 14
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 98,
+            "id": 14,
+            "sentence": 1,
+            "text": "zum",
+            "word": 15
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 109,
+            "id": 15,
+            "sentence": 1,
+            "text": "19.01.2006",
+            "word": 16
+        },
+        {
+            "charBegin": 110,
+            "charEnd": 116,
+            "id": 16,
+            "sentence": 1,
+            "text": "seinen",
+            "word": 17
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 124,
+            "id": 17,
+            "sentence": 1,
+            "text": "Betrieb",
+            "word": 18
+        },
+        {
+            "charBegin": 125,
+            "charEnd": 128,
+            "id": 18,
+            "sentence": 1,
+            "text": "ein",
+            "word": 19
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 129,
+            "id": 19,
+            "sentence": 1,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 130,
+            "charEnd": 138,
+            "id": 20,
+            "sentence": 2,
+            "text": "Abgelöst",
+            "word": 1
+        },
+        {
+            "charBegin": 139,
+            "charEnd": 143,
+            "id": 21,
+            "sentence": 2,
+            "text": "wird",
+            "word": 2
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 147,
+            "id": 22,
+            "sentence": 2,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 148,
+            "charEnd": 168,
+            "id": 23,
+            "sentence": 2,
+            "text": "Rettungshubschrauber",
+            "word": 4
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 172,
+            "id": 24,
+            "sentence": 2,
+            "text": "des",
+            "word": 5
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 183,
+            "id": 25,
+            "sentence": 2,
+            "text": "Baumusters",
+            "word": 6
+        },
+        {
+            "charBegin": 184,
+            "charEnd": 188,
+            "id": 26,
+            "sentence": 2,
+            "text": "Bell",
+            "word": 7
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 194,
+            "id": 27,
+            "sentence": 2,
+            "text": "UH-1D",
+            "word": 8
+        },
+        {
+            "charBegin": 194,
+            "charEnd": 195,
+            "id": 28,
+            "sentence": 2,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 196,
+            "charEnd": 199,
+            "id": 29,
+            "sentence": 2,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 205,
+            "id": 30,
+            "sentence": 2,
+            "text": "durch",
+            "word": 11
+        },
+        {
+            "charBegin": 206,
+            "charEnd": 209,
+            "id": 31,
+            "sentence": 2,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 227,
+            "id": 32,
+            "sentence": 2,
+            "text": "ZDF-Vorabendserie",
+            "word": 13
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 229,
+            "id": 33,
+            "sentence": 2,
+            "text": "„",
+            "word": 14
+        },
+        {
+            "charBegin": 229,
+            "charEnd": 232,
+            "id": 34,
+            "sentence": 2,
+            "text": "Die",
+            "word": 15
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 248,
+            "id": 35,
+            "sentence": 2,
+            "text": "Rettungsflieger",
+            "word": 16
+        },
+        {
+            "charBegin": 248,
+            "charEnd": 249,
+            "id": 36,
+            "sentence": 2,
+            "text": "“",
+            "word": 17
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 265,
+            "id": 37,
+            "sentence": 2,
+            "text": "deutschlandweit",
+            "word": 18
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 273,
+            "id": 38,
+            "sentence": 2,
+            "text": "bekannt",
+            "word": 19
+        },
+        {
+            "charBegin": 274,
+            "charEnd": 279,
+            "id": 39,
+            "sentence": 2,
+            "text": "wurde",
+            "word": 20
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 280,
+            "id": 40,
+            "sentence": 2,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 281,
+            "charEnd": 286,
+            "id": 41,
+            "sentence": 2,
+            "text": "durch",
+            "word": 22
+        },
+        {
+            "charBegin": 287,
+            "charEnd": 292,
+            "id": 42,
+            "sentence": 2,
+            "text": "einen",
+            "word": 23
+        },
+        {
+            "charBegin": 293,
+            "charEnd": 305,
+            "id": 43,
+            "sentence": 2,
+            "text": "Hubschrauber",
+            "word": 24
+        },
+        {
+            "charBegin": 306,
+            "charEnd": 309,
+            "id": 44,
+            "sentence": 2,
+            "text": "der",
+            "word": 25
+        },
+        {
+            "charBegin": 310,
+            "charEnd": 323,
+            "id": 45,
+            "sentence": 2,
+            "text": "Bundespolizei",
+            "word": 26
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 325,
+            "id": 46,
+            "sentence": 2,
+            "text": "(",
+            "word": 27
+        },
+        {
+            "charBegin": 325,
+            "charEnd": 329,
+            "id": 47,
+            "sentence": 2,
+            "text": "BPol",
+            "word": 28
+        },
+        {
+            "charBegin": 329,
+            "charEnd": 330,
+            "id": 48,
+            "sentence": 2,
+            "text": ")",
+            "word": 29
+        },
+        {
+            "charBegin": 331,
+            "charEnd": 334,
+            "id": 49,
+            "sentence": 2,
+            "text": "vom",
+            "word": 30
+        },
+        {
+            "charBegin": 335,
+            "charEnd": 338,
+            "id": 50,
+            "sentence": 2,
+            "text": "Typ",
+            "word": 31
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 343,
+            "id": 51,
+            "sentence": 2,
+            "text": "Bell",
+            "word": 32
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 348,
+            "id": 52,
+            "sentence": 2,
+            "text": "212.",
+            "word": 33
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 355,
+            "id": 53,
+            "sentence": 3,
+            "text": "Grund",
+            "word": 1
+        },
+        {
+            "charBegin": 356,
+            "charEnd": 359,
+            "id": 54,
+            "sentence": 3,
+            "text": "für",
+            "word": 2
+        },
+        {
+            "charBegin": 360,
+            "charEnd": 363,
+            "id": 55,
+            "sentence": 3,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 374,
+            "id": 56,
+            "sentence": 3,
+            "text": "Umstellung",
+            "word": 4
+        },
+        {
+            "charBegin": 375,
+            "charEnd": 378,
+            "id": 57,
+            "sentence": 3,
+            "text": "ist",
+            "word": 5
+        },
+        {
+            "charBegin": 379,
+            "charEnd": 382,
+            "id": 58,
+            "sentence": 3,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 390,
+            "id": 59,
+            "sentence": 3,
+            "text": "Rückzug",
+            "word": 7
+        },
+        {
+            "charBegin": 391,
+            "charEnd": 394,
+            "id": 60,
+            "sentence": 3,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 404,
+            "id": 61,
+            "sentence": 3,
+            "text": "Luftwaffe",
+            "word": 9
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 408,
+            "id": 62,
+            "sentence": 3,
+            "text": "aus",
+            "word": 10
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 412,
+            "id": 63,
+            "sentence": 3,
+            "text": "dem",
+            "word": 11
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 420,
+            "id": 64,
+            "sentence": 3,
+            "text": "zivilen",
+            "word": 12
+        },
+        {
+            "charBegin": 421,
+            "charEnd": 439,
+            "id": 65,
+            "sentence": 3,
+            "text": "Luftrettungsdienst",
+            "word": 13
+        },
+        {
+            "charBegin": 439,
+            "charEnd": 440,
+            "id": 66,
+            "sentence": 3,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 441,
+            "charEnd": 444,
+            "id": 67,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 445,
+            "charEnd": 455,
+            "id": 68,
+            "sentence": 4,
+            "text": "Bundeswehr",
+            "word": 2
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 462,
+            "id": 69,
+            "sentence": 4,
+            "text": "stellt",
+            "word": 3
+        },
+        {
+            "charBegin": 463,
+            "charEnd": 469,
+            "id": 70,
+            "sentence": 4,
+            "text": "jedoch",
+            "word": 4
+        },
+        {
+            "charBegin": 470,
+            "charEnd": 479,
+            "id": 71,
+            "sentence": 4,
+            "text": "weiterhin",
+            "word": 5
+        },
+        {
+            "charBegin": 480,
+            "charEnd": 483,
+            "id": 72,
+            "sentence": 4,
+            "text": "für",
+            "word": 6
+        },
+        {
+            "charBegin": 484,
+            "charEnd": 487,
+            "id": 73,
+            "sentence": 4,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 488,
+            "charEnd": 497,
+            "id": 74,
+            "sentence": 4,
+            "text": "Hamburger",
+            "word": 8
+        },
+        {
+            "charBegin": 498,
+            "charEnd": 518,
+            "id": 75,
+            "sentence": 4,
+            "text": "Rettungshubschrauber",
+            "word": 9
+        },
+        {
+            "charBegin": 518,
+            "charEnd": 519,
+            "id": 76,
+            "sentence": 4,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 520,
+            "charEnd": 523,
+            "id": 77,
+            "sentence": 4,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 524,
+            "charEnd": 526,
+            "id": 78,
+            "sentence": 4,
+            "text": "ab",
+            "word": 12
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 530,
+            "id": 79,
+            "sentence": 4,
+            "text": "dem",
+            "word": 13
+        },
+        {
+            "charBegin": 531,
+            "charEnd": 541,
+            "id": 80,
+            "sentence": 4,
+            "text": "20.01.2006",
+            "word": 14
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 543,
+            "id": 81,
+            "sentence": 4,
+            "text": "„",
+            "word": 15
+        },
+        {
+            "charBegin": 543,
+            "charEnd": 552,
+            "id": 82,
+            "sentence": 4,
+            "text": "Christoph",
+            "word": 16
+        },
+        {
+            "charBegin": 553,
+            "charEnd": 555,
+            "id": 83,
+            "sentence": 4,
+            "text": "29",
+            "word": 17
+        },
+        {
+            "charBegin": 555,
+            "charEnd": 556,
+            "id": 84,
+            "sentence": 4,
+            "text": "“",
+            "word": 18
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 563,
+            "id": 85,
+            "sentence": 4,
+            "text": "heißen",
+            "word": 19
+        },
+        {
+            "charBegin": 564,
+            "charEnd": 568,
+            "id": 86,
+            "sentence": 4,
+            "text": "wird",
+            "word": 20
+        },
+        {
+            "charBegin": 568,
+            "charEnd": 569,
+            "id": 87,
+            "sentence": 4,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 570,
+            "charEnd": 573,
+            "id": 88,
+            "sentence": 4,
+            "text": "den",
+            "word": 22
+        },
+        {
+            "charBegin": 574,
+            "charEnd": 584,
+            "id": 89,
+            "sentence": 4,
+            "text": "Stützpunkt",
+            "word": 23
+        },
+        {
+            "charBegin": 585,
+            "charEnd": 587,
+            "id": 90,
+            "sentence": 4,
+            "text": "am",
+            "word": 24
+        },
+        {
+            "charBegin": 588,
+            "charEnd": 609,
+            "id": 91,
+            "sentence": 4,
+            "text": "Bundeswehrkrankenhaus",
+            "word": 25
+        },
+        {
+            "charBegin": 610,
+            "charEnd": 615,
+            "id": 92,
+            "sentence": 4,
+            "text": "sowie",
+            "word": 26
+        },
+        {
+            "charBegin": 616,
+            "charEnd": 619,
+            "id": 93,
+            "sentence": 4,
+            "text": "das",
+            "word": 27
+        },
+        {
+            "charBegin": 620,
+            "charEnd": 639,
+            "id": 94,
+            "sentence": 4,
+            "text": "sanitätsdienstliche",
+            "word": 28
+        },
+        {
+            "charBegin": 640,
+            "charEnd": 648,
+            "id": 95,
+            "sentence": 4,
+            "text": "Personal",
+            "word": 29
+        },
+        {
+            "charBegin": 649,
+            "charEnd": 652,
+            "id": 96,
+            "sentence": 4,
+            "text": "zur",
+            "word": 30
+        },
+        {
+            "charBegin": 653,
+            "charEnd": 662,
+            "id": 97,
+            "sentence": 4,
+            "text": "Verfügung",
+            "word": 31
+        },
+        {
+            "charBegin": 662,
+            "charEnd": 663,
+            "id": 98,
+            "sentence": 4,
+            "text": ".",
+            "word": 32
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 667,
+            "id": 99,
+            "sentence": 5,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 679,
+            "id": 100,
+            "sentence": 5,
+            "text": "Alarmierung",
+            "word": 2
+        },
+        {
+            "charBegin": 680,
+            "charEnd": 687,
+            "id": 101,
+            "sentence": 5,
+            "text": "erfolgt",
+            "word": 3
+        },
+        {
+            "charBegin": 688,
+            "charEnd": 694,
+            "id": 102,
+            "sentence": 5,
+            "text": "weiter",
+            "word": 4
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 708,
+            "id": 103,
+            "sentence": 5,
+            "text": "hauptsächlich",
+            "word": 5
+        },
+        {
+            "charBegin": 709,
+            "charEnd": 713,
+            "id": 104,
+            "sentence": 5,
+            "text": "über",
+            "word": 6
+        },
+        {
+            "charBegin": 714,
+            "charEnd": 717,
+            "id": 105,
+            "sentence": 5,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 718,
+            "charEnd": 733,
+            "id": 106,
+            "sentence": 5,
+            "text": "Einsatzzentrale",
+            "word": 8
+        },
+        {
+            "charBegin": 734,
+            "charEnd": 737,
+            "id": 107,
+            "sentence": 5,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 738,
+            "charEnd": 747,
+            "id": 108,
+            "sentence": 5,
+            "text": "Feuerwehr",
+            "word": 10
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 755,
+            "id": 109,
+            "sentence": 5,
+            "text": "Hamburg",
+            "word": 11
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 756,
+            "id": 110,
+            "sentence": 5,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 772,
+            "id": 111,
+            "sentence": 6,
+            "text": "Feierlichkeiten",
+            "word": 1
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 783,
+            "id": 112,
+            "sentence": 6,
+            "text": "anlässlich",
+            "word": 2
+        },
+        {
+            "charBegin": 784,
+            "charEnd": 787,
+            "id": 113,
+            "sentence": 6,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 788,
+            "charEnd": 796,
+            "id": 114,
+            "sentence": 6,
+            "text": "Wechsels",
+            "word": 4
+        },
+        {
+            "charBegin": 797,
+            "charEnd": 802,
+            "id": 115,
+            "sentence": 6,
+            "text": "seien",
+            "word": 5
+        },
+        {
+            "charBegin": 803,
+            "charEnd": 808,
+            "id": 116,
+            "sentence": 6,
+            "text": "nicht",
+            "word": 6
+        },
+        {
+            "charBegin": 809,
+            "charEnd": 819,
+            "id": 117,
+            "sentence": 6,
+            "text": "vorgesehen",
+            "word": 7
+        },
+        {
+            "charBegin": 819,
+            "charEnd": 820,
+            "id": 118,
+            "sentence": 6,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 821,
+            "charEnd": 826,
+            "id": 119,
+            "sentence": 6,
+            "text": "heißt",
+            "word": 9
+        },
+        {
+            "charBegin": 827,
+            "charEnd": 829,
+            "id": 120,
+            "sentence": 6,
+            "text": "es",
+            "word": 10
+        },
+        {
+            "charBegin": 829,
+            "charEnd": 830,
+            "id": 121,
+            "sentence": 6,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 835,
+            "id": 122,
+            "sentence": 7,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 836,
+            "charEnd": 845,
+            "id": 123,
+            "sentence": 7,
+            "text": "Luftwaffe",
+            "word": 2
+        },
+        {
+            "charBegin": 846,
+            "charEnd": 851,
+            "id": 124,
+            "sentence": 7,
+            "text": "hatte",
+            "word": 3
+        },
+        {
+            "charBegin": 852,
+            "charEnd": 854,
+            "id": 125,
+            "sentence": 7,
+            "text": "im",
+            "word": 4
+        },
+        {
+            "charBegin": 855,
+            "charEnd": 859,
+            "id": 126,
+            "sentence": 7,
+            "text": "Zuge",
+            "word": 5
+        },
+        {
+            "charBegin": 860,
+            "charEnd": 863,
+            "id": 127,
+            "sentence": 7,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 864,
+            "charEnd": 874,
+            "id": 128,
+            "sentence": 7,
+            "text": "Entstehung",
+            "word": 7
+        },
+        {
+            "charBegin": 875,
+            "charEnd": 878,
+            "id": 129,
+            "sentence": 7,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 879,
+            "charEnd": 886,
+            "id": 130,
+            "sentence": 7,
+            "text": "zivilen",
+            "word": 9
+        },
+        {
+            "charBegin": 887,
+            "charEnd": 898,
+            "id": 131,
+            "sentence": 7,
+            "text": "Luftrettung",
+            "word": 10
+        },
+        {
+            "charBegin": 899,
+            "charEnd": 902,
+            "id": 132,
+            "sentence": 7,
+            "text": "als",
+            "word": 11
+        },
+        {
+            "charBegin": 903,
+            "charEnd": 907,
+            "id": 133,
+            "sentence": 7,
+            "text": "Teil",
+            "word": 12
+        },
+        {
+            "charBegin": 908,
+            "charEnd": 911,
+            "id": 134,
+            "sentence": 7,
+            "text": "des",
+            "word": 13
+        },
+        {
+            "charBegin": 912,
+            "charEnd": 925,
+            "id": 135,
+            "sentence": 7,
+            "text": "westdeutschen",
+            "word": 14
+        },
+        {
+            "charBegin": 926,
+            "charEnd": 942,
+            "id": 136,
+            "sentence": 7,
+            "text": "Rettungsdienstes",
+            "word": 15
+        },
+        {
+            "charBegin": 943,
+            "charEnd": 951,
+            "id": 137,
+            "sentence": 7,
+            "text": "aufgrund",
+            "word": 16
+        },
+        {
+            "charBegin": 952,
+            "charEnd": 963,
+            "id": 138,
+            "sentence": 7,
+            "text": "vorhandener",
+            "word": 17
+        },
+        {
+            "charBegin": 964,
+            "charEnd": 975,
+            "id": 139,
+            "sentence": 7,
+            "text": "Kapazitäten",
+            "word": 18
+        },
+        {
+            "charBegin": 976,
+            "charEnd": 978,
+            "id": 140,
+            "sentence": 7,
+            "text": "ab",
+            "word": 19
+        },
+        {
+            "charBegin": 979,
+            "charEnd": 983,
+            "id": 141,
+            "sentence": 7,
+            "text": "1971",
+            "word": 20
+        },
+        {
+            "charBegin": 984,
+            "charEnd": 991,
+            "id": 142,
+            "sentence": 7,
+            "text": "mehrere",
+            "word": 21
+        },
+        {
+            "charBegin": 992,
+            "charEnd": 1001,
+            "id": 143,
+            "sentence": 7,
+            "text": "Standorte",
+            "word": 22
+        },
+        {
+            "charBegin": 1002,
+            "charEnd": 1005,
+            "id": 144,
+            "sentence": 7,
+            "text": "des",
+            "word": 23
+        },
+        {
+            "charBegin": 1006,
+            "charEnd": 1019,
+            "id": 145,
+            "sentence": 7,
+            "text": "militärischen",
+            "word": 24
+        },
+        {
+            "charBegin": 1020,
+            "charEnd": 1021,
+            "id": 146,
+            "sentence": 7,
+            "text": "„",
+            "word": 25
+        },
+        {
+            "charBegin": 1021,
+            "charEnd": 1026,
+            "id": 147,
+            "sentence": 7,
+            "text": "Such-",
+            "word": 26
+        },
+        {
+            "charBegin": 1027,
+            "charEnd": 1030,
+            "id": 148,
+            "sentence": 7,
+            "text": "und",
+            "word": 27
+        },
+        {
+            "charBegin": 1031,
+            "charEnd": 1047,
+            "id": 149,
+            "sentence": 7,
+            "text": "Rettungsdienstes",
+            "word": 28
+        },
+        {
+            "charBegin": 1047,
+            "charEnd": 1048,
+            "id": 150,
+            "sentence": 7,
+            "text": "“",
+            "word": 29
+        },
+        {
+            "charBegin": 1049,
+            "charEnd": 1050,
+            "id": 151,
+            "sentence": 7,
+            "text": "(",
+            "word": 30
+        },
+        {
+            "charBegin": 1050,
+            "charEnd": 1053,
+            "id": 152,
+            "sentence": 7,
+            "text": "SAR",
+            "word": 31
+        },
+        {
+            "charBegin": 1053,
+            "charEnd": 1054,
+            "id": 153,
+            "sentence": 7,
+            "text": ")",
+            "word": 32
+        },
+        {
+            "charBegin": 1055,
+            "charEnd": 1058,
+            "id": 154,
+            "sentence": 7,
+            "text": "mit",
+            "word": 33
+        },
+        {
+            "charBegin": 1059,
+            "charEnd": 1072,
+            "id": 155,
+            "sentence": 7,
+            "text": "Hubschraubern",
+            "word": 34
+        },
+        {
+            "charBegin": 1073,
+            "charEnd": 1076,
+            "id": 156,
+            "sentence": 7,
+            "text": "und",
+            "word": 35
+        },
+        {
+            "charBegin": 1077,
+            "charEnd": 1097,
+            "id": 157,
+            "sentence": 7,
+            "text": "rettungsdienstlichem",
+            "word": 36
+        },
+        {
+            "charBegin": 1098,
+            "charEnd": 1106,
+            "id": 158,
+            "sentence": 7,
+            "text": "Personal",
+            "word": 37
+        },
+        {
+            "charBegin": 1107,
+            "charEnd": 1110,
+            "id": 159,
+            "sentence": 7,
+            "text": "zur",
+            "word": 38
+        },
+        {
+            "charBegin": 1111,
+            "charEnd": 1120,
+            "id": 160,
+            "sentence": 7,
+            "text": "Verfügung",
+            "word": 39
+        },
+        {
+            "charBegin": 1121,
+            "charEnd": 1129,
+            "id": 161,
+            "sentence": 7,
+            "text": "gestellt",
+            "word": 40
+        },
+        {
+            "charBegin": 1129,
+            "charEnd": 1130,
+            "id": 162,
+            "sentence": 7,
+            "text": ".",
+            "word": 41
+        },
+        {
+            "charBegin": 1131,
+            "charEnd": 1135,
+            "id": 163,
+            "sentence": 8,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 1136,
+            "charEnd": 1139,
+            "id": 164,
+            "sentence": 8,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 1140,
+            "charEnd": 1157,
+            "id": 165,
+            "sentence": 8,
+            "text": "Wiedervereinigung",
+            "word": 3
+        },
+        {
+            "charBegin": 1158,
+            "charEnd": 1166,
+            "id": 166,
+            "sentence": 8,
+            "text": "erfolgte",
+            "word": 4
+        },
+        {
+            "charBegin": 1167,
+            "charEnd": 1171,
+            "id": 167,
+            "sentence": 8,
+            "text": "dies",
+            "word": 5
+        },
+        {
+            "charBegin": 1172,
+            "charEnd": 1176,
+            "id": 168,
+            "sentence": 8,
+            "text": "auch",
+            "word": 6
+        },
+        {
+            "charBegin": 1177,
+            "charEnd": 1179,
+            "id": 169,
+            "sentence": 8,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 1180,
+            "charEnd": 1183,
+            "id": 170,
+            "sentence": 8,
+            "text": "den",
+            "word": 8
+        },
+        {
+            "charBegin": 1184,
+            "charEnd": 1189,
+            "id": 171,
+            "sentence": 8,
+            "text": "neuen",
+            "word": 9
+        },
+        {
+            "charBegin": 1190,
+            "charEnd": 1203,
+            "id": 172,
+            "sentence": 8,
+            "text": "Bundesländern",
+            "word": 10
+        },
+        {
+            "charBegin": 1203,
+            "charEnd": 1204,
+            "id": 173,
+            "sentence": 8,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1205,
+            "charEnd": 1210,
+            "id": 174,
+            "sentence": 8,
+            "text": "bevor",
+            "word": 12
+        },
+        {
+            "charBegin": 1211,
+            "charEnd": 1215,
+            "id": 175,
+            "sentence": 8,
+            "text": "sich",
+            "word": 13
+        },
+        {
+            "charBegin": 1216,
+            "charEnd": 1219,
+            "id": 176,
+            "sentence": 8,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 1220,
+            "charEnd": 1230,
+            "id": 177,
+            "sentence": 8,
+            "text": "Bundeswehr",
+            "word": 15
+        },
+        {
+            "charBegin": 1231,
+            "charEnd": 1235,
+            "id": 178,
+            "sentence": 8,
+            "text": "dann",
+            "word": 16
+        },
+        {
+            "charBegin": 1236,
+            "charEnd": 1238,
+            "id": 179,
+            "sentence": 8,
+            "text": "ab",
+            "word": 17
+        },
+        {
+            "charBegin": 1239,
+            "charEnd": 1243,
+            "id": 180,
+            "sentence": 8,
+            "text": "Ende",
+            "word": 18
+        },
+        {
+            "charBegin": 1244,
+            "charEnd": 1247,
+            "id": 181,
+            "sentence": 8,
+            "text": "der",
+            "word": 19
+        },
+        {
+            "charBegin": 1248,
+            "charEnd": 1254,
+            "id": 182,
+            "sentence": 8,
+            "text": "1990er",
+            "word": 20
+        },
+        {
+            "charBegin": 1255,
+            "charEnd": 1260,
+            "id": 183,
+            "sentence": 8,
+            "text": "Jahre",
+            "word": 21
+        },
+        {
+            "charBegin": 1261,
+            "charEnd": 1273,
+            "id": 184,
+            "sentence": 8,
+            "text": "schrittweise",
+            "word": 22
+        },
+        {
+            "charBegin": 1274,
+            "charEnd": 1280,
+            "id": 185,
+            "sentence": 8,
+            "text": "wieder",
+            "word": 23
+        },
+        {
+            "charBegin": 1281,
+            "charEnd": 1290,
+            "id": 186,
+            "sentence": 8,
+            "text": "zugunsten",
+            "word": 24
+        },
+        {
+            "charBegin": 1291,
+            "charEnd": 1298,
+            "id": 187,
+            "sentence": 8,
+            "text": "ziviler",
+            "word": 25
+        },
+        {
+            "charBegin": 1299,
+            "charEnd": 1308,
+            "id": 188,
+            "sentence": 8,
+            "text": "Betreiber",
+            "word": 26
+        },
+        {
+            "charBegin": 1309,
+            "charEnd": 1318,
+            "id": 189,
+            "sentence": 8,
+            "text": "zurückzog",
+            "word": 27
+        },
+        {
+            "charBegin": 1318,
+            "charEnd": 1319,
+            "id": 190,
+            "sentence": 8,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 1320,
+            "charEnd": 1322,
+            "id": 191,
+            "sentence": 8,
+            "text": "Ab",
+            "word": 29
+        },
+        {
+            "charBegin": 1323,
+            "charEnd": 1327,
+            "id": 192,
+            "sentence": 8,
+            "text": "2010",
+            "word": 30
+        },
+        {
+            "charBegin": 1328,
+            "charEnd": 1334,
+            "id": 193,
+            "sentence": 8,
+            "text": "werden",
+            "word": 31
+        },
+        {
+            "charBegin": 1335,
+            "charEnd": 1338,
+            "id": 194,
+            "sentence": 8,
+            "text": "die",
+            "word": 32
+        },
+        {
+            "charBegin": 1339,
+            "charEnd": 1343,
+            "id": 195,
+            "sentence": 8,
+            "text": "sehr",
+            "word": 33
+        },
+        {
+            "charBegin": 1344,
+            "charEnd": 1357,
+            "id": 196,
+            "sentence": 8,
+            "text": "zuverlässigen",
+            "word": 34
+        },
+        {
+            "charBegin": 1357,
+            "charEnd": 1358,
+            "id": 197,
+            "sentence": 8,
+            "text": ",",
+            "word": 35
+        },
+        {
+            "charBegin": 1359,
+            "charEnd": 1363,
+            "id": 198,
+            "sentence": 8,
+            "text": "aber",
+            "word": 36
+        },
+        {
+            "charBegin": 1364,
+            "charEnd": 1376,
+            "id": 199,
+            "sentence": 8,
+            "text": "hochbetagten",
+            "word": 37
+        },
+        {
+            "charBegin": 1377,
+            "charEnd": 1389,
+            "id": 200,
+            "sentence": 8,
+            "text": "Hubschrauber",
+            "word": 38
+        },
+        {
+            "charBegin": 1390,
+            "charEnd": 1393,
+            "id": 201,
+            "sentence": 8,
+            "text": "vom",
+            "word": 39
+        },
+        {
+            "charBegin": 1394,
+            "charEnd": 1397,
+            "id": 202,
+            "sentence": 8,
+            "text": "Typ",
+            "word": 40
+        },
+        {
+            "charBegin": 1398,
+            "charEnd": 1402,
+            "id": 203,
+            "sentence": 8,
+            "text": "Bell",
+            "word": 41
+        },
+        {
+            "charBegin": 1403,
+            "charEnd": 1408,
+            "id": 204,
+            "sentence": 8,
+            "text": "UH-1D",
+            "word": 42
+        },
+        {
+            "charBegin": 1409,
+            "charEnd": 1414,
+            "id": 205,
+            "sentence": 8,
+            "text": "nicht",
+            "word": 43
+        },
+        {
+            "charBegin": 1415,
+            "charEnd": 1419,
+            "id": 206,
+            "sentence": 8,
+            "text": "mehr",
+            "word": 44
+        },
+        {
+            "charBegin": 1420,
+            "charEnd": 1423,
+            "id": 207,
+            "sentence": 8,
+            "text": "den",
+            "word": 45
+        },
+        {
+            "charBegin": 1424,
+            "charEnd": 1436,
+            "id": 208,
+            "sentence": 8,
+            "text": "verschärften",
+            "word": 46
+        },
+        {
+            "charBegin": 1437,
+            "charEnd": 1463,
+            "id": 209,
+            "sentence": 8,
+            "text": "EU-Sicherheitsvorschriften",
+            "word": 47
+        },
+        {
+            "charBegin": 1464,
+            "charEnd": 1465,
+            "id": 210,
+            "sentence": 8,
+            "text": "„",
+            "word": 48
+        },
+        {
+            "charBegin": 1465,
+            "charEnd": 1472,
+            "id": 211,
+            "sentence": 8,
+            "text": "JAR-OPS",
+            "word": 49
+        },
+        {
+            "charBegin": 1473,
+            "charEnd": 1474,
+            "id": 212,
+            "sentence": 8,
+            "text": "3",
+            "word": 50
+        },
+        {
+            "charBegin": 1474,
+            "charEnd": 1475,
+            "id": 213,
+            "sentence": 8,
+            "text": "“",
+            "word": 51
+        },
+        {
+            "charBegin": 1476,
+            "charEnd": 1479,
+            "id": 214,
+            "sentence": 8,
+            "text": "für",
+            "word": 52
+        },
+        {
+            "charBegin": 1480,
+            "charEnd": 1483,
+            "id": 215,
+            "sentence": 8,
+            "text": "die",
+            "word": 53
+        },
+        {
+            "charBegin": 1484,
+            "charEnd": 1495,
+            "id": 216,
+            "sentence": 8,
+            "text": "Luftrettung",
+            "word": 54
+        },
+        {
+            "charBegin": 1496,
+            "charEnd": 1503,
+            "id": 217,
+            "sentence": 8,
+            "text": "genügen",
+            "word": 55
+        },
+        {
+            "charBegin": 1503,
+            "charEnd": 1504,
+            "id": 218,
+            "sentence": 8,
+            "text": ".",
+            "word": 56
+        },
+        {
+            "charBegin": 1505,
+            "charEnd": 1508,
+            "id": 219,
+            "sentence": 9,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 1509,
+            "charEnd": 1535,
+            "id": 220,
+            "sentence": 9,
+            "text": "Bundeswehr-Nachfolgemodell",
+            "word": 2
+        },
+        {
+            "charBegin": 1536,
+            "charEnd": 1538,
+            "id": 221,
+            "sentence": 9,
+            "text": "NH",
+            "word": 3
+        },
+        {
+            "charBegin": 1539,
+            "charEnd": 1541,
+            "id": 222,
+            "sentence": 9,
+            "text": "90",
+            "word": 4
+        },
+        {
+            "charBegin": 1542,
+            "charEnd": 1546,
+            "id": 223,
+            "sentence": 9,
+            "text": "wird",
+            "word": 5
+        },
+        {
+            "charBegin": 1547,
+            "charEnd": 1553,
+            "id": 224,
+            "sentence": 9,
+            "text": "jedoch",
+            "word": 6
+        },
+        {
+            "charBegin": 1554,
+            "charEnd": 1556,
+            "id": 225,
+            "sentence": 9,
+            "text": "zu",
+            "word": 7
+        },
+        {
+            "charBegin": 1557,
+            "charEnd": 1561,
+            "id": 226,
+            "sentence": 9,
+            "text": "groß",
+            "word": 8
+        },
+        {
+            "charBegin": 1562,
+            "charEnd": 1566,
+            "id": 227,
+            "sentence": 9,
+            "text": "sein",
+            "word": 9
+        },
+        {
+            "charBegin": 1567,
+            "charEnd": 1570,
+            "id": 228,
+            "sentence": 9,
+            "text": "für",
+            "word": 10
+        },
+        {
+            "charBegin": 1571,
+            "charEnd": 1574,
+            "id": 229,
+            "sentence": 9,
+            "text": "den",
+            "word": 11
+        },
+        {
+            "charBegin": 1575,
+            "charEnd": 1582,
+            "id": 230,
+            "sentence": 9,
+            "text": "Einsatz",
+            "word": 12
+        },
+        {
+            "charBegin": 1583,
+            "charEnd": 1585,
+            "id": 231,
+            "sentence": 9,
+            "text": "im",
+            "word": 13
+        },
+        {
+            "charBegin": 1586,
+            "charEnd": 1600,
+            "id": 232,
+            "sentence": 9,
+            "text": "Rettungsdienst",
+            "word": 14
+        },
+        {
+            "charBegin": 1600,
+            "charEnd": 1601,
+            "id": 233,
+            "sentence": 9,
+            "text": ".",
+            "word": 15
+        }
+    ]
+}

@@ -1,0 +1,2838 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 69,
+                        "charBegin": 462,
+                        "charEnd": 469,
+                        "end": 70
+                    }
+                ],
+                "text": "zufolge",
+                "tokenIds": [
+                    69
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 67,
+                        "charBegin": 446,
+                        "charEnd": 469,
+                        "end": 70
+                    }
+                ],
+                "text": "Eigenen Angaben zufolge",
+                "tokenIds": [
+                    67,
+                    68,
+                    69
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 70,
+                        "charBegin": 470,
+                        "charEnd": 547,
+                        "end": 81
+                    }
+                ],
+                "text": "wusste der 41-jährige Fahrer auch nichts von der Gefährlichkeit seiner Ladung",
+                "tokenIds": [
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 67,
+                        "charBegin": 446,
+                        "charEnd": 461,
+                        "end": 69
+                    }
+                ],
+                "text": "Eigenen Angaben",
+                "tokenIds": [
+                    67,
+                    68
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 109,
+                        "charBegin": 717,
+                        "charEnd": 721,
+                        "end": 110
+                    }
+                ],
+                "text": "nach",
+                "tokenIds": [
+                    109
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 109,
+                        "charBegin": 717,
+                        "charEnd": 736,
+                        "end": 111
+                    }
+                ],
+                "text": "nach Polizeiangaben",
+                "tokenIds": [
+                    109,
+                    110
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 102,
+                        "charBegin": 670,
+                        "charEnd": 716,
+                        "end": 109
+                    }
+                ],
+                "text": "Sechs der Fässer mit dem Solvenon explodierten",
+                "tokenIds": [
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 110,
+                        "charBegin": 722,
+                        "charEnd": 736,
+                        "end": 111
+                    }
+                ],
+                "text": "Polizeiangaben",
+                "tokenIds": [
+                    110
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "32884 - Gefahrgutunfall auf der A3 bei Limburg (2006-09-15)",
+    "originalText": "Ein Gefahrgutunfall auf der A3 bei Limburg (Hessen) am Morgen des 5. September 2006 führte zu einem Verkehrschaos.\n\nEin LKW einer Spedition aus Dannstadt (Rheinland-Pfalz) transportierte zwölf Fässer mit je 200 Litern des hochgiftigen und explosiven  Solvenon sowie ein für Wasserorganismen hochgiftiges Granulat von Belgien nach Bischofsheim im Kreis Groß-Gerau. Dabei war sein Fahrzeug nicht mit dem vorgeschriebenen Gefahrguthinweis versehen. Eigenen Angaben zufolge wusste der 41-jährige Fahrer auch nichts von der Gefährlichkeit seiner Ladung.\n\nNachdem der Fahrer den Brand seines Aufliegers bemerkt hatte, hielt er auf der Lahnbrücke und alarmierte die Feuerwehr. Sechs der Fässer mit dem Solvenon explodierten nach Polizeiangaben. Das mit dem giftigen Granulat verseuchte Wasser gelangte ins Erdreich und in die Lahn, da das Gefahrgut für die Feuerwehr zunächst nicht erkennbar war. Was den Brand auslöste, war zunächst ungeklärt. Vermutlich erhitzten sich die Bremsen während der Fahrt so stark, dass sich der Auflieger entzündete.\n\nDie Untere Wasserbehörde Limburg rief Gewässeralarm aus. Die Lahn wurde für die Schifffahrt gesperrt, auch Baden und Angeln war verboten.\n\nAn der Einsatzstelle bildete sich vorübergehend ein 20 Kilometer langer Stau bis nach Montabaur. Eine Gefährdung für die Bevölkerung bestand angeblich nicht. Dennoch wurden die Anwohner angehalten, ihre Fenster und Türen geschlossen zu halten. Der Sachschaden wurde auf 100.000 Euro beziffert.\n\nDer Spedition droht nun eine hohe Geldstrafe wegen des fehlenden Hinweises auf den Gefahrstoff.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 114,
+            "end": 21,
+            "id": 0,
+            "text": "Ein Gefahrgutunfall auf der A3 bei Limburg (Hessen) am Morgen des 5. September 2006 führte zu einem Verkehrschaos.",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "Ein",
+                "Gefahrgutunfall",
+                "auf",
+                "der",
+                "A3",
+                "bei",
+                "Limburg",
+                "(",
+                "Hessen",
+                ")",
+                "am",
+                "Morgen",
+                "des",
+                "5.",
+                "September",
+                "2006",
+                "führte",
+                "zu",
+                "einem",
+                "Verkehrschaos",
+                "."
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 116,
+            "charEnd": 363,
+            "end": 56,
+            "id": 1,
+            "text": "Ein LKW einer Spedition aus Dannstadt (Rheinland-Pfalz) transportierte zwölf Fässer mit je 200 Litern des hochgiftigen und explosiven  Solvenon sowie ein für Wasserorganismen hochgiftiges Granulat von Belgien nach Bischofsheim im Kreis Groß-Gerau. ",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55
+            ],
+            "tokens": [
+                "Ein",
+                "LKW",
+                "einer",
+                "Spedition",
+                "aus",
+                "Dannstadt",
+                "(",
+                "Rheinland-Pfalz",
+                ")",
+                "transportierte",
+                "zwölf",
+                "Fässer",
+                "mit",
+                "je",
+                "200",
+                "Litern",
+                "des",
+                "hochgiftigen",
+                "und",
+                "explosiven",
+                "Solvenon",
+                "sowie",
+                "ein",
+                "für",
+                "Wasserorganismen",
+                "hochgiftiges",
+                "Granulat",
+                "von",
+                "Belgien",
+                "nach",
+                "Bischofsheim",
+                "im",
+                "Kreis",
+                "Groß-Gerau",
+                "."
+            ]
+        },
+        {
+            "begin": 56,
+            "charBegin": 364,
+            "charEnd": 445,
+            "end": 67,
+            "id": 2,
+            "text": "Dabei war sein Fahrzeug nicht mit dem vorgeschriebenen Gefahrguthinweis versehen. ",
+            "tokenIds": [
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66
+            ],
+            "tokens": [
+                "Dabei",
+                "war",
+                "sein",
+                "Fahrzeug",
+                "nicht",
+                "mit",
+                "dem",
+                "vorgeschriebenen",
+                "Gefahrguthinweis",
+                "versehen",
+                "."
+            ]
+        },
+        {
+            "begin": 67,
+            "charBegin": 446,
+            "charEnd": 548,
+            "end": 82,
+            "id": 3,
+            "text": "Eigenen Angaben zufolge wusste der 41-jährige Fahrer auch nichts von der Gefährlichkeit seiner Ladung.",
+            "tokenIds": [
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81
+            ],
+            "tokens": [
+                "Eigenen",
+                "Angaben",
+                "zufolge",
+                "wusste",
+                "der",
+                "41-jährige",
+                "Fahrer",
+                "auch",
+                "nichts",
+                "von",
+                "der",
+                "Gefährlichkeit",
+                "seiner",
+                "Ladung",
+                "."
+            ]
+        },
+        {
+            "begin": 82,
+            "charBegin": 550,
+            "charEnd": 669,
+            "end": 102,
+            "id": 4,
+            "text": "Nachdem der Fahrer den Brand seines Aufliegers bemerkt hatte, hielt er auf der Lahnbrücke und alarmierte die Feuerwehr. ",
+            "tokenIds": [
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101
+            ],
+            "tokens": [
+                "Nachdem",
+                "der",
+                "Fahrer",
+                "den",
+                "Brand",
+                "seines",
+                "Aufliegers",
+                "bemerkt",
+                "hatte",
+                ",",
+                "hielt",
+                "er",
+                "auf",
+                "der",
+                "Lahnbrücke",
+                "und",
+                "alarmierte",
+                "die",
+                "Feuerwehr",
+                "."
+            ]
+        },
+        {
+            "begin": 102,
+            "charBegin": 670,
+            "charEnd": 737,
+            "end": 112,
+            "id": 5,
+            "text": "Sechs der Fässer mit dem Solvenon explodierten nach Polizeiangaben. ",
+            "tokenIds": [
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111
+            ],
+            "tokens": [
+                "Sechs",
+                "der",
+                "Fässer",
+                "mit",
+                "dem",
+                "Solvenon",
+                "explodierten",
+                "nach",
+                "Polizeiangaben",
+                "."
+            ]
+        },
+        {
+            "begin": 112,
+            "charBegin": 738,
+            "charEnd": 889,
+            "end": 138,
+            "id": 6,
+            "text": "Das mit dem giftigen Granulat verseuchte Wasser gelangte ins Erdreich und in die Lahn, da das Gefahrgut für die Feuerwehr zunächst nicht erkennbar war. ",
+            "tokenIds": [
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137
+            ],
+            "tokens": [
+                "Das",
+                "mit",
+                "dem",
+                "giftigen",
+                "Granulat",
+                "verseuchte",
+                "Wasser",
+                "gelangte",
+                "ins",
+                "Erdreich",
+                "und",
+                "in",
+                "die",
+                "Lahn",
+                ",",
+                "da",
+                "das",
+                "Gefahrgut",
+                "für",
+                "die",
+                "Feuerwehr",
+                "zunächst",
+                "nicht",
+                "erkennbar",
+                "war",
+                "."
+            ]
+        },
+        {
+            "begin": 138,
+            "charBegin": 890,
+            "charEnd": 937,
+            "end": 147,
+            "id": 7,
+            "text": "Was den Brand auslöste, war zunächst ungeklärt. ",
+            "tokenIds": [
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146
+            ],
+            "tokens": [
+                "Was",
+                "den",
+                "Brand",
+                "auslöste",
+                ",",
+                "war",
+                "zunächst",
+                "ungeklärt",
+                "."
+            ]
+        },
+        {
+            "begin": 147,
+            "charBegin": 938,
+            "charEnd": 1039,
+            "end": 164,
+            "id": 8,
+            "text": "Vermutlich erhitzten sich die Bremsen während der Fahrt so stark, dass sich der Auflieger entzündete.",
+            "tokenIds": [
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163
+            ],
+            "tokens": [
+                "Vermutlich",
+                "erhitzten",
+                "sich",
+                "die",
+                "Bremsen",
+                "während",
+                "der",
+                "Fahrt",
+                "so",
+                "stark",
+                ",",
+                "dass",
+                "sich",
+                "der",
+                "Auflieger",
+                "entzündete",
+                "."
+            ]
+        },
+        {
+            "begin": 164,
+            "charBegin": 1041,
+            "charEnd": 1097,
+            "end": 172,
+            "id": 9,
+            "text": "Die Untere Wasserbehörde Limburg rief Gewässeralarm aus. ",
+            "tokenIds": [
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171
+            ],
+            "tokens": [
+                "Die",
+                "Untere",
+                "Wasserbehörde",
+                "Limburg",
+                "rief",
+                "Gewässeralarm",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "begin": 172,
+            "charBegin": 1098,
+            "charEnd": 1178,
+            "end": 187,
+            "id": 10,
+            "text": "Die Lahn wurde für die Schifffahrt gesperrt, auch Baden und Angeln war verboten.",
+            "tokenIds": [
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186
+            ],
+            "tokens": [
+                "Die",
+                "Lahn",
+                "wurde",
+                "für",
+                "die",
+                "Schifffahrt",
+                "gesperrt",
+                ",",
+                "auch",
+                "Baden",
+                "und",
+                "Angeln",
+                "war",
+                "verboten",
+                "."
+            ]
+        },
+        {
+            "begin": 187,
+            "charBegin": 1180,
+            "charEnd": 1276,
+            "end": 202,
+            "id": 11,
+            "text": "An der Einsatzstelle bildete sich vorübergehend ein 20 Kilometer langer Stau bis nach Montabaur. ",
+            "tokenIds": [
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201
+            ],
+            "tokens": [
+                "An",
+                "der",
+                "Einsatzstelle",
+                "bildete",
+                "sich",
+                "vorübergehend",
+                "ein",
+                "20",
+                "Kilometer",
+                "langer",
+                "Stau",
+                "bis",
+                "nach",
+                "Montabaur",
+                "."
+            ]
+        },
+        {
+            "begin": 202,
+            "charBegin": 1277,
+            "charEnd": 1337,
+            "end": 211,
+            "id": 12,
+            "text": "Eine Gefährdung für die Bevölkerung bestand angeblich nicht. ",
+            "tokenIds": [
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210
+            ],
+            "tokens": [
+                "Eine",
+                "Gefährdung",
+                "für",
+                "die",
+                "Bevölkerung",
+                "bestand",
+                "angeblich",
+                "nicht",
+                "."
+            ]
+        },
+        {
+            "begin": 211,
+            "charBegin": 1338,
+            "charEnd": 1423,
+            "end": 225,
+            "id": 13,
+            "text": "Dennoch wurden die Anwohner angehalten, ihre Fenster und Türen geschlossen zu halten. ",
+            "tokenIds": [
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224
+            ],
+            "tokens": [
+                "Dennoch",
+                "wurden",
+                "die",
+                "Anwohner",
+                "angehalten",
+                ",",
+                "ihre",
+                "Fenster",
+                "und",
+                "Türen",
+                "geschlossen",
+                "zu",
+                "halten",
+                "."
+            ]
+        },
+        {
+            "begin": 225,
+            "charBegin": 1424,
+            "charEnd": 1473,
+            "end": 233,
+            "id": 14,
+            "text": "Der Sachschaden wurde auf 100.000 Euro beziffert.",
+            "tokenIds": [
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232
+            ],
+            "tokens": [
+                "Der",
+                "Sachschaden",
+                "wurde",
+                "auf",
+                "100.000",
+                "Euro",
+                "beziffert",
+                "."
+            ]
+        },
+        {
+            "begin": 233,
+            "charBegin": 1475,
+            "charEnd": 1570,
+            "end": 248,
+            "id": 15,
+            "text": "Der Spedition droht nun eine hohe Geldstrafe wegen des fehlenden Hinweises auf den Gefahrstoff.",
+            "tokenIds": [
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247
+            ],
+            "tokens": [
+                "Der",
+                "Spedition",
+                "droht",
+                "nun",
+                "eine",
+                "hohe",
+                "Geldstrafe",
+                "wegen",
+                "des",
+                "fehlenden",
+                "Hinweises",
+                "auf",
+                "den",
+                "Gefahrstoff",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 19,
+            "id": 1,
+            "sentence": 1,
+            "text": "Gefahrgutunfall",
+            "word": 2
+        },
+        {
+            "charBegin": 20,
+            "charEnd": 23,
+            "id": 2,
+            "sentence": 1,
+            "text": "auf",
+            "word": 3
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 27,
+            "id": 3,
+            "sentence": 1,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 28,
+            "charEnd": 30,
+            "id": 4,
+            "sentence": 1,
+            "text": "A3",
+            "word": 5
+        },
+        {
+            "charBegin": 31,
+            "charEnd": 34,
+            "id": 5,
+            "sentence": 1,
+            "text": "bei",
+            "word": 6
+        },
+        {
+            "charBegin": 35,
+            "charEnd": 42,
+            "id": 6,
+            "sentence": 1,
+            "text": "Limburg",
+            "word": 7
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 44,
+            "id": 7,
+            "sentence": 1,
+            "text": "(",
+            "word": 8
+        },
+        {
+            "charBegin": 44,
+            "charEnd": 50,
+            "id": 8,
+            "sentence": 1,
+            "text": "Hessen",
+            "word": 9
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 51,
+            "id": 9,
+            "sentence": 1,
+            "text": ")",
+            "word": 10
+        },
+        {
+            "charBegin": 52,
+            "charEnd": 54,
+            "id": 10,
+            "sentence": 1,
+            "text": "am",
+            "word": 11
+        },
+        {
+            "charBegin": 55,
+            "charEnd": 61,
+            "id": 11,
+            "sentence": 1,
+            "text": "Morgen",
+            "word": 12
+        },
+        {
+            "charBegin": 62,
+            "charEnd": 65,
+            "id": 12,
+            "sentence": 1,
+            "text": "des",
+            "word": 13
+        },
+        {
+            "charBegin": 66,
+            "charEnd": 68,
+            "id": 13,
+            "sentence": 1,
+            "text": "5.",
+            "word": 14
+        },
+        {
+            "charBegin": 69,
+            "charEnd": 78,
+            "id": 14,
+            "sentence": 1,
+            "text": "September",
+            "word": 15
+        },
+        {
+            "charBegin": 79,
+            "charEnd": 83,
+            "id": 15,
+            "sentence": 1,
+            "text": "2006",
+            "word": 16
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 90,
+            "id": 16,
+            "sentence": 1,
+            "text": "führte",
+            "word": 17
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 93,
+            "id": 17,
+            "sentence": 1,
+            "text": "zu",
+            "word": 18
+        },
+        {
+            "charBegin": 94,
+            "charEnd": 99,
+            "id": 18,
+            "sentence": 1,
+            "text": "einem",
+            "word": 19
+        },
+        {
+            "charBegin": 100,
+            "charEnd": 113,
+            "id": 19,
+            "sentence": 1,
+            "text": "Verkehrschaos",
+            "word": 20
+        },
+        {
+            "charBegin": 113,
+            "charEnd": 114,
+            "id": 20,
+            "sentence": 1,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 116,
+            "charEnd": 119,
+            "id": 21,
+            "sentence": 2,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 123,
+            "id": 22,
+            "sentence": 2,
+            "text": "LKW",
+            "word": 2
+        },
+        {
+            "charBegin": 124,
+            "charEnd": 129,
+            "id": 23,
+            "sentence": 2,
+            "text": "einer",
+            "word": 3
+        },
+        {
+            "charBegin": 130,
+            "charEnd": 139,
+            "id": 24,
+            "sentence": 2,
+            "text": "Spedition",
+            "word": 4
+        },
+        {
+            "charBegin": 140,
+            "charEnd": 143,
+            "id": 25,
+            "sentence": 2,
+            "text": "aus",
+            "word": 5
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 153,
+            "id": 26,
+            "sentence": 2,
+            "text": "Dannstadt",
+            "word": 6
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 155,
+            "id": 27,
+            "sentence": 2,
+            "text": "(",
+            "word": 7
+        },
+        {
+            "charBegin": 155,
+            "charEnd": 170,
+            "id": 28,
+            "sentence": 2,
+            "text": "Rheinland-Pfalz",
+            "word": 8
+        },
+        {
+            "charBegin": 170,
+            "charEnd": 171,
+            "id": 29,
+            "sentence": 2,
+            "text": ")",
+            "word": 9
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 186,
+            "id": 30,
+            "sentence": 2,
+            "text": "transportierte",
+            "word": 10
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 192,
+            "id": 31,
+            "sentence": 2,
+            "text": "zwölf",
+            "word": 11
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 199,
+            "id": 32,
+            "sentence": 2,
+            "text": "Fässer",
+            "word": 12
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 203,
+            "id": 33,
+            "sentence": 2,
+            "text": "mit",
+            "word": 13
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 206,
+            "id": 34,
+            "sentence": 2,
+            "text": "je",
+            "word": 14
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 210,
+            "id": 35,
+            "sentence": 2,
+            "text": "200",
+            "word": 15
+        },
+        {
+            "charBegin": 211,
+            "charEnd": 217,
+            "id": 36,
+            "sentence": 2,
+            "text": "Litern",
+            "word": 16
+        },
+        {
+            "charBegin": 218,
+            "charEnd": 221,
+            "id": 37,
+            "sentence": 2,
+            "text": "des",
+            "word": 17
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 234,
+            "id": 38,
+            "sentence": 2,
+            "text": "hochgiftigen",
+            "word": 18
+        },
+        {
+            "charBegin": 235,
+            "charEnd": 238,
+            "id": 39,
+            "sentence": 2,
+            "text": "und",
+            "word": 19
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 249,
+            "id": 40,
+            "sentence": 2,
+            "text": "explosiven",
+            "word": 20
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 259,
+            "id": 41,
+            "sentence": 2,
+            "text": "Solvenon",
+            "word": 21
+        },
+        {
+            "charBegin": 260,
+            "charEnd": 265,
+            "id": 42,
+            "sentence": 2,
+            "text": "sowie",
+            "word": 22
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 269,
+            "id": 43,
+            "sentence": 2,
+            "text": "ein",
+            "word": 23
+        },
+        {
+            "charBegin": 270,
+            "charEnd": 273,
+            "id": 44,
+            "sentence": 2,
+            "text": "für",
+            "word": 24
+        },
+        {
+            "charBegin": 274,
+            "charEnd": 290,
+            "id": 45,
+            "sentence": 2,
+            "text": "Wasserorganismen",
+            "word": 25
+        },
+        {
+            "charBegin": 291,
+            "charEnd": 303,
+            "id": 46,
+            "sentence": 2,
+            "text": "hochgiftiges",
+            "word": 26
+        },
+        {
+            "charBegin": 304,
+            "charEnd": 312,
+            "id": 47,
+            "sentence": 2,
+            "text": "Granulat",
+            "word": 27
+        },
+        {
+            "charBegin": 313,
+            "charEnd": 316,
+            "id": 48,
+            "sentence": 2,
+            "text": "von",
+            "word": 28
+        },
+        {
+            "charBegin": 317,
+            "charEnd": 324,
+            "id": 49,
+            "sentence": 2,
+            "text": "Belgien",
+            "word": 29
+        },
+        {
+            "charBegin": 325,
+            "charEnd": 329,
+            "id": 50,
+            "sentence": 2,
+            "text": "nach",
+            "word": 30
+        },
+        {
+            "charBegin": 330,
+            "charEnd": 342,
+            "id": 51,
+            "sentence": 2,
+            "text": "Bischofsheim",
+            "word": 31
+        },
+        {
+            "charBegin": 343,
+            "charEnd": 345,
+            "id": 52,
+            "sentence": 2,
+            "text": "im",
+            "word": 32
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 351,
+            "id": 53,
+            "sentence": 2,
+            "text": "Kreis",
+            "word": 33
+        },
+        {
+            "charBegin": 352,
+            "charEnd": 362,
+            "id": 54,
+            "sentence": 2,
+            "text": "Groß-Gerau",
+            "word": 34
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 363,
+            "id": 55,
+            "sentence": 2,
+            "text": ".",
+            "word": 35
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 369,
+            "id": 56,
+            "sentence": 3,
+            "text": "Dabei",
+            "word": 1
+        },
+        {
+            "charBegin": 370,
+            "charEnd": 373,
+            "id": 57,
+            "sentence": 3,
+            "text": "war",
+            "word": 2
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 378,
+            "id": 58,
+            "sentence": 3,
+            "text": "sein",
+            "word": 3
+        },
+        {
+            "charBegin": 379,
+            "charEnd": 387,
+            "id": 59,
+            "sentence": 3,
+            "text": "Fahrzeug",
+            "word": 4
+        },
+        {
+            "charBegin": 388,
+            "charEnd": 393,
+            "id": 60,
+            "sentence": 3,
+            "text": "nicht",
+            "word": 5
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 397,
+            "id": 61,
+            "sentence": 3,
+            "text": "mit",
+            "word": 6
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 401,
+            "id": 62,
+            "sentence": 3,
+            "text": "dem",
+            "word": 7
+        },
+        {
+            "charBegin": 402,
+            "charEnd": 418,
+            "id": 63,
+            "sentence": 3,
+            "text": "vorgeschriebenen",
+            "word": 8
+        },
+        {
+            "charBegin": 419,
+            "charEnd": 435,
+            "id": 64,
+            "sentence": 3,
+            "text": "Gefahrguthinweis",
+            "word": 9
+        },
+        {
+            "charBegin": 436,
+            "charEnd": 444,
+            "id": 65,
+            "sentence": 3,
+            "text": "versehen",
+            "word": 10
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 445,
+            "id": 66,
+            "sentence": 3,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 453,
+            "id": 67,
+            "sentence": 4,
+            "text": "Eigenen",
+            "word": 1
+        },
+        {
+            "charBegin": 454,
+            "charEnd": 461,
+            "id": 68,
+            "sentence": 4,
+            "text": "Angaben",
+            "word": 2
+        },
+        {
+            "charBegin": 462,
+            "charEnd": 469,
+            "id": 69,
+            "sentence": 4,
+            "text": "zufolge",
+            "word": 3
+        },
+        {
+            "charBegin": 470,
+            "charEnd": 476,
+            "id": 70,
+            "sentence": 4,
+            "text": "wusste",
+            "word": 4
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 480,
+            "id": 71,
+            "sentence": 4,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 481,
+            "charEnd": 491,
+            "id": 72,
+            "sentence": 4,
+            "text": "41-jährige",
+            "word": 6
+        },
+        {
+            "charBegin": 492,
+            "charEnd": 498,
+            "id": 73,
+            "sentence": 4,
+            "text": "Fahrer",
+            "word": 7
+        },
+        {
+            "charBegin": 499,
+            "charEnd": 503,
+            "id": 74,
+            "sentence": 4,
+            "text": "auch",
+            "word": 8
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 510,
+            "id": 75,
+            "sentence": 4,
+            "text": "nichts",
+            "word": 9
+        },
+        {
+            "charBegin": 511,
+            "charEnd": 514,
+            "id": 76,
+            "sentence": 4,
+            "text": "von",
+            "word": 10
+        },
+        {
+            "charBegin": 515,
+            "charEnd": 518,
+            "id": 77,
+            "sentence": 4,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 519,
+            "charEnd": 533,
+            "id": 78,
+            "sentence": 4,
+            "text": "Gefährlichkeit",
+            "word": 12
+        },
+        {
+            "charBegin": 534,
+            "charEnd": 540,
+            "id": 79,
+            "sentence": 4,
+            "text": "seiner",
+            "word": 13
+        },
+        {
+            "charBegin": 541,
+            "charEnd": 547,
+            "id": 80,
+            "sentence": 4,
+            "text": "Ladung",
+            "word": 14
+        },
+        {
+            "charBegin": 547,
+            "charEnd": 548,
+            "id": 81,
+            "sentence": 4,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 550,
+            "charEnd": 557,
+            "id": 82,
+            "sentence": 5,
+            "text": "Nachdem",
+            "word": 1
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 561,
+            "id": 83,
+            "sentence": 5,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 562,
+            "charEnd": 568,
+            "id": 84,
+            "sentence": 5,
+            "text": "Fahrer",
+            "word": 3
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 572,
+            "id": 85,
+            "sentence": 5,
+            "text": "den",
+            "word": 4
+        },
+        {
+            "charBegin": 573,
+            "charEnd": 578,
+            "id": 86,
+            "sentence": 5,
+            "text": "Brand",
+            "word": 5
+        },
+        {
+            "charBegin": 579,
+            "charEnd": 585,
+            "id": 87,
+            "sentence": 5,
+            "text": "seines",
+            "word": 6
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 596,
+            "id": 88,
+            "sentence": 5,
+            "text": "Aufliegers",
+            "word": 7
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 604,
+            "id": 89,
+            "sentence": 5,
+            "text": "bemerkt",
+            "word": 8
+        },
+        {
+            "charBegin": 605,
+            "charEnd": 610,
+            "id": 90,
+            "sentence": 5,
+            "text": "hatte",
+            "word": 9
+        },
+        {
+            "charBegin": 610,
+            "charEnd": 611,
+            "id": 91,
+            "sentence": 5,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 612,
+            "charEnd": 617,
+            "id": 92,
+            "sentence": 5,
+            "text": "hielt",
+            "word": 11
+        },
+        {
+            "charBegin": 618,
+            "charEnd": 620,
+            "id": 93,
+            "sentence": 5,
+            "text": "er",
+            "word": 12
+        },
+        {
+            "charBegin": 621,
+            "charEnd": 624,
+            "id": 94,
+            "sentence": 5,
+            "text": "auf",
+            "word": 13
+        },
+        {
+            "charBegin": 625,
+            "charEnd": 628,
+            "id": 95,
+            "sentence": 5,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 629,
+            "charEnd": 639,
+            "id": 96,
+            "sentence": 5,
+            "text": "Lahnbrücke",
+            "word": 15
+        },
+        {
+            "charBegin": 640,
+            "charEnd": 643,
+            "id": 97,
+            "sentence": 5,
+            "text": "und",
+            "word": 16
+        },
+        {
+            "charBegin": 644,
+            "charEnd": 654,
+            "id": 98,
+            "sentence": 5,
+            "text": "alarmierte",
+            "word": 17
+        },
+        {
+            "charBegin": 655,
+            "charEnd": 658,
+            "id": 99,
+            "sentence": 5,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 659,
+            "charEnd": 668,
+            "id": 100,
+            "sentence": 5,
+            "text": "Feuerwehr",
+            "word": 19
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 669,
+            "id": 101,
+            "sentence": 5,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 670,
+            "charEnd": 675,
+            "id": 102,
+            "sentence": 6,
+            "text": "Sechs",
+            "word": 1
+        },
+        {
+            "charBegin": 676,
+            "charEnd": 679,
+            "id": 103,
+            "sentence": 6,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 680,
+            "charEnd": 686,
+            "id": 104,
+            "sentence": 6,
+            "text": "Fässer",
+            "word": 3
+        },
+        {
+            "charBegin": 687,
+            "charEnd": 690,
+            "id": 105,
+            "sentence": 6,
+            "text": "mit",
+            "word": 4
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 694,
+            "id": 106,
+            "sentence": 6,
+            "text": "dem",
+            "word": 5
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 703,
+            "id": 107,
+            "sentence": 6,
+            "text": "Solvenon",
+            "word": 6
+        },
+        {
+            "charBegin": 704,
+            "charEnd": 716,
+            "id": 108,
+            "sentence": 6,
+            "text": "explodierten",
+            "word": 7
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 721,
+            "id": 109,
+            "sentence": 6,
+            "text": "nach",
+            "word": 8
+        },
+        {
+            "charBegin": 722,
+            "charEnd": 736,
+            "id": 110,
+            "sentence": 6,
+            "text": "Polizeiangaben",
+            "word": 9
+        },
+        {
+            "charBegin": 736,
+            "charEnd": 737,
+            "id": 111,
+            "sentence": 6,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 738,
+            "charEnd": 741,
+            "id": 112,
+            "sentence": 7,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 742,
+            "charEnd": 745,
+            "id": 113,
+            "sentence": 7,
+            "text": "mit",
+            "word": 2
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 749,
+            "id": 114,
+            "sentence": 7,
+            "text": "dem",
+            "word": 3
+        },
+        {
+            "charBegin": 750,
+            "charEnd": 758,
+            "id": 115,
+            "sentence": 7,
+            "text": "giftigen",
+            "word": 4
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 767,
+            "id": 116,
+            "sentence": 7,
+            "text": "Granulat",
+            "word": 5
+        },
+        {
+            "charBegin": 768,
+            "charEnd": 778,
+            "id": 117,
+            "sentence": 7,
+            "text": "verseuchte",
+            "word": 6
+        },
+        {
+            "charBegin": 779,
+            "charEnd": 785,
+            "id": 118,
+            "sentence": 7,
+            "text": "Wasser",
+            "word": 7
+        },
+        {
+            "charBegin": 786,
+            "charEnd": 794,
+            "id": 119,
+            "sentence": 7,
+            "text": "gelangte",
+            "word": 8
+        },
+        {
+            "charBegin": 795,
+            "charEnd": 798,
+            "id": 120,
+            "sentence": 7,
+            "text": "ins",
+            "word": 9
+        },
+        {
+            "charBegin": 799,
+            "charEnd": 807,
+            "id": 121,
+            "sentence": 7,
+            "text": "Erdreich",
+            "word": 10
+        },
+        {
+            "charBegin": 808,
+            "charEnd": 811,
+            "id": 122,
+            "sentence": 7,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 812,
+            "charEnd": 814,
+            "id": 123,
+            "sentence": 7,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 815,
+            "charEnd": 818,
+            "id": 124,
+            "sentence": 7,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 819,
+            "charEnd": 823,
+            "id": 125,
+            "sentence": 7,
+            "text": "Lahn",
+            "word": 14
+        },
+        {
+            "charBegin": 823,
+            "charEnd": 824,
+            "id": 126,
+            "sentence": 7,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 825,
+            "charEnd": 827,
+            "id": 127,
+            "sentence": 7,
+            "text": "da",
+            "word": 16
+        },
+        {
+            "charBegin": 828,
+            "charEnd": 831,
+            "id": 128,
+            "sentence": 7,
+            "text": "das",
+            "word": 17
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 841,
+            "id": 129,
+            "sentence": 7,
+            "text": "Gefahrgut",
+            "word": 18
+        },
+        {
+            "charBegin": 842,
+            "charEnd": 845,
+            "id": 130,
+            "sentence": 7,
+            "text": "für",
+            "word": 19
+        },
+        {
+            "charBegin": 846,
+            "charEnd": 849,
+            "id": 131,
+            "sentence": 7,
+            "text": "die",
+            "word": 20
+        },
+        {
+            "charBegin": 850,
+            "charEnd": 859,
+            "id": 132,
+            "sentence": 7,
+            "text": "Feuerwehr",
+            "word": 21
+        },
+        {
+            "charBegin": 860,
+            "charEnd": 868,
+            "id": 133,
+            "sentence": 7,
+            "text": "zunächst",
+            "word": 22
+        },
+        {
+            "charBegin": 869,
+            "charEnd": 874,
+            "id": 134,
+            "sentence": 7,
+            "text": "nicht",
+            "word": 23
+        },
+        {
+            "charBegin": 875,
+            "charEnd": 884,
+            "id": 135,
+            "sentence": 7,
+            "text": "erkennbar",
+            "word": 24
+        },
+        {
+            "charBegin": 885,
+            "charEnd": 888,
+            "id": 136,
+            "sentence": 7,
+            "text": "war",
+            "word": 25
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 889,
+            "id": 137,
+            "sentence": 7,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 890,
+            "charEnd": 893,
+            "id": 138,
+            "sentence": 8,
+            "text": "Was",
+            "word": 1
+        },
+        {
+            "charBegin": 894,
+            "charEnd": 897,
+            "id": 139,
+            "sentence": 8,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 898,
+            "charEnd": 903,
+            "id": 140,
+            "sentence": 8,
+            "text": "Brand",
+            "word": 3
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 912,
+            "id": 141,
+            "sentence": 8,
+            "text": "auslöste",
+            "word": 4
+        },
+        {
+            "charBegin": 912,
+            "charEnd": 913,
+            "id": 142,
+            "sentence": 8,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 914,
+            "charEnd": 917,
+            "id": 143,
+            "sentence": 8,
+            "text": "war",
+            "word": 6
+        },
+        {
+            "charBegin": 918,
+            "charEnd": 926,
+            "id": 144,
+            "sentence": 8,
+            "text": "zunächst",
+            "word": 7
+        },
+        {
+            "charBegin": 927,
+            "charEnd": 936,
+            "id": 145,
+            "sentence": 8,
+            "text": "ungeklärt",
+            "word": 8
+        },
+        {
+            "charBegin": 936,
+            "charEnd": 937,
+            "id": 146,
+            "sentence": 8,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 938,
+            "charEnd": 948,
+            "id": 147,
+            "sentence": 9,
+            "text": "Vermutlich",
+            "word": 1
+        },
+        {
+            "charBegin": 949,
+            "charEnd": 958,
+            "id": 148,
+            "sentence": 9,
+            "text": "erhitzten",
+            "word": 2
+        },
+        {
+            "charBegin": 959,
+            "charEnd": 963,
+            "id": 149,
+            "sentence": 9,
+            "text": "sich",
+            "word": 3
+        },
+        {
+            "charBegin": 964,
+            "charEnd": 967,
+            "id": 150,
+            "sentence": 9,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 968,
+            "charEnd": 975,
+            "id": 151,
+            "sentence": 9,
+            "text": "Bremsen",
+            "word": 5
+        },
+        {
+            "charBegin": 976,
+            "charEnd": 983,
+            "id": 152,
+            "sentence": 9,
+            "text": "während",
+            "word": 6
+        },
+        {
+            "charBegin": 984,
+            "charEnd": 987,
+            "id": 153,
+            "sentence": 9,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 988,
+            "charEnd": 993,
+            "id": 154,
+            "sentence": 9,
+            "text": "Fahrt",
+            "word": 8
+        },
+        {
+            "charBegin": 994,
+            "charEnd": 996,
+            "id": 155,
+            "sentence": 9,
+            "text": "so",
+            "word": 9
+        },
+        {
+            "charBegin": 997,
+            "charEnd": 1002,
+            "id": 156,
+            "sentence": 9,
+            "text": "stark",
+            "word": 10
+        },
+        {
+            "charBegin": 1002,
+            "charEnd": 1003,
+            "id": 157,
+            "sentence": 9,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1004,
+            "charEnd": 1008,
+            "id": 158,
+            "sentence": 9,
+            "text": "dass",
+            "word": 12
+        },
+        {
+            "charBegin": 1009,
+            "charEnd": 1013,
+            "id": 159,
+            "sentence": 9,
+            "text": "sich",
+            "word": 13
+        },
+        {
+            "charBegin": 1014,
+            "charEnd": 1017,
+            "id": 160,
+            "sentence": 9,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 1018,
+            "charEnd": 1027,
+            "id": 161,
+            "sentence": 9,
+            "text": "Auflieger",
+            "word": 15
+        },
+        {
+            "charBegin": 1028,
+            "charEnd": 1038,
+            "id": 162,
+            "sentence": 9,
+            "text": "entzündete",
+            "word": 16
+        },
+        {
+            "charBegin": 1038,
+            "charEnd": 1039,
+            "id": 163,
+            "sentence": 9,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 1041,
+            "charEnd": 1044,
+            "id": 164,
+            "sentence": 10,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1045,
+            "charEnd": 1051,
+            "id": 165,
+            "sentence": 10,
+            "text": "Untere",
+            "word": 2
+        },
+        {
+            "charBegin": 1052,
+            "charEnd": 1065,
+            "id": 166,
+            "sentence": 10,
+            "text": "Wasserbehörde",
+            "word": 3
+        },
+        {
+            "charBegin": 1066,
+            "charEnd": 1073,
+            "id": 167,
+            "sentence": 10,
+            "text": "Limburg",
+            "word": 4
+        },
+        {
+            "charBegin": 1074,
+            "charEnd": 1078,
+            "id": 168,
+            "sentence": 10,
+            "text": "rief",
+            "word": 5
+        },
+        {
+            "charBegin": 1079,
+            "charEnd": 1092,
+            "id": 169,
+            "sentence": 10,
+            "text": "Gewässeralarm",
+            "word": 6
+        },
+        {
+            "charBegin": 1093,
+            "charEnd": 1096,
+            "id": 170,
+            "sentence": 10,
+            "text": "aus",
+            "word": 7
+        },
+        {
+            "charBegin": 1096,
+            "charEnd": 1097,
+            "id": 171,
+            "sentence": 10,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 1098,
+            "charEnd": 1101,
+            "id": 172,
+            "sentence": 11,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1102,
+            "charEnd": 1106,
+            "id": 173,
+            "sentence": 11,
+            "text": "Lahn",
+            "word": 2
+        },
+        {
+            "charBegin": 1107,
+            "charEnd": 1112,
+            "id": 174,
+            "sentence": 11,
+            "text": "wurde",
+            "word": 3
+        },
+        {
+            "charBegin": 1113,
+            "charEnd": 1116,
+            "id": 175,
+            "sentence": 11,
+            "text": "für",
+            "word": 4
+        },
+        {
+            "charBegin": 1117,
+            "charEnd": 1120,
+            "id": 176,
+            "sentence": 11,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 1121,
+            "charEnd": 1132,
+            "id": 177,
+            "sentence": 11,
+            "text": "Schifffahrt",
+            "word": 6
+        },
+        {
+            "charBegin": 1133,
+            "charEnd": 1141,
+            "id": 178,
+            "sentence": 11,
+            "text": "gesperrt",
+            "word": 7
+        },
+        {
+            "charBegin": 1141,
+            "charEnd": 1142,
+            "id": 179,
+            "sentence": 11,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 1143,
+            "charEnd": 1147,
+            "id": 180,
+            "sentence": 11,
+            "text": "auch",
+            "word": 9
+        },
+        {
+            "charBegin": 1148,
+            "charEnd": 1153,
+            "id": 181,
+            "sentence": 11,
+            "text": "Baden",
+            "word": 10
+        },
+        {
+            "charBegin": 1154,
+            "charEnd": 1157,
+            "id": 182,
+            "sentence": 11,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 1158,
+            "charEnd": 1164,
+            "id": 183,
+            "sentence": 11,
+            "text": "Angeln",
+            "word": 12
+        },
+        {
+            "charBegin": 1165,
+            "charEnd": 1168,
+            "id": 184,
+            "sentence": 11,
+            "text": "war",
+            "word": 13
+        },
+        {
+            "charBegin": 1169,
+            "charEnd": 1177,
+            "id": 185,
+            "sentence": 11,
+            "text": "verboten",
+            "word": 14
+        },
+        {
+            "charBegin": 1177,
+            "charEnd": 1178,
+            "id": 186,
+            "sentence": 11,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 1180,
+            "charEnd": 1182,
+            "id": 187,
+            "sentence": 12,
+            "text": "An",
+            "word": 1
+        },
+        {
+            "charBegin": 1183,
+            "charEnd": 1186,
+            "id": 188,
+            "sentence": 12,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 1187,
+            "charEnd": 1200,
+            "id": 189,
+            "sentence": 12,
+            "text": "Einsatzstelle",
+            "word": 3
+        },
+        {
+            "charBegin": 1201,
+            "charEnd": 1208,
+            "id": 190,
+            "sentence": 12,
+            "text": "bildete",
+            "word": 4
+        },
+        {
+            "charBegin": 1209,
+            "charEnd": 1213,
+            "id": 191,
+            "sentence": 12,
+            "text": "sich",
+            "word": 5
+        },
+        {
+            "charBegin": 1214,
+            "charEnd": 1227,
+            "id": 192,
+            "sentence": 12,
+            "text": "vorübergehend",
+            "word": 6
+        },
+        {
+            "charBegin": 1228,
+            "charEnd": 1231,
+            "id": 193,
+            "sentence": 12,
+            "text": "ein",
+            "word": 7
+        },
+        {
+            "charBegin": 1232,
+            "charEnd": 1234,
+            "id": 194,
+            "sentence": 12,
+            "text": "20",
+            "word": 8
+        },
+        {
+            "charBegin": 1235,
+            "charEnd": 1244,
+            "id": 195,
+            "sentence": 12,
+            "text": "Kilometer",
+            "word": 9
+        },
+        {
+            "charBegin": 1245,
+            "charEnd": 1251,
+            "id": 196,
+            "sentence": 12,
+            "text": "langer",
+            "word": 10
+        },
+        {
+            "charBegin": 1252,
+            "charEnd": 1256,
+            "id": 197,
+            "sentence": 12,
+            "text": "Stau",
+            "word": 11
+        },
+        {
+            "charBegin": 1257,
+            "charEnd": 1260,
+            "id": 198,
+            "sentence": 12,
+            "text": "bis",
+            "word": 12
+        },
+        {
+            "charBegin": 1261,
+            "charEnd": 1265,
+            "id": 199,
+            "sentence": 12,
+            "text": "nach",
+            "word": 13
+        },
+        {
+            "charBegin": 1266,
+            "charEnd": 1275,
+            "id": 200,
+            "sentence": 12,
+            "text": "Montabaur",
+            "word": 14
+        },
+        {
+            "charBegin": 1275,
+            "charEnd": 1276,
+            "id": 201,
+            "sentence": 12,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 1277,
+            "charEnd": 1281,
+            "id": 202,
+            "sentence": 13,
+            "text": "Eine",
+            "word": 1
+        },
+        {
+            "charBegin": 1282,
+            "charEnd": 1292,
+            "id": 203,
+            "sentence": 13,
+            "text": "Gefährdung",
+            "word": 2
+        },
+        {
+            "charBegin": 1293,
+            "charEnd": 1296,
+            "id": 204,
+            "sentence": 13,
+            "text": "für",
+            "word": 3
+        },
+        {
+            "charBegin": 1297,
+            "charEnd": 1300,
+            "id": 205,
+            "sentence": 13,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 1301,
+            "charEnd": 1312,
+            "id": 206,
+            "sentence": 13,
+            "text": "Bevölkerung",
+            "word": 5
+        },
+        {
+            "charBegin": 1313,
+            "charEnd": 1320,
+            "id": 207,
+            "sentence": 13,
+            "text": "bestand",
+            "word": 6
+        },
+        {
+            "charBegin": 1321,
+            "charEnd": 1330,
+            "id": 208,
+            "sentence": 13,
+            "text": "angeblich",
+            "word": 7
+        },
+        {
+            "charBegin": 1331,
+            "charEnd": 1336,
+            "id": 209,
+            "sentence": 13,
+            "text": "nicht",
+            "word": 8
+        },
+        {
+            "charBegin": 1336,
+            "charEnd": 1337,
+            "id": 210,
+            "sentence": 13,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 1338,
+            "charEnd": 1345,
+            "id": 211,
+            "sentence": 14,
+            "text": "Dennoch",
+            "word": 1
+        },
+        {
+            "charBegin": 1346,
+            "charEnd": 1352,
+            "id": 212,
+            "sentence": 14,
+            "text": "wurden",
+            "word": 2
+        },
+        {
+            "charBegin": 1353,
+            "charEnd": 1356,
+            "id": 213,
+            "sentence": 14,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 1357,
+            "charEnd": 1365,
+            "id": 214,
+            "sentence": 14,
+            "text": "Anwohner",
+            "word": 4
+        },
+        {
+            "charBegin": 1366,
+            "charEnd": 1376,
+            "id": 215,
+            "sentence": 14,
+            "text": "angehalten",
+            "word": 5
+        },
+        {
+            "charBegin": 1376,
+            "charEnd": 1377,
+            "id": 216,
+            "sentence": 14,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 1378,
+            "charEnd": 1382,
+            "id": 217,
+            "sentence": 14,
+            "text": "ihre",
+            "word": 7
+        },
+        {
+            "charBegin": 1383,
+            "charEnd": 1390,
+            "id": 218,
+            "sentence": 14,
+            "text": "Fenster",
+            "word": 8
+        },
+        {
+            "charBegin": 1391,
+            "charEnd": 1394,
+            "id": 219,
+            "sentence": 14,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 1395,
+            "charEnd": 1400,
+            "id": 220,
+            "sentence": 14,
+            "text": "Türen",
+            "word": 10
+        },
+        {
+            "charBegin": 1401,
+            "charEnd": 1412,
+            "id": 221,
+            "sentence": 14,
+            "text": "geschlossen",
+            "word": 11
+        },
+        {
+            "charBegin": 1413,
+            "charEnd": 1415,
+            "id": 222,
+            "sentence": 14,
+            "text": "zu",
+            "word": 12
+        },
+        {
+            "charBegin": 1416,
+            "charEnd": 1422,
+            "id": 223,
+            "sentence": 14,
+            "text": "halten",
+            "word": 13
+        },
+        {
+            "charBegin": 1422,
+            "charEnd": 1423,
+            "id": 224,
+            "sentence": 14,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1424,
+            "charEnd": 1427,
+            "id": 225,
+            "sentence": 15,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1428,
+            "charEnd": 1439,
+            "id": 226,
+            "sentence": 15,
+            "text": "Sachschaden",
+            "word": 2
+        },
+        {
+            "charBegin": 1440,
+            "charEnd": 1445,
+            "id": 227,
+            "sentence": 15,
+            "text": "wurde",
+            "word": 3
+        },
+        {
+            "charBegin": 1446,
+            "charEnd": 1449,
+            "id": 228,
+            "sentence": 15,
+            "text": "auf",
+            "word": 4
+        },
+        {
+            "charBegin": 1450,
+            "charEnd": 1457,
+            "id": 229,
+            "sentence": 15,
+            "text": "100.000",
+            "word": 5
+        },
+        {
+            "charBegin": 1458,
+            "charEnd": 1462,
+            "id": 230,
+            "sentence": 15,
+            "text": "Euro",
+            "word": 6
+        },
+        {
+            "charBegin": 1463,
+            "charEnd": 1472,
+            "id": 231,
+            "sentence": 15,
+            "text": "beziffert",
+            "word": 7
+        },
+        {
+            "charBegin": 1472,
+            "charEnd": 1473,
+            "id": 232,
+            "sentence": 15,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 1475,
+            "charEnd": 1478,
+            "id": 233,
+            "sentence": 16,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1479,
+            "charEnd": 1488,
+            "id": 234,
+            "sentence": 16,
+            "text": "Spedition",
+            "word": 2
+        },
+        {
+            "charBegin": 1489,
+            "charEnd": 1494,
+            "id": 235,
+            "sentence": 16,
+            "text": "droht",
+            "word": 3
+        },
+        {
+            "charBegin": 1495,
+            "charEnd": 1498,
+            "id": 236,
+            "sentence": 16,
+            "text": "nun",
+            "word": 4
+        },
+        {
+            "charBegin": 1499,
+            "charEnd": 1503,
+            "id": 237,
+            "sentence": 16,
+            "text": "eine",
+            "word": 5
+        },
+        {
+            "charBegin": 1504,
+            "charEnd": 1508,
+            "id": 238,
+            "sentence": 16,
+            "text": "hohe",
+            "word": 6
+        },
+        {
+            "charBegin": 1509,
+            "charEnd": 1519,
+            "id": 239,
+            "sentence": 16,
+            "text": "Geldstrafe",
+            "word": 7
+        },
+        {
+            "charBegin": 1520,
+            "charEnd": 1525,
+            "id": 240,
+            "sentence": 16,
+            "text": "wegen",
+            "word": 8
+        },
+        {
+            "charBegin": 1526,
+            "charEnd": 1529,
+            "id": 241,
+            "sentence": 16,
+            "text": "des",
+            "word": 9
+        },
+        {
+            "charBegin": 1530,
+            "charEnd": 1539,
+            "id": 242,
+            "sentence": 16,
+            "text": "fehlenden",
+            "word": 10
+        },
+        {
+            "charBegin": 1540,
+            "charEnd": 1549,
+            "id": 243,
+            "sentence": 16,
+            "text": "Hinweises",
+            "word": 11
+        },
+        {
+            "charBegin": 1550,
+            "charEnd": 1553,
+            "id": 244,
+            "sentence": 16,
+            "text": "auf",
+            "word": 12
+        },
+        {
+            "charBegin": 1554,
+            "charEnd": 1557,
+            "id": 245,
+            "sentence": 16,
+            "text": "den",
+            "word": 13
+        },
+        {
+            "charBegin": 1558,
+            "charEnd": 1569,
+            "id": 246,
+            "sentence": 16,
+            "text": "Gefahrstoff",
+            "word": 14
+        },
+        {
+            "charBegin": 1569,
+            "charEnd": 1570,
+            "id": 247,
+            "sentence": 16,
+            "text": ".",
+            "word": 15
+        }
+    ]
+}

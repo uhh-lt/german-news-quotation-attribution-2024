@@ -1,0 +1,204 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 97,
+                        "end": 12
+                    }
+                ],
+                "text": "Edward Snowden hatt noch weitere Enthüllungen zum Spähprogramme der US-Geheimdienste angekündigt.",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 14,
+                        "end": 2
+                    }
+                ],
+                "text": "Edward Snowden",
+                "tokenIds": [
+                    0,
+                    1
+                ]
+            },
+            "type": "Reported"
+        }
+    ],
+    "documentName": "75759 - Loeschcontainer-Prism-Spähprogramms (2013-06-18)",
+    "originalText": "Edward Snowden hatt noch weitere Enthüllungen zum Spähprogramme der US-Geheimdienste angekündigt.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 97,
+            "end": 12,
+            "id": 0,
+            "text": "Edward Snowden hatt noch weitere Enthüllungen zum Spähprogramme der US-Geheimdienste angekündigt.",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ],
+            "tokens": [
+                "Edward",
+                "Snowden",
+                "hatt",
+                "noch",
+                "weitere",
+                "Enthüllungen",
+                "zum",
+                "Spähprogramme",
+                "der",
+                "US-Geheimdienste",
+                "angekündigt",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 6,
+            "id": 0,
+            "sentence": 1,
+            "text": "Edward",
+            "word": 1
+        },
+        {
+            "charBegin": 7,
+            "charEnd": 14,
+            "id": 1,
+            "sentence": 1,
+            "text": "Snowden",
+            "word": 2
+        },
+        {
+            "charBegin": 15,
+            "charEnd": 19,
+            "id": 2,
+            "sentence": 1,
+            "text": "hatt",
+            "word": 3
+        },
+        {
+            "charBegin": 20,
+            "charEnd": 24,
+            "id": 3,
+            "sentence": 1,
+            "text": "noch",
+            "word": 4
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 32,
+            "id": 4,
+            "sentence": 1,
+            "text": "weitere",
+            "word": 5
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 45,
+            "id": 5,
+            "sentence": 1,
+            "text": "Enthüllungen",
+            "word": 6
+        },
+        {
+            "charBegin": 46,
+            "charEnd": 49,
+            "id": 6,
+            "sentence": 1,
+            "text": "zum",
+            "word": 7
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 63,
+            "id": 7,
+            "sentence": 1,
+            "text": "Spähprogramme",
+            "word": 8
+        },
+        {
+            "charBegin": 64,
+            "charEnd": 67,
+            "id": 8,
+            "sentence": 1,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 68,
+            "charEnd": 84,
+            "id": 9,
+            "sentence": 1,
+            "text": "US-Geheimdienste",
+            "word": 10
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 96,
+            "id": 10,
+            "sentence": 1,
+            "text": "angekündigt",
+            "word": 11
+        },
+        {
+            "charBegin": 96,
+            "charEnd": 97,
+            "id": 11,
+            "sentence": 1,
+            "text": ".",
+            "word": 12
+        }
+    ]
+}

@@ -1,0 +1,2051 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 12,
+                        "charBegin": 78,
+                        "charEnd": 81,
+                        "end": 13
+                    },
+                    {
+                        "begin": 20,
+                        "charBegin": 144,
+                        "charEnd": 151,
+                        "end": 21
+                    }
+                ],
+                "text": "gab bekannt",
+                "tokenIds": [
+                    12,
+                    20
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 12,
+                        "charBegin": 78,
+                        "charEnd": 151,
+                        "end": 21
+                    }
+                ],
+                "text": "gab die Vereinsführung heute Nachmittag auf einer Pressekonferenz bekannt",
+                "tokenIds": [
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 71,
+                        "end": 10
+                    },
+                    {
+                        "begin": 11,
+                        "charBegin": 73,
+                        "charEnd": 77,
+                        "end": 12
+                    }
+                ],
+                "text": "Der Italiener Giovanni Trapattoni wird neuer Trainer beim VfB Stuttgart Dies",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    11
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 13,
+                        "charBegin": 82,
+                        "charEnd": 100,
+                        "end": 15
+                    }
+                ],
+                "text": "die Vereinsführung",
+                "tokenIds": [
+                    13,
+                    14
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 95,
+                        "charBegin": 611,
+                        "charEnd": 618,
+                        "end": 96
+                    },
+                    {
+                        "begin": 97,
+                        "charBegin": 622,
+                        "charEnd": 626,
+                        "end": 98
+                    },
+                    {
+                        "begin": 101,
+                        "charBegin": 651,
+                        "charEnd": 657,
+                        "end": 102
+                    }
+                ],
+                "text": "meldete sich zurück",
+                "tokenIds": [
+                    95,
+                    97,
+                    101
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 91,
+                        "charBegin": 591,
+                        "charEnd": 657,
+                        "end": 102
+                    }
+                ],
+                "text": ", mit diesen Worten meldete er sich auf der Pressekonferenz zurück",
+                "tokenIds": [
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    101
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 82,
+                        "charBegin": 559,
+                        "charEnd": 591,
+                        "end": 91
+                    }
+                ],
+                "text": "„Guten Tag, ich schon wieder da“",
+                "tokenIds": [
+                    82,
+                    83,
+                    84,
+                    85,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 96,
+                        "charBegin": 619,
+                        "charEnd": 621,
+                        "end": 97
+                    }
+                ],
+                "text": "er",
+                "tokenIds": [
+                    96
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 134,
+                        "charBegin": 832,
+                        "charEnd": 849,
+                        "end": 139
+                    }
+                ],
+                "text": "„Ich habe fertig“",
+                "tokenIds": [
+                    134,
+                    135,
+                    136,
+                    137,
+                    138
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 116,
+                        "charBegin": 742,
+                        "charEnd": 756,
+                        "end": 118
+                    }
+                ],
+                "text": "seiner Wutrede",
+                "tokenIds": [
+                    116,
+                    117
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "6399 - Giovanni Trapattoni wird neuer Trainer beim VFB Stuttgart (2005-06-17)",
+    "originalText": "Der Italiener Giovanni Trapattoni wird neuer Trainer beim VfB Stuttgart. Dies gab die Vereinsführung heute Nachmittag auf einer Pressekonferenz bekannt.\n\nDer 66-jährige Trapattoni, der sich seit Mittwoch in Stuttgart befindet, unterschrieb bei dem Fußball-Bundesligisten einen Zweijahresvertrag bis 2007. Er war vorher beim portugiesischen Fußballverein Benfica Lissabon tätig, mit dem er auch Landesmeister wurde.\n\nFür Trappattoni bedeutet dieser Wechsel eine Rückkehr in den deutschen Profi-Fußball. Er war in den Neunzigern Trainer beim FC Bayern München. „Guten Tag, ich schon wieder da“, mit diesen Worten meldete er sich auf der Pressekonferenz zurück. Der Italiener spielte damit auf seine berühmte „Was-erlauben-Strunz-Rede“ an. Seit seiner Wutrede im März 1998 erreichte „Trap“, wie er weitläufig genannt wird, Kultstatus. „Ich habe fertig“ ist seit damals ein geflügeltes Wort in Deutschland.\n\n\n\nIn Stuttgart wird Trap Nachfolger des vor zwei Wochen entlassenen Matthias Sammer.\n\nThemenverwandter Artikel",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 72,
+            "end": 11,
+            "id": 0,
+            "text": "Der Italiener Giovanni Trapattoni wird neuer Trainer beim VfB Stuttgart. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "tokens": [
+                "Der",
+                "Italiener",
+                "Giovanni",
+                "Trapattoni",
+                "wird",
+                "neuer",
+                "Trainer",
+                "beim",
+                "VfB",
+                "Stuttgart",
+                "."
+            ]
+        },
+        {
+            "begin": 11,
+            "charBegin": 73,
+            "charEnd": 152,
+            "end": 22,
+            "id": 1,
+            "text": "Dies gab die Vereinsführung heute Nachmittag auf einer Pressekonferenz bekannt.",
+            "tokenIds": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Dies",
+                "gab",
+                "die",
+                "Vereinsführung",
+                "heute",
+                "Nachmittag",
+                "auf",
+                "einer",
+                "Pressekonferenz",
+                "bekannt",
+                "."
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 154,
+            "charEnd": 304,
+            "end": 42,
+            "id": 2,
+            "text": "Der 66-jährige Trapattoni, der sich seit Mittwoch in Stuttgart befindet, unterschrieb bei dem Fußball-Bundesligisten einen Zweijahresvertrag bis 2007. ",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "tokens": [
+                "Der",
+                "66-jährige",
+                "Trapattoni",
+                ",",
+                "der",
+                "sich",
+                "seit",
+                "Mittwoch",
+                "in",
+                "Stuttgart",
+                "befindet",
+                ",",
+                "unterschrieb",
+                "bei",
+                "dem",
+                "Fußball-Bundesligisten",
+                "einen",
+                "Zweijahresvertrag",
+                "bis",
+                "2007."
+            ]
+        },
+        {
+            "begin": 42,
+            "charBegin": 305,
+            "charEnd": 414,
+            "end": 59,
+            "id": 3,
+            "text": "Er war vorher beim portugiesischen Fußballverein Benfica Lissabon tätig, mit dem er auch Landesmeister wurde.",
+            "tokenIds": [
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58
+            ],
+            "tokens": [
+                "Er",
+                "war",
+                "vorher",
+                "beim",
+                "portugiesischen",
+                "Fußballverein",
+                "Benfica",
+                "Lissabon",
+                "tätig",
+                ",",
+                "mit",
+                "dem",
+                "er",
+                "auch",
+                "Landesmeister",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "begin": 59,
+            "charBegin": 416,
+            "charEnd": 501,
+            "end": 71,
+            "id": 4,
+            "text": "Für Trappattoni bedeutet dieser Wechsel eine Rückkehr in den deutschen Profi-Fußball. ",
+            "tokenIds": [
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70
+            ],
+            "tokens": [
+                "Für",
+                "Trappattoni",
+                "bedeutet",
+                "dieser",
+                "Wechsel",
+                "eine",
+                "Rückkehr",
+                "in",
+                "den",
+                "deutschen",
+                "Profi-Fußball",
+                "."
+            ]
+        },
+        {
+            "begin": 71,
+            "charBegin": 502,
+            "charEnd": 558,
+            "end": 82,
+            "id": 5,
+            "text": "Er war in den Neunzigern Trainer beim FC Bayern München. ",
+            "tokenIds": [
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81
+            ],
+            "tokens": [
+                "Er",
+                "war",
+                "in",
+                "den",
+                "Neunzigern",
+                "Trainer",
+                "beim",
+                "FC",
+                "Bayern",
+                "München",
+                "."
+            ]
+        },
+        {
+            "begin": 82,
+            "charBegin": 559,
+            "charEnd": 658,
+            "end": 103,
+            "id": 6,
+            "text": "„Guten Tag, ich schon wieder da“, mit diesen Worten meldete er sich auf der Pressekonferenz zurück. ",
+            "tokenIds": [
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102
+            ],
+            "tokens": [
+                "„",
+                "Guten",
+                "Tag",
+                ",",
+                "ich",
+                "schon",
+                "wieder",
+                "da",
+                "“",
+                ",",
+                "mit",
+                "diesen",
+                "Worten",
+                "meldete",
+                "er",
+                "sich",
+                "auf",
+                "der",
+                "Pressekonferenz",
+                "zurück",
+                "."
+            ]
+        },
+        {
+            "begin": 103,
+            "charBegin": 659,
+            "charEnd": 736,
+            "end": 115,
+            "id": 7,
+            "text": "Der Italiener spielte damit auf seine berühmte „Was-erlauben-Strunz-Rede“ an. ",
+            "tokenIds": [
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114
+            ],
+            "tokens": [
+                "Der",
+                "Italiener",
+                "spielte",
+                "damit",
+                "auf",
+                "seine",
+                "berühmte",
+                "„",
+                "Was-erlauben-Strunz-Rede",
+                "“",
+                "an",
+                "."
+            ]
+        },
+        {
+            "begin": 115,
+            "charBegin": 737,
+            "charEnd": 831,
+            "end": 134,
+            "id": 8,
+            "text": "Seit seiner Wutrede im März 1998 erreichte „Trap“, wie er weitläufig genannt wird, Kultstatus. ",
+            "tokenIds": [
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133
+            ],
+            "tokens": [
+                "Seit",
+                "seiner",
+                "Wutrede",
+                "im",
+                "März",
+                "1998",
+                "erreichte",
+                "„",
+                "Trap",
+                "“",
+                ",",
+                "wie",
+                "er",
+                "weitläufig",
+                "genannt",
+                "wird",
+                ",",
+                "Kultstatus",
+                "."
+            ]
+        },
+        {
+            "begin": 134,
+            "charBegin": 832,
+            "charEnd": 849,
+            "end": 139,
+            "id": 9,
+            "text": "„Ich habe fertig“ ",
+            "tokenIds": [
+                134,
+                135,
+                136,
+                137,
+                138
+            ],
+            "tokens": [
+                "„",
+                "Ich",
+                "habe",
+                "fertig",
+                "“"
+            ]
+        },
+        {
+            "begin": 139,
+            "charBegin": 850,
+            "charEnd": 902,
+            "end": 148,
+            "id": 10,
+            "text": "ist seit damals ein geflügeltes Wort in Deutschland.",
+            "tokenIds": [
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147
+            ],
+            "tokens": [
+                "ist",
+                "seit",
+                "damals",
+                "ein",
+                "geflügeltes",
+                "Wort",
+                "in",
+                "Deutschland",
+                "."
+            ]
+        },
+        {
+            "begin": 148,
+            "charBegin": 906,
+            "charEnd": 988,
+            "end": 161,
+            "id": 11,
+            "text": "In Stuttgart wird Trap Nachfolger des vor zwei Wochen entlassenen Matthias Sammer.",
+            "tokenIds": [
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160
+            ],
+            "tokens": [
+                "In",
+                "Stuttgart",
+                "wird",
+                "Trap",
+                "Nachfolger",
+                "des",
+                "vor",
+                "zwei",
+                "Wochen",
+                "entlassenen",
+                "Matthias",
+                "Sammer",
+                "."
+            ]
+        },
+        {
+            "begin": 161,
+            "charBegin": 990,
+            "charEnd": 1014,
+            "end": 163,
+            "id": 12,
+            "text": "Themenverwandter Artikel",
+            "tokenIds": [
+                161,
+                162
+            ],
+            "tokens": [
+                "Themenverwandter",
+                "Artikel"
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 13,
+            "id": 1,
+            "sentence": 1,
+            "text": "Italiener",
+            "word": 2
+        },
+        {
+            "charBegin": 14,
+            "charEnd": 22,
+            "id": 2,
+            "sentence": 1,
+            "text": "Giovanni",
+            "word": 3
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 33,
+            "id": 3,
+            "sentence": 1,
+            "text": "Trapattoni",
+            "word": 4
+        },
+        {
+            "charBegin": 34,
+            "charEnd": 38,
+            "id": 4,
+            "sentence": 1,
+            "text": "wird",
+            "word": 5
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 44,
+            "id": 5,
+            "sentence": 1,
+            "text": "neuer",
+            "word": 6
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 52,
+            "id": 6,
+            "sentence": 1,
+            "text": "Trainer",
+            "word": 7
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 57,
+            "id": 7,
+            "sentence": 1,
+            "text": "beim",
+            "word": 8
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 61,
+            "id": 8,
+            "sentence": 1,
+            "text": "VfB",
+            "word": 9
+        },
+        {
+            "charBegin": 62,
+            "charEnd": 71,
+            "id": 9,
+            "sentence": 1,
+            "text": "Stuttgart",
+            "word": 10
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 72,
+            "id": 10,
+            "sentence": 1,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 77,
+            "id": 11,
+            "sentence": 2,
+            "text": "Dies",
+            "word": 1
+        },
+        {
+            "charBegin": 78,
+            "charEnd": 81,
+            "id": 12,
+            "sentence": 2,
+            "text": "gab",
+            "word": 2
+        },
+        {
+            "charBegin": 82,
+            "charEnd": 85,
+            "id": 13,
+            "sentence": 2,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 86,
+            "charEnd": 100,
+            "id": 14,
+            "sentence": 2,
+            "text": "Vereinsführung",
+            "word": 4
+        },
+        {
+            "charBegin": 101,
+            "charEnd": 106,
+            "id": 15,
+            "sentence": 2,
+            "text": "heute",
+            "word": 5
+        },
+        {
+            "charBegin": 107,
+            "charEnd": 117,
+            "id": 16,
+            "sentence": 2,
+            "text": "Nachmittag",
+            "word": 6
+        },
+        {
+            "charBegin": 118,
+            "charEnd": 121,
+            "id": 17,
+            "sentence": 2,
+            "text": "auf",
+            "word": 7
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 127,
+            "id": 18,
+            "sentence": 2,
+            "text": "einer",
+            "word": 8
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 143,
+            "id": 19,
+            "sentence": 2,
+            "text": "Pressekonferenz",
+            "word": 9
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 151,
+            "id": 20,
+            "sentence": 2,
+            "text": "bekannt",
+            "word": 10
+        },
+        {
+            "charBegin": 151,
+            "charEnd": 152,
+            "id": 21,
+            "sentence": 2,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 157,
+            "id": 22,
+            "sentence": 3,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 168,
+            "id": 23,
+            "sentence": 3,
+            "text": "66-jährige",
+            "word": 2
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 179,
+            "id": 24,
+            "sentence": 3,
+            "text": "Trapattoni",
+            "word": 3
+        },
+        {
+            "charBegin": 179,
+            "charEnd": 180,
+            "id": 25,
+            "sentence": 3,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 184,
+            "id": 26,
+            "sentence": 3,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 189,
+            "id": 27,
+            "sentence": 3,
+            "text": "sich",
+            "word": 6
+        },
+        {
+            "charBegin": 190,
+            "charEnd": 194,
+            "id": 28,
+            "sentence": 3,
+            "text": "seit",
+            "word": 7
+        },
+        {
+            "charBegin": 195,
+            "charEnd": 203,
+            "id": 29,
+            "sentence": 3,
+            "text": "Mittwoch",
+            "word": 8
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 206,
+            "id": 30,
+            "sentence": 3,
+            "text": "in",
+            "word": 9
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 216,
+            "id": 31,
+            "sentence": 3,
+            "text": "Stuttgart",
+            "word": 10
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 225,
+            "id": 32,
+            "sentence": 3,
+            "text": "befindet",
+            "word": 11
+        },
+        {
+            "charBegin": 225,
+            "charEnd": 226,
+            "id": 33,
+            "sentence": 3,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 239,
+            "id": 34,
+            "sentence": 3,
+            "text": "unterschrieb",
+            "word": 13
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 243,
+            "id": 35,
+            "sentence": 3,
+            "text": "bei",
+            "word": 14
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 247,
+            "id": 36,
+            "sentence": 3,
+            "text": "dem",
+            "word": 15
+        },
+        {
+            "charBegin": 248,
+            "charEnd": 270,
+            "id": 37,
+            "sentence": 3,
+            "text": "Fußball-Bundesligisten",
+            "word": 16
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 276,
+            "id": 38,
+            "sentence": 3,
+            "text": "einen",
+            "word": 17
+        },
+        {
+            "charBegin": 277,
+            "charEnd": 294,
+            "id": 39,
+            "sentence": 3,
+            "text": "Zweijahresvertrag",
+            "word": 18
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 298,
+            "id": 40,
+            "sentence": 3,
+            "text": "bis",
+            "word": 19
+        },
+        {
+            "charBegin": 299,
+            "charEnd": 304,
+            "id": 41,
+            "sentence": 3,
+            "text": "2007.",
+            "word": 20
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 307,
+            "id": 42,
+            "sentence": 4,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 311,
+            "id": 43,
+            "sentence": 4,
+            "text": "war",
+            "word": 2
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 318,
+            "id": 44,
+            "sentence": 4,
+            "text": "vorher",
+            "word": 3
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 323,
+            "id": 45,
+            "sentence": 4,
+            "text": "beim",
+            "word": 4
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 339,
+            "id": 46,
+            "sentence": 4,
+            "text": "portugiesischen",
+            "word": 5
+        },
+        {
+            "charBegin": 340,
+            "charEnd": 353,
+            "id": 47,
+            "sentence": 4,
+            "text": "Fußballverein",
+            "word": 6
+        },
+        {
+            "charBegin": 354,
+            "charEnd": 361,
+            "id": 48,
+            "sentence": 4,
+            "text": "Benfica",
+            "word": 7
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 370,
+            "id": 49,
+            "sentence": 4,
+            "text": "Lissabon",
+            "word": 8
+        },
+        {
+            "charBegin": 371,
+            "charEnd": 376,
+            "id": 50,
+            "sentence": 4,
+            "text": "tätig",
+            "word": 9
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 377,
+            "id": 51,
+            "sentence": 4,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 378,
+            "charEnd": 381,
+            "id": 52,
+            "sentence": 4,
+            "text": "mit",
+            "word": 11
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 385,
+            "id": 53,
+            "sentence": 4,
+            "text": "dem",
+            "word": 12
+        },
+        {
+            "charBegin": 386,
+            "charEnd": 388,
+            "id": 54,
+            "sentence": 4,
+            "text": "er",
+            "word": 13
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 393,
+            "id": 55,
+            "sentence": 4,
+            "text": "auch",
+            "word": 14
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 407,
+            "id": 56,
+            "sentence": 4,
+            "text": "Landesmeister",
+            "word": 15
+        },
+        {
+            "charBegin": 408,
+            "charEnd": 413,
+            "id": 57,
+            "sentence": 4,
+            "text": "wurde",
+            "word": 16
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 414,
+            "id": 58,
+            "sentence": 4,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 419,
+            "id": 59,
+            "sentence": 5,
+            "text": "Für",
+            "word": 1
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 431,
+            "id": 60,
+            "sentence": 5,
+            "text": "Trappattoni",
+            "word": 2
+        },
+        {
+            "charBegin": 432,
+            "charEnd": 440,
+            "id": 61,
+            "sentence": 5,
+            "text": "bedeutet",
+            "word": 3
+        },
+        {
+            "charBegin": 441,
+            "charEnd": 447,
+            "id": 62,
+            "sentence": 5,
+            "text": "dieser",
+            "word": 4
+        },
+        {
+            "charBegin": 448,
+            "charEnd": 455,
+            "id": 63,
+            "sentence": 5,
+            "text": "Wechsel",
+            "word": 5
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 460,
+            "id": 64,
+            "sentence": 5,
+            "text": "eine",
+            "word": 6
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 469,
+            "id": 65,
+            "sentence": 5,
+            "text": "Rückkehr",
+            "word": 7
+        },
+        {
+            "charBegin": 470,
+            "charEnd": 472,
+            "id": 66,
+            "sentence": 5,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 473,
+            "charEnd": 476,
+            "id": 67,
+            "sentence": 5,
+            "text": "den",
+            "word": 9
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 486,
+            "id": 68,
+            "sentence": 5,
+            "text": "deutschen",
+            "word": 10
+        },
+        {
+            "charBegin": 487,
+            "charEnd": 500,
+            "id": 69,
+            "sentence": 5,
+            "text": "Profi-Fußball",
+            "word": 11
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 501,
+            "id": 70,
+            "sentence": 5,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 502,
+            "charEnd": 504,
+            "id": 71,
+            "sentence": 6,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 505,
+            "charEnd": 508,
+            "id": 72,
+            "sentence": 6,
+            "text": "war",
+            "word": 2
+        },
+        {
+            "charBegin": 509,
+            "charEnd": 511,
+            "id": 73,
+            "sentence": 6,
+            "text": "in",
+            "word": 3
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 515,
+            "id": 74,
+            "sentence": 6,
+            "text": "den",
+            "word": 4
+        },
+        {
+            "charBegin": 516,
+            "charEnd": 526,
+            "id": 75,
+            "sentence": 6,
+            "text": "Neunzigern",
+            "word": 5
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 534,
+            "id": 76,
+            "sentence": 6,
+            "text": "Trainer",
+            "word": 6
+        },
+        {
+            "charBegin": 535,
+            "charEnd": 539,
+            "id": 77,
+            "sentence": 6,
+            "text": "beim",
+            "word": 7
+        },
+        {
+            "charBegin": 540,
+            "charEnd": 542,
+            "id": 78,
+            "sentence": 6,
+            "text": "FC",
+            "word": 8
+        },
+        {
+            "charBegin": 543,
+            "charEnd": 549,
+            "id": 79,
+            "sentence": 6,
+            "text": "Bayern",
+            "word": 9
+        },
+        {
+            "charBegin": 550,
+            "charEnd": 557,
+            "id": 80,
+            "sentence": 6,
+            "text": "München",
+            "word": 10
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 558,
+            "id": 81,
+            "sentence": 6,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 559,
+            "charEnd": 560,
+            "id": 82,
+            "sentence": 7,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 560,
+            "charEnd": 565,
+            "id": 83,
+            "sentence": 7,
+            "text": "Guten",
+            "word": 2
+        },
+        {
+            "charBegin": 566,
+            "charEnd": 569,
+            "id": 84,
+            "sentence": 7,
+            "text": "Tag",
+            "word": 3
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 570,
+            "id": 85,
+            "sentence": 7,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 574,
+            "id": 86,
+            "sentence": 7,
+            "text": "ich",
+            "word": 5
+        },
+        {
+            "charBegin": 575,
+            "charEnd": 580,
+            "id": 87,
+            "sentence": 7,
+            "text": "schon",
+            "word": 6
+        },
+        {
+            "charBegin": 581,
+            "charEnd": 587,
+            "id": 88,
+            "sentence": 7,
+            "text": "wieder",
+            "word": 7
+        },
+        {
+            "charBegin": 588,
+            "charEnd": 590,
+            "id": 89,
+            "sentence": 7,
+            "text": "da",
+            "word": 8
+        },
+        {
+            "charBegin": 590,
+            "charEnd": 591,
+            "id": 90,
+            "sentence": 7,
+            "text": "“",
+            "word": 9
+        },
+        {
+            "charBegin": 591,
+            "charEnd": 592,
+            "id": 91,
+            "sentence": 7,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 593,
+            "charEnd": 596,
+            "id": 92,
+            "sentence": 7,
+            "text": "mit",
+            "word": 11
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 603,
+            "id": 93,
+            "sentence": 7,
+            "text": "diesen",
+            "word": 12
+        },
+        {
+            "charBegin": 604,
+            "charEnd": 610,
+            "id": 94,
+            "sentence": 7,
+            "text": "Worten",
+            "word": 13
+        },
+        {
+            "charBegin": 611,
+            "charEnd": 618,
+            "id": 95,
+            "sentence": 7,
+            "text": "meldete",
+            "word": 14
+        },
+        {
+            "charBegin": 619,
+            "charEnd": 621,
+            "id": 96,
+            "sentence": 7,
+            "text": "er",
+            "word": 15
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 626,
+            "id": 97,
+            "sentence": 7,
+            "text": "sich",
+            "word": 16
+        },
+        {
+            "charBegin": 627,
+            "charEnd": 630,
+            "id": 98,
+            "sentence": 7,
+            "text": "auf",
+            "word": 17
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 634,
+            "id": 99,
+            "sentence": 7,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 635,
+            "charEnd": 650,
+            "id": 100,
+            "sentence": 7,
+            "text": "Pressekonferenz",
+            "word": 19
+        },
+        {
+            "charBegin": 651,
+            "charEnd": 657,
+            "id": 101,
+            "sentence": 7,
+            "text": "zurück",
+            "word": 20
+        },
+        {
+            "charBegin": 657,
+            "charEnd": 658,
+            "id": 102,
+            "sentence": 7,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 659,
+            "charEnd": 662,
+            "id": 103,
+            "sentence": 8,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 663,
+            "charEnd": 672,
+            "id": 104,
+            "sentence": 8,
+            "text": "Italiener",
+            "word": 2
+        },
+        {
+            "charBegin": 673,
+            "charEnd": 680,
+            "id": 105,
+            "sentence": 8,
+            "text": "spielte",
+            "word": 3
+        },
+        {
+            "charBegin": 681,
+            "charEnd": 686,
+            "id": 106,
+            "sentence": 8,
+            "text": "damit",
+            "word": 4
+        },
+        {
+            "charBegin": 687,
+            "charEnd": 690,
+            "id": 107,
+            "sentence": 8,
+            "text": "auf",
+            "word": 5
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 696,
+            "id": 108,
+            "sentence": 8,
+            "text": "seine",
+            "word": 6
+        },
+        {
+            "charBegin": 697,
+            "charEnd": 705,
+            "id": 109,
+            "sentence": 8,
+            "text": "berühmte",
+            "word": 7
+        },
+        {
+            "charBegin": 706,
+            "charEnd": 707,
+            "id": 110,
+            "sentence": 8,
+            "text": "„",
+            "word": 8
+        },
+        {
+            "charBegin": 707,
+            "charEnd": 731,
+            "id": 111,
+            "sentence": 8,
+            "text": "Was-erlauben-Strunz-Rede",
+            "word": 9
+        },
+        {
+            "charBegin": 731,
+            "charEnd": 732,
+            "id": 112,
+            "sentence": 8,
+            "text": "“",
+            "word": 10
+        },
+        {
+            "charBegin": 733,
+            "charEnd": 735,
+            "id": 113,
+            "sentence": 8,
+            "text": "an",
+            "word": 11
+        },
+        {
+            "charBegin": 735,
+            "charEnd": 736,
+            "id": 114,
+            "sentence": 8,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 737,
+            "charEnd": 741,
+            "id": 115,
+            "sentence": 9,
+            "text": "Seit",
+            "word": 1
+        },
+        {
+            "charBegin": 742,
+            "charEnd": 748,
+            "id": 116,
+            "sentence": 9,
+            "text": "seiner",
+            "word": 2
+        },
+        {
+            "charBegin": 749,
+            "charEnd": 756,
+            "id": 117,
+            "sentence": 9,
+            "text": "Wutrede",
+            "word": 3
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 759,
+            "id": 118,
+            "sentence": 9,
+            "text": "im",
+            "word": 4
+        },
+        {
+            "charBegin": 760,
+            "charEnd": 764,
+            "id": 119,
+            "sentence": 9,
+            "text": "März",
+            "word": 5
+        },
+        {
+            "charBegin": 765,
+            "charEnd": 769,
+            "id": 120,
+            "sentence": 9,
+            "text": "1998",
+            "word": 6
+        },
+        {
+            "charBegin": 770,
+            "charEnd": 779,
+            "id": 121,
+            "sentence": 9,
+            "text": "erreichte",
+            "word": 7
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 781,
+            "id": 122,
+            "sentence": 9,
+            "text": "„",
+            "word": 8
+        },
+        {
+            "charBegin": 781,
+            "charEnd": 785,
+            "id": 123,
+            "sentence": 9,
+            "text": "Trap",
+            "word": 9
+        },
+        {
+            "charBegin": 785,
+            "charEnd": 786,
+            "id": 124,
+            "sentence": 9,
+            "text": "“",
+            "word": 10
+        },
+        {
+            "charBegin": 786,
+            "charEnd": 787,
+            "id": 125,
+            "sentence": 9,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 788,
+            "charEnd": 791,
+            "id": 126,
+            "sentence": 9,
+            "text": "wie",
+            "word": 12
+        },
+        {
+            "charBegin": 792,
+            "charEnd": 794,
+            "id": 127,
+            "sentence": 9,
+            "text": "er",
+            "word": 13
+        },
+        {
+            "charBegin": 795,
+            "charEnd": 805,
+            "id": 128,
+            "sentence": 9,
+            "text": "weitläufig",
+            "word": 14
+        },
+        {
+            "charBegin": 806,
+            "charEnd": 813,
+            "id": 129,
+            "sentence": 9,
+            "text": "genannt",
+            "word": 15
+        },
+        {
+            "charBegin": 814,
+            "charEnd": 818,
+            "id": 130,
+            "sentence": 9,
+            "text": "wird",
+            "word": 16
+        },
+        {
+            "charBegin": 818,
+            "charEnd": 819,
+            "id": 131,
+            "sentence": 9,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 820,
+            "charEnd": 830,
+            "id": 132,
+            "sentence": 9,
+            "text": "Kultstatus",
+            "word": 18
+        },
+        {
+            "charBegin": 830,
+            "charEnd": 831,
+            "id": 133,
+            "sentence": 9,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 833,
+            "id": 134,
+            "sentence": 10,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 833,
+            "charEnd": 836,
+            "id": 135,
+            "sentence": 10,
+            "text": "Ich",
+            "word": 2
+        },
+        {
+            "charBegin": 837,
+            "charEnd": 841,
+            "id": 136,
+            "sentence": 10,
+            "text": "habe",
+            "word": 3
+        },
+        {
+            "charBegin": 842,
+            "charEnd": 848,
+            "id": 137,
+            "sentence": 10,
+            "text": "fertig",
+            "word": 4
+        },
+        {
+            "charBegin": 848,
+            "charEnd": 849,
+            "id": 138,
+            "sentence": 10,
+            "text": "“",
+            "word": 5
+        },
+        {
+            "charBegin": 850,
+            "charEnd": 853,
+            "id": 139,
+            "sentence": 11,
+            "text": "ist",
+            "word": 1
+        },
+        {
+            "charBegin": 854,
+            "charEnd": 858,
+            "id": 140,
+            "sentence": 11,
+            "text": "seit",
+            "word": 2
+        },
+        {
+            "charBegin": 859,
+            "charEnd": 865,
+            "id": 141,
+            "sentence": 11,
+            "text": "damals",
+            "word": 3
+        },
+        {
+            "charBegin": 866,
+            "charEnd": 869,
+            "id": 142,
+            "sentence": 11,
+            "text": "ein",
+            "word": 4
+        },
+        {
+            "charBegin": 870,
+            "charEnd": 881,
+            "id": 143,
+            "sentence": 11,
+            "text": "geflügeltes",
+            "word": 5
+        },
+        {
+            "charBegin": 882,
+            "charEnd": 886,
+            "id": 144,
+            "sentence": 11,
+            "text": "Wort",
+            "word": 6
+        },
+        {
+            "charBegin": 887,
+            "charEnd": 889,
+            "id": 145,
+            "sentence": 11,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 890,
+            "charEnd": 901,
+            "id": 146,
+            "sentence": 11,
+            "text": "Deutschland",
+            "word": 8
+        },
+        {
+            "charBegin": 901,
+            "charEnd": 902,
+            "id": 147,
+            "sentence": 11,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 906,
+            "charEnd": 908,
+            "id": 148,
+            "sentence": 12,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 909,
+            "charEnd": 918,
+            "id": 149,
+            "sentence": 12,
+            "text": "Stuttgart",
+            "word": 2
+        },
+        {
+            "charBegin": 919,
+            "charEnd": 923,
+            "id": 150,
+            "sentence": 12,
+            "text": "wird",
+            "word": 3
+        },
+        {
+            "charBegin": 924,
+            "charEnd": 928,
+            "id": 151,
+            "sentence": 12,
+            "text": "Trap",
+            "word": 4
+        },
+        {
+            "charBegin": 929,
+            "charEnd": 939,
+            "id": 152,
+            "sentence": 12,
+            "text": "Nachfolger",
+            "word": 5
+        },
+        {
+            "charBegin": 940,
+            "charEnd": 943,
+            "id": 153,
+            "sentence": 12,
+            "text": "des",
+            "word": 6
+        },
+        {
+            "charBegin": 944,
+            "charEnd": 947,
+            "id": 154,
+            "sentence": 12,
+            "text": "vor",
+            "word": 7
+        },
+        {
+            "charBegin": 948,
+            "charEnd": 952,
+            "id": 155,
+            "sentence": 12,
+            "text": "zwei",
+            "word": 8
+        },
+        {
+            "charBegin": 953,
+            "charEnd": 959,
+            "id": 156,
+            "sentence": 12,
+            "text": "Wochen",
+            "word": 9
+        },
+        {
+            "charBegin": 960,
+            "charEnd": 971,
+            "id": 157,
+            "sentence": 12,
+            "text": "entlassenen",
+            "word": 10
+        },
+        {
+            "charBegin": 972,
+            "charEnd": 980,
+            "id": 158,
+            "sentence": 12,
+            "text": "Matthias",
+            "word": 11
+        },
+        {
+            "charBegin": 981,
+            "charEnd": 987,
+            "id": 159,
+            "sentence": 12,
+            "text": "Sammer",
+            "word": 12
+        },
+        {
+            "charBegin": 987,
+            "charEnd": 988,
+            "id": 160,
+            "sentence": 12,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 990,
+            "charEnd": 1006,
+            "id": 161,
+            "sentence": 13,
+            "text": "Themenverwandter",
+            "word": 1
+        },
+        {
+            "charBegin": 1007,
+            "charEnd": 1014,
+            "id": 162,
+            "sentence": 13,
+            "text": "Artikel",
+            "word": 2
+        }
+    ]
+}

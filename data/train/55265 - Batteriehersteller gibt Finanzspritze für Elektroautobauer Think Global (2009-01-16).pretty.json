@@ -1,0 +1,3224 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 42,
+                        "charBegin": 259,
+                        "charEnd": 262,
+                        "end": 43
+                    },
+                    {
+                        "begin": 52,
+                        "charBegin": 314,
+                        "charEnd": 318,
+                        "end": 53
+                    }
+                ],
+                "text": "wie hieß",
+                "tokenIds": [
+                    42,
+                    52
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 41,
+                        "charBegin": 257,
+                        "charEnd": 319,
+                        "end": 54
+                    }
+                ],
+                "text": ", wie es auf einer Pressekonferenz in Oslo am 13. Januar hieß,",
+                "tokenIds": [
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 36,
+                        "charBegin": 209,
+                        "charEnd": 257,
+                        "end": 41
+                    },
+                    {
+                        "begin": 54,
+                        "charBegin": 320,
+                        "charEnd": 389,
+                        "end": 63
+                    }
+                ],
+                "text": "Zur Zwischenfinanzierung bekomme das Unternehmen 4,3 Millionen Euro von einem seiner drei Batterielieferanten geliehen",
+                "tokenIds": [
+                    36,
+                    37,
+                    38,
+                    39,
+                    40,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 45,
+                        "charBegin": 270,
+                        "charEnd": 313,
+                        "end": 52
+                    }
+                ],
+                "text": "einer Pressekonferenz in Oslo am 13. Januar",
+                "tokenIds": [
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 68,
+                        "charBegin": 418,
+                        "charEnd": 422,
+                        "end": 69
+                    }
+                ],
+                "text": "laut",
+                "tokenIds": [
+                    68
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 68,
+                        "charBegin": 418,
+                        "charEnd": 453,
+                        "end": 72
+                    }
+                ],
+                "text": "laut Unternehmenschef Richard Canny",
+                "tokenIds": [
+                    68,
+                    69,
+                    70,
+                    71
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 64,
+                        "charBegin": 391,
+                        "charEnd": 417,
+                        "end": 68
+                    },
+                    {
+                        "begin": 72,
+                        "charBegin": 454,
+                        "charEnd": 522,
+                        "end": 82
+                    }
+                ],
+                "text": "Allerdings wird der Betrag nicht ausreichen, um die operative Tätigkeit wieder voll aufzunehmen",
+                "tokenIds": [
+                    64,
+                    65,
+                    66,
+                    67,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 69,
+                        "charBegin": 423,
+                        "charEnd": 453,
+                        "end": 72
+                    }
+                ],
+                "text": "Unternehmenschef Richard Canny",
+                "tokenIds": [
+                    69,
+                    70,
+                    71
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 95,
+                        "charBegin": 581,
+                        "charEnd": 583,
+                        "end": 96
+                    }
+                ],
+                "text": "so",
+                "tokenIds": [
+                    95
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 94,
+                        "charBegin": 579,
+                        "charEnd": 592,
+                        "end": 99
+                    }
+                ],
+                "text": "– so Canny –,",
+                "tokenIds": [
+                    94,
+                    95,
+                    96,
+                    97,
+                    98
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 83,
+                        "charBegin": 524,
+                        "charEnd": 578,
+                        "end": 94
+                    },
+                    {
+                        "begin": 99,
+                        "charBegin": 593,
+                        "charEnd": 657,
+                        "end": 109
+                    }
+                ],
+                "text": "Zwar sei es ein wichtiger Schritt, und man sei dankbar trotzdem sei das Unternehmen auf der Suche nach neuen Investoren",
+                "tokenIds": [
+                    83,
+                    84,
+                    85,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 96,
+                        "charBegin": 584,
+                        "charEnd": 589,
+                        "end": 97
+                    }
+                ],
+                "text": "Canny",
+                "tokenIds": [
+                    96
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 120,
+                        "charBegin": 714,
+                        "charEnd": 719,
+                        "end": 121
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    120
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 110,
+                        "charBegin": 659,
+                        "charEnd": 720,
+                        "end": 122
+                    }
+                ],
+                "text": "Der Geschäftsführer von „Ener1“, Charles Gassenheimer, sagte,",
+                "tokenIds": [
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 122,
+                        "charBegin": 721,
+                        "charEnd": 853,
+                        "end": 142
+                    }
+                ],
+                "text": "das Investment sei mit der Firmenstrategie vereinbar, da es eine Investition in die Zukunft des Fahrens mit Elektromobilen darstelle",
+                "tokenIds": [
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 110,
+                        "charBegin": 659,
+                        "charEnd": 712,
+                        "end": 119
+                    }
+                ],
+                "text": "Der Geschäftsführer von „Ener1“, Charles Gassenheimer",
+                "tokenIds": [
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "55265 - Batteriehersteller gibt Finanzspritze für Elektroautobauer Think Global (2009-01-16)",
+    "originalText": "Die Unternehmensgruppe „Ener1 Group Inc.“, zu der auch der Batteriehersteller „EnerDel“ sowie weitere Investoren gehören, hat dem vor dem Konkurs stehenden Autobauer „Think Global“ eine Finanzspritze gegeben. Zur Zwischenfinanzierung bekomme das Unternehmen, wie es auf einer Pressekonferenz in Oslo am 13. Januar hieß, 4,3 Millionen Euro von einem seiner drei Batterielieferanten geliehen. Allerdings wird der Betrag laut Unternehmenschef Richard Canny nicht ausreichen, um die operative Tätigkeit wieder voll aufzunehmen. Zwar sei es ein wichtiger Schritt, und man sei dankbar – so Canny –, trotzdem sei das Unternehmen auf der Suche nach neuen Investoren. Der Geschäftsführer von „Ener1“, Charles Gassenheimer, sagte, das Investment sei mit der Firmenstrategie vereinbar, da es eine Investition in die Zukunft des Fahrens mit Elektromobilen darstelle.\n\nIm Dezember war das norwegische Unternehmen in finanzielle Schwierigkeiten geraten, so dass die Produktion des einzigen Fahrzeuges „Think City“ im Werk Aurskog östlich von Oslo vorübergehend ausgesetzt werden musste. Dem Autobauer fehlen 30 Millionen Euro. Die 200 Mitarbeiter des Unternehmens befanden sich bis Jahresende im Zwangsurlaub. Nun sollen sie sukzessive wieder zurückgeholt werden. Die Produktion wird voraussichtlich im Februar wieder aufgenommen. \n\nPro Tag produzierte Think bisher zehn Modelle, geplant war ursprünglich eine Anhebung auf 22. Im Jahr 2007 betrug der Umsatz 16 Millionen Kronen bei einem gleichzeitigen Defizit von 161 Millionen Kronen. Der Verkauf der neuesten Version des „Think City“ mit Lithium-Ionen-Akkus sollte Anfang des Jahres in Skandinavien anlaufen.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 208,
+            "end": 36,
+            "id": 0,
+            "text": "Die Unternehmensgruppe „Ener1 Group Inc.“, zu der auch der Batteriehersteller „EnerDel“ sowie weitere Investoren gehören, hat dem vor dem Konkurs stehenden Autobauer „Think Global“ eine Finanzspritze gegeben. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "tokens": [
+                "Die",
+                "Unternehmensgruppe",
+                "„",
+                "Ener1",
+                "Group",
+                "Inc.",
+                "“",
+                ",",
+                "zu",
+                "der",
+                "auch",
+                "der",
+                "Batteriehersteller",
+                "„",
+                "EnerDel",
+                "“",
+                "sowie",
+                "weitere",
+                "Investoren",
+                "gehören",
+                ",",
+                "hat",
+                "dem",
+                "vor",
+                "dem",
+                "Konkurs",
+                "stehenden",
+                "Autobauer",
+                "„",
+                "Think",
+                "Global",
+                "“",
+                "eine",
+                "Finanzspritze",
+                "gegeben",
+                "."
+            ]
+        },
+        {
+            "begin": 36,
+            "charBegin": 209,
+            "charEnd": 390,
+            "end": 64,
+            "id": 1,
+            "text": "Zur Zwischenfinanzierung bekomme das Unternehmen, wie es auf einer Pressekonferenz in Oslo am 13. Januar hieß, 4,3 Millionen Euro von einem seiner drei Batterielieferanten geliehen. ",
+            "tokenIds": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63
+            ],
+            "tokens": [
+                "Zur",
+                "Zwischenfinanzierung",
+                "bekomme",
+                "das",
+                "Unternehmen",
+                ",",
+                "wie",
+                "es",
+                "auf",
+                "einer",
+                "Pressekonferenz",
+                "in",
+                "Oslo",
+                "am",
+                "13.",
+                "Januar",
+                "hieß",
+                ",",
+                "4,3",
+                "Millionen",
+                "Euro",
+                "von",
+                "einem",
+                "seiner",
+                "drei",
+                "Batterielieferanten",
+                "geliehen",
+                "."
+            ]
+        },
+        {
+            "begin": 64,
+            "charBegin": 391,
+            "charEnd": 523,
+            "end": 83,
+            "id": 2,
+            "text": "Allerdings wird der Betrag laut Unternehmenschef Richard Canny nicht ausreichen, um die operative Tätigkeit wieder voll aufzunehmen. ",
+            "tokenIds": [
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82
+            ],
+            "tokens": [
+                "Allerdings",
+                "wird",
+                "der",
+                "Betrag",
+                "laut",
+                "Unternehmenschef",
+                "Richard",
+                "Canny",
+                "nicht",
+                "ausreichen",
+                ",",
+                "um",
+                "die",
+                "operative",
+                "Tätigkeit",
+                "wieder",
+                "voll",
+                "aufzunehmen",
+                "."
+            ]
+        },
+        {
+            "begin": 83,
+            "charBegin": 524,
+            "charEnd": 658,
+            "end": 110,
+            "id": 3,
+            "text": "Zwar sei es ein wichtiger Schritt, und man sei dankbar – so Canny –, trotzdem sei das Unternehmen auf der Suche nach neuen Investoren. ",
+            "tokenIds": [
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109
+            ],
+            "tokens": [
+                "Zwar",
+                "sei",
+                "es",
+                "ein",
+                "wichtiger",
+                "Schritt",
+                ",",
+                "und",
+                "man",
+                "sei",
+                "dankbar",
+                "–",
+                "so",
+                "Canny",
+                "–",
+                ",",
+                "trotzdem",
+                "sei",
+                "das",
+                "Unternehmen",
+                "auf",
+                "der",
+                "Suche",
+                "nach",
+                "neuen",
+                "Investoren",
+                "."
+            ]
+        },
+        {
+            "begin": 110,
+            "charBegin": 659,
+            "charEnd": 854,
+            "end": 143,
+            "id": 4,
+            "text": "Der Geschäftsführer von „Ener1“, Charles Gassenheimer, sagte, das Investment sei mit der Firmenstrategie vereinbar, da es eine Investition in die Zukunft des Fahrens mit Elektromobilen darstelle.",
+            "tokenIds": [
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142
+            ],
+            "tokens": [
+                "Der",
+                "Geschäftsführer",
+                "von",
+                "„",
+                "Ener1",
+                "“",
+                ",",
+                "Charles",
+                "Gassenheimer",
+                ",",
+                "sagte",
+                ",",
+                "das",
+                "Investment",
+                "sei",
+                "mit",
+                "der",
+                "Firmenstrategie",
+                "vereinbar",
+                ",",
+                "da",
+                "es",
+                "eine",
+                "Investition",
+                "in",
+                "die",
+                "Zukunft",
+                "des",
+                "Fahrens",
+                "mit",
+                "Elektromobilen",
+                "darstelle",
+                "."
+            ]
+        },
+        {
+            "begin": 143,
+            "charBegin": 856,
+            "charEnd": 1072,
+            "end": 176,
+            "id": 5,
+            "text": "Im Dezember war das norwegische Unternehmen in finanzielle Schwierigkeiten geraten, so dass die Produktion des einzigen Fahrzeuges „Think City“ im Werk Aurskog östlich von Oslo vorübergehend ausgesetzt werden musste. ",
+            "tokenIds": [
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175
+            ],
+            "tokens": [
+                "Im",
+                "Dezember",
+                "war",
+                "das",
+                "norwegische",
+                "Unternehmen",
+                "in",
+                "finanzielle",
+                "Schwierigkeiten",
+                "geraten",
+                ",",
+                "so",
+                "dass",
+                "die",
+                "Produktion",
+                "des",
+                "einzigen",
+                "Fahrzeuges",
+                "„",
+                "Think",
+                "City",
+                "“",
+                "im",
+                "Werk",
+                "Aurskog",
+                "östlich",
+                "von",
+                "Oslo",
+                "vorübergehend",
+                "ausgesetzt",
+                "werden",
+                "musste",
+                "."
+            ]
+        },
+        {
+            "begin": 176,
+            "charBegin": 1073,
+            "charEnd": 1112,
+            "end": 183,
+            "id": 6,
+            "text": "Dem Autobauer fehlen 30 Millionen Euro. ",
+            "tokenIds": [
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182
+            ],
+            "tokens": [
+                "Dem",
+                "Autobauer",
+                "fehlen",
+                "30",
+                "Millionen",
+                "Euro",
+                "."
+            ]
+        },
+        {
+            "begin": 183,
+            "charBegin": 1113,
+            "charEnd": 1195,
+            "end": 195,
+            "id": 7,
+            "text": "Die 200 Mitarbeiter des Unternehmens befanden sich bis Jahresende im Zwangsurlaub. ",
+            "tokenIds": [
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194
+            ],
+            "tokens": [
+                "Die",
+                "200",
+                "Mitarbeiter",
+                "des",
+                "Unternehmens",
+                "befanden",
+                "sich",
+                "bis",
+                "Jahresende",
+                "im",
+                "Zwangsurlaub",
+                "."
+            ]
+        },
+        {
+            "begin": 195,
+            "charBegin": 1196,
+            "charEnd": 1249,
+            "end": 203,
+            "id": 8,
+            "text": "Nun sollen sie sukzessive wieder zurückgeholt werden. ",
+            "tokenIds": [
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202
+            ],
+            "tokens": [
+                "Nun",
+                "sollen",
+                "sie",
+                "sukzessive",
+                "wieder",
+                "zurückgeholt",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 203,
+            "charBegin": 1250,
+            "charEnd": 1316,
+            "end": 212,
+            "id": 9,
+            "text": "Die Produktion wird voraussichtlich im Februar wieder aufgenommen. ",
+            "tokenIds": [
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211
+            ],
+            "tokens": [
+                "Die",
+                "Produktion",
+                "wird",
+                "voraussichtlich",
+                "im",
+                "Februar",
+                "wieder",
+                "aufgenommen",
+                "."
+            ]
+        },
+        {
+            "begin": 212,
+            "charBegin": 1319,
+            "charEnd": 1412,
+            "end": 227,
+            "id": 10,
+            "text": "Pro Tag produzierte Think bisher zehn Modelle, geplant war ursprünglich eine Anhebung auf 22. ",
+            "tokenIds": [
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226
+            ],
+            "tokens": [
+                "Pro",
+                "Tag",
+                "produzierte",
+                "Think",
+                "bisher",
+                "zehn",
+                "Modelle",
+                ",",
+                "geplant",
+                "war",
+                "ursprünglich",
+                "eine",
+                "Anhebung",
+                "auf",
+                "22."
+            ]
+        },
+        {
+            "begin": 227,
+            "charBegin": 1413,
+            "charEnd": 1522,
+            "end": 245,
+            "id": 11,
+            "text": "Im Jahr 2007 betrug der Umsatz 16 Millionen Kronen bei einem gleichzeitigen Defizit von 161 Millionen Kronen. ",
+            "tokenIds": [
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244
+            ],
+            "tokens": [
+                "Im",
+                "Jahr",
+                "2007",
+                "betrug",
+                "der",
+                "Umsatz",
+                "16",
+                "Millionen",
+                "Kronen",
+                "bei",
+                "einem",
+                "gleichzeitigen",
+                "Defizit",
+                "von",
+                "161",
+                "Millionen",
+                "Kronen",
+                "."
+            ]
+        },
+        {
+            "begin": 245,
+            "charBegin": 1523,
+            "charEnd": 1647,
+            "end": 265,
+            "id": 12,
+            "text": "Der Verkauf der neuesten Version des „Think City“ mit Lithium-Ionen-Akkus sollte Anfang des Jahres in Skandinavien anlaufen.",
+            "tokenIds": [
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264
+            ],
+            "tokens": [
+                "Der",
+                "Verkauf",
+                "der",
+                "neuesten",
+                "Version",
+                "des",
+                "„",
+                "Think",
+                "City",
+                "“",
+                "mit",
+                "Lithium-Ionen-Akkus",
+                "sollte",
+                "Anfang",
+                "des",
+                "Jahres",
+                "in",
+                "Skandinavien",
+                "anlaufen",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 22,
+            "id": 1,
+            "sentence": 1,
+            "text": "Unternehmensgruppe",
+            "word": 2
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 24,
+            "id": 2,
+            "sentence": 1,
+            "text": "„",
+            "word": 3
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 29,
+            "id": 3,
+            "sentence": 1,
+            "text": "Ener1",
+            "word": 4
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 35,
+            "id": 4,
+            "sentence": 1,
+            "text": "Group",
+            "word": 5
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 40,
+            "id": 5,
+            "sentence": 1,
+            "text": "Inc.",
+            "word": 6
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 41,
+            "id": 6,
+            "sentence": 1,
+            "text": "“",
+            "word": 7
+        },
+        {
+            "charBegin": 41,
+            "charEnd": 42,
+            "id": 7,
+            "sentence": 1,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 45,
+            "id": 8,
+            "sentence": 1,
+            "text": "zu",
+            "word": 9
+        },
+        {
+            "charBegin": 46,
+            "charEnd": 49,
+            "id": 9,
+            "sentence": 1,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 54,
+            "id": 10,
+            "sentence": 1,
+            "text": "auch",
+            "word": 11
+        },
+        {
+            "charBegin": 55,
+            "charEnd": 58,
+            "id": 11,
+            "sentence": 1,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 59,
+            "charEnd": 77,
+            "id": 12,
+            "sentence": 1,
+            "text": "Batteriehersteller",
+            "word": 13
+        },
+        {
+            "charBegin": 78,
+            "charEnd": 79,
+            "id": 13,
+            "sentence": 1,
+            "text": "„",
+            "word": 14
+        },
+        {
+            "charBegin": 79,
+            "charEnd": 86,
+            "id": 14,
+            "sentence": 1,
+            "text": "EnerDel",
+            "word": 15
+        },
+        {
+            "charBegin": 86,
+            "charEnd": 87,
+            "id": 15,
+            "sentence": 1,
+            "text": "“",
+            "word": 16
+        },
+        {
+            "charBegin": 88,
+            "charEnd": 93,
+            "id": 16,
+            "sentence": 1,
+            "text": "sowie",
+            "word": 17
+        },
+        {
+            "charBegin": 94,
+            "charEnd": 101,
+            "id": 17,
+            "sentence": 1,
+            "text": "weitere",
+            "word": 18
+        },
+        {
+            "charBegin": 102,
+            "charEnd": 112,
+            "id": 18,
+            "sentence": 1,
+            "text": "Investoren",
+            "word": 19
+        },
+        {
+            "charBegin": 113,
+            "charEnd": 120,
+            "id": 19,
+            "sentence": 1,
+            "text": "gehören",
+            "word": 20
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 121,
+            "id": 20,
+            "sentence": 1,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 125,
+            "id": 21,
+            "sentence": 1,
+            "text": "hat",
+            "word": 22
+        },
+        {
+            "charBegin": 126,
+            "charEnd": 129,
+            "id": 22,
+            "sentence": 1,
+            "text": "dem",
+            "word": 23
+        },
+        {
+            "charBegin": 130,
+            "charEnd": 133,
+            "id": 23,
+            "sentence": 1,
+            "text": "vor",
+            "word": 24
+        },
+        {
+            "charBegin": 134,
+            "charEnd": 137,
+            "id": 24,
+            "sentence": 1,
+            "text": "dem",
+            "word": 25
+        },
+        {
+            "charBegin": 138,
+            "charEnd": 145,
+            "id": 25,
+            "sentence": 1,
+            "text": "Konkurs",
+            "word": 26
+        },
+        {
+            "charBegin": 146,
+            "charEnd": 155,
+            "id": 26,
+            "sentence": 1,
+            "text": "stehenden",
+            "word": 27
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 165,
+            "id": 27,
+            "sentence": 1,
+            "text": "Autobauer",
+            "word": 28
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 167,
+            "id": 28,
+            "sentence": 1,
+            "text": "„",
+            "word": 29
+        },
+        {
+            "charBegin": 167,
+            "charEnd": 172,
+            "id": 29,
+            "sentence": 1,
+            "text": "Think",
+            "word": 30
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 179,
+            "id": 30,
+            "sentence": 1,
+            "text": "Global",
+            "word": 31
+        },
+        {
+            "charBegin": 179,
+            "charEnd": 180,
+            "id": 31,
+            "sentence": 1,
+            "text": "“",
+            "word": 32
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 185,
+            "id": 32,
+            "sentence": 1,
+            "text": "eine",
+            "word": 33
+        },
+        {
+            "charBegin": 186,
+            "charEnd": 199,
+            "id": 33,
+            "sentence": 1,
+            "text": "Finanzspritze",
+            "word": 34
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 207,
+            "id": 34,
+            "sentence": 1,
+            "text": "gegeben",
+            "word": 35
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 208,
+            "id": 35,
+            "sentence": 1,
+            "text": ".",
+            "word": 36
+        },
+        {
+            "charBegin": 209,
+            "charEnd": 212,
+            "id": 36,
+            "sentence": 2,
+            "text": "Zur",
+            "word": 1
+        },
+        {
+            "charBegin": 213,
+            "charEnd": 233,
+            "id": 37,
+            "sentence": 2,
+            "text": "Zwischenfinanzierung",
+            "word": 2
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 241,
+            "id": 38,
+            "sentence": 2,
+            "text": "bekomme",
+            "word": 3
+        },
+        {
+            "charBegin": 242,
+            "charEnd": 245,
+            "id": 39,
+            "sentence": 2,
+            "text": "das",
+            "word": 4
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 257,
+            "id": 40,
+            "sentence": 2,
+            "text": "Unternehmen",
+            "word": 5
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 258,
+            "id": 41,
+            "sentence": 2,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 262,
+            "id": 42,
+            "sentence": 2,
+            "text": "wie",
+            "word": 7
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 265,
+            "id": 43,
+            "sentence": 2,
+            "text": "es",
+            "word": 8
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 269,
+            "id": 44,
+            "sentence": 2,
+            "text": "auf",
+            "word": 9
+        },
+        {
+            "charBegin": 270,
+            "charEnd": 275,
+            "id": 45,
+            "sentence": 2,
+            "text": "einer",
+            "word": 10
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 291,
+            "id": 46,
+            "sentence": 2,
+            "text": "Pressekonferenz",
+            "word": 11
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 294,
+            "id": 47,
+            "sentence": 2,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 299,
+            "id": 48,
+            "sentence": 2,
+            "text": "Oslo",
+            "word": 13
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 302,
+            "id": 49,
+            "sentence": 2,
+            "text": "am",
+            "word": 14
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 306,
+            "id": 50,
+            "sentence": 2,
+            "text": "13.",
+            "word": 15
+        },
+        {
+            "charBegin": 307,
+            "charEnd": 313,
+            "id": 51,
+            "sentence": 2,
+            "text": "Januar",
+            "word": 16
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 318,
+            "id": 52,
+            "sentence": 2,
+            "text": "hieß",
+            "word": 17
+        },
+        {
+            "charBegin": 318,
+            "charEnd": 319,
+            "id": 53,
+            "sentence": 2,
+            "text": ",",
+            "word": 18
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 323,
+            "id": 54,
+            "sentence": 2,
+            "text": "4,3",
+            "word": 19
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 333,
+            "id": 55,
+            "sentence": 2,
+            "text": "Millionen",
+            "word": 20
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 338,
+            "id": 56,
+            "sentence": 2,
+            "text": "Euro",
+            "word": 21
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 342,
+            "id": 57,
+            "sentence": 2,
+            "text": "von",
+            "word": 22
+        },
+        {
+            "charBegin": 343,
+            "charEnd": 348,
+            "id": 58,
+            "sentence": 2,
+            "text": "einem",
+            "word": 23
+        },
+        {
+            "charBegin": 349,
+            "charEnd": 355,
+            "id": 59,
+            "sentence": 2,
+            "text": "seiner",
+            "word": 24
+        },
+        {
+            "charBegin": 356,
+            "charEnd": 360,
+            "id": 60,
+            "sentence": 2,
+            "text": "drei",
+            "word": 25
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 380,
+            "id": 61,
+            "sentence": 2,
+            "text": "Batterielieferanten",
+            "word": 26
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 389,
+            "id": 62,
+            "sentence": 2,
+            "text": "geliehen",
+            "word": 27
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 390,
+            "id": 63,
+            "sentence": 2,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 391,
+            "charEnd": 401,
+            "id": 64,
+            "sentence": 3,
+            "text": "Allerdings",
+            "word": 1
+        },
+        {
+            "charBegin": 402,
+            "charEnd": 406,
+            "id": 65,
+            "sentence": 3,
+            "text": "wird",
+            "word": 2
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 410,
+            "id": 66,
+            "sentence": 3,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 411,
+            "charEnd": 417,
+            "id": 67,
+            "sentence": 3,
+            "text": "Betrag",
+            "word": 4
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 422,
+            "id": 68,
+            "sentence": 3,
+            "text": "laut",
+            "word": 5
+        },
+        {
+            "charBegin": 423,
+            "charEnd": 439,
+            "id": 69,
+            "sentence": 3,
+            "text": "Unternehmenschef",
+            "word": 6
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 447,
+            "id": 70,
+            "sentence": 3,
+            "text": "Richard",
+            "word": 7
+        },
+        {
+            "charBegin": 448,
+            "charEnd": 453,
+            "id": 71,
+            "sentence": 3,
+            "text": "Canny",
+            "word": 8
+        },
+        {
+            "charBegin": 454,
+            "charEnd": 459,
+            "id": 72,
+            "sentence": 3,
+            "text": "nicht",
+            "word": 9
+        },
+        {
+            "charBegin": 460,
+            "charEnd": 470,
+            "id": 73,
+            "sentence": 3,
+            "text": "ausreichen",
+            "word": 10
+        },
+        {
+            "charBegin": 470,
+            "charEnd": 471,
+            "id": 74,
+            "sentence": 3,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 472,
+            "charEnd": 474,
+            "id": 75,
+            "sentence": 3,
+            "text": "um",
+            "word": 12
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 478,
+            "id": 76,
+            "sentence": 3,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 488,
+            "id": 77,
+            "sentence": 3,
+            "text": "operative",
+            "word": 14
+        },
+        {
+            "charBegin": 489,
+            "charEnd": 498,
+            "id": 78,
+            "sentence": 3,
+            "text": "Tätigkeit",
+            "word": 15
+        },
+        {
+            "charBegin": 499,
+            "charEnd": 505,
+            "id": 79,
+            "sentence": 3,
+            "text": "wieder",
+            "word": 16
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 510,
+            "id": 80,
+            "sentence": 3,
+            "text": "voll",
+            "word": 17
+        },
+        {
+            "charBegin": 511,
+            "charEnd": 522,
+            "id": 81,
+            "sentence": 3,
+            "text": "aufzunehmen",
+            "word": 18
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 523,
+            "id": 82,
+            "sentence": 3,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 524,
+            "charEnd": 528,
+            "id": 83,
+            "sentence": 4,
+            "text": "Zwar",
+            "word": 1
+        },
+        {
+            "charBegin": 529,
+            "charEnd": 532,
+            "id": 84,
+            "sentence": 4,
+            "text": "sei",
+            "word": 2
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 535,
+            "id": 85,
+            "sentence": 4,
+            "text": "es",
+            "word": 3
+        },
+        {
+            "charBegin": 536,
+            "charEnd": 539,
+            "id": 86,
+            "sentence": 4,
+            "text": "ein",
+            "word": 4
+        },
+        {
+            "charBegin": 540,
+            "charEnd": 549,
+            "id": 87,
+            "sentence": 4,
+            "text": "wichtiger",
+            "word": 5
+        },
+        {
+            "charBegin": 550,
+            "charEnd": 557,
+            "id": 88,
+            "sentence": 4,
+            "text": "Schritt",
+            "word": 6
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 558,
+            "id": 89,
+            "sentence": 4,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 559,
+            "charEnd": 562,
+            "id": 90,
+            "sentence": 4,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 563,
+            "charEnd": 566,
+            "id": 91,
+            "sentence": 4,
+            "text": "man",
+            "word": 9
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 570,
+            "id": 92,
+            "sentence": 4,
+            "text": "sei",
+            "word": 10
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 578,
+            "id": 93,
+            "sentence": 4,
+            "text": "dankbar",
+            "word": 11
+        },
+        {
+            "charBegin": 579,
+            "charEnd": 580,
+            "id": 94,
+            "sentence": 4,
+            "text": "–",
+            "word": 12
+        },
+        {
+            "charBegin": 581,
+            "charEnd": 583,
+            "id": 95,
+            "sentence": 4,
+            "text": "so",
+            "word": 13
+        },
+        {
+            "charBegin": 584,
+            "charEnd": 589,
+            "id": 96,
+            "sentence": 4,
+            "text": "Canny",
+            "word": 14
+        },
+        {
+            "charBegin": 590,
+            "charEnd": 591,
+            "id": 97,
+            "sentence": 4,
+            "text": "–",
+            "word": 15
+        },
+        {
+            "charBegin": 591,
+            "charEnd": 592,
+            "id": 98,
+            "sentence": 4,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 593,
+            "charEnd": 601,
+            "id": 99,
+            "sentence": 4,
+            "text": "trotzdem",
+            "word": 17
+        },
+        {
+            "charBegin": 602,
+            "charEnd": 605,
+            "id": 100,
+            "sentence": 4,
+            "text": "sei",
+            "word": 18
+        },
+        {
+            "charBegin": 606,
+            "charEnd": 609,
+            "id": 101,
+            "sentence": 4,
+            "text": "das",
+            "word": 19
+        },
+        {
+            "charBegin": 610,
+            "charEnd": 621,
+            "id": 102,
+            "sentence": 4,
+            "text": "Unternehmen",
+            "word": 20
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 625,
+            "id": 103,
+            "sentence": 4,
+            "text": "auf",
+            "word": 21
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 629,
+            "id": 104,
+            "sentence": 4,
+            "text": "der",
+            "word": 22
+        },
+        {
+            "charBegin": 630,
+            "charEnd": 635,
+            "id": 105,
+            "sentence": 4,
+            "text": "Suche",
+            "word": 23
+        },
+        {
+            "charBegin": 636,
+            "charEnd": 640,
+            "id": 106,
+            "sentence": 4,
+            "text": "nach",
+            "word": 24
+        },
+        {
+            "charBegin": 641,
+            "charEnd": 646,
+            "id": 107,
+            "sentence": 4,
+            "text": "neuen",
+            "word": 25
+        },
+        {
+            "charBegin": 647,
+            "charEnd": 657,
+            "id": 108,
+            "sentence": 4,
+            "text": "Investoren",
+            "word": 26
+        },
+        {
+            "charBegin": 657,
+            "charEnd": 658,
+            "id": 109,
+            "sentence": 4,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 659,
+            "charEnd": 662,
+            "id": 110,
+            "sentence": 5,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 663,
+            "charEnd": 678,
+            "id": 111,
+            "sentence": 5,
+            "text": "Geschäftsführer",
+            "word": 2
+        },
+        {
+            "charBegin": 679,
+            "charEnd": 682,
+            "id": 112,
+            "sentence": 5,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 684,
+            "id": 113,
+            "sentence": 5,
+            "text": "„",
+            "word": 4
+        },
+        {
+            "charBegin": 684,
+            "charEnd": 689,
+            "id": 114,
+            "sentence": 5,
+            "text": "Ener1",
+            "word": 5
+        },
+        {
+            "charBegin": 689,
+            "charEnd": 690,
+            "id": 115,
+            "sentence": 5,
+            "text": "“",
+            "word": 6
+        },
+        {
+            "charBegin": 690,
+            "charEnd": 691,
+            "id": 116,
+            "sentence": 5,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 692,
+            "charEnd": 699,
+            "id": 117,
+            "sentence": 5,
+            "text": "Charles",
+            "word": 8
+        },
+        {
+            "charBegin": 700,
+            "charEnd": 712,
+            "id": 118,
+            "sentence": 5,
+            "text": "Gassenheimer",
+            "word": 9
+        },
+        {
+            "charBegin": 712,
+            "charEnd": 713,
+            "id": 119,
+            "sentence": 5,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 714,
+            "charEnd": 719,
+            "id": 120,
+            "sentence": 5,
+            "text": "sagte",
+            "word": 11
+        },
+        {
+            "charBegin": 719,
+            "charEnd": 720,
+            "id": 121,
+            "sentence": 5,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 724,
+            "id": 122,
+            "sentence": 5,
+            "text": "das",
+            "word": 13
+        },
+        {
+            "charBegin": 725,
+            "charEnd": 735,
+            "id": 123,
+            "sentence": 5,
+            "text": "Investment",
+            "word": 14
+        },
+        {
+            "charBegin": 736,
+            "charEnd": 739,
+            "id": 124,
+            "sentence": 5,
+            "text": "sei",
+            "word": 15
+        },
+        {
+            "charBegin": 740,
+            "charEnd": 743,
+            "id": 125,
+            "sentence": 5,
+            "text": "mit",
+            "word": 16
+        },
+        {
+            "charBegin": 744,
+            "charEnd": 747,
+            "id": 126,
+            "sentence": 5,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 763,
+            "id": 127,
+            "sentence": 5,
+            "text": "Firmenstrategie",
+            "word": 18
+        },
+        {
+            "charBegin": 764,
+            "charEnd": 773,
+            "id": 128,
+            "sentence": 5,
+            "text": "vereinbar",
+            "word": 19
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 774,
+            "id": 129,
+            "sentence": 5,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 777,
+            "id": 130,
+            "sentence": 5,
+            "text": "da",
+            "word": 21
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 780,
+            "id": 131,
+            "sentence": 5,
+            "text": "es",
+            "word": 22
+        },
+        {
+            "charBegin": 781,
+            "charEnd": 785,
+            "id": 132,
+            "sentence": 5,
+            "text": "eine",
+            "word": 23
+        },
+        {
+            "charBegin": 786,
+            "charEnd": 797,
+            "id": 133,
+            "sentence": 5,
+            "text": "Investition",
+            "word": 24
+        },
+        {
+            "charBegin": 798,
+            "charEnd": 800,
+            "id": 134,
+            "sentence": 5,
+            "text": "in",
+            "word": 25
+        },
+        {
+            "charBegin": 801,
+            "charEnd": 804,
+            "id": 135,
+            "sentence": 5,
+            "text": "die",
+            "word": 26
+        },
+        {
+            "charBegin": 805,
+            "charEnd": 812,
+            "id": 136,
+            "sentence": 5,
+            "text": "Zukunft",
+            "word": 27
+        },
+        {
+            "charBegin": 813,
+            "charEnd": 816,
+            "id": 137,
+            "sentence": 5,
+            "text": "des",
+            "word": 28
+        },
+        {
+            "charBegin": 817,
+            "charEnd": 824,
+            "id": 138,
+            "sentence": 5,
+            "text": "Fahrens",
+            "word": 29
+        },
+        {
+            "charBegin": 825,
+            "charEnd": 828,
+            "id": 139,
+            "sentence": 5,
+            "text": "mit",
+            "word": 30
+        },
+        {
+            "charBegin": 829,
+            "charEnd": 843,
+            "id": 140,
+            "sentence": 5,
+            "text": "Elektromobilen",
+            "word": 31
+        },
+        {
+            "charBegin": 844,
+            "charEnd": 853,
+            "id": 141,
+            "sentence": 5,
+            "text": "darstelle",
+            "word": 32
+        },
+        {
+            "charBegin": 853,
+            "charEnd": 854,
+            "id": 142,
+            "sentence": 5,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 856,
+            "charEnd": 858,
+            "id": 143,
+            "sentence": 6,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 859,
+            "charEnd": 867,
+            "id": 144,
+            "sentence": 6,
+            "text": "Dezember",
+            "word": 2
+        },
+        {
+            "charBegin": 868,
+            "charEnd": 871,
+            "id": 145,
+            "sentence": 6,
+            "text": "war",
+            "word": 3
+        },
+        {
+            "charBegin": 872,
+            "charEnd": 875,
+            "id": 146,
+            "sentence": 6,
+            "text": "das",
+            "word": 4
+        },
+        {
+            "charBegin": 876,
+            "charEnd": 887,
+            "id": 147,
+            "sentence": 6,
+            "text": "norwegische",
+            "word": 5
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 899,
+            "id": 148,
+            "sentence": 6,
+            "text": "Unternehmen",
+            "word": 6
+        },
+        {
+            "charBegin": 900,
+            "charEnd": 902,
+            "id": 149,
+            "sentence": 6,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 903,
+            "charEnd": 914,
+            "id": 150,
+            "sentence": 6,
+            "text": "finanzielle",
+            "word": 8
+        },
+        {
+            "charBegin": 915,
+            "charEnd": 930,
+            "id": 151,
+            "sentence": 6,
+            "text": "Schwierigkeiten",
+            "word": 9
+        },
+        {
+            "charBegin": 931,
+            "charEnd": 938,
+            "id": 152,
+            "sentence": 6,
+            "text": "geraten",
+            "word": 10
+        },
+        {
+            "charBegin": 938,
+            "charEnd": 939,
+            "id": 153,
+            "sentence": 6,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 940,
+            "charEnd": 942,
+            "id": 154,
+            "sentence": 6,
+            "text": "so",
+            "word": 12
+        },
+        {
+            "charBegin": 943,
+            "charEnd": 947,
+            "id": 155,
+            "sentence": 6,
+            "text": "dass",
+            "word": 13
+        },
+        {
+            "charBegin": 948,
+            "charEnd": 951,
+            "id": 156,
+            "sentence": 6,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 952,
+            "charEnd": 962,
+            "id": 157,
+            "sentence": 6,
+            "text": "Produktion",
+            "word": 15
+        },
+        {
+            "charBegin": 963,
+            "charEnd": 966,
+            "id": 158,
+            "sentence": 6,
+            "text": "des",
+            "word": 16
+        },
+        {
+            "charBegin": 967,
+            "charEnd": 975,
+            "id": 159,
+            "sentence": 6,
+            "text": "einzigen",
+            "word": 17
+        },
+        {
+            "charBegin": 976,
+            "charEnd": 986,
+            "id": 160,
+            "sentence": 6,
+            "text": "Fahrzeuges",
+            "word": 18
+        },
+        {
+            "charBegin": 987,
+            "charEnd": 988,
+            "id": 161,
+            "sentence": 6,
+            "text": "„",
+            "word": 19
+        },
+        {
+            "charBegin": 988,
+            "charEnd": 993,
+            "id": 162,
+            "sentence": 6,
+            "text": "Think",
+            "word": 20
+        },
+        {
+            "charBegin": 994,
+            "charEnd": 998,
+            "id": 163,
+            "sentence": 6,
+            "text": "City",
+            "word": 21
+        },
+        {
+            "charBegin": 998,
+            "charEnd": 999,
+            "id": 164,
+            "sentence": 6,
+            "text": "“",
+            "word": 22
+        },
+        {
+            "charBegin": 1000,
+            "charEnd": 1002,
+            "id": 165,
+            "sentence": 6,
+            "text": "im",
+            "word": 23
+        },
+        {
+            "charBegin": 1003,
+            "charEnd": 1007,
+            "id": 166,
+            "sentence": 6,
+            "text": "Werk",
+            "word": 24
+        },
+        {
+            "charBegin": 1008,
+            "charEnd": 1015,
+            "id": 167,
+            "sentence": 6,
+            "text": "Aurskog",
+            "word": 25
+        },
+        {
+            "charBegin": 1016,
+            "charEnd": 1023,
+            "id": 168,
+            "sentence": 6,
+            "text": "östlich",
+            "word": 26
+        },
+        {
+            "charBegin": 1024,
+            "charEnd": 1027,
+            "id": 169,
+            "sentence": 6,
+            "text": "von",
+            "word": 27
+        },
+        {
+            "charBegin": 1028,
+            "charEnd": 1032,
+            "id": 170,
+            "sentence": 6,
+            "text": "Oslo",
+            "word": 28
+        },
+        {
+            "charBegin": 1033,
+            "charEnd": 1046,
+            "id": 171,
+            "sentence": 6,
+            "text": "vorübergehend",
+            "word": 29
+        },
+        {
+            "charBegin": 1047,
+            "charEnd": 1057,
+            "id": 172,
+            "sentence": 6,
+            "text": "ausgesetzt",
+            "word": 30
+        },
+        {
+            "charBegin": 1058,
+            "charEnd": 1064,
+            "id": 173,
+            "sentence": 6,
+            "text": "werden",
+            "word": 31
+        },
+        {
+            "charBegin": 1065,
+            "charEnd": 1071,
+            "id": 174,
+            "sentence": 6,
+            "text": "musste",
+            "word": 32
+        },
+        {
+            "charBegin": 1071,
+            "charEnd": 1072,
+            "id": 175,
+            "sentence": 6,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 1073,
+            "charEnd": 1076,
+            "id": 176,
+            "sentence": 7,
+            "text": "Dem",
+            "word": 1
+        },
+        {
+            "charBegin": 1077,
+            "charEnd": 1086,
+            "id": 177,
+            "sentence": 7,
+            "text": "Autobauer",
+            "word": 2
+        },
+        {
+            "charBegin": 1087,
+            "charEnd": 1093,
+            "id": 178,
+            "sentence": 7,
+            "text": "fehlen",
+            "word": 3
+        },
+        {
+            "charBegin": 1094,
+            "charEnd": 1096,
+            "id": 179,
+            "sentence": 7,
+            "text": "30",
+            "word": 4
+        },
+        {
+            "charBegin": 1097,
+            "charEnd": 1106,
+            "id": 180,
+            "sentence": 7,
+            "text": "Millionen",
+            "word": 5
+        },
+        {
+            "charBegin": 1107,
+            "charEnd": 1111,
+            "id": 181,
+            "sentence": 7,
+            "text": "Euro",
+            "word": 6
+        },
+        {
+            "charBegin": 1111,
+            "charEnd": 1112,
+            "id": 182,
+            "sentence": 7,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 1113,
+            "charEnd": 1116,
+            "id": 183,
+            "sentence": 8,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1117,
+            "charEnd": 1120,
+            "id": 184,
+            "sentence": 8,
+            "text": "200",
+            "word": 2
+        },
+        {
+            "charBegin": 1121,
+            "charEnd": 1132,
+            "id": 185,
+            "sentence": 8,
+            "text": "Mitarbeiter",
+            "word": 3
+        },
+        {
+            "charBegin": 1133,
+            "charEnd": 1136,
+            "id": 186,
+            "sentence": 8,
+            "text": "des",
+            "word": 4
+        },
+        {
+            "charBegin": 1137,
+            "charEnd": 1149,
+            "id": 187,
+            "sentence": 8,
+            "text": "Unternehmens",
+            "word": 5
+        },
+        {
+            "charBegin": 1150,
+            "charEnd": 1158,
+            "id": 188,
+            "sentence": 8,
+            "text": "befanden",
+            "word": 6
+        },
+        {
+            "charBegin": 1159,
+            "charEnd": 1163,
+            "id": 189,
+            "sentence": 8,
+            "text": "sich",
+            "word": 7
+        },
+        {
+            "charBegin": 1164,
+            "charEnd": 1167,
+            "id": 190,
+            "sentence": 8,
+            "text": "bis",
+            "word": 8
+        },
+        {
+            "charBegin": 1168,
+            "charEnd": 1178,
+            "id": 191,
+            "sentence": 8,
+            "text": "Jahresende",
+            "word": 9
+        },
+        {
+            "charBegin": 1179,
+            "charEnd": 1181,
+            "id": 192,
+            "sentence": 8,
+            "text": "im",
+            "word": 10
+        },
+        {
+            "charBegin": 1182,
+            "charEnd": 1194,
+            "id": 193,
+            "sentence": 8,
+            "text": "Zwangsurlaub",
+            "word": 11
+        },
+        {
+            "charBegin": 1194,
+            "charEnd": 1195,
+            "id": 194,
+            "sentence": 8,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 1196,
+            "charEnd": 1199,
+            "id": 195,
+            "sentence": 9,
+            "text": "Nun",
+            "word": 1
+        },
+        {
+            "charBegin": 1200,
+            "charEnd": 1206,
+            "id": 196,
+            "sentence": 9,
+            "text": "sollen",
+            "word": 2
+        },
+        {
+            "charBegin": 1207,
+            "charEnd": 1210,
+            "id": 197,
+            "sentence": 9,
+            "text": "sie",
+            "word": 3
+        },
+        {
+            "charBegin": 1211,
+            "charEnd": 1221,
+            "id": 198,
+            "sentence": 9,
+            "text": "sukzessive",
+            "word": 4
+        },
+        {
+            "charBegin": 1222,
+            "charEnd": 1228,
+            "id": 199,
+            "sentence": 9,
+            "text": "wieder",
+            "word": 5
+        },
+        {
+            "charBegin": 1229,
+            "charEnd": 1241,
+            "id": 200,
+            "sentence": 9,
+            "text": "zurückgeholt",
+            "word": 6
+        },
+        {
+            "charBegin": 1242,
+            "charEnd": 1248,
+            "id": 201,
+            "sentence": 9,
+            "text": "werden",
+            "word": 7
+        },
+        {
+            "charBegin": 1248,
+            "charEnd": 1249,
+            "id": 202,
+            "sentence": 9,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 1250,
+            "charEnd": 1253,
+            "id": 203,
+            "sentence": 10,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1254,
+            "charEnd": 1264,
+            "id": 204,
+            "sentence": 10,
+            "text": "Produktion",
+            "word": 2
+        },
+        {
+            "charBegin": 1265,
+            "charEnd": 1269,
+            "id": 205,
+            "sentence": 10,
+            "text": "wird",
+            "word": 3
+        },
+        {
+            "charBegin": 1270,
+            "charEnd": 1285,
+            "id": 206,
+            "sentence": 10,
+            "text": "voraussichtlich",
+            "word": 4
+        },
+        {
+            "charBegin": 1286,
+            "charEnd": 1288,
+            "id": 207,
+            "sentence": 10,
+            "text": "im",
+            "word": 5
+        },
+        {
+            "charBegin": 1289,
+            "charEnd": 1296,
+            "id": 208,
+            "sentence": 10,
+            "text": "Februar",
+            "word": 6
+        },
+        {
+            "charBegin": 1297,
+            "charEnd": 1303,
+            "id": 209,
+            "sentence": 10,
+            "text": "wieder",
+            "word": 7
+        },
+        {
+            "charBegin": 1304,
+            "charEnd": 1315,
+            "id": 210,
+            "sentence": 10,
+            "text": "aufgenommen",
+            "word": 8
+        },
+        {
+            "charBegin": 1315,
+            "charEnd": 1316,
+            "id": 211,
+            "sentence": 10,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 1319,
+            "charEnd": 1322,
+            "id": 212,
+            "sentence": 11,
+            "text": "Pro",
+            "word": 1
+        },
+        {
+            "charBegin": 1323,
+            "charEnd": 1326,
+            "id": 213,
+            "sentence": 11,
+            "text": "Tag",
+            "word": 2
+        },
+        {
+            "charBegin": 1327,
+            "charEnd": 1338,
+            "id": 214,
+            "sentence": 11,
+            "text": "produzierte",
+            "word": 3
+        },
+        {
+            "charBegin": 1339,
+            "charEnd": 1344,
+            "id": 215,
+            "sentence": 11,
+            "text": "Think",
+            "word": 4
+        },
+        {
+            "charBegin": 1345,
+            "charEnd": 1351,
+            "id": 216,
+            "sentence": 11,
+            "text": "bisher",
+            "word": 5
+        },
+        {
+            "charBegin": 1352,
+            "charEnd": 1356,
+            "id": 217,
+            "sentence": 11,
+            "text": "zehn",
+            "word": 6
+        },
+        {
+            "charBegin": 1357,
+            "charEnd": 1364,
+            "id": 218,
+            "sentence": 11,
+            "text": "Modelle",
+            "word": 7
+        },
+        {
+            "charBegin": 1364,
+            "charEnd": 1365,
+            "id": 219,
+            "sentence": 11,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 1366,
+            "charEnd": 1373,
+            "id": 220,
+            "sentence": 11,
+            "text": "geplant",
+            "word": 9
+        },
+        {
+            "charBegin": 1374,
+            "charEnd": 1377,
+            "id": 221,
+            "sentence": 11,
+            "text": "war",
+            "word": 10
+        },
+        {
+            "charBegin": 1378,
+            "charEnd": 1390,
+            "id": 222,
+            "sentence": 11,
+            "text": "ursprünglich",
+            "word": 11
+        },
+        {
+            "charBegin": 1391,
+            "charEnd": 1395,
+            "id": 223,
+            "sentence": 11,
+            "text": "eine",
+            "word": 12
+        },
+        {
+            "charBegin": 1396,
+            "charEnd": 1404,
+            "id": 224,
+            "sentence": 11,
+            "text": "Anhebung",
+            "word": 13
+        },
+        {
+            "charBegin": 1405,
+            "charEnd": 1408,
+            "id": 225,
+            "sentence": 11,
+            "text": "auf",
+            "word": 14
+        },
+        {
+            "charBegin": 1409,
+            "charEnd": 1412,
+            "id": 226,
+            "sentence": 11,
+            "text": "22.",
+            "word": 15
+        },
+        {
+            "charBegin": 1413,
+            "charEnd": 1415,
+            "id": 227,
+            "sentence": 12,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 1416,
+            "charEnd": 1420,
+            "id": 228,
+            "sentence": 12,
+            "text": "Jahr",
+            "word": 2
+        },
+        {
+            "charBegin": 1421,
+            "charEnd": 1425,
+            "id": 229,
+            "sentence": 12,
+            "text": "2007",
+            "word": 3
+        },
+        {
+            "charBegin": 1426,
+            "charEnd": 1432,
+            "id": 230,
+            "sentence": 12,
+            "text": "betrug",
+            "word": 4
+        },
+        {
+            "charBegin": 1433,
+            "charEnd": 1436,
+            "id": 231,
+            "sentence": 12,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 1437,
+            "charEnd": 1443,
+            "id": 232,
+            "sentence": 12,
+            "text": "Umsatz",
+            "word": 6
+        },
+        {
+            "charBegin": 1444,
+            "charEnd": 1446,
+            "id": 233,
+            "sentence": 12,
+            "text": "16",
+            "word": 7
+        },
+        {
+            "charBegin": 1447,
+            "charEnd": 1456,
+            "id": 234,
+            "sentence": 12,
+            "text": "Millionen",
+            "word": 8
+        },
+        {
+            "charBegin": 1457,
+            "charEnd": 1463,
+            "id": 235,
+            "sentence": 12,
+            "text": "Kronen",
+            "word": 9
+        },
+        {
+            "charBegin": 1464,
+            "charEnd": 1467,
+            "id": 236,
+            "sentence": 12,
+            "text": "bei",
+            "word": 10
+        },
+        {
+            "charBegin": 1468,
+            "charEnd": 1473,
+            "id": 237,
+            "sentence": 12,
+            "text": "einem",
+            "word": 11
+        },
+        {
+            "charBegin": 1474,
+            "charEnd": 1488,
+            "id": 238,
+            "sentence": 12,
+            "text": "gleichzeitigen",
+            "word": 12
+        },
+        {
+            "charBegin": 1489,
+            "charEnd": 1496,
+            "id": 239,
+            "sentence": 12,
+            "text": "Defizit",
+            "word": 13
+        },
+        {
+            "charBegin": 1497,
+            "charEnd": 1500,
+            "id": 240,
+            "sentence": 12,
+            "text": "von",
+            "word": 14
+        },
+        {
+            "charBegin": 1501,
+            "charEnd": 1504,
+            "id": 241,
+            "sentence": 12,
+            "text": "161",
+            "word": 15
+        },
+        {
+            "charBegin": 1505,
+            "charEnd": 1514,
+            "id": 242,
+            "sentence": 12,
+            "text": "Millionen",
+            "word": 16
+        },
+        {
+            "charBegin": 1515,
+            "charEnd": 1521,
+            "id": 243,
+            "sentence": 12,
+            "text": "Kronen",
+            "word": 17
+        },
+        {
+            "charBegin": 1521,
+            "charEnd": 1522,
+            "id": 244,
+            "sentence": 12,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 1523,
+            "charEnd": 1526,
+            "id": 245,
+            "sentence": 13,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1527,
+            "charEnd": 1534,
+            "id": 246,
+            "sentence": 13,
+            "text": "Verkauf",
+            "word": 2
+        },
+        {
+            "charBegin": 1535,
+            "charEnd": 1538,
+            "id": 247,
+            "sentence": 13,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 1539,
+            "charEnd": 1547,
+            "id": 248,
+            "sentence": 13,
+            "text": "neuesten",
+            "word": 4
+        },
+        {
+            "charBegin": 1548,
+            "charEnd": 1555,
+            "id": 249,
+            "sentence": 13,
+            "text": "Version",
+            "word": 5
+        },
+        {
+            "charBegin": 1556,
+            "charEnd": 1559,
+            "id": 250,
+            "sentence": 13,
+            "text": "des",
+            "word": 6
+        },
+        {
+            "charBegin": 1560,
+            "charEnd": 1561,
+            "id": 251,
+            "sentence": 13,
+            "text": "„",
+            "word": 7
+        },
+        {
+            "charBegin": 1561,
+            "charEnd": 1566,
+            "id": 252,
+            "sentence": 13,
+            "text": "Think",
+            "word": 8
+        },
+        {
+            "charBegin": 1567,
+            "charEnd": 1571,
+            "id": 253,
+            "sentence": 13,
+            "text": "City",
+            "word": 9
+        },
+        {
+            "charBegin": 1571,
+            "charEnd": 1572,
+            "id": 254,
+            "sentence": 13,
+            "text": "“",
+            "word": 10
+        },
+        {
+            "charBegin": 1573,
+            "charEnd": 1576,
+            "id": 255,
+            "sentence": 13,
+            "text": "mit",
+            "word": 11
+        },
+        {
+            "charBegin": 1577,
+            "charEnd": 1596,
+            "id": 256,
+            "sentence": 13,
+            "text": "Lithium-Ionen-Akkus",
+            "word": 12
+        },
+        {
+            "charBegin": 1597,
+            "charEnd": 1603,
+            "id": 257,
+            "sentence": 13,
+            "text": "sollte",
+            "word": 13
+        },
+        {
+            "charBegin": 1604,
+            "charEnd": 1610,
+            "id": 258,
+            "sentence": 13,
+            "text": "Anfang",
+            "word": 14
+        },
+        {
+            "charBegin": 1611,
+            "charEnd": 1614,
+            "id": 259,
+            "sentence": 13,
+            "text": "des",
+            "word": 15
+        },
+        {
+            "charBegin": 1615,
+            "charEnd": 1621,
+            "id": 260,
+            "sentence": 13,
+            "text": "Jahres",
+            "word": 16
+        },
+        {
+            "charBegin": 1622,
+            "charEnd": 1624,
+            "id": 261,
+            "sentence": 13,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 1625,
+            "charEnd": 1637,
+            "id": 262,
+            "sentence": 13,
+            "text": "Skandinavien",
+            "word": 18
+        },
+        {
+            "charBegin": 1638,
+            "charEnd": 1646,
+            "id": 263,
+            "sentence": 13,
+            "text": "anlaufen",
+            "word": 19
+        },
+        {
+            "charBegin": 1646,
+            "charEnd": 1647,
+            "id": 264,
+            "sentence": 13,
+            "text": ".",
+            "word": 20
+        }
+    ]
+}

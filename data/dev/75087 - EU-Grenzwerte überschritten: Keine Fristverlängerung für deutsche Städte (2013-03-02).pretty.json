@@ -1,0 +1,2866 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 122,
+                        "charBegin": 719,
+                        "charEnd": 723,
+                        "end": 123
+                    }
+                ],
+                "text": "nach",
+                "tokenIds": [
+                    122
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 122,
+                        "charBegin": 719,
+                        "charEnd": 758,
+                        "end": 126
+                    }
+                ],
+                "text": "nach Einschätzung des Umweltbundesamtes",
+                "tokenIds": [
+                    122,
+                    123,
+                    124,
+                    125
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 121,
+                        "charBegin": 715,
+                        "charEnd": 718,
+                        "end": 122
+                    },
+                    {
+                        "begin": 126,
+                        "charBegin": 759,
+                        "charEnd": 791,
+                        "end": 130
+                    }
+                ],
+                "text": "die die Luftqualität verbessern kann",
+                "tokenIds": [
+                    121,
+                    126,
+                    127,
+                    128,
+                    129
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 123,
+                        "charBegin": 724,
+                        "charEnd": 758,
+                        "end": 126
+                    }
+                ],
+                "text": "Einschätzung des Umweltbundesamtes",
+                "tokenIds": [
+                    123,
+                    124,
+                    125
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 143,
+                        "charBegin": 877,
+                        "charEnd": 1079,
+                        "end": 172
+                    }
+                ],
+                "text": "Einerseits wird der durch die EU-Kommission ausgelöste bürokratische Aufwand bemängelt, andererseits aber auch die unzureichende Kontrolle in den Städten beklagt - so etwa von der Deutschen Umwelthilfe.",
+                "tokenIds": [
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    162,
+                    163,
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    169,
+                    170,
+                    171
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 167,
+                        "charBegin": 1049,
+                        "charEnd": 1078,
+                        "end": 171
+                    }
+                ],
+                "text": "von der Deutschen Umwelthilfe",
+                "tokenIds": [
+                    167,
+                    168,
+                    169,
+                    170
+                ]
+            },
+            "type": "Reported"
+        }
+    ],
+    "documentName": "75087 - EU-Grenzwerte überschritten: Keine Fristverlängerung für deutsche Städte (2013-03-02)",
+    "originalText": "Der in Europa zulässige Grenzwert von 40 µg\/m³ für Stickstoffdioxid wurde in vielen deutschen Städten überschritten, allerdings in unterschiedlichem Maße. Während in Stuttgart der Wert im Jahresmittel bei 60 µg\/m³ am höchsten und damit 50 Prozent über dem Grenzwert lag, war in der Stadt Bremen bei einem Wert vom 41 µg\/m³ die Überschreitung am niedrigsten und mit nur 1 µg\/m³ eigentlich geringfügig. Trotzdem wurden diese beiden und viele weitere Städte von der EU-Kommission in gleicher Weise verwarnt. Allerdings kommt hinzu, dass die von der EU vorgeschriebenen Luftreinhaltepläne aus dem Jahre 2006 stammen und hätten überarbeitet werden müssen. \n\nIn vielen deutschen Städten wurde eine Umweltzone eingeführt, die nach Einschätzung des Umweltbundesamtes die Luftqualität verbessern kann. Von Kritikern wird die Wirksamkeit jedoch bereits seit einigen Jahren angezweifelt. Einerseits wird der durch die EU-Kommission ausgelöste bürokratische Aufwand bemängelt, andererseits aber auch die unzureichende Kontrolle in den Städten beklagt - so etwa von der Deutschen Umwelthilfe. \n\nAllein in Baden-Württemberg wurden in 25 Gemeinden die Grenzwerte überschritten. 26 Städte und Gemeinden haben einen Luftreinhalteplan aufgestellt, in 25 Orten gibt es eine Umweltzone. Viele der betroffenen Städte und Kommunen hatten wegen der Überschreitung der Grenzwerte bei der EU eine Fristverlängerung beantragt, teilweise aber keine ausreichende Begründung geliefert oder keine Maßnahmen vorgeschlagen, sodass die Anträge ablehnt wurden. Von den 643 Messstationen, die in Deutschland betrieben werden, zeigten 52 Prozent bei verkehrsnahen Messungen eine Überschreitung.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 154,
+            "end": 24,
+            "id": 0,
+            "text": "Der in Europa zulässige Grenzwert von 40 µg\/m³ für Stickstoffdioxid wurde in vielen deutschen Städten überschritten, allerdings in unterschiedlichem Maße. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ],
+            "tokens": [
+                "Der",
+                "in",
+                "Europa",
+                "zulässige",
+                "Grenzwert",
+                "von",
+                "40",
+                "µg",
+                "\/",
+                "m³",
+                "für",
+                "Stickstoffdioxid",
+                "wurde",
+                "in",
+                "vielen",
+                "deutschen",
+                "Städten",
+                "überschritten",
+                ",",
+                "allerdings",
+                "in",
+                "unterschiedlichem",
+                "Maße",
+                "."
+            ]
+        },
+        {
+            "begin": 24,
+            "charBegin": 155,
+            "charEnd": 400,
+            "end": 74,
+            "id": 1,
+            "text": "Während in Stuttgart der Wert im Jahresmittel bei 60 µg\/m³ am höchsten und damit 50 Prozent über dem Grenzwert lag, war in der Stadt Bremen bei einem Wert vom 41 µg\/m³ die Überschreitung am niedrigsten und mit nur 1 µg\/m³ eigentlich geringfügig. ",
+            "tokenIds": [
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73
+            ],
+            "tokens": [
+                "Während",
+                "in",
+                "Stuttgart",
+                "der",
+                "Wert",
+                "im",
+                "Jahresmittel",
+                "bei",
+                "60",
+                "µg",
+                "\/",
+                "m³",
+                "am",
+                "höchsten",
+                "und",
+                "damit",
+                "50",
+                "Prozent",
+                "über",
+                "dem",
+                "Grenzwert",
+                "lag",
+                ",",
+                "war",
+                "in",
+                "der",
+                "Stadt",
+                "Bremen",
+                "bei",
+                "einem",
+                "Wert",
+                "vom",
+                "41",
+                "µg",
+                "\/",
+                "m³",
+                "die",
+                "Überschreitung",
+                "am",
+                "niedrigsten",
+                "und",
+                "mit",
+                "nur",
+                "1",
+                "µg",
+                "\/",
+                "m³",
+                "eigentlich",
+                "geringfügig",
+                "."
+            ]
+        },
+        {
+            "begin": 74,
+            "charBegin": 401,
+            "charEnd": 504,
+            "end": 90,
+            "id": 2,
+            "text": "Trotzdem wurden diese beiden und viele weitere Städte von der EU-Kommission in gleicher Weise verwarnt. ",
+            "tokenIds": [
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89
+            ],
+            "tokens": [
+                "Trotzdem",
+                "wurden",
+                "diese",
+                "beiden",
+                "und",
+                "viele",
+                "weitere",
+                "Städte",
+                "von",
+                "der",
+                "EU-Kommission",
+                "in",
+                "gleicher",
+                "Weise",
+                "verwarnt",
+                "."
+            ]
+        },
+        {
+            "begin": 90,
+            "charBegin": 505,
+            "charEnd": 650,
+            "end": 112,
+            "id": 3,
+            "text": "Allerdings kommt hinzu, dass die von der EU vorgeschriebenen Luftreinhaltepläne aus dem Jahre 2006 stammen und hätten überarbeitet werden müssen. ",
+            "tokenIds": [
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111
+            ],
+            "tokens": [
+                "Allerdings",
+                "kommt",
+                "hinzu",
+                ",",
+                "dass",
+                "die",
+                "von",
+                "der",
+                "EU",
+                "vorgeschriebenen",
+                "Luftreinhaltepläne",
+                "aus",
+                "dem",
+                "Jahre",
+                "2006",
+                "stammen",
+                "und",
+                "hätten",
+                "überarbeitet",
+                "werden",
+                "müssen",
+                "."
+            ]
+        },
+        {
+            "begin": 112,
+            "charBegin": 653,
+            "charEnd": 792,
+            "end": 131,
+            "id": 4,
+            "text": "In vielen deutschen Städten wurde eine Umweltzone eingeführt, die nach Einschätzung des Umweltbundesamtes die Luftqualität verbessern kann. ",
+            "tokenIds": [
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130
+            ],
+            "tokens": [
+                "In",
+                "vielen",
+                "deutschen",
+                "Städten",
+                "wurde",
+                "eine",
+                "Umweltzone",
+                "eingeführt",
+                ",",
+                "die",
+                "nach",
+                "Einschätzung",
+                "des",
+                "Umweltbundesamtes",
+                "die",
+                "Luftqualität",
+                "verbessern",
+                "kann",
+                "."
+            ]
+        },
+        {
+            "begin": 131,
+            "charBegin": 793,
+            "charEnd": 876,
+            "end": 143,
+            "id": 5,
+            "text": "Von Kritikern wird die Wirksamkeit jedoch bereits seit einigen Jahren angezweifelt. ",
+            "tokenIds": [
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142
+            ],
+            "tokens": [
+                "Von",
+                "Kritikern",
+                "wird",
+                "die",
+                "Wirksamkeit",
+                "jedoch",
+                "bereits",
+                "seit",
+                "einigen",
+                "Jahren",
+                "angezweifelt",
+                "."
+            ]
+        },
+        {
+            "begin": 143,
+            "charBegin": 877,
+            "charEnd": 1079,
+            "end": 172,
+            "id": 6,
+            "text": "Einerseits wird der durch die EU-Kommission ausgelöste bürokratische Aufwand bemängelt, andererseits aber auch die unzureichende Kontrolle in den Städten beklagt - so etwa von der Deutschen Umwelthilfe. ",
+            "tokenIds": [
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171
+            ],
+            "tokens": [
+                "Einerseits",
+                "wird",
+                "der",
+                "durch",
+                "die",
+                "EU-Kommission",
+                "ausgelöste",
+                "bürokratische",
+                "Aufwand",
+                "bemängelt",
+                ",",
+                "andererseits",
+                "aber",
+                "auch",
+                "die",
+                "unzureichende",
+                "Kontrolle",
+                "in",
+                "den",
+                "Städten",
+                "beklagt",
+                "-",
+                "so",
+                "etwa",
+                "von",
+                "der",
+                "Deutschen",
+                "Umwelthilfe",
+                "."
+            ]
+        },
+        {
+            "begin": 172,
+            "charBegin": 1082,
+            "charEnd": 1162,
+            "end": 183,
+            "id": 7,
+            "text": "Allein in Baden-Württemberg wurden in 25 Gemeinden die Grenzwerte überschritten. ",
+            "tokenIds": [
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182
+            ],
+            "tokens": [
+                "Allein",
+                "in",
+                "Baden-Württemberg",
+                "wurden",
+                "in",
+                "25",
+                "Gemeinden",
+                "die",
+                "Grenzwerte",
+                "überschritten",
+                "."
+            ]
+        },
+        {
+            "begin": 183,
+            "charBegin": 1163,
+            "charEnd": 1266,
+            "end": 200,
+            "id": 8,
+            "text": "26 Städte und Gemeinden haben einen Luftreinhalteplan aufgestellt, in 25 Orten gibt es eine Umweltzone. ",
+            "tokenIds": [
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199
+            ],
+            "tokens": [
+                "26",
+                "Städte",
+                "und",
+                "Gemeinden",
+                "haben",
+                "einen",
+                "Luftreinhalteplan",
+                "aufgestellt",
+                ",",
+                "in",
+                "25",
+                "Orten",
+                "gibt",
+                "es",
+                "eine",
+                "Umweltzone",
+                "."
+            ]
+        },
+        {
+            "begin": 200,
+            "charBegin": 1267,
+            "charEnd": 1526,
+            "end": 236,
+            "id": 9,
+            "text": "Viele der betroffenen Städte und Kommunen hatten wegen der Überschreitung der Grenzwerte bei der EU eine Fristverlängerung beantragt, teilweise aber keine ausreichende Begründung geliefert oder keine Maßnahmen vorgeschlagen, sodass die Anträge ablehnt wurden. ",
+            "tokenIds": [
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235
+            ],
+            "tokens": [
+                "Viele",
+                "der",
+                "betroffenen",
+                "Städte",
+                "und",
+                "Kommunen",
+                "hatten",
+                "wegen",
+                "der",
+                "Überschreitung",
+                "der",
+                "Grenzwerte",
+                "bei",
+                "der",
+                "EU",
+                "eine",
+                "Fristverlängerung",
+                "beantragt",
+                ",",
+                "teilweise",
+                "aber",
+                "keine",
+                "ausreichende",
+                "Begründung",
+                "geliefert",
+                "oder",
+                "keine",
+                "Maßnahmen",
+                "vorgeschlagen",
+                ",",
+                "sodass",
+                "die",
+                "Anträge",
+                "ablehnt",
+                "wurden",
+                "."
+            ]
+        },
+        {
+            "begin": 236,
+            "charBegin": 1527,
+            "charEnd": 1658,
+            "end": 256,
+            "id": 10,
+            "text": "Von den 643 Messstationen, die in Deutschland betrieben werden, zeigten 52 Prozent bei verkehrsnahen Messungen eine Überschreitung.",
+            "tokenIds": [
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255
+            ],
+            "tokens": [
+                "Von",
+                "den",
+                "643",
+                "Messstationen",
+                ",",
+                "die",
+                "in",
+                "Deutschland",
+                "betrieben",
+                "werden",
+                ",",
+                "zeigten",
+                "52",
+                "Prozent",
+                "bei",
+                "verkehrsnahen",
+                "Messungen",
+                "eine",
+                "Überschreitung",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 6,
+            "id": 1,
+            "sentence": 1,
+            "text": "in",
+            "word": 2
+        },
+        {
+            "charBegin": 7,
+            "charEnd": 13,
+            "id": 2,
+            "sentence": 1,
+            "text": "Europa",
+            "word": 3
+        },
+        {
+            "charBegin": 14,
+            "charEnd": 23,
+            "id": 3,
+            "sentence": 1,
+            "text": "zulässige",
+            "word": 4
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 33,
+            "id": 4,
+            "sentence": 1,
+            "text": "Grenzwert",
+            "word": 5
+        },
+        {
+            "charBegin": 34,
+            "charEnd": 37,
+            "id": 5,
+            "sentence": 1,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 38,
+            "charEnd": 40,
+            "id": 6,
+            "sentence": 1,
+            "text": "40",
+            "word": 7
+        },
+        {
+            "charBegin": 41,
+            "charEnd": 43,
+            "id": 7,
+            "sentence": 1,
+            "text": "µg",
+            "word": 8
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 44,
+            "id": 8,
+            "sentence": 1,
+            "text": "\/",
+            "word": 9
+        },
+        {
+            "charBegin": 44,
+            "charEnd": 46,
+            "id": 9,
+            "sentence": 1,
+            "text": "m³",
+            "word": 10
+        },
+        {
+            "charBegin": 47,
+            "charEnd": 50,
+            "id": 10,
+            "sentence": 1,
+            "text": "für",
+            "word": 11
+        },
+        {
+            "charBegin": 51,
+            "charEnd": 67,
+            "id": 11,
+            "sentence": 1,
+            "text": "Stickstoffdioxid",
+            "word": 12
+        },
+        {
+            "charBegin": 68,
+            "charEnd": 73,
+            "id": 12,
+            "sentence": 1,
+            "text": "wurde",
+            "word": 13
+        },
+        {
+            "charBegin": 74,
+            "charEnd": 76,
+            "id": 13,
+            "sentence": 1,
+            "text": "in",
+            "word": 14
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 83,
+            "id": 14,
+            "sentence": 1,
+            "text": "vielen",
+            "word": 15
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 93,
+            "id": 15,
+            "sentence": 1,
+            "text": "deutschen",
+            "word": 16
+        },
+        {
+            "charBegin": 94,
+            "charEnd": 101,
+            "id": 16,
+            "sentence": 1,
+            "text": "Städten",
+            "word": 17
+        },
+        {
+            "charBegin": 102,
+            "charEnd": 115,
+            "id": 17,
+            "sentence": 1,
+            "text": "überschritten",
+            "word": 18
+        },
+        {
+            "charBegin": 115,
+            "charEnd": 116,
+            "id": 18,
+            "sentence": 1,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 127,
+            "id": 19,
+            "sentence": 1,
+            "text": "allerdings",
+            "word": 20
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 130,
+            "id": 20,
+            "sentence": 1,
+            "text": "in",
+            "word": 21
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 148,
+            "id": 21,
+            "sentence": 1,
+            "text": "unterschiedlichem",
+            "word": 22
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 153,
+            "id": 22,
+            "sentence": 1,
+            "text": "Maße",
+            "word": 23
+        },
+        {
+            "charBegin": 153,
+            "charEnd": 154,
+            "id": 23,
+            "sentence": 1,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 155,
+            "charEnd": 162,
+            "id": 24,
+            "sentence": 2,
+            "text": "Während",
+            "word": 1
+        },
+        {
+            "charBegin": 163,
+            "charEnd": 165,
+            "id": 25,
+            "sentence": 2,
+            "text": "in",
+            "word": 2
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 175,
+            "id": 26,
+            "sentence": 2,
+            "text": "Stuttgart",
+            "word": 3
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 179,
+            "id": 27,
+            "sentence": 2,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 180,
+            "charEnd": 184,
+            "id": 28,
+            "sentence": 2,
+            "text": "Wert",
+            "word": 5
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 187,
+            "id": 29,
+            "sentence": 2,
+            "text": "im",
+            "word": 6
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 200,
+            "id": 30,
+            "sentence": 2,
+            "text": "Jahresmittel",
+            "word": 7
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 204,
+            "id": 31,
+            "sentence": 2,
+            "text": "bei",
+            "word": 8
+        },
+        {
+            "charBegin": 205,
+            "charEnd": 207,
+            "id": 32,
+            "sentence": 2,
+            "text": "60",
+            "word": 9
+        },
+        {
+            "charBegin": 208,
+            "charEnd": 210,
+            "id": 33,
+            "sentence": 2,
+            "text": "µg",
+            "word": 10
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 211,
+            "id": 34,
+            "sentence": 2,
+            "text": "\/",
+            "word": 11
+        },
+        {
+            "charBegin": 211,
+            "charEnd": 213,
+            "id": 35,
+            "sentence": 2,
+            "text": "m³",
+            "word": 12
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 216,
+            "id": 36,
+            "sentence": 2,
+            "text": "am",
+            "word": 13
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 225,
+            "id": 37,
+            "sentence": 2,
+            "text": "höchsten",
+            "word": 14
+        },
+        {
+            "charBegin": 226,
+            "charEnd": 229,
+            "id": 38,
+            "sentence": 2,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 230,
+            "charEnd": 235,
+            "id": 39,
+            "sentence": 2,
+            "text": "damit",
+            "word": 16
+        },
+        {
+            "charBegin": 236,
+            "charEnd": 238,
+            "id": 40,
+            "sentence": 2,
+            "text": "50",
+            "word": 17
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 246,
+            "id": 41,
+            "sentence": 2,
+            "text": "Prozent",
+            "word": 18
+        },
+        {
+            "charBegin": 247,
+            "charEnd": 251,
+            "id": 42,
+            "sentence": 2,
+            "text": "über",
+            "word": 19
+        },
+        {
+            "charBegin": 252,
+            "charEnd": 255,
+            "id": 43,
+            "sentence": 2,
+            "text": "dem",
+            "word": 20
+        },
+        {
+            "charBegin": 256,
+            "charEnd": 265,
+            "id": 44,
+            "sentence": 2,
+            "text": "Grenzwert",
+            "word": 21
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 269,
+            "id": 45,
+            "sentence": 2,
+            "text": "lag",
+            "word": 22
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 270,
+            "id": 46,
+            "sentence": 2,
+            "text": ",",
+            "word": 23
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 274,
+            "id": 47,
+            "sentence": 2,
+            "text": "war",
+            "word": 24
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 277,
+            "id": 48,
+            "sentence": 2,
+            "text": "in",
+            "word": 25
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 281,
+            "id": 49,
+            "sentence": 2,
+            "text": "der",
+            "word": 26
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 287,
+            "id": 50,
+            "sentence": 2,
+            "text": "Stadt",
+            "word": 27
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 294,
+            "id": 51,
+            "sentence": 2,
+            "text": "Bremen",
+            "word": 28
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 298,
+            "id": 52,
+            "sentence": 2,
+            "text": "bei",
+            "word": 29
+        },
+        {
+            "charBegin": 299,
+            "charEnd": 304,
+            "id": 53,
+            "sentence": 2,
+            "text": "einem",
+            "word": 30
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 309,
+            "id": 54,
+            "sentence": 2,
+            "text": "Wert",
+            "word": 31
+        },
+        {
+            "charBegin": 310,
+            "charEnd": 313,
+            "id": 55,
+            "sentence": 2,
+            "text": "vom",
+            "word": 32
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 316,
+            "id": 56,
+            "sentence": 2,
+            "text": "41",
+            "word": 33
+        },
+        {
+            "charBegin": 317,
+            "charEnd": 319,
+            "id": 57,
+            "sentence": 2,
+            "text": "µg",
+            "word": 34
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 320,
+            "id": 58,
+            "sentence": 2,
+            "text": "\/",
+            "word": 35
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 322,
+            "id": 59,
+            "sentence": 2,
+            "text": "m³",
+            "word": 36
+        },
+        {
+            "charBegin": 323,
+            "charEnd": 326,
+            "id": 60,
+            "sentence": 2,
+            "text": "die",
+            "word": 37
+        },
+        {
+            "charBegin": 327,
+            "charEnd": 341,
+            "id": 61,
+            "sentence": 2,
+            "text": "Überschreitung",
+            "word": 38
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 344,
+            "id": 62,
+            "sentence": 2,
+            "text": "am",
+            "word": 39
+        },
+        {
+            "charBegin": 345,
+            "charEnd": 356,
+            "id": 63,
+            "sentence": 2,
+            "text": "niedrigsten",
+            "word": 40
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 360,
+            "id": 64,
+            "sentence": 2,
+            "text": "und",
+            "word": 41
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 364,
+            "id": 65,
+            "sentence": 2,
+            "text": "mit",
+            "word": 42
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 368,
+            "id": 66,
+            "sentence": 2,
+            "text": "nur",
+            "word": 43
+        },
+        {
+            "charBegin": 369,
+            "charEnd": 370,
+            "id": 67,
+            "sentence": 2,
+            "text": "1",
+            "word": 44
+        },
+        {
+            "charBegin": 371,
+            "charEnd": 373,
+            "id": 68,
+            "sentence": 2,
+            "text": "µg",
+            "word": 45
+        },
+        {
+            "charBegin": 373,
+            "charEnd": 374,
+            "id": 69,
+            "sentence": 2,
+            "text": "\/",
+            "word": 46
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 376,
+            "id": 70,
+            "sentence": 2,
+            "text": "m³",
+            "word": 47
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 387,
+            "id": 71,
+            "sentence": 2,
+            "text": "eigentlich",
+            "word": 48
+        },
+        {
+            "charBegin": 388,
+            "charEnd": 399,
+            "id": 72,
+            "sentence": 2,
+            "text": "geringfügig",
+            "word": 49
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 400,
+            "id": 73,
+            "sentence": 2,
+            "text": ".",
+            "word": 50
+        },
+        {
+            "charBegin": 401,
+            "charEnd": 409,
+            "id": 74,
+            "sentence": 3,
+            "text": "Trotzdem",
+            "word": 1
+        },
+        {
+            "charBegin": 410,
+            "charEnd": 416,
+            "id": 75,
+            "sentence": 3,
+            "text": "wurden",
+            "word": 2
+        },
+        {
+            "charBegin": 417,
+            "charEnd": 422,
+            "id": 76,
+            "sentence": 3,
+            "text": "diese",
+            "word": 3
+        },
+        {
+            "charBegin": 423,
+            "charEnd": 429,
+            "id": 77,
+            "sentence": 3,
+            "text": "beiden",
+            "word": 4
+        },
+        {
+            "charBegin": 430,
+            "charEnd": 433,
+            "id": 78,
+            "sentence": 3,
+            "text": "und",
+            "word": 5
+        },
+        {
+            "charBegin": 434,
+            "charEnd": 439,
+            "id": 79,
+            "sentence": 3,
+            "text": "viele",
+            "word": 6
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 447,
+            "id": 80,
+            "sentence": 3,
+            "text": "weitere",
+            "word": 7
+        },
+        {
+            "charBegin": 448,
+            "charEnd": 454,
+            "id": 81,
+            "sentence": 3,
+            "text": "Städte",
+            "word": 8
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 458,
+            "id": 82,
+            "sentence": 3,
+            "text": "von",
+            "word": 9
+        },
+        {
+            "charBegin": 459,
+            "charEnd": 462,
+            "id": 83,
+            "sentence": 3,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 463,
+            "charEnd": 476,
+            "id": 84,
+            "sentence": 3,
+            "text": "EU-Kommission",
+            "word": 11
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 479,
+            "id": 85,
+            "sentence": 3,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 480,
+            "charEnd": 488,
+            "id": 86,
+            "sentence": 3,
+            "text": "gleicher",
+            "word": 13
+        },
+        {
+            "charBegin": 489,
+            "charEnd": 494,
+            "id": 87,
+            "sentence": 3,
+            "text": "Weise",
+            "word": 14
+        },
+        {
+            "charBegin": 495,
+            "charEnd": 503,
+            "id": 88,
+            "sentence": 3,
+            "text": "verwarnt",
+            "word": 15
+        },
+        {
+            "charBegin": 503,
+            "charEnd": 504,
+            "id": 89,
+            "sentence": 3,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 505,
+            "charEnd": 515,
+            "id": 90,
+            "sentence": 4,
+            "text": "Allerdings",
+            "word": 1
+        },
+        {
+            "charBegin": 516,
+            "charEnd": 521,
+            "id": 91,
+            "sentence": 4,
+            "text": "kommt",
+            "word": 2
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 527,
+            "id": 92,
+            "sentence": 4,
+            "text": "hinzu",
+            "word": 3
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 528,
+            "id": 93,
+            "sentence": 4,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 529,
+            "charEnd": 533,
+            "id": 94,
+            "sentence": 4,
+            "text": "dass",
+            "word": 5
+        },
+        {
+            "charBegin": 534,
+            "charEnd": 537,
+            "id": 95,
+            "sentence": 4,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 538,
+            "charEnd": 541,
+            "id": 96,
+            "sentence": 4,
+            "text": "von",
+            "word": 7
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 545,
+            "id": 97,
+            "sentence": 4,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 546,
+            "charEnd": 548,
+            "id": 98,
+            "sentence": 4,
+            "text": "EU",
+            "word": 9
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 565,
+            "id": 99,
+            "sentence": 4,
+            "text": "vorgeschriebenen",
+            "word": 10
+        },
+        {
+            "charBegin": 566,
+            "charEnd": 584,
+            "id": 100,
+            "sentence": 4,
+            "text": "Luftreinhaltepläne",
+            "word": 11
+        },
+        {
+            "charBegin": 585,
+            "charEnd": 588,
+            "id": 101,
+            "sentence": 4,
+            "text": "aus",
+            "word": 12
+        },
+        {
+            "charBegin": 589,
+            "charEnd": 592,
+            "id": 102,
+            "sentence": 4,
+            "text": "dem",
+            "word": 13
+        },
+        {
+            "charBegin": 593,
+            "charEnd": 598,
+            "id": 103,
+            "sentence": 4,
+            "text": "Jahre",
+            "word": 14
+        },
+        {
+            "charBegin": 599,
+            "charEnd": 603,
+            "id": 104,
+            "sentence": 4,
+            "text": "2006",
+            "word": 15
+        },
+        {
+            "charBegin": 604,
+            "charEnd": 611,
+            "id": 105,
+            "sentence": 4,
+            "text": "stammen",
+            "word": 16
+        },
+        {
+            "charBegin": 612,
+            "charEnd": 615,
+            "id": 106,
+            "sentence": 4,
+            "text": "und",
+            "word": 17
+        },
+        {
+            "charBegin": 616,
+            "charEnd": 622,
+            "id": 107,
+            "sentence": 4,
+            "text": "hätten",
+            "word": 18
+        },
+        {
+            "charBegin": 623,
+            "charEnd": 635,
+            "id": 108,
+            "sentence": 4,
+            "text": "überarbeitet",
+            "word": 19
+        },
+        {
+            "charBegin": 636,
+            "charEnd": 642,
+            "id": 109,
+            "sentence": 4,
+            "text": "werden",
+            "word": 20
+        },
+        {
+            "charBegin": 643,
+            "charEnd": 649,
+            "id": 110,
+            "sentence": 4,
+            "text": "müssen",
+            "word": 21
+        },
+        {
+            "charBegin": 649,
+            "charEnd": 650,
+            "id": 111,
+            "sentence": 4,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 653,
+            "charEnd": 655,
+            "id": 112,
+            "sentence": 5,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 656,
+            "charEnd": 662,
+            "id": 113,
+            "sentence": 5,
+            "text": "vielen",
+            "word": 2
+        },
+        {
+            "charBegin": 663,
+            "charEnd": 672,
+            "id": 114,
+            "sentence": 5,
+            "text": "deutschen",
+            "word": 3
+        },
+        {
+            "charBegin": 673,
+            "charEnd": 680,
+            "id": 115,
+            "sentence": 5,
+            "text": "Städten",
+            "word": 4
+        },
+        {
+            "charBegin": 681,
+            "charEnd": 686,
+            "id": 116,
+            "sentence": 5,
+            "text": "wurde",
+            "word": 5
+        },
+        {
+            "charBegin": 687,
+            "charEnd": 691,
+            "id": 117,
+            "sentence": 5,
+            "text": "eine",
+            "word": 6
+        },
+        {
+            "charBegin": 692,
+            "charEnd": 702,
+            "id": 118,
+            "sentence": 5,
+            "text": "Umweltzone",
+            "word": 7
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 713,
+            "id": 119,
+            "sentence": 5,
+            "text": "eingeführt",
+            "word": 8
+        },
+        {
+            "charBegin": 713,
+            "charEnd": 714,
+            "id": 120,
+            "sentence": 5,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 715,
+            "charEnd": 718,
+            "id": 121,
+            "sentence": 5,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 719,
+            "charEnd": 723,
+            "id": 122,
+            "sentence": 5,
+            "text": "nach",
+            "word": 11
+        },
+        {
+            "charBegin": 724,
+            "charEnd": 736,
+            "id": 123,
+            "sentence": 5,
+            "text": "Einschätzung",
+            "word": 12
+        },
+        {
+            "charBegin": 737,
+            "charEnd": 740,
+            "id": 124,
+            "sentence": 5,
+            "text": "des",
+            "word": 13
+        },
+        {
+            "charBegin": 741,
+            "charEnd": 758,
+            "id": 125,
+            "sentence": 5,
+            "text": "Umweltbundesamtes",
+            "word": 14
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 762,
+            "id": 126,
+            "sentence": 5,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 763,
+            "charEnd": 775,
+            "id": 127,
+            "sentence": 5,
+            "text": "Luftqualität",
+            "word": 16
+        },
+        {
+            "charBegin": 776,
+            "charEnd": 786,
+            "id": 128,
+            "sentence": 5,
+            "text": "verbessern",
+            "word": 17
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 791,
+            "id": 129,
+            "sentence": 5,
+            "text": "kann",
+            "word": 18
+        },
+        {
+            "charBegin": 791,
+            "charEnd": 792,
+            "id": 130,
+            "sentence": 5,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 793,
+            "charEnd": 796,
+            "id": 131,
+            "sentence": 6,
+            "text": "Von",
+            "word": 1
+        },
+        {
+            "charBegin": 797,
+            "charEnd": 806,
+            "id": 132,
+            "sentence": 6,
+            "text": "Kritikern",
+            "word": 2
+        },
+        {
+            "charBegin": 807,
+            "charEnd": 811,
+            "id": 133,
+            "sentence": 6,
+            "text": "wird",
+            "word": 3
+        },
+        {
+            "charBegin": 812,
+            "charEnd": 815,
+            "id": 134,
+            "sentence": 6,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 816,
+            "charEnd": 827,
+            "id": 135,
+            "sentence": 6,
+            "text": "Wirksamkeit",
+            "word": 5
+        },
+        {
+            "charBegin": 828,
+            "charEnd": 834,
+            "id": 136,
+            "sentence": 6,
+            "text": "jedoch",
+            "word": 6
+        },
+        {
+            "charBegin": 835,
+            "charEnd": 842,
+            "id": 137,
+            "sentence": 6,
+            "text": "bereits",
+            "word": 7
+        },
+        {
+            "charBegin": 843,
+            "charEnd": 847,
+            "id": 138,
+            "sentence": 6,
+            "text": "seit",
+            "word": 8
+        },
+        {
+            "charBegin": 848,
+            "charEnd": 855,
+            "id": 139,
+            "sentence": 6,
+            "text": "einigen",
+            "word": 9
+        },
+        {
+            "charBegin": 856,
+            "charEnd": 862,
+            "id": 140,
+            "sentence": 6,
+            "text": "Jahren",
+            "word": 10
+        },
+        {
+            "charBegin": 863,
+            "charEnd": 875,
+            "id": 141,
+            "sentence": 6,
+            "text": "angezweifelt",
+            "word": 11
+        },
+        {
+            "charBegin": 875,
+            "charEnd": 876,
+            "id": 142,
+            "sentence": 6,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 877,
+            "charEnd": 887,
+            "id": 143,
+            "sentence": 7,
+            "text": "Einerseits",
+            "word": 1
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 892,
+            "id": 144,
+            "sentence": 7,
+            "text": "wird",
+            "word": 2
+        },
+        {
+            "charBegin": 893,
+            "charEnd": 896,
+            "id": 145,
+            "sentence": 7,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 897,
+            "charEnd": 902,
+            "id": 146,
+            "sentence": 7,
+            "text": "durch",
+            "word": 4
+        },
+        {
+            "charBegin": 903,
+            "charEnd": 906,
+            "id": 147,
+            "sentence": 7,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 907,
+            "charEnd": 920,
+            "id": 148,
+            "sentence": 7,
+            "text": "EU-Kommission",
+            "word": 6
+        },
+        {
+            "charBegin": 921,
+            "charEnd": 931,
+            "id": 149,
+            "sentence": 7,
+            "text": "ausgelöste",
+            "word": 7
+        },
+        {
+            "charBegin": 932,
+            "charEnd": 945,
+            "id": 150,
+            "sentence": 7,
+            "text": "bürokratische",
+            "word": 8
+        },
+        {
+            "charBegin": 946,
+            "charEnd": 953,
+            "id": 151,
+            "sentence": 7,
+            "text": "Aufwand",
+            "word": 9
+        },
+        {
+            "charBegin": 954,
+            "charEnd": 963,
+            "id": 152,
+            "sentence": 7,
+            "text": "bemängelt",
+            "word": 10
+        },
+        {
+            "charBegin": 963,
+            "charEnd": 964,
+            "id": 153,
+            "sentence": 7,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 965,
+            "charEnd": 977,
+            "id": 154,
+            "sentence": 7,
+            "text": "andererseits",
+            "word": 12
+        },
+        {
+            "charBegin": 978,
+            "charEnd": 982,
+            "id": 155,
+            "sentence": 7,
+            "text": "aber",
+            "word": 13
+        },
+        {
+            "charBegin": 983,
+            "charEnd": 987,
+            "id": 156,
+            "sentence": 7,
+            "text": "auch",
+            "word": 14
+        },
+        {
+            "charBegin": 988,
+            "charEnd": 991,
+            "id": 157,
+            "sentence": 7,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 992,
+            "charEnd": 1005,
+            "id": 158,
+            "sentence": 7,
+            "text": "unzureichende",
+            "word": 16
+        },
+        {
+            "charBegin": 1006,
+            "charEnd": 1015,
+            "id": 159,
+            "sentence": 7,
+            "text": "Kontrolle",
+            "word": 17
+        },
+        {
+            "charBegin": 1016,
+            "charEnd": 1018,
+            "id": 160,
+            "sentence": 7,
+            "text": "in",
+            "word": 18
+        },
+        {
+            "charBegin": 1019,
+            "charEnd": 1022,
+            "id": 161,
+            "sentence": 7,
+            "text": "den",
+            "word": 19
+        },
+        {
+            "charBegin": 1023,
+            "charEnd": 1030,
+            "id": 162,
+            "sentence": 7,
+            "text": "Städten",
+            "word": 20
+        },
+        {
+            "charBegin": 1031,
+            "charEnd": 1038,
+            "id": 163,
+            "sentence": 7,
+            "text": "beklagt",
+            "word": 21
+        },
+        {
+            "charBegin": 1039,
+            "charEnd": 1040,
+            "id": 164,
+            "sentence": 7,
+            "text": "-",
+            "word": 22
+        },
+        {
+            "charBegin": 1041,
+            "charEnd": 1043,
+            "id": 165,
+            "sentence": 7,
+            "text": "so",
+            "word": 23
+        },
+        {
+            "charBegin": 1044,
+            "charEnd": 1048,
+            "id": 166,
+            "sentence": 7,
+            "text": "etwa",
+            "word": 24
+        },
+        {
+            "charBegin": 1049,
+            "charEnd": 1052,
+            "id": 167,
+            "sentence": 7,
+            "text": "von",
+            "word": 25
+        },
+        {
+            "charBegin": 1053,
+            "charEnd": 1056,
+            "id": 168,
+            "sentence": 7,
+            "text": "der",
+            "word": 26
+        },
+        {
+            "charBegin": 1057,
+            "charEnd": 1066,
+            "id": 169,
+            "sentence": 7,
+            "text": "Deutschen",
+            "word": 27
+        },
+        {
+            "charBegin": 1067,
+            "charEnd": 1078,
+            "id": 170,
+            "sentence": 7,
+            "text": "Umwelthilfe",
+            "word": 28
+        },
+        {
+            "charBegin": 1078,
+            "charEnd": 1079,
+            "id": 171,
+            "sentence": 7,
+            "text": ".",
+            "word": 29
+        },
+        {
+            "charBegin": 1082,
+            "charEnd": 1088,
+            "id": 172,
+            "sentence": 8,
+            "text": "Allein",
+            "word": 1
+        },
+        {
+            "charBegin": 1089,
+            "charEnd": 1091,
+            "id": 173,
+            "sentence": 8,
+            "text": "in",
+            "word": 2
+        },
+        {
+            "charBegin": 1092,
+            "charEnd": 1109,
+            "id": 174,
+            "sentence": 8,
+            "text": "Baden-Württemberg",
+            "word": 3
+        },
+        {
+            "charBegin": 1110,
+            "charEnd": 1116,
+            "id": 175,
+            "sentence": 8,
+            "text": "wurden",
+            "word": 4
+        },
+        {
+            "charBegin": 1117,
+            "charEnd": 1119,
+            "id": 176,
+            "sentence": 8,
+            "text": "in",
+            "word": 5
+        },
+        {
+            "charBegin": 1120,
+            "charEnd": 1122,
+            "id": 177,
+            "sentence": 8,
+            "text": "25",
+            "word": 6
+        },
+        {
+            "charBegin": 1123,
+            "charEnd": 1132,
+            "id": 178,
+            "sentence": 8,
+            "text": "Gemeinden",
+            "word": 7
+        },
+        {
+            "charBegin": 1133,
+            "charEnd": 1136,
+            "id": 179,
+            "sentence": 8,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 1137,
+            "charEnd": 1147,
+            "id": 180,
+            "sentence": 8,
+            "text": "Grenzwerte",
+            "word": 9
+        },
+        {
+            "charBegin": 1148,
+            "charEnd": 1161,
+            "id": 181,
+            "sentence": 8,
+            "text": "überschritten",
+            "word": 10
+        },
+        {
+            "charBegin": 1161,
+            "charEnd": 1162,
+            "id": 182,
+            "sentence": 8,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 1163,
+            "charEnd": 1165,
+            "id": 183,
+            "sentence": 9,
+            "text": "26",
+            "word": 1
+        },
+        {
+            "charBegin": 1166,
+            "charEnd": 1172,
+            "id": 184,
+            "sentence": 9,
+            "text": "Städte",
+            "word": 2
+        },
+        {
+            "charBegin": 1173,
+            "charEnd": 1176,
+            "id": 185,
+            "sentence": 9,
+            "text": "und",
+            "word": 3
+        },
+        {
+            "charBegin": 1177,
+            "charEnd": 1186,
+            "id": 186,
+            "sentence": 9,
+            "text": "Gemeinden",
+            "word": 4
+        },
+        {
+            "charBegin": 1187,
+            "charEnd": 1192,
+            "id": 187,
+            "sentence": 9,
+            "text": "haben",
+            "word": 5
+        },
+        {
+            "charBegin": 1193,
+            "charEnd": 1198,
+            "id": 188,
+            "sentence": 9,
+            "text": "einen",
+            "word": 6
+        },
+        {
+            "charBegin": 1199,
+            "charEnd": 1216,
+            "id": 189,
+            "sentence": 9,
+            "text": "Luftreinhalteplan",
+            "word": 7
+        },
+        {
+            "charBegin": 1217,
+            "charEnd": 1228,
+            "id": 190,
+            "sentence": 9,
+            "text": "aufgestellt",
+            "word": 8
+        },
+        {
+            "charBegin": 1228,
+            "charEnd": 1229,
+            "id": 191,
+            "sentence": 9,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 1230,
+            "charEnd": 1232,
+            "id": 192,
+            "sentence": 9,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 1233,
+            "charEnd": 1235,
+            "id": 193,
+            "sentence": 9,
+            "text": "25",
+            "word": 11
+        },
+        {
+            "charBegin": 1236,
+            "charEnd": 1241,
+            "id": 194,
+            "sentence": 9,
+            "text": "Orten",
+            "word": 12
+        },
+        {
+            "charBegin": 1242,
+            "charEnd": 1246,
+            "id": 195,
+            "sentence": 9,
+            "text": "gibt",
+            "word": 13
+        },
+        {
+            "charBegin": 1247,
+            "charEnd": 1249,
+            "id": 196,
+            "sentence": 9,
+            "text": "es",
+            "word": 14
+        },
+        {
+            "charBegin": 1250,
+            "charEnd": 1254,
+            "id": 197,
+            "sentence": 9,
+            "text": "eine",
+            "word": 15
+        },
+        {
+            "charBegin": 1255,
+            "charEnd": 1265,
+            "id": 198,
+            "sentence": 9,
+            "text": "Umweltzone",
+            "word": 16
+        },
+        {
+            "charBegin": 1265,
+            "charEnd": 1266,
+            "id": 199,
+            "sentence": 9,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 1267,
+            "charEnd": 1272,
+            "id": 200,
+            "sentence": 10,
+            "text": "Viele",
+            "word": 1
+        },
+        {
+            "charBegin": 1273,
+            "charEnd": 1276,
+            "id": 201,
+            "sentence": 10,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 1277,
+            "charEnd": 1288,
+            "id": 202,
+            "sentence": 10,
+            "text": "betroffenen",
+            "word": 3
+        },
+        {
+            "charBegin": 1289,
+            "charEnd": 1295,
+            "id": 203,
+            "sentence": 10,
+            "text": "Städte",
+            "word": 4
+        },
+        {
+            "charBegin": 1296,
+            "charEnd": 1299,
+            "id": 204,
+            "sentence": 10,
+            "text": "und",
+            "word": 5
+        },
+        {
+            "charBegin": 1300,
+            "charEnd": 1308,
+            "id": 205,
+            "sentence": 10,
+            "text": "Kommunen",
+            "word": 6
+        },
+        {
+            "charBegin": 1309,
+            "charEnd": 1315,
+            "id": 206,
+            "sentence": 10,
+            "text": "hatten",
+            "word": 7
+        },
+        {
+            "charBegin": 1316,
+            "charEnd": 1321,
+            "id": 207,
+            "sentence": 10,
+            "text": "wegen",
+            "word": 8
+        },
+        {
+            "charBegin": 1322,
+            "charEnd": 1325,
+            "id": 208,
+            "sentence": 10,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 1326,
+            "charEnd": 1340,
+            "id": 209,
+            "sentence": 10,
+            "text": "Überschreitung",
+            "word": 10
+        },
+        {
+            "charBegin": 1341,
+            "charEnd": 1344,
+            "id": 210,
+            "sentence": 10,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 1345,
+            "charEnd": 1355,
+            "id": 211,
+            "sentence": 10,
+            "text": "Grenzwerte",
+            "word": 12
+        },
+        {
+            "charBegin": 1356,
+            "charEnd": 1359,
+            "id": 212,
+            "sentence": 10,
+            "text": "bei",
+            "word": 13
+        },
+        {
+            "charBegin": 1360,
+            "charEnd": 1363,
+            "id": 213,
+            "sentence": 10,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 1364,
+            "charEnd": 1366,
+            "id": 214,
+            "sentence": 10,
+            "text": "EU",
+            "word": 15
+        },
+        {
+            "charBegin": 1367,
+            "charEnd": 1371,
+            "id": 215,
+            "sentence": 10,
+            "text": "eine",
+            "word": 16
+        },
+        {
+            "charBegin": 1372,
+            "charEnd": 1389,
+            "id": 216,
+            "sentence": 10,
+            "text": "Fristverlängerung",
+            "word": 17
+        },
+        {
+            "charBegin": 1390,
+            "charEnd": 1399,
+            "id": 217,
+            "sentence": 10,
+            "text": "beantragt",
+            "word": 18
+        },
+        {
+            "charBegin": 1399,
+            "charEnd": 1400,
+            "id": 218,
+            "sentence": 10,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 1401,
+            "charEnd": 1410,
+            "id": 219,
+            "sentence": 10,
+            "text": "teilweise",
+            "word": 20
+        },
+        {
+            "charBegin": 1411,
+            "charEnd": 1415,
+            "id": 220,
+            "sentence": 10,
+            "text": "aber",
+            "word": 21
+        },
+        {
+            "charBegin": 1416,
+            "charEnd": 1421,
+            "id": 221,
+            "sentence": 10,
+            "text": "keine",
+            "word": 22
+        },
+        {
+            "charBegin": 1422,
+            "charEnd": 1434,
+            "id": 222,
+            "sentence": 10,
+            "text": "ausreichende",
+            "word": 23
+        },
+        {
+            "charBegin": 1435,
+            "charEnd": 1445,
+            "id": 223,
+            "sentence": 10,
+            "text": "Begründung",
+            "word": 24
+        },
+        {
+            "charBegin": 1446,
+            "charEnd": 1455,
+            "id": 224,
+            "sentence": 10,
+            "text": "geliefert",
+            "word": 25
+        },
+        {
+            "charBegin": 1456,
+            "charEnd": 1460,
+            "id": 225,
+            "sentence": 10,
+            "text": "oder",
+            "word": 26
+        },
+        {
+            "charBegin": 1461,
+            "charEnd": 1466,
+            "id": 226,
+            "sentence": 10,
+            "text": "keine",
+            "word": 27
+        },
+        {
+            "charBegin": 1467,
+            "charEnd": 1476,
+            "id": 227,
+            "sentence": 10,
+            "text": "Maßnahmen",
+            "word": 28
+        },
+        {
+            "charBegin": 1477,
+            "charEnd": 1490,
+            "id": 228,
+            "sentence": 10,
+            "text": "vorgeschlagen",
+            "word": 29
+        },
+        {
+            "charBegin": 1490,
+            "charEnd": 1491,
+            "id": 229,
+            "sentence": 10,
+            "text": ",",
+            "word": 30
+        },
+        {
+            "charBegin": 1492,
+            "charEnd": 1498,
+            "id": 230,
+            "sentence": 10,
+            "text": "sodass",
+            "word": 31
+        },
+        {
+            "charBegin": 1499,
+            "charEnd": 1502,
+            "id": 231,
+            "sentence": 10,
+            "text": "die",
+            "word": 32
+        },
+        {
+            "charBegin": 1503,
+            "charEnd": 1510,
+            "id": 232,
+            "sentence": 10,
+            "text": "Anträge",
+            "word": 33
+        },
+        {
+            "charBegin": 1511,
+            "charEnd": 1518,
+            "id": 233,
+            "sentence": 10,
+            "text": "ablehnt",
+            "word": 34
+        },
+        {
+            "charBegin": 1519,
+            "charEnd": 1525,
+            "id": 234,
+            "sentence": 10,
+            "text": "wurden",
+            "word": 35
+        },
+        {
+            "charBegin": 1525,
+            "charEnd": 1526,
+            "id": 235,
+            "sentence": 10,
+            "text": ".",
+            "word": 36
+        },
+        {
+            "charBegin": 1527,
+            "charEnd": 1530,
+            "id": 236,
+            "sentence": 11,
+            "text": "Von",
+            "word": 1
+        },
+        {
+            "charBegin": 1531,
+            "charEnd": 1534,
+            "id": 237,
+            "sentence": 11,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 1535,
+            "charEnd": 1538,
+            "id": 238,
+            "sentence": 11,
+            "text": "643",
+            "word": 3
+        },
+        {
+            "charBegin": 1539,
+            "charEnd": 1552,
+            "id": 239,
+            "sentence": 11,
+            "text": "Messstationen",
+            "word": 4
+        },
+        {
+            "charBegin": 1552,
+            "charEnd": 1553,
+            "id": 240,
+            "sentence": 11,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 1554,
+            "charEnd": 1557,
+            "id": 241,
+            "sentence": 11,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 1558,
+            "charEnd": 1560,
+            "id": 242,
+            "sentence": 11,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 1561,
+            "charEnd": 1572,
+            "id": 243,
+            "sentence": 11,
+            "text": "Deutschland",
+            "word": 8
+        },
+        {
+            "charBegin": 1573,
+            "charEnd": 1582,
+            "id": 244,
+            "sentence": 11,
+            "text": "betrieben",
+            "word": 9
+        },
+        {
+            "charBegin": 1583,
+            "charEnd": 1589,
+            "id": 245,
+            "sentence": 11,
+            "text": "werden",
+            "word": 10
+        },
+        {
+            "charBegin": 1589,
+            "charEnd": 1590,
+            "id": 246,
+            "sentence": 11,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1591,
+            "charEnd": 1598,
+            "id": 247,
+            "sentence": 11,
+            "text": "zeigten",
+            "word": 12
+        },
+        {
+            "charBegin": 1599,
+            "charEnd": 1601,
+            "id": 248,
+            "sentence": 11,
+            "text": "52",
+            "word": 13
+        },
+        {
+            "charBegin": 1602,
+            "charEnd": 1609,
+            "id": 249,
+            "sentence": 11,
+            "text": "Prozent",
+            "word": 14
+        },
+        {
+            "charBegin": 1610,
+            "charEnd": 1613,
+            "id": 250,
+            "sentence": 11,
+            "text": "bei",
+            "word": 15
+        },
+        {
+            "charBegin": 1614,
+            "charEnd": 1627,
+            "id": 251,
+            "sentence": 11,
+            "text": "verkehrsnahen",
+            "word": 16
+        },
+        {
+            "charBegin": 1628,
+            "charEnd": 1637,
+            "id": 252,
+            "sentence": 11,
+            "text": "Messungen",
+            "word": 17
+        },
+        {
+            "charBegin": 1638,
+            "charEnd": 1642,
+            "id": 253,
+            "sentence": 11,
+            "text": "eine",
+            "word": 18
+        },
+        {
+            "charBegin": 1643,
+            "charEnd": 1657,
+            "id": 254,
+            "sentence": 11,
+            "text": "Überschreitung",
+            "word": 19
+        },
+        {
+            "charBegin": 1657,
+            "charEnd": 1658,
+            "id": 255,
+            "sentence": 11,
+            "text": ".",
+            "word": 20
+        }
+    ]
+}

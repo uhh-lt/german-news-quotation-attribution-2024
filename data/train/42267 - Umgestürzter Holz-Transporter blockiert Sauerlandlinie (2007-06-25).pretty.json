@@ -1,0 +1,1340 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 18,
+                        "charBegin": 118,
+                        "charEnd": 122,
+                        "end": 19
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    18
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 18,
+                        "charBegin": 118,
+                        "charEnd": 137,
+                        "end": 20
+                    }
+                ],
+                "text": "Nach Polizeiangaben",
+                "tokenIds": [
+                    18,
+                    19
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 20,
+                        "charBegin": 138,
+                        "charEnd": 259,
+                        "end": 38
+                    }
+                ],
+                "text": "hat der 41-jährige Fahrer bei einem Überholmanöver auf der Sauerlandlinie A 45 die Kontrolle über sein  Fahrzeug verloren",
+                "tokenIds": [
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 19,
+                        "charBegin": 123,
+                        "charEnd": 137,
+                        "end": 20
+                    }
+                ],
+                "text": "Polizeiangaben",
+                "tokenIds": [
+                    19
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "42267 - Umgestürzter Holz-Transporter blockiert Sauerlandlinie (2007-06-25)",
+    "originalText": "Ein umgestürzter Holztransporter hat am Montagmorgen, dem 18. Juni, am Wetzlarer Kreuz ein Verkehrschaos verursacht.\n\nNach Polizeiangaben hat der 41-jährige Fahrer bei einem Überholmanöver auf der Sauerlandlinie A 45 die Kontrolle über sein  Fahrzeug verloren. Der LKW geriet ins Schleudern,  rammte die  Mittelleitplanke und kippte dann um. Die Holzstämme verteilten sich dabei auf den Fahr- und Gegenfahrbahnen. Der Verkehr kam zeitweise zum Erliegen.\n\nDie Autobahn war am Montag während der Bergungs- und Aufräumarbeiten bis in die frühen Nachmittagsstunden gesperrt. Der Fahrer des unfallverursachenden Fahrzeugs wurde schwer verletzt, über die Fahrzeugführer und etwaige Insassen der weiteren, bei dem Unfall beschädigten Fahrzeuge liegen keine Angaben vor.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 116,
+            "end": 18,
+            "id": 0,
+            "text": "Ein umgestürzter Holztransporter hat am Montagmorgen, dem 18. Juni, am Wetzlarer Kreuz ein Verkehrschaos verursacht.",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ],
+            "tokens": [
+                "Ein",
+                "umgestürzter",
+                "Holztransporter",
+                "hat",
+                "am",
+                "Montagmorgen",
+                ",",
+                "dem",
+                "18.",
+                "Juni",
+                ",",
+                "am",
+                "Wetzlarer",
+                "Kreuz",
+                "ein",
+                "Verkehrschaos",
+                "verursacht",
+                "."
+            ]
+        },
+        {
+            "begin": 18,
+            "charBegin": 118,
+            "charEnd": 260,
+            "end": 39,
+            "id": 1,
+            "text": "Nach Polizeiangaben hat der 41-jährige Fahrer bei einem Überholmanöver auf der Sauerlandlinie A 45 die Kontrolle über sein  Fahrzeug verloren. ",
+            "tokenIds": [
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38
+            ],
+            "tokens": [
+                "Nach",
+                "Polizeiangaben",
+                "hat",
+                "der",
+                "41-jährige",
+                "Fahrer",
+                "bei",
+                "einem",
+                "Überholmanöver",
+                "auf",
+                "der",
+                "Sauerlandlinie",
+                "A",
+                "45",
+                "die",
+                "Kontrolle",
+                "über",
+                "sein",
+                "Fahrzeug",
+                "verloren",
+                "."
+            ]
+        },
+        {
+            "begin": 39,
+            "charBegin": 261,
+            "charEnd": 341,
+            "end": 53,
+            "id": 2,
+            "text": "Der LKW geriet ins Schleudern,  rammte die  Mittelleitplanke und kippte dann um. ",
+            "tokenIds": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52
+            ],
+            "tokens": [
+                "Der",
+                "LKW",
+                "geriet",
+                "ins",
+                "Schleudern",
+                ",",
+                "rammte",
+                "die",
+                "Mittelleitplanke",
+                "und",
+                "kippte",
+                "dann",
+                "um",
+                "."
+            ]
+        },
+        {
+            "begin": 53,
+            "charBegin": 342,
+            "charEnd": 413,
+            "end": 64,
+            "id": 3,
+            "text": "Die Holzstämme verteilten sich dabei auf den Fahr- und Gegenfahrbahnen. ",
+            "tokenIds": [
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63
+            ],
+            "tokens": [
+                "Die",
+                "Holzstämme",
+                "verteilten",
+                "sich",
+                "dabei",
+                "auf",
+                "den",
+                "Fahr-",
+                "und",
+                "Gegenfahrbahnen",
+                "."
+            ]
+        },
+        {
+            "begin": 64,
+            "charBegin": 414,
+            "charEnd": 453,
+            "end": 71,
+            "id": 4,
+            "text": "Der Verkehr kam zeitweise zum Erliegen.",
+            "tokenIds": [
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70
+            ],
+            "tokens": [
+                "Der",
+                "Verkehr",
+                "kam",
+                "zeitweise",
+                "zum",
+                "Erliegen",
+                "."
+            ]
+        },
+        {
+            "begin": 71,
+            "charBegin": 455,
+            "charEnd": 570,
+            "end": 88,
+            "id": 5,
+            "text": "Die Autobahn war am Montag während der Bergungs- und Aufräumarbeiten bis in die frühen Nachmittagsstunden gesperrt. ",
+            "tokenIds": [
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "tokens": [
+                "Die",
+                "Autobahn",
+                "war",
+                "am",
+                "Montag",
+                "während",
+                "der",
+                "Bergungs-",
+                "und",
+                "Aufräumarbeiten",
+                "bis",
+                "in",
+                "die",
+                "frühen",
+                "Nachmittagsstunden",
+                "gesperrt",
+                "."
+            ]
+        },
+        {
+            "begin": 88,
+            "charBegin": 571,
+            "charEnd": 762,
+            "end": 116,
+            "id": 6,
+            "text": "Der Fahrer des unfallverursachenden Fahrzeugs wurde schwer verletzt, über die Fahrzeugführer und etwaige Insassen der weiteren, bei dem Unfall beschädigten Fahrzeuge liegen keine Angaben vor.",
+            "tokenIds": [
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115
+            ],
+            "tokens": [
+                "Der",
+                "Fahrer",
+                "des",
+                "unfallverursachenden",
+                "Fahrzeugs",
+                "wurde",
+                "schwer",
+                "verletzt",
+                ",",
+                "über",
+                "die",
+                "Fahrzeugführer",
+                "und",
+                "etwaige",
+                "Insassen",
+                "der",
+                "weiteren",
+                ",",
+                "bei",
+                "dem",
+                "Unfall",
+                "beschädigten",
+                "Fahrzeuge",
+                "liegen",
+                "keine",
+                "Angaben",
+                "vor",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 16,
+            "id": 1,
+            "sentence": 1,
+            "text": "umgestürzter",
+            "word": 2
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 32,
+            "id": 2,
+            "sentence": 1,
+            "text": "Holztransporter",
+            "word": 3
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 36,
+            "id": 3,
+            "sentence": 1,
+            "text": "hat",
+            "word": 4
+        },
+        {
+            "charBegin": 37,
+            "charEnd": 39,
+            "id": 4,
+            "sentence": 1,
+            "text": "am",
+            "word": 5
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 52,
+            "id": 5,
+            "sentence": 1,
+            "text": "Montagmorgen",
+            "word": 6
+        },
+        {
+            "charBegin": 52,
+            "charEnd": 53,
+            "id": 6,
+            "sentence": 1,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 54,
+            "charEnd": 57,
+            "id": 7,
+            "sentence": 1,
+            "text": "dem",
+            "word": 8
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 61,
+            "id": 8,
+            "sentence": 1,
+            "text": "18.",
+            "word": 9
+        },
+        {
+            "charBegin": 62,
+            "charEnd": 66,
+            "id": 9,
+            "sentence": 1,
+            "text": "Juni",
+            "word": 10
+        },
+        {
+            "charBegin": 66,
+            "charEnd": 67,
+            "id": 10,
+            "sentence": 1,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 68,
+            "charEnd": 70,
+            "id": 11,
+            "sentence": 1,
+            "text": "am",
+            "word": 12
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 80,
+            "id": 12,
+            "sentence": 1,
+            "text": "Wetzlarer",
+            "word": 13
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 86,
+            "id": 13,
+            "sentence": 1,
+            "text": "Kreuz",
+            "word": 14
+        },
+        {
+            "charBegin": 87,
+            "charEnd": 90,
+            "id": 14,
+            "sentence": 1,
+            "text": "ein",
+            "word": 15
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 104,
+            "id": 15,
+            "sentence": 1,
+            "text": "Verkehrschaos",
+            "word": 16
+        },
+        {
+            "charBegin": 105,
+            "charEnd": 115,
+            "id": 16,
+            "sentence": 1,
+            "text": "verursacht",
+            "word": 17
+        },
+        {
+            "charBegin": 115,
+            "charEnd": 116,
+            "id": 17,
+            "sentence": 1,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 118,
+            "charEnd": 122,
+            "id": 18,
+            "sentence": 2,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 137,
+            "id": 19,
+            "sentence": 2,
+            "text": "Polizeiangaben",
+            "word": 2
+        },
+        {
+            "charBegin": 138,
+            "charEnd": 141,
+            "id": 20,
+            "sentence": 2,
+            "text": "hat",
+            "word": 3
+        },
+        {
+            "charBegin": 142,
+            "charEnd": 145,
+            "id": 21,
+            "sentence": 2,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 146,
+            "charEnd": 156,
+            "id": 22,
+            "sentence": 2,
+            "text": "41-jährige",
+            "word": 5
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 163,
+            "id": 23,
+            "sentence": 2,
+            "text": "Fahrer",
+            "word": 6
+        },
+        {
+            "charBegin": 164,
+            "charEnd": 167,
+            "id": 24,
+            "sentence": 2,
+            "text": "bei",
+            "word": 7
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 173,
+            "id": 25,
+            "sentence": 2,
+            "text": "einem",
+            "word": 8
+        },
+        {
+            "charBegin": 174,
+            "charEnd": 188,
+            "id": 26,
+            "sentence": 2,
+            "text": "Überholmanöver",
+            "word": 9
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 192,
+            "id": 27,
+            "sentence": 2,
+            "text": "auf",
+            "word": 10
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 196,
+            "id": 28,
+            "sentence": 2,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 197,
+            "charEnd": 211,
+            "id": 29,
+            "sentence": 2,
+            "text": "Sauerlandlinie",
+            "word": 12
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 213,
+            "id": 30,
+            "sentence": 2,
+            "text": "A",
+            "word": 13
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 216,
+            "id": 31,
+            "sentence": 2,
+            "text": "45",
+            "word": 14
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 220,
+            "id": 32,
+            "sentence": 2,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 221,
+            "charEnd": 230,
+            "id": 33,
+            "sentence": 2,
+            "text": "Kontrolle",
+            "word": 16
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 235,
+            "id": 34,
+            "sentence": 2,
+            "text": "über",
+            "word": 17
+        },
+        {
+            "charBegin": 236,
+            "charEnd": 240,
+            "id": 35,
+            "sentence": 2,
+            "text": "sein",
+            "word": 18
+        },
+        {
+            "charBegin": 242,
+            "charEnd": 250,
+            "id": 36,
+            "sentence": 2,
+            "text": "Fahrzeug",
+            "word": 19
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 259,
+            "id": 37,
+            "sentence": 2,
+            "text": "verloren",
+            "word": 20
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 260,
+            "id": 38,
+            "sentence": 2,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 261,
+            "charEnd": 264,
+            "id": 39,
+            "sentence": 3,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 265,
+            "charEnd": 268,
+            "id": 40,
+            "sentence": 3,
+            "text": "LKW",
+            "word": 2
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 275,
+            "id": 41,
+            "sentence": 3,
+            "text": "geriet",
+            "word": 3
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 279,
+            "id": 42,
+            "sentence": 3,
+            "text": "ins",
+            "word": 4
+        },
+        {
+            "charBegin": 280,
+            "charEnd": 290,
+            "id": 43,
+            "sentence": 3,
+            "text": "Schleudern",
+            "word": 5
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 291,
+            "id": 44,
+            "sentence": 3,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 293,
+            "charEnd": 299,
+            "id": 45,
+            "sentence": 3,
+            "text": "rammte",
+            "word": 7
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 303,
+            "id": 46,
+            "sentence": 3,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 321,
+            "id": 47,
+            "sentence": 3,
+            "text": "Mittelleitplanke",
+            "word": 9
+        },
+        {
+            "charBegin": 322,
+            "charEnd": 325,
+            "id": 48,
+            "sentence": 3,
+            "text": "und",
+            "word": 10
+        },
+        {
+            "charBegin": 326,
+            "charEnd": 332,
+            "id": 49,
+            "sentence": 3,
+            "text": "kippte",
+            "word": 11
+        },
+        {
+            "charBegin": 333,
+            "charEnd": 337,
+            "id": 50,
+            "sentence": 3,
+            "text": "dann",
+            "word": 12
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 340,
+            "id": 51,
+            "sentence": 3,
+            "text": "um",
+            "word": 13
+        },
+        {
+            "charBegin": 340,
+            "charEnd": 341,
+            "id": 52,
+            "sentence": 3,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 345,
+            "id": 53,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 356,
+            "id": 54,
+            "sentence": 4,
+            "text": "Holzstämme",
+            "word": 2
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 367,
+            "id": 55,
+            "sentence": 4,
+            "text": "verteilten",
+            "word": 3
+        },
+        {
+            "charBegin": 368,
+            "charEnd": 372,
+            "id": 56,
+            "sentence": 4,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 373,
+            "charEnd": 378,
+            "id": 57,
+            "sentence": 4,
+            "text": "dabei",
+            "word": 5
+        },
+        {
+            "charBegin": 379,
+            "charEnd": 382,
+            "id": 58,
+            "sentence": 4,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 386,
+            "id": 59,
+            "sentence": 4,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 387,
+            "charEnd": 392,
+            "id": 60,
+            "sentence": 4,
+            "text": "Fahr-",
+            "word": 8
+        },
+        {
+            "charBegin": 393,
+            "charEnd": 396,
+            "id": 61,
+            "sentence": 4,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 397,
+            "charEnd": 412,
+            "id": 62,
+            "sentence": 4,
+            "text": "Gegenfahrbahnen",
+            "word": 10
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 413,
+            "id": 63,
+            "sentence": 4,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 414,
+            "charEnd": 417,
+            "id": 64,
+            "sentence": 5,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 425,
+            "id": 65,
+            "sentence": 5,
+            "text": "Verkehr",
+            "word": 2
+        },
+        {
+            "charBegin": 426,
+            "charEnd": 429,
+            "id": 66,
+            "sentence": 5,
+            "text": "kam",
+            "word": 3
+        },
+        {
+            "charBegin": 430,
+            "charEnd": 439,
+            "id": 67,
+            "sentence": 5,
+            "text": "zeitweise",
+            "word": 4
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 443,
+            "id": 68,
+            "sentence": 5,
+            "text": "zum",
+            "word": 5
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 452,
+            "id": 69,
+            "sentence": 5,
+            "text": "Erliegen",
+            "word": 6
+        },
+        {
+            "charBegin": 452,
+            "charEnd": 453,
+            "id": 70,
+            "sentence": 5,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 458,
+            "id": 71,
+            "sentence": 6,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 459,
+            "charEnd": 467,
+            "id": 72,
+            "sentence": 6,
+            "text": "Autobahn",
+            "word": 2
+        },
+        {
+            "charBegin": 468,
+            "charEnd": 471,
+            "id": 73,
+            "sentence": 6,
+            "text": "war",
+            "word": 3
+        },
+        {
+            "charBegin": 472,
+            "charEnd": 474,
+            "id": 74,
+            "sentence": 6,
+            "text": "am",
+            "word": 4
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 481,
+            "id": 75,
+            "sentence": 6,
+            "text": "Montag",
+            "word": 5
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 489,
+            "id": 76,
+            "sentence": 6,
+            "text": "während",
+            "word": 6
+        },
+        {
+            "charBegin": 490,
+            "charEnd": 493,
+            "id": 77,
+            "sentence": 6,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 494,
+            "charEnd": 503,
+            "id": 78,
+            "sentence": 6,
+            "text": "Bergungs-",
+            "word": 8
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 507,
+            "id": 79,
+            "sentence": 6,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 508,
+            "charEnd": 523,
+            "id": 80,
+            "sentence": 6,
+            "text": "Aufräumarbeiten",
+            "word": 10
+        },
+        {
+            "charBegin": 524,
+            "charEnd": 527,
+            "id": 81,
+            "sentence": 6,
+            "text": "bis",
+            "word": 11
+        },
+        {
+            "charBegin": 528,
+            "charEnd": 530,
+            "id": 82,
+            "sentence": 6,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 531,
+            "charEnd": 534,
+            "id": 83,
+            "sentence": 6,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 535,
+            "charEnd": 541,
+            "id": 84,
+            "sentence": 6,
+            "text": "frühen",
+            "word": 14
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 560,
+            "id": 85,
+            "sentence": 6,
+            "text": "Nachmittagsstunden",
+            "word": 15
+        },
+        {
+            "charBegin": 561,
+            "charEnd": 569,
+            "id": 86,
+            "sentence": 6,
+            "text": "gesperrt",
+            "word": 16
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 570,
+            "id": 87,
+            "sentence": 6,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 574,
+            "id": 88,
+            "sentence": 7,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 575,
+            "charEnd": 581,
+            "id": 89,
+            "sentence": 7,
+            "text": "Fahrer",
+            "word": 2
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 585,
+            "id": 90,
+            "sentence": 7,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 606,
+            "id": 91,
+            "sentence": 7,
+            "text": "unfallverursachenden",
+            "word": 4
+        },
+        {
+            "charBegin": 607,
+            "charEnd": 616,
+            "id": 92,
+            "sentence": 7,
+            "text": "Fahrzeugs",
+            "word": 5
+        },
+        {
+            "charBegin": 617,
+            "charEnd": 622,
+            "id": 93,
+            "sentence": 7,
+            "text": "wurde",
+            "word": 6
+        },
+        {
+            "charBegin": 623,
+            "charEnd": 629,
+            "id": 94,
+            "sentence": 7,
+            "text": "schwer",
+            "word": 7
+        },
+        {
+            "charBegin": 630,
+            "charEnd": 638,
+            "id": 95,
+            "sentence": 7,
+            "text": "verletzt",
+            "word": 8
+        },
+        {
+            "charBegin": 638,
+            "charEnd": 639,
+            "id": 96,
+            "sentence": 7,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 640,
+            "charEnd": 644,
+            "id": 97,
+            "sentence": 7,
+            "text": "über",
+            "word": 10
+        },
+        {
+            "charBegin": 645,
+            "charEnd": 648,
+            "id": 98,
+            "sentence": 7,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 649,
+            "charEnd": 663,
+            "id": 99,
+            "sentence": 7,
+            "text": "Fahrzeugführer",
+            "word": 12
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 667,
+            "id": 100,
+            "sentence": 7,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 675,
+            "id": 101,
+            "sentence": 7,
+            "text": "etwaige",
+            "word": 14
+        },
+        {
+            "charBegin": 676,
+            "charEnd": 684,
+            "id": 102,
+            "sentence": 7,
+            "text": "Insassen",
+            "word": 15
+        },
+        {
+            "charBegin": 685,
+            "charEnd": 688,
+            "id": 103,
+            "sentence": 7,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 689,
+            "charEnd": 697,
+            "id": 104,
+            "sentence": 7,
+            "text": "weiteren",
+            "word": 17
+        },
+        {
+            "charBegin": 697,
+            "charEnd": 698,
+            "id": 105,
+            "sentence": 7,
+            "text": ",",
+            "word": 18
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 702,
+            "id": 106,
+            "sentence": 7,
+            "text": "bei",
+            "word": 19
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 706,
+            "id": 107,
+            "sentence": 7,
+            "text": "dem",
+            "word": 20
+        },
+        {
+            "charBegin": 707,
+            "charEnd": 713,
+            "id": 108,
+            "sentence": 7,
+            "text": "Unfall",
+            "word": 21
+        },
+        {
+            "charBegin": 714,
+            "charEnd": 726,
+            "id": 109,
+            "sentence": 7,
+            "text": "beschädigten",
+            "word": 22
+        },
+        {
+            "charBegin": 727,
+            "charEnd": 736,
+            "id": 110,
+            "sentence": 7,
+            "text": "Fahrzeuge",
+            "word": 23
+        },
+        {
+            "charBegin": 737,
+            "charEnd": 743,
+            "id": 111,
+            "sentence": 7,
+            "text": "liegen",
+            "word": 24
+        },
+        {
+            "charBegin": 744,
+            "charEnd": 749,
+            "id": 112,
+            "sentence": 7,
+            "text": "keine",
+            "word": 25
+        },
+        {
+            "charBegin": 750,
+            "charEnd": 757,
+            "id": 113,
+            "sentence": 7,
+            "text": "Angaben",
+            "word": 26
+        },
+        {
+            "charBegin": 758,
+            "charEnd": 761,
+            "id": 114,
+            "sentence": 7,
+            "text": "vor",
+            "word": 27
+        },
+        {
+            "charBegin": 761,
+            "charEnd": 762,
+            "id": 115,
+            "sentence": 7,
+            "text": ".",
+            "word": 28
+        }
+    ]
+}

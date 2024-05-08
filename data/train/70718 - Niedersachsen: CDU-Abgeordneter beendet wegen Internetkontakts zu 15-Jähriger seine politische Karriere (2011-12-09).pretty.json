@@ -1,0 +1,2487 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 24,
+                        "charBegin": 155,
+                        "charEnd": 161,
+                        "end": 25
+                    },
+                    {
+                        "begin": 34,
+                        "charBegin": 225,
+                        "charEnd": 228,
+                        "end": 35
+                    }
+                ],
+                "text": "teilte mit",
+                "tokenIds": [
+                    24,
+                    34
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 24,
+                        "charBegin": 155,
+                        "charEnd": 228,
+                        "end": 35
+                    }
+                ],
+                "text": "teilte der parlamentarische Geschäftsführer der Fraktion, Jens Nacke, mit",
+                "tokenIds": [
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 148,
+                        "end": 22
+                    },
+                    {
+                        "begin": 23,
+                        "charBegin": 150,
+                        "charEnd": 154,
+                        "end": 24
+                    }
+                ],
+                "text": "Der Abgeordnete der CDU Frank Mindermann aus Syke im Landkreis Diepholz will bei der nächsten Wahl zum niedersächsischen Landtag nicht mehr antreten Dies",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    23
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 25,
+                        "charBegin": 162,
+                        "charEnd": 223,
+                        "end": 33
+                    }
+                ],
+                "text": "der parlamentarische Geschäftsführer der Fraktion, Jens Nacke",
+                "tokenIds": [
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 60,
+                        "charBegin": 420,
+                        "charEnd": 427,
+                        "end": 61
+                    }
+                ],
+                "text": "zufolge",
+                "tokenIds": [
+                    60
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 59,
+                        "charBegin": 414,
+                        "charEnd": 427,
+                        "end": 61
+                    }
+                ],
+                "text": "Nacke zufolge",
+                "tokenIds": [
+                    59,
+                    60
+                ]
+            },
+            "hasNested": true,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 61,
+                        "charBegin": 428,
+                        "charEnd": 583,
+                        "end": 85
+                    }
+                ],
+                "text": "soll Mindermann dabei „unangemessene Fragen“ an die Jugendliche gestellt haben, ohne dabei aber den Straftatbestand der sexuellen Nötigung erfüllt zu haben",
+                "tokenIds": [
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 59,
+                        "charBegin": 414,
+                        "charEnd": 419,
+                        "end": 60
+                    }
+                ],
+                "text": "Nacke",
+                "tokenIds": [
+                    59
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 60,
+                        "charBegin": 420,
+                        "charEnd": 427,
+                        "end": 61
+                    }
+                ],
+                "text": "zufolge",
+                "tokenIds": [
+                    60
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 59,
+                        "charBegin": 414,
+                        "charEnd": 427,
+                        "end": 61
+                    }
+                ],
+                "text": "Nacke zufolge",
+                "tokenIds": [
+                    59,
+                    60
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 64,
+                        "charBegin": 450,
+                        "charEnd": 472,
+                        "end": 68
+                    }
+                ],
+                "text": "„unangemessene Fragen“",
+                "tokenIds": [
+                    64,
+                    65,
+                    66,
+                    67
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 59,
+                        "charBegin": 414,
+                        "charEnd": 419,
+                        "end": 60
+                    }
+                ],
+                "text": "Nacke",
+                "tokenIds": [
+                    59
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 88,
+                        "charBegin": 594,
+                        "charEnd": 596,
+                        "end": 89
+                    }
+                ],
+                "text": "so",
+                "tokenIds": [
+                    88
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 87,
+                        "charBegin": 592,
+                        "charEnd": 603,
+                        "end": 91
+                    }
+                ],
+                "text": ", so Nacke,",
+                "tokenIds": [
+                    87,
+                    88,
+                    89,
+                    90
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 86,
+                        "charBegin": 585,
+                        "charEnd": 592,
+                        "end": 87
+                    },
+                    {
+                        "begin": 91,
+                        "charBegin": 604,
+                        "charEnd": 662,
+                        "end": 99
+                    }
+                ],
+                "text": "Dennoch habe Mindermann nicht seiner „Vorbildfunktion“ entsprochen",
+                "tokenIds": [
+                    86,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    98
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 89,
+                        "charBegin": 597,
+                        "charEnd": 602,
+                        "end": 90
+                    }
+                ],
+                "text": "Nacke",
+                "tokenIds": [
+                    89
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 114,
+                        "charBegin": 765,
+                        "charEnd": 769,
+                        "end": 115
+                    },
+                    {
+                        "begin": 116,
+                        "charBegin": 775,
+                        "charEnd": 781,
+                        "end": 117
+                    }
+                ],
+                "text": "will wissen",
+                "tokenIds": [
+                    114,
+                    116
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 112,
+                        "charBegin": 757,
+                        "charEnd": 782,
+                        "end": 118
+                    }
+                ],
+                "text": "Der NDR will aber wissen,",
+                "tokenIds": [
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117
+                ]
+            },
+            "hasNested": true,
+            "id": 4,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 118,
+                        "charBegin": 783,
+                        "charEnd": 899,
+                        "end": 142
+                    }
+                ],
+                "text": "dass Mindermann das Mädchen danach gefragt habe, was sie „anhabe“ und ob sie „schon einmal einen Freund gehabt“ habe",
+                "tokenIds": [
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 112,
+                        "charBegin": 757,
+                        "charEnd": 764,
+                        "end": 114
+                    }
+                ],
+                "text": "Der NDR",
+                "tokenIds": [
+                    112,
+                    113
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 120,
+                        "charBegin": 799,
+                        "charEnd": 810,
+                        "end": 122
+                    }
+                ],
+                "text": "das Mädchen",
+                "tokenIds": [
+                    120,
+                    121
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 123,
+                        "charBegin": 818,
+                        "charEnd": 830,
+                        "end": 125
+                    }
+                ],
+                "text": "gefragt habe",
+                "tokenIds": [
+                    123,
+                    124
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 119,
+                        "charBegin": 788,
+                        "charEnd": 831,
+                        "end": 126
+                    }
+                ],
+                "text": "Mindermann das Mädchen danach gefragt habe,",
+                "tokenIds": [
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125
+                ]
+            },
+            "hasNested": true,
+            "id": 5,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 126,
+                        "charBegin": 832,
+                        "charEnd": 899,
+                        "end": 142
+                    }
+                ],
+                "text": "was sie „anhabe“ und ob sie „schon einmal einen Freund gehabt“ habe",
+                "tokenIds": [
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 119,
+                        "charBegin": 788,
+                        "charEnd": 798,
+                        "end": 120
+                    }
+                ],
+                "text": "Mindermann",
+                "tokenIds": [
+                    119
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 120,
+                        "charBegin": 799,
+                        "charEnd": 810,
+                        "end": 122
+                    }
+                ],
+                "text": "das Mädchen",
+                "tokenIds": [
+                    120,
+                    121
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 123,
+                        "charBegin": 818,
+                        "charEnd": 830,
+                        "end": 125
+                    }
+                ],
+                "text": "gefragt habe",
+                "tokenIds": [
+                    123,
+                    124
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 119,
+                        "charBegin": 788,
+                        "charEnd": 831,
+                        "end": 126
+                    }
+                ],
+                "text": "Mindermann das Mädchen danach gefragt habe,",
+                "tokenIds": [
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125
+                ]
+            },
+            "hasNested": false,
+            "id": 6,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 128,
+                        "charBegin": 840,
+                        "charEnd": 848,
+                        "end": 131
+                    }
+                ],
+                "text": "„anhabe“",
+                "tokenIds": [
+                    128,
+                    129,
+                    130
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 119,
+                        "charBegin": 788,
+                        "charEnd": 798,
+                        "end": 120
+                    }
+                ],
+                "text": "Mindermann",
+                "tokenIds": [
+                    119
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 120,
+                        "charBegin": 799,
+                        "charEnd": 810,
+                        "end": 122
+                    }
+                ],
+                "text": "das Mädchen",
+                "tokenIds": [
+                    120,
+                    121
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 123,
+                        "charBegin": 818,
+                        "charEnd": 830,
+                        "end": 125
+                    }
+                ],
+                "text": "gefragt habe",
+                "tokenIds": [
+                    123,
+                    124
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 119,
+                        "charBegin": 788,
+                        "charEnd": 831,
+                        "end": 126
+                    }
+                ],
+                "text": "Mindermann das Mädchen danach gefragt habe,",
+                "tokenIds": [
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125
+                ]
+            },
+            "hasNested": false,
+            "id": 7,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 134,
+                        "charBegin": 860,
+                        "charEnd": 894,
+                        "end": 141
+                    }
+                ],
+                "text": "„schon einmal einen Freund gehabt“",
+                "tokenIds": [
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 119,
+                        "charBegin": 788,
+                        "charEnd": 798,
+                        "end": 120
+                    }
+                ],
+                "text": "Mindermann",
+                "tokenIds": [
+                    119
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "70718 - Niedersachsen: CDU-Abgeordneter beendet wegen Internetkontakts zu 15-Jähriger seine politische Karriere (2011-12-09)",
+    "originalText": "Der Abgeordnete der CDU Frank Mindermann aus Syke im Landkreis Diepholz will bei der nächsten Wahl zum niedersächsischen Landtag nicht mehr antreten. Dies teilte der parlamentarische Geschäftsführer der Fraktion, Jens Nacke, mit.\n\nDer Entscheidung vorausgegangen war die Übermittlung eines Protokolls der Internet-Kommunikation zwischen Mindermann und einem 15-jährigen Mädchen an die Fraktion durch deren Eltern. Nacke zufolge soll Mindermann dabei „unangemessene Fragen“ an die Jugendliche gestellt haben, ohne dabei aber den Straftatbestand der sexuellen Nötigung erfüllt zu haben. Dennoch, so Nacke, habe Mindermann nicht seiner „Vorbildfunktion“ entsprochen. Die Beteiligten haben Stillschweigen über den konkreten Inhalt der Kommunikation vereinbart. Der NDR will aber wissen, dass Mindermann das Mädchen danach gefragt habe, was sie „anhabe“ und ob sie „schon einmal einen Freund gehabt“ habe.\n\nVor kurzem musste bereits der schleswig-holsteinische CDU-Landeschef und Spitzenkandidat Christian von Boetticher wegen einer Beziehung zu einer 16-Jährigen zurücktreten.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 149,
+            "end": 23,
+            "id": 0,
+            "text": "Der Abgeordnete der CDU Frank Mindermann aus Syke im Landkreis Diepholz will bei der nächsten Wahl zum niedersächsischen Landtag nicht mehr antreten. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22
+            ],
+            "tokens": [
+                "Der",
+                "Abgeordnete",
+                "der",
+                "CDU",
+                "Frank",
+                "Mindermann",
+                "aus",
+                "Syke",
+                "im",
+                "Landkreis",
+                "Diepholz",
+                "will",
+                "bei",
+                "der",
+                "nächsten",
+                "Wahl",
+                "zum",
+                "niedersächsischen",
+                "Landtag",
+                "nicht",
+                "mehr",
+                "antreten",
+                "."
+            ]
+        },
+        {
+            "begin": 23,
+            "charBegin": 150,
+            "charEnd": 229,
+            "end": 36,
+            "id": 1,
+            "text": "Dies teilte der parlamentarische Geschäftsführer der Fraktion, Jens Nacke, mit.",
+            "tokenIds": [
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "tokens": [
+                "Dies",
+                "teilte",
+                "der",
+                "parlamentarische",
+                "Geschäftsführer",
+                "der",
+                "Fraktion",
+                ",",
+                "Jens",
+                "Nacke",
+                ",",
+                "mit",
+                "."
+            ]
+        },
+        {
+            "begin": 36,
+            "charBegin": 231,
+            "charEnd": 413,
+            "end": 59,
+            "id": 2,
+            "text": "Der Entscheidung vorausgegangen war die Übermittlung eines Protokolls der Internet-Kommunikation zwischen Mindermann und einem 15-jährigen Mädchen an die Fraktion durch deren Eltern. ",
+            "tokenIds": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58
+            ],
+            "tokens": [
+                "Der",
+                "Entscheidung",
+                "vorausgegangen",
+                "war",
+                "die",
+                "Übermittlung",
+                "eines",
+                "Protokolls",
+                "der",
+                "Internet-Kommunikation",
+                "zwischen",
+                "Mindermann",
+                "und",
+                "einem",
+                "15-jährigen",
+                "Mädchen",
+                "an",
+                "die",
+                "Fraktion",
+                "durch",
+                "deren",
+                "Eltern",
+                "."
+            ]
+        },
+        {
+            "begin": 59,
+            "charBegin": 414,
+            "charEnd": 584,
+            "end": 86,
+            "id": 3,
+            "text": "Nacke zufolge soll Mindermann dabei „unangemessene Fragen“ an die Jugendliche gestellt haben, ohne dabei aber den Straftatbestand der sexuellen Nötigung erfüllt zu haben. ",
+            "tokenIds": [
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85
+            ],
+            "tokens": [
+                "Nacke",
+                "zufolge",
+                "soll",
+                "Mindermann",
+                "dabei",
+                "„",
+                "unangemessene",
+                "Fragen",
+                "“",
+                "an",
+                "die",
+                "Jugendliche",
+                "gestellt",
+                "haben",
+                ",",
+                "ohne",
+                "dabei",
+                "aber",
+                "den",
+                "Straftatbestand",
+                "der",
+                "sexuellen",
+                "Nötigung",
+                "erfüllt",
+                "zu",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "begin": 86,
+            "charBegin": 585,
+            "charEnd": 663,
+            "end": 100,
+            "id": 4,
+            "text": "Dennoch, so Nacke, habe Mindermann nicht seiner „Vorbildfunktion“ entsprochen. ",
+            "tokenIds": [
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99
+            ],
+            "tokens": [
+                "Dennoch",
+                ",",
+                "so",
+                "Nacke",
+                ",",
+                "habe",
+                "Mindermann",
+                "nicht",
+                "seiner",
+                "„",
+                "Vorbildfunktion",
+                "“",
+                "entsprochen",
+                "."
+            ]
+        },
+        {
+            "begin": 100,
+            "charBegin": 664,
+            "charEnd": 756,
+            "end": 112,
+            "id": 5,
+            "text": "Die Beteiligten haben Stillschweigen über den konkreten Inhalt der Kommunikation vereinbart. ",
+            "tokenIds": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111
+            ],
+            "tokens": [
+                "Die",
+                "Beteiligten",
+                "haben",
+                "Stillschweigen",
+                "über",
+                "den",
+                "konkreten",
+                "Inhalt",
+                "der",
+                "Kommunikation",
+                "vereinbart",
+                "."
+            ]
+        },
+        {
+            "begin": 112,
+            "charBegin": 757,
+            "charEnd": 900,
+            "end": 143,
+            "id": 6,
+            "text": "Der NDR will aber wissen, dass Mindermann das Mädchen danach gefragt habe, was sie „anhabe“ und ob sie „schon einmal einen Freund gehabt“ habe.",
+            "tokenIds": [
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142
+            ],
+            "tokens": [
+                "Der",
+                "NDR",
+                "will",
+                "aber",
+                "wissen",
+                ",",
+                "dass",
+                "Mindermann",
+                "das",
+                "Mädchen",
+                "danach",
+                "gefragt",
+                "habe",
+                ",",
+                "was",
+                "sie",
+                "„",
+                "anhabe",
+                "“",
+                "und",
+                "ob",
+                "sie",
+                "„",
+                "schon",
+                "einmal",
+                "einen",
+                "Freund",
+                "gehabt",
+                "“",
+                "habe",
+                "."
+            ]
+        },
+        {
+            "begin": 143,
+            "charBegin": 902,
+            "charEnd": 1072,
+            "end": 163,
+            "id": 7,
+            "text": "Vor kurzem musste bereits der schleswig-holsteinische CDU-Landeschef und Spitzenkandidat Christian von Boetticher wegen einer Beziehung zu einer 16-Jährigen zurücktreten.",
+            "tokenIds": [
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162
+            ],
+            "tokens": [
+                "Vor",
+                "kurzem",
+                "musste",
+                "bereits",
+                "der",
+                "schleswig-holsteinische",
+                "CDU-Landeschef",
+                "und",
+                "Spitzenkandidat",
+                "Christian",
+                "von",
+                "Boetticher",
+                "wegen",
+                "einer",
+                "Beziehung",
+                "zu",
+                "einer",
+                "16-Jährigen",
+                "zurücktreten",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 15,
+            "id": 1,
+            "sentence": 1,
+            "text": "Abgeordnete",
+            "word": 2
+        },
+        {
+            "charBegin": 16,
+            "charEnd": 19,
+            "id": 2,
+            "sentence": 1,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 20,
+            "charEnd": 23,
+            "id": 3,
+            "sentence": 1,
+            "text": "CDU",
+            "word": 4
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 29,
+            "id": 4,
+            "sentence": 1,
+            "text": "Frank",
+            "word": 5
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 40,
+            "id": 5,
+            "sentence": 1,
+            "text": "Mindermann",
+            "word": 6
+        },
+        {
+            "charBegin": 41,
+            "charEnd": 44,
+            "id": 6,
+            "sentence": 1,
+            "text": "aus",
+            "word": 7
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 49,
+            "id": 7,
+            "sentence": 1,
+            "text": "Syke",
+            "word": 8
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 52,
+            "id": 8,
+            "sentence": 1,
+            "text": "im",
+            "word": 9
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 62,
+            "id": 9,
+            "sentence": 1,
+            "text": "Landkreis",
+            "word": 10
+        },
+        {
+            "charBegin": 63,
+            "charEnd": 71,
+            "id": 10,
+            "sentence": 1,
+            "text": "Diepholz",
+            "word": 11
+        },
+        {
+            "charBegin": 72,
+            "charEnd": 76,
+            "id": 11,
+            "sentence": 1,
+            "text": "will",
+            "word": 12
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 80,
+            "id": 12,
+            "sentence": 1,
+            "text": "bei",
+            "word": 13
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 84,
+            "id": 13,
+            "sentence": 1,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 93,
+            "id": 14,
+            "sentence": 1,
+            "text": "nächsten",
+            "word": 15
+        },
+        {
+            "charBegin": 94,
+            "charEnd": 98,
+            "id": 15,
+            "sentence": 1,
+            "text": "Wahl",
+            "word": 16
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 102,
+            "id": 16,
+            "sentence": 1,
+            "text": "zum",
+            "word": 17
+        },
+        {
+            "charBegin": 103,
+            "charEnd": 120,
+            "id": 17,
+            "sentence": 1,
+            "text": "niedersächsischen",
+            "word": 18
+        },
+        {
+            "charBegin": 121,
+            "charEnd": 128,
+            "id": 18,
+            "sentence": 1,
+            "text": "Landtag",
+            "word": 19
+        },
+        {
+            "charBegin": 129,
+            "charEnd": 134,
+            "id": 19,
+            "sentence": 1,
+            "text": "nicht",
+            "word": 20
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 139,
+            "id": 20,
+            "sentence": 1,
+            "text": "mehr",
+            "word": 21
+        },
+        {
+            "charBegin": 140,
+            "charEnd": 148,
+            "id": 21,
+            "sentence": 1,
+            "text": "antreten",
+            "word": 22
+        },
+        {
+            "charBegin": 148,
+            "charEnd": 149,
+            "id": 22,
+            "sentence": 1,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 150,
+            "charEnd": 154,
+            "id": 23,
+            "sentence": 2,
+            "text": "Dies",
+            "word": 1
+        },
+        {
+            "charBegin": 155,
+            "charEnd": 161,
+            "id": 24,
+            "sentence": 2,
+            "text": "teilte",
+            "word": 2
+        },
+        {
+            "charBegin": 162,
+            "charEnd": 165,
+            "id": 25,
+            "sentence": 2,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 182,
+            "id": 26,
+            "sentence": 2,
+            "text": "parlamentarische",
+            "word": 4
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 198,
+            "id": 27,
+            "sentence": 2,
+            "text": "Geschäftsführer",
+            "word": 5
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 202,
+            "id": 28,
+            "sentence": 2,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 211,
+            "id": 29,
+            "sentence": 2,
+            "text": "Fraktion",
+            "word": 7
+        },
+        {
+            "charBegin": 211,
+            "charEnd": 212,
+            "id": 30,
+            "sentence": 2,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 213,
+            "charEnd": 217,
+            "id": 31,
+            "sentence": 2,
+            "text": "Jens",
+            "word": 9
+        },
+        {
+            "charBegin": 218,
+            "charEnd": 223,
+            "id": 32,
+            "sentence": 2,
+            "text": "Nacke",
+            "word": 10
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 224,
+            "id": 33,
+            "sentence": 2,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 225,
+            "charEnd": 228,
+            "id": 34,
+            "sentence": 2,
+            "text": "mit",
+            "word": 12
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 229,
+            "id": 35,
+            "sentence": 2,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 234,
+            "id": 36,
+            "sentence": 3,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 235,
+            "charEnd": 247,
+            "id": 37,
+            "sentence": 3,
+            "text": "Entscheidung",
+            "word": 2
+        },
+        {
+            "charBegin": 248,
+            "charEnd": 262,
+            "id": 38,
+            "sentence": 3,
+            "text": "vorausgegangen",
+            "word": 3
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 266,
+            "id": 39,
+            "sentence": 3,
+            "text": "war",
+            "word": 4
+        },
+        {
+            "charBegin": 267,
+            "charEnd": 270,
+            "id": 40,
+            "sentence": 3,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 283,
+            "id": 41,
+            "sentence": 3,
+            "text": "Übermittlung",
+            "word": 6
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 289,
+            "id": 42,
+            "sentence": 3,
+            "text": "eines",
+            "word": 7
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 300,
+            "id": 43,
+            "sentence": 3,
+            "text": "Protokolls",
+            "word": 8
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 304,
+            "id": 44,
+            "sentence": 3,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 327,
+            "id": 45,
+            "sentence": 3,
+            "text": "Internet-Kommunikation",
+            "word": 10
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 336,
+            "id": 46,
+            "sentence": 3,
+            "text": "zwischen",
+            "word": 11
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 347,
+            "id": 47,
+            "sentence": 3,
+            "text": "Mindermann",
+            "word": 12
+        },
+        {
+            "charBegin": 348,
+            "charEnd": 351,
+            "id": 48,
+            "sentence": 3,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 352,
+            "charEnd": 357,
+            "id": 49,
+            "sentence": 3,
+            "text": "einem",
+            "word": 14
+        },
+        {
+            "charBegin": 358,
+            "charEnd": 369,
+            "id": 50,
+            "sentence": 3,
+            "text": "15-jährigen",
+            "word": 15
+        },
+        {
+            "charBegin": 370,
+            "charEnd": 377,
+            "id": 51,
+            "sentence": 3,
+            "text": "Mädchen",
+            "word": 16
+        },
+        {
+            "charBegin": 378,
+            "charEnd": 380,
+            "id": 52,
+            "sentence": 3,
+            "text": "an",
+            "word": 17
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 384,
+            "id": 53,
+            "sentence": 3,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 385,
+            "charEnd": 393,
+            "id": 54,
+            "sentence": 3,
+            "text": "Fraktion",
+            "word": 19
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 399,
+            "id": 55,
+            "sentence": 3,
+            "text": "durch",
+            "word": 20
+        },
+        {
+            "charBegin": 400,
+            "charEnd": 405,
+            "id": 56,
+            "sentence": 3,
+            "text": "deren",
+            "word": 21
+        },
+        {
+            "charBegin": 406,
+            "charEnd": 412,
+            "id": 57,
+            "sentence": 3,
+            "text": "Eltern",
+            "word": 22
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 413,
+            "id": 58,
+            "sentence": 3,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 414,
+            "charEnd": 419,
+            "id": 59,
+            "sentence": 4,
+            "text": "Nacke",
+            "word": 1
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 427,
+            "id": 60,
+            "sentence": 4,
+            "text": "zufolge",
+            "word": 2
+        },
+        {
+            "charBegin": 428,
+            "charEnd": 432,
+            "id": 61,
+            "sentence": 4,
+            "text": "soll",
+            "word": 3
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 443,
+            "id": 62,
+            "sentence": 4,
+            "text": "Mindermann",
+            "word": 4
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 449,
+            "id": 63,
+            "sentence": 4,
+            "text": "dabei",
+            "word": 5
+        },
+        {
+            "charBegin": 450,
+            "charEnd": 451,
+            "id": 64,
+            "sentence": 4,
+            "text": "„",
+            "word": 6
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 464,
+            "id": 65,
+            "sentence": 4,
+            "text": "unangemessene",
+            "word": 7
+        },
+        {
+            "charBegin": 465,
+            "charEnd": 471,
+            "id": 66,
+            "sentence": 4,
+            "text": "Fragen",
+            "word": 8
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 472,
+            "id": 67,
+            "sentence": 4,
+            "text": "“",
+            "word": 9
+        },
+        {
+            "charBegin": 473,
+            "charEnd": 475,
+            "id": 68,
+            "sentence": 4,
+            "text": "an",
+            "word": 10
+        },
+        {
+            "charBegin": 476,
+            "charEnd": 479,
+            "id": 69,
+            "sentence": 4,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 480,
+            "charEnd": 491,
+            "id": 70,
+            "sentence": 4,
+            "text": "Jugendliche",
+            "word": 12
+        },
+        {
+            "charBegin": 492,
+            "charEnd": 500,
+            "id": 71,
+            "sentence": 4,
+            "text": "gestellt",
+            "word": 13
+        },
+        {
+            "charBegin": 501,
+            "charEnd": 506,
+            "id": 72,
+            "sentence": 4,
+            "text": "haben",
+            "word": 14
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 507,
+            "id": 73,
+            "sentence": 4,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 508,
+            "charEnd": 512,
+            "id": 74,
+            "sentence": 4,
+            "text": "ohne",
+            "word": 16
+        },
+        {
+            "charBegin": 513,
+            "charEnd": 518,
+            "id": 75,
+            "sentence": 4,
+            "text": "dabei",
+            "word": 17
+        },
+        {
+            "charBegin": 519,
+            "charEnd": 523,
+            "id": 76,
+            "sentence": 4,
+            "text": "aber",
+            "word": 18
+        },
+        {
+            "charBegin": 524,
+            "charEnd": 527,
+            "id": 77,
+            "sentence": 4,
+            "text": "den",
+            "word": 19
+        },
+        {
+            "charBegin": 528,
+            "charEnd": 543,
+            "id": 78,
+            "sentence": 4,
+            "text": "Straftatbestand",
+            "word": 20
+        },
+        {
+            "charBegin": 544,
+            "charEnd": 547,
+            "id": 79,
+            "sentence": 4,
+            "text": "der",
+            "word": 21
+        },
+        {
+            "charBegin": 548,
+            "charEnd": 557,
+            "id": 80,
+            "sentence": 4,
+            "text": "sexuellen",
+            "word": 22
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 566,
+            "id": 81,
+            "sentence": 4,
+            "text": "Nötigung",
+            "word": 23
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 574,
+            "id": 82,
+            "sentence": 4,
+            "text": "erfüllt",
+            "word": 24
+        },
+        {
+            "charBegin": 575,
+            "charEnd": 577,
+            "id": 83,
+            "sentence": 4,
+            "text": "zu",
+            "word": 25
+        },
+        {
+            "charBegin": 578,
+            "charEnd": 583,
+            "id": 84,
+            "sentence": 4,
+            "text": "haben",
+            "word": 26
+        },
+        {
+            "charBegin": 583,
+            "charEnd": 584,
+            "id": 85,
+            "sentence": 4,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 585,
+            "charEnd": 592,
+            "id": 86,
+            "sentence": 5,
+            "text": "Dennoch",
+            "word": 1
+        },
+        {
+            "charBegin": 592,
+            "charEnd": 593,
+            "id": 87,
+            "sentence": 5,
+            "text": ",",
+            "word": 2
+        },
+        {
+            "charBegin": 594,
+            "charEnd": 596,
+            "id": 88,
+            "sentence": 5,
+            "text": "so",
+            "word": 3
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 602,
+            "id": 89,
+            "sentence": 5,
+            "text": "Nacke",
+            "word": 4
+        },
+        {
+            "charBegin": 602,
+            "charEnd": 603,
+            "id": 90,
+            "sentence": 5,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 604,
+            "charEnd": 608,
+            "id": 91,
+            "sentence": 5,
+            "text": "habe",
+            "word": 6
+        },
+        {
+            "charBegin": 609,
+            "charEnd": 619,
+            "id": 92,
+            "sentence": 5,
+            "text": "Mindermann",
+            "word": 7
+        },
+        {
+            "charBegin": 620,
+            "charEnd": 625,
+            "id": 93,
+            "sentence": 5,
+            "text": "nicht",
+            "word": 8
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 632,
+            "id": 94,
+            "sentence": 5,
+            "text": "seiner",
+            "word": 9
+        },
+        {
+            "charBegin": 633,
+            "charEnd": 634,
+            "id": 95,
+            "sentence": 5,
+            "text": "„",
+            "word": 10
+        },
+        {
+            "charBegin": 634,
+            "charEnd": 649,
+            "id": 96,
+            "sentence": 5,
+            "text": "Vorbildfunktion",
+            "word": 11
+        },
+        {
+            "charBegin": 649,
+            "charEnd": 650,
+            "id": 97,
+            "sentence": 5,
+            "text": "“",
+            "word": 12
+        },
+        {
+            "charBegin": 651,
+            "charEnd": 662,
+            "id": 98,
+            "sentence": 5,
+            "text": "entsprochen",
+            "word": 13
+        },
+        {
+            "charBegin": 662,
+            "charEnd": 663,
+            "id": 99,
+            "sentence": 5,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 667,
+            "id": 100,
+            "sentence": 6,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 679,
+            "id": 101,
+            "sentence": 6,
+            "text": "Beteiligten",
+            "word": 2
+        },
+        {
+            "charBegin": 680,
+            "charEnd": 685,
+            "id": 102,
+            "sentence": 6,
+            "text": "haben",
+            "word": 3
+        },
+        {
+            "charBegin": 686,
+            "charEnd": 700,
+            "id": 103,
+            "sentence": 6,
+            "text": "Stillschweigen",
+            "word": 4
+        },
+        {
+            "charBegin": 701,
+            "charEnd": 705,
+            "id": 104,
+            "sentence": 6,
+            "text": "über",
+            "word": 5
+        },
+        {
+            "charBegin": 706,
+            "charEnd": 709,
+            "id": 105,
+            "sentence": 6,
+            "text": "den",
+            "word": 6
+        },
+        {
+            "charBegin": 710,
+            "charEnd": 719,
+            "id": 106,
+            "sentence": 6,
+            "text": "konkreten",
+            "word": 7
+        },
+        {
+            "charBegin": 720,
+            "charEnd": 726,
+            "id": 107,
+            "sentence": 6,
+            "text": "Inhalt",
+            "word": 8
+        },
+        {
+            "charBegin": 727,
+            "charEnd": 730,
+            "id": 108,
+            "sentence": 6,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 731,
+            "charEnd": 744,
+            "id": 109,
+            "sentence": 6,
+            "text": "Kommunikation",
+            "word": 10
+        },
+        {
+            "charBegin": 745,
+            "charEnd": 755,
+            "id": 110,
+            "sentence": 6,
+            "text": "vereinbart",
+            "word": 11
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 756,
+            "id": 111,
+            "sentence": 6,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 760,
+            "id": 112,
+            "sentence": 7,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 761,
+            "charEnd": 764,
+            "id": 113,
+            "sentence": 7,
+            "text": "NDR",
+            "word": 2
+        },
+        {
+            "charBegin": 765,
+            "charEnd": 769,
+            "id": 114,
+            "sentence": 7,
+            "text": "will",
+            "word": 3
+        },
+        {
+            "charBegin": 770,
+            "charEnd": 774,
+            "id": 115,
+            "sentence": 7,
+            "text": "aber",
+            "word": 4
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 781,
+            "id": 116,
+            "sentence": 7,
+            "text": "wissen",
+            "word": 5
+        },
+        {
+            "charBegin": 781,
+            "charEnd": 782,
+            "id": 117,
+            "sentence": 7,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 783,
+            "charEnd": 787,
+            "id": 118,
+            "sentence": 7,
+            "text": "dass",
+            "word": 7
+        },
+        {
+            "charBegin": 788,
+            "charEnd": 798,
+            "id": 119,
+            "sentence": 7,
+            "text": "Mindermann",
+            "word": 8
+        },
+        {
+            "charBegin": 799,
+            "charEnd": 802,
+            "id": 120,
+            "sentence": 7,
+            "text": "das",
+            "word": 9
+        },
+        {
+            "charBegin": 803,
+            "charEnd": 810,
+            "id": 121,
+            "sentence": 7,
+            "text": "Mädchen",
+            "word": 10
+        },
+        {
+            "charBegin": 811,
+            "charEnd": 817,
+            "id": 122,
+            "sentence": 7,
+            "text": "danach",
+            "word": 11
+        },
+        {
+            "charBegin": 818,
+            "charEnd": 825,
+            "id": 123,
+            "sentence": 7,
+            "text": "gefragt",
+            "word": 12
+        },
+        {
+            "charBegin": 826,
+            "charEnd": 830,
+            "id": 124,
+            "sentence": 7,
+            "text": "habe",
+            "word": 13
+        },
+        {
+            "charBegin": 830,
+            "charEnd": 831,
+            "id": 125,
+            "sentence": 7,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 835,
+            "id": 126,
+            "sentence": 7,
+            "text": "was",
+            "word": 15
+        },
+        {
+            "charBegin": 836,
+            "charEnd": 839,
+            "id": 127,
+            "sentence": 7,
+            "text": "sie",
+            "word": 16
+        },
+        {
+            "charBegin": 840,
+            "charEnd": 841,
+            "id": 128,
+            "sentence": 7,
+            "text": "„",
+            "word": 17
+        },
+        {
+            "charBegin": 841,
+            "charEnd": 847,
+            "id": 129,
+            "sentence": 7,
+            "text": "anhabe",
+            "word": 18
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 848,
+            "id": 130,
+            "sentence": 7,
+            "text": "“",
+            "word": 19
+        },
+        {
+            "charBegin": 849,
+            "charEnd": 852,
+            "id": 131,
+            "sentence": 7,
+            "text": "und",
+            "word": 20
+        },
+        {
+            "charBegin": 853,
+            "charEnd": 855,
+            "id": 132,
+            "sentence": 7,
+            "text": "ob",
+            "word": 21
+        },
+        {
+            "charBegin": 856,
+            "charEnd": 859,
+            "id": 133,
+            "sentence": 7,
+            "text": "sie",
+            "word": 22
+        },
+        {
+            "charBegin": 860,
+            "charEnd": 861,
+            "id": 134,
+            "sentence": 7,
+            "text": "„",
+            "word": 23
+        },
+        {
+            "charBegin": 861,
+            "charEnd": 866,
+            "id": 135,
+            "sentence": 7,
+            "text": "schon",
+            "word": 24
+        },
+        {
+            "charBegin": 867,
+            "charEnd": 873,
+            "id": 136,
+            "sentence": 7,
+            "text": "einmal",
+            "word": 25
+        },
+        {
+            "charBegin": 874,
+            "charEnd": 879,
+            "id": 137,
+            "sentence": 7,
+            "text": "einen",
+            "word": 26
+        },
+        {
+            "charBegin": 880,
+            "charEnd": 886,
+            "id": 138,
+            "sentence": 7,
+            "text": "Freund",
+            "word": 27
+        },
+        {
+            "charBegin": 887,
+            "charEnd": 893,
+            "id": 139,
+            "sentence": 7,
+            "text": "gehabt",
+            "word": 28
+        },
+        {
+            "charBegin": 893,
+            "charEnd": 894,
+            "id": 140,
+            "sentence": 7,
+            "text": "“",
+            "word": 29
+        },
+        {
+            "charBegin": 895,
+            "charEnd": 899,
+            "id": 141,
+            "sentence": 7,
+            "text": "habe",
+            "word": 30
+        },
+        {
+            "charBegin": 899,
+            "charEnd": 900,
+            "id": 142,
+            "sentence": 7,
+            "text": ".",
+            "word": 31
+        },
+        {
+            "charBegin": 902,
+            "charEnd": 905,
+            "id": 143,
+            "sentence": 8,
+            "text": "Vor",
+            "word": 1
+        },
+        {
+            "charBegin": 906,
+            "charEnd": 912,
+            "id": 144,
+            "sentence": 8,
+            "text": "kurzem",
+            "word": 2
+        },
+        {
+            "charBegin": 913,
+            "charEnd": 919,
+            "id": 145,
+            "sentence": 8,
+            "text": "musste",
+            "word": 3
+        },
+        {
+            "charBegin": 920,
+            "charEnd": 927,
+            "id": 146,
+            "sentence": 8,
+            "text": "bereits",
+            "word": 4
+        },
+        {
+            "charBegin": 928,
+            "charEnd": 931,
+            "id": 147,
+            "sentence": 8,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 932,
+            "charEnd": 955,
+            "id": 148,
+            "sentence": 8,
+            "text": "schleswig-holsteinische",
+            "word": 6
+        },
+        {
+            "charBegin": 956,
+            "charEnd": 970,
+            "id": 149,
+            "sentence": 8,
+            "text": "CDU-Landeschef",
+            "word": 7
+        },
+        {
+            "charBegin": 971,
+            "charEnd": 974,
+            "id": 150,
+            "sentence": 8,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 975,
+            "charEnd": 990,
+            "id": 151,
+            "sentence": 8,
+            "text": "Spitzenkandidat",
+            "word": 9
+        },
+        {
+            "charBegin": 991,
+            "charEnd": 1000,
+            "id": 152,
+            "sentence": 8,
+            "text": "Christian",
+            "word": 10
+        },
+        {
+            "charBegin": 1001,
+            "charEnd": 1004,
+            "id": 153,
+            "sentence": 8,
+            "text": "von",
+            "word": 11
+        },
+        {
+            "charBegin": 1005,
+            "charEnd": 1015,
+            "id": 154,
+            "sentence": 8,
+            "text": "Boetticher",
+            "word": 12
+        },
+        {
+            "charBegin": 1016,
+            "charEnd": 1021,
+            "id": 155,
+            "sentence": 8,
+            "text": "wegen",
+            "word": 13
+        },
+        {
+            "charBegin": 1022,
+            "charEnd": 1027,
+            "id": 156,
+            "sentence": 8,
+            "text": "einer",
+            "word": 14
+        },
+        {
+            "charBegin": 1028,
+            "charEnd": 1037,
+            "id": 157,
+            "sentence": 8,
+            "text": "Beziehung",
+            "word": 15
+        },
+        {
+            "charBegin": 1038,
+            "charEnd": 1040,
+            "id": 158,
+            "sentence": 8,
+            "text": "zu",
+            "word": 16
+        },
+        {
+            "charBegin": 1041,
+            "charEnd": 1046,
+            "id": 159,
+            "sentence": 8,
+            "text": "einer",
+            "word": 17
+        },
+        {
+            "charBegin": 1047,
+            "charEnd": 1058,
+            "id": 160,
+            "sentence": 8,
+            "text": "16-Jährigen",
+            "word": 18
+        },
+        {
+            "charBegin": 1059,
+            "charEnd": 1071,
+            "id": 161,
+            "sentence": 8,
+            "text": "zurücktreten",
+            "word": 19
+        },
+        {
+            "charBegin": 1071,
+            "charEnd": 1072,
+            "id": 162,
+            "sentence": 8,
+            "text": ".",
+            "word": 20
+        }
+    ]
+}

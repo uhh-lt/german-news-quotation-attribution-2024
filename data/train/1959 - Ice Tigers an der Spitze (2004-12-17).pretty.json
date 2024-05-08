@@ -1,0 +1,1900 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 56,
+                        "charBegin": 333,
+                        "charEnd": 348,
+                        "end": 58
+                    }
+                ],
+                "text": "der Ankündigung",
+                "tokenIds": [
+                    56,
+                    57
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 55,
+                        "charBegin": 327,
+                        "charEnd": 375,
+                        "end": 64
+                    },
+                    {
+                        "begin": 87,
+                        "charBegin": 536,
+                        "charEnd": 579,
+                        "end": 94
+                    }
+                ],
+                "text": "Trotz der Ankündigung ihres Trainers, Greg Poss, , kann seine Mannschaft unverändert siegen.",
+                "tokenIds": [
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 64,
+                        "charBegin": 376,
+                        "charEnd": 536,
+                        "end": 87
+                    }
+                ],
+                "text": "die Zusammenarbeit mit Nürnberg nach der laufenden Saison zu beenden und sich ganz auf die Aufgabe als Trainer der deutschen Nationalmannschaft zu konzentrieren",
+                "tokenIds": [
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84,
+                    85,
+                    86
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 58,
+                        "charBegin": 349,
+                        "charEnd": 374,
+                        "end": 63
+                    }
+                ],
+                "text": "ihres Trainers, Greg Poss",
+                "tokenIds": [
+                    58,
+                    59,
+                    60,
+                    61,
+                    62
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "1959 - Ice Tigers an der Spitze (2004-12-17)",
+    "originalText": "Beim Spitzenspiel am vergangenen Dienstag in der Deutschen Eishockey-Liga (DEL) hat der bisherige Tabellenführer aus Nürnberg, die „Nürnberg Ice Tigers“, seinen Platz verteidigt und den Abstand zu den nachfolgenden Mannschaften noch erweitert. Nürnberg führt die Tabelle mit 59 Punkten vor den Kölner Haien mit 52 Punkten an.\n\nTrotz der Ankündigung ihres Trainers, Greg Poss, die Zusammenarbeit mit Nürnberg nach der laufenden Saison zu beenden und sich ganz auf die Aufgabe als Trainer der deutschen Nationalmannschaft zu konzentrieren, kann seine Mannschaft unverändert siegen. Gegen die Kölner Haie gewann Nürnberg nach einem hektischen Spiel und trotz vieler Strafzeiten in der Verlängerung mit 3:2 (2:1, 0:1, 0:0). Und wieder war es Greg Leeb, der im Penaltyschießen das entscheidende Tor für die Franken einlochte. Die Ice Tigers sind nunmehr seit sieben Spielen ungeschlagen.\n\nDas nächste Spiel der Ice Tigers findet am Freitag, 17. Dezember 2004 um 19:30 Uhr in Ingolstadt statt.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 243,
+            "end": 39,
+            "id": 0,
+            "text": "Beim Spitzenspiel am vergangenen Dienstag in der Deutschen Eishockey-Liga (DEL) hat der bisherige Tabellenführer aus Nürnberg, die „Nürnberg Ice Tigers“, seinen Platz verteidigt und den Abstand zu den nachfolgenden Mannschaften noch erweitert. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38
+            ],
+            "tokens": [
+                "Beim",
+                "Spitzenspiel",
+                "am",
+                "vergangenen",
+                "Dienstag",
+                "in",
+                "der",
+                "Deutschen",
+                "Eishockey-Liga",
+                "(",
+                "DEL",
+                ")",
+                "hat",
+                "der",
+                "bisherige",
+                "Tabellenführer",
+                "aus",
+                "Nürnberg",
+                ",",
+                "die",
+                "„",
+                "Nürnberg",
+                "Ice",
+                "Tigers",
+                "“",
+                ",",
+                "seinen",
+                "Platz",
+                "verteidigt",
+                "und",
+                "den",
+                "Abstand",
+                "zu",
+                "den",
+                "nachfolgenden",
+                "Mannschaften",
+                "noch",
+                "erweitert",
+                "."
+            ]
+        },
+        {
+            "begin": 39,
+            "charBegin": 244,
+            "charEnd": 325,
+            "end": 55,
+            "id": 1,
+            "text": "Nürnberg führt die Tabelle mit 59 Punkten vor den Kölner Haien mit 52 Punkten an.",
+            "tokenIds": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "tokens": [
+                "Nürnberg",
+                "führt",
+                "die",
+                "Tabelle",
+                "mit",
+                "59",
+                "Punkten",
+                "vor",
+                "den",
+                "Kölner",
+                "Haien",
+                "mit",
+                "52",
+                "Punkten",
+                "an",
+                "."
+            ]
+        },
+        {
+            "begin": 55,
+            "charBegin": 327,
+            "charEnd": 579,
+            "end": 94,
+            "id": 2,
+            "text": "Trotz der Ankündigung ihres Trainers, Greg Poss, die Zusammenarbeit mit Nürnberg nach der laufenden Saison zu beenden und sich ganz auf die Aufgabe als Trainer der deutschen Nationalmannschaft zu konzentrieren, kann seine Mannschaft unverändert siegen. ",
+            "tokenIds": [
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93
+            ],
+            "tokens": [
+                "Trotz",
+                "der",
+                "Ankündigung",
+                "ihres",
+                "Trainers",
+                ",",
+                "Greg",
+                "Poss",
+                ",",
+                "die",
+                "Zusammenarbeit",
+                "mit",
+                "Nürnberg",
+                "nach",
+                "der",
+                "laufenden",
+                "Saison",
+                "zu",
+                "beenden",
+                "und",
+                "sich",
+                "ganz",
+                "auf",
+                "die",
+                "Aufgabe",
+                "als",
+                "Trainer",
+                "der",
+                "deutschen",
+                "Nationalmannschaft",
+                "zu",
+                "konzentrieren",
+                ",",
+                "kann",
+                "seine",
+                "Mannschaft",
+                "unverändert",
+                "siegen",
+                "."
+            ]
+        },
+        {
+            "begin": 94,
+            "charBegin": 580,
+            "charEnd": 719,
+            "end": 121,
+            "id": 3,
+            "text": "Gegen die Kölner Haie gewann Nürnberg nach einem hektischen Spiel und trotz vieler Strafzeiten in der Verlängerung mit 3:2 (2:1, 0:1, 0:0). ",
+            "tokenIds": [
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ],
+            "tokens": [
+                "Gegen",
+                "die",
+                "Kölner",
+                "Haie",
+                "gewann",
+                "Nürnberg",
+                "nach",
+                "einem",
+                "hektischen",
+                "Spiel",
+                "und",
+                "trotz",
+                "vieler",
+                "Strafzeiten",
+                "in",
+                "der",
+                "Verlängerung",
+                "mit",
+                "3:2",
+                "(",
+                "2:1",
+                ",",
+                "0:1",
+                ",",
+                "0:0",
+                ")",
+                "."
+            ]
+        },
+        {
+            "begin": 121,
+            "charBegin": 720,
+            "charEnd": 820,
+            "end": 139,
+            "id": 4,
+            "text": "Und wieder war es Greg Leeb, der im Penaltyschießen das entscheidende Tor für die Franken einlochte. ",
+            "tokenIds": [
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138
+            ],
+            "tokens": [
+                "Und",
+                "wieder",
+                "war",
+                "es",
+                "Greg",
+                "Leeb",
+                ",",
+                "der",
+                "im",
+                "Penaltyschießen",
+                "das",
+                "entscheidende",
+                "Tor",
+                "für",
+                "die",
+                "Franken",
+                "einlochte",
+                "."
+            ]
+        },
+        {
+            "begin": 139,
+            "charBegin": 821,
+            "charEnd": 882,
+            "end": 149,
+            "id": 5,
+            "text": "Die Ice Tigers sind nunmehr seit sieben Spielen ungeschlagen.",
+            "tokenIds": [
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148
+            ],
+            "tokens": [
+                "Die",
+                "Ice",
+                "Tigers",
+                "sind",
+                "nunmehr",
+                "seit",
+                "sieben",
+                "Spielen",
+                "ungeschlagen",
+                "."
+            ]
+        },
+        {
+            "begin": 149,
+            "charBegin": 884,
+            "charEnd": 987,
+            "end": 169,
+            "id": 6,
+            "text": "Das nächste Spiel der Ice Tigers findet am Freitag, 17. Dezember 2004 um 19:30 Uhr in Ingolstadt statt.",
+            "tokenIds": [
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168
+            ],
+            "tokens": [
+                "Das",
+                "nächste",
+                "Spiel",
+                "der",
+                "Ice",
+                "Tigers",
+                "findet",
+                "am",
+                "Freitag",
+                ",",
+                "17.",
+                "Dezember",
+                "2004",
+                "um",
+                "19:30",
+                "Uhr",
+                "in",
+                "Ingolstadt",
+                "statt",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 4,
+            "id": 0,
+            "sentence": 1,
+            "text": "Beim",
+            "word": 1
+        },
+        {
+            "charBegin": 5,
+            "charEnd": 17,
+            "id": 1,
+            "sentence": 1,
+            "text": "Spitzenspiel",
+            "word": 2
+        },
+        {
+            "charBegin": 18,
+            "charEnd": 20,
+            "id": 2,
+            "sentence": 1,
+            "text": "am",
+            "word": 3
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 32,
+            "id": 3,
+            "sentence": 1,
+            "text": "vergangenen",
+            "word": 4
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 41,
+            "id": 4,
+            "sentence": 1,
+            "text": "Dienstag",
+            "word": 5
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 44,
+            "id": 5,
+            "sentence": 1,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 48,
+            "id": 6,
+            "sentence": 1,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 58,
+            "id": 7,
+            "sentence": 1,
+            "text": "Deutschen",
+            "word": 8
+        },
+        {
+            "charBegin": 59,
+            "charEnd": 73,
+            "id": 8,
+            "sentence": 1,
+            "text": "Eishockey-Liga",
+            "word": 9
+        },
+        {
+            "charBegin": 74,
+            "charEnd": 75,
+            "id": 9,
+            "sentence": 1,
+            "text": "(",
+            "word": 10
+        },
+        {
+            "charBegin": 75,
+            "charEnd": 78,
+            "id": 10,
+            "sentence": 1,
+            "text": "DEL",
+            "word": 11
+        },
+        {
+            "charBegin": 78,
+            "charEnd": 79,
+            "id": 11,
+            "sentence": 1,
+            "text": ")",
+            "word": 12
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 83,
+            "id": 12,
+            "sentence": 1,
+            "text": "hat",
+            "word": 13
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 87,
+            "id": 13,
+            "sentence": 1,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 88,
+            "charEnd": 97,
+            "id": 14,
+            "sentence": 1,
+            "text": "bisherige",
+            "word": 15
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 112,
+            "id": 15,
+            "sentence": 1,
+            "text": "Tabellenführer",
+            "word": 16
+        },
+        {
+            "charBegin": 113,
+            "charEnd": 116,
+            "id": 16,
+            "sentence": 1,
+            "text": "aus",
+            "word": 17
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 125,
+            "id": 17,
+            "sentence": 1,
+            "text": "Nürnberg",
+            "word": 18
+        },
+        {
+            "charBegin": 125,
+            "charEnd": 126,
+            "id": 18,
+            "sentence": 1,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 130,
+            "id": 19,
+            "sentence": 1,
+            "text": "die",
+            "word": 20
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 132,
+            "id": 20,
+            "sentence": 1,
+            "text": "„",
+            "word": 21
+        },
+        {
+            "charBegin": 132,
+            "charEnd": 140,
+            "id": 21,
+            "sentence": 1,
+            "text": "Nürnberg",
+            "word": 22
+        },
+        {
+            "charBegin": 141,
+            "charEnd": 144,
+            "id": 22,
+            "sentence": 1,
+            "text": "Ice",
+            "word": 23
+        },
+        {
+            "charBegin": 145,
+            "charEnd": 151,
+            "id": 23,
+            "sentence": 1,
+            "text": "Tigers",
+            "word": 24
+        },
+        {
+            "charBegin": 151,
+            "charEnd": 152,
+            "id": 24,
+            "sentence": 1,
+            "text": "“",
+            "word": 25
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 153,
+            "id": 25,
+            "sentence": 1,
+            "text": ",",
+            "word": 26
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 160,
+            "id": 26,
+            "sentence": 1,
+            "text": "seinen",
+            "word": 27
+        },
+        {
+            "charBegin": 161,
+            "charEnd": 166,
+            "id": 27,
+            "sentence": 1,
+            "text": "Platz",
+            "word": 28
+        },
+        {
+            "charBegin": 167,
+            "charEnd": 177,
+            "id": 28,
+            "sentence": 1,
+            "text": "verteidigt",
+            "word": 29
+        },
+        {
+            "charBegin": 178,
+            "charEnd": 181,
+            "id": 29,
+            "sentence": 1,
+            "text": "und",
+            "word": 30
+        },
+        {
+            "charBegin": 182,
+            "charEnd": 185,
+            "id": 30,
+            "sentence": 1,
+            "text": "den",
+            "word": 31
+        },
+        {
+            "charBegin": 186,
+            "charEnd": 193,
+            "id": 31,
+            "sentence": 1,
+            "text": "Abstand",
+            "word": 32
+        },
+        {
+            "charBegin": 194,
+            "charEnd": 196,
+            "id": 32,
+            "sentence": 1,
+            "text": "zu",
+            "word": 33
+        },
+        {
+            "charBegin": 197,
+            "charEnd": 200,
+            "id": 33,
+            "sentence": 1,
+            "text": "den",
+            "word": 34
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 214,
+            "id": 34,
+            "sentence": 1,
+            "text": "nachfolgenden",
+            "word": 35
+        },
+        {
+            "charBegin": 215,
+            "charEnd": 227,
+            "id": 35,
+            "sentence": 1,
+            "text": "Mannschaften",
+            "word": 36
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 232,
+            "id": 36,
+            "sentence": 1,
+            "text": "noch",
+            "word": 37
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 242,
+            "id": 37,
+            "sentence": 1,
+            "text": "erweitert",
+            "word": 38
+        },
+        {
+            "charBegin": 242,
+            "charEnd": 243,
+            "id": 38,
+            "sentence": 1,
+            "text": ".",
+            "word": 39
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 252,
+            "id": 39,
+            "sentence": 2,
+            "text": "Nürnberg",
+            "word": 1
+        },
+        {
+            "charBegin": 253,
+            "charEnd": 258,
+            "id": 40,
+            "sentence": 2,
+            "text": "führt",
+            "word": 2
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 262,
+            "id": 41,
+            "sentence": 2,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 270,
+            "id": 42,
+            "sentence": 2,
+            "text": "Tabelle",
+            "word": 4
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 274,
+            "id": 43,
+            "sentence": 2,
+            "text": "mit",
+            "word": 5
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 277,
+            "id": 44,
+            "sentence": 2,
+            "text": "59",
+            "word": 6
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 285,
+            "id": 45,
+            "sentence": 2,
+            "text": "Punkten",
+            "word": 7
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 289,
+            "id": 46,
+            "sentence": 2,
+            "text": "vor",
+            "word": 8
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 293,
+            "id": 47,
+            "sentence": 2,
+            "text": "den",
+            "word": 9
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 300,
+            "id": 48,
+            "sentence": 2,
+            "text": "Kölner",
+            "word": 10
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 306,
+            "id": 49,
+            "sentence": 2,
+            "text": "Haien",
+            "word": 11
+        },
+        {
+            "charBegin": 307,
+            "charEnd": 310,
+            "id": 50,
+            "sentence": 2,
+            "text": "mit",
+            "word": 12
+        },
+        {
+            "charBegin": 311,
+            "charEnd": 313,
+            "id": 51,
+            "sentence": 2,
+            "text": "52",
+            "word": 13
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 321,
+            "id": 52,
+            "sentence": 2,
+            "text": "Punkten",
+            "word": 14
+        },
+        {
+            "charBegin": 322,
+            "charEnd": 324,
+            "id": 53,
+            "sentence": 2,
+            "text": "an",
+            "word": 15
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 325,
+            "id": 54,
+            "sentence": 2,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 327,
+            "charEnd": 332,
+            "id": 55,
+            "sentence": 3,
+            "text": "Trotz",
+            "word": 1
+        },
+        {
+            "charBegin": 333,
+            "charEnd": 336,
+            "id": 56,
+            "sentence": 3,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 348,
+            "id": 57,
+            "sentence": 3,
+            "text": "Ankündigung",
+            "word": 3
+        },
+        {
+            "charBegin": 349,
+            "charEnd": 354,
+            "id": 58,
+            "sentence": 3,
+            "text": "ihres",
+            "word": 4
+        },
+        {
+            "charBegin": 355,
+            "charEnd": 363,
+            "id": 59,
+            "sentence": 3,
+            "text": "Trainers",
+            "word": 5
+        },
+        {
+            "charBegin": 363,
+            "charEnd": 364,
+            "id": 60,
+            "sentence": 3,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 369,
+            "id": 61,
+            "sentence": 3,
+            "text": "Greg",
+            "word": 7
+        },
+        {
+            "charBegin": 370,
+            "charEnd": 374,
+            "id": 62,
+            "sentence": 3,
+            "text": "Poss",
+            "word": 8
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 375,
+            "id": 63,
+            "sentence": 3,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 379,
+            "id": 64,
+            "sentence": 3,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 380,
+            "charEnd": 394,
+            "id": 65,
+            "sentence": 3,
+            "text": "Zusammenarbeit",
+            "word": 11
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 398,
+            "id": 66,
+            "sentence": 3,
+            "text": "mit",
+            "word": 12
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 407,
+            "id": 67,
+            "sentence": 3,
+            "text": "Nürnberg",
+            "word": 13
+        },
+        {
+            "charBegin": 408,
+            "charEnd": 412,
+            "id": 68,
+            "sentence": 3,
+            "text": "nach",
+            "word": 14
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 416,
+            "id": 69,
+            "sentence": 3,
+            "text": "der",
+            "word": 15
+        },
+        {
+            "charBegin": 417,
+            "charEnd": 426,
+            "id": 70,
+            "sentence": 3,
+            "text": "laufenden",
+            "word": 16
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 433,
+            "id": 71,
+            "sentence": 3,
+            "text": "Saison",
+            "word": 17
+        },
+        {
+            "charBegin": 434,
+            "charEnd": 436,
+            "id": 72,
+            "sentence": 3,
+            "text": "zu",
+            "word": 18
+        },
+        {
+            "charBegin": 437,
+            "charEnd": 444,
+            "id": 73,
+            "sentence": 3,
+            "text": "beenden",
+            "word": 19
+        },
+        {
+            "charBegin": 445,
+            "charEnd": 448,
+            "id": 74,
+            "sentence": 3,
+            "text": "und",
+            "word": 20
+        },
+        {
+            "charBegin": 449,
+            "charEnd": 453,
+            "id": 75,
+            "sentence": 3,
+            "text": "sich",
+            "word": 21
+        },
+        {
+            "charBegin": 454,
+            "charEnd": 458,
+            "id": 76,
+            "sentence": 3,
+            "text": "ganz",
+            "word": 22
+        },
+        {
+            "charBegin": 459,
+            "charEnd": 462,
+            "id": 77,
+            "sentence": 3,
+            "text": "auf",
+            "word": 23
+        },
+        {
+            "charBegin": 463,
+            "charEnd": 466,
+            "id": 78,
+            "sentence": 3,
+            "text": "die",
+            "word": 24
+        },
+        {
+            "charBegin": 467,
+            "charEnd": 474,
+            "id": 79,
+            "sentence": 3,
+            "text": "Aufgabe",
+            "word": 25
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 478,
+            "id": 80,
+            "sentence": 3,
+            "text": "als",
+            "word": 26
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 486,
+            "id": 81,
+            "sentence": 3,
+            "text": "Trainer",
+            "word": 27
+        },
+        {
+            "charBegin": 487,
+            "charEnd": 490,
+            "id": 82,
+            "sentence": 3,
+            "text": "der",
+            "word": 28
+        },
+        {
+            "charBegin": 491,
+            "charEnd": 500,
+            "id": 83,
+            "sentence": 3,
+            "text": "deutschen",
+            "word": 29
+        },
+        {
+            "charBegin": 501,
+            "charEnd": 519,
+            "id": 84,
+            "sentence": 3,
+            "text": "Nationalmannschaft",
+            "word": 30
+        },
+        {
+            "charBegin": 520,
+            "charEnd": 522,
+            "id": 85,
+            "sentence": 3,
+            "text": "zu",
+            "word": 31
+        },
+        {
+            "charBegin": 523,
+            "charEnd": 536,
+            "id": 86,
+            "sentence": 3,
+            "text": "konzentrieren",
+            "word": 32
+        },
+        {
+            "charBegin": 536,
+            "charEnd": 537,
+            "id": 87,
+            "sentence": 3,
+            "text": ",",
+            "word": 33
+        },
+        {
+            "charBegin": 538,
+            "charEnd": 542,
+            "id": 88,
+            "sentence": 3,
+            "text": "kann",
+            "word": 34
+        },
+        {
+            "charBegin": 543,
+            "charEnd": 548,
+            "id": 89,
+            "sentence": 3,
+            "text": "seine",
+            "word": 35
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 559,
+            "id": 90,
+            "sentence": 3,
+            "text": "Mannschaft",
+            "word": 36
+        },
+        {
+            "charBegin": 560,
+            "charEnd": 571,
+            "id": 91,
+            "sentence": 3,
+            "text": "unverändert",
+            "word": 37
+        },
+        {
+            "charBegin": 572,
+            "charEnd": 578,
+            "id": 92,
+            "sentence": 3,
+            "text": "siegen",
+            "word": 38
+        },
+        {
+            "charBegin": 578,
+            "charEnd": 579,
+            "id": 93,
+            "sentence": 3,
+            "text": ".",
+            "word": 39
+        },
+        {
+            "charBegin": 580,
+            "charEnd": 585,
+            "id": 94,
+            "sentence": 4,
+            "text": "Gegen",
+            "word": 1
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 589,
+            "id": 95,
+            "sentence": 4,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 590,
+            "charEnd": 596,
+            "id": 96,
+            "sentence": 4,
+            "text": "Kölner",
+            "word": 3
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 601,
+            "id": 97,
+            "sentence": 4,
+            "text": "Haie",
+            "word": 4
+        },
+        {
+            "charBegin": 602,
+            "charEnd": 608,
+            "id": 98,
+            "sentence": 4,
+            "text": "gewann",
+            "word": 5
+        },
+        {
+            "charBegin": 609,
+            "charEnd": 617,
+            "id": 99,
+            "sentence": 4,
+            "text": "Nürnberg",
+            "word": 6
+        },
+        {
+            "charBegin": 618,
+            "charEnd": 622,
+            "id": 100,
+            "sentence": 4,
+            "text": "nach",
+            "word": 7
+        },
+        {
+            "charBegin": 623,
+            "charEnd": 628,
+            "id": 101,
+            "sentence": 4,
+            "text": "einem",
+            "word": 8
+        },
+        {
+            "charBegin": 629,
+            "charEnd": 639,
+            "id": 102,
+            "sentence": 4,
+            "text": "hektischen",
+            "word": 9
+        },
+        {
+            "charBegin": 640,
+            "charEnd": 645,
+            "id": 103,
+            "sentence": 4,
+            "text": "Spiel",
+            "word": 10
+        },
+        {
+            "charBegin": 646,
+            "charEnd": 649,
+            "id": 104,
+            "sentence": 4,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 650,
+            "charEnd": 655,
+            "id": 105,
+            "sentence": 4,
+            "text": "trotz",
+            "word": 12
+        },
+        {
+            "charBegin": 656,
+            "charEnd": 662,
+            "id": 106,
+            "sentence": 4,
+            "text": "vieler",
+            "word": 13
+        },
+        {
+            "charBegin": 663,
+            "charEnd": 674,
+            "id": 107,
+            "sentence": 4,
+            "text": "Strafzeiten",
+            "word": 14
+        },
+        {
+            "charBegin": 675,
+            "charEnd": 677,
+            "id": 108,
+            "sentence": 4,
+            "text": "in",
+            "word": 15
+        },
+        {
+            "charBegin": 678,
+            "charEnd": 681,
+            "id": 109,
+            "sentence": 4,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 682,
+            "charEnd": 694,
+            "id": 110,
+            "sentence": 4,
+            "text": "Verlängerung",
+            "word": 17
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 698,
+            "id": 111,
+            "sentence": 4,
+            "text": "mit",
+            "word": 18
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 702,
+            "id": 112,
+            "sentence": 4,
+            "text": "3:2",
+            "word": 19
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 704,
+            "id": 113,
+            "sentence": 4,
+            "text": "(",
+            "word": 20
+        },
+        {
+            "charBegin": 704,
+            "charEnd": 707,
+            "id": 114,
+            "sentence": 4,
+            "text": "2:1",
+            "word": 21
+        },
+        {
+            "charBegin": 707,
+            "charEnd": 708,
+            "id": 115,
+            "sentence": 4,
+            "text": ",",
+            "word": 22
+        },
+        {
+            "charBegin": 709,
+            "charEnd": 712,
+            "id": 116,
+            "sentence": 4,
+            "text": "0:1",
+            "word": 23
+        },
+        {
+            "charBegin": 712,
+            "charEnd": 713,
+            "id": 117,
+            "sentence": 4,
+            "text": ",",
+            "word": 24
+        },
+        {
+            "charBegin": 714,
+            "charEnd": 717,
+            "id": 118,
+            "sentence": 4,
+            "text": "0:0",
+            "word": 25
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 718,
+            "id": 119,
+            "sentence": 4,
+            "text": ")",
+            "word": 26
+        },
+        {
+            "charBegin": 718,
+            "charEnd": 719,
+            "id": 120,
+            "sentence": 4,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 720,
+            "charEnd": 723,
+            "id": 121,
+            "sentence": 5,
+            "text": "Und",
+            "word": 1
+        },
+        {
+            "charBegin": 724,
+            "charEnd": 730,
+            "id": 122,
+            "sentence": 5,
+            "text": "wieder",
+            "word": 2
+        },
+        {
+            "charBegin": 731,
+            "charEnd": 734,
+            "id": 123,
+            "sentence": 5,
+            "text": "war",
+            "word": 3
+        },
+        {
+            "charBegin": 735,
+            "charEnd": 737,
+            "id": 124,
+            "sentence": 5,
+            "text": "es",
+            "word": 4
+        },
+        {
+            "charBegin": 738,
+            "charEnd": 742,
+            "id": 125,
+            "sentence": 5,
+            "text": "Greg",
+            "word": 5
+        },
+        {
+            "charBegin": 743,
+            "charEnd": 747,
+            "id": 126,
+            "sentence": 5,
+            "text": "Leeb",
+            "word": 6
+        },
+        {
+            "charBegin": 747,
+            "charEnd": 748,
+            "id": 127,
+            "sentence": 5,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 749,
+            "charEnd": 752,
+            "id": 128,
+            "sentence": 5,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 753,
+            "charEnd": 755,
+            "id": 129,
+            "sentence": 5,
+            "text": "im",
+            "word": 9
+        },
+        {
+            "charBegin": 756,
+            "charEnd": 771,
+            "id": 130,
+            "sentence": 5,
+            "text": "Penaltyschießen",
+            "word": 10
+        },
+        {
+            "charBegin": 772,
+            "charEnd": 775,
+            "id": 131,
+            "sentence": 5,
+            "text": "das",
+            "word": 11
+        },
+        {
+            "charBegin": 776,
+            "charEnd": 789,
+            "id": 132,
+            "sentence": 5,
+            "text": "entscheidende",
+            "word": 12
+        },
+        {
+            "charBegin": 790,
+            "charEnd": 793,
+            "id": 133,
+            "sentence": 5,
+            "text": "Tor",
+            "word": 13
+        },
+        {
+            "charBegin": 794,
+            "charEnd": 797,
+            "id": 134,
+            "sentence": 5,
+            "text": "für",
+            "word": 14
+        },
+        {
+            "charBegin": 798,
+            "charEnd": 801,
+            "id": 135,
+            "sentence": 5,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 802,
+            "charEnd": 809,
+            "id": 136,
+            "sentence": 5,
+            "text": "Franken",
+            "word": 16
+        },
+        {
+            "charBegin": 810,
+            "charEnd": 819,
+            "id": 137,
+            "sentence": 5,
+            "text": "einlochte",
+            "word": 17
+        },
+        {
+            "charBegin": 819,
+            "charEnd": 820,
+            "id": 138,
+            "sentence": 5,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 821,
+            "charEnd": 824,
+            "id": 139,
+            "sentence": 6,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 825,
+            "charEnd": 828,
+            "id": 140,
+            "sentence": 6,
+            "text": "Ice",
+            "word": 2
+        },
+        {
+            "charBegin": 829,
+            "charEnd": 835,
+            "id": 141,
+            "sentence": 6,
+            "text": "Tigers",
+            "word": 3
+        },
+        {
+            "charBegin": 836,
+            "charEnd": 840,
+            "id": 142,
+            "sentence": 6,
+            "text": "sind",
+            "word": 4
+        },
+        {
+            "charBegin": 841,
+            "charEnd": 848,
+            "id": 143,
+            "sentence": 6,
+            "text": "nunmehr",
+            "word": 5
+        },
+        {
+            "charBegin": 849,
+            "charEnd": 853,
+            "id": 144,
+            "sentence": 6,
+            "text": "seit",
+            "word": 6
+        },
+        {
+            "charBegin": 854,
+            "charEnd": 860,
+            "id": 145,
+            "sentence": 6,
+            "text": "sieben",
+            "word": 7
+        },
+        {
+            "charBegin": 861,
+            "charEnd": 868,
+            "id": 146,
+            "sentence": 6,
+            "text": "Spielen",
+            "word": 8
+        },
+        {
+            "charBegin": 869,
+            "charEnd": 881,
+            "id": 147,
+            "sentence": 6,
+            "text": "ungeschlagen",
+            "word": 9
+        },
+        {
+            "charBegin": 881,
+            "charEnd": 882,
+            "id": 148,
+            "sentence": 6,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 884,
+            "charEnd": 887,
+            "id": 149,
+            "sentence": 7,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 895,
+            "id": 150,
+            "sentence": 7,
+            "text": "nächste",
+            "word": 2
+        },
+        {
+            "charBegin": 896,
+            "charEnd": 901,
+            "id": 151,
+            "sentence": 7,
+            "text": "Spiel",
+            "word": 3
+        },
+        {
+            "charBegin": 902,
+            "charEnd": 905,
+            "id": 152,
+            "sentence": 7,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 906,
+            "charEnd": 909,
+            "id": 153,
+            "sentence": 7,
+            "text": "Ice",
+            "word": 5
+        },
+        {
+            "charBegin": 910,
+            "charEnd": 916,
+            "id": 154,
+            "sentence": 7,
+            "text": "Tigers",
+            "word": 6
+        },
+        {
+            "charBegin": 917,
+            "charEnd": 923,
+            "id": 155,
+            "sentence": 7,
+            "text": "findet",
+            "word": 7
+        },
+        {
+            "charBegin": 924,
+            "charEnd": 926,
+            "id": 156,
+            "sentence": 7,
+            "text": "am",
+            "word": 8
+        },
+        {
+            "charBegin": 927,
+            "charEnd": 934,
+            "id": 157,
+            "sentence": 7,
+            "text": "Freitag",
+            "word": 9
+        },
+        {
+            "charBegin": 934,
+            "charEnd": 935,
+            "id": 158,
+            "sentence": 7,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 936,
+            "charEnd": 939,
+            "id": 159,
+            "sentence": 7,
+            "text": "17.",
+            "word": 11
+        },
+        {
+            "charBegin": 940,
+            "charEnd": 948,
+            "id": 160,
+            "sentence": 7,
+            "text": "Dezember",
+            "word": 12
+        },
+        {
+            "charBegin": 949,
+            "charEnd": 953,
+            "id": 161,
+            "sentence": 7,
+            "text": "2004",
+            "word": 13
+        },
+        {
+            "charBegin": 954,
+            "charEnd": 956,
+            "id": 162,
+            "sentence": 7,
+            "text": "um",
+            "word": 14
+        },
+        {
+            "charBegin": 957,
+            "charEnd": 962,
+            "id": 163,
+            "sentence": 7,
+            "text": "19:30",
+            "word": 15
+        },
+        {
+            "charBegin": 963,
+            "charEnd": 966,
+            "id": 164,
+            "sentence": 7,
+            "text": "Uhr",
+            "word": 16
+        },
+        {
+            "charBegin": 967,
+            "charEnd": 969,
+            "id": 165,
+            "sentence": 7,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 970,
+            "charEnd": 980,
+            "id": 166,
+            "sentence": 7,
+            "text": "Ingolstadt",
+            "word": 18
+        },
+        {
+            "charBegin": 981,
+            "charEnd": 986,
+            "id": 167,
+            "sentence": 7,
+            "text": "statt",
+            "word": 19
+        },
+        {
+            "charBegin": 986,
+            "charEnd": 987,
+            "id": 168,
+            "sentence": 7,
+            "text": ".",
+            "word": 20
+        }
+    ]
+}

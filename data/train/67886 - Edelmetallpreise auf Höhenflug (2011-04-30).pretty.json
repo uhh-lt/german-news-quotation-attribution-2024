@@ -1,0 +1,1663 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 55,
+                        "charBegin": 342,
+                        "charEnd": 347,
+                        "end": 56
+                    },
+                    {
+                        "begin": 58,
+                        "charBegin": 362,
+                        "charEnd": 373,
+                        "end": 59
+                    }
+                ],
+                "text": "hatte angekündigt",
+                "tokenIds": [
+                    55,
+                    58
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 52,
+                        "charBegin": 320,
+                        "charEnd": 374,
+                        "end": 60
+                    }
+                ],
+                "text": "Fed-Chef Ben Bernanke hatte erst kürzlich angekündigt,",
+                "tokenIds": [
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 60,
+                        "charBegin": 375,
+                        "charEnd": 416,
+                        "end": 67
+                    }
+                ],
+                "text": "dass eine Zinswende in weiter Ferne stehe",
+                "tokenIds": [
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 52,
+                        "charBegin": 320,
+                        "charEnd": 341,
+                        "end": 55
+                    }
+                ],
+                "text": "Fed-Chef Ben Bernanke",
+                "tokenIds": [
+                    52,
+                    53,
+                    54
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 110,
+                        "charBegin": 682,
+                        "charEnd": 762,
+                        "end": 122
+                    }
+                ],
+                "text": "Analysten halten einen Silberpreis von 60 Dollar je Feinunze für wahrscheinlich.",
+                "tokenIds": [
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 110,
+                        "charBegin": 682,
+                        "charEnd": 691,
+                        "end": 111
+                    }
+                ],
+                "text": "Analysten",
+                "tokenIds": [
+                    110
+                ]
+            },
+            "type": "Reported"
+        }
+    ],
+    "documentName": "67886 - Edelmetallpreise auf Höhenflug (2011-04-30)",
+    "originalText": "Die Feinunze (31,1 Gramm) Silber kostete am Donnerstagabend 49,51 US-Dollar. Damit wurde das Hoch vom Januar 1980 von 49,45 US-Dollar leicht übertroffen. Die Feinunze Gold steht auf ihrem Allzeithoch von 1535,90 US-Dollar. Die expansive Geldmarktpolitik der  Fed treibt die Inflation und den Preis der Edelmetalle an. \n\nFed-Chef Ben Bernanke hatte erst kürzlich angekündigt, dass eine Zinswende in weiter Ferne stehe. Unabhängig von der in Europa eingeleiteten Zinswende beflügelte die Bekanntgabe den Gold- und Silberpreis. Beide Edelmetalle werden in Dollar gehandelt. Der Dollar befindet sich auf dem niedrigsten Stand seit drei Jahren. 1,4881 Dollar zahlt man für einen Euro. \n\nAnalysten halten einen Silberpreis von 60 Dollar je Feinunze für wahrscheinlich. Hintergrund sind auch die ungelösten Schuldenprobleme in Europa sowie die steigende Nachfrage der Industrie.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 76,
+            "end": 13,
+            "id": 0,
+            "text": "Die Feinunze (31,1 Gramm) Silber kostete am Donnerstagabend 49,51 US-Dollar. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "tokens": [
+                "Die",
+                "Feinunze",
+                "(",
+                "31,1",
+                "Gramm",
+                ")",
+                "Silber",
+                "kostete",
+                "am",
+                "Donnerstagabend",
+                "49,51",
+                "US-Dollar",
+                "."
+            ]
+        },
+        {
+            "begin": 13,
+            "charBegin": 77,
+            "charEnd": 153,
+            "end": 26,
+            "id": 1,
+            "text": "Damit wurde das Hoch vom Januar 1980 von 49,45 US-Dollar leicht übertroffen. ",
+            "tokenIds": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "tokens": [
+                "Damit",
+                "wurde",
+                "das",
+                "Hoch",
+                "vom",
+                "Januar",
+                "1980",
+                "von",
+                "49,45",
+                "US-Dollar",
+                "leicht",
+                "übertroffen",
+                "."
+            ]
+        },
+        {
+            "begin": 26,
+            "charBegin": 154,
+            "charEnd": 222,
+            "end": 37,
+            "id": 2,
+            "text": "Die Feinunze Gold steht auf ihrem Allzeithoch von 1535,90 US-Dollar. ",
+            "tokenIds": [
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "tokens": [
+                "Die",
+                "Feinunze",
+                "Gold",
+                "steht",
+                "auf",
+                "ihrem",
+                "Allzeithoch",
+                "von",
+                "1535,90",
+                "US-Dollar",
+                "."
+            ]
+        },
+        {
+            "begin": 37,
+            "charBegin": 223,
+            "charEnd": 317,
+            "end": 52,
+            "id": 3,
+            "text": "Die expansive Geldmarktpolitik der  Fed treibt die Inflation und den Preis der Edelmetalle an. ",
+            "tokenIds": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51
+            ],
+            "tokens": [
+                "Die",
+                "expansive",
+                "Geldmarktpolitik",
+                "der",
+                "Fed",
+                "treibt",
+                "die",
+                "Inflation",
+                "und",
+                "den",
+                "Preis",
+                "der",
+                "Edelmetalle",
+                "an",
+                "."
+            ]
+        },
+        {
+            "begin": 52,
+            "charBegin": 320,
+            "charEnd": 417,
+            "end": 68,
+            "id": 4,
+            "text": "Fed-Chef Ben Bernanke hatte erst kürzlich angekündigt, dass eine Zinswende in weiter Ferne stehe. ",
+            "tokenIds": [
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67
+            ],
+            "tokens": [
+                "Fed-Chef",
+                "Ben",
+                "Bernanke",
+                "hatte",
+                "erst",
+                "kürzlich",
+                "angekündigt",
+                ",",
+                "dass",
+                "eine",
+                "Zinswende",
+                "in",
+                "weiter",
+                "Ferne",
+                "stehe",
+                "."
+            ]
+        },
+        {
+            "begin": 68,
+            "charBegin": 418,
+            "charEnd": 524,
+            "end": 83,
+            "id": 5,
+            "text": "Unabhängig von der in Europa eingeleiteten Zinswende beflügelte die Bekanntgabe den Gold- und Silberpreis. ",
+            "tokenIds": [
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82
+            ],
+            "tokens": [
+                "Unabhängig",
+                "von",
+                "der",
+                "in",
+                "Europa",
+                "eingeleiteten",
+                "Zinswende",
+                "beflügelte",
+                "die",
+                "Bekanntgabe",
+                "den",
+                "Gold-",
+                "und",
+                "Silberpreis",
+                "."
+            ]
+        },
+        {
+            "begin": 83,
+            "charBegin": 525,
+            "charEnd": 570,
+            "end": 90,
+            "id": 6,
+            "text": "Beide Edelmetalle werden in Dollar gehandelt. ",
+            "tokenIds": [
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89
+            ],
+            "tokens": [
+                "Beide",
+                "Edelmetalle",
+                "werden",
+                "in",
+                "Dollar",
+                "gehandelt",
+                "."
+            ]
+        },
+        {
+            "begin": 90,
+            "charBegin": 571,
+            "charEnd": 639,
+            "end": 102,
+            "id": 7,
+            "text": "Der Dollar befindet sich auf dem niedrigsten Stand seit drei Jahren. ",
+            "tokenIds": [
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101
+            ],
+            "tokens": [
+                "Der",
+                "Dollar",
+                "befindet",
+                "sich",
+                "auf",
+                "dem",
+                "niedrigsten",
+                "Stand",
+                "seit",
+                "drei",
+                "Jahren",
+                "."
+            ]
+        },
+        {
+            "begin": 102,
+            "charBegin": 640,
+            "charEnd": 679,
+            "end": 110,
+            "id": 8,
+            "text": "1,4881 Dollar zahlt man für einen Euro. ",
+            "tokenIds": [
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109
+            ],
+            "tokens": [
+                "1,4881",
+                "Dollar",
+                "zahlt",
+                "man",
+                "für",
+                "einen",
+                "Euro",
+                "."
+            ]
+        },
+        {
+            "begin": 110,
+            "charBegin": 682,
+            "charEnd": 762,
+            "end": 122,
+            "id": 9,
+            "text": "Analysten halten einen Silberpreis von 60 Dollar je Feinunze für wahrscheinlich. ",
+            "tokenIds": [
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ],
+            "tokens": [
+                "Analysten",
+                "halten",
+                "einen",
+                "Silberpreis",
+                "von",
+                "60",
+                "Dollar",
+                "je",
+                "Feinunze",
+                "für",
+                "wahrscheinlich",
+                "."
+            ]
+        },
+        {
+            "begin": 122,
+            "charBegin": 763,
+            "charEnd": 871,
+            "end": 137,
+            "id": 10,
+            "text": "Hintergrund sind auch die ungelösten Schuldenprobleme in Europa sowie die steigende Nachfrage der Industrie.",
+            "tokenIds": [
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136
+            ],
+            "tokens": [
+                "Hintergrund",
+                "sind",
+                "auch",
+                "die",
+                "ungelösten",
+                "Schuldenprobleme",
+                "in",
+                "Europa",
+                "sowie",
+                "die",
+                "steigende",
+                "Nachfrage",
+                "der",
+                "Industrie",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 12,
+            "id": 1,
+            "sentence": 1,
+            "text": "Feinunze",
+            "word": 2
+        },
+        {
+            "charBegin": 13,
+            "charEnd": 14,
+            "id": 2,
+            "sentence": 1,
+            "text": "(",
+            "word": 3
+        },
+        {
+            "charBegin": 14,
+            "charEnd": 18,
+            "id": 3,
+            "sentence": 1,
+            "text": "31,1",
+            "word": 4
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 24,
+            "id": 4,
+            "sentence": 1,
+            "text": "Gramm",
+            "word": 5
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 25,
+            "id": 5,
+            "sentence": 1,
+            "text": ")",
+            "word": 6
+        },
+        {
+            "charBegin": 26,
+            "charEnd": 32,
+            "id": 6,
+            "sentence": 1,
+            "text": "Silber",
+            "word": 7
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 40,
+            "id": 7,
+            "sentence": 1,
+            "text": "kostete",
+            "word": 8
+        },
+        {
+            "charBegin": 41,
+            "charEnd": 43,
+            "id": 8,
+            "sentence": 1,
+            "text": "am",
+            "word": 9
+        },
+        {
+            "charBegin": 44,
+            "charEnd": 59,
+            "id": 9,
+            "sentence": 1,
+            "text": "Donnerstagabend",
+            "word": 10
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 65,
+            "id": 10,
+            "sentence": 1,
+            "text": "49,51",
+            "word": 11
+        },
+        {
+            "charBegin": 66,
+            "charEnd": 75,
+            "id": 11,
+            "sentence": 1,
+            "text": "US-Dollar",
+            "word": 12
+        },
+        {
+            "charBegin": 75,
+            "charEnd": 76,
+            "id": 12,
+            "sentence": 1,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 82,
+            "id": 13,
+            "sentence": 2,
+            "text": "Damit",
+            "word": 1
+        },
+        {
+            "charBegin": 83,
+            "charEnd": 88,
+            "id": 14,
+            "sentence": 2,
+            "text": "wurde",
+            "word": 2
+        },
+        {
+            "charBegin": 89,
+            "charEnd": 92,
+            "id": 15,
+            "sentence": 2,
+            "text": "das",
+            "word": 3
+        },
+        {
+            "charBegin": 93,
+            "charEnd": 97,
+            "id": 16,
+            "sentence": 2,
+            "text": "Hoch",
+            "word": 4
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 101,
+            "id": 17,
+            "sentence": 2,
+            "text": "vom",
+            "word": 5
+        },
+        {
+            "charBegin": 102,
+            "charEnd": 108,
+            "id": 18,
+            "sentence": 2,
+            "text": "Januar",
+            "word": 6
+        },
+        {
+            "charBegin": 109,
+            "charEnd": 113,
+            "id": 19,
+            "sentence": 2,
+            "text": "1980",
+            "word": 7
+        },
+        {
+            "charBegin": 114,
+            "charEnd": 117,
+            "id": 20,
+            "sentence": 2,
+            "text": "von",
+            "word": 8
+        },
+        {
+            "charBegin": 118,
+            "charEnd": 123,
+            "id": 21,
+            "sentence": 2,
+            "text": "49,45",
+            "word": 9
+        },
+        {
+            "charBegin": 124,
+            "charEnd": 133,
+            "id": 22,
+            "sentence": 2,
+            "text": "US-Dollar",
+            "word": 10
+        },
+        {
+            "charBegin": 134,
+            "charEnd": 140,
+            "id": 23,
+            "sentence": 2,
+            "text": "leicht",
+            "word": 11
+        },
+        {
+            "charBegin": 141,
+            "charEnd": 152,
+            "id": 24,
+            "sentence": 2,
+            "text": "übertroffen",
+            "word": 12
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 153,
+            "id": 25,
+            "sentence": 2,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 157,
+            "id": 26,
+            "sentence": 3,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 166,
+            "id": 27,
+            "sentence": 3,
+            "text": "Feinunze",
+            "word": 2
+        },
+        {
+            "charBegin": 167,
+            "charEnd": 171,
+            "id": 28,
+            "sentence": 3,
+            "text": "Gold",
+            "word": 3
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 177,
+            "id": 29,
+            "sentence": 3,
+            "text": "steht",
+            "word": 4
+        },
+        {
+            "charBegin": 178,
+            "charEnd": 181,
+            "id": 30,
+            "sentence": 3,
+            "text": "auf",
+            "word": 5
+        },
+        {
+            "charBegin": 182,
+            "charEnd": 187,
+            "id": 31,
+            "sentence": 3,
+            "text": "ihrem",
+            "word": 6
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 199,
+            "id": 32,
+            "sentence": 3,
+            "text": "Allzeithoch",
+            "word": 7
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 203,
+            "id": 33,
+            "sentence": 3,
+            "text": "von",
+            "word": 8
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 211,
+            "id": 34,
+            "sentence": 3,
+            "text": "1535,90",
+            "word": 9
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 221,
+            "id": 35,
+            "sentence": 3,
+            "text": "US-Dollar",
+            "word": 10
+        },
+        {
+            "charBegin": 221,
+            "charEnd": 222,
+            "id": 36,
+            "sentence": 3,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 226,
+            "id": 37,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 236,
+            "id": 38,
+            "sentence": 4,
+            "text": "expansive",
+            "word": 2
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 253,
+            "id": 39,
+            "sentence": 4,
+            "text": "Geldmarktpolitik",
+            "word": 3
+        },
+        {
+            "charBegin": 254,
+            "charEnd": 257,
+            "id": 40,
+            "sentence": 4,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 262,
+            "id": 41,
+            "sentence": 4,
+            "text": "Fed",
+            "word": 5
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 269,
+            "id": 42,
+            "sentence": 4,
+            "text": "treibt",
+            "word": 6
+        },
+        {
+            "charBegin": 270,
+            "charEnd": 273,
+            "id": 43,
+            "sentence": 4,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 274,
+            "charEnd": 283,
+            "id": 44,
+            "sentence": 4,
+            "text": "Inflation",
+            "word": 8
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 287,
+            "id": 45,
+            "sentence": 4,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 291,
+            "id": 46,
+            "sentence": 4,
+            "text": "den",
+            "word": 10
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 297,
+            "id": 47,
+            "sentence": 4,
+            "text": "Preis",
+            "word": 11
+        },
+        {
+            "charBegin": 298,
+            "charEnd": 301,
+            "id": 48,
+            "sentence": 4,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 302,
+            "charEnd": 313,
+            "id": 49,
+            "sentence": 4,
+            "text": "Edelmetalle",
+            "word": 13
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 316,
+            "id": 50,
+            "sentence": 4,
+            "text": "an",
+            "word": 14
+        },
+        {
+            "charBegin": 316,
+            "charEnd": 317,
+            "id": 51,
+            "sentence": 4,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 328,
+            "id": 52,
+            "sentence": 5,
+            "text": "Fed-Chef",
+            "word": 1
+        },
+        {
+            "charBegin": 329,
+            "charEnd": 332,
+            "id": 53,
+            "sentence": 5,
+            "text": "Ben",
+            "word": 2
+        },
+        {
+            "charBegin": 333,
+            "charEnd": 341,
+            "id": 54,
+            "sentence": 5,
+            "text": "Bernanke",
+            "word": 3
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 347,
+            "id": 55,
+            "sentence": 5,
+            "text": "hatte",
+            "word": 4
+        },
+        {
+            "charBegin": 348,
+            "charEnd": 352,
+            "id": 56,
+            "sentence": 5,
+            "text": "erst",
+            "word": 5
+        },
+        {
+            "charBegin": 353,
+            "charEnd": 361,
+            "id": 57,
+            "sentence": 5,
+            "text": "kürzlich",
+            "word": 6
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 373,
+            "id": 58,
+            "sentence": 5,
+            "text": "angekündigt",
+            "word": 7
+        },
+        {
+            "charBegin": 373,
+            "charEnd": 374,
+            "id": 59,
+            "sentence": 5,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 375,
+            "charEnd": 379,
+            "id": 60,
+            "sentence": 5,
+            "text": "dass",
+            "word": 9
+        },
+        {
+            "charBegin": 380,
+            "charEnd": 384,
+            "id": 61,
+            "sentence": 5,
+            "text": "eine",
+            "word": 10
+        },
+        {
+            "charBegin": 385,
+            "charEnd": 394,
+            "id": 62,
+            "sentence": 5,
+            "text": "Zinswende",
+            "word": 11
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 397,
+            "id": 63,
+            "sentence": 5,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 404,
+            "id": 64,
+            "sentence": 5,
+            "text": "weiter",
+            "word": 13
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 410,
+            "id": 65,
+            "sentence": 5,
+            "text": "Ferne",
+            "word": 14
+        },
+        {
+            "charBegin": 411,
+            "charEnd": 416,
+            "id": 66,
+            "sentence": 5,
+            "text": "stehe",
+            "word": 15
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 417,
+            "id": 67,
+            "sentence": 5,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 428,
+            "id": 68,
+            "sentence": 6,
+            "text": "Unabhängig",
+            "word": 1
+        },
+        {
+            "charBegin": 429,
+            "charEnd": 432,
+            "id": 69,
+            "sentence": 6,
+            "text": "von",
+            "word": 2
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 436,
+            "id": 70,
+            "sentence": 6,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 437,
+            "charEnd": 439,
+            "id": 71,
+            "sentence": 6,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 446,
+            "id": 72,
+            "sentence": 6,
+            "text": "Europa",
+            "word": 5
+        },
+        {
+            "charBegin": 447,
+            "charEnd": 460,
+            "id": 73,
+            "sentence": 6,
+            "text": "eingeleiteten",
+            "word": 6
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 470,
+            "id": 74,
+            "sentence": 6,
+            "text": "Zinswende",
+            "word": 7
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 481,
+            "id": 75,
+            "sentence": 6,
+            "text": "beflügelte",
+            "word": 8
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 485,
+            "id": 76,
+            "sentence": 6,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 497,
+            "id": 77,
+            "sentence": 6,
+            "text": "Bekanntgabe",
+            "word": 10
+        },
+        {
+            "charBegin": 498,
+            "charEnd": 501,
+            "id": 78,
+            "sentence": 6,
+            "text": "den",
+            "word": 11
+        },
+        {
+            "charBegin": 502,
+            "charEnd": 507,
+            "id": 79,
+            "sentence": 6,
+            "text": "Gold-",
+            "word": 12
+        },
+        {
+            "charBegin": 508,
+            "charEnd": 511,
+            "id": 80,
+            "sentence": 6,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 523,
+            "id": 81,
+            "sentence": 6,
+            "text": "Silberpreis",
+            "word": 14
+        },
+        {
+            "charBegin": 523,
+            "charEnd": 524,
+            "id": 82,
+            "sentence": 6,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 525,
+            "charEnd": 530,
+            "id": 83,
+            "sentence": 7,
+            "text": "Beide",
+            "word": 1
+        },
+        {
+            "charBegin": 531,
+            "charEnd": 542,
+            "id": 84,
+            "sentence": 7,
+            "text": "Edelmetalle",
+            "word": 2
+        },
+        {
+            "charBegin": 543,
+            "charEnd": 549,
+            "id": 85,
+            "sentence": 7,
+            "text": "werden",
+            "word": 3
+        },
+        {
+            "charBegin": 550,
+            "charEnd": 552,
+            "id": 86,
+            "sentence": 7,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 553,
+            "charEnd": 559,
+            "id": 87,
+            "sentence": 7,
+            "text": "Dollar",
+            "word": 5
+        },
+        {
+            "charBegin": 560,
+            "charEnd": 569,
+            "id": 88,
+            "sentence": 7,
+            "text": "gehandelt",
+            "word": 6
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 570,
+            "id": 89,
+            "sentence": 7,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 574,
+            "id": 90,
+            "sentence": 8,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 575,
+            "charEnd": 581,
+            "id": 91,
+            "sentence": 8,
+            "text": "Dollar",
+            "word": 2
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 590,
+            "id": 92,
+            "sentence": 8,
+            "text": "befindet",
+            "word": 3
+        },
+        {
+            "charBegin": 591,
+            "charEnd": 595,
+            "id": 93,
+            "sentence": 8,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 596,
+            "charEnd": 599,
+            "id": 94,
+            "sentence": 8,
+            "text": "auf",
+            "word": 5
+        },
+        {
+            "charBegin": 600,
+            "charEnd": 603,
+            "id": 95,
+            "sentence": 8,
+            "text": "dem",
+            "word": 6
+        },
+        {
+            "charBegin": 604,
+            "charEnd": 615,
+            "id": 96,
+            "sentence": 8,
+            "text": "niedrigsten",
+            "word": 7
+        },
+        {
+            "charBegin": 616,
+            "charEnd": 621,
+            "id": 97,
+            "sentence": 8,
+            "text": "Stand",
+            "word": 8
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 626,
+            "id": 98,
+            "sentence": 8,
+            "text": "seit",
+            "word": 9
+        },
+        {
+            "charBegin": 627,
+            "charEnd": 631,
+            "id": 99,
+            "sentence": 8,
+            "text": "drei",
+            "word": 10
+        },
+        {
+            "charBegin": 632,
+            "charEnd": 638,
+            "id": 100,
+            "sentence": 8,
+            "text": "Jahren",
+            "word": 11
+        },
+        {
+            "charBegin": 638,
+            "charEnd": 639,
+            "id": 101,
+            "sentence": 8,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 640,
+            "charEnd": 646,
+            "id": 102,
+            "sentence": 9,
+            "text": "1,4881",
+            "word": 1
+        },
+        {
+            "charBegin": 647,
+            "charEnd": 653,
+            "id": 103,
+            "sentence": 9,
+            "text": "Dollar",
+            "word": 2
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 659,
+            "id": 104,
+            "sentence": 9,
+            "text": "zahlt",
+            "word": 3
+        },
+        {
+            "charBegin": 660,
+            "charEnd": 663,
+            "id": 105,
+            "sentence": 9,
+            "text": "man",
+            "word": 4
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 667,
+            "id": 106,
+            "sentence": 9,
+            "text": "für",
+            "word": 5
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 673,
+            "id": 107,
+            "sentence": 9,
+            "text": "einen",
+            "word": 6
+        },
+        {
+            "charBegin": 674,
+            "charEnd": 678,
+            "id": 108,
+            "sentence": 9,
+            "text": "Euro",
+            "word": 7
+        },
+        {
+            "charBegin": 678,
+            "charEnd": 679,
+            "id": 109,
+            "sentence": 9,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 682,
+            "charEnd": 691,
+            "id": 110,
+            "sentence": 10,
+            "text": "Analysten",
+            "word": 1
+        },
+        {
+            "charBegin": 692,
+            "charEnd": 698,
+            "id": 111,
+            "sentence": 10,
+            "text": "halten",
+            "word": 2
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 704,
+            "id": 112,
+            "sentence": 10,
+            "text": "einen",
+            "word": 3
+        },
+        {
+            "charBegin": 705,
+            "charEnd": 716,
+            "id": 113,
+            "sentence": 10,
+            "text": "Silberpreis",
+            "word": 4
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 720,
+            "id": 114,
+            "sentence": 10,
+            "text": "von",
+            "word": 5
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 723,
+            "id": 115,
+            "sentence": 10,
+            "text": "60",
+            "word": 6
+        },
+        {
+            "charBegin": 724,
+            "charEnd": 730,
+            "id": 116,
+            "sentence": 10,
+            "text": "Dollar",
+            "word": 7
+        },
+        {
+            "charBegin": 731,
+            "charEnd": 733,
+            "id": 117,
+            "sentence": 10,
+            "text": "je",
+            "word": 8
+        },
+        {
+            "charBegin": 734,
+            "charEnd": 742,
+            "id": 118,
+            "sentence": 10,
+            "text": "Feinunze",
+            "word": 9
+        },
+        {
+            "charBegin": 743,
+            "charEnd": 746,
+            "id": 119,
+            "sentence": 10,
+            "text": "für",
+            "word": 10
+        },
+        {
+            "charBegin": 747,
+            "charEnd": 761,
+            "id": 120,
+            "sentence": 10,
+            "text": "wahrscheinlich",
+            "word": 11
+        },
+        {
+            "charBegin": 761,
+            "charEnd": 762,
+            "id": 121,
+            "sentence": 10,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 763,
+            "charEnd": 774,
+            "id": 122,
+            "sentence": 11,
+            "text": "Hintergrund",
+            "word": 1
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 779,
+            "id": 123,
+            "sentence": 11,
+            "text": "sind",
+            "word": 2
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 784,
+            "id": 124,
+            "sentence": 11,
+            "text": "auch",
+            "word": 3
+        },
+        {
+            "charBegin": 785,
+            "charEnd": 788,
+            "id": 125,
+            "sentence": 11,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 789,
+            "charEnd": 799,
+            "id": 126,
+            "sentence": 11,
+            "text": "ungelösten",
+            "word": 5
+        },
+        {
+            "charBegin": 800,
+            "charEnd": 816,
+            "id": 127,
+            "sentence": 11,
+            "text": "Schuldenprobleme",
+            "word": 6
+        },
+        {
+            "charBegin": 817,
+            "charEnd": 819,
+            "id": 128,
+            "sentence": 11,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 820,
+            "charEnd": 826,
+            "id": 129,
+            "sentence": 11,
+            "text": "Europa",
+            "word": 8
+        },
+        {
+            "charBegin": 827,
+            "charEnd": 832,
+            "id": 130,
+            "sentence": 11,
+            "text": "sowie",
+            "word": 9
+        },
+        {
+            "charBegin": 833,
+            "charEnd": 836,
+            "id": 131,
+            "sentence": 11,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 837,
+            "charEnd": 846,
+            "id": 132,
+            "sentence": 11,
+            "text": "steigende",
+            "word": 11
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 856,
+            "id": 133,
+            "sentence": 11,
+            "text": "Nachfrage",
+            "word": 12
+        },
+        {
+            "charBegin": 857,
+            "charEnd": 860,
+            "id": 134,
+            "sentence": 11,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 861,
+            "charEnd": 870,
+            "id": 135,
+            "sentence": 11,
+            "text": "Industrie",
+            "word": 14
+        },
+        {
+            "charBegin": 870,
+            "charEnd": 871,
+            "id": 136,
+            "sentence": 11,
+            "text": ".",
+            "word": 15
+        }
+    ]
+}

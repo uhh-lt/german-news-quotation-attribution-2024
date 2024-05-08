@@ -1,0 +1,1777 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 4,
+                        "end": 1
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    0
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 66,
+                        "end": 7
+                    }
+                ],
+                "text": "Nach Informationen der Stadtverwaltung vom gestrigen Dienstagabend",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 7,
+                        "charBegin": 67,
+                        "charEnd": 155,
+                        "end": 18
+                    }
+                ],
+                "text": "muss erneut eine Freiburger Schule teilweise wegen eines Masernfalles geschlossen werden",
+                "tokenIds": [
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 1,
+                        "charBegin": 5,
+                        "charEnd": 66,
+                        "end": 7
+                    }
+                ],
+                "text": "Informationen der Stadtverwaltung vom gestrigen Dienstagabend",
+                "tokenIds": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "49854 - Erneute Schulschließung wegen Masern an einer Freiburger Schule (2008-04-30)",
+    "originalText": "Nach Informationen der Stadtverwaltung vom gestrigen Dienstagabend muss erneut eine Freiburger Schule teilweise wegen eines Masernfalles geschlossen werden. Nachdem vor knapp drei Wochen die Freiburger Staudinger-Gesamtschule wegen Masern ihren Schulbetrieb weitgehend einstellen musste, trifft es nun die Max-Weber-Schule, ein Wirtschaftsgymnasium. Da der 13. Jahrgang, in dem der Masernfall aufgetreten ist, in einem abgetrennten Teilgebäude untergebracht ist, musste nur dieser Gebäudeteil geschlossen werden. Die ebenfalls in diesem Gebäude untergebrachte 12. Jahrgangsstufe war zum Zeitpunkt der Maserninfektion auf einer Klassenfahrt und ist daher nicht betroffen. Der Schulbetrieb an der übrigen Schule geht weiter. Der betroffene Jahrgang hat jedoch vom 5. bis 12. Mai „masernfrei“. \n\nDie Masernerkrankung war am Montag dem Gesundheitsamt mitgeteilt worden. Betroffen ist ein Schüler. Das städtische Amt für öffentliche Ordnung erließ ein Zutrittsverbot für alle Personen, die nach dem 1. Januar 1973 geboren sind und keinen Impfschutz nachweisen können.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 156,
+            "end": 19,
+            "id": 0,
+            "text": "Nach Informationen der Stadtverwaltung vom gestrigen Dienstagabend muss erneut eine Freiburger Schule teilweise wegen eines Masernfalles geschlossen werden. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "tokens": [
+                "Nach",
+                "Informationen",
+                "der",
+                "Stadtverwaltung",
+                "vom",
+                "gestrigen",
+                "Dienstagabend",
+                "muss",
+                "erneut",
+                "eine",
+                "Freiburger",
+                "Schule",
+                "teilweise",
+                "wegen",
+                "eines",
+                "Masernfalles",
+                "geschlossen",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 19,
+            "charBegin": 157,
+            "charEnd": 349,
+            "end": 44,
+            "id": 1,
+            "text": "Nachdem vor knapp drei Wochen die Freiburger Staudinger-Gesamtschule wegen Masern ihren Schulbetrieb weitgehend einstellen musste, trifft es nun die Max-Weber-Schule, ein Wirtschaftsgymnasium. ",
+            "tokenIds": [
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "tokens": [
+                "Nachdem",
+                "vor",
+                "knapp",
+                "drei",
+                "Wochen",
+                "die",
+                "Freiburger",
+                "Staudinger-Gesamtschule",
+                "wegen",
+                "Masern",
+                "ihren",
+                "Schulbetrieb",
+                "weitgehend",
+                "einstellen",
+                "musste",
+                ",",
+                "trifft",
+                "es",
+                "nun",
+                "die",
+                "Max-Weber-Schule",
+                ",",
+                "ein",
+                "Wirtschaftsgymnasium",
+                "."
+            ]
+        },
+        {
+            "begin": 44,
+            "charBegin": 350,
+            "charEnd": 512,
+            "end": 70,
+            "id": 2,
+            "text": "Da der 13. Jahrgang, in dem der Masernfall aufgetreten ist, in einem abgetrennten Teilgebäude untergebracht ist, musste nur dieser Gebäudeteil geschlossen werden. ",
+            "tokenIds": [
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69
+            ],
+            "tokens": [
+                "Da",
+                "der",
+                "13.",
+                "Jahrgang",
+                ",",
+                "in",
+                "dem",
+                "der",
+                "Masernfall",
+                "aufgetreten",
+                "ist",
+                ",",
+                "in",
+                "einem",
+                "abgetrennten",
+                "Teilgebäude",
+                "untergebracht",
+                "ist",
+                ",",
+                "musste",
+                "nur",
+                "dieser",
+                "Gebäudeteil",
+                "geschlossen",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 70,
+            "charBegin": 513,
+            "charEnd": 670,
+            "end": 92,
+            "id": 3,
+            "text": "Die ebenfalls in diesem Gebäude untergebrachte 12. Jahrgangsstufe war zum Zeitpunkt der Maserninfektion auf einer Klassenfahrt und ist daher nicht betroffen. ",
+            "tokenIds": [
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91
+            ],
+            "tokens": [
+                "Die",
+                "ebenfalls",
+                "in",
+                "diesem",
+                "Gebäude",
+                "untergebrachte",
+                "12.",
+                "Jahrgangsstufe",
+                "war",
+                "zum",
+                "Zeitpunkt",
+                "der",
+                "Maserninfektion",
+                "auf",
+                "einer",
+                "Klassenfahrt",
+                "und",
+                "ist",
+                "daher",
+                "nicht",
+                "betroffen",
+                "."
+            ]
+        },
+        {
+            "begin": 92,
+            "charBegin": 671,
+            "charEnd": 722,
+            "end": 101,
+            "id": 4,
+            "text": "Der Schulbetrieb an der übrigen Schule geht weiter. ",
+            "tokenIds": [
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100
+            ],
+            "tokens": [
+                "Der",
+                "Schulbetrieb",
+                "an",
+                "der",
+                "übrigen",
+                "Schule",
+                "geht",
+                "weiter",
+                "."
+            ]
+        },
+        {
+            "begin": 101,
+            "charBegin": 723,
+            "charEnd": 790,
+            "end": 115,
+            "id": 5,
+            "text": "Der betroffene Jahrgang hat jedoch vom 5. bis 12. Mai „masernfrei“. ",
+            "tokenIds": [
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114
+            ],
+            "tokens": [
+                "Der",
+                "betroffene",
+                "Jahrgang",
+                "hat",
+                "jedoch",
+                "vom",
+                "5.",
+                "bis",
+                "12.",
+                "Mai",
+                "„",
+                "masernfrei",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 115,
+            "charBegin": 793,
+            "charEnd": 865,
+            "end": 125,
+            "id": 6,
+            "text": "Die Masernerkrankung war am Montag dem Gesundheitsamt mitgeteilt worden. ",
+            "tokenIds": [
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124
+            ],
+            "tokens": [
+                "Die",
+                "Masernerkrankung",
+                "war",
+                "am",
+                "Montag",
+                "dem",
+                "Gesundheitsamt",
+                "mitgeteilt",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "begin": 125,
+            "charBegin": 866,
+            "charEnd": 892,
+            "end": 130,
+            "id": 7,
+            "text": "Betroffen ist ein Schüler. ",
+            "tokenIds": [
+                125,
+                126,
+                127,
+                128,
+                129
+            ],
+            "tokens": [
+                "Betroffen",
+                "ist",
+                "ein",
+                "Schüler",
+                "."
+            ]
+        },
+        {
+            "begin": 130,
+            "charBegin": 893,
+            "charEnd": 1062,
+            "end": 157,
+            "id": 8,
+            "text": "Das städtische Amt für öffentliche Ordnung erließ ein Zutrittsverbot für alle Personen, die nach dem 1. Januar 1973 geboren sind und keinen Impfschutz nachweisen können.",
+            "tokenIds": [
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156
+            ],
+            "tokens": [
+                "Das",
+                "städtische",
+                "Amt",
+                "für",
+                "öffentliche",
+                "Ordnung",
+                "erließ",
+                "ein",
+                "Zutrittsverbot",
+                "für",
+                "alle",
+                "Personen",
+                ",",
+                "die",
+                "nach",
+                "dem",
+                "1.",
+                "Januar",
+                "1973",
+                "geboren",
+                "sind",
+                "und",
+                "keinen",
+                "Impfschutz",
+                "nachweisen",
+                "können",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 4,
+            "id": 0,
+            "sentence": 1,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 5,
+            "charEnd": 18,
+            "id": 1,
+            "sentence": 1,
+            "text": "Informationen",
+            "word": 2
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 22,
+            "id": 2,
+            "sentence": 1,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 38,
+            "id": 3,
+            "sentence": 1,
+            "text": "Stadtverwaltung",
+            "word": 4
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 42,
+            "id": 4,
+            "sentence": 1,
+            "text": "vom",
+            "word": 5
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 52,
+            "id": 5,
+            "sentence": 1,
+            "text": "gestrigen",
+            "word": 6
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 66,
+            "id": 6,
+            "sentence": 1,
+            "text": "Dienstagabend",
+            "word": 7
+        },
+        {
+            "charBegin": 67,
+            "charEnd": 71,
+            "id": 7,
+            "sentence": 1,
+            "text": "muss",
+            "word": 8
+        },
+        {
+            "charBegin": 72,
+            "charEnd": 78,
+            "id": 8,
+            "sentence": 1,
+            "text": "erneut",
+            "word": 9
+        },
+        {
+            "charBegin": 79,
+            "charEnd": 83,
+            "id": 9,
+            "sentence": 1,
+            "text": "eine",
+            "word": 10
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 94,
+            "id": 10,
+            "sentence": 1,
+            "text": "Freiburger",
+            "word": 11
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 101,
+            "id": 11,
+            "sentence": 1,
+            "text": "Schule",
+            "word": 12
+        },
+        {
+            "charBegin": 102,
+            "charEnd": 111,
+            "id": 12,
+            "sentence": 1,
+            "text": "teilweise",
+            "word": 13
+        },
+        {
+            "charBegin": 112,
+            "charEnd": 117,
+            "id": 13,
+            "sentence": 1,
+            "text": "wegen",
+            "word": 14
+        },
+        {
+            "charBegin": 118,
+            "charEnd": 123,
+            "id": 14,
+            "sentence": 1,
+            "text": "eines",
+            "word": 15
+        },
+        {
+            "charBegin": 124,
+            "charEnd": 136,
+            "id": 15,
+            "sentence": 1,
+            "text": "Masernfalles",
+            "word": 16
+        },
+        {
+            "charBegin": 137,
+            "charEnd": 148,
+            "id": 16,
+            "sentence": 1,
+            "text": "geschlossen",
+            "word": 17
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 155,
+            "id": 17,
+            "sentence": 1,
+            "text": "werden",
+            "word": 18
+        },
+        {
+            "charBegin": 155,
+            "charEnd": 156,
+            "id": 18,
+            "sentence": 1,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 164,
+            "id": 19,
+            "sentence": 2,
+            "text": "Nachdem",
+            "word": 1
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 168,
+            "id": 20,
+            "sentence": 2,
+            "text": "vor",
+            "word": 2
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 174,
+            "id": 21,
+            "sentence": 2,
+            "text": "knapp",
+            "word": 3
+        },
+        {
+            "charBegin": 175,
+            "charEnd": 179,
+            "id": 22,
+            "sentence": 2,
+            "text": "drei",
+            "word": 4
+        },
+        {
+            "charBegin": 180,
+            "charEnd": 186,
+            "id": 23,
+            "sentence": 2,
+            "text": "Wochen",
+            "word": 5
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 190,
+            "id": 24,
+            "sentence": 2,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 201,
+            "id": 25,
+            "sentence": 2,
+            "text": "Freiburger",
+            "word": 7
+        },
+        {
+            "charBegin": 202,
+            "charEnd": 225,
+            "id": 26,
+            "sentence": 2,
+            "text": "Staudinger-Gesamtschule",
+            "word": 8
+        },
+        {
+            "charBegin": 226,
+            "charEnd": 231,
+            "id": 27,
+            "sentence": 2,
+            "text": "wegen",
+            "word": 9
+        },
+        {
+            "charBegin": 232,
+            "charEnd": 238,
+            "id": 28,
+            "sentence": 2,
+            "text": "Masern",
+            "word": 10
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 244,
+            "id": 29,
+            "sentence": 2,
+            "text": "ihren",
+            "word": 11
+        },
+        {
+            "charBegin": 245,
+            "charEnd": 257,
+            "id": 30,
+            "sentence": 2,
+            "text": "Schulbetrieb",
+            "word": 12
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 268,
+            "id": 31,
+            "sentence": 2,
+            "text": "weitgehend",
+            "word": 13
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 279,
+            "id": 32,
+            "sentence": 2,
+            "text": "einstellen",
+            "word": 14
+        },
+        {
+            "charBegin": 280,
+            "charEnd": 286,
+            "id": 33,
+            "sentence": 2,
+            "text": "musste",
+            "word": 15
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 287,
+            "id": 34,
+            "sentence": 2,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 294,
+            "id": 35,
+            "sentence": 2,
+            "text": "trifft",
+            "word": 17
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 297,
+            "id": 36,
+            "sentence": 2,
+            "text": "es",
+            "word": 18
+        },
+        {
+            "charBegin": 298,
+            "charEnd": 301,
+            "id": 37,
+            "sentence": 2,
+            "text": "nun",
+            "word": 19
+        },
+        {
+            "charBegin": 302,
+            "charEnd": 305,
+            "id": 38,
+            "sentence": 2,
+            "text": "die",
+            "word": 20
+        },
+        {
+            "charBegin": 306,
+            "charEnd": 322,
+            "id": 39,
+            "sentence": 2,
+            "text": "Max-Weber-Schule",
+            "word": 21
+        },
+        {
+            "charBegin": 322,
+            "charEnd": 323,
+            "id": 40,
+            "sentence": 2,
+            "text": ",",
+            "word": 22
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 327,
+            "id": 41,
+            "sentence": 2,
+            "text": "ein",
+            "word": 23
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 348,
+            "id": 42,
+            "sentence": 2,
+            "text": "Wirtschaftsgymnasium",
+            "word": 24
+        },
+        {
+            "charBegin": 348,
+            "charEnd": 349,
+            "id": 43,
+            "sentence": 2,
+            "text": ".",
+            "word": 25
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 352,
+            "id": 44,
+            "sentence": 3,
+            "text": "Da",
+            "word": 1
+        },
+        {
+            "charBegin": 353,
+            "charEnd": 356,
+            "id": 45,
+            "sentence": 3,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 360,
+            "id": 46,
+            "sentence": 3,
+            "text": "13.",
+            "word": 3
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 369,
+            "id": 47,
+            "sentence": 3,
+            "text": "Jahrgang",
+            "word": 4
+        },
+        {
+            "charBegin": 369,
+            "charEnd": 370,
+            "id": 48,
+            "sentence": 3,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 371,
+            "charEnd": 373,
+            "id": 49,
+            "sentence": 3,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 377,
+            "id": 50,
+            "sentence": 3,
+            "text": "dem",
+            "word": 7
+        },
+        {
+            "charBegin": 378,
+            "charEnd": 381,
+            "id": 51,
+            "sentence": 3,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 392,
+            "id": 52,
+            "sentence": 3,
+            "text": "Masernfall",
+            "word": 9
+        },
+        {
+            "charBegin": 393,
+            "charEnd": 404,
+            "id": 53,
+            "sentence": 3,
+            "text": "aufgetreten",
+            "word": 10
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 408,
+            "id": 54,
+            "sentence": 3,
+            "text": "ist",
+            "word": 11
+        },
+        {
+            "charBegin": 408,
+            "charEnd": 409,
+            "id": 55,
+            "sentence": 3,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 410,
+            "charEnd": 412,
+            "id": 56,
+            "sentence": 3,
+            "text": "in",
+            "word": 13
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 418,
+            "id": 57,
+            "sentence": 3,
+            "text": "einem",
+            "word": 14
+        },
+        {
+            "charBegin": 419,
+            "charEnd": 431,
+            "id": 58,
+            "sentence": 3,
+            "text": "abgetrennten",
+            "word": 15
+        },
+        {
+            "charBegin": 432,
+            "charEnd": 443,
+            "id": 59,
+            "sentence": 3,
+            "text": "Teilgebäude",
+            "word": 16
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 457,
+            "id": 60,
+            "sentence": 3,
+            "text": "untergebracht",
+            "word": 17
+        },
+        {
+            "charBegin": 458,
+            "charEnd": 461,
+            "id": 61,
+            "sentence": 3,
+            "text": "ist",
+            "word": 18
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 462,
+            "id": 62,
+            "sentence": 3,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 463,
+            "charEnd": 469,
+            "id": 63,
+            "sentence": 3,
+            "text": "musste",
+            "word": 20
+        },
+        {
+            "charBegin": 470,
+            "charEnd": 473,
+            "id": 64,
+            "sentence": 3,
+            "text": "nur",
+            "word": 21
+        },
+        {
+            "charBegin": 474,
+            "charEnd": 480,
+            "id": 65,
+            "sentence": 3,
+            "text": "dieser",
+            "word": 22
+        },
+        {
+            "charBegin": 481,
+            "charEnd": 492,
+            "id": 66,
+            "sentence": 3,
+            "text": "Gebäudeteil",
+            "word": 23
+        },
+        {
+            "charBegin": 493,
+            "charEnd": 504,
+            "id": 67,
+            "sentence": 3,
+            "text": "geschlossen",
+            "word": 24
+        },
+        {
+            "charBegin": 505,
+            "charEnd": 511,
+            "id": 68,
+            "sentence": 3,
+            "text": "werden",
+            "word": 25
+        },
+        {
+            "charBegin": 511,
+            "charEnd": 512,
+            "id": 69,
+            "sentence": 3,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 513,
+            "charEnd": 516,
+            "id": 70,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 517,
+            "charEnd": 526,
+            "id": 71,
+            "sentence": 4,
+            "text": "ebenfalls",
+            "word": 2
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 529,
+            "id": 72,
+            "sentence": 4,
+            "text": "in",
+            "word": 3
+        },
+        {
+            "charBegin": 530,
+            "charEnd": 536,
+            "id": 73,
+            "sentence": 4,
+            "text": "diesem",
+            "word": 4
+        },
+        {
+            "charBegin": 537,
+            "charEnd": 544,
+            "id": 74,
+            "sentence": 4,
+            "text": "Gebäude",
+            "word": 5
+        },
+        {
+            "charBegin": 545,
+            "charEnd": 559,
+            "id": 75,
+            "sentence": 4,
+            "text": "untergebrachte",
+            "word": 6
+        },
+        {
+            "charBegin": 560,
+            "charEnd": 563,
+            "id": 76,
+            "sentence": 4,
+            "text": "12.",
+            "word": 7
+        },
+        {
+            "charBegin": 564,
+            "charEnd": 578,
+            "id": 77,
+            "sentence": 4,
+            "text": "Jahrgangsstufe",
+            "word": 8
+        },
+        {
+            "charBegin": 579,
+            "charEnd": 582,
+            "id": 78,
+            "sentence": 4,
+            "text": "war",
+            "word": 9
+        },
+        {
+            "charBegin": 583,
+            "charEnd": 586,
+            "id": 79,
+            "sentence": 4,
+            "text": "zum",
+            "word": 10
+        },
+        {
+            "charBegin": 587,
+            "charEnd": 596,
+            "id": 80,
+            "sentence": 4,
+            "text": "Zeitpunkt",
+            "word": 11
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 600,
+            "id": 81,
+            "sentence": 4,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 601,
+            "charEnd": 616,
+            "id": 82,
+            "sentence": 4,
+            "text": "Maserninfektion",
+            "word": 13
+        },
+        {
+            "charBegin": 617,
+            "charEnd": 620,
+            "id": 83,
+            "sentence": 4,
+            "text": "auf",
+            "word": 14
+        },
+        {
+            "charBegin": 621,
+            "charEnd": 626,
+            "id": 84,
+            "sentence": 4,
+            "text": "einer",
+            "word": 15
+        },
+        {
+            "charBegin": 627,
+            "charEnd": 639,
+            "id": 85,
+            "sentence": 4,
+            "text": "Klassenfahrt",
+            "word": 16
+        },
+        {
+            "charBegin": 640,
+            "charEnd": 643,
+            "id": 86,
+            "sentence": 4,
+            "text": "und",
+            "word": 17
+        },
+        {
+            "charBegin": 644,
+            "charEnd": 647,
+            "id": 87,
+            "sentence": 4,
+            "text": "ist",
+            "word": 18
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 653,
+            "id": 88,
+            "sentence": 4,
+            "text": "daher",
+            "word": 19
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 659,
+            "id": 89,
+            "sentence": 4,
+            "text": "nicht",
+            "word": 20
+        },
+        {
+            "charBegin": 660,
+            "charEnd": 669,
+            "id": 90,
+            "sentence": 4,
+            "text": "betroffen",
+            "word": 21
+        },
+        {
+            "charBegin": 669,
+            "charEnd": 670,
+            "id": 91,
+            "sentence": 4,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 671,
+            "charEnd": 674,
+            "id": 92,
+            "sentence": 5,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 675,
+            "charEnd": 687,
+            "id": 93,
+            "sentence": 5,
+            "text": "Schulbetrieb",
+            "word": 2
+        },
+        {
+            "charBegin": 688,
+            "charEnd": 690,
+            "id": 94,
+            "sentence": 5,
+            "text": "an",
+            "word": 3
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 694,
+            "id": 95,
+            "sentence": 5,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 702,
+            "id": 96,
+            "sentence": 5,
+            "text": "übrigen",
+            "word": 5
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 709,
+            "id": 97,
+            "sentence": 5,
+            "text": "Schule",
+            "word": 6
+        },
+        {
+            "charBegin": 710,
+            "charEnd": 714,
+            "id": 98,
+            "sentence": 5,
+            "text": "geht",
+            "word": 7
+        },
+        {
+            "charBegin": 715,
+            "charEnd": 721,
+            "id": 99,
+            "sentence": 5,
+            "text": "weiter",
+            "word": 8
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 722,
+            "id": 100,
+            "sentence": 5,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 723,
+            "charEnd": 726,
+            "id": 101,
+            "sentence": 6,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 727,
+            "charEnd": 737,
+            "id": 102,
+            "sentence": 6,
+            "text": "betroffene",
+            "word": 2
+        },
+        {
+            "charBegin": 738,
+            "charEnd": 746,
+            "id": 103,
+            "sentence": 6,
+            "text": "Jahrgang",
+            "word": 3
+        },
+        {
+            "charBegin": 747,
+            "charEnd": 750,
+            "id": 104,
+            "sentence": 6,
+            "text": "hat",
+            "word": 4
+        },
+        {
+            "charBegin": 751,
+            "charEnd": 757,
+            "id": 105,
+            "sentence": 6,
+            "text": "jedoch",
+            "word": 5
+        },
+        {
+            "charBegin": 758,
+            "charEnd": 761,
+            "id": 106,
+            "sentence": 6,
+            "text": "vom",
+            "word": 6
+        },
+        {
+            "charBegin": 762,
+            "charEnd": 764,
+            "id": 107,
+            "sentence": 6,
+            "text": "5.",
+            "word": 7
+        },
+        {
+            "charBegin": 765,
+            "charEnd": 768,
+            "id": 108,
+            "sentence": 6,
+            "text": "bis",
+            "word": 8
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 772,
+            "id": 109,
+            "sentence": 6,
+            "text": "12.",
+            "word": 9
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 776,
+            "id": 110,
+            "sentence": 6,
+            "text": "Mai",
+            "word": 10
+        },
+        {
+            "charBegin": 777,
+            "charEnd": 778,
+            "id": 111,
+            "sentence": 6,
+            "text": "„",
+            "word": 11
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 788,
+            "id": 112,
+            "sentence": 6,
+            "text": "masernfrei",
+            "word": 12
+        },
+        {
+            "charBegin": 788,
+            "charEnd": 789,
+            "id": 113,
+            "sentence": 6,
+            "text": "“",
+            "word": 13
+        },
+        {
+            "charBegin": 789,
+            "charEnd": 790,
+            "id": 114,
+            "sentence": 6,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 793,
+            "charEnd": 796,
+            "id": 115,
+            "sentence": 7,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 797,
+            "charEnd": 813,
+            "id": 116,
+            "sentence": 7,
+            "text": "Masernerkrankung",
+            "word": 2
+        },
+        {
+            "charBegin": 814,
+            "charEnd": 817,
+            "id": 117,
+            "sentence": 7,
+            "text": "war",
+            "word": 3
+        },
+        {
+            "charBegin": 818,
+            "charEnd": 820,
+            "id": 118,
+            "sentence": 7,
+            "text": "am",
+            "word": 4
+        },
+        {
+            "charBegin": 821,
+            "charEnd": 827,
+            "id": 119,
+            "sentence": 7,
+            "text": "Montag",
+            "word": 5
+        },
+        {
+            "charBegin": 828,
+            "charEnd": 831,
+            "id": 120,
+            "sentence": 7,
+            "text": "dem",
+            "word": 6
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 846,
+            "id": 121,
+            "sentence": 7,
+            "text": "Gesundheitsamt",
+            "word": 7
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 857,
+            "id": 122,
+            "sentence": 7,
+            "text": "mitgeteilt",
+            "word": 8
+        },
+        {
+            "charBegin": 858,
+            "charEnd": 864,
+            "id": 123,
+            "sentence": 7,
+            "text": "worden",
+            "word": 9
+        },
+        {
+            "charBegin": 864,
+            "charEnd": 865,
+            "id": 124,
+            "sentence": 7,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 866,
+            "charEnd": 875,
+            "id": 125,
+            "sentence": 8,
+            "text": "Betroffen",
+            "word": 1
+        },
+        {
+            "charBegin": 876,
+            "charEnd": 879,
+            "id": 126,
+            "sentence": 8,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 880,
+            "charEnd": 883,
+            "id": 127,
+            "sentence": 8,
+            "text": "ein",
+            "word": 3
+        },
+        {
+            "charBegin": 884,
+            "charEnd": 891,
+            "id": 128,
+            "sentence": 8,
+            "text": "Schüler",
+            "word": 4
+        },
+        {
+            "charBegin": 891,
+            "charEnd": 892,
+            "id": 129,
+            "sentence": 8,
+            "text": ".",
+            "word": 5
+        },
+        {
+            "charBegin": 893,
+            "charEnd": 896,
+            "id": 130,
+            "sentence": 9,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 897,
+            "charEnd": 907,
+            "id": 131,
+            "sentence": 9,
+            "text": "städtische",
+            "word": 2
+        },
+        {
+            "charBegin": 908,
+            "charEnd": 911,
+            "id": 132,
+            "sentence": 9,
+            "text": "Amt",
+            "word": 3
+        },
+        {
+            "charBegin": 912,
+            "charEnd": 915,
+            "id": 133,
+            "sentence": 9,
+            "text": "für",
+            "word": 4
+        },
+        {
+            "charBegin": 916,
+            "charEnd": 927,
+            "id": 134,
+            "sentence": 9,
+            "text": "öffentliche",
+            "word": 5
+        },
+        {
+            "charBegin": 928,
+            "charEnd": 935,
+            "id": 135,
+            "sentence": 9,
+            "text": "Ordnung",
+            "word": 6
+        },
+        {
+            "charBegin": 936,
+            "charEnd": 942,
+            "id": 136,
+            "sentence": 9,
+            "text": "erließ",
+            "word": 7
+        },
+        {
+            "charBegin": 943,
+            "charEnd": 946,
+            "id": 137,
+            "sentence": 9,
+            "text": "ein",
+            "word": 8
+        },
+        {
+            "charBegin": 947,
+            "charEnd": 961,
+            "id": 138,
+            "sentence": 9,
+            "text": "Zutrittsverbot",
+            "word": 9
+        },
+        {
+            "charBegin": 962,
+            "charEnd": 965,
+            "id": 139,
+            "sentence": 9,
+            "text": "für",
+            "word": 10
+        },
+        {
+            "charBegin": 966,
+            "charEnd": 970,
+            "id": 140,
+            "sentence": 9,
+            "text": "alle",
+            "word": 11
+        },
+        {
+            "charBegin": 971,
+            "charEnd": 979,
+            "id": 141,
+            "sentence": 9,
+            "text": "Personen",
+            "word": 12
+        },
+        {
+            "charBegin": 979,
+            "charEnd": 980,
+            "id": 142,
+            "sentence": 9,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 981,
+            "charEnd": 984,
+            "id": 143,
+            "sentence": 9,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 985,
+            "charEnd": 989,
+            "id": 144,
+            "sentence": 9,
+            "text": "nach",
+            "word": 15
+        },
+        {
+            "charBegin": 990,
+            "charEnd": 993,
+            "id": 145,
+            "sentence": 9,
+            "text": "dem",
+            "word": 16
+        },
+        {
+            "charBegin": 994,
+            "charEnd": 996,
+            "id": 146,
+            "sentence": 9,
+            "text": "1.",
+            "word": 17
+        },
+        {
+            "charBegin": 997,
+            "charEnd": 1003,
+            "id": 147,
+            "sentence": 9,
+            "text": "Januar",
+            "word": 18
+        },
+        {
+            "charBegin": 1004,
+            "charEnd": 1008,
+            "id": 148,
+            "sentence": 9,
+            "text": "1973",
+            "word": 19
+        },
+        {
+            "charBegin": 1009,
+            "charEnd": 1016,
+            "id": 149,
+            "sentence": 9,
+            "text": "geboren",
+            "word": 20
+        },
+        {
+            "charBegin": 1017,
+            "charEnd": 1021,
+            "id": 150,
+            "sentence": 9,
+            "text": "sind",
+            "word": 21
+        },
+        {
+            "charBegin": 1022,
+            "charEnd": 1025,
+            "id": 151,
+            "sentence": 9,
+            "text": "und",
+            "word": 22
+        },
+        {
+            "charBegin": 1026,
+            "charEnd": 1032,
+            "id": 152,
+            "sentence": 9,
+            "text": "keinen",
+            "word": 23
+        },
+        {
+            "charBegin": 1033,
+            "charEnd": 1043,
+            "id": 153,
+            "sentence": 9,
+            "text": "Impfschutz",
+            "word": 24
+        },
+        {
+            "charBegin": 1044,
+            "charEnd": 1054,
+            "id": 154,
+            "sentence": 9,
+            "text": "nachweisen",
+            "word": 25
+        },
+        {
+            "charBegin": 1055,
+            "charEnd": 1061,
+            "id": 155,
+            "sentence": 9,
+            "text": "können",
+            "word": 26
+        },
+        {
+            "charBegin": 1061,
+            "charEnd": 1062,
+            "id": 156,
+            "sentence": 9,
+            "text": ".",
+            "word": 27
+        }
+    ]
+}

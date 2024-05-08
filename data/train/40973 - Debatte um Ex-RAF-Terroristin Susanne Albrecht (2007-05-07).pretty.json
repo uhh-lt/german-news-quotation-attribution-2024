@@ -1,0 +1,2517 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 54,
+                        "charBegin": 342,
+                        "charEnd": 390,
+                        "end": 63
+                    }
+                ],
+                "text": "Die CDU hatte zu dem Thema Aufklärung gefordert.",
+                "tokenIds": [
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 54,
+                        "charBegin": 342,
+                        "charEnd": 349,
+                        "end": 56
+                    }
+                ],
+                "text": "Die CDU",
+                "tokenIds": [
+                    54,
+                    55
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 63,
+                        "charBegin": 391,
+                        "charEnd": 395,
+                        "end": 64
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    63
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 63,
+                        "charBegin": 391,
+                        "charEnd": 453,
+                        "end": 69
+                    }
+                ],
+                "text": "Nach Auffassung des CDU-Fraktionsvorsitzenden Hartmut Perschau",
+                "tokenIds": [
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68
+                ]
+            },
+            "hasNested": true,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 69,
+                        "charBegin": 454,
+                        "charEnd": 558,
+                        "end": 85
+                    }
+                ],
+                "text": "sei es „völlig untragbar, dass unsere Kinder von einer verurteilten RAF-Terroristin unterrichtet werden“",
+                "tokenIds": [
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 64,
+                        "charBegin": 396,
+                        "charEnd": 453,
+                        "end": 69
+                    }
+                ],
+                "text": "Auffassung des CDU-Fraktionsvorsitzenden Hartmut Perschau",
+                "tokenIds": [
+                    64,
+                    65,
+                    66,
+                    67,
+                    68
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 63,
+                        "charBegin": 391,
+                        "charEnd": 395,
+                        "end": 64
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    63
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 63,
+                        "charBegin": 391,
+                        "charEnd": 453,
+                        "end": 69
+                    }
+                ],
+                "text": "Nach Auffassung des CDU-Fraktionsvorsitzenden Hartmut Perschau",
+                "tokenIds": [
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 71,
+                        "charBegin": 461,
+                        "charEnd": 558,
+                        "end": 85
+                    }
+                ],
+                "text": "„völlig untragbar, dass unsere Kinder von einer verurteilten RAF-Terroristin unterrichtet werden“",
+                "tokenIds": [
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 64,
+                        "charBegin": 396,
+                        "charEnd": 453,
+                        "end": 69
+                    }
+                ],
+                "text": "Auffassung des CDU-Fraktionsvorsitzenden Hartmut Perschau",
+                "tokenIds": [
+                    64,
+                    65,
+                    66,
+                    67,
+                    68
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 93,
+                        "charBegin": 600,
+                        "charEnd": 604,
+                        "end": 94
+                    },
+                    {
+                        "begin": 101,
+                        "charBegin": 658,
+                        "charEnd": 661,
+                        "end": 102
+                    }
+                ],
+                "text": "hält als",
+                "tokenIds": [
+                    93,
+                    101
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 86,
+                        "charBegin": 562,
+                        "charEnd": 661,
+                        "end": 102
+                    }
+                ],
+                "text": "Für Bildungssenator Willi Lemke (SPD) hält die Beschäftigung der Ex-Terroristin in einem Verein als",
+                "tokenIds": [
+                    86,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    101
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 102,
+                        "charBegin": 662,
+                        "charEnd": 704,
+                        "end": 108
+                    }
+                ],
+                "text": "„gelungenes Beispiel für Resozialisierung“",
+                "tokenIds": [
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 87,
+                        "charBegin": 566,
+                        "charEnd": 599,
+                        "end": 93
+                    }
+                ],
+                "text": "Bildungssenator Willi Lemke (SPD)",
+                "tokenIds": [
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 114,
+                        "charBegin": 741,
+                        "charEnd": 746,
+                        "end": 115
+                    }
+                ],
+                "text": "hofft",
+                "tokenIds": [
+                    114
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 109,
+                        "charBegin": 706,
+                        "charEnd": 747,
+                        "end": 116
+                    }
+                ],
+                "text": "Der Leiter der betreffenden Schule hofft,",
+                "tokenIds": [
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115
+                ]
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 116,
+                        "charBegin": 748,
+                        "charEnd": 773,
+                        "end": 121
+                    }
+                ],
+                "text": "die Frau halten zu können",
+                "tokenIds": [
+                    116,
+                    117,
+                    118,
+                    119,
+                    120
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 109,
+                        "charBegin": 706,
+                        "charEnd": 740,
+                        "end": 114
+                    }
+                ],
+                "text": "Der Leiter der betreffenden Schule",
+                "tokenIds": [
+                    109,
+                    110,
+                    111,
+                    112,
+                    113
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 176,
+                        "charBegin": 1104,
+                        "charEnd": 1111,
+                        "end": 178
+                    }
+                ],
+                "text": "die CDU",
+                "tokenIds": [
+                    176,
+                    177
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 175,
+                        "charBegin": 1097,
+                        "charEnd": 1103,
+                        "end": 176
+                    },
+                    {
+                        "begin": 178,
+                        "charBegin": 1112,
+                        "charEnd": 1115,
+                        "end": 179
+                    }
+                ],
+                "text": "warnte vor",
+                "tokenIds": [
+                    175,
+                    178
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 163,
+                        "charBegin": 1030,
+                        "charEnd": 1121,
+                        "end": 180
+                    }
+                ],
+                "text": "Der frühere Bürgermeister und Justizsenator, Henning Scherf (SPD), warnte die CDU vor einem",
+                "tokenIds": [
+                    163,
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    169,
+                    170,
+                    171,
+                    172,
+                    173,
+                    174,
+                    175,
+                    176,
+                    177,
+                    178,
+                    179
+                ]
+            },
+            "hasNested": false,
+            "id": 5,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 180,
+                        "charBegin": 1122,
+                        "charEnd": 1148,
+                        "end": 184
+                    }
+                ],
+                "text": "„populistischen Wahlkampf“",
+                "tokenIds": [
+                    180,
+                    181,
+                    182,
+                    183
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 163,
+                        "charBegin": 1030,
+                        "charEnd": 1095,
+                        "end": 174
+                    }
+                ],
+                "text": "Der frühere Bürgermeister und Justizsenator, Henning Scherf (SPD)",
+                "tokenIds": [
+                    163,
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    169,
+                    170,
+                    171,
+                    172,
+                    173
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "40973 - Debatte um Ex-RAF-Terroristin Susanne Albrecht (2007-05-07)",
+    "originalText": "Im Bremer Wahlkampf wenige Tage vor der Bürgerschaftswahl sorgt die Diskussion um die ehemalige RAF-Terroristin Susanne Albrecht weiter für Aufregung. Die Debatte um ihre Lehrtätigkeit an einer Bremer Grundschule hat zu einem verschärften Ton in der großen Koalition geführt. Am Freitag, dem 4. Mai, tagte der Rechtsausschuss des Parlaments. Die CDU hatte zu dem Thema Aufklärung gefordert. Nach Auffassung des CDU-Fraktionsvorsitzenden Hartmut Perschau sei es „völlig untragbar, dass unsere Kinder von einer verurteilten RAF-Terroristin unterrichtet werden“.\n \nFür Bildungssenator Willi Lemke (SPD) hält die Beschäftigung der Ex-Terroristin in einem Verein als „gelungenes Beispiel für Resozialisierung“. Der Leiter der betreffenden Schule hofft, die Frau halten zu können. Susanne Albrecht, die unter einem anderen Namen lebt, ist als Deutschlehrerin für Migrantenkinder beschäftigt. Sie hatte von 1991 an knapp sechs Jahre wegen Beihilfe zum Mord abgesessen. Der Rest ihrer zwölfjährigen Strafe wurde zur Bewährung ausgesetzt. Der frühere Bürgermeister und Justizsenator, Henning Scherf (SPD), warnte die CDU vor einem „populistischen Wahlkampf“.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 150,
+            "end": 21,
+            "id": 0,
+            "text": "Im Bremer Wahlkampf wenige Tage vor der Bürgerschaftswahl sorgt die Diskussion um die ehemalige RAF-Terroristin Susanne Albrecht weiter für Aufregung. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "Im",
+                "Bremer",
+                "Wahlkampf",
+                "wenige",
+                "Tage",
+                "vor",
+                "der",
+                "Bürgerschaftswahl",
+                "sorgt",
+                "die",
+                "Diskussion",
+                "um",
+                "die",
+                "ehemalige",
+                "RAF-Terroristin",
+                "Susanne",
+                "Albrecht",
+                "weiter",
+                "für",
+                "Aufregung",
+                "."
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 151,
+            "charEnd": 275,
+            "end": 41,
+            "id": 1,
+            "text": "Die Debatte um ihre Lehrtätigkeit an einer Bremer Grundschule hat zu einem verschärften Ton in der großen Koalition geführt. ",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40
+            ],
+            "tokens": [
+                "Die",
+                "Debatte",
+                "um",
+                "ihre",
+                "Lehrtätigkeit",
+                "an",
+                "einer",
+                "Bremer",
+                "Grundschule",
+                "hat",
+                "zu",
+                "einem",
+                "verschärften",
+                "Ton",
+                "in",
+                "der",
+                "großen",
+                "Koalition",
+                "geführt",
+                "."
+            ]
+        },
+        {
+            "begin": 41,
+            "charBegin": 276,
+            "charEnd": 341,
+            "end": 54,
+            "id": 2,
+            "text": "Am Freitag, dem 4. Mai, tagte der Rechtsausschuss des Parlaments. ",
+            "tokenIds": [
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53
+            ],
+            "tokens": [
+                "Am",
+                "Freitag",
+                ",",
+                "dem",
+                "4.",
+                "Mai",
+                ",",
+                "tagte",
+                "der",
+                "Rechtsausschuss",
+                "des",
+                "Parlaments",
+                "."
+            ]
+        },
+        {
+            "begin": 54,
+            "charBegin": 342,
+            "charEnd": 390,
+            "end": 63,
+            "id": 3,
+            "text": "Die CDU hatte zu dem Thema Aufklärung gefordert. ",
+            "tokenIds": [
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62
+            ],
+            "tokens": [
+                "Die",
+                "CDU",
+                "hatte",
+                "zu",
+                "dem",
+                "Thema",
+                "Aufklärung",
+                "gefordert",
+                "."
+            ]
+        },
+        {
+            "begin": 63,
+            "charBegin": 391,
+            "charEnd": 705,
+            "end": 109,
+            "id": 4,
+            "text": "Nach Auffassung des CDU-Fraktionsvorsitzenden Hartmut Perschau sei es „völlig untragbar, dass unsere Kinder von einer verurteilten RAF-Terroristin unterrichtet werden“.\n \nFür Bildungssenator Willi Lemke (SPD) hält die Beschäftigung der Ex-Terroristin in einem Verein als „gelungenes Beispiel für Resozialisierung“. ",
+            "tokenIds": [
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108
+            ],
+            "tokens": [
+                "Nach",
+                "Auffassung",
+                "des",
+                "CDU-Fraktionsvorsitzenden",
+                "Hartmut",
+                "Perschau",
+                "sei",
+                "es",
+                "„",
+                "völlig",
+                "untragbar",
+                ",",
+                "dass",
+                "unsere",
+                "Kinder",
+                "von",
+                "einer",
+                "verurteilten",
+                "RAF-Terroristin",
+                "unterrichtet",
+                "werden",
+                "“",
+                ".",
+                "Für",
+                "Bildungssenator",
+                "Willi",
+                "Lemke",
+                "(",
+                "SPD",
+                ")",
+                "hält",
+                "die",
+                "Beschäftigung",
+                "der",
+                "Ex-Terroristin",
+                "in",
+                "einem",
+                "Verein",
+                "als",
+                "„",
+                "gelungenes",
+                "Beispiel",
+                "für",
+                "Resozialisierung",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 109,
+            "charBegin": 706,
+            "charEnd": 774,
+            "end": 122,
+            "id": 5,
+            "text": "Der Leiter der betreffenden Schule hofft, die Frau halten zu können. ",
+            "tokenIds": [
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ],
+            "tokens": [
+                "Der",
+                "Leiter",
+                "der",
+                "betreffenden",
+                "Schule",
+                "hofft",
+                ",",
+                "die",
+                "Frau",
+                "halten",
+                "zu",
+                "können",
+                "."
+            ]
+        },
+        {
+            "begin": 122,
+            "charBegin": 775,
+            "charEnd": 885,
+            "end": 139,
+            "id": 6,
+            "text": "Susanne Albrecht, die unter einem anderen Namen lebt, ist als Deutschlehrerin für Migrantenkinder beschäftigt. ",
+            "tokenIds": [
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138
+            ],
+            "tokens": [
+                "Susanne",
+                "Albrecht",
+                ",",
+                "die",
+                "unter",
+                "einem",
+                "anderen",
+                "Namen",
+                "lebt",
+                ",",
+                "ist",
+                "als",
+                "Deutschlehrerin",
+                "für",
+                "Migrantenkinder",
+                "beschäftigt",
+                "."
+            ]
+        },
+        {
+            "begin": 139,
+            "charBegin": 886,
+            "charEnd": 961,
+            "end": 153,
+            "id": 7,
+            "text": "Sie hatte von 1991 an knapp sechs Jahre wegen Beihilfe zum Mord abgesessen. ",
+            "tokenIds": [
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152
+            ],
+            "tokens": [
+                "Sie",
+                "hatte",
+                "von",
+                "1991",
+                "an",
+                "knapp",
+                "sechs",
+                "Jahre",
+                "wegen",
+                "Beihilfe",
+                "zum",
+                "Mord",
+                "abgesessen",
+                "."
+            ]
+        },
+        {
+            "begin": 153,
+            "charBegin": 962,
+            "charEnd": 1029,
+            "end": 163,
+            "id": 8,
+            "text": "Der Rest ihrer zwölfjährigen Strafe wurde zur Bewährung ausgesetzt. ",
+            "tokenIds": [
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162
+            ],
+            "tokens": [
+                "Der",
+                "Rest",
+                "ihrer",
+                "zwölfjährigen",
+                "Strafe",
+                "wurde",
+                "zur",
+                "Bewährung",
+                "ausgesetzt",
+                "."
+            ]
+        },
+        {
+            "begin": 163,
+            "charBegin": 1030,
+            "charEnd": 1149,
+            "end": 185,
+            "id": 9,
+            "text": "Der frühere Bürgermeister und Justizsenator, Henning Scherf (SPD), warnte die CDU vor einem „populistischen Wahlkampf“.",
+            "tokenIds": [
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184
+            ],
+            "tokens": [
+                "Der",
+                "frühere",
+                "Bürgermeister",
+                "und",
+                "Justizsenator",
+                ",",
+                "Henning",
+                "Scherf",
+                "(",
+                "SPD",
+                ")",
+                ",",
+                "warnte",
+                "die",
+                "CDU",
+                "vor",
+                "einem",
+                "„",
+                "populistischen",
+                "Wahlkampf",
+                "“",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 9,
+            "id": 1,
+            "sentence": 1,
+            "text": "Bremer",
+            "word": 2
+        },
+        {
+            "charBegin": 10,
+            "charEnd": 19,
+            "id": 2,
+            "sentence": 1,
+            "text": "Wahlkampf",
+            "word": 3
+        },
+        {
+            "charBegin": 20,
+            "charEnd": 26,
+            "id": 3,
+            "sentence": 1,
+            "text": "wenige",
+            "word": 4
+        },
+        {
+            "charBegin": 27,
+            "charEnd": 31,
+            "id": 4,
+            "sentence": 1,
+            "text": "Tage",
+            "word": 5
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 35,
+            "id": 5,
+            "sentence": 1,
+            "text": "vor",
+            "word": 6
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 39,
+            "id": 6,
+            "sentence": 1,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 57,
+            "id": 7,
+            "sentence": 1,
+            "text": "Bürgerschaftswahl",
+            "word": 8
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 63,
+            "id": 8,
+            "sentence": 1,
+            "text": "sorgt",
+            "word": 9
+        },
+        {
+            "charBegin": 64,
+            "charEnd": 67,
+            "id": 9,
+            "sentence": 1,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 68,
+            "charEnd": 78,
+            "id": 10,
+            "sentence": 1,
+            "text": "Diskussion",
+            "word": 11
+        },
+        {
+            "charBegin": 79,
+            "charEnd": 81,
+            "id": 11,
+            "sentence": 1,
+            "text": "um",
+            "word": 12
+        },
+        {
+            "charBegin": 82,
+            "charEnd": 85,
+            "id": 12,
+            "sentence": 1,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 86,
+            "charEnd": 95,
+            "id": 13,
+            "sentence": 1,
+            "text": "ehemalige",
+            "word": 14
+        },
+        {
+            "charBegin": 96,
+            "charEnd": 111,
+            "id": 14,
+            "sentence": 1,
+            "text": "RAF-Terroristin",
+            "word": 15
+        },
+        {
+            "charBegin": 112,
+            "charEnd": 119,
+            "id": 15,
+            "sentence": 1,
+            "text": "Susanne",
+            "word": 16
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 128,
+            "id": 16,
+            "sentence": 1,
+            "text": "Albrecht",
+            "word": 17
+        },
+        {
+            "charBegin": 129,
+            "charEnd": 135,
+            "id": 17,
+            "sentence": 1,
+            "text": "weiter",
+            "word": 18
+        },
+        {
+            "charBegin": 136,
+            "charEnd": 139,
+            "id": 18,
+            "sentence": 1,
+            "text": "für",
+            "word": 19
+        },
+        {
+            "charBegin": 140,
+            "charEnd": 149,
+            "id": 19,
+            "sentence": 1,
+            "text": "Aufregung",
+            "word": 20
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 150,
+            "id": 20,
+            "sentence": 1,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 151,
+            "charEnd": 154,
+            "id": 21,
+            "sentence": 2,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 155,
+            "charEnd": 162,
+            "id": 22,
+            "sentence": 2,
+            "text": "Debatte",
+            "word": 2
+        },
+        {
+            "charBegin": 163,
+            "charEnd": 165,
+            "id": 23,
+            "sentence": 2,
+            "text": "um",
+            "word": 3
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 170,
+            "id": 24,
+            "sentence": 2,
+            "text": "ihre",
+            "word": 4
+        },
+        {
+            "charBegin": 171,
+            "charEnd": 184,
+            "id": 25,
+            "sentence": 2,
+            "text": "Lehrtätigkeit",
+            "word": 5
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 187,
+            "id": 26,
+            "sentence": 2,
+            "text": "an",
+            "word": 6
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 193,
+            "id": 27,
+            "sentence": 2,
+            "text": "einer",
+            "word": 7
+        },
+        {
+            "charBegin": 194,
+            "charEnd": 200,
+            "id": 28,
+            "sentence": 2,
+            "text": "Bremer",
+            "word": 8
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 212,
+            "id": 29,
+            "sentence": 2,
+            "text": "Grundschule",
+            "word": 9
+        },
+        {
+            "charBegin": 213,
+            "charEnd": 216,
+            "id": 30,
+            "sentence": 2,
+            "text": "hat",
+            "word": 10
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 219,
+            "id": 31,
+            "sentence": 2,
+            "text": "zu",
+            "word": 11
+        },
+        {
+            "charBegin": 220,
+            "charEnd": 225,
+            "id": 32,
+            "sentence": 2,
+            "text": "einem",
+            "word": 12
+        },
+        {
+            "charBegin": 226,
+            "charEnd": 238,
+            "id": 33,
+            "sentence": 2,
+            "text": "verschärften",
+            "word": 13
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 242,
+            "id": 34,
+            "sentence": 2,
+            "text": "Ton",
+            "word": 14
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 245,
+            "id": 35,
+            "sentence": 2,
+            "text": "in",
+            "word": 15
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 249,
+            "id": 36,
+            "sentence": 2,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 256,
+            "id": 37,
+            "sentence": 2,
+            "text": "großen",
+            "word": 17
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 266,
+            "id": 38,
+            "sentence": 2,
+            "text": "Koalition",
+            "word": 18
+        },
+        {
+            "charBegin": 267,
+            "charEnd": 274,
+            "id": 39,
+            "sentence": 2,
+            "text": "geführt",
+            "word": 19
+        },
+        {
+            "charBegin": 274,
+            "charEnd": 275,
+            "id": 40,
+            "sentence": 2,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 278,
+            "id": 41,
+            "sentence": 3,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 286,
+            "id": 42,
+            "sentence": 3,
+            "text": "Freitag",
+            "word": 2
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 287,
+            "id": 43,
+            "sentence": 3,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 291,
+            "id": 44,
+            "sentence": 3,
+            "text": "dem",
+            "word": 4
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 294,
+            "id": 45,
+            "sentence": 3,
+            "text": "4.",
+            "word": 5
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 298,
+            "id": 46,
+            "sentence": 3,
+            "text": "Mai",
+            "word": 6
+        },
+        {
+            "charBegin": 298,
+            "charEnd": 299,
+            "id": 47,
+            "sentence": 3,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 305,
+            "id": 48,
+            "sentence": 3,
+            "text": "tagte",
+            "word": 8
+        },
+        {
+            "charBegin": 306,
+            "charEnd": 309,
+            "id": 49,
+            "sentence": 3,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 310,
+            "charEnd": 325,
+            "id": 50,
+            "sentence": 3,
+            "text": "Rechtsausschuss",
+            "word": 10
+        },
+        {
+            "charBegin": 326,
+            "charEnd": 329,
+            "id": 51,
+            "sentence": 3,
+            "text": "des",
+            "word": 11
+        },
+        {
+            "charBegin": 330,
+            "charEnd": 340,
+            "id": 52,
+            "sentence": 3,
+            "text": "Parlaments",
+            "word": 12
+        },
+        {
+            "charBegin": 340,
+            "charEnd": 341,
+            "id": 53,
+            "sentence": 3,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 345,
+            "id": 54,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 349,
+            "id": 55,
+            "sentence": 4,
+            "text": "CDU",
+            "word": 2
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 355,
+            "id": 56,
+            "sentence": 4,
+            "text": "hatte",
+            "word": 3
+        },
+        {
+            "charBegin": 356,
+            "charEnd": 358,
+            "id": 57,
+            "sentence": 4,
+            "text": "zu",
+            "word": 4
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 362,
+            "id": 58,
+            "sentence": 4,
+            "text": "dem",
+            "word": 5
+        },
+        {
+            "charBegin": 363,
+            "charEnd": 368,
+            "id": 59,
+            "sentence": 4,
+            "text": "Thema",
+            "word": 6
+        },
+        {
+            "charBegin": 369,
+            "charEnd": 379,
+            "id": 60,
+            "sentence": 4,
+            "text": "Aufklärung",
+            "word": 7
+        },
+        {
+            "charBegin": 380,
+            "charEnd": 389,
+            "id": 61,
+            "sentence": 4,
+            "text": "gefordert",
+            "word": 8
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 390,
+            "id": 62,
+            "sentence": 4,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 391,
+            "charEnd": 395,
+            "id": 63,
+            "sentence": 5,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 396,
+            "charEnd": 406,
+            "id": 64,
+            "sentence": 5,
+            "text": "Auffassung",
+            "word": 2
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 410,
+            "id": 65,
+            "sentence": 5,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 411,
+            "charEnd": 436,
+            "id": 66,
+            "sentence": 5,
+            "text": "CDU-Fraktionsvorsitzenden",
+            "word": 4
+        },
+        {
+            "charBegin": 437,
+            "charEnd": 444,
+            "id": 67,
+            "sentence": 5,
+            "text": "Hartmut",
+            "word": 5
+        },
+        {
+            "charBegin": 445,
+            "charEnd": 453,
+            "id": 68,
+            "sentence": 5,
+            "text": "Perschau",
+            "word": 6
+        },
+        {
+            "charBegin": 454,
+            "charEnd": 457,
+            "id": 69,
+            "sentence": 5,
+            "text": "sei",
+            "word": 7
+        },
+        {
+            "charBegin": 458,
+            "charEnd": 460,
+            "id": 70,
+            "sentence": 5,
+            "text": "es",
+            "word": 8
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 462,
+            "id": 71,
+            "sentence": 5,
+            "text": "„",
+            "word": 9
+        },
+        {
+            "charBegin": 462,
+            "charEnd": 468,
+            "id": 72,
+            "sentence": 5,
+            "text": "völlig",
+            "word": 10
+        },
+        {
+            "charBegin": 469,
+            "charEnd": 478,
+            "id": 73,
+            "sentence": 5,
+            "text": "untragbar",
+            "word": 11
+        },
+        {
+            "charBegin": 478,
+            "charEnd": 479,
+            "id": 74,
+            "sentence": 5,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 480,
+            "charEnd": 484,
+            "id": 75,
+            "sentence": 5,
+            "text": "dass",
+            "word": 13
+        },
+        {
+            "charBegin": 485,
+            "charEnd": 491,
+            "id": 76,
+            "sentence": 5,
+            "text": "unsere",
+            "word": 14
+        },
+        {
+            "charBegin": 492,
+            "charEnd": 498,
+            "id": 77,
+            "sentence": 5,
+            "text": "Kinder",
+            "word": 15
+        },
+        {
+            "charBegin": 499,
+            "charEnd": 502,
+            "id": 78,
+            "sentence": 5,
+            "text": "von",
+            "word": 16
+        },
+        {
+            "charBegin": 503,
+            "charEnd": 508,
+            "id": 79,
+            "sentence": 5,
+            "text": "einer",
+            "word": 17
+        },
+        {
+            "charBegin": 509,
+            "charEnd": 521,
+            "id": 80,
+            "sentence": 5,
+            "text": "verurteilten",
+            "word": 18
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 537,
+            "id": 81,
+            "sentence": 5,
+            "text": "RAF-Terroristin",
+            "word": 19
+        },
+        {
+            "charBegin": 538,
+            "charEnd": 550,
+            "id": 82,
+            "sentence": 5,
+            "text": "unterrichtet",
+            "word": 20
+        },
+        {
+            "charBegin": 551,
+            "charEnd": 557,
+            "id": 83,
+            "sentence": 5,
+            "text": "werden",
+            "word": 21
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 558,
+            "id": 84,
+            "sentence": 5,
+            "text": "“",
+            "word": 22
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 559,
+            "id": 85,
+            "sentence": 5,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 562,
+            "charEnd": 565,
+            "id": 86,
+            "sentence": 5,
+            "text": "Für",
+            "word": 24
+        },
+        {
+            "charBegin": 566,
+            "charEnd": 581,
+            "id": 87,
+            "sentence": 5,
+            "text": "Bildungssenator",
+            "word": 25
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 587,
+            "id": 88,
+            "sentence": 5,
+            "text": "Willi",
+            "word": 26
+        },
+        {
+            "charBegin": 588,
+            "charEnd": 593,
+            "id": 89,
+            "sentence": 5,
+            "text": "Lemke",
+            "word": 27
+        },
+        {
+            "charBegin": 594,
+            "charEnd": 595,
+            "id": 90,
+            "sentence": 5,
+            "text": "(",
+            "word": 28
+        },
+        {
+            "charBegin": 595,
+            "charEnd": 598,
+            "id": 91,
+            "sentence": 5,
+            "text": "SPD",
+            "word": 29
+        },
+        {
+            "charBegin": 598,
+            "charEnd": 599,
+            "id": 92,
+            "sentence": 5,
+            "text": ")",
+            "word": 30
+        },
+        {
+            "charBegin": 600,
+            "charEnd": 604,
+            "id": 93,
+            "sentence": 5,
+            "text": "hält",
+            "word": 31
+        },
+        {
+            "charBegin": 605,
+            "charEnd": 608,
+            "id": 94,
+            "sentence": 5,
+            "text": "die",
+            "word": 32
+        },
+        {
+            "charBegin": 609,
+            "charEnd": 622,
+            "id": 95,
+            "sentence": 5,
+            "text": "Beschäftigung",
+            "word": 33
+        },
+        {
+            "charBegin": 623,
+            "charEnd": 626,
+            "id": 96,
+            "sentence": 5,
+            "text": "der",
+            "word": 34
+        },
+        {
+            "charBegin": 627,
+            "charEnd": 641,
+            "id": 97,
+            "sentence": 5,
+            "text": "Ex-Terroristin",
+            "word": 35
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 644,
+            "id": 98,
+            "sentence": 5,
+            "text": "in",
+            "word": 36
+        },
+        {
+            "charBegin": 645,
+            "charEnd": 650,
+            "id": 99,
+            "sentence": 5,
+            "text": "einem",
+            "word": 37
+        },
+        {
+            "charBegin": 651,
+            "charEnd": 657,
+            "id": 100,
+            "sentence": 5,
+            "text": "Verein",
+            "word": 38
+        },
+        {
+            "charBegin": 658,
+            "charEnd": 661,
+            "id": 101,
+            "sentence": 5,
+            "text": "als",
+            "word": 39
+        },
+        {
+            "charBegin": 662,
+            "charEnd": 663,
+            "id": 102,
+            "sentence": 5,
+            "text": "„",
+            "word": 40
+        },
+        {
+            "charBegin": 663,
+            "charEnd": 673,
+            "id": 103,
+            "sentence": 5,
+            "text": "gelungenes",
+            "word": 41
+        },
+        {
+            "charBegin": 674,
+            "charEnd": 682,
+            "id": 104,
+            "sentence": 5,
+            "text": "Beispiel",
+            "word": 42
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 686,
+            "id": 105,
+            "sentence": 5,
+            "text": "für",
+            "word": 43
+        },
+        {
+            "charBegin": 687,
+            "charEnd": 703,
+            "id": 106,
+            "sentence": 5,
+            "text": "Resozialisierung",
+            "word": 44
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 704,
+            "id": 107,
+            "sentence": 5,
+            "text": "“",
+            "word": 45
+        },
+        {
+            "charBegin": 704,
+            "charEnd": 705,
+            "id": 108,
+            "sentence": 5,
+            "text": ".",
+            "word": 46
+        },
+        {
+            "charBegin": 706,
+            "charEnd": 709,
+            "id": 109,
+            "sentence": 6,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 710,
+            "charEnd": 716,
+            "id": 110,
+            "sentence": 6,
+            "text": "Leiter",
+            "word": 2
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 720,
+            "id": 111,
+            "sentence": 6,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 733,
+            "id": 112,
+            "sentence": 6,
+            "text": "betreffenden",
+            "word": 4
+        },
+        {
+            "charBegin": 734,
+            "charEnd": 740,
+            "id": 113,
+            "sentence": 6,
+            "text": "Schule",
+            "word": 5
+        },
+        {
+            "charBegin": 741,
+            "charEnd": 746,
+            "id": 114,
+            "sentence": 6,
+            "text": "hofft",
+            "word": 6
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 747,
+            "id": 115,
+            "sentence": 6,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 751,
+            "id": 116,
+            "sentence": 6,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 752,
+            "charEnd": 756,
+            "id": 117,
+            "sentence": 6,
+            "text": "Frau",
+            "word": 9
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 763,
+            "id": 118,
+            "sentence": 6,
+            "text": "halten",
+            "word": 10
+        },
+        {
+            "charBegin": 764,
+            "charEnd": 766,
+            "id": 119,
+            "sentence": 6,
+            "text": "zu",
+            "word": 11
+        },
+        {
+            "charBegin": 767,
+            "charEnd": 773,
+            "id": 120,
+            "sentence": 6,
+            "text": "können",
+            "word": 12
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 774,
+            "id": 121,
+            "sentence": 6,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 782,
+            "id": 122,
+            "sentence": 7,
+            "text": "Susanne",
+            "word": 1
+        },
+        {
+            "charBegin": 783,
+            "charEnd": 791,
+            "id": 123,
+            "sentence": 7,
+            "text": "Albrecht",
+            "word": 2
+        },
+        {
+            "charBegin": 791,
+            "charEnd": 792,
+            "id": 124,
+            "sentence": 7,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 793,
+            "charEnd": 796,
+            "id": 125,
+            "sentence": 7,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 797,
+            "charEnd": 802,
+            "id": 126,
+            "sentence": 7,
+            "text": "unter",
+            "word": 5
+        },
+        {
+            "charBegin": 803,
+            "charEnd": 808,
+            "id": 127,
+            "sentence": 7,
+            "text": "einem",
+            "word": 6
+        },
+        {
+            "charBegin": 809,
+            "charEnd": 816,
+            "id": 128,
+            "sentence": 7,
+            "text": "anderen",
+            "word": 7
+        },
+        {
+            "charBegin": 817,
+            "charEnd": 822,
+            "id": 129,
+            "sentence": 7,
+            "text": "Namen",
+            "word": 8
+        },
+        {
+            "charBegin": 823,
+            "charEnd": 827,
+            "id": 130,
+            "sentence": 7,
+            "text": "lebt",
+            "word": 9
+        },
+        {
+            "charBegin": 827,
+            "charEnd": 828,
+            "id": 131,
+            "sentence": 7,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 829,
+            "charEnd": 832,
+            "id": 132,
+            "sentence": 7,
+            "text": "ist",
+            "word": 11
+        },
+        {
+            "charBegin": 833,
+            "charEnd": 836,
+            "id": 133,
+            "sentence": 7,
+            "text": "als",
+            "word": 12
+        },
+        {
+            "charBegin": 837,
+            "charEnd": 852,
+            "id": 134,
+            "sentence": 7,
+            "text": "Deutschlehrerin",
+            "word": 13
+        },
+        {
+            "charBegin": 853,
+            "charEnd": 856,
+            "id": 135,
+            "sentence": 7,
+            "text": "für",
+            "word": 14
+        },
+        {
+            "charBegin": 857,
+            "charEnd": 872,
+            "id": 136,
+            "sentence": 7,
+            "text": "Migrantenkinder",
+            "word": 15
+        },
+        {
+            "charBegin": 873,
+            "charEnd": 884,
+            "id": 137,
+            "sentence": 7,
+            "text": "beschäftigt",
+            "word": 16
+        },
+        {
+            "charBegin": 884,
+            "charEnd": 885,
+            "id": 138,
+            "sentence": 7,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 886,
+            "charEnd": 889,
+            "id": 139,
+            "sentence": 8,
+            "text": "Sie",
+            "word": 1
+        },
+        {
+            "charBegin": 890,
+            "charEnd": 895,
+            "id": 140,
+            "sentence": 8,
+            "text": "hatte",
+            "word": 2
+        },
+        {
+            "charBegin": 896,
+            "charEnd": 899,
+            "id": 141,
+            "sentence": 8,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 900,
+            "charEnd": 904,
+            "id": 142,
+            "sentence": 8,
+            "text": "1991",
+            "word": 4
+        },
+        {
+            "charBegin": 905,
+            "charEnd": 907,
+            "id": 143,
+            "sentence": 8,
+            "text": "an",
+            "word": 5
+        },
+        {
+            "charBegin": 908,
+            "charEnd": 913,
+            "id": 144,
+            "sentence": 8,
+            "text": "knapp",
+            "word": 6
+        },
+        {
+            "charBegin": 914,
+            "charEnd": 919,
+            "id": 145,
+            "sentence": 8,
+            "text": "sechs",
+            "word": 7
+        },
+        {
+            "charBegin": 920,
+            "charEnd": 925,
+            "id": 146,
+            "sentence": 8,
+            "text": "Jahre",
+            "word": 8
+        },
+        {
+            "charBegin": 926,
+            "charEnd": 931,
+            "id": 147,
+            "sentence": 8,
+            "text": "wegen",
+            "word": 9
+        },
+        {
+            "charBegin": 932,
+            "charEnd": 940,
+            "id": 148,
+            "sentence": 8,
+            "text": "Beihilfe",
+            "word": 10
+        },
+        {
+            "charBegin": 941,
+            "charEnd": 944,
+            "id": 149,
+            "sentence": 8,
+            "text": "zum",
+            "word": 11
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 949,
+            "id": 150,
+            "sentence": 8,
+            "text": "Mord",
+            "word": 12
+        },
+        {
+            "charBegin": 950,
+            "charEnd": 960,
+            "id": 151,
+            "sentence": 8,
+            "text": "abgesessen",
+            "word": 13
+        },
+        {
+            "charBegin": 960,
+            "charEnd": 961,
+            "id": 152,
+            "sentence": 8,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 962,
+            "charEnd": 965,
+            "id": 153,
+            "sentence": 9,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 966,
+            "charEnd": 970,
+            "id": 154,
+            "sentence": 9,
+            "text": "Rest",
+            "word": 2
+        },
+        {
+            "charBegin": 971,
+            "charEnd": 976,
+            "id": 155,
+            "sentence": 9,
+            "text": "ihrer",
+            "word": 3
+        },
+        {
+            "charBegin": 977,
+            "charEnd": 990,
+            "id": 156,
+            "sentence": 9,
+            "text": "zwölfjährigen",
+            "word": 4
+        },
+        {
+            "charBegin": 991,
+            "charEnd": 997,
+            "id": 157,
+            "sentence": 9,
+            "text": "Strafe",
+            "word": 5
+        },
+        {
+            "charBegin": 998,
+            "charEnd": 1003,
+            "id": 158,
+            "sentence": 9,
+            "text": "wurde",
+            "word": 6
+        },
+        {
+            "charBegin": 1004,
+            "charEnd": 1007,
+            "id": 159,
+            "sentence": 9,
+            "text": "zur",
+            "word": 7
+        },
+        {
+            "charBegin": 1008,
+            "charEnd": 1017,
+            "id": 160,
+            "sentence": 9,
+            "text": "Bewährung",
+            "word": 8
+        },
+        {
+            "charBegin": 1018,
+            "charEnd": 1028,
+            "id": 161,
+            "sentence": 9,
+            "text": "ausgesetzt",
+            "word": 9
+        },
+        {
+            "charBegin": 1028,
+            "charEnd": 1029,
+            "id": 162,
+            "sentence": 9,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 1030,
+            "charEnd": 1033,
+            "id": 163,
+            "sentence": 10,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1034,
+            "charEnd": 1041,
+            "id": 164,
+            "sentence": 10,
+            "text": "frühere",
+            "word": 2
+        },
+        {
+            "charBegin": 1042,
+            "charEnd": 1055,
+            "id": 165,
+            "sentence": 10,
+            "text": "Bürgermeister",
+            "word": 3
+        },
+        {
+            "charBegin": 1056,
+            "charEnd": 1059,
+            "id": 166,
+            "sentence": 10,
+            "text": "und",
+            "word": 4
+        },
+        {
+            "charBegin": 1060,
+            "charEnd": 1073,
+            "id": 167,
+            "sentence": 10,
+            "text": "Justizsenator",
+            "word": 5
+        },
+        {
+            "charBegin": 1073,
+            "charEnd": 1074,
+            "id": 168,
+            "sentence": 10,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 1075,
+            "charEnd": 1082,
+            "id": 169,
+            "sentence": 10,
+            "text": "Henning",
+            "word": 7
+        },
+        {
+            "charBegin": 1083,
+            "charEnd": 1089,
+            "id": 170,
+            "sentence": 10,
+            "text": "Scherf",
+            "word": 8
+        },
+        {
+            "charBegin": 1090,
+            "charEnd": 1091,
+            "id": 171,
+            "sentence": 10,
+            "text": "(",
+            "word": 9
+        },
+        {
+            "charBegin": 1091,
+            "charEnd": 1094,
+            "id": 172,
+            "sentence": 10,
+            "text": "SPD",
+            "word": 10
+        },
+        {
+            "charBegin": 1094,
+            "charEnd": 1095,
+            "id": 173,
+            "sentence": 10,
+            "text": ")",
+            "word": 11
+        },
+        {
+            "charBegin": 1095,
+            "charEnd": 1096,
+            "id": 174,
+            "sentence": 10,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 1097,
+            "charEnd": 1103,
+            "id": 175,
+            "sentence": 10,
+            "text": "warnte",
+            "word": 13
+        },
+        {
+            "charBegin": 1104,
+            "charEnd": 1107,
+            "id": 176,
+            "sentence": 10,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 1108,
+            "charEnd": 1111,
+            "id": 177,
+            "sentence": 10,
+            "text": "CDU",
+            "word": 15
+        },
+        {
+            "charBegin": 1112,
+            "charEnd": 1115,
+            "id": 178,
+            "sentence": 10,
+            "text": "vor",
+            "word": 16
+        },
+        {
+            "charBegin": 1116,
+            "charEnd": 1121,
+            "id": 179,
+            "sentence": 10,
+            "text": "einem",
+            "word": 17
+        },
+        {
+            "charBegin": 1122,
+            "charEnd": 1123,
+            "id": 180,
+            "sentence": 10,
+            "text": "„",
+            "word": 18
+        },
+        {
+            "charBegin": 1123,
+            "charEnd": 1137,
+            "id": 181,
+            "sentence": 10,
+            "text": "populistischen",
+            "word": 19
+        },
+        {
+            "charBegin": 1138,
+            "charEnd": 1147,
+            "id": 182,
+            "sentence": 10,
+            "text": "Wahlkampf",
+            "word": 20
+        },
+        {
+            "charBegin": 1147,
+            "charEnd": 1148,
+            "id": 183,
+            "sentence": 10,
+            "text": "“",
+            "word": 21
+        },
+        {
+            "charBegin": 1148,
+            "charEnd": 1149,
+            "id": 184,
+            "sentence": 10,
+            "text": ".",
+            "word": 22
+        }
+    ]
+}

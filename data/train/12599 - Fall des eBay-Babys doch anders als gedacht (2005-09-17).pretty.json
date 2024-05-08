@@ -1,0 +1,2213 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 46,
+                        "charBegin": 275,
+                        "charEnd": 285,
+                        "end": 48
+                    }
+                ],
+                "text": "der Presse",
+                "tokenIds": [
+                    46,
+                    47
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 42,
+                        "charBegin": 247,
+                        "charEnd": 252,
+                        "end": 43
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    42
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 34,
+                        "charBegin": 206,
+                        "charEnd": 286,
+                        "end": 49
+                    }
+                ],
+                "text": "Ein Sprecher der Polizei, Lars Beringer, sagte heute Abend gegenüber der Presse,",
+                "tokenIds": [
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48
+                ]
+            },
+            "hasNested": true,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 49,
+                        "charBegin": 287,
+                        "charEnd": 396,
+                        "end": 67
+                    }
+                ],
+                "text": "nach neuesten Erkenntnissen habe ein Unbekannter den Namen der Frau verwendet, um ihr Kind in eBay anzubieten",
+                "tokenIds": [
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 34,
+                        "charBegin": 206,
+                        "charEnd": 245,
+                        "end": 41
+                    }
+                ],
+                "text": "Ein Sprecher der Polizei, Lars Beringer",
+                "tokenIds": [
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 49,
+                        "charBegin": 287,
+                        "charEnd": 291,
+                        "end": 50
+                    }
+                ],
+                "text": "nach",
+                "tokenIds": [
+                    49
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 49,
+                        "charBegin": 287,
+                        "charEnd": 314,
+                        "end": 52
+                    }
+                ],
+                "text": "nach neuesten Erkenntnissen",
+                "tokenIds": [
+                    49,
+                    50,
+                    51
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": true,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 52,
+                        "charBegin": 315,
+                        "charEnd": 396,
+                        "end": 67
+                    }
+                ],
+                "text": "habe ein Unbekannter den Namen der Frau verwendet, um ihr Kind in eBay anzubieten",
+                "tokenIds": [
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 50,
+                        "charBegin": 292,
+                        "charEnd": 314,
+                        "end": 52
+                    }
+                ],
+                "text": "neuesten Erkenntnissen",
+                "tokenIds": [
+                    50,
+                    51
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": true,
+            "id": 2,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 101,
+                        "charBegin": 584,
+                        "charEnd": 985,
+                        "end": 168
+                    }
+                ],
+                "text": "Am morgigen Sonntag wollte die Familie nach Hannover zurückkehren und die Angelegenheit mit der Polizei klären. Dies wäre nicht der erste Fall der Familie gewesen, bei dem in ihrem Namen ein Inserat bei eBay geschaltet wurde. Bereits einige Zeit zuvor wäre im Namen einer älteren Tochter der Familie ein Inserat in eBay erschienen, welches ebenfalls von einer unbekannten Person geschaltet worden war.",
+                "tokenIds": [
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    162,
+                    163,
+                    164,
+                    165,
+                    166,
+                    167
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 34,
+                        "charBegin": 206,
+                        "charEnd": 245,
+                        "end": 41
+                    }
+                ],
+                "text": "Ein Sprecher der Polizei, Lars Beringer",
+                "tokenIds": [
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 118,
+                        "charBegin": 696,
+                        "charEnd": 985,
+                        "end": 168
+                    }
+                ],
+                "text": "Dies wäre nicht der erste Fall der Familie gewesen, bei dem in ihrem Namen ein Inserat bei eBay geschaltet wurde. Bereits einige Zeit zuvor wäre im Namen einer älteren Tochter der Familie ein Inserat in eBay erschienen, welches ebenfalls von einer unbekannten Person geschaltet worden war.",
+                "tokenIds": [
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    162,
+                    163,
+                    164,
+                    165,
+                    166,
+                    167
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 34,
+                        "charBegin": 206,
+                        "charEnd": 245,
+                        "end": 41
+                    }
+                ],
+                "text": "Ein Sprecher der Polizei, Lars Beringer",
+                "tokenIds": [
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        }
+    ],
+    "documentName": "12599 - Fall des eBay-Babys doch anders als gedacht (2005-09-17)",
+    "originalText": "Es war vermutlich doch nicht die 35-jährige Frau aus Hannover, die ihr vier Monate altes Kind für 10.000 € beim Onlineaktionshaus eBay angeboten hatte. Die Sachlage hat sich gestern überraschend geändert.\n\nEin Sprecher der Polizei, Lars Beringer, sagte heute Abend gegenüber der Presse, nach neuesten Erkenntnissen habe ein Unbekannter den Namen der Frau verwendet, um ihr Kind in eBay anzubieten. Die Familie befindet sich derzeit im Urlaub und hat dort über die Medien von dem Angebot in eBay erfahren. Danach hatte die Frau sofort Kontakt mit der Polizei in Hannover aufgenommen.\n\nAm morgigen Sonntag wollte die Familie nach Hannover zurückkehren und die Angelegenheit mit der Polizei klären. Dies wäre nicht der erste Fall der Familie gewesen, bei dem in ihrem Namen ein Inserat bei eBay geschaltet wurde. Bereits einige Zeit zuvor wäre im Namen einer älteren Tochter der Familie ein Inserat in eBay erschienen, welches ebenfalls von einer unbekannten Person geschaltet worden war.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 151,
+            "end": 26,
+            "id": 0,
+            "text": "Es war vermutlich doch nicht die 35-jährige Frau aus Hannover, die ihr vier Monate altes Kind für 10.000 € beim Onlineaktionshaus eBay angeboten hatte. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "tokens": [
+                "Es",
+                "war",
+                "vermutlich",
+                "doch",
+                "nicht",
+                "die",
+                "35-jährige",
+                "Frau",
+                "aus",
+                "Hannover",
+                ",",
+                "die",
+                "ihr",
+                "vier",
+                "Monate",
+                "altes",
+                "Kind",
+                "für",
+                "10.000",
+                "€",
+                "beim",
+                "Onlineaktionshaus",
+                "eBay",
+                "angeboten",
+                "hatte",
+                "."
+            ]
+        },
+        {
+            "begin": 26,
+            "charBegin": 152,
+            "charEnd": 204,
+            "end": 34,
+            "id": 1,
+            "text": "Die Sachlage hat sich gestern überraschend geändert.",
+            "tokenIds": [
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33
+            ],
+            "tokens": [
+                "Die",
+                "Sachlage",
+                "hat",
+                "sich",
+                "gestern",
+                "überraschend",
+                "geändert",
+                "."
+            ]
+        },
+        {
+            "begin": 34,
+            "charBegin": 206,
+            "charEnd": 397,
+            "end": 68,
+            "id": 2,
+            "text": "Ein Sprecher der Polizei, Lars Beringer, sagte heute Abend gegenüber der Presse, nach neuesten Erkenntnissen habe ein Unbekannter den Namen der Frau verwendet, um ihr Kind in eBay anzubieten. ",
+            "tokenIds": [
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67
+            ],
+            "tokens": [
+                "Ein",
+                "Sprecher",
+                "der",
+                "Polizei",
+                ",",
+                "Lars",
+                "Beringer",
+                ",",
+                "sagte",
+                "heute",
+                "Abend",
+                "gegenüber",
+                "der",
+                "Presse",
+                ",",
+                "nach",
+                "neuesten",
+                "Erkenntnissen",
+                "habe",
+                "ein",
+                "Unbekannter",
+                "den",
+                "Namen",
+                "der",
+                "Frau",
+                "verwendet",
+                ",",
+                "um",
+                "ihr",
+                "Kind",
+                "in",
+                "eBay",
+                "anzubieten",
+                "."
+            ]
+        },
+        {
+            "begin": 68,
+            "charBegin": 398,
+            "charEnd": 504,
+            "end": 88,
+            "id": 3,
+            "text": "Die Familie befindet sich derzeit im Urlaub und hat dort über die Medien von dem Angebot in eBay erfahren. ",
+            "tokenIds": [
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "tokens": [
+                "Die",
+                "Familie",
+                "befindet",
+                "sich",
+                "derzeit",
+                "im",
+                "Urlaub",
+                "und",
+                "hat",
+                "dort",
+                "über",
+                "die",
+                "Medien",
+                "von",
+                "dem",
+                "Angebot",
+                "in",
+                "eBay",
+                "erfahren",
+                "."
+            ]
+        },
+        {
+            "begin": 88,
+            "charBegin": 505,
+            "charEnd": 582,
+            "end": 101,
+            "id": 4,
+            "text": "Danach hatte die Frau sofort Kontakt mit der Polizei in Hannover aufgenommen.",
+            "tokenIds": [
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100
+            ],
+            "tokens": [
+                "Danach",
+                "hatte",
+                "die",
+                "Frau",
+                "sofort",
+                "Kontakt",
+                "mit",
+                "der",
+                "Polizei",
+                "in",
+                "Hannover",
+                "aufgenommen",
+                "."
+            ]
+        },
+        {
+            "begin": 101,
+            "charBegin": 584,
+            "charEnd": 695,
+            "end": 118,
+            "id": 5,
+            "text": "Am morgigen Sonntag wollte die Familie nach Hannover zurückkehren und die Angelegenheit mit der Polizei klären. ",
+            "tokenIds": [
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117
+            ],
+            "tokens": [
+                "Am",
+                "morgigen",
+                "Sonntag",
+                "wollte",
+                "die",
+                "Familie",
+                "nach",
+                "Hannover",
+                "zurückkehren",
+                "und",
+                "die",
+                "Angelegenheit",
+                "mit",
+                "der",
+                "Polizei",
+                "klären",
+                "."
+            ]
+        },
+        {
+            "begin": 118,
+            "charBegin": 696,
+            "charEnd": 809,
+            "end": 140,
+            "id": 6,
+            "text": "Dies wäre nicht der erste Fall der Familie gewesen, bei dem in ihrem Namen ein Inserat bei eBay geschaltet wurde. ",
+            "tokenIds": [
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139
+            ],
+            "tokens": [
+                "Dies",
+                "wäre",
+                "nicht",
+                "der",
+                "erste",
+                "Fall",
+                "der",
+                "Familie",
+                "gewesen",
+                ",",
+                "bei",
+                "dem",
+                "in",
+                "ihrem",
+                "Namen",
+                "ein",
+                "Inserat",
+                "bei",
+                "eBay",
+                "geschaltet",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "begin": 140,
+            "charBegin": 810,
+            "charEnd": 985,
+            "end": 168,
+            "id": 7,
+            "text": "Bereits einige Zeit zuvor wäre im Namen einer älteren Tochter der Familie ein Inserat in eBay erschienen, welches ebenfalls von einer unbekannten Person geschaltet worden war.",
+            "tokenIds": [
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167
+            ],
+            "tokens": [
+                "Bereits",
+                "einige",
+                "Zeit",
+                "zuvor",
+                "wäre",
+                "im",
+                "Namen",
+                "einer",
+                "älteren",
+                "Tochter",
+                "der",
+                "Familie",
+                "ein",
+                "Inserat",
+                "in",
+                "eBay",
+                "erschienen",
+                ",",
+                "welches",
+                "ebenfalls",
+                "von",
+                "einer",
+                "unbekannten",
+                "Person",
+                "geschaltet",
+                "worden",
+                "war",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Es",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 6,
+            "id": 1,
+            "sentence": 1,
+            "text": "war",
+            "word": 2
+        },
+        {
+            "charBegin": 7,
+            "charEnd": 17,
+            "id": 2,
+            "sentence": 1,
+            "text": "vermutlich",
+            "word": 3
+        },
+        {
+            "charBegin": 18,
+            "charEnd": 22,
+            "id": 3,
+            "sentence": 1,
+            "text": "doch",
+            "word": 4
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 28,
+            "id": 4,
+            "sentence": 1,
+            "text": "nicht",
+            "word": 5
+        },
+        {
+            "charBegin": 29,
+            "charEnd": 32,
+            "id": 5,
+            "sentence": 1,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 43,
+            "id": 6,
+            "sentence": 1,
+            "text": "35-jährige",
+            "word": 7
+        },
+        {
+            "charBegin": 44,
+            "charEnd": 48,
+            "id": 7,
+            "sentence": 1,
+            "text": "Frau",
+            "word": 8
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 52,
+            "id": 8,
+            "sentence": 1,
+            "text": "aus",
+            "word": 9
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 61,
+            "id": 9,
+            "sentence": 1,
+            "text": "Hannover",
+            "word": 10
+        },
+        {
+            "charBegin": 61,
+            "charEnd": 62,
+            "id": 10,
+            "sentence": 1,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 63,
+            "charEnd": 66,
+            "id": 11,
+            "sentence": 1,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 67,
+            "charEnd": 70,
+            "id": 12,
+            "sentence": 1,
+            "text": "ihr",
+            "word": 13
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 75,
+            "id": 13,
+            "sentence": 1,
+            "text": "vier",
+            "word": 14
+        },
+        {
+            "charBegin": 76,
+            "charEnd": 82,
+            "id": 14,
+            "sentence": 1,
+            "text": "Monate",
+            "word": 15
+        },
+        {
+            "charBegin": 83,
+            "charEnd": 88,
+            "id": 15,
+            "sentence": 1,
+            "text": "altes",
+            "word": 16
+        },
+        {
+            "charBegin": 89,
+            "charEnd": 93,
+            "id": 16,
+            "sentence": 1,
+            "text": "Kind",
+            "word": 17
+        },
+        {
+            "charBegin": 94,
+            "charEnd": 97,
+            "id": 17,
+            "sentence": 1,
+            "text": "für",
+            "word": 18
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 104,
+            "id": 18,
+            "sentence": 1,
+            "text": "10.000",
+            "word": 19
+        },
+        {
+            "charBegin": 105,
+            "charEnd": 106,
+            "id": 19,
+            "sentence": 1,
+            "text": "€",
+            "word": 20
+        },
+        {
+            "charBegin": 107,
+            "charEnd": 111,
+            "id": 20,
+            "sentence": 1,
+            "text": "beim",
+            "word": 21
+        },
+        {
+            "charBegin": 112,
+            "charEnd": 129,
+            "id": 21,
+            "sentence": 1,
+            "text": "Onlineaktionshaus",
+            "word": 22
+        },
+        {
+            "charBegin": 130,
+            "charEnd": 134,
+            "id": 22,
+            "sentence": 1,
+            "text": "eBay",
+            "word": 23
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 144,
+            "id": 23,
+            "sentence": 1,
+            "text": "angeboten",
+            "word": 24
+        },
+        {
+            "charBegin": 145,
+            "charEnd": 150,
+            "id": 24,
+            "sentence": 1,
+            "text": "hatte",
+            "word": 25
+        },
+        {
+            "charBegin": 150,
+            "charEnd": 151,
+            "id": 25,
+            "sentence": 1,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 155,
+            "id": 26,
+            "sentence": 2,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 164,
+            "id": 27,
+            "sentence": 2,
+            "text": "Sachlage",
+            "word": 2
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 168,
+            "id": 28,
+            "sentence": 2,
+            "text": "hat",
+            "word": 3
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 173,
+            "id": 29,
+            "sentence": 2,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 174,
+            "charEnd": 181,
+            "id": 30,
+            "sentence": 2,
+            "text": "gestern",
+            "word": 5
+        },
+        {
+            "charBegin": 182,
+            "charEnd": 194,
+            "id": 31,
+            "sentence": 2,
+            "text": "überraschend",
+            "word": 6
+        },
+        {
+            "charBegin": 195,
+            "charEnd": 203,
+            "id": 32,
+            "sentence": 2,
+            "text": "geändert",
+            "word": 7
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 204,
+            "id": 33,
+            "sentence": 2,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 206,
+            "charEnd": 209,
+            "id": 34,
+            "sentence": 3,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 218,
+            "id": 35,
+            "sentence": 3,
+            "text": "Sprecher",
+            "word": 2
+        },
+        {
+            "charBegin": 219,
+            "charEnd": 222,
+            "id": 36,
+            "sentence": 3,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 230,
+            "id": 37,
+            "sentence": 3,
+            "text": "Polizei",
+            "word": 4
+        },
+        {
+            "charBegin": 230,
+            "charEnd": 231,
+            "id": 38,
+            "sentence": 3,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 232,
+            "charEnd": 236,
+            "id": 39,
+            "sentence": 3,
+            "text": "Lars",
+            "word": 6
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 245,
+            "id": 40,
+            "sentence": 3,
+            "text": "Beringer",
+            "word": 7
+        },
+        {
+            "charBegin": 245,
+            "charEnd": 246,
+            "id": 41,
+            "sentence": 3,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 247,
+            "charEnd": 252,
+            "id": 42,
+            "sentence": 3,
+            "text": "sagte",
+            "word": 9
+        },
+        {
+            "charBegin": 253,
+            "charEnd": 258,
+            "id": 43,
+            "sentence": 3,
+            "text": "heute",
+            "word": 10
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 264,
+            "id": 44,
+            "sentence": 3,
+            "text": "Abend",
+            "word": 11
+        },
+        {
+            "charBegin": 265,
+            "charEnd": 274,
+            "id": 45,
+            "sentence": 3,
+            "text": "gegenüber",
+            "word": 12
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 278,
+            "id": 46,
+            "sentence": 3,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 285,
+            "id": 47,
+            "sentence": 3,
+            "text": "Presse",
+            "word": 14
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 286,
+            "id": 48,
+            "sentence": 3,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 287,
+            "charEnd": 291,
+            "id": 49,
+            "sentence": 3,
+            "text": "nach",
+            "word": 16
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 300,
+            "id": 50,
+            "sentence": 3,
+            "text": "neuesten",
+            "word": 17
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 314,
+            "id": 51,
+            "sentence": 3,
+            "text": "Erkenntnissen",
+            "word": 18
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 319,
+            "id": 52,
+            "sentence": 3,
+            "text": "habe",
+            "word": 19
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 323,
+            "id": 53,
+            "sentence": 3,
+            "text": "ein",
+            "word": 20
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 335,
+            "id": 54,
+            "sentence": 3,
+            "text": "Unbekannter",
+            "word": 21
+        },
+        {
+            "charBegin": 336,
+            "charEnd": 339,
+            "id": 55,
+            "sentence": 3,
+            "text": "den",
+            "word": 22
+        },
+        {
+            "charBegin": 340,
+            "charEnd": 345,
+            "id": 56,
+            "sentence": 3,
+            "text": "Namen",
+            "word": 23
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 349,
+            "id": 57,
+            "sentence": 3,
+            "text": "der",
+            "word": 24
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 354,
+            "id": 58,
+            "sentence": 3,
+            "text": "Frau",
+            "word": 25
+        },
+        {
+            "charBegin": 355,
+            "charEnd": 364,
+            "id": 59,
+            "sentence": 3,
+            "text": "verwendet",
+            "word": 26
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 365,
+            "id": 60,
+            "sentence": 3,
+            "text": ",",
+            "word": 27
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 368,
+            "id": 61,
+            "sentence": 3,
+            "text": "um",
+            "word": 28
+        },
+        {
+            "charBegin": 369,
+            "charEnd": 372,
+            "id": 62,
+            "sentence": 3,
+            "text": "ihr",
+            "word": 29
+        },
+        {
+            "charBegin": 373,
+            "charEnd": 377,
+            "id": 63,
+            "sentence": 3,
+            "text": "Kind",
+            "word": 30
+        },
+        {
+            "charBegin": 378,
+            "charEnd": 380,
+            "id": 64,
+            "sentence": 3,
+            "text": "in",
+            "word": 31
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 385,
+            "id": 65,
+            "sentence": 3,
+            "text": "eBay",
+            "word": 32
+        },
+        {
+            "charBegin": 386,
+            "charEnd": 396,
+            "id": 66,
+            "sentence": 3,
+            "text": "anzubieten",
+            "word": 33
+        },
+        {
+            "charBegin": 396,
+            "charEnd": 397,
+            "id": 67,
+            "sentence": 3,
+            "text": ".",
+            "word": 34
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 401,
+            "id": 68,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 402,
+            "charEnd": 409,
+            "id": 69,
+            "sentence": 4,
+            "text": "Familie",
+            "word": 2
+        },
+        {
+            "charBegin": 410,
+            "charEnd": 418,
+            "id": 70,
+            "sentence": 4,
+            "text": "befindet",
+            "word": 3
+        },
+        {
+            "charBegin": 419,
+            "charEnd": 423,
+            "id": 71,
+            "sentence": 4,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 431,
+            "id": 72,
+            "sentence": 4,
+            "text": "derzeit",
+            "word": 5
+        },
+        {
+            "charBegin": 432,
+            "charEnd": 434,
+            "id": 73,
+            "sentence": 4,
+            "text": "im",
+            "word": 6
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 441,
+            "id": 74,
+            "sentence": 4,
+            "text": "Urlaub",
+            "word": 7
+        },
+        {
+            "charBegin": 442,
+            "charEnd": 445,
+            "id": 75,
+            "sentence": 4,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 449,
+            "id": 76,
+            "sentence": 4,
+            "text": "hat",
+            "word": 9
+        },
+        {
+            "charBegin": 450,
+            "charEnd": 454,
+            "id": 77,
+            "sentence": 4,
+            "text": "dort",
+            "word": 10
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 459,
+            "id": 78,
+            "sentence": 4,
+            "text": "über",
+            "word": 11
+        },
+        {
+            "charBegin": 460,
+            "charEnd": 463,
+            "id": 79,
+            "sentence": 4,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 470,
+            "id": 80,
+            "sentence": 4,
+            "text": "Medien",
+            "word": 13
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 474,
+            "id": 81,
+            "sentence": 4,
+            "text": "von",
+            "word": 14
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 478,
+            "id": 82,
+            "sentence": 4,
+            "text": "dem",
+            "word": 15
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 486,
+            "id": 83,
+            "sentence": 4,
+            "text": "Angebot",
+            "word": 16
+        },
+        {
+            "charBegin": 487,
+            "charEnd": 489,
+            "id": 84,
+            "sentence": 4,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 490,
+            "charEnd": 494,
+            "id": 85,
+            "sentence": 4,
+            "text": "eBay",
+            "word": 18
+        },
+        {
+            "charBegin": 495,
+            "charEnd": 503,
+            "id": 86,
+            "sentence": 4,
+            "text": "erfahren",
+            "word": 19
+        },
+        {
+            "charBegin": 503,
+            "charEnd": 504,
+            "id": 87,
+            "sentence": 4,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 505,
+            "charEnd": 511,
+            "id": 88,
+            "sentence": 5,
+            "text": "Danach",
+            "word": 1
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 517,
+            "id": 89,
+            "sentence": 5,
+            "text": "hatte",
+            "word": 2
+        },
+        {
+            "charBegin": 518,
+            "charEnd": 521,
+            "id": 90,
+            "sentence": 5,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 526,
+            "id": 91,
+            "sentence": 5,
+            "text": "Frau",
+            "word": 4
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 533,
+            "id": 92,
+            "sentence": 5,
+            "text": "sofort",
+            "word": 5
+        },
+        {
+            "charBegin": 534,
+            "charEnd": 541,
+            "id": 93,
+            "sentence": 5,
+            "text": "Kontakt",
+            "word": 6
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 545,
+            "id": 94,
+            "sentence": 5,
+            "text": "mit",
+            "word": 7
+        },
+        {
+            "charBegin": 546,
+            "charEnd": 549,
+            "id": 95,
+            "sentence": 5,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 550,
+            "charEnd": 557,
+            "id": 96,
+            "sentence": 5,
+            "text": "Polizei",
+            "word": 9
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 560,
+            "id": 97,
+            "sentence": 5,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 561,
+            "charEnd": 569,
+            "id": 98,
+            "sentence": 5,
+            "text": "Hannover",
+            "word": 11
+        },
+        {
+            "charBegin": 570,
+            "charEnd": 581,
+            "id": 99,
+            "sentence": 5,
+            "text": "aufgenommen",
+            "word": 12
+        },
+        {
+            "charBegin": 581,
+            "charEnd": 582,
+            "id": 100,
+            "sentence": 5,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 584,
+            "charEnd": 586,
+            "id": 101,
+            "sentence": 6,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 587,
+            "charEnd": 595,
+            "id": 102,
+            "sentence": 6,
+            "text": "morgigen",
+            "word": 2
+        },
+        {
+            "charBegin": 596,
+            "charEnd": 603,
+            "id": 103,
+            "sentence": 6,
+            "text": "Sonntag",
+            "word": 3
+        },
+        {
+            "charBegin": 604,
+            "charEnd": 610,
+            "id": 104,
+            "sentence": 6,
+            "text": "wollte",
+            "word": 4
+        },
+        {
+            "charBegin": 611,
+            "charEnd": 614,
+            "id": 105,
+            "sentence": 6,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 622,
+            "id": 106,
+            "sentence": 6,
+            "text": "Familie",
+            "word": 6
+        },
+        {
+            "charBegin": 623,
+            "charEnd": 627,
+            "id": 107,
+            "sentence": 6,
+            "text": "nach",
+            "word": 7
+        },
+        {
+            "charBegin": 628,
+            "charEnd": 636,
+            "id": 108,
+            "sentence": 6,
+            "text": "Hannover",
+            "word": 8
+        },
+        {
+            "charBegin": 637,
+            "charEnd": 649,
+            "id": 109,
+            "sentence": 6,
+            "text": "zurückkehren",
+            "word": 9
+        },
+        {
+            "charBegin": 650,
+            "charEnd": 653,
+            "id": 110,
+            "sentence": 6,
+            "text": "und",
+            "word": 10
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 657,
+            "id": 111,
+            "sentence": 6,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 658,
+            "charEnd": 671,
+            "id": 112,
+            "sentence": 6,
+            "text": "Angelegenheit",
+            "word": 12
+        },
+        {
+            "charBegin": 672,
+            "charEnd": 675,
+            "id": 113,
+            "sentence": 6,
+            "text": "mit",
+            "word": 13
+        },
+        {
+            "charBegin": 676,
+            "charEnd": 679,
+            "id": 114,
+            "sentence": 6,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 680,
+            "charEnd": 687,
+            "id": 115,
+            "sentence": 6,
+            "text": "Polizei",
+            "word": 15
+        },
+        {
+            "charBegin": 688,
+            "charEnd": 694,
+            "id": 116,
+            "sentence": 6,
+            "text": "klären",
+            "word": 16
+        },
+        {
+            "charBegin": 694,
+            "charEnd": 695,
+            "id": 117,
+            "sentence": 6,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 696,
+            "charEnd": 700,
+            "id": 118,
+            "sentence": 7,
+            "text": "Dies",
+            "word": 1
+        },
+        {
+            "charBegin": 701,
+            "charEnd": 705,
+            "id": 119,
+            "sentence": 7,
+            "text": "wäre",
+            "word": 2
+        },
+        {
+            "charBegin": 706,
+            "charEnd": 711,
+            "id": 120,
+            "sentence": 7,
+            "text": "nicht",
+            "word": 3
+        },
+        {
+            "charBegin": 712,
+            "charEnd": 715,
+            "id": 121,
+            "sentence": 7,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 721,
+            "id": 122,
+            "sentence": 7,
+            "text": "erste",
+            "word": 5
+        },
+        {
+            "charBegin": 722,
+            "charEnd": 726,
+            "id": 123,
+            "sentence": 7,
+            "text": "Fall",
+            "word": 6
+        },
+        {
+            "charBegin": 727,
+            "charEnd": 730,
+            "id": 124,
+            "sentence": 7,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 731,
+            "charEnd": 738,
+            "id": 125,
+            "sentence": 7,
+            "text": "Familie",
+            "word": 8
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 746,
+            "id": 126,
+            "sentence": 7,
+            "text": "gewesen",
+            "word": 9
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 747,
+            "id": 127,
+            "sentence": 7,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 751,
+            "id": 128,
+            "sentence": 7,
+            "text": "bei",
+            "word": 11
+        },
+        {
+            "charBegin": 752,
+            "charEnd": 755,
+            "id": 129,
+            "sentence": 7,
+            "text": "dem",
+            "word": 12
+        },
+        {
+            "charBegin": 756,
+            "charEnd": 758,
+            "id": 130,
+            "sentence": 7,
+            "text": "in",
+            "word": 13
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 764,
+            "id": 131,
+            "sentence": 7,
+            "text": "ihrem",
+            "word": 14
+        },
+        {
+            "charBegin": 765,
+            "charEnd": 770,
+            "id": 132,
+            "sentence": 7,
+            "text": "Namen",
+            "word": 15
+        },
+        {
+            "charBegin": 771,
+            "charEnd": 774,
+            "id": 133,
+            "sentence": 7,
+            "text": "ein",
+            "word": 16
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 782,
+            "id": 134,
+            "sentence": 7,
+            "text": "Inserat",
+            "word": 17
+        },
+        {
+            "charBegin": 783,
+            "charEnd": 786,
+            "id": 135,
+            "sentence": 7,
+            "text": "bei",
+            "word": 18
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 791,
+            "id": 136,
+            "sentence": 7,
+            "text": "eBay",
+            "word": 19
+        },
+        {
+            "charBegin": 792,
+            "charEnd": 802,
+            "id": 137,
+            "sentence": 7,
+            "text": "geschaltet",
+            "word": 20
+        },
+        {
+            "charBegin": 803,
+            "charEnd": 808,
+            "id": 138,
+            "sentence": 7,
+            "text": "wurde",
+            "word": 21
+        },
+        {
+            "charBegin": 808,
+            "charEnd": 809,
+            "id": 139,
+            "sentence": 7,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 810,
+            "charEnd": 817,
+            "id": 140,
+            "sentence": 8,
+            "text": "Bereits",
+            "word": 1
+        },
+        {
+            "charBegin": 818,
+            "charEnd": 824,
+            "id": 141,
+            "sentence": 8,
+            "text": "einige",
+            "word": 2
+        },
+        {
+            "charBegin": 825,
+            "charEnd": 829,
+            "id": 142,
+            "sentence": 8,
+            "text": "Zeit",
+            "word": 3
+        },
+        {
+            "charBegin": 830,
+            "charEnd": 835,
+            "id": 143,
+            "sentence": 8,
+            "text": "zuvor",
+            "word": 4
+        },
+        {
+            "charBegin": 836,
+            "charEnd": 840,
+            "id": 144,
+            "sentence": 8,
+            "text": "wäre",
+            "word": 5
+        },
+        {
+            "charBegin": 841,
+            "charEnd": 843,
+            "id": 145,
+            "sentence": 8,
+            "text": "im",
+            "word": 6
+        },
+        {
+            "charBegin": 844,
+            "charEnd": 849,
+            "id": 146,
+            "sentence": 8,
+            "text": "Namen",
+            "word": 7
+        },
+        {
+            "charBegin": 850,
+            "charEnd": 855,
+            "id": 147,
+            "sentence": 8,
+            "text": "einer",
+            "word": 8
+        },
+        {
+            "charBegin": 856,
+            "charEnd": 863,
+            "id": 148,
+            "sentence": 8,
+            "text": "älteren",
+            "word": 9
+        },
+        {
+            "charBegin": 864,
+            "charEnd": 871,
+            "id": 149,
+            "sentence": 8,
+            "text": "Tochter",
+            "word": 10
+        },
+        {
+            "charBegin": 872,
+            "charEnd": 875,
+            "id": 150,
+            "sentence": 8,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 876,
+            "charEnd": 883,
+            "id": 151,
+            "sentence": 8,
+            "text": "Familie",
+            "word": 12
+        },
+        {
+            "charBegin": 884,
+            "charEnd": 887,
+            "id": 152,
+            "sentence": 8,
+            "text": "ein",
+            "word": 13
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 895,
+            "id": 153,
+            "sentence": 8,
+            "text": "Inserat",
+            "word": 14
+        },
+        {
+            "charBegin": 896,
+            "charEnd": 898,
+            "id": 154,
+            "sentence": 8,
+            "text": "in",
+            "word": 15
+        },
+        {
+            "charBegin": 899,
+            "charEnd": 903,
+            "id": 155,
+            "sentence": 8,
+            "text": "eBay",
+            "word": 16
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 914,
+            "id": 156,
+            "sentence": 8,
+            "text": "erschienen",
+            "word": 17
+        },
+        {
+            "charBegin": 914,
+            "charEnd": 915,
+            "id": 157,
+            "sentence": 8,
+            "text": ",",
+            "word": 18
+        },
+        {
+            "charBegin": 916,
+            "charEnd": 923,
+            "id": 158,
+            "sentence": 8,
+            "text": "welches",
+            "word": 19
+        },
+        {
+            "charBegin": 924,
+            "charEnd": 933,
+            "id": 159,
+            "sentence": 8,
+            "text": "ebenfalls",
+            "word": 20
+        },
+        {
+            "charBegin": 934,
+            "charEnd": 937,
+            "id": 160,
+            "sentence": 8,
+            "text": "von",
+            "word": 21
+        },
+        {
+            "charBegin": 938,
+            "charEnd": 943,
+            "id": 161,
+            "sentence": 8,
+            "text": "einer",
+            "word": 22
+        },
+        {
+            "charBegin": 944,
+            "charEnd": 955,
+            "id": 162,
+            "sentence": 8,
+            "text": "unbekannten",
+            "word": 23
+        },
+        {
+            "charBegin": 956,
+            "charEnd": 962,
+            "id": 163,
+            "sentence": 8,
+            "text": "Person",
+            "word": 24
+        },
+        {
+            "charBegin": 963,
+            "charEnd": 973,
+            "id": 164,
+            "sentence": 8,
+            "text": "geschaltet",
+            "word": 25
+        },
+        {
+            "charBegin": 974,
+            "charEnd": 980,
+            "id": 165,
+            "sentence": 8,
+            "text": "worden",
+            "word": 26
+        },
+        {
+            "charBegin": 981,
+            "charEnd": 984,
+            "id": 166,
+            "sentence": 8,
+            "text": "war",
+            "word": 27
+        },
+        {
+            "charBegin": 984,
+            "charEnd": 985,
+            "id": 167,
+            "sentence": 8,
+            "text": ".",
+            "word": 28
+        }
+    ]
+}

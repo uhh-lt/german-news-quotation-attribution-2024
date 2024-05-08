@@ -1,0 +1,4088 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 3,
+                        "charBegin": 24,
+                        "charEnd": 28,
+                        "end": 4
+                    }
+                ],
+                "text": "nach",
+                "tokenIds": [
+                    3
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 3,
+                        "charBegin": 24,
+                        "charEnd": 67,
+                        "end": 8
+                    }
+                ],
+                "text": "nach Aussagen des Statistischen Bundesamtes",
+                "tokenIds": [
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 23,
+                        "end": 3
+                    },
+                    {
+                        "begin": 8,
+                        "charBegin": 68,
+                        "charEnd": 147,
+                        "end": 20
+                    }
+                ],
+                "text": "In Deutschland verfügen 13 Prozent der Bevölkerung über weniger als 60 Prozent des mittleren Einkommens",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 4,
+                        "charBegin": 29,
+                        "charEnd": 67,
+                        "end": 8
+                    }
+                ],
+                "text": "Aussagen des Statistischen Bundesamtes",
+                "tokenIds": [
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 75,
+                        "charBegin": 514,
+                        "charEnd": 521,
+                        "end": 76
+                    },
+                    {
+                        "begin": 88,
+                        "charBegin": 593,
+                        "charEnd": 596,
+                        "end": 89
+                    }
+                ],
+                "text": "stellte vor",
+                "tokenIds": [
+                    75,
+                    88
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 73,
+                        "charBegin": 497,
+                        "charEnd": 596,
+                        "end": 89
+                    }
+                ],
+                "text": "Diese Ergebnisse stellte der Vizepräsident des Amtes, Walter Radermacher, am Dienstag in Berlin vor",
+                "tokenIds": [
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84,
+                    85,
+                    86,
+                    87,
+                    88
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 21,
+                        "charBegin": 149,
+                        "charEnd": 496,
+                        "end": 73
+                    }
+                ],
+                "text": "Diese Grenze liegt in Deutschland zurzeit bei 1.798 Euro für einen Vier-Personen-Haushalt mit zwei Kindern. Dieses Kriterium ist Grundlage der Einschätzung bei einer 10,6 Millionen Menschen umfassenden Bevölkerungsgruppe, von einer „Armutsgefährdung“ zu sprechen. In dieser Zahl sind 1,7 Millionen Kinder und Jugendliche unter 16 Jahren enthalten.",
+                "tokenIds": [
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 76,
+                        "charBegin": 522,
+                        "charEnd": 569,
+                        "end": 83
+                    }
+                ],
+                "text": "der Vizepräsident des Amtes, Walter Radermacher",
+                "tokenIds": [
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "35901 - In Deutschland sind 13 Prozent der Bevölkerung armutsgefährdet (2006-12-05)",
+    "originalText": "In Deutschland verfügen nach Aussagen des Statistischen Bundesamtes 13 Prozent der Bevölkerung über weniger als 60 Prozent des mittleren Einkommens. Diese Grenze liegt in Deutschland zurzeit bei 1.798 Euro für einen Vier-Personen-Haushalt mit zwei Kindern. Dieses Kriterium ist Grundlage der Einschätzung bei einer 10,6 Millionen Menschen umfassenden Bevölkerungsgruppe, von einer „Armutsgefährdung“ zu sprechen. In dieser Zahl sind 1,7 Millionen Kinder und Jugendliche unter 16 Jahren enthalten. Diese Ergebnisse stellte der Vizepräsident des Amtes, Walter Radermacher, am Dienstag in Berlin vor. Die Daten beziehen sich auf das Jahr 2004.\n\nAnhand der statistischen Daten können auch Aussagen zu den Lebensumständen dieser Haushalte gemacht werden. Bestimmte Ausgaben sind aufgrund des engen finanziellen Spielraums der betroffenen Familien nicht möglich. Dazu gehört beispielsweise die Möglichkeit, Urlaub zu machen. Bei den Heizkosten muss im Winter ebenso gespart werden wie bei notwendigen Haushaltsreparaturen. Plötzlich auftretende Mehrbelastungen können nicht bewältigt werden. Unter dem Zwang, Kosten zu sparen, leidet oft auch die gesundheitliche Versorgung, weil jeder fünfte dieser Bevölkerungsgruppe wegen der gestiegenen Kosten (Praxisgebühr, gestiegene Rezeptgebühren) schon einmal auf Arztbesuche verzichtet. Auch so genannte langlebige Konsumgüter weisen auf Unterschiede in den Lebensverhältnissen hin. Telefon, Fernseher oder Waschmaschine fehlen nur in zwei bis drei Prozent der Haushalte. Dagegen muss rund ein Fünftel (21 Prozent) der armutsgefährdeten Haushalte auf einen Computer verzichten, in den übrigen nicht-armutsgefährdeten Haushalten müssen nur vier Prozent darauf verzichten. Die Verteilung von Computern auf die Haushalte kann möglicherweise jedoch auch vom erworbenen Bildungsgrad abhängig sein. \n\nDie so definierte Armutsgefährdung trifft vor allem Erwerbslose und Menschen mit fehlenden oder geringen Schulabschlüssen. Ein weiterer Faktor sind fehlende Einspareffekte bei Alleinlebenden. Bei 16- bis 24-jährigen Alleinlebenden liegt die Armutsgefährdungsquote bei 53 Prozent. Umgekehrt sind Haushalte mit zwei erwerbstätigen Erwachsenen ohne Kinder am wenigsten gefährdet. \n\nDie Zahlen des Statistischen Bundesamtes weisen auch regionale Unterschiede aus. So gibt es ein deutliches Ost-West-Gefälle. In den alten Bundesländern sind zwölf Prozent armutsgefährdet, während es in den neuen Bundesländern 17 Prozent sind.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 148,
+            "end": 21,
+            "id": 0,
+            "text": "In Deutschland verfügen nach Aussagen des Statistischen Bundesamtes 13 Prozent der Bevölkerung über weniger als 60 Prozent des mittleren Einkommens. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "In",
+                "Deutschland",
+                "verfügen",
+                "nach",
+                "Aussagen",
+                "des",
+                "Statistischen",
+                "Bundesamtes",
+                "13",
+                "Prozent",
+                "der",
+                "Bevölkerung",
+                "über",
+                "weniger",
+                "als",
+                "60",
+                "Prozent",
+                "des",
+                "mittleren",
+                "Einkommens",
+                "."
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 149,
+            "charEnd": 256,
+            "end": 37,
+            "id": 1,
+            "text": "Diese Grenze liegt in Deutschland zurzeit bei 1.798 Euro für einen Vier-Personen-Haushalt mit zwei Kindern. ",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "tokens": [
+                "Diese",
+                "Grenze",
+                "liegt",
+                "in",
+                "Deutschland",
+                "zurzeit",
+                "bei",
+                "1.798",
+                "Euro",
+                "für",
+                "einen",
+                "Vier-Personen-Haushalt",
+                "mit",
+                "zwei",
+                "Kindern",
+                "."
+            ]
+        },
+        {
+            "begin": 37,
+            "charBegin": 257,
+            "charEnd": 412,
+            "end": 59,
+            "id": 2,
+            "text": "Dieses Kriterium ist Grundlage der Einschätzung bei einer 10,6 Millionen Menschen umfassenden Bevölkerungsgruppe, von einer „Armutsgefährdung“ zu sprechen. ",
+            "tokenIds": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58
+            ],
+            "tokens": [
+                "Dieses",
+                "Kriterium",
+                "ist",
+                "Grundlage",
+                "der",
+                "Einschätzung",
+                "bei",
+                "einer",
+                "10,6",
+                "Millionen",
+                "Menschen",
+                "umfassenden",
+                "Bevölkerungsgruppe",
+                ",",
+                "von",
+                "einer",
+                "„",
+                "Armutsgefährdung",
+                "“",
+                "zu",
+                "sprechen",
+                "."
+            ]
+        },
+        {
+            "begin": 59,
+            "charBegin": 413,
+            "charEnd": 496,
+            "end": 73,
+            "id": 3,
+            "text": "In dieser Zahl sind 1,7 Millionen Kinder und Jugendliche unter 16 Jahren enthalten. ",
+            "tokenIds": [
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72
+            ],
+            "tokens": [
+                "In",
+                "dieser",
+                "Zahl",
+                "sind",
+                "1,7",
+                "Millionen",
+                "Kinder",
+                "und",
+                "Jugendliche",
+                "unter",
+                "16",
+                "Jahren",
+                "enthalten",
+                "."
+            ]
+        },
+        {
+            "begin": 73,
+            "charBegin": 497,
+            "charEnd": 597,
+            "end": 90,
+            "id": 4,
+            "text": "Diese Ergebnisse stellte der Vizepräsident des Amtes, Walter Radermacher, am Dienstag in Berlin vor. ",
+            "tokenIds": [
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89
+            ],
+            "tokens": [
+                "Diese",
+                "Ergebnisse",
+                "stellte",
+                "der",
+                "Vizepräsident",
+                "des",
+                "Amtes",
+                ",",
+                "Walter",
+                "Radermacher",
+                ",",
+                "am",
+                "Dienstag",
+                "in",
+                "Berlin",
+                "vor",
+                "."
+            ]
+        },
+        {
+            "begin": 90,
+            "charBegin": 598,
+            "charEnd": 640,
+            "end": 98,
+            "id": 5,
+            "text": "Die Daten beziehen sich auf das Jahr 2004.",
+            "tokenIds": [
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97
+            ],
+            "tokens": [
+                "Die",
+                "Daten",
+                "beziehen",
+                "sich",
+                "auf",
+                "das",
+                "Jahr",
+                "2004."
+            ]
+        },
+        {
+            "begin": 98,
+            "charBegin": 642,
+            "charEnd": 749,
+            "end": 113,
+            "id": 6,
+            "text": "Anhand der statistischen Daten können auch Aussagen zu den Lebensumständen dieser Haushalte gemacht werden. ",
+            "tokenIds": [
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112
+            ],
+            "tokens": [
+                "Anhand",
+                "der",
+                "statistischen",
+                "Daten",
+                "können",
+                "auch",
+                "Aussagen",
+                "zu",
+                "den",
+                "Lebensumständen",
+                "dieser",
+                "Haushalte",
+                "gemacht",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 113,
+            "charBegin": 750,
+            "charEnd": 856,
+            "end": 127,
+            "id": 7,
+            "text": "Bestimmte Ausgaben sind aufgrund des engen finanziellen Spielraums der betroffenen Familien nicht möglich. ",
+            "tokenIds": [
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126
+            ],
+            "tokens": [
+                "Bestimmte",
+                "Ausgaben",
+                "sind",
+                "aufgrund",
+                "des",
+                "engen",
+                "finanziellen",
+                "Spielraums",
+                "der",
+                "betroffenen",
+                "Familien",
+                "nicht",
+                "möglich",
+                "."
+            ]
+        },
+        {
+            "begin": 127,
+            "charBegin": 857,
+            "charEnd": 918,
+            "end": 137,
+            "id": 8,
+            "text": "Dazu gehört beispielsweise die Möglichkeit, Urlaub zu machen. ",
+            "tokenIds": [
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136
+            ],
+            "tokens": [
+                "Dazu",
+                "gehört",
+                "beispielsweise",
+                "die",
+                "Möglichkeit",
+                ",",
+                "Urlaub",
+                "zu",
+                "machen",
+                "."
+            ]
+        },
+        {
+            "begin": 137,
+            "charBegin": 919,
+            "charEnd": 1016,
+            "end": 151,
+            "id": 9,
+            "text": "Bei den Heizkosten muss im Winter ebenso gespart werden wie bei notwendigen Haushaltsreparaturen. ",
+            "tokenIds": [
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150
+            ],
+            "tokens": [
+                "Bei",
+                "den",
+                "Heizkosten",
+                "muss",
+                "im",
+                "Winter",
+                "ebenso",
+                "gespart",
+                "werden",
+                "wie",
+                "bei",
+                "notwendigen",
+                "Haushaltsreparaturen",
+                "."
+            ]
+        },
+        {
+            "begin": 151,
+            "charBegin": 1017,
+            "charEnd": 1085,
+            "end": 159,
+            "id": 10,
+            "text": "Plötzlich auftretende Mehrbelastungen können nicht bewältigt werden. ",
+            "tokenIds": [
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158
+            ],
+            "tokens": [
+                "Plötzlich",
+                "auftretende",
+                "Mehrbelastungen",
+                "können",
+                "nicht",
+                "bewältigt",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 159,
+            "charBegin": 1086,
+            "charEnd": 1324,
+            "end": 195,
+            "id": 11,
+            "text": "Unter dem Zwang, Kosten zu sparen, leidet oft auch die gesundheitliche Versorgung, weil jeder fünfte dieser Bevölkerungsgruppe wegen der gestiegenen Kosten (Praxisgebühr, gestiegene Rezeptgebühren) schon einmal auf Arztbesuche verzichtet. ",
+            "tokenIds": [
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194
+            ],
+            "tokens": [
+                "Unter",
+                "dem",
+                "Zwang",
+                ",",
+                "Kosten",
+                "zu",
+                "sparen",
+                ",",
+                "leidet",
+                "oft",
+                "auch",
+                "die",
+                "gesundheitliche",
+                "Versorgung",
+                ",",
+                "weil",
+                "jeder",
+                "fünfte",
+                "dieser",
+                "Bevölkerungsgruppe",
+                "wegen",
+                "der",
+                "gestiegenen",
+                "Kosten",
+                "(",
+                "Praxisgebühr",
+                ",",
+                "gestiegene",
+                "Rezeptgebühren",
+                ")",
+                "schon",
+                "einmal",
+                "auf",
+                "Arztbesuche",
+                "verzichtet",
+                "."
+            ]
+        },
+        {
+            "begin": 195,
+            "charBegin": 1325,
+            "charEnd": 1420,
+            "end": 208,
+            "id": 12,
+            "text": "Auch so genannte langlebige Konsumgüter weisen auf Unterschiede in den Lebensverhältnissen hin. ",
+            "tokenIds": [
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207
+            ],
+            "tokens": [
+                "Auch",
+                "so",
+                "genannte",
+                "langlebige",
+                "Konsumgüter",
+                "weisen",
+                "auf",
+                "Unterschiede",
+                "in",
+                "den",
+                "Lebensverhältnissen",
+                "hin",
+                "."
+            ]
+        },
+        {
+            "begin": 208,
+            "charBegin": 1421,
+            "charEnd": 1509,
+            "end": 223,
+            "id": 13,
+            "text": "Telefon, Fernseher oder Waschmaschine fehlen nur in zwei bis drei Prozent der Haushalte. ",
+            "tokenIds": [
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222
+            ],
+            "tokens": [
+                "Telefon",
+                ",",
+                "Fernseher",
+                "oder",
+                "Waschmaschine",
+                "fehlen",
+                "nur",
+                "in",
+                "zwei",
+                "bis",
+                "drei",
+                "Prozent",
+                "der",
+                "Haushalte",
+                "."
+            ]
+        },
+        {
+            "begin": 223,
+            "charBegin": 1510,
+            "charEnd": 1708,
+            "end": 252,
+            "id": 14,
+            "text": "Dagegen muss rund ein Fünftel (21 Prozent) der armutsgefährdeten Haushalte auf einen Computer verzichten, in den übrigen nicht-armutsgefährdeten Haushalten müssen nur vier Prozent darauf verzichten. ",
+            "tokenIds": [
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251
+            ],
+            "tokens": [
+                "Dagegen",
+                "muss",
+                "rund",
+                "ein",
+                "Fünftel",
+                "(",
+                "21",
+                "Prozent",
+                ")",
+                "der",
+                "armutsgefährdeten",
+                "Haushalte",
+                "auf",
+                "einen",
+                "Computer",
+                "verzichten",
+                ",",
+                "in",
+                "den",
+                "übrigen",
+                "nicht-armutsgefährdeten",
+                "Haushalten",
+                "müssen",
+                "nur",
+                "vier",
+                "Prozent",
+                "darauf",
+                "verzichten",
+                "."
+            ]
+        },
+        {
+            "begin": 252,
+            "charBegin": 1709,
+            "charEnd": 1830,
+            "end": 269,
+            "id": 15,
+            "text": "Die Verteilung von Computern auf die Haushalte kann möglicherweise jedoch auch vom erworbenen Bildungsgrad abhängig sein. ",
+            "tokenIds": [
+                252,
+                253,
+                254,
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268
+            ],
+            "tokens": [
+                "Die",
+                "Verteilung",
+                "von",
+                "Computern",
+                "auf",
+                "die",
+                "Haushalte",
+                "kann",
+                "möglicherweise",
+                "jedoch",
+                "auch",
+                "vom",
+                "erworbenen",
+                "Bildungsgrad",
+                "abhängig",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "begin": 269,
+            "charBegin": 1833,
+            "charEnd": 1955,
+            "end": 285,
+            "id": 16,
+            "text": "Die so definierte Armutsgefährdung trifft vor allem Erwerbslose und Menschen mit fehlenden oder geringen Schulabschlüssen. ",
+            "tokenIds": [
+                269,
+                270,
+                271,
+                272,
+                273,
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284
+            ],
+            "tokens": [
+                "Die",
+                "so",
+                "definierte",
+                "Armutsgefährdung",
+                "trifft",
+                "vor",
+                "allem",
+                "Erwerbslose",
+                "und",
+                "Menschen",
+                "mit",
+                "fehlenden",
+                "oder",
+                "geringen",
+                "Schulabschlüssen",
+                "."
+            ]
+        },
+        {
+            "begin": 285,
+            "charBegin": 1956,
+            "charEnd": 2024,
+            "end": 294,
+            "id": 17,
+            "text": "Ein weiterer Faktor sind fehlende Einspareffekte bei Alleinlebenden. ",
+            "tokenIds": [
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292,
+                293
+            ],
+            "tokens": [
+                "Ein",
+                "weiterer",
+                "Faktor",
+                "sind",
+                "fehlende",
+                "Einspareffekte",
+                "bei",
+                "Alleinlebenden",
+                "."
+            ]
+        },
+        {
+            "begin": 294,
+            "charBegin": 2025,
+            "charEnd": 2112,
+            "end": 306,
+            "id": 18,
+            "text": "Bei 16- bis 24-jährigen Alleinlebenden liegt die Armutsgefährdungsquote bei 53 Prozent. ",
+            "tokenIds": [
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305
+            ],
+            "tokens": [
+                "Bei",
+                "16-",
+                "bis",
+                "24-jährigen",
+                "Alleinlebenden",
+                "liegt",
+                "die",
+                "Armutsgefährdungsquote",
+                "bei",
+                "53",
+                "Prozent",
+                "."
+            ]
+        },
+        {
+            "begin": 306,
+            "charBegin": 2113,
+            "charEnd": 2209,
+            "end": 319,
+            "id": 19,
+            "text": "Umgekehrt sind Haushalte mit zwei erwerbstätigen Erwachsenen ohne Kinder am wenigsten gefährdet. ",
+            "tokenIds": [
+                306,
+                307,
+                308,
+                309,
+                310,
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318
+            ],
+            "tokens": [
+                "Umgekehrt",
+                "sind",
+                "Haushalte",
+                "mit",
+                "zwei",
+                "erwerbstätigen",
+                "Erwachsenen",
+                "ohne",
+                "Kinder",
+                "am",
+                "wenigsten",
+                "gefährdet",
+                "."
+            ]
+        },
+        {
+            "begin": 319,
+            "charBegin": 2212,
+            "charEnd": 2292,
+            "end": 330,
+            "id": 20,
+            "text": "Die Zahlen des Statistischen Bundesamtes weisen auch regionale Unterschiede aus. ",
+            "tokenIds": [
+                319,
+                320,
+                321,
+                322,
+                323,
+                324,
+                325,
+                326,
+                327,
+                328,
+                329
+            ],
+            "tokens": [
+                "Die",
+                "Zahlen",
+                "des",
+                "Statistischen",
+                "Bundesamtes",
+                "weisen",
+                "auch",
+                "regionale",
+                "Unterschiede",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "begin": 330,
+            "charBegin": 2293,
+            "charEnd": 2336,
+            "end": 337,
+            "id": 21,
+            "text": "So gibt es ein deutliches Ost-West-Gefälle. ",
+            "tokenIds": [
+                330,
+                331,
+                332,
+                333,
+                334,
+                335,
+                336
+            ],
+            "tokens": [
+                "So",
+                "gibt",
+                "es",
+                "ein",
+                "deutliches",
+                "Ost-West-Gefälle",
+                "."
+            ]
+        },
+        {
+            "begin": 337,
+            "charBegin": 2337,
+            "charEnd": 2454,
+            "end": 356,
+            "id": 22,
+            "text": "In den alten Bundesländern sind zwölf Prozent armutsgefährdet, während es in den neuen Bundesländern 17 Prozent sind.",
+            "tokenIds": [
+                337,
+                338,
+                339,
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346,
+                347,
+                348,
+                349,
+                350,
+                351,
+                352,
+                353,
+                354,
+                355
+            ],
+            "tokens": [
+                "In",
+                "den",
+                "alten",
+                "Bundesländern",
+                "sind",
+                "zwölf",
+                "Prozent",
+                "armutsgefährdet",
+                ",",
+                "während",
+                "es",
+                "in",
+                "den",
+                "neuen",
+                "Bundesländern",
+                "17",
+                "Prozent",
+                "sind",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 14,
+            "id": 1,
+            "sentence": 1,
+            "text": "Deutschland",
+            "word": 2
+        },
+        {
+            "charBegin": 15,
+            "charEnd": 23,
+            "id": 2,
+            "sentence": 1,
+            "text": "verfügen",
+            "word": 3
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 28,
+            "id": 3,
+            "sentence": 1,
+            "text": "nach",
+            "word": 4
+        },
+        {
+            "charBegin": 29,
+            "charEnd": 37,
+            "id": 4,
+            "sentence": 1,
+            "text": "Aussagen",
+            "word": 5
+        },
+        {
+            "charBegin": 38,
+            "charEnd": 41,
+            "id": 5,
+            "sentence": 1,
+            "text": "des",
+            "word": 6
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 55,
+            "id": 6,
+            "sentence": 1,
+            "text": "Statistischen",
+            "word": 7
+        },
+        {
+            "charBegin": 56,
+            "charEnd": 67,
+            "id": 7,
+            "sentence": 1,
+            "text": "Bundesamtes",
+            "word": 8
+        },
+        {
+            "charBegin": 68,
+            "charEnd": 70,
+            "id": 8,
+            "sentence": 1,
+            "text": "13",
+            "word": 9
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 78,
+            "id": 9,
+            "sentence": 1,
+            "text": "Prozent",
+            "word": 10
+        },
+        {
+            "charBegin": 79,
+            "charEnd": 82,
+            "id": 10,
+            "sentence": 1,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 83,
+            "charEnd": 94,
+            "id": 11,
+            "sentence": 1,
+            "text": "Bevölkerung",
+            "word": 12
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 99,
+            "id": 12,
+            "sentence": 1,
+            "text": "über",
+            "word": 13
+        },
+        {
+            "charBegin": 100,
+            "charEnd": 107,
+            "id": 13,
+            "sentence": 1,
+            "text": "weniger",
+            "word": 14
+        },
+        {
+            "charBegin": 108,
+            "charEnd": 111,
+            "id": 14,
+            "sentence": 1,
+            "text": "als",
+            "word": 15
+        },
+        {
+            "charBegin": 112,
+            "charEnd": 114,
+            "id": 15,
+            "sentence": 1,
+            "text": "60",
+            "word": 16
+        },
+        {
+            "charBegin": 115,
+            "charEnd": 122,
+            "id": 16,
+            "sentence": 1,
+            "text": "Prozent",
+            "word": 17
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 126,
+            "id": 17,
+            "sentence": 1,
+            "text": "des",
+            "word": 18
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 136,
+            "id": 18,
+            "sentence": 1,
+            "text": "mittleren",
+            "word": 19
+        },
+        {
+            "charBegin": 137,
+            "charEnd": 147,
+            "id": 19,
+            "sentence": 1,
+            "text": "Einkommens",
+            "word": 20
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 148,
+            "id": 20,
+            "sentence": 1,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 154,
+            "id": 21,
+            "sentence": 2,
+            "text": "Diese",
+            "word": 1
+        },
+        {
+            "charBegin": 155,
+            "charEnd": 161,
+            "id": 22,
+            "sentence": 2,
+            "text": "Grenze",
+            "word": 2
+        },
+        {
+            "charBegin": 162,
+            "charEnd": 167,
+            "id": 23,
+            "sentence": 2,
+            "text": "liegt",
+            "word": 3
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 170,
+            "id": 24,
+            "sentence": 2,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 171,
+            "charEnd": 182,
+            "id": 25,
+            "sentence": 2,
+            "text": "Deutschland",
+            "word": 5
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 190,
+            "id": 26,
+            "sentence": 2,
+            "text": "zurzeit",
+            "word": 6
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 194,
+            "id": 27,
+            "sentence": 2,
+            "text": "bei",
+            "word": 7
+        },
+        {
+            "charBegin": 195,
+            "charEnd": 200,
+            "id": 28,
+            "sentence": 2,
+            "text": "1.798",
+            "word": 8
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 205,
+            "id": 29,
+            "sentence": 2,
+            "text": "Euro",
+            "word": 9
+        },
+        {
+            "charBegin": 206,
+            "charEnd": 209,
+            "id": 30,
+            "sentence": 2,
+            "text": "für",
+            "word": 10
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 215,
+            "id": 31,
+            "sentence": 2,
+            "text": "einen",
+            "word": 11
+        },
+        {
+            "charBegin": 216,
+            "charEnd": 238,
+            "id": 32,
+            "sentence": 2,
+            "text": "Vier-Personen-Haushalt",
+            "word": 12
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 242,
+            "id": 33,
+            "sentence": 2,
+            "text": "mit",
+            "word": 13
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 247,
+            "id": 34,
+            "sentence": 2,
+            "text": "zwei",
+            "word": 14
+        },
+        {
+            "charBegin": 248,
+            "charEnd": 255,
+            "id": 35,
+            "sentence": 2,
+            "text": "Kindern",
+            "word": 15
+        },
+        {
+            "charBegin": 255,
+            "charEnd": 256,
+            "id": 36,
+            "sentence": 2,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 263,
+            "id": 37,
+            "sentence": 3,
+            "text": "Dieses",
+            "word": 1
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 273,
+            "id": 38,
+            "sentence": 3,
+            "text": "Kriterium",
+            "word": 2
+        },
+        {
+            "charBegin": 274,
+            "charEnd": 277,
+            "id": 39,
+            "sentence": 3,
+            "text": "ist",
+            "word": 3
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 287,
+            "id": 40,
+            "sentence": 3,
+            "text": "Grundlage",
+            "word": 4
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 291,
+            "id": 41,
+            "sentence": 3,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 304,
+            "id": 42,
+            "sentence": 3,
+            "text": "Einschätzung",
+            "word": 6
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 308,
+            "id": 43,
+            "sentence": 3,
+            "text": "bei",
+            "word": 7
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 314,
+            "id": 44,
+            "sentence": 3,
+            "text": "einer",
+            "word": 8
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 319,
+            "id": 45,
+            "sentence": 3,
+            "text": "10,6",
+            "word": 9
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 329,
+            "id": 46,
+            "sentence": 3,
+            "text": "Millionen",
+            "word": 10
+        },
+        {
+            "charBegin": 330,
+            "charEnd": 338,
+            "id": 47,
+            "sentence": 3,
+            "text": "Menschen",
+            "word": 11
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 350,
+            "id": 48,
+            "sentence": 3,
+            "text": "umfassenden",
+            "word": 12
+        },
+        {
+            "charBegin": 351,
+            "charEnd": 369,
+            "id": 49,
+            "sentence": 3,
+            "text": "Bevölkerungsgruppe",
+            "word": 13
+        },
+        {
+            "charBegin": 369,
+            "charEnd": 370,
+            "id": 50,
+            "sentence": 3,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 371,
+            "charEnd": 374,
+            "id": 51,
+            "sentence": 3,
+            "text": "von",
+            "word": 15
+        },
+        {
+            "charBegin": 375,
+            "charEnd": 380,
+            "id": 52,
+            "sentence": 3,
+            "text": "einer",
+            "word": 16
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 382,
+            "id": 53,
+            "sentence": 3,
+            "text": "„",
+            "word": 17
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 398,
+            "id": 54,
+            "sentence": 3,
+            "text": "Armutsgefährdung",
+            "word": 18
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 399,
+            "id": 55,
+            "sentence": 3,
+            "text": "“",
+            "word": 19
+        },
+        {
+            "charBegin": 400,
+            "charEnd": 402,
+            "id": 56,
+            "sentence": 3,
+            "text": "zu",
+            "word": 20
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 411,
+            "id": 57,
+            "sentence": 3,
+            "text": "sprechen",
+            "word": 21
+        },
+        {
+            "charBegin": 411,
+            "charEnd": 412,
+            "id": 58,
+            "sentence": 3,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 415,
+            "id": 59,
+            "sentence": 4,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 422,
+            "id": 60,
+            "sentence": 4,
+            "text": "dieser",
+            "word": 2
+        },
+        {
+            "charBegin": 423,
+            "charEnd": 427,
+            "id": 61,
+            "sentence": 4,
+            "text": "Zahl",
+            "word": 3
+        },
+        {
+            "charBegin": 428,
+            "charEnd": 432,
+            "id": 62,
+            "sentence": 4,
+            "text": "sind",
+            "word": 4
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 436,
+            "id": 63,
+            "sentence": 4,
+            "text": "1,7",
+            "word": 5
+        },
+        {
+            "charBegin": 437,
+            "charEnd": 446,
+            "id": 64,
+            "sentence": 4,
+            "text": "Millionen",
+            "word": 6
+        },
+        {
+            "charBegin": 447,
+            "charEnd": 453,
+            "id": 65,
+            "sentence": 4,
+            "text": "Kinder",
+            "word": 7
+        },
+        {
+            "charBegin": 454,
+            "charEnd": 457,
+            "id": 66,
+            "sentence": 4,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 458,
+            "charEnd": 469,
+            "id": 67,
+            "sentence": 4,
+            "text": "Jugendliche",
+            "word": 9
+        },
+        {
+            "charBegin": 470,
+            "charEnd": 475,
+            "id": 68,
+            "sentence": 4,
+            "text": "unter",
+            "word": 10
+        },
+        {
+            "charBegin": 476,
+            "charEnd": 478,
+            "id": 69,
+            "sentence": 4,
+            "text": "16",
+            "word": 11
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 485,
+            "id": 70,
+            "sentence": 4,
+            "text": "Jahren",
+            "word": 12
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 495,
+            "id": 71,
+            "sentence": 4,
+            "text": "enthalten",
+            "word": 13
+        },
+        {
+            "charBegin": 495,
+            "charEnd": 496,
+            "id": 72,
+            "sentence": 4,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 497,
+            "charEnd": 502,
+            "id": 73,
+            "sentence": 5,
+            "text": "Diese",
+            "word": 1
+        },
+        {
+            "charBegin": 503,
+            "charEnd": 513,
+            "id": 74,
+            "sentence": 5,
+            "text": "Ergebnisse",
+            "word": 2
+        },
+        {
+            "charBegin": 514,
+            "charEnd": 521,
+            "id": 75,
+            "sentence": 5,
+            "text": "stellte",
+            "word": 3
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 525,
+            "id": 76,
+            "sentence": 5,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 526,
+            "charEnd": 539,
+            "id": 77,
+            "sentence": 5,
+            "text": "Vizepräsident",
+            "word": 5
+        },
+        {
+            "charBegin": 540,
+            "charEnd": 543,
+            "id": 78,
+            "sentence": 5,
+            "text": "des",
+            "word": 6
+        },
+        {
+            "charBegin": 544,
+            "charEnd": 549,
+            "id": 79,
+            "sentence": 5,
+            "text": "Amtes",
+            "word": 7
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 550,
+            "id": 80,
+            "sentence": 5,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 551,
+            "charEnd": 557,
+            "id": 81,
+            "sentence": 5,
+            "text": "Walter",
+            "word": 9
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 569,
+            "id": 82,
+            "sentence": 5,
+            "text": "Radermacher",
+            "word": 10
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 570,
+            "id": 83,
+            "sentence": 5,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 573,
+            "id": 84,
+            "sentence": 5,
+            "text": "am",
+            "word": 12
+        },
+        {
+            "charBegin": 574,
+            "charEnd": 582,
+            "id": 85,
+            "sentence": 5,
+            "text": "Dienstag",
+            "word": 13
+        },
+        {
+            "charBegin": 583,
+            "charEnd": 585,
+            "id": 86,
+            "sentence": 5,
+            "text": "in",
+            "word": 14
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 592,
+            "id": 87,
+            "sentence": 5,
+            "text": "Berlin",
+            "word": 15
+        },
+        {
+            "charBegin": 593,
+            "charEnd": 596,
+            "id": 88,
+            "sentence": 5,
+            "text": "vor",
+            "word": 16
+        },
+        {
+            "charBegin": 596,
+            "charEnd": 597,
+            "id": 89,
+            "sentence": 5,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 598,
+            "charEnd": 601,
+            "id": 90,
+            "sentence": 6,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 602,
+            "charEnd": 607,
+            "id": 91,
+            "sentence": 6,
+            "text": "Daten",
+            "word": 2
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 616,
+            "id": 92,
+            "sentence": 6,
+            "text": "beziehen",
+            "word": 3
+        },
+        {
+            "charBegin": 617,
+            "charEnd": 621,
+            "id": 93,
+            "sentence": 6,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 625,
+            "id": 94,
+            "sentence": 6,
+            "text": "auf",
+            "word": 5
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 629,
+            "id": 95,
+            "sentence": 6,
+            "text": "das",
+            "word": 6
+        },
+        {
+            "charBegin": 630,
+            "charEnd": 634,
+            "id": 96,
+            "sentence": 6,
+            "text": "Jahr",
+            "word": 7
+        },
+        {
+            "charBegin": 635,
+            "charEnd": 640,
+            "id": 97,
+            "sentence": 6,
+            "text": "2004.",
+            "word": 8
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 648,
+            "id": 98,
+            "sentence": 7,
+            "text": "Anhand",
+            "word": 1
+        },
+        {
+            "charBegin": 649,
+            "charEnd": 652,
+            "id": 99,
+            "sentence": 7,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 653,
+            "charEnd": 666,
+            "id": 100,
+            "sentence": 7,
+            "text": "statistischen",
+            "word": 3
+        },
+        {
+            "charBegin": 667,
+            "charEnd": 672,
+            "id": 101,
+            "sentence": 7,
+            "text": "Daten",
+            "word": 4
+        },
+        {
+            "charBegin": 673,
+            "charEnd": 679,
+            "id": 102,
+            "sentence": 7,
+            "text": "können",
+            "word": 5
+        },
+        {
+            "charBegin": 680,
+            "charEnd": 684,
+            "id": 103,
+            "sentence": 7,
+            "text": "auch",
+            "word": 6
+        },
+        {
+            "charBegin": 685,
+            "charEnd": 693,
+            "id": 104,
+            "sentence": 7,
+            "text": "Aussagen",
+            "word": 7
+        },
+        {
+            "charBegin": 694,
+            "charEnd": 696,
+            "id": 105,
+            "sentence": 7,
+            "text": "zu",
+            "word": 8
+        },
+        {
+            "charBegin": 697,
+            "charEnd": 700,
+            "id": 106,
+            "sentence": 7,
+            "text": "den",
+            "word": 9
+        },
+        {
+            "charBegin": 701,
+            "charEnd": 716,
+            "id": 107,
+            "sentence": 7,
+            "text": "Lebensumständen",
+            "word": 10
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 723,
+            "id": 108,
+            "sentence": 7,
+            "text": "dieser",
+            "word": 11
+        },
+        {
+            "charBegin": 724,
+            "charEnd": 733,
+            "id": 109,
+            "sentence": 7,
+            "text": "Haushalte",
+            "word": 12
+        },
+        {
+            "charBegin": 734,
+            "charEnd": 741,
+            "id": 110,
+            "sentence": 7,
+            "text": "gemacht",
+            "word": 13
+        },
+        {
+            "charBegin": 742,
+            "charEnd": 748,
+            "id": 111,
+            "sentence": 7,
+            "text": "werden",
+            "word": 14
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 749,
+            "id": 112,
+            "sentence": 7,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 750,
+            "charEnd": 759,
+            "id": 113,
+            "sentence": 8,
+            "text": "Bestimmte",
+            "word": 1
+        },
+        {
+            "charBegin": 760,
+            "charEnd": 768,
+            "id": 114,
+            "sentence": 8,
+            "text": "Ausgaben",
+            "word": 2
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 773,
+            "id": 115,
+            "sentence": 8,
+            "text": "sind",
+            "word": 3
+        },
+        {
+            "charBegin": 774,
+            "charEnd": 782,
+            "id": 116,
+            "sentence": 8,
+            "text": "aufgrund",
+            "word": 4
+        },
+        {
+            "charBegin": 783,
+            "charEnd": 786,
+            "id": 117,
+            "sentence": 8,
+            "text": "des",
+            "word": 5
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 792,
+            "id": 118,
+            "sentence": 8,
+            "text": "engen",
+            "word": 6
+        },
+        {
+            "charBegin": 793,
+            "charEnd": 805,
+            "id": 119,
+            "sentence": 8,
+            "text": "finanziellen",
+            "word": 7
+        },
+        {
+            "charBegin": 806,
+            "charEnd": 816,
+            "id": 120,
+            "sentence": 8,
+            "text": "Spielraums",
+            "word": 8
+        },
+        {
+            "charBegin": 817,
+            "charEnd": 820,
+            "id": 121,
+            "sentence": 8,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 821,
+            "charEnd": 832,
+            "id": 122,
+            "sentence": 8,
+            "text": "betroffenen",
+            "word": 10
+        },
+        {
+            "charBegin": 833,
+            "charEnd": 841,
+            "id": 123,
+            "sentence": 8,
+            "text": "Familien",
+            "word": 11
+        },
+        {
+            "charBegin": 842,
+            "charEnd": 847,
+            "id": 124,
+            "sentence": 8,
+            "text": "nicht",
+            "word": 12
+        },
+        {
+            "charBegin": 848,
+            "charEnd": 855,
+            "id": 125,
+            "sentence": 8,
+            "text": "möglich",
+            "word": 13
+        },
+        {
+            "charBegin": 855,
+            "charEnd": 856,
+            "id": 126,
+            "sentence": 8,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 857,
+            "charEnd": 861,
+            "id": 127,
+            "sentence": 9,
+            "text": "Dazu",
+            "word": 1
+        },
+        {
+            "charBegin": 862,
+            "charEnd": 868,
+            "id": 128,
+            "sentence": 9,
+            "text": "gehört",
+            "word": 2
+        },
+        {
+            "charBegin": 869,
+            "charEnd": 883,
+            "id": 129,
+            "sentence": 9,
+            "text": "beispielsweise",
+            "word": 3
+        },
+        {
+            "charBegin": 884,
+            "charEnd": 887,
+            "id": 130,
+            "sentence": 9,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 899,
+            "id": 131,
+            "sentence": 9,
+            "text": "Möglichkeit",
+            "word": 5
+        },
+        {
+            "charBegin": 899,
+            "charEnd": 900,
+            "id": 132,
+            "sentence": 9,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 901,
+            "charEnd": 907,
+            "id": 133,
+            "sentence": 9,
+            "text": "Urlaub",
+            "word": 7
+        },
+        {
+            "charBegin": 908,
+            "charEnd": 910,
+            "id": 134,
+            "sentence": 9,
+            "text": "zu",
+            "word": 8
+        },
+        {
+            "charBegin": 911,
+            "charEnd": 917,
+            "id": 135,
+            "sentence": 9,
+            "text": "machen",
+            "word": 9
+        },
+        {
+            "charBegin": 917,
+            "charEnd": 918,
+            "id": 136,
+            "sentence": 9,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 919,
+            "charEnd": 922,
+            "id": 137,
+            "sentence": 10,
+            "text": "Bei",
+            "word": 1
+        },
+        {
+            "charBegin": 923,
+            "charEnd": 926,
+            "id": 138,
+            "sentence": 10,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 927,
+            "charEnd": 937,
+            "id": 139,
+            "sentence": 10,
+            "text": "Heizkosten",
+            "word": 3
+        },
+        {
+            "charBegin": 938,
+            "charEnd": 942,
+            "id": 140,
+            "sentence": 10,
+            "text": "muss",
+            "word": 4
+        },
+        {
+            "charBegin": 943,
+            "charEnd": 945,
+            "id": 141,
+            "sentence": 10,
+            "text": "im",
+            "word": 5
+        },
+        {
+            "charBegin": 946,
+            "charEnd": 952,
+            "id": 142,
+            "sentence": 10,
+            "text": "Winter",
+            "word": 6
+        },
+        {
+            "charBegin": 953,
+            "charEnd": 959,
+            "id": 143,
+            "sentence": 10,
+            "text": "ebenso",
+            "word": 7
+        },
+        {
+            "charBegin": 960,
+            "charEnd": 967,
+            "id": 144,
+            "sentence": 10,
+            "text": "gespart",
+            "word": 8
+        },
+        {
+            "charBegin": 968,
+            "charEnd": 974,
+            "id": 145,
+            "sentence": 10,
+            "text": "werden",
+            "word": 9
+        },
+        {
+            "charBegin": 975,
+            "charEnd": 978,
+            "id": 146,
+            "sentence": 10,
+            "text": "wie",
+            "word": 10
+        },
+        {
+            "charBegin": 979,
+            "charEnd": 982,
+            "id": 147,
+            "sentence": 10,
+            "text": "bei",
+            "word": 11
+        },
+        {
+            "charBegin": 983,
+            "charEnd": 994,
+            "id": 148,
+            "sentence": 10,
+            "text": "notwendigen",
+            "word": 12
+        },
+        {
+            "charBegin": 995,
+            "charEnd": 1015,
+            "id": 149,
+            "sentence": 10,
+            "text": "Haushaltsreparaturen",
+            "word": 13
+        },
+        {
+            "charBegin": 1015,
+            "charEnd": 1016,
+            "id": 150,
+            "sentence": 10,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1017,
+            "charEnd": 1026,
+            "id": 151,
+            "sentence": 11,
+            "text": "Plötzlich",
+            "word": 1
+        },
+        {
+            "charBegin": 1027,
+            "charEnd": 1038,
+            "id": 152,
+            "sentence": 11,
+            "text": "auftretende",
+            "word": 2
+        },
+        {
+            "charBegin": 1039,
+            "charEnd": 1054,
+            "id": 153,
+            "sentence": 11,
+            "text": "Mehrbelastungen",
+            "word": 3
+        },
+        {
+            "charBegin": 1055,
+            "charEnd": 1061,
+            "id": 154,
+            "sentence": 11,
+            "text": "können",
+            "word": 4
+        },
+        {
+            "charBegin": 1062,
+            "charEnd": 1067,
+            "id": 155,
+            "sentence": 11,
+            "text": "nicht",
+            "word": 5
+        },
+        {
+            "charBegin": 1068,
+            "charEnd": 1077,
+            "id": 156,
+            "sentence": 11,
+            "text": "bewältigt",
+            "word": 6
+        },
+        {
+            "charBegin": 1078,
+            "charEnd": 1084,
+            "id": 157,
+            "sentence": 11,
+            "text": "werden",
+            "word": 7
+        },
+        {
+            "charBegin": 1084,
+            "charEnd": 1085,
+            "id": 158,
+            "sentence": 11,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 1086,
+            "charEnd": 1091,
+            "id": 159,
+            "sentence": 12,
+            "text": "Unter",
+            "word": 1
+        },
+        {
+            "charBegin": 1092,
+            "charEnd": 1095,
+            "id": 160,
+            "sentence": 12,
+            "text": "dem",
+            "word": 2
+        },
+        {
+            "charBegin": 1096,
+            "charEnd": 1101,
+            "id": 161,
+            "sentence": 12,
+            "text": "Zwang",
+            "word": 3
+        },
+        {
+            "charBegin": 1101,
+            "charEnd": 1102,
+            "id": 162,
+            "sentence": 12,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 1103,
+            "charEnd": 1109,
+            "id": 163,
+            "sentence": 12,
+            "text": "Kosten",
+            "word": 5
+        },
+        {
+            "charBegin": 1110,
+            "charEnd": 1112,
+            "id": 164,
+            "sentence": 12,
+            "text": "zu",
+            "word": 6
+        },
+        {
+            "charBegin": 1113,
+            "charEnd": 1119,
+            "id": 165,
+            "sentence": 12,
+            "text": "sparen",
+            "word": 7
+        },
+        {
+            "charBegin": 1119,
+            "charEnd": 1120,
+            "id": 166,
+            "sentence": 12,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 1121,
+            "charEnd": 1127,
+            "id": 167,
+            "sentence": 12,
+            "text": "leidet",
+            "word": 9
+        },
+        {
+            "charBegin": 1128,
+            "charEnd": 1131,
+            "id": 168,
+            "sentence": 12,
+            "text": "oft",
+            "word": 10
+        },
+        {
+            "charBegin": 1132,
+            "charEnd": 1136,
+            "id": 169,
+            "sentence": 12,
+            "text": "auch",
+            "word": 11
+        },
+        {
+            "charBegin": 1137,
+            "charEnd": 1140,
+            "id": 170,
+            "sentence": 12,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 1141,
+            "charEnd": 1156,
+            "id": 171,
+            "sentence": 12,
+            "text": "gesundheitliche",
+            "word": 13
+        },
+        {
+            "charBegin": 1157,
+            "charEnd": 1167,
+            "id": 172,
+            "sentence": 12,
+            "text": "Versorgung",
+            "word": 14
+        },
+        {
+            "charBegin": 1167,
+            "charEnd": 1168,
+            "id": 173,
+            "sentence": 12,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 1169,
+            "charEnd": 1173,
+            "id": 174,
+            "sentence": 12,
+            "text": "weil",
+            "word": 16
+        },
+        {
+            "charBegin": 1174,
+            "charEnd": 1179,
+            "id": 175,
+            "sentence": 12,
+            "text": "jeder",
+            "word": 17
+        },
+        {
+            "charBegin": 1180,
+            "charEnd": 1186,
+            "id": 176,
+            "sentence": 12,
+            "text": "fünfte",
+            "word": 18
+        },
+        {
+            "charBegin": 1187,
+            "charEnd": 1193,
+            "id": 177,
+            "sentence": 12,
+            "text": "dieser",
+            "word": 19
+        },
+        {
+            "charBegin": 1194,
+            "charEnd": 1212,
+            "id": 178,
+            "sentence": 12,
+            "text": "Bevölkerungsgruppe",
+            "word": 20
+        },
+        {
+            "charBegin": 1213,
+            "charEnd": 1218,
+            "id": 179,
+            "sentence": 12,
+            "text": "wegen",
+            "word": 21
+        },
+        {
+            "charBegin": 1219,
+            "charEnd": 1222,
+            "id": 180,
+            "sentence": 12,
+            "text": "der",
+            "word": 22
+        },
+        {
+            "charBegin": 1223,
+            "charEnd": 1234,
+            "id": 181,
+            "sentence": 12,
+            "text": "gestiegenen",
+            "word": 23
+        },
+        {
+            "charBegin": 1235,
+            "charEnd": 1241,
+            "id": 182,
+            "sentence": 12,
+            "text": "Kosten",
+            "word": 24
+        },
+        {
+            "charBegin": 1242,
+            "charEnd": 1243,
+            "id": 183,
+            "sentence": 12,
+            "text": "(",
+            "word": 25
+        },
+        {
+            "charBegin": 1243,
+            "charEnd": 1255,
+            "id": 184,
+            "sentence": 12,
+            "text": "Praxisgebühr",
+            "word": 26
+        },
+        {
+            "charBegin": 1255,
+            "charEnd": 1256,
+            "id": 185,
+            "sentence": 12,
+            "text": ",",
+            "word": 27
+        },
+        {
+            "charBegin": 1257,
+            "charEnd": 1267,
+            "id": 186,
+            "sentence": 12,
+            "text": "gestiegene",
+            "word": 28
+        },
+        {
+            "charBegin": 1268,
+            "charEnd": 1282,
+            "id": 187,
+            "sentence": 12,
+            "text": "Rezeptgebühren",
+            "word": 29
+        },
+        {
+            "charBegin": 1282,
+            "charEnd": 1283,
+            "id": 188,
+            "sentence": 12,
+            "text": ")",
+            "word": 30
+        },
+        {
+            "charBegin": 1284,
+            "charEnd": 1289,
+            "id": 189,
+            "sentence": 12,
+            "text": "schon",
+            "word": 31
+        },
+        {
+            "charBegin": 1290,
+            "charEnd": 1296,
+            "id": 190,
+            "sentence": 12,
+            "text": "einmal",
+            "word": 32
+        },
+        {
+            "charBegin": 1297,
+            "charEnd": 1300,
+            "id": 191,
+            "sentence": 12,
+            "text": "auf",
+            "word": 33
+        },
+        {
+            "charBegin": 1301,
+            "charEnd": 1312,
+            "id": 192,
+            "sentence": 12,
+            "text": "Arztbesuche",
+            "word": 34
+        },
+        {
+            "charBegin": 1313,
+            "charEnd": 1323,
+            "id": 193,
+            "sentence": 12,
+            "text": "verzichtet",
+            "word": 35
+        },
+        {
+            "charBegin": 1323,
+            "charEnd": 1324,
+            "id": 194,
+            "sentence": 12,
+            "text": ".",
+            "word": 36
+        },
+        {
+            "charBegin": 1325,
+            "charEnd": 1329,
+            "id": 195,
+            "sentence": 13,
+            "text": "Auch",
+            "word": 1
+        },
+        {
+            "charBegin": 1330,
+            "charEnd": 1332,
+            "id": 196,
+            "sentence": 13,
+            "text": "so",
+            "word": 2
+        },
+        {
+            "charBegin": 1333,
+            "charEnd": 1341,
+            "id": 197,
+            "sentence": 13,
+            "text": "genannte",
+            "word": 3
+        },
+        {
+            "charBegin": 1342,
+            "charEnd": 1352,
+            "id": 198,
+            "sentence": 13,
+            "text": "langlebige",
+            "word": 4
+        },
+        {
+            "charBegin": 1353,
+            "charEnd": 1364,
+            "id": 199,
+            "sentence": 13,
+            "text": "Konsumgüter",
+            "word": 5
+        },
+        {
+            "charBegin": 1365,
+            "charEnd": 1371,
+            "id": 200,
+            "sentence": 13,
+            "text": "weisen",
+            "word": 6
+        },
+        {
+            "charBegin": 1372,
+            "charEnd": 1375,
+            "id": 201,
+            "sentence": 13,
+            "text": "auf",
+            "word": 7
+        },
+        {
+            "charBegin": 1376,
+            "charEnd": 1388,
+            "id": 202,
+            "sentence": 13,
+            "text": "Unterschiede",
+            "word": 8
+        },
+        {
+            "charBegin": 1389,
+            "charEnd": 1391,
+            "id": 203,
+            "sentence": 13,
+            "text": "in",
+            "word": 9
+        },
+        {
+            "charBegin": 1392,
+            "charEnd": 1395,
+            "id": 204,
+            "sentence": 13,
+            "text": "den",
+            "word": 10
+        },
+        {
+            "charBegin": 1396,
+            "charEnd": 1415,
+            "id": 205,
+            "sentence": 13,
+            "text": "Lebensverhältnissen",
+            "word": 11
+        },
+        {
+            "charBegin": 1416,
+            "charEnd": 1419,
+            "id": 206,
+            "sentence": 13,
+            "text": "hin",
+            "word": 12
+        },
+        {
+            "charBegin": 1419,
+            "charEnd": 1420,
+            "id": 207,
+            "sentence": 13,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 1421,
+            "charEnd": 1428,
+            "id": 208,
+            "sentence": 14,
+            "text": "Telefon",
+            "word": 1
+        },
+        {
+            "charBegin": 1428,
+            "charEnd": 1429,
+            "id": 209,
+            "sentence": 14,
+            "text": ",",
+            "word": 2
+        },
+        {
+            "charBegin": 1430,
+            "charEnd": 1439,
+            "id": 210,
+            "sentence": 14,
+            "text": "Fernseher",
+            "word": 3
+        },
+        {
+            "charBegin": 1440,
+            "charEnd": 1444,
+            "id": 211,
+            "sentence": 14,
+            "text": "oder",
+            "word": 4
+        },
+        {
+            "charBegin": 1445,
+            "charEnd": 1458,
+            "id": 212,
+            "sentence": 14,
+            "text": "Waschmaschine",
+            "word": 5
+        },
+        {
+            "charBegin": 1459,
+            "charEnd": 1465,
+            "id": 213,
+            "sentence": 14,
+            "text": "fehlen",
+            "word": 6
+        },
+        {
+            "charBegin": 1466,
+            "charEnd": 1469,
+            "id": 214,
+            "sentence": 14,
+            "text": "nur",
+            "word": 7
+        },
+        {
+            "charBegin": 1470,
+            "charEnd": 1472,
+            "id": 215,
+            "sentence": 14,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 1473,
+            "charEnd": 1477,
+            "id": 216,
+            "sentence": 14,
+            "text": "zwei",
+            "word": 9
+        },
+        {
+            "charBegin": 1478,
+            "charEnd": 1481,
+            "id": 217,
+            "sentence": 14,
+            "text": "bis",
+            "word": 10
+        },
+        {
+            "charBegin": 1482,
+            "charEnd": 1486,
+            "id": 218,
+            "sentence": 14,
+            "text": "drei",
+            "word": 11
+        },
+        {
+            "charBegin": 1487,
+            "charEnd": 1494,
+            "id": 219,
+            "sentence": 14,
+            "text": "Prozent",
+            "word": 12
+        },
+        {
+            "charBegin": 1495,
+            "charEnd": 1498,
+            "id": 220,
+            "sentence": 14,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 1499,
+            "charEnd": 1508,
+            "id": 221,
+            "sentence": 14,
+            "text": "Haushalte",
+            "word": 14
+        },
+        {
+            "charBegin": 1508,
+            "charEnd": 1509,
+            "id": 222,
+            "sentence": 14,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 1510,
+            "charEnd": 1517,
+            "id": 223,
+            "sentence": 15,
+            "text": "Dagegen",
+            "word": 1
+        },
+        {
+            "charBegin": 1518,
+            "charEnd": 1522,
+            "id": 224,
+            "sentence": 15,
+            "text": "muss",
+            "word": 2
+        },
+        {
+            "charBegin": 1523,
+            "charEnd": 1527,
+            "id": 225,
+            "sentence": 15,
+            "text": "rund",
+            "word": 3
+        },
+        {
+            "charBegin": 1528,
+            "charEnd": 1531,
+            "id": 226,
+            "sentence": 15,
+            "text": "ein",
+            "word": 4
+        },
+        {
+            "charBegin": 1532,
+            "charEnd": 1539,
+            "id": 227,
+            "sentence": 15,
+            "text": "Fünftel",
+            "word": 5
+        },
+        {
+            "charBegin": 1540,
+            "charEnd": 1541,
+            "id": 228,
+            "sentence": 15,
+            "text": "(",
+            "word": 6
+        },
+        {
+            "charBegin": 1541,
+            "charEnd": 1543,
+            "id": 229,
+            "sentence": 15,
+            "text": "21",
+            "word": 7
+        },
+        {
+            "charBegin": 1544,
+            "charEnd": 1551,
+            "id": 230,
+            "sentence": 15,
+            "text": "Prozent",
+            "word": 8
+        },
+        {
+            "charBegin": 1551,
+            "charEnd": 1552,
+            "id": 231,
+            "sentence": 15,
+            "text": ")",
+            "word": 9
+        },
+        {
+            "charBegin": 1553,
+            "charEnd": 1556,
+            "id": 232,
+            "sentence": 15,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 1557,
+            "charEnd": 1574,
+            "id": 233,
+            "sentence": 15,
+            "text": "armutsgefährdeten",
+            "word": 11
+        },
+        {
+            "charBegin": 1575,
+            "charEnd": 1584,
+            "id": 234,
+            "sentence": 15,
+            "text": "Haushalte",
+            "word": 12
+        },
+        {
+            "charBegin": 1585,
+            "charEnd": 1588,
+            "id": 235,
+            "sentence": 15,
+            "text": "auf",
+            "word": 13
+        },
+        {
+            "charBegin": 1589,
+            "charEnd": 1594,
+            "id": 236,
+            "sentence": 15,
+            "text": "einen",
+            "word": 14
+        },
+        {
+            "charBegin": 1595,
+            "charEnd": 1603,
+            "id": 237,
+            "sentence": 15,
+            "text": "Computer",
+            "word": 15
+        },
+        {
+            "charBegin": 1604,
+            "charEnd": 1614,
+            "id": 238,
+            "sentence": 15,
+            "text": "verzichten",
+            "word": 16
+        },
+        {
+            "charBegin": 1614,
+            "charEnd": 1615,
+            "id": 239,
+            "sentence": 15,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 1616,
+            "charEnd": 1618,
+            "id": 240,
+            "sentence": 15,
+            "text": "in",
+            "word": 18
+        },
+        {
+            "charBegin": 1619,
+            "charEnd": 1622,
+            "id": 241,
+            "sentence": 15,
+            "text": "den",
+            "word": 19
+        },
+        {
+            "charBegin": 1623,
+            "charEnd": 1630,
+            "id": 242,
+            "sentence": 15,
+            "text": "übrigen",
+            "word": 20
+        },
+        {
+            "charBegin": 1631,
+            "charEnd": 1654,
+            "id": 243,
+            "sentence": 15,
+            "text": "nicht-armutsgefährdeten",
+            "word": 21
+        },
+        {
+            "charBegin": 1655,
+            "charEnd": 1665,
+            "id": 244,
+            "sentence": 15,
+            "text": "Haushalten",
+            "word": 22
+        },
+        {
+            "charBegin": 1666,
+            "charEnd": 1672,
+            "id": 245,
+            "sentence": 15,
+            "text": "müssen",
+            "word": 23
+        },
+        {
+            "charBegin": 1673,
+            "charEnd": 1676,
+            "id": 246,
+            "sentence": 15,
+            "text": "nur",
+            "word": 24
+        },
+        {
+            "charBegin": 1677,
+            "charEnd": 1681,
+            "id": 247,
+            "sentence": 15,
+            "text": "vier",
+            "word": 25
+        },
+        {
+            "charBegin": 1682,
+            "charEnd": 1689,
+            "id": 248,
+            "sentence": 15,
+            "text": "Prozent",
+            "word": 26
+        },
+        {
+            "charBegin": 1690,
+            "charEnd": 1696,
+            "id": 249,
+            "sentence": 15,
+            "text": "darauf",
+            "word": 27
+        },
+        {
+            "charBegin": 1697,
+            "charEnd": 1707,
+            "id": 250,
+            "sentence": 15,
+            "text": "verzichten",
+            "word": 28
+        },
+        {
+            "charBegin": 1707,
+            "charEnd": 1708,
+            "id": 251,
+            "sentence": 15,
+            "text": ".",
+            "word": 29
+        },
+        {
+            "charBegin": 1709,
+            "charEnd": 1712,
+            "id": 252,
+            "sentence": 16,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1713,
+            "charEnd": 1723,
+            "id": 253,
+            "sentence": 16,
+            "text": "Verteilung",
+            "word": 2
+        },
+        {
+            "charBegin": 1724,
+            "charEnd": 1727,
+            "id": 254,
+            "sentence": 16,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 1728,
+            "charEnd": 1737,
+            "id": 255,
+            "sentence": 16,
+            "text": "Computern",
+            "word": 4
+        },
+        {
+            "charBegin": 1738,
+            "charEnd": 1741,
+            "id": 256,
+            "sentence": 16,
+            "text": "auf",
+            "word": 5
+        },
+        {
+            "charBegin": 1742,
+            "charEnd": 1745,
+            "id": 257,
+            "sentence": 16,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 1746,
+            "charEnd": 1755,
+            "id": 258,
+            "sentence": 16,
+            "text": "Haushalte",
+            "word": 7
+        },
+        {
+            "charBegin": 1756,
+            "charEnd": 1760,
+            "id": 259,
+            "sentence": 16,
+            "text": "kann",
+            "word": 8
+        },
+        {
+            "charBegin": 1761,
+            "charEnd": 1775,
+            "id": 260,
+            "sentence": 16,
+            "text": "möglicherweise",
+            "word": 9
+        },
+        {
+            "charBegin": 1776,
+            "charEnd": 1782,
+            "id": 261,
+            "sentence": 16,
+            "text": "jedoch",
+            "word": 10
+        },
+        {
+            "charBegin": 1783,
+            "charEnd": 1787,
+            "id": 262,
+            "sentence": 16,
+            "text": "auch",
+            "word": 11
+        },
+        {
+            "charBegin": 1788,
+            "charEnd": 1791,
+            "id": 263,
+            "sentence": 16,
+            "text": "vom",
+            "word": 12
+        },
+        {
+            "charBegin": 1792,
+            "charEnd": 1802,
+            "id": 264,
+            "sentence": 16,
+            "text": "erworbenen",
+            "word": 13
+        },
+        {
+            "charBegin": 1803,
+            "charEnd": 1815,
+            "id": 265,
+            "sentence": 16,
+            "text": "Bildungsgrad",
+            "word": 14
+        },
+        {
+            "charBegin": 1816,
+            "charEnd": 1824,
+            "id": 266,
+            "sentence": 16,
+            "text": "abhängig",
+            "word": 15
+        },
+        {
+            "charBegin": 1825,
+            "charEnd": 1829,
+            "id": 267,
+            "sentence": 16,
+            "text": "sein",
+            "word": 16
+        },
+        {
+            "charBegin": 1829,
+            "charEnd": 1830,
+            "id": 268,
+            "sentence": 16,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 1833,
+            "charEnd": 1836,
+            "id": 269,
+            "sentence": 17,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1837,
+            "charEnd": 1839,
+            "id": 270,
+            "sentence": 17,
+            "text": "so",
+            "word": 2
+        },
+        {
+            "charBegin": 1840,
+            "charEnd": 1850,
+            "id": 271,
+            "sentence": 17,
+            "text": "definierte",
+            "word": 3
+        },
+        {
+            "charBegin": 1851,
+            "charEnd": 1867,
+            "id": 272,
+            "sentence": 17,
+            "text": "Armutsgefährdung",
+            "word": 4
+        },
+        {
+            "charBegin": 1868,
+            "charEnd": 1874,
+            "id": 273,
+            "sentence": 17,
+            "text": "trifft",
+            "word": 5
+        },
+        {
+            "charBegin": 1875,
+            "charEnd": 1878,
+            "id": 274,
+            "sentence": 17,
+            "text": "vor",
+            "word": 6
+        },
+        {
+            "charBegin": 1879,
+            "charEnd": 1884,
+            "id": 275,
+            "sentence": 17,
+            "text": "allem",
+            "word": 7
+        },
+        {
+            "charBegin": 1885,
+            "charEnd": 1896,
+            "id": 276,
+            "sentence": 17,
+            "text": "Erwerbslose",
+            "word": 8
+        },
+        {
+            "charBegin": 1897,
+            "charEnd": 1900,
+            "id": 277,
+            "sentence": 17,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 1901,
+            "charEnd": 1909,
+            "id": 278,
+            "sentence": 17,
+            "text": "Menschen",
+            "word": 10
+        },
+        {
+            "charBegin": 1910,
+            "charEnd": 1913,
+            "id": 279,
+            "sentence": 17,
+            "text": "mit",
+            "word": 11
+        },
+        {
+            "charBegin": 1914,
+            "charEnd": 1923,
+            "id": 280,
+            "sentence": 17,
+            "text": "fehlenden",
+            "word": 12
+        },
+        {
+            "charBegin": 1924,
+            "charEnd": 1928,
+            "id": 281,
+            "sentence": 17,
+            "text": "oder",
+            "word": 13
+        },
+        {
+            "charBegin": 1929,
+            "charEnd": 1937,
+            "id": 282,
+            "sentence": 17,
+            "text": "geringen",
+            "word": 14
+        },
+        {
+            "charBegin": 1938,
+            "charEnd": 1954,
+            "id": 283,
+            "sentence": 17,
+            "text": "Schulabschlüssen",
+            "word": 15
+        },
+        {
+            "charBegin": 1954,
+            "charEnd": 1955,
+            "id": 284,
+            "sentence": 17,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 1956,
+            "charEnd": 1959,
+            "id": 285,
+            "sentence": 18,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 1960,
+            "charEnd": 1968,
+            "id": 286,
+            "sentence": 18,
+            "text": "weiterer",
+            "word": 2
+        },
+        {
+            "charBegin": 1969,
+            "charEnd": 1975,
+            "id": 287,
+            "sentence": 18,
+            "text": "Faktor",
+            "word": 3
+        },
+        {
+            "charBegin": 1976,
+            "charEnd": 1980,
+            "id": 288,
+            "sentence": 18,
+            "text": "sind",
+            "word": 4
+        },
+        {
+            "charBegin": 1981,
+            "charEnd": 1989,
+            "id": 289,
+            "sentence": 18,
+            "text": "fehlende",
+            "word": 5
+        },
+        {
+            "charBegin": 1990,
+            "charEnd": 2004,
+            "id": 290,
+            "sentence": 18,
+            "text": "Einspareffekte",
+            "word": 6
+        },
+        {
+            "charBegin": 2005,
+            "charEnd": 2008,
+            "id": 291,
+            "sentence": 18,
+            "text": "bei",
+            "word": 7
+        },
+        {
+            "charBegin": 2009,
+            "charEnd": 2023,
+            "id": 292,
+            "sentence": 18,
+            "text": "Alleinlebenden",
+            "word": 8
+        },
+        {
+            "charBegin": 2023,
+            "charEnd": 2024,
+            "id": 293,
+            "sentence": 18,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 2025,
+            "charEnd": 2028,
+            "id": 294,
+            "sentence": 19,
+            "text": "Bei",
+            "word": 1
+        },
+        {
+            "charBegin": 2029,
+            "charEnd": 2032,
+            "id": 295,
+            "sentence": 19,
+            "text": "16-",
+            "word": 2
+        },
+        {
+            "charBegin": 2033,
+            "charEnd": 2036,
+            "id": 296,
+            "sentence": 19,
+            "text": "bis",
+            "word": 3
+        },
+        {
+            "charBegin": 2037,
+            "charEnd": 2048,
+            "id": 297,
+            "sentence": 19,
+            "text": "24-jährigen",
+            "word": 4
+        },
+        {
+            "charBegin": 2049,
+            "charEnd": 2063,
+            "id": 298,
+            "sentence": 19,
+            "text": "Alleinlebenden",
+            "word": 5
+        },
+        {
+            "charBegin": 2064,
+            "charEnd": 2069,
+            "id": 299,
+            "sentence": 19,
+            "text": "liegt",
+            "word": 6
+        },
+        {
+            "charBegin": 2070,
+            "charEnd": 2073,
+            "id": 300,
+            "sentence": 19,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 2074,
+            "charEnd": 2096,
+            "id": 301,
+            "sentence": 19,
+            "text": "Armutsgefährdungsquote",
+            "word": 8
+        },
+        {
+            "charBegin": 2097,
+            "charEnd": 2100,
+            "id": 302,
+            "sentence": 19,
+            "text": "bei",
+            "word": 9
+        },
+        {
+            "charBegin": 2101,
+            "charEnd": 2103,
+            "id": 303,
+            "sentence": 19,
+            "text": "53",
+            "word": 10
+        },
+        {
+            "charBegin": 2104,
+            "charEnd": 2111,
+            "id": 304,
+            "sentence": 19,
+            "text": "Prozent",
+            "word": 11
+        },
+        {
+            "charBegin": 2111,
+            "charEnd": 2112,
+            "id": 305,
+            "sentence": 19,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 2113,
+            "charEnd": 2122,
+            "id": 306,
+            "sentence": 20,
+            "text": "Umgekehrt",
+            "word": 1
+        },
+        {
+            "charBegin": 2123,
+            "charEnd": 2127,
+            "id": 307,
+            "sentence": 20,
+            "text": "sind",
+            "word": 2
+        },
+        {
+            "charBegin": 2128,
+            "charEnd": 2137,
+            "id": 308,
+            "sentence": 20,
+            "text": "Haushalte",
+            "word": 3
+        },
+        {
+            "charBegin": 2138,
+            "charEnd": 2141,
+            "id": 309,
+            "sentence": 20,
+            "text": "mit",
+            "word": 4
+        },
+        {
+            "charBegin": 2142,
+            "charEnd": 2146,
+            "id": 310,
+            "sentence": 20,
+            "text": "zwei",
+            "word": 5
+        },
+        {
+            "charBegin": 2147,
+            "charEnd": 2161,
+            "id": 311,
+            "sentence": 20,
+            "text": "erwerbstätigen",
+            "word": 6
+        },
+        {
+            "charBegin": 2162,
+            "charEnd": 2173,
+            "id": 312,
+            "sentence": 20,
+            "text": "Erwachsenen",
+            "word": 7
+        },
+        {
+            "charBegin": 2174,
+            "charEnd": 2178,
+            "id": 313,
+            "sentence": 20,
+            "text": "ohne",
+            "word": 8
+        },
+        {
+            "charBegin": 2179,
+            "charEnd": 2185,
+            "id": 314,
+            "sentence": 20,
+            "text": "Kinder",
+            "word": 9
+        },
+        {
+            "charBegin": 2186,
+            "charEnd": 2188,
+            "id": 315,
+            "sentence": 20,
+            "text": "am",
+            "word": 10
+        },
+        {
+            "charBegin": 2189,
+            "charEnd": 2198,
+            "id": 316,
+            "sentence": 20,
+            "text": "wenigsten",
+            "word": 11
+        },
+        {
+            "charBegin": 2199,
+            "charEnd": 2208,
+            "id": 317,
+            "sentence": 20,
+            "text": "gefährdet",
+            "word": 12
+        },
+        {
+            "charBegin": 2208,
+            "charEnd": 2209,
+            "id": 318,
+            "sentence": 20,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 2212,
+            "charEnd": 2215,
+            "id": 319,
+            "sentence": 21,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 2216,
+            "charEnd": 2222,
+            "id": 320,
+            "sentence": 21,
+            "text": "Zahlen",
+            "word": 2
+        },
+        {
+            "charBegin": 2223,
+            "charEnd": 2226,
+            "id": 321,
+            "sentence": 21,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 2227,
+            "charEnd": 2240,
+            "id": 322,
+            "sentence": 21,
+            "text": "Statistischen",
+            "word": 4
+        },
+        {
+            "charBegin": 2241,
+            "charEnd": 2252,
+            "id": 323,
+            "sentence": 21,
+            "text": "Bundesamtes",
+            "word": 5
+        },
+        {
+            "charBegin": 2253,
+            "charEnd": 2259,
+            "id": 324,
+            "sentence": 21,
+            "text": "weisen",
+            "word": 6
+        },
+        {
+            "charBegin": 2260,
+            "charEnd": 2264,
+            "id": 325,
+            "sentence": 21,
+            "text": "auch",
+            "word": 7
+        },
+        {
+            "charBegin": 2265,
+            "charEnd": 2274,
+            "id": 326,
+            "sentence": 21,
+            "text": "regionale",
+            "word": 8
+        },
+        {
+            "charBegin": 2275,
+            "charEnd": 2287,
+            "id": 327,
+            "sentence": 21,
+            "text": "Unterschiede",
+            "word": 9
+        },
+        {
+            "charBegin": 2288,
+            "charEnd": 2291,
+            "id": 328,
+            "sentence": 21,
+            "text": "aus",
+            "word": 10
+        },
+        {
+            "charBegin": 2291,
+            "charEnd": 2292,
+            "id": 329,
+            "sentence": 21,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 2293,
+            "charEnd": 2295,
+            "id": 330,
+            "sentence": 22,
+            "text": "So",
+            "word": 1
+        },
+        {
+            "charBegin": 2296,
+            "charEnd": 2300,
+            "id": 331,
+            "sentence": 22,
+            "text": "gibt",
+            "word": 2
+        },
+        {
+            "charBegin": 2301,
+            "charEnd": 2303,
+            "id": 332,
+            "sentence": 22,
+            "text": "es",
+            "word": 3
+        },
+        {
+            "charBegin": 2304,
+            "charEnd": 2307,
+            "id": 333,
+            "sentence": 22,
+            "text": "ein",
+            "word": 4
+        },
+        {
+            "charBegin": 2308,
+            "charEnd": 2318,
+            "id": 334,
+            "sentence": 22,
+            "text": "deutliches",
+            "word": 5
+        },
+        {
+            "charBegin": 2319,
+            "charEnd": 2335,
+            "id": 335,
+            "sentence": 22,
+            "text": "Ost-West-Gefälle",
+            "word": 6
+        },
+        {
+            "charBegin": 2335,
+            "charEnd": 2336,
+            "id": 336,
+            "sentence": 22,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 2337,
+            "charEnd": 2339,
+            "id": 337,
+            "sentence": 23,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 2340,
+            "charEnd": 2343,
+            "id": 338,
+            "sentence": 23,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 2344,
+            "charEnd": 2349,
+            "id": 339,
+            "sentence": 23,
+            "text": "alten",
+            "word": 3
+        },
+        {
+            "charBegin": 2350,
+            "charEnd": 2363,
+            "id": 340,
+            "sentence": 23,
+            "text": "Bundesländern",
+            "word": 4
+        },
+        {
+            "charBegin": 2364,
+            "charEnd": 2368,
+            "id": 341,
+            "sentence": 23,
+            "text": "sind",
+            "word": 5
+        },
+        {
+            "charBegin": 2369,
+            "charEnd": 2374,
+            "id": 342,
+            "sentence": 23,
+            "text": "zwölf",
+            "word": 6
+        },
+        {
+            "charBegin": 2375,
+            "charEnd": 2382,
+            "id": 343,
+            "sentence": 23,
+            "text": "Prozent",
+            "word": 7
+        },
+        {
+            "charBegin": 2383,
+            "charEnd": 2398,
+            "id": 344,
+            "sentence": 23,
+            "text": "armutsgefährdet",
+            "word": 8
+        },
+        {
+            "charBegin": 2398,
+            "charEnd": 2399,
+            "id": 345,
+            "sentence": 23,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 2400,
+            "charEnd": 2407,
+            "id": 346,
+            "sentence": 23,
+            "text": "während",
+            "word": 10
+        },
+        {
+            "charBegin": 2408,
+            "charEnd": 2410,
+            "id": 347,
+            "sentence": 23,
+            "text": "es",
+            "word": 11
+        },
+        {
+            "charBegin": 2411,
+            "charEnd": 2413,
+            "id": 348,
+            "sentence": 23,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 2414,
+            "charEnd": 2417,
+            "id": 349,
+            "sentence": 23,
+            "text": "den",
+            "word": 13
+        },
+        {
+            "charBegin": 2418,
+            "charEnd": 2423,
+            "id": 350,
+            "sentence": 23,
+            "text": "neuen",
+            "word": 14
+        },
+        {
+            "charBegin": 2424,
+            "charEnd": 2437,
+            "id": 351,
+            "sentence": 23,
+            "text": "Bundesländern",
+            "word": 15
+        },
+        {
+            "charBegin": 2438,
+            "charEnd": 2440,
+            "id": 352,
+            "sentence": 23,
+            "text": "17",
+            "word": 16
+        },
+        {
+            "charBegin": 2441,
+            "charEnd": 2448,
+            "id": 353,
+            "sentence": 23,
+            "text": "Prozent",
+            "word": 17
+        },
+        {
+            "charBegin": 2449,
+            "charEnd": 2453,
+            "id": 354,
+            "sentence": 23,
+            "text": "sind",
+            "word": 18
+        },
+        {
+            "charBegin": 2453,
+            "charEnd": 2454,
+            "id": 355,
+            "sentence": 23,
+            "text": ".",
+            "word": 19
+        }
+    ]
+}

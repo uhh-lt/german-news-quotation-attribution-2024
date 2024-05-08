@@ -1,0 +1,821 @@
+{
+    "annotations": [],
+    "documentName": "12120 - Apple bringt „iPod nano“ auf den Markt (2005-09-11)",
+    "originalText": "Das Computerunternehmen Apple präsentierte am Donnerstag sein neuestes Produkt. Der „iPod nano“ soll der Nachfolger des tragbaren Musikplayers „iPod mini“ werden. Der Winzling ist kaum größer als eine Visitenkarte und fasst rund eintausend Musikstücke.\n\nErwartungsgemäß stellte Apple zusammen mit der neuen iTunes-Software auch erstmals ein „iTunes-Musik-Handy“ vor. Hierauf können insgesamt einhundert Musikstücke gespeichert werden.\n\nBeide Produkte wurden in Branchenkreisen mit Spannung erwartet.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 79,
+            "end": 10,
+            "id": 0,
+            "text": "Das Computerunternehmen Apple präsentierte am Donnerstag sein neuestes Produkt. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "tokens": [
+                "Das",
+                "Computerunternehmen",
+                "Apple",
+                "präsentierte",
+                "am",
+                "Donnerstag",
+                "sein",
+                "neuestes",
+                "Produkt",
+                "."
+            ]
+        },
+        {
+            "begin": 10,
+            "charBegin": 80,
+            "charEnd": 162,
+            "end": 27,
+            "id": 1,
+            "text": "Der „iPod nano“ soll der Nachfolger des tragbaren Musikplayers „iPod mini“ werden. ",
+            "tokenIds": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ],
+            "tokens": [
+                "Der",
+                "„",
+                "iPod",
+                "nano",
+                "“",
+                "soll",
+                "der",
+                "Nachfolger",
+                "des",
+                "tragbaren",
+                "Musikplayers",
+                "„",
+                "iPod",
+                "mini",
+                "“",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 27,
+            "charBegin": 163,
+            "charEnd": 252,
+            "end": 41,
+            "id": 2,
+            "text": "Der Winzling ist kaum größer als eine Visitenkarte und fasst rund eintausend Musikstücke.",
+            "tokenIds": [
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40
+            ],
+            "tokens": [
+                "Der",
+                "Winzling",
+                "ist",
+                "kaum",
+                "größer",
+                "als",
+                "eine",
+                "Visitenkarte",
+                "und",
+                "fasst",
+                "rund",
+                "eintausend",
+                "Musikstücke",
+                "."
+            ]
+        },
+        {
+            "begin": 41,
+            "charBegin": 254,
+            "charEnd": 366,
+            "end": 57,
+            "id": 3,
+            "text": "Erwartungsgemäß stellte Apple zusammen mit der neuen iTunes-Software auch erstmals ein „iTunes-Musik-Handy“ vor. ",
+            "tokenIds": [
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
+            "tokens": [
+                "Erwartungsgemäß",
+                "stellte",
+                "Apple",
+                "zusammen",
+                "mit",
+                "der",
+                "neuen",
+                "iTunes-Software",
+                "auch",
+                "erstmals",
+                "ein",
+                "„",
+                "iTunes-Musik-Handy",
+                "“",
+                "vor",
+                "."
+            ]
+        },
+        {
+            "begin": 57,
+            "charBegin": 367,
+            "charEnd": 434,
+            "end": 65,
+            "id": 4,
+            "text": "Hierauf können insgesamt einhundert Musikstücke gespeichert werden.",
+            "tokenIds": [
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64
+            ],
+            "tokens": [
+                "Hierauf",
+                "können",
+                "insgesamt",
+                "einhundert",
+                "Musikstücke",
+                "gespeichert",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 65,
+            "charBegin": 436,
+            "charEnd": 499,
+            "end": 74,
+            "id": 5,
+            "text": "Beide Produkte wurden in Branchenkreisen mit Spannung erwartet.",
+            "tokenIds": [
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73
+            ],
+            "tokens": [
+                "Beide",
+                "Produkte",
+                "wurden",
+                "in",
+                "Branchenkreisen",
+                "mit",
+                "Spannung",
+                "erwartet",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 23,
+            "id": 1,
+            "sentence": 1,
+            "text": "Computerunternehmen",
+            "word": 2
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 29,
+            "id": 2,
+            "sentence": 1,
+            "text": "Apple",
+            "word": 3
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 42,
+            "id": 3,
+            "sentence": 1,
+            "text": "präsentierte",
+            "word": 4
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 45,
+            "id": 4,
+            "sentence": 1,
+            "text": "am",
+            "word": 5
+        },
+        {
+            "charBegin": 46,
+            "charEnd": 56,
+            "id": 5,
+            "sentence": 1,
+            "text": "Donnerstag",
+            "word": 6
+        },
+        {
+            "charBegin": 57,
+            "charEnd": 61,
+            "id": 6,
+            "sentence": 1,
+            "text": "sein",
+            "word": 7
+        },
+        {
+            "charBegin": 62,
+            "charEnd": 70,
+            "id": 7,
+            "sentence": 1,
+            "text": "neuestes",
+            "word": 8
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 78,
+            "id": 8,
+            "sentence": 1,
+            "text": "Produkt",
+            "word": 9
+        },
+        {
+            "charBegin": 78,
+            "charEnd": 79,
+            "id": 9,
+            "sentence": 1,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 83,
+            "id": 10,
+            "sentence": 2,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 85,
+            "id": 11,
+            "sentence": 2,
+            "text": "„",
+            "word": 2
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 89,
+            "id": 12,
+            "sentence": 2,
+            "text": "iPod",
+            "word": 3
+        },
+        {
+            "charBegin": 90,
+            "charEnd": 94,
+            "id": 13,
+            "sentence": 2,
+            "text": "nano",
+            "word": 4
+        },
+        {
+            "charBegin": 94,
+            "charEnd": 95,
+            "id": 14,
+            "sentence": 2,
+            "text": "“",
+            "word": 5
+        },
+        {
+            "charBegin": 96,
+            "charEnd": 100,
+            "id": 15,
+            "sentence": 2,
+            "text": "soll",
+            "word": 6
+        },
+        {
+            "charBegin": 101,
+            "charEnd": 104,
+            "id": 16,
+            "sentence": 2,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 105,
+            "charEnd": 115,
+            "id": 17,
+            "sentence": 2,
+            "text": "Nachfolger",
+            "word": 8
+        },
+        {
+            "charBegin": 116,
+            "charEnd": 119,
+            "id": 18,
+            "sentence": 2,
+            "text": "des",
+            "word": 9
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 129,
+            "id": 19,
+            "sentence": 2,
+            "text": "tragbaren",
+            "word": 10
+        },
+        {
+            "charBegin": 130,
+            "charEnd": 142,
+            "id": 20,
+            "sentence": 2,
+            "text": "Musikplayers",
+            "word": 11
+        },
+        {
+            "charBegin": 143,
+            "charEnd": 144,
+            "id": 21,
+            "sentence": 2,
+            "text": "„",
+            "word": 12
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 148,
+            "id": 22,
+            "sentence": 2,
+            "text": "iPod",
+            "word": 13
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 153,
+            "id": 23,
+            "sentence": 2,
+            "text": "mini",
+            "word": 14
+        },
+        {
+            "charBegin": 153,
+            "charEnd": 154,
+            "id": 24,
+            "sentence": 2,
+            "text": "“",
+            "word": 15
+        },
+        {
+            "charBegin": 155,
+            "charEnd": 161,
+            "id": 25,
+            "sentence": 2,
+            "text": "werden",
+            "word": 16
+        },
+        {
+            "charBegin": 161,
+            "charEnd": 162,
+            "id": 26,
+            "sentence": 2,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 163,
+            "charEnd": 166,
+            "id": 27,
+            "sentence": 3,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 167,
+            "charEnd": 175,
+            "id": 28,
+            "sentence": 3,
+            "text": "Winzling",
+            "word": 2
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 179,
+            "id": 29,
+            "sentence": 3,
+            "text": "ist",
+            "word": 3
+        },
+        {
+            "charBegin": 180,
+            "charEnd": 184,
+            "id": 30,
+            "sentence": 3,
+            "text": "kaum",
+            "word": 4
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 191,
+            "id": 31,
+            "sentence": 3,
+            "text": "größer",
+            "word": 5
+        },
+        {
+            "charBegin": 192,
+            "charEnd": 195,
+            "id": 32,
+            "sentence": 3,
+            "text": "als",
+            "word": 6
+        },
+        {
+            "charBegin": 196,
+            "charEnd": 200,
+            "id": 33,
+            "sentence": 3,
+            "text": "eine",
+            "word": 7
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 213,
+            "id": 34,
+            "sentence": 3,
+            "text": "Visitenkarte",
+            "word": 8
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 217,
+            "id": 35,
+            "sentence": 3,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 218,
+            "charEnd": 223,
+            "id": 36,
+            "sentence": 3,
+            "text": "fasst",
+            "word": 10
+        },
+        {
+            "charBegin": 224,
+            "charEnd": 228,
+            "id": 37,
+            "sentence": 3,
+            "text": "rund",
+            "word": 11
+        },
+        {
+            "charBegin": 229,
+            "charEnd": 239,
+            "id": 38,
+            "sentence": 3,
+            "text": "eintausend",
+            "word": 12
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 251,
+            "id": 39,
+            "sentence": 3,
+            "text": "Musikstücke",
+            "word": 13
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 252,
+            "id": 40,
+            "sentence": 3,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 254,
+            "charEnd": 269,
+            "id": 41,
+            "sentence": 4,
+            "text": "Erwartungsgemäß",
+            "word": 1
+        },
+        {
+            "charBegin": 270,
+            "charEnd": 277,
+            "id": 42,
+            "sentence": 4,
+            "text": "stellte",
+            "word": 2
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 283,
+            "id": 43,
+            "sentence": 4,
+            "text": "Apple",
+            "word": 3
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 292,
+            "id": 44,
+            "sentence": 4,
+            "text": "zusammen",
+            "word": 4
+        },
+        {
+            "charBegin": 293,
+            "charEnd": 296,
+            "id": 45,
+            "sentence": 4,
+            "text": "mit",
+            "word": 5
+        },
+        {
+            "charBegin": 297,
+            "charEnd": 300,
+            "id": 46,
+            "sentence": 4,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 306,
+            "id": 47,
+            "sentence": 4,
+            "text": "neuen",
+            "word": 7
+        },
+        {
+            "charBegin": 307,
+            "charEnd": 322,
+            "id": 48,
+            "sentence": 4,
+            "text": "iTunes-Software",
+            "word": 8
+        },
+        {
+            "charBegin": 323,
+            "charEnd": 327,
+            "id": 49,
+            "sentence": 4,
+            "text": "auch",
+            "word": 9
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 336,
+            "id": 50,
+            "sentence": 4,
+            "text": "erstmals",
+            "word": 10
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 340,
+            "id": 51,
+            "sentence": 4,
+            "text": "ein",
+            "word": 11
+        },
+        {
+            "charBegin": 341,
+            "charEnd": 342,
+            "id": 52,
+            "sentence": 4,
+            "text": "„",
+            "word": 12
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 360,
+            "id": 53,
+            "sentence": 4,
+            "text": "iTunes-Musik-Handy",
+            "word": 13
+        },
+        {
+            "charBegin": 360,
+            "charEnd": 361,
+            "id": 54,
+            "sentence": 4,
+            "text": "“",
+            "word": 14
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 365,
+            "id": 55,
+            "sentence": 4,
+            "text": "vor",
+            "word": 15
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 366,
+            "id": 56,
+            "sentence": 4,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 367,
+            "charEnd": 374,
+            "id": 57,
+            "sentence": 5,
+            "text": "Hierauf",
+            "word": 1
+        },
+        {
+            "charBegin": 375,
+            "charEnd": 381,
+            "id": 58,
+            "sentence": 5,
+            "text": "können",
+            "word": 2
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 391,
+            "id": 59,
+            "sentence": 5,
+            "text": "insgesamt",
+            "word": 3
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 402,
+            "id": 60,
+            "sentence": 5,
+            "text": "einhundert",
+            "word": 4
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 414,
+            "id": 61,
+            "sentence": 5,
+            "text": "Musikstücke",
+            "word": 5
+        },
+        {
+            "charBegin": 415,
+            "charEnd": 426,
+            "id": 62,
+            "sentence": 5,
+            "text": "gespeichert",
+            "word": 6
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 433,
+            "id": 63,
+            "sentence": 5,
+            "text": "werden",
+            "word": 7
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 434,
+            "id": 64,
+            "sentence": 5,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 436,
+            "charEnd": 441,
+            "id": 65,
+            "sentence": 6,
+            "text": "Beide",
+            "word": 1
+        },
+        {
+            "charBegin": 442,
+            "charEnd": 450,
+            "id": 66,
+            "sentence": 6,
+            "text": "Produkte",
+            "word": 2
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 457,
+            "id": 67,
+            "sentence": 6,
+            "text": "wurden",
+            "word": 3
+        },
+        {
+            "charBegin": 458,
+            "charEnd": 460,
+            "id": 68,
+            "sentence": 6,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 476,
+            "id": 69,
+            "sentence": 6,
+            "text": "Branchenkreisen",
+            "word": 5
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 480,
+            "id": 70,
+            "sentence": 6,
+            "text": "mit",
+            "word": 6
+        },
+        {
+            "charBegin": 481,
+            "charEnd": 489,
+            "id": 71,
+            "sentence": 6,
+            "text": "Spannung",
+            "word": 7
+        },
+        {
+            "charBegin": 490,
+            "charEnd": 498,
+            "id": 72,
+            "sentence": 6,
+            "text": "erwartet",
+            "word": 8
+        },
+        {
+            "charBegin": 498,
+            "charEnd": 499,
+            "id": 73,
+            "sentence": 6,
+            "text": ".",
+            "word": 9
+        }
+    ]
+}

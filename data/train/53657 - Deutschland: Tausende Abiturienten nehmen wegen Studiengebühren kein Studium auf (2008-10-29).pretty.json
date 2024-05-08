@@ -1,0 +1,7391 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 4,
+                        "charBegin": 31,
+                        "charEnd": 38,
+                        "end": 5
+                    }
+                ],
+                "text": "meldete",
+                "tokenIds": [
+                    4
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 39,
+                        "end": 6
+                    }
+                ],
+                "text": "Wie die Deutsche Presseagentur meldete,",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 6,
+                        "charBegin": 40,
+                        "charEnd": 181,
+                        "end": 25
+                    }
+                ],
+                "text": "soll ihr ein Papier über eine Studie des Bundesbildungsministeriums vorliegen, welches vom Ministerium selbst unter Verschluss gehalten werde",
+                "tokenIds": [
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 1,
+                        "charBegin": 4,
+                        "charEnd": 30,
+                        "end": 4
+                    }
+                ],
+                "text": "die Deutsche Presseagentur",
+                "tokenIds": [
+                    1,
+                    2,
+                    3
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": true,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 26,
+                        "charBegin": 183,
+                        "charEnd": 378,
+                        "end": 55
+                    }
+                ],
+                "text": "Laut dieser Studie würden viele Abiturienten durch die Studiengebühren von einem Studium abgeschreckt, allein 2006 hätten rund 18.000 junge Menschen wegen der Gebühren auf ein Studium verzichtet.",
+                "tokenIds": [
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 1,
+                        "charBegin": 4,
+                        "charEnd": 30,
+                        "end": 4
+                    }
+                ],
+                "text": "die Deutsche Presseagentur",
+                "tokenIds": [
+                    1,
+                    2,
+                    3
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 26,
+                        "charBegin": 183,
+                        "charEnd": 187,
+                        "end": 27
+                    }
+                ],
+                "text": "Laut",
+                "tokenIds": [
+                    26
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 26,
+                        "charBegin": 183,
+                        "charEnd": 201,
+                        "end": 29
+                    }
+                ],
+                "text": "Laut dieser Studie",
+                "tokenIds": [
+                    26,
+                    27,
+                    28
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": true,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 29,
+                        "charBegin": 202,
+                        "charEnd": 377,
+                        "end": 54
+                    }
+                ],
+                "text": "würden viele Abiturienten durch die Studiengebühren von einem Studium abgeschreckt, allein 2006 hätten rund 18.000 junge Menschen wegen der Gebühren auf ein Studium verzichtet",
+                "tokenIds": [
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 27,
+                        "charBegin": 188,
+                        "charEnd": 201,
+                        "end": 29
+                    }
+                ],
+                "text": "dieser Studie",
+                "tokenIds": [
+                    27,
+                    28
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": true,
+            "id": 3,
+            "isNested": true,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 102,
+                        "charBegin": 632,
+                        "charEnd": 889,
+                        "end": 140
+                    }
+                ],
+                "text": "Besonders betroffen seien vor allem junge Menschen aus „bildungsfernen Elternhäusern“, die wegen der Gebühren ganz auf ein Studium verzichteten. Im Gegensatz dazu ließen sich Menschen aus Akademikerfamilien immer weniger in ihrer Hochschulwahl beeinflussen.",
+                "tokenIds": [
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 1,
+                        "charBegin": 4,
+                        "charEnd": 30,
+                        "end": 4
+                    }
+                ],
+                "text": "die Deutsche Presseagentur",
+                "tokenIds": [
+                    1,
+                    2,
+                    3
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": true,
+            "id": 4,
+            "isNested": true,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 102,
+                        "charBegin": 632,
+                        "charEnd": 889,
+                        "end": 140
+                    }
+                ],
+                "text": "Besonders betroffen seien vor allem junge Menschen aus „bildungsfernen Elternhäusern“, die wegen der Gebühren ganz auf ein Studium verzichteten. Im Gegensatz dazu ließen sich Menschen aus Akademikerfamilien immer weniger in ihrer Hochschulwahl beeinflussen.",
+                "tokenIds": [
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 27,
+                        "charBegin": 188,
+                        "charEnd": 201,
+                        "end": 29
+                    }
+                ],
+                "text": "dieser Studie",
+                "tokenIds": [
+                    27,
+                    28
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 4,
+                        "charBegin": 31,
+                        "charEnd": 38,
+                        "end": 5
+                    }
+                ],
+                "text": "meldete",
+                "tokenIds": [
+                    4
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 39,
+                        "end": 6
+                    }
+                ],
+                "text": "Wie die Deutsche Presseagentur meldete,",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            },
+            "hasNested": true,
+            "id": 5,
+            "isNested": true,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 110,
+                        "charBegin": 687,
+                        "charEnd": 717,
+                        "end": 114
+                    }
+                ],
+                "text": "„bildungsfernen Elternhäusern“",
+                "tokenIds": [
+                    110,
+                    111,
+                    112,
+                    113
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 1,
+                        "charBegin": 4,
+                        "charEnd": 30,
+                        "end": 4
+                    }
+                ],
+                "text": "die Deutsche Presseagentur",
+                "tokenIds": [
+                    1,
+                    2,
+                    3
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 26,
+                        "charBegin": 183,
+                        "charEnd": 187,
+                        "end": 27
+                    }
+                ],
+                "text": "Laut",
+                "tokenIds": [
+                    26
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 26,
+                        "charBegin": 183,
+                        "charEnd": 201,
+                        "end": 29
+                    }
+                ],
+                "text": "Laut dieser Studie",
+                "tokenIds": [
+                    26,
+                    27,
+                    28
+                ]
+            },
+            "hasNested": true,
+            "id": 6,
+            "isNested": true,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 110,
+                        "charBegin": 687,
+                        "charEnd": 717,
+                        "end": 114
+                    }
+                ],
+                "text": "„bildungsfernen Elternhäusern“",
+                "tokenIds": [
+                    110,
+                    111,
+                    112,
+                    113
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 27,
+                        "charBegin": 188,
+                        "charEnd": 201,
+                        "end": 29
+                    }
+                ],
+                "text": "dieser Studie",
+                "tokenIds": [
+                    27,
+                    28
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 140,
+                        "charBegin": 890,
+                        "charEnd": 894,
+                        "end": 141
+                    }
+                ],
+                "text": "Laut",
+                "tokenIds": [
+                    140
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 140,
+                        "charBegin": 890,
+                        "charEnd": 905,
+                        "end": 143
+                    }
+                ],
+                "text": "Laut der Studie",
+                "tokenIds": [
+                    140,
+                    141,
+                    142
+                ]
+            },
+            "hasNested": false,
+            "id": 7,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 143,
+                        "charBegin": 906,
+                        "charEnd": 1080,
+                        "end": 165
+                    }
+                ],
+                "text": "haben die Gebühren unter Schulabgängern mit allgemeiner Hochschulreife und Fachabitur zu allgemeiner Verunsicherung geführt, auch dort wo keine Studiengebühren erhoben werden",
+                "tokenIds": [
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    162,
+                    163,
+                    164
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 141,
+                        "charBegin": 895,
+                        "charEnd": 905,
+                        "end": 143
+                    }
+                ],
+                "text": "der Studie",
+                "tokenIds": [
+                    141,
+                    142
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": true,
+            "id": 8,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 221,
+                        "charBegin": 1473,
+                        "charEnd": 1744,
+                        "end": 263
+                    }
+                ],
+                "text": "Ferner habe die Studie festgestellt, dass eine Abwanderung der Studienanfänger in Länder ohne Studiengebühren in großem Umfang nicht stattfinde. Lediglich Studenten aus dem Osten wollten nicht mehr im Westen studieren, da dort in der Regel Studiengebühren erhoben werden.",
+                "tokenIds": [
+                    221,
+                    222,
+                    223,
+                    224,
+                    225,
+                    226,
+                    227,
+                    228,
+                    229,
+                    230,
+                    231,
+                    232,
+                    233,
+                    234,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241,
+                    242,
+                    243,
+                    244,
+                    245,
+                    246,
+                    247,
+                    248,
+                    249,
+                    250,
+                    251,
+                    252,
+                    253,
+                    254,
+                    255,
+                    256,
+                    257,
+                    258,
+                    259,
+                    260,
+                    261,
+                    262
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 141,
+                        "charBegin": 895,
+                        "charEnd": 905,
+                        "end": 143
+                    }
+                ],
+                "text": "der Studie",
+                "tokenIds": [
+                    141,
+                    142
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 222,
+                        "charBegin": 1480,
+                        "charEnd": 1484,
+                        "end": 223
+                    },
+                    {
+                        "begin": 225,
+                        "charBegin": 1496,
+                        "charEnd": 1508,
+                        "end": 226
+                    }
+                ],
+                "text": "habe festgestellt",
+                "tokenIds": [
+                    222,
+                    225
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 221,
+                        "charBegin": 1473,
+                        "charEnd": 1509,
+                        "end": 227
+                    }
+                ],
+                "text": "Ferner habe die Studie festgestellt,",
+                "tokenIds": [
+                    221,
+                    222,
+                    223,
+                    224,
+                    225,
+                    226
+                ]
+            },
+            "hasNested": false,
+            "id": 9,
+            "isNested": true,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 227,
+                        "charBegin": 1510,
+                        "charEnd": 1616,
+                        "end": 241
+                    }
+                ],
+                "text": "dass eine Abwanderung der Studienanfänger in Länder ohne Studiengebühren in großem Umfang nicht stattfinde",
+                "tokenIds": [
+                    227,
+                    228,
+                    229,
+                    230,
+                    231,
+                    232,
+                    233,
+                    234,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 223,
+                        "charBegin": 1485,
+                        "charEnd": 1495,
+                        "end": 225
+                    }
+                ],
+                "text": "die Studie",
+                "tokenIds": [
+                    223,
+                    224
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 349,
+                        "charBegin": 2359,
+                        "charEnd": 2385,
+                        "end": 354
+                    }
+                ],
+                "text": "dem „Hamburger Abendblatt“",
+                "tokenIds": [
+                    349,
+                    350,
+                    351,
+                    352,
+                    353
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 345,
+                        "charBegin": 2328,
+                        "charEnd": 2340,
+                        "end": 347
+                    }
+                ],
+                "text": "äußerte sich",
+                "tokenIds": [
+                    345,
+                    346
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 344,
+                        "charBegin": 2326,
+                        "charEnd": 2385,
+                        "end": 354
+                    }
+                ],
+                "text": ", äußerte sich Schavan gegenüber dem „Hamburger Abendblatt“",
+                "tokenIds": [
+                    344,
+                    345,
+                    346,
+                    347,
+                    348,
+                    349,
+                    350,
+                    351,
+                    352,
+                    353
+                ]
+            },
+            "hasNested": false,
+            "id": 10,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 337,
+                        "charBegin": 2287,
+                        "charEnd": 2326,
+                        "end": 344
+                    }
+                ],
+                "text": "„Ich halte Studiengebühren für richtig“",
+                "tokenIds": [
+                    337,
+                    338,
+                    339,
+                    340,
+                    341,
+                    342,
+                    343
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 347,
+                        "charBegin": 2341,
+                        "charEnd": 2348,
+                        "end": 348
+                    }
+                ],
+                "text": "Schavan",
+                "tokenIds": [
+                    347
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": true,
+            "id": 11,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 355,
+                        "charBegin": 2387,
+                        "charEnd": 2605,
+                        "end": 392
+                    }
+                ],
+                "text": "Die Beiträge zum Studium stärkten die Weiterentwicklung der Hochschulen, und so würden sie auch von den meisten Studierenden wahrgenommen. Die Studie zeige in Wahrheit, „dass die Gebühren kaum vom Studium abschrecken“.",
+                "tokenIds": [
+                    355,
+                    356,
+                    357,
+                    358,
+                    359,
+                    360,
+                    361,
+                    362,
+                    363,
+                    364,
+                    365,
+                    366,
+                    367,
+                    368,
+                    369,
+                    370,
+                    371,
+                    372,
+                    373,
+                    374,
+                    375,
+                    376,
+                    377,
+                    378,
+                    379,
+                    380,
+                    381,
+                    382,
+                    383,
+                    384,
+                    385,
+                    386,
+                    387,
+                    388,
+                    389,
+                    390,
+                    391
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 347,
+                        "charBegin": 2341,
+                        "charEnd": 2348,
+                        "end": 348
+                    }
+                ],
+                "text": "Schavan",
+                "tokenIds": [
+                    347
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 349,
+                        "charBegin": 2359,
+                        "charEnd": 2385,
+                        "end": 354
+                    }
+                ],
+                "text": "dem „Hamburger Abendblatt“",
+                "tokenIds": [
+                    349,
+                    350,
+                    351,
+                    352,
+                    353
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 345,
+                        "charBegin": 2328,
+                        "charEnd": 2340,
+                        "end": 347
+                    }
+                ],
+                "text": "äußerte sich",
+                "tokenIds": [
+                    345,
+                    346
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 344,
+                        "charBegin": 2326,
+                        "charEnd": 2385,
+                        "end": 354
+                    }
+                ],
+                "text": ", äußerte sich Schavan gegenüber dem „Hamburger Abendblatt“",
+                "tokenIds": [
+                    344,
+                    345,
+                    346,
+                    347,
+                    348,
+                    349,
+                    350,
+                    351,
+                    352,
+                    353
+                ]
+            },
+            "hasNested": false,
+            "id": 12,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 382,
+                        "charBegin": 2556,
+                        "charEnd": 2604,
+                        "end": 391
+                    }
+                ],
+                "text": "„dass die Gebühren kaum vom Studium abschrecken“",
+                "tokenIds": [
+                    382,
+                    383,
+                    384,
+                    385,
+                    386,
+                    387,
+                    388,
+                    389,
+                    390
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 347,
+                        "charBegin": 2341,
+                        "charEnd": 2348,
+                        "end": 348
+                    }
+                ],
+                "text": "Schavan",
+                "tokenIds": [
+                    347
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 396,
+                        "charBegin": 2634,
+                        "charEnd": 2644,
+                        "end": 397
+                    }
+                ],
+                "text": "berichtete",
+                "tokenIds": [
+                    396
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 392,
+                        "charBegin": 2606,
+                        "charEnd": 2645,
+                        "end": 398
+                    }
+                ],
+                "text": "Wie die Süddeutsche Zeitung berichtete,",
+                "tokenIds": [
+                    392,
+                    393,
+                    394,
+                    395,
+                    396,
+                    397
+                ]
+            },
+            "hasNested": true,
+            "id": 13,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 398,
+                        "charBegin": 2646,
+                        "charEnd": 2818,
+                        "end": 420
+                    }
+                ],
+                "text": "soll sich entgegen der Behauptungen der Gebührenbefürworter laut der HIS-Studie nur jeder zweite Gebührenzahler von seinem Beitrag „verbesserte Studienbedingungen“ erhoffen",
+                "tokenIds": [
+                    398,
+                    399,
+                    400,
+                    401,
+                    402,
+                    403,
+                    404,
+                    405,
+                    406,
+                    407,
+                    408,
+                    409,
+                    410,
+                    411,
+                    412,
+                    413,
+                    414,
+                    415,
+                    416,
+                    417,
+                    418,
+                    419
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 393,
+                        "charBegin": 2610,
+                        "charEnd": 2633,
+                        "end": 396
+                    }
+                ],
+                "text": "die Süddeutsche Zeitung",
+                "tokenIds": [
+                    393,
+                    394,
+                    395
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 405,
+                        "charBegin": 2706,
+                        "charEnd": 2710,
+                        "end": 406
+                    }
+                ],
+                "text": "laut",
+                "tokenIds": [
+                    405
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 405,
+                        "charBegin": 2706,
+                        "charEnd": 2725,
+                        "end": 408
+                    }
+                ],
+                "text": "laut der HIS-Studie",
+                "tokenIds": [
+                    405,
+                    406,
+                    407
+                ]
+            },
+            "hasNested": false,
+            "id": 14,
+            "isNested": true,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 398,
+                        "charBegin": 2646,
+                        "charEnd": 2705,
+                        "end": 405
+                    }
+                ],
+                "text": "soll sich entgegen der Behauptungen der Gebührenbefürworter",
+                "tokenIds": [
+                    398,
+                    399,
+                    400,
+                    401,
+                    402,
+                    403,
+                    404
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 406,
+                        "charBegin": 2711,
+                        "charEnd": 2725,
+                        "end": 408
+                    }
+                ],
+                "text": "der HIS-Studie",
+                "tokenIds": [
+                    406,
+                    407
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 405,
+                        "charBegin": 2706,
+                        "charEnd": 2710,
+                        "end": 406
+                    }
+                ],
+                "text": "laut",
+                "tokenIds": [
+                    405
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 405,
+                        "charBegin": 2706,
+                        "charEnd": 2725,
+                        "end": 408
+                    }
+                ],
+                "text": "laut der HIS-Studie",
+                "tokenIds": [
+                    405,
+                    406,
+                    407
+                ]
+            },
+            "hasNested": true,
+            "id": 15,
+            "isNested": true,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 408,
+                        "charBegin": 2726,
+                        "charEnd": 2818,
+                        "end": 420
+                    }
+                ],
+                "text": "nur jeder zweite Gebührenzahler von seinem Beitrag „verbesserte Studienbedingungen“ erhoffen",
+                "tokenIds": [
+                    408,
+                    409,
+                    410,
+                    411,
+                    412,
+                    413,
+                    414,
+                    415,
+                    416,
+                    417,
+                    418,
+                    419
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 406,
+                        "charBegin": 2711,
+                        "charEnd": 2725,
+                        "end": 408
+                    }
+                ],
+                "text": "der HIS-Studie",
+                "tokenIds": [
+                    406,
+                    407
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 405,
+                        "charBegin": 2706,
+                        "charEnd": 2710,
+                        "end": 406
+                    }
+                ],
+                "text": "laut",
+                "tokenIds": [
+                    405
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 405,
+                        "charBegin": 2706,
+                        "charEnd": 2725,
+                        "end": 408
+                    }
+                ],
+                "text": "laut der HIS-Studie",
+                "tokenIds": [
+                    405,
+                    406,
+                    407
+                ]
+            },
+            "hasNested": true,
+            "id": 16,
+            "isNested": true,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 415,
+                        "charBegin": 2777,
+                        "charEnd": 2809,
+                        "end": 419
+                    }
+                ],
+                "text": "„verbesserte Studienbedingungen“",
+                "tokenIds": [
+                    415,
+                    416,
+                    417,
+                    418
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 406,
+                        "charBegin": 2711,
+                        "charEnd": 2725,
+                        "end": 408
+                    }
+                ],
+                "text": "der HIS-Studie",
+                "tokenIds": [
+                    406,
+                    407
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 396,
+                        "charBegin": 2634,
+                        "charEnd": 2644,
+                        "end": 397
+                    }
+                ],
+                "text": "berichtete",
+                "tokenIds": [
+                    396
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 392,
+                        "charBegin": 2606,
+                        "charEnd": 2645,
+                        "end": 398
+                    }
+                ],
+                "text": "Wie die Süddeutsche Zeitung berichtete,",
+                "tokenIds": [
+                    392,
+                    393,
+                    394,
+                    395,
+                    396,
+                    397
+                ]
+            },
+            "hasNested": true,
+            "id": 17,
+            "isNested": true,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 415,
+                        "charBegin": 2777,
+                        "charEnd": 2809,
+                        "end": 419
+                    }
+                ],
+                "text": "„verbesserte Studienbedingungen“",
+                "tokenIds": [
+                    415,
+                    416,
+                    417,
+                    418
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 393,
+                        "charBegin": 2610,
+                        "charEnd": 2633,
+                        "end": 396
+                    }
+                ],
+                "text": "die Süddeutsche Zeitung",
+                "tokenIds": [
+                    393,
+                    394,
+                    395
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 422,
+                        "charBegin": 2830,
+                        "charEnd": 2838,
+                        "end": 423
+                    }
+                ],
+                "text": "erklärte",
+                "tokenIds": [
+                    422
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 421,
+                        "charBegin": 2820,
+                        "charEnd": 2854,
+                        "end": 426
+                    }
+                ],
+                "text": "Weiterhin erklärte die Ministerin,",
+                "tokenIds": [
+                    421,
+                    422,
+                    423,
+                    424,
+                    425
+                ]
+            },
+            "hasNested": false,
+            "id": 18,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 426,
+                        "charBegin": 2855,
+                        "charEnd": 2966,
+                        "end": 443
+                    }
+                ],
+                "text": "in den Bundesländern, in denen Studiengebühren erhoben würden, sei die Zahl der Studienanfänger sogar gestiegen",
+                "tokenIds": [
+                    426,
+                    427,
+                    428,
+                    429,
+                    430,
+                    431,
+                    432,
+                    433,
+                    434,
+                    435,
+                    436,
+                    437,
+                    438,
+                    439,
+                    440,
+                    441,
+                    442
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 423,
+                        "charBegin": 2839,
+                        "charEnd": 2853,
+                        "end": 425
+                    }
+                ],
+                "text": "die Ministerin",
+                "tokenIds": [
+                    423,
+                    424
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 464,
+                        "charBegin": 3109,
+                        "charEnd": 3131,
+                        "end": 466
+                    }
+                ],
+                "text": "der Bildungsministerin",
+                "tokenIds": [
+                    464,
+                    465
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 463,
+                        "charBegin": 3103,
+                        "charEnd": 3108,
+                        "end": 464
+                    },
+                    {
+                        "begin": 466,
+                        "charBegin": 3132,
+                        "charEnd": 3143,
+                        "end": 467
+                    }
+                ],
+                "text": "haben vorgeworfen",
+                "tokenIds": [
+                    463,
+                    466
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 459,
+                        "charBegin": 3072,
+                        "charEnd": 3144,
+                        "end": 468
+                    }
+                ],
+                "text": "Politiker aus anderen Parteien haben der Bildungsministerin vorgeworfen,",
+                "tokenIds": [
+                    459,
+                    460,
+                    461,
+                    462,
+                    463,
+                    464,
+                    465,
+                    466,
+                    467
+                ]
+            },
+            "hasNested": false,
+            "id": 19,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 468,
+                        "charBegin": 3145,
+                        "charEnd": 3232,
+                        "end": 477
+                    }
+                ],
+                "text": "Umfrageergebnisse zu Studiengebühren aus parteitaktischen Gründen verheimlicht zu haben",
+                "tokenIds": [
+                    468,
+                    469,
+                    470,
+                    471,
+                    472,
+                    473,
+                    474,
+                    475,
+                    476
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 459,
+                        "charBegin": 3072,
+                        "charEnd": 3102,
+                        "end": 463
+                    }
+                ],
+                "text": "Politiker aus anderen Parteien",
+                "tokenIds": [
+                    459,
+                    460,
+                    461,
+                    462
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 479,
+                        "charBegin": 3239,
+                        "charEnd": 3247,
+                        "end": 480
+                    }
+                ],
+                "text": "erklärte",
+                "tokenIds": [
+                    479
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 478,
+                        "charBegin": 3234,
+                        "charEnd": 3277,
+                        "end": 483
+                    }
+                ],
+                "text": "Dazu erklärte die Bundesbildungsministerin,",
+                "tokenIds": [
+                    478,
+                    479,
+                    480,
+                    481,
+                    482
+                ]
+            },
+            "hasNested": false,
+            "id": 20,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 483,
+                        "charBegin": 3278,
+                        "charEnd": 3345,
+                        "end": 494
+                    }
+                ],
+                "text": "dass es zwei Studien gebe, die gemeinsam präsentiert werden sollten",
+                "tokenIds": [
+                    483,
+                    484,
+                    485,
+                    486,
+                    487,
+                    488,
+                    489,
+                    490,
+                    491,
+                    492,
+                    493
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 480,
+                        "charBegin": 3248,
+                        "charEnd": 3276,
+                        "end": 482
+                    }
+                ],
+                "text": "die Bundesbildungsministerin",
+                "tokenIds": [
+                    480,
+                    481
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 21,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 495,
+                        "charBegin": 3347,
+                        "charEnd": 3489,
+                        "end": 518
+                    }
+                ],
+                "text": "Die Präsentation erfolge, sobald die zweite Studie, der eine Befragung der Studienanfänger des Jahres 2007 zugrunde liegt, fertiggestellt sei.",
+                "tokenIds": [
+                    495,
+                    496,
+                    497,
+                    498,
+                    499,
+                    500,
+                    501,
+                    502,
+                    503,
+                    504,
+                    505,
+                    506,
+                    507,
+                    508,
+                    509,
+                    510,
+                    511,
+                    512,
+                    513,
+                    514,
+                    515,
+                    516,
+                    517
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 480,
+                        "charBegin": 3248,
+                        "charEnd": 3276,
+                        "end": 482
+                    }
+                ],
+                "text": "die Bundesbildungsministerin",
+                "tokenIds": [
+                    480,
+                    481
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        }
+    ],
+    "documentName": "53657 - Deutschland: Tausende Abiturienten nehmen wegen Studiengebühren kein Studium auf (2008-10-29)",
+    "originalText": "Wie die Deutsche Presseagentur meldete, soll ihr ein Papier über eine Studie des Bundesbildungsministeriums vorliegen, welches vom Ministerium selbst unter Verschluss gehalten werde. Laut dieser Studie würden viele Abiturienten durch die Studiengebühren von einem Studium abgeschreckt, allein 2006 hätten rund 18.000 junge Menschen wegen der Gebühren auf ein Studium verzichtet. Im Vergleich zu 2003 fällt auf, dass der Anteil von jungen Menschen mit Hochschulreife um 17 Prozent (von etwa 370.000 auf rund 432.500) gestiegen, der Anteil der Studienanfänger jedoch um fünf Prozent (von rund 377.500 auf etwa 358.670) gesunken ist.\n\nBesonders betroffen seien vor allem junge Menschen aus „bildungsfernen Elternhäusern“, die wegen der Gebühren ganz auf ein Studium verzichteten. Im Gegensatz dazu ließen sich Menschen aus Akademikerfamilien immer weniger in ihrer Hochschulwahl beeinflussen. Laut der Studie haben die Gebühren unter Schulabgängern mit allgemeiner Hochschulreife und Fachabitur zu allgemeiner Verunsicherung geführt, auch dort wo keine Studiengebühren erhoben werden.\n\nDerzeit werden in einigen Bundesländern Studiengebühren erhoben, teilweise grundsätzlich, teilweise unter bestimmten Bedingungen, beispielsweise für Langzeitstudenten in Sachsen-Anhalt und Thüringen. Die Höhe der Gebühren für ein Erststudium beträgt (außer für Langzeitstudenten) bis zu 500 Euro. Nach der letzten Landtagswahl in Hessen wurden die Studiengebühren dort wieder abgeschafft.\n\nFerner habe die Studie festgestellt, dass eine Abwanderung der Studienanfänger in Länder ohne Studiengebühren in großem Umfang nicht stattfinde. Lediglich Studenten aus dem Osten wollten nicht mehr im Westen studieren, da dort in der Regel Studiengebühren erhoben werden.\n\nDie als repräsentativ geltende Studie stützte sich auf eine Befragung von 5.240 Abiturienten des Jahrgangs 2006 und auf regelmäßige Abiturientenuntersuchungen der Hochschul-Informations-System GmbH (HIS) mit Sitz in Hannover. Die HIS arbeitet im Auftrag von Bund und Ländern sowie der Hochschulrektorenkonferenz.\n\nInzwischen hat die hessische SPD-Chefin Andrea Ypsilanti die Länder zur Abschaffung der Gebühren aufgefordert. Bundesbildungsministerin Annette Schavan (CDU) hat dagegen Studiengebühren gegen neu aufkommende Kritik verteidigt. „Ich halte Studiengebühren für richtig“, äußerte sich Schavan gegenüber dem „Hamburger Abendblatt“. Die Beiträge zum Studium stärkten die Weiterentwicklung der Hochschulen, und so würden sie auch von den meisten Studierenden wahrgenommen. Die Studie zeige in Wahrheit, „dass die Gebühren kaum vom Studium abschrecken“. Wie die Süddeutsche Zeitung berichtete, soll sich entgegen der Behauptungen der Gebührenbefürworter laut der HIS-Studie nur jeder zweite Gebührenzahler von seinem Beitrag „verbesserte Studienbedingungen“ erhoffen. Weiterhin erklärte die Ministerin, in den Bundesländern, in denen Studiengebühren erhoben würden, sei die Zahl der Studienanfänger sogar gestiegen. Nicht mit eingerechnet wurde hierbei jedoch der Anstieg der Abiturientenzahlen in den letzten Jahren. \n\nPolitiker aus anderen Parteien haben der Bildungsministerin vorgeworfen, Umfrageergebnisse zu Studiengebühren aus parteitaktischen Gründen verheimlicht zu haben. Dazu erklärte die Bundesbildungsministerin, dass es zwei Studien gebe, die gemeinsam präsentiert werden sollten. Die Präsentation erfolge, sobald die zweite Studie, der eine Befragung der Studienanfänger des Jahres 2007 zugrunde liegt, fertiggestellt sei.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 182,
+            "end": 26,
+            "id": 0,
+            "text": "Wie die Deutsche Presseagentur meldete, soll ihr ein Papier über eine Studie des Bundesbildungsministeriums vorliegen, welches vom Ministerium selbst unter Verschluss gehalten werde. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "tokens": [
+                "Wie",
+                "die",
+                "Deutsche",
+                "Presseagentur",
+                "meldete",
+                ",",
+                "soll",
+                "ihr",
+                "ein",
+                "Papier",
+                "über",
+                "eine",
+                "Studie",
+                "des",
+                "Bundesbildungsministeriums",
+                "vorliegen",
+                ",",
+                "welches",
+                "vom",
+                "Ministerium",
+                "selbst",
+                "unter",
+                "Verschluss",
+                "gehalten",
+                "werde",
+                "."
+            ]
+        },
+        {
+            "begin": 26,
+            "charBegin": 183,
+            "charEnd": 378,
+            "end": 55,
+            "id": 1,
+            "text": "Laut dieser Studie würden viele Abiturienten durch die Studiengebühren von einem Studium abgeschreckt, allein 2006 hätten rund 18.000 junge Menschen wegen der Gebühren auf ein Studium verzichtet. ",
+            "tokenIds": [
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "tokens": [
+                "Laut",
+                "dieser",
+                "Studie",
+                "würden",
+                "viele",
+                "Abiturienten",
+                "durch",
+                "die",
+                "Studiengebühren",
+                "von",
+                "einem",
+                "Studium",
+                "abgeschreckt",
+                ",",
+                "allein",
+                "2006",
+                "hätten",
+                "rund",
+                "18.000",
+                "junge",
+                "Menschen",
+                "wegen",
+                "der",
+                "Gebühren",
+                "auf",
+                "ein",
+                "Studium",
+                "verzichtet",
+                "."
+            ]
+        },
+        {
+            "begin": 55,
+            "charBegin": 379,
+            "charEnd": 630,
+            "end": 102,
+            "id": 2,
+            "text": "Im Vergleich zu 2003 fällt auf, dass der Anteil von jungen Menschen mit Hochschulreife um 17 Prozent (von etwa 370.000 auf rund 432.500) gestiegen, der Anteil der Studienanfänger jedoch um fünf Prozent (von rund 377.500 auf etwa 358.670) gesunken ist.",
+            "tokenIds": [
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101
+            ],
+            "tokens": [
+                "Im",
+                "Vergleich",
+                "zu",
+                "2003",
+                "fällt",
+                "auf",
+                ",",
+                "dass",
+                "der",
+                "Anteil",
+                "von",
+                "jungen",
+                "Menschen",
+                "mit",
+                "Hochschulreife",
+                "um",
+                "17",
+                "Prozent",
+                "(",
+                "von",
+                "etwa",
+                "370.000",
+                "auf",
+                "rund",
+                "432.500",
+                ")",
+                "gestiegen",
+                ",",
+                "der",
+                "Anteil",
+                "der",
+                "Studienanfänger",
+                "jedoch",
+                "um",
+                "fünf",
+                "Prozent",
+                "(",
+                "von",
+                "rund",
+                "377.500",
+                "auf",
+                "etwa",
+                "358.670",
+                ")",
+                "gesunken",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "begin": 102,
+            "charBegin": 632,
+            "charEnd": 776,
+            "end": 125,
+            "id": 3,
+            "text": "Besonders betroffen seien vor allem junge Menschen aus „bildungsfernen Elternhäusern“, die wegen der Gebühren ganz auf ein Studium verzichteten. ",
+            "tokenIds": [
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124
+            ],
+            "tokens": [
+                "Besonders",
+                "betroffen",
+                "seien",
+                "vor",
+                "allem",
+                "junge",
+                "Menschen",
+                "aus",
+                "„",
+                "bildungsfernen",
+                "Elternhäusern",
+                "“",
+                ",",
+                "die",
+                "wegen",
+                "der",
+                "Gebühren",
+                "ganz",
+                "auf",
+                "ein",
+                "Studium",
+                "verzichteten",
+                "."
+            ]
+        },
+        {
+            "begin": 125,
+            "charBegin": 777,
+            "charEnd": 889,
+            "end": 140,
+            "id": 4,
+            "text": "Im Gegensatz dazu ließen sich Menschen aus Akademikerfamilien immer weniger in ihrer Hochschulwahl beeinflussen. ",
+            "tokenIds": [
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139
+            ],
+            "tokens": [
+                "Im",
+                "Gegensatz",
+                "dazu",
+                "ließen",
+                "sich",
+                "Menschen",
+                "aus",
+                "Akademikerfamilien",
+                "immer",
+                "weniger",
+                "in",
+                "ihrer",
+                "Hochschulwahl",
+                "beeinflussen",
+                "."
+            ]
+        },
+        {
+            "begin": 140,
+            "charBegin": 890,
+            "charEnd": 1081,
+            "end": 166,
+            "id": 5,
+            "text": "Laut der Studie haben die Gebühren unter Schulabgängern mit allgemeiner Hochschulreife und Fachabitur zu allgemeiner Verunsicherung geführt, auch dort wo keine Studiengebühren erhoben werden.",
+            "tokenIds": [
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165
+            ],
+            "tokens": [
+                "Laut",
+                "der",
+                "Studie",
+                "haben",
+                "die",
+                "Gebühren",
+                "unter",
+                "Schulabgängern",
+                "mit",
+                "allgemeiner",
+                "Hochschulreife",
+                "und",
+                "Fachabitur",
+                "zu",
+                "allgemeiner",
+                "Verunsicherung",
+                "geführt",
+                ",",
+                "auch",
+                "dort",
+                "wo",
+                "keine",
+                "Studiengebühren",
+                "erhoben",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 166,
+            "charBegin": 1083,
+            "charEnd": 1282,
+            "end": 190,
+            "id": 6,
+            "text": "Derzeit werden in einigen Bundesländern Studiengebühren erhoben, teilweise grundsätzlich, teilweise unter bestimmten Bedingungen, beispielsweise für Langzeitstudenten in Sachsen-Anhalt und Thüringen. ",
+            "tokenIds": [
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189
+            ],
+            "tokens": [
+                "Derzeit",
+                "werden",
+                "in",
+                "einigen",
+                "Bundesländern",
+                "Studiengebühren",
+                "erhoben",
+                ",",
+                "teilweise",
+                "grundsätzlich",
+                ",",
+                "teilweise",
+                "unter",
+                "bestimmten",
+                "Bedingungen",
+                ",",
+                "beispielsweise",
+                "für",
+                "Langzeitstudenten",
+                "in",
+                "Sachsen-Anhalt",
+                "und",
+                "Thüringen",
+                "."
+            ]
+        },
+        {
+            "begin": 190,
+            "charBegin": 1283,
+            "charEnd": 1379,
+            "end": 208,
+            "id": 7,
+            "text": "Die Höhe der Gebühren für ein Erststudium beträgt (außer für Langzeitstudenten) bis zu 500 Euro. ",
+            "tokenIds": [
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207
+            ],
+            "tokens": [
+                "Die",
+                "Höhe",
+                "der",
+                "Gebühren",
+                "für",
+                "ein",
+                "Erststudium",
+                "beträgt",
+                "(",
+                "außer",
+                "für",
+                "Langzeitstudenten",
+                ")",
+                "bis",
+                "zu",
+                "500",
+                "Euro",
+                "."
+            ]
+        },
+        {
+            "begin": 208,
+            "charBegin": 1380,
+            "charEnd": 1471,
+            "end": 221,
+            "id": 8,
+            "text": "Nach der letzten Landtagswahl in Hessen wurden die Studiengebühren dort wieder abgeschafft.",
+            "tokenIds": [
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220
+            ],
+            "tokens": [
+                "Nach",
+                "der",
+                "letzten",
+                "Landtagswahl",
+                "in",
+                "Hessen",
+                "wurden",
+                "die",
+                "Studiengebühren",
+                "dort",
+                "wieder",
+                "abgeschafft",
+                "."
+            ]
+        },
+        {
+            "begin": 221,
+            "charBegin": 1473,
+            "charEnd": 1617,
+            "end": 242,
+            "id": 9,
+            "text": "Ferner habe die Studie festgestellt, dass eine Abwanderung der Studienanfänger in Länder ohne Studiengebühren in großem Umfang nicht stattfinde. ",
+            "tokenIds": [
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241
+            ],
+            "tokens": [
+                "Ferner",
+                "habe",
+                "die",
+                "Studie",
+                "festgestellt",
+                ",",
+                "dass",
+                "eine",
+                "Abwanderung",
+                "der",
+                "Studienanfänger",
+                "in",
+                "Länder",
+                "ohne",
+                "Studiengebühren",
+                "in",
+                "großem",
+                "Umfang",
+                "nicht",
+                "stattfinde",
+                "."
+            ]
+        },
+        {
+            "begin": 242,
+            "charBegin": 1618,
+            "charEnd": 1744,
+            "end": 263,
+            "id": 10,
+            "text": "Lediglich Studenten aus dem Osten wollten nicht mehr im Westen studieren, da dort in der Regel Studiengebühren erhoben werden.",
+            "tokenIds": [
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262
+            ],
+            "tokens": [
+                "Lediglich",
+                "Studenten",
+                "aus",
+                "dem",
+                "Osten",
+                "wollten",
+                "nicht",
+                "mehr",
+                "im",
+                "Westen",
+                "studieren",
+                ",",
+                "da",
+                "dort",
+                "in",
+                "der",
+                "Regel",
+                "Studiengebühren",
+                "erhoben",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 263,
+            "charBegin": 1746,
+            "charEnd": 1971,
+            "end": 294,
+            "id": 11,
+            "text": "Die als repräsentativ geltende Studie stützte sich auf eine Befragung von 5.240 Abiturienten des Jahrgangs 2006 und auf regelmäßige Abiturientenuntersuchungen der Hochschul-Informations-System GmbH (HIS) mit Sitz in Hannover. ",
+            "tokenIds": [
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273,
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292,
+                293
+            ],
+            "tokens": [
+                "Die",
+                "als",
+                "repräsentativ",
+                "geltende",
+                "Studie",
+                "stützte",
+                "sich",
+                "auf",
+                "eine",
+                "Befragung",
+                "von",
+                "5.240",
+                "Abiturienten",
+                "des",
+                "Jahrgangs",
+                "2006",
+                "und",
+                "auf",
+                "regelmäßige",
+                "Abiturientenuntersuchungen",
+                "der",
+                "Hochschul-Informations-System",
+                "GmbH",
+                "(",
+                "HIS",
+                ")",
+                "mit",
+                "Sitz",
+                "in",
+                "Hannover",
+                "."
+            ]
+        },
+        {
+            "begin": 294,
+            "charBegin": 1972,
+            "charEnd": 2058,
+            "end": 307,
+            "id": 12,
+            "text": "Die HIS arbeitet im Auftrag von Bund und Ländern sowie der Hochschulrektorenkonferenz.",
+            "tokenIds": [
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306
+            ],
+            "tokens": [
+                "Die",
+                "HIS",
+                "arbeitet",
+                "im",
+                "Auftrag",
+                "von",
+                "Bund",
+                "und",
+                "Ländern",
+                "sowie",
+                "der",
+                "Hochschulrektorenkonferenz",
+                "."
+            ]
+        },
+        {
+            "begin": 307,
+            "charBegin": 2060,
+            "charEnd": 2170,
+            "end": 322,
+            "id": 13,
+            "text": "Inzwischen hat die hessische SPD-Chefin Andrea Ypsilanti die Länder zur Abschaffung der Gebühren aufgefordert. ",
+            "tokenIds": [
+                307,
+                308,
+                309,
+                310,
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321
+            ],
+            "tokens": [
+                "Inzwischen",
+                "hat",
+                "die",
+                "hessische",
+                "SPD-Chefin",
+                "Andrea",
+                "Ypsilanti",
+                "die",
+                "Länder",
+                "zur",
+                "Abschaffung",
+                "der",
+                "Gebühren",
+                "aufgefordert",
+                "."
+            ]
+        },
+        {
+            "begin": 322,
+            "charBegin": 2171,
+            "charEnd": 2286,
+            "end": 337,
+            "id": 14,
+            "text": "Bundesbildungsministerin Annette Schavan (CDU) hat dagegen Studiengebühren gegen neu aufkommende Kritik verteidigt. ",
+            "tokenIds": [
+                322,
+                323,
+                324,
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332,
+                333,
+                334,
+                335,
+                336
+            ],
+            "tokens": [
+                "Bundesbildungsministerin",
+                "Annette",
+                "Schavan",
+                "(",
+                "CDU",
+                ")",
+                "hat",
+                "dagegen",
+                "Studiengebühren",
+                "gegen",
+                "neu",
+                "aufkommende",
+                "Kritik",
+                "verteidigt",
+                "."
+            ]
+        },
+        {
+            "begin": 337,
+            "charBegin": 2287,
+            "charEnd": 2386,
+            "end": 355,
+            "id": 15,
+            "text": "„Ich halte Studiengebühren für richtig“, äußerte sich Schavan gegenüber dem „Hamburger Abendblatt“. ",
+            "tokenIds": [
+                337,
+                338,
+                339,
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346,
+                347,
+                348,
+                349,
+                350,
+                351,
+                352,
+                353,
+                354
+            ],
+            "tokens": [
+                "„",
+                "Ich",
+                "halte",
+                "Studiengebühren",
+                "für",
+                "richtig",
+                "“",
+                ",",
+                "äußerte",
+                "sich",
+                "Schavan",
+                "gegenüber",
+                "dem",
+                "„",
+                "Hamburger",
+                "Abendblatt",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 355,
+            "charBegin": 2387,
+            "charEnd": 2525,
+            "end": 376,
+            "id": 16,
+            "text": "Die Beiträge zum Studium stärkten die Weiterentwicklung der Hochschulen, und so würden sie auch von den meisten Studierenden wahrgenommen. ",
+            "tokenIds": [
+                355,
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365,
+                366,
+                367,
+                368,
+                369,
+                370,
+                371,
+                372,
+                373,
+                374,
+                375
+            ],
+            "tokens": [
+                "Die",
+                "Beiträge",
+                "zum",
+                "Studium",
+                "stärkten",
+                "die",
+                "Weiterentwicklung",
+                "der",
+                "Hochschulen",
+                ",",
+                "und",
+                "so",
+                "würden",
+                "sie",
+                "auch",
+                "von",
+                "den",
+                "meisten",
+                "Studierenden",
+                "wahrgenommen",
+                "."
+            ]
+        },
+        {
+            "begin": 376,
+            "charBegin": 2526,
+            "charEnd": 2605,
+            "end": 392,
+            "id": 17,
+            "text": "Die Studie zeige in Wahrheit, „dass die Gebühren kaum vom Studium abschrecken“. ",
+            "tokenIds": [
+                376,
+                377,
+                378,
+                379,
+                380,
+                381,
+                382,
+                383,
+                384,
+                385,
+                386,
+                387,
+                388,
+                389,
+                390,
+                391
+            ],
+            "tokens": [
+                "Die",
+                "Studie",
+                "zeige",
+                "in",
+                "Wahrheit",
+                ",",
+                "„",
+                "dass",
+                "die",
+                "Gebühren",
+                "kaum",
+                "vom",
+                "Studium",
+                "abschrecken",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 392,
+            "charBegin": 2606,
+            "charEnd": 2819,
+            "end": 421,
+            "id": 18,
+            "text": "Wie die Süddeutsche Zeitung berichtete, soll sich entgegen der Behauptungen der Gebührenbefürworter laut der HIS-Studie nur jeder zweite Gebührenzahler von seinem Beitrag „verbesserte Studienbedingungen“ erhoffen. ",
+            "tokenIds": [
+                392,
+                393,
+                394,
+                395,
+                396,
+                397,
+                398,
+                399,
+                400,
+                401,
+                402,
+                403,
+                404,
+                405,
+                406,
+                407,
+                408,
+                409,
+                410,
+                411,
+                412,
+                413,
+                414,
+                415,
+                416,
+                417,
+                418,
+                419,
+                420
+            ],
+            "tokens": [
+                "Wie",
+                "die",
+                "Süddeutsche",
+                "Zeitung",
+                "berichtete",
+                ",",
+                "soll",
+                "sich",
+                "entgegen",
+                "der",
+                "Behauptungen",
+                "der",
+                "Gebührenbefürworter",
+                "laut",
+                "der",
+                "HIS-Studie",
+                "nur",
+                "jeder",
+                "zweite",
+                "Gebührenzahler",
+                "von",
+                "seinem",
+                "Beitrag",
+                "„",
+                "verbesserte",
+                "Studienbedingungen",
+                "“",
+                "erhoffen",
+                "."
+            ]
+        },
+        {
+            "begin": 421,
+            "charBegin": 2820,
+            "charEnd": 2967,
+            "end": 444,
+            "id": 19,
+            "text": "Weiterhin erklärte die Ministerin, in den Bundesländern, in denen Studiengebühren erhoben würden, sei die Zahl der Studienanfänger sogar gestiegen. ",
+            "tokenIds": [
+                421,
+                422,
+                423,
+                424,
+                425,
+                426,
+                427,
+                428,
+                429,
+                430,
+                431,
+                432,
+                433,
+                434,
+                435,
+                436,
+                437,
+                438,
+                439,
+                440,
+                441,
+                442,
+                443
+            ],
+            "tokens": [
+                "Weiterhin",
+                "erklärte",
+                "die",
+                "Ministerin",
+                ",",
+                "in",
+                "den",
+                "Bundesländern",
+                ",",
+                "in",
+                "denen",
+                "Studiengebühren",
+                "erhoben",
+                "würden",
+                ",",
+                "sei",
+                "die",
+                "Zahl",
+                "der",
+                "Studienanfänger",
+                "sogar",
+                "gestiegen",
+                "."
+            ]
+        },
+        {
+            "begin": 444,
+            "charBegin": 2968,
+            "charEnd": 3069,
+            "end": 459,
+            "id": 20,
+            "text": "Nicht mit eingerechnet wurde hierbei jedoch der Anstieg der Abiturientenzahlen in den letzten Jahren. ",
+            "tokenIds": [
+                444,
+                445,
+                446,
+                447,
+                448,
+                449,
+                450,
+                451,
+                452,
+                453,
+                454,
+                455,
+                456,
+                457,
+                458
+            ],
+            "tokens": [
+                "Nicht",
+                "mit",
+                "eingerechnet",
+                "wurde",
+                "hierbei",
+                "jedoch",
+                "der",
+                "Anstieg",
+                "der",
+                "Abiturientenzahlen",
+                "in",
+                "den",
+                "letzten",
+                "Jahren",
+                "."
+            ]
+        },
+        {
+            "begin": 459,
+            "charBegin": 3072,
+            "charEnd": 3233,
+            "end": 478,
+            "id": 21,
+            "text": "Politiker aus anderen Parteien haben der Bildungsministerin vorgeworfen, Umfrageergebnisse zu Studiengebühren aus parteitaktischen Gründen verheimlicht zu haben. ",
+            "tokenIds": [
+                459,
+                460,
+                461,
+                462,
+                463,
+                464,
+                465,
+                466,
+                467,
+                468,
+                469,
+                470,
+                471,
+                472,
+                473,
+                474,
+                475,
+                476,
+                477
+            ],
+            "tokens": [
+                "Politiker",
+                "aus",
+                "anderen",
+                "Parteien",
+                "haben",
+                "der",
+                "Bildungsministerin",
+                "vorgeworfen",
+                ",",
+                "Umfrageergebnisse",
+                "zu",
+                "Studiengebühren",
+                "aus",
+                "parteitaktischen",
+                "Gründen",
+                "verheimlicht",
+                "zu",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "begin": 478,
+            "charBegin": 3234,
+            "charEnd": 3346,
+            "end": 495,
+            "id": 22,
+            "text": "Dazu erklärte die Bundesbildungsministerin, dass es zwei Studien gebe, die gemeinsam präsentiert werden sollten. ",
+            "tokenIds": [
+                478,
+                479,
+                480,
+                481,
+                482,
+                483,
+                484,
+                485,
+                486,
+                487,
+                488,
+                489,
+                490,
+                491,
+                492,
+                493,
+                494
+            ],
+            "tokens": [
+                "Dazu",
+                "erklärte",
+                "die",
+                "Bundesbildungsministerin",
+                ",",
+                "dass",
+                "es",
+                "zwei",
+                "Studien",
+                "gebe",
+                ",",
+                "die",
+                "gemeinsam",
+                "präsentiert",
+                "werden",
+                "sollten",
+                "."
+            ]
+        },
+        {
+            "begin": 495,
+            "charBegin": 3347,
+            "charEnd": 3489,
+            "end": 518,
+            "id": 23,
+            "text": "Die Präsentation erfolge, sobald die zweite Studie, der eine Befragung der Studienanfänger des Jahres 2007 zugrunde liegt, fertiggestellt sei.",
+            "tokenIds": [
+                495,
+                496,
+                497,
+                498,
+                499,
+                500,
+                501,
+                502,
+                503,
+                504,
+                505,
+                506,
+                507,
+                508,
+                509,
+                510,
+                511,
+                512,
+                513,
+                514,
+                515,
+                516,
+                517
+            ],
+            "tokens": [
+                "Die",
+                "Präsentation",
+                "erfolge",
+                ",",
+                "sobald",
+                "die",
+                "zweite",
+                "Studie",
+                ",",
+                "der",
+                "eine",
+                "Befragung",
+                "der",
+                "Studienanfänger",
+                "des",
+                "Jahres",
+                "2007",
+                "zugrunde",
+                "liegt",
+                ",",
+                "fertiggestellt",
+                "sei",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Wie",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 7,
+            "id": 1,
+            "sentence": 1,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 8,
+            "charEnd": 16,
+            "id": 2,
+            "sentence": 1,
+            "text": "Deutsche",
+            "word": 3
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 30,
+            "id": 3,
+            "sentence": 1,
+            "text": "Presseagentur",
+            "word": 4
+        },
+        {
+            "charBegin": 31,
+            "charEnd": 38,
+            "id": 4,
+            "sentence": 1,
+            "text": "meldete",
+            "word": 5
+        },
+        {
+            "charBegin": 38,
+            "charEnd": 39,
+            "id": 5,
+            "sentence": 1,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 44,
+            "id": 6,
+            "sentence": 1,
+            "text": "soll",
+            "word": 7
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 48,
+            "id": 7,
+            "sentence": 1,
+            "text": "ihr",
+            "word": 8
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 52,
+            "id": 8,
+            "sentence": 1,
+            "text": "ein",
+            "word": 9
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 59,
+            "id": 9,
+            "sentence": 1,
+            "text": "Papier",
+            "word": 10
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 64,
+            "id": 10,
+            "sentence": 1,
+            "text": "über",
+            "word": 11
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 69,
+            "id": 11,
+            "sentence": 1,
+            "text": "eine",
+            "word": 12
+        },
+        {
+            "charBegin": 70,
+            "charEnd": 76,
+            "id": 12,
+            "sentence": 1,
+            "text": "Studie",
+            "word": 13
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 80,
+            "id": 13,
+            "sentence": 1,
+            "text": "des",
+            "word": 14
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 107,
+            "id": 14,
+            "sentence": 1,
+            "text": "Bundesbildungsministeriums",
+            "word": 15
+        },
+        {
+            "charBegin": 108,
+            "charEnd": 117,
+            "id": 15,
+            "sentence": 1,
+            "text": "vorliegen",
+            "word": 16
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 118,
+            "id": 16,
+            "sentence": 1,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 119,
+            "charEnd": 126,
+            "id": 17,
+            "sentence": 1,
+            "text": "welches",
+            "word": 18
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 130,
+            "id": 18,
+            "sentence": 1,
+            "text": "vom",
+            "word": 19
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 142,
+            "id": 19,
+            "sentence": 1,
+            "text": "Ministerium",
+            "word": 20
+        },
+        {
+            "charBegin": 143,
+            "charEnd": 149,
+            "id": 20,
+            "sentence": 1,
+            "text": "selbst",
+            "word": 21
+        },
+        {
+            "charBegin": 150,
+            "charEnd": 155,
+            "id": 21,
+            "sentence": 1,
+            "text": "unter",
+            "word": 22
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 166,
+            "id": 22,
+            "sentence": 1,
+            "text": "Verschluss",
+            "word": 23
+        },
+        {
+            "charBegin": 167,
+            "charEnd": 175,
+            "id": 23,
+            "sentence": 1,
+            "text": "gehalten",
+            "word": 24
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 181,
+            "id": 24,
+            "sentence": 1,
+            "text": "werde",
+            "word": 25
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 182,
+            "id": 25,
+            "sentence": 1,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 187,
+            "id": 26,
+            "sentence": 2,
+            "text": "Laut",
+            "word": 1
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 194,
+            "id": 27,
+            "sentence": 2,
+            "text": "dieser",
+            "word": 2
+        },
+        {
+            "charBegin": 195,
+            "charEnd": 201,
+            "id": 28,
+            "sentence": 2,
+            "text": "Studie",
+            "word": 3
+        },
+        {
+            "charBegin": 202,
+            "charEnd": 208,
+            "id": 29,
+            "sentence": 2,
+            "text": "würden",
+            "word": 4
+        },
+        {
+            "charBegin": 209,
+            "charEnd": 214,
+            "id": 30,
+            "sentence": 2,
+            "text": "viele",
+            "word": 5
+        },
+        {
+            "charBegin": 215,
+            "charEnd": 227,
+            "id": 31,
+            "sentence": 2,
+            "text": "Abiturienten",
+            "word": 6
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 233,
+            "id": 32,
+            "sentence": 2,
+            "text": "durch",
+            "word": 7
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 237,
+            "id": 33,
+            "sentence": 2,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 238,
+            "charEnd": 253,
+            "id": 34,
+            "sentence": 2,
+            "text": "Studiengebühren",
+            "word": 9
+        },
+        {
+            "charBegin": 254,
+            "charEnd": 257,
+            "id": 35,
+            "sentence": 2,
+            "text": "von",
+            "word": 10
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 263,
+            "id": 36,
+            "sentence": 2,
+            "text": "einem",
+            "word": 11
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 271,
+            "id": 37,
+            "sentence": 2,
+            "text": "Studium",
+            "word": 12
+        },
+        {
+            "charBegin": 272,
+            "charEnd": 284,
+            "id": 38,
+            "sentence": 2,
+            "text": "abgeschreckt",
+            "word": 13
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 285,
+            "id": 39,
+            "sentence": 2,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 292,
+            "id": 40,
+            "sentence": 2,
+            "text": "allein",
+            "word": 15
+        },
+        {
+            "charBegin": 293,
+            "charEnd": 297,
+            "id": 41,
+            "sentence": 2,
+            "text": "2006",
+            "word": 16
+        },
+        {
+            "charBegin": 298,
+            "charEnd": 304,
+            "id": 42,
+            "sentence": 2,
+            "text": "hätten",
+            "word": 17
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 309,
+            "id": 43,
+            "sentence": 2,
+            "text": "rund",
+            "word": 18
+        },
+        {
+            "charBegin": 310,
+            "charEnd": 316,
+            "id": 44,
+            "sentence": 2,
+            "text": "18.000",
+            "word": 19
+        },
+        {
+            "charBegin": 317,
+            "charEnd": 322,
+            "id": 45,
+            "sentence": 2,
+            "text": "junge",
+            "word": 20
+        },
+        {
+            "charBegin": 323,
+            "charEnd": 331,
+            "id": 46,
+            "sentence": 2,
+            "text": "Menschen",
+            "word": 21
+        },
+        {
+            "charBegin": 332,
+            "charEnd": 337,
+            "id": 47,
+            "sentence": 2,
+            "text": "wegen",
+            "word": 22
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 341,
+            "id": 48,
+            "sentence": 2,
+            "text": "der",
+            "word": 23
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 350,
+            "id": 49,
+            "sentence": 2,
+            "text": "Gebühren",
+            "word": 24
+        },
+        {
+            "charBegin": 351,
+            "charEnd": 354,
+            "id": 50,
+            "sentence": 2,
+            "text": "auf",
+            "word": 25
+        },
+        {
+            "charBegin": 355,
+            "charEnd": 358,
+            "id": 51,
+            "sentence": 2,
+            "text": "ein",
+            "word": 26
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 366,
+            "id": 52,
+            "sentence": 2,
+            "text": "Studium",
+            "word": 27
+        },
+        {
+            "charBegin": 367,
+            "charEnd": 377,
+            "id": 53,
+            "sentence": 2,
+            "text": "verzichtet",
+            "word": 28
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 378,
+            "id": 54,
+            "sentence": 2,
+            "text": ".",
+            "word": 29
+        },
+        {
+            "charBegin": 379,
+            "charEnd": 381,
+            "id": 55,
+            "sentence": 3,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 391,
+            "id": 56,
+            "sentence": 3,
+            "text": "Vergleich",
+            "word": 2
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 394,
+            "id": 57,
+            "sentence": 3,
+            "text": "zu",
+            "word": 3
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 399,
+            "id": 58,
+            "sentence": 3,
+            "text": "2003",
+            "word": 4
+        },
+        {
+            "charBegin": 400,
+            "charEnd": 405,
+            "id": 59,
+            "sentence": 3,
+            "text": "fällt",
+            "word": 5
+        },
+        {
+            "charBegin": 406,
+            "charEnd": 409,
+            "id": 60,
+            "sentence": 3,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 410,
+            "id": 61,
+            "sentence": 3,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 411,
+            "charEnd": 415,
+            "id": 62,
+            "sentence": 3,
+            "text": "dass",
+            "word": 8
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 419,
+            "id": 63,
+            "sentence": 3,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 426,
+            "id": 64,
+            "sentence": 3,
+            "text": "Anteil",
+            "word": 10
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 430,
+            "id": 65,
+            "sentence": 3,
+            "text": "von",
+            "word": 11
+        },
+        {
+            "charBegin": 431,
+            "charEnd": 437,
+            "id": 66,
+            "sentence": 3,
+            "text": "jungen",
+            "word": 12
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 446,
+            "id": 67,
+            "sentence": 3,
+            "text": "Menschen",
+            "word": 13
+        },
+        {
+            "charBegin": 447,
+            "charEnd": 450,
+            "id": 68,
+            "sentence": 3,
+            "text": "mit",
+            "word": 14
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 465,
+            "id": 69,
+            "sentence": 3,
+            "text": "Hochschulreife",
+            "word": 15
+        },
+        {
+            "charBegin": 466,
+            "charEnd": 468,
+            "id": 70,
+            "sentence": 3,
+            "text": "um",
+            "word": 16
+        },
+        {
+            "charBegin": 469,
+            "charEnd": 471,
+            "id": 71,
+            "sentence": 3,
+            "text": "17",
+            "word": 17
+        },
+        {
+            "charBegin": 472,
+            "charEnd": 479,
+            "id": 72,
+            "sentence": 3,
+            "text": "Prozent",
+            "word": 18
+        },
+        {
+            "charBegin": 480,
+            "charEnd": 481,
+            "id": 73,
+            "sentence": 3,
+            "text": "(",
+            "word": 19
+        },
+        {
+            "charBegin": 481,
+            "charEnd": 484,
+            "id": 74,
+            "sentence": 3,
+            "text": "von",
+            "word": 20
+        },
+        {
+            "charBegin": 485,
+            "charEnd": 489,
+            "id": 75,
+            "sentence": 3,
+            "text": "etwa",
+            "word": 21
+        },
+        {
+            "charBegin": 490,
+            "charEnd": 497,
+            "id": 76,
+            "sentence": 3,
+            "text": "370.000",
+            "word": 22
+        },
+        {
+            "charBegin": 498,
+            "charEnd": 501,
+            "id": 77,
+            "sentence": 3,
+            "text": "auf",
+            "word": 23
+        },
+        {
+            "charBegin": 502,
+            "charEnd": 506,
+            "id": 78,
+            "sentence": 3,
+            "text": "rund",
+            "word": 24
+        },
+        {
+            "charBegin": 507,
+            "charEnd": 514,
+            "id": 79,
+            "sentence": 3,
+            "text": "432.500",
+            "word": 25
+        },
+        {
+            "charBegin": 514,
+            "charEnd": 515,
+            "id": 80,
+            "sentence": 3,
+            "text": ")",
+            "word": 26
+        },
+        {
+            "charBegin": 516,
+            "charEnd": 525,
+            "id": 81,
+            "sentence": 3,
+            "text": "gestiegen",
+            "word": 27
+        },
+        {
+            "charBegin": 525,
+            "charEnd": 526,
+            "id": 82,
+            "sentence": 3,
+            "text": ",",
+            "word": 28
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 530,
+            "id": 83,
+            "sentence": 3,
+            "text": "der",
+            "word": 29
+        },
+        {
+            "charBegin": 531,
+            "charEnd": 537,
+            "id": 84,
+            "sentence": 3,
+            "text": "Anteil",
+            "word": 30
+        },
+        {
+            "charBegin": 538,
+            "charEnd": 541,
+            "id": 85,
+            "sentence": 3,
+            "text": "der",
+            "word": 31
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 557,
+            "id": 86,
+            "sentence": 3,
+            "text": "Studienanfänger",
+            "word": 32
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 564,
+            "id": 87,
+            "sentence": 3,
+            "text": "jedoch",
+            "word": 33
+        },
+        {
+            "charBegin": 565,
+            "charEnd": 567,
+            "id": 88,
+            "sentence": 3,
+            "text": "um",
+            "word": 34
+        },
+        {
+            "charBegin": 568,
+            "charEnd": 572,
+            "id": 89,
+            "sentence": 3,
+            "text": "fünf",
+            "word": 35
+        },
+        {
+            "charBegin": 573,
+            "charEnd": 580,
+            "id": 90,
+            "sentence": 3,
+            "text": "Prozent",
+            "word": 36
+        },
+        {
+            "charBegin": 581,
+            "charEnd": 582,
+            "id": 91,
+            "sentence": 3,
+            "text": "(",
+            "word": 37
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 585,
+            "id": 92,
+            "sentence": 3,
+            "text": "von",
+            "word": 38
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 590,
+            "id": 93,
+            "sentence": 3,
+            "text": "rund",
+            "word": 39
+        },
+        {
+            "charBegin": 591,
+            "charEnd": 598,
+            "id": 94,
+            "sentence": 3,
+            "text": "377.500",
+            "word": 40
+        },
+        {
+            "charBegin": 599,
+            "charEnd": 602,
+            "id": 95,
+            "sentence": 3,
+            "text": "auf",
+            "word": 41
+        },
+        {
+            "charBegin": 603,
+            "charEnd": 607,
+            "id": 96,
+            "sentence": 3,
+            "text": "etwa",
+            "word": 42
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 615,
+            "id": 97,
+            "sentence": 3,
+            "text": "358.670",
+            "word": 43
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 616,
+            "id": 98,
+            "sentence": 3,
+            "text": ")",
+            "word": 44
+        },
+        {
+            "charBegin": 617,
+            "charEnd": 625,
+            "id": 99,
+            "sentence": 3,
+            "text": "gesunken",
+            "word": 45
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 629,
+            "id": 100,
+            "sentence": 3,
+            "text": "ist",
+            "word": 46
+        },
+        {
+            "charBegin": 629,
+            "charEnd": 630,
+            "id": 101,
+            "sentence": 3,
+            "text": ".",
+            "word": 47
+        },
+        {
+            "charBegin": 632,
+            "charEnd": 641,
+            "id": 102,
+            "sentence": 4,
+            "text": "Besonders",
+            "word": 1
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 651,
+            "id": 103,
+            "sentence": 4,
+            "text": "betroffen",
+            "word": 2
+        },
+        {
+            "charBegin": 652,
+            "charEnd": 657,
+            "id": 104,
+            "sentence": 4,
+            "text": "seien",
+            "word": 3
+        },
+        {
+            "charBegin": 658,
+            "charEnd": 661,
+            "id": 105,
+            "sentence": 4,
+            "text": "vor",
+            "word": 4
+        },
+        {
+            "charBegin": 662,
+            "charEnd": 667,
+            "id": 106,
+            "sentence": 4,
+            "text": "allem",
+            "word": 5
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 673,
+            "id": 107,
+            "sentence": 4,
+            "text": "junge",
+            "word": 6
+        },
+        {
+            "charBegin": 674,
+            "charEnd": 682,
+            "id": 108,
+            "sentence": 4,
+            "text": "Menschen",
+            "word": 7
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 686,
+            "id": 109,
+            "sentence": 4,
+            "text": "aus",
+            "word": 8
+        },
+        {
+            "charBegin": 687,
+            "charEnd": 688,
+            "id": 110,
+            "sentence": 4,
+            "text": "„",
+            "word": 9
+        },
+        {
+            "charBegin": 688,
+            "charEnd": 702,
+            "id": 111,
+            "sentence": 4,
+            "text": "bildungsfernen",
+            "word": 10
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 716,
+            "id": 112,
+            "sentence": 4,
+            "text": "Elternhäusern",
+            "word": 11
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 717,
+            "id": 113,
+            "sentence": 4,
+            "text": "“",
+            "word": 12
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 718,
+            "id": 114,
+            "sentence": 4,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 719,
+            "charEnd": 722,
+            "id": 115,
+            "sentence": 4,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 723,
+            "charEnd": 728,
+            "id": 116,
+            "sentence": 4,
+            "text": "wegen",
+            "word": 15
+        },
+        {
+            "charBegin": 729,
+            "charEnd": 732,
+            "id": 117,
+            "sentence": 4,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 733,
+            "charEnd": 741,
+            "id": 118,
+            "sentence": 4,
+            "text": "Gebühren",
+            "word": 17
+        },
+        {
+            "charBegin": 742,
+            "charEnd": 746,
+            "id": 119,
+            "sentence": 4,
+            "text": "ganz",
+            "word": 18
+        },
+        {
+            "charBegin": 747,
+            "charEnd": 750,
+            "id": 120,
+            "sentence": 4,
+            "text": "auf",
+            "word": 19
+        },
+        {
+            "charBegin": 751,
+            "charEnd": 754,
+            "id": 121,
+            "sentence": 4,
+            "text": "ein",
+            "word": 20
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 762,
+            "id": 122,
+            "sentence": 4,
+            "text": "Studium",
+            "word": 21
+        },
+        {
+            "charBegin": 763,
+            "charEnd": 775,
+            "id": 123,
+            "sentence": 4,
+            "text": "verzichteten",
+            "word": 22
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 776,
+            "id": 124,
+            "sentence": 4,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 777,
+            "charEnd": 779,
+            "id": 125,
+            "sentence": 5,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 789,
+            "id": 126,
+            "sentence": 5,
+            "text": "Gegensatz",
+            "word": 2
+        },
+        {
+            "charBegin": 790,
+            "charEnd": 794,
+            "id": 127,
+            "sentence": 5,
+            "text": "dazu",
+            "word": 3
+        },
+        {
+            "charBegin": 795,
+            "charEnd": 801,
+            "id": 128,
+            "sentence": 5,
+            "text": "ließen",
+            "word": 4
+        },
+        {
+            "charBegin": 802,
+            "charEnd": 806,
+            "id": 129,
+            "sentence": 5,
+            "text": "sich",
+            "word": 5
+        },
+        {
+            "charBegin": 807,
+            "charEnd": 815,
+            "id": 130,
+            "sentence": 5,
+            "text": "Menschen",
+            "word": 6
+        },
+        {
+            "charBegin": 816,
+            "charEnd": 819,
+            "id": 131,
+            "sentence": 5,
+            "text": "aus",
+            "word": 7
+        },
+        {
+            "charBegin": 820,
+            "charEnd": 838,
+            "id": 132,
+            "sentence": 5,
+            "text": "Akademikerfamilien",
+            "word": 8
+        },
+        {
+            "charBegin": 839,
+            "charEnd": 844,
+            "id": 133,
+            "sentence": 5,
+            "text": "immer",
+            "word": 9
+        },
+        {
+            "charBegin": 845,
+            "charEnd": 852,
+            "id": 134,
+            "sentence": 5,
+            "text": "weniger",
+            "word": 10
+        },
+        {
+            "charBegin": 853,
+            "charEnd": 855,
+            "id": 135,
+            "sentence": 5,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 856,
+            "charEnd": 861,
+            "id": 136,
+            "sentence": 5,
+            "text": "ihrer",
+            "word": 12
+        },
+        {
+            "charBegin": 862,
+            "charEnd": 875,
+            "id": 137,
+            "sentence": 5,
+            "text": "Hochschulwahl",
+            "word": 13
+        },
+        {
+            "charBegin": 876,
+            "charEnd": 888,
+            "id": 138,
+            "sentence": 5,
+            "text": "beeinflussen",
+            "word": 14
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 889,
+            "id": 139,
+            "sentence": 5,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 890,
+            "charEnd": 894,
+            "id": 140,
+            "sentence": 6,
+            "text": "Laut",
+            "word": 1
+        },
+        {
+            "charBegin": 895,
+            "charEnd": 898,
+            "id": 141,
+            "sentence": 6,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 899,
+            "charEnd": 905,
+            "id": 142,
+            "sentence": 6,
+            "text": "Studie",
+            "word": 3
+        },
+        {
+            "charBegin": 906,
+            "charEnd": 911,
+            "id": 143,
+            "sentence": 6,
+            "text": "haben",
+            "word": 4
+        },
+        {
+            "charBegin": 912,
+            "charEnd": 915,
+            "id": 144,
+            "sentence": 6,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 916,
+            "charEnd": 924,
+            "id": 145,
+            "sentence": 6,
+            "text": "Gebühren",
+            "word": 6
+        },
+        {
+            "charBegin": 925,
+            "charEnd": 930,
+            "id": 146,
+            "sentence": 6,
+            "text": "unter",
+            "word": 7
+        },
+        {
+            "charBegin": 931,
+            "charEnd": 945,
+            "id": 147,
+            "sentence": 6,
+            "text": "Schulabgängern",
+            "word": 8
+        },
+        {
+            "charBegin": 946,
+            "charEnd": 949,
+            "id": 148,
+            "sentence": 6,
+            "text": "mit",
+            "word": 9
+        },
+        {
+            "charBegin": 950,
+            "charEnd": 961,
+            "id": 149,
+            "sentence": 6,
+            "text": "allgemeiner",
+            "word": 10
+        },
+        {
+            "charBegin": 962,
+            "charEnd": 976,
+            "id": 150,
+            "sentence": 6,
+            "text": "Hochschulreife",
+            "word": 11
+        },
+        {
+            "charBegin": 977,
+            "charEnd": 980,
+            "id": 151,
+            "sentence": 6,
+            "text": "und",
+            "word": 12
+        },
+        {
+            "charBegin": 981,
+            "charEnd": 991,
+            "id": 152,
+            "sentence": 6,
+            "text": "Fachabitur",
+            "word": 13
+        },
+        {
+            "charBegin": 992,
+            "charEnd": 994,
+            "id": 153,
+            "sentence": 6,
+            "text": "zu",
+            "word": 14
+        },
+        {
+            "charBegin": 995,
+            "charEnd": 1006,
+            "id": 154,
+            "sentence": 6,
+            "text": "allgemeiner",
+            "word": 15
+        },
+        {
+            "charBegin": 1007,
+            "charEnd": 1021,
+            "id": 155,
+            "sentence": 6,
+            "text": "Verunsicherung",
+            "word": 16
+        },
+        {
+            "charBegin": 1022,
+            "charEnd": 1029,
+            "id": 156,
+            "sentence": 6,
+            "text": "geführt",
+            "word": 17
+        },
+        {
+            "charBegin": 1029,
+            "charEnd": 1030,
+            "id": 157,
+            "sentence": 6,
+            "text": ",",
+            "word": 18
+        },
+        {
+            "charBegin": 1031,
+            "charEnd": 1035,
+            "id": 158,
+            "sentence": 6,
+            "text": "auch",
+            "word": 19
+        },
+        {
+            "charBegin": 1036,
+            "charEnd": 1040,
+            "id": 159,
+            "sentence": 6,
+            "text": "dort",
+            "word": 20
+        },
+        {
+            "charBegin": 1041,
+            "charEnd": 1043,
+            "id": 160,
+            "sentence": 6,
+            "text": "wo",
+            "word": 21
+        },
+        {
+            "charBegin": 1044,
+            "charEnd": 1049,
+            "id": 161,
+            "sentence": 6,
+            "text": "keine",
+            "word": 22
+        },
+        {
+            "charBegin": 1050,
+            "charEnd": 1065,
+            "id": 162,
+            "sentence": 6,
+            "text": "Studiengebühren",
+            "word": 23
+        },
+        {
+            "charBegin": 1066,
+            "charEnd": 1073,
+            "id": 163,
+            "sentence": 6,
+            "text": "erhoben",
+            "word": 24
+        },
+        {
+            "charBegin": 1074,
+            "charEnd": 1080,
+            "id": 164,
+            "sentence": 6,
+            "text": "werden",
+            "word": 25
+        },
+        {
+            "charBegin": 1080,
+            "charEnd": 1081,
+            "id": 165,
+            "sentence": 6,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 1083,
+            "charEnd": 1090,
+            "id": 166,
+            "sentence": 7,
+            "text": "Derzeit",
+            "word": 1
+        },
+        {
+            "charBegin": 1091,
+            "charEnd": 1097,
+            "id": 167,
+            "sentence": 7,
+            "text": "werden",
+            "word": 2
+        },
+        {
+            "charBegin": 1098,
+            "charEnd": 1100,
+            "id": 168,
+            "sentence": 7,
+            "text": "in",
+            "word": 3
+        },
+        {
+            "charBegin": 1101,
+            "charEnd": 1108,
+            "id": 169,
+            "sentence": 7,
+            "text": "einigen",
+            "word": 4
+        },
+        {
+            "charBegin": 1109,
+            "charEnd": 1122,
+            "id": 170,
+            "sentence": 7,
+            "text": "Bundesländern",
+            "word": 5
+        },
+        {
+            "charBegin": 1123,
+            "charEnd": 1138,
+            "id": 171,
+            "sentence": 7,
+            "text": "Studiengebühren",
+            "word": 6
+        },
+        {
+            "charBegin": 1139,
+            "charEnd": 1146,
+            "id": 172,
+            "sentence": 7,
+            "text": "erhoben",
+            "word": 7
+        },
+        {
+            "charBegin": 1146,
+            "charEnd": 1147,
+            "id": 173,
+            "sentence": 7,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 1148,
+            "charEnd": 1157,
+            "id": 174,
+            "sentence": 7,
+            "text": "teilweise",
+            "word": 9
+        },
+        {
+            "charBegin": 1158,
+            "charEnd": 1171,
+            "id": 175,
+            "sentence": 7,
+            "text": "grundsätzlich",
+            "word": 10
+        },
+        {
+            "charBegin": 1171,
+            "charEnd": 1172,
+            "id": 176,
+            "sentence": 7,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1173,
+            "charEnd": 1182,
+            "id": 177,
+            "sentence": 7,
+            "text": "teilweise",
+            "word": 12
+        },
+        {
+            "charBegin": 1183,
+            "charEnd": 1188,
+            "id": 178,
+            "sentence": 7,
+            "text": "unter",
+            "word": 13
+        },
+        {
+            "charBegin": 1189,
+            "charEnd": 1199,
+            "id": 179,
+            "sentence": 7,
+            "text": "bestimmten",
+            "word": 14
+        },
+        {
+            "charBegin": 1200,
+            "charEnd": 1211,
+            "id": 180,
+            "sentence": 7,
+            "text": "Bedingungen",
+            "word": 15
+        },
+        {
+            "charBegin": 1211,
+            "charEnd": 1212,
+            "id": 181,
+            "sentence": 7,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 1213,
+            "charEnd": 1227,
+            "id": 182,
+            "sentence": 7,
+            "text": "beispielsweise",
+            "word": 17
+        },
+        {
+            "charBegin": 1228,
+            "charEnd": 1231,
+            "id": 183,
+            "sentence": 7,
+            "text": "für",
+            "word": 18
+        },
+        {
+            "charBegin": 1232,
+            "charEnd": 1249,
+            "id": 184,
+            "sentence": 7,
+            "text": "Langzeitstudenten",
+            "word": 19
+        },
+        {
+            "charBegin": 1250,
+            "charEnd": 1252,
+            "id": 185,
+            "sentence": 7,
+            "text": "in",
+            "word": 20
+        },
+        {
+            "charBegin": 1253,
+            "charEnd": 1267,
+            "id": 186,
+            "sentence": 7,
+            "text": "Sachsen-Anhalt",
+            "word": 21
+        },
+        {
+            "charBegin": 1268,
+            "charEnd": 1271,
+            "id": 187,
+            "sentence": 7,
+            "text": "und",
+            "word": 22
+        },
+        {
+            "charBegin": 1272,
+            "charEnd": 1281,
+            "id": 188,
+            "sentence": 7,
+            "text": "Thüringen",
+            "word": 23
+        },
+        {
+            "charBegin": 1281,
+            "charEnd": 1282,
+            "id": 189,
+            "sentence": 7,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 1283,
+            "charEnd": 1286,
+            "id": 190,
+            "sentence": 8,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1287,
+            "charEnd": 1291,
+            "id": 191,
+            "sentence": 8,
+            "text": "Höhe",
+            "word": 2
+        },
+        {
+            "charBegin": 1292,
+            "charEnd": 1295,
+            "id": 192,
+            "sentence": 8,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 1296,
+            "charEnd": 1304,
+            "id": 193,
+            "sentence": 8,
+            "text": "Gebühren",
+            "word": 4
+        },
+        {
+            "charBegin": 1305,
+            "charEnd": 1308,
+            "id": 194,
+            "sentence": 8,
+            "text": "für",
+            "word": 5
+        },
+        {
+            "charBegin": 1309,
+            "charEnd": 1312,
+            "id": 195,
+            "sentence": 8,
+            "text": "ein",
+            "word": 6
+        },
+        {
+            "charBegin": 1313,
+            "charEnd": 1324,
+            "id": 196,
+            "sentence": 8,
+            "text": "Erststudium",
+            "word": 7
+        },
+        {
+            "charBegin": 1325,
+            "charEnd": 1332,
+            "id": 197,
+            "sentence": 8,
+            "text": "beträgt",
+            "word": 8
+        },
+        {
+            "charBegin": 1333,
+            "charEnd": 1334,
+            "id": 198,
+            "sentence": 8,
+            "text": "(",
+            "word": 9
+        },
+        {
+            "charBegin": 1334,
+            "charEnd": 1339,
+            "id": 199,
+            "sentence": 8,
+            "text": "außer",
+            "word": 10
+        },
+        {
+            "charBegin": 1340,
+            "charEnd": 1343,
+            "id": 200,
+            "sentence": 8,
+            "text": "für",
+            "word": 11
+        },
+        {
+            "charBegin": 1344,
+            "charEnd": 1361,
+            "id": 201,
+            "sentence": 8,
+            "text": "Langzeitstudenten",
+            "word": 12
+        },
+        {
+            "charBegin": 1361,
+            "charEnd": 1362,
+            "id": 202,
+            "sentence": 8,
+            "text": ")",
+            "word": 13
+        },
+        {
+            "charBegin": 1363,
+            "charEnd": 1366,
+            "id": 203,
+            "sentence": 8,
+            "text": "bis",
+            "word": 14
+        },
+        {
+            "charBegin": 1367,
+            "charEnd": 1369,
+            "id": 204,
+            "sentence": 8,
+            "text": "zu",
+            "word": 15
+        },
+        {
+            "charBegin": 1370,
+            "charEnd": 1373,
+            "id": 205,
+            "sentence": 8,
+            "text": "500",
+            "word": 16
+        },
+        {
+            "charBegin": 1374,
+            "charEnd": 1378,
+            "id": 206,
+            "sentence": 8,
+            "text": "Euro",
+            "word": 17
+        },
+        {
+            "charBegin": 1378,
+            "charEnd": 1379,
+            "id": 207,
+            "sentence": 8,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 1380,
+            "charEnd": 1384,
+            "id": 208,
+            "sentence": 9,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 1385,
+            "charEnd": 1388,
+            "id": 209,
+            "sentence": 9,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 1389,
+            "charEnd": 1396,
+            "id": 210,
+            "sentence": 9,
+            "text": "letzten",
+            "word": 3
+        },
+        {
+            "charBegin": 1397,
+            "charEnd": 1409,
+            "id": 211,
+            "sentence": 9,
+            "text": "Landtagswahl",
+            "word": 4
+        },
+        {
+            "charBegin": 1410,
+            "charEnd": 1412,
+            "id": 212,
+            "sentence": 9,
+            "text": "in",
+            "word": 5
+        },
+        {
+            "charBegin": 1413,
+            "charEnd": 1419,
+            "id": 213,
+            "sentence": 9,
+            "text": "Hessen",
+            "word": 6
+        },
+        {
+            "charBegin": 1420,
+            "charEnd": 1426,
+            "id": 214,
+            "sentence": 9,
+            "text": "wurden",
+            "word": 7
+        },
+        {
+            "charBegin": 1427,
+            "charEnd": 1430,
+            "id": 215,
+            "sentence": 9,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 1431,
+            "charEnd": 1446,
+            "id": 216,
+            "sentence": 9,
+            "text": "Studiengebühren",
+            "word": 9
+        },
+        {
+            "charBegin": 1447,
+            "charEnd": 1451,
+            "id": 217,
+            "sentence": 9,
+            "text": "dort",
+            "word": 10
+        },
+        {
+            "charBegin": 1452,
+            "charEnd": 1458,
+            "id": 218,
+            "sentence": 9,
+            "text": "wieder",
+            "word": 11
+        },
+        {
+            "charBegin": 1459,
+            "charEnd": 1470,
+            "id": 219,
+            "sentence": 9,
+            "text": "abgeschafft",
+            "word": 12
+        },
+        {
+            "charBegin": 1470,
+            "charEnd": 1471,
+            "id": 220,
+            "sentence": 9,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 1473,
+            "charEnd": 1479,
+            "id": 221,
+            "sentence": 10,
+            "text": "Ferner",
+            "word": 1
+        },
+        {
+            "charBegin": 1480,
+            "charEnd": 1484,
+            "id": 222,
+            "sentence": 10,
+            "text": "habe",
+            "word": 2
+        },
+        {
+            "charBegin": 1485,
+            "charEnd": 1488,
+            "id": 223,
+            "sentence": 10,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 1489,
+            "charEnd": 1495,
+            "id": 224,
+            "sentence": 10,
+            "text": "Studie",
+            "word": 4
+        },
+        {
+            "charBegin": 1496,
+            "charEnd": 1508,
+            "id": 225,
+            "sentence": 10,
+            "text": "festgestellt",
+            "word": 5
+        },
+        {
+            "charBegin": 1508,
+            "charEnd": 1509,
+            "id": 226,
+            "sentence": 10,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 1510,
+            "charEnd": 1514,
+            "id": 227,
+            "sentence": 10,
+            "text": "dass",
+            "word": 7
+        },
+        {
+            "charBegin": 1515,
+            "charEnd": 1519,
+            "id": 228,
+            "sentence": 10,
+            "text": "eine",
+            "word": 8
+        },
+        {
+            "charBegin": 1520,
+            "charEnd": 1531,
+            "id": 229,
+            "sentence": 10,
+            "text": "Abwanderung",
+            "word": 9
+        },
+        {
+            "charBegin": 1532,
+            "charEnd": 1535,
+            "id": 230,
+            "sentence": 10,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 1536,
+            "charEnd": 1551,
+            "id": 231,
+            "sentence": 10,
+            "text": "Studienanfänger",
+            "word": 11
+        },
+        {
+            "charBegin": 1552,
+            "charEnd": 1554,
+            "id": 232,
+            "sentence": 10,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 1555,
+            "charEnd": 1561,
+            "id": 233,
+            "sentence": 10,
+            "text": "Länder",
+            "word": 13
+        },
+        {
+            "charBegin": 1562,
+            "charEnd": 1566,
+            "id": 234,
+            "sentence": 10,
+            "text": "ohne",
+            "word": 14
+        },
+        {
+            "charBegin": 1567,
+            "charEnd": 1582,
+            "id": 235,
+            "sentence": 10,
+            "text": "Studiengebühren",
+            "word": 15
+        },
+        {
+            "charBegin": 1583,
+            "charEnd": 1585,
+            "id": 236,
+            "sentence": 10,
+            "text": "in",
+            "word": 16
+        },
+        {
+            "charBegin": 1586,
+            "charEnd": 1592,
+            "id": 237,
+            "sentence": 10,
+            "text": "großem",
+            "word": 17
+        },
+        {
+            "charBegin": 1593,
+            "charEnd": 1599,
+            "id": 238,
+            "sentence": 10,
+            "text": "Umfang",
+            "word": 18
+        },
+        {
+            "charBegin": 1600,
+            "charEnd": 1605,
+            "id": 239,
+            "sentence": 10,
+            "text": "nicht",
+            "word": 19
+        },
+        {
+            "charBegin": 1606,
+            "charEnd": 1616,
+            "id": 240,
+            "sentence": 10,
+            "text": "stattfinde",
+            "word": 20
+        },
+        {
+            "charBegin": 1616,
+            "charEnd": 1617,
+            "id": 241,
+            "sentence": 10,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 1618,
+            "charEnd": 1627,
+            "id": 242,
+            "sentence": 11,
+            "text": "Lediglich",
+            "word": 1
+        },
+        {
+            "charBegin": 1628,
+            "charEnd": 1637,
+            "id": 243,
+            "sentence": 11,
+            "text": "Studenten",
+            "word": 2
+        },
+        {
+            "charBegin": 1638,
+            "charEnd": 1641,
+            "id": 244,
+            "sentence": 11,
+            "text": "aus",
+            "word": 3
+        },
+        {
+            "charBegin": 1642,
+            "charEnd": 1645,
+            "id": 245,
+            "sentence": 11,
+            "text": "dem",
+            "word": 4
+        },
+        {
+            "charBegin": 1646,
+            "charEnd": 1651,
+            "id": 246,
+            "sentence": 11,
+            "text": "Osten",
+            "word": 5
+        },
+        {
+            "charBegin": 1652,
+            "charEnd": 1659,
+            "id": 247,
+            "sentence": 11,
+            "text": "wollten",
+            "word": 6
+        },
+        {
+            "charBegin": 1660,
+            "charEnd": 1665,
+            "id": 248,
+            "sentence": 11,
+            "text": "nicht",
+            "word": 7
+        },
+        {
+            "charBegin": 1666,
+            "charEnd": 1670,
+            "id": 249,
+            "sentence": 11,
+            "text": "mehr",
+            "word": 8
+        },
+        {
+            "charBegin": 1671,
+            "charEnd": 1673,
+            "id": 250,
+            "sentence": 11,
+            "text": "im",
+            "word": 9
+        },
+        {
+            "charBegin": 1674,
+            "charEnd": 1680,
+            "id": 251,
+            "sentence": 11,
+            "text": "Westen",
+            "word": 10
+        },
+        {
+            "charBegin": 1681,
+            "charEnd": 1690,
+            "id": 252,
+            "sentence": 11,
+            "text": "studieren",
+            "word": 11
+        },
+        {
+            "charBegin": 1690,
+            "charEnd": 1691,
+            "id": 253,
+            "sentence": 11,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 1692,
+            "charEnd": 1694,
+            "id": 254,
+            "sentence": 11,
+            "text": "da",
+            "word": 13
+        },
+        {
+            "charBegin": 1695,
+            "charEnd": 1699,
+            "id": 255,
+            "sentence": 11,
+            "text": "dort",
+            "word": 14
+        },
+        {
+            "charBegin": 1700,
+            "charEnd": 1702,
+            "id": 256,
+            "sentence": 11,
+            "text": "in",
+            "word": 15
+        },
+        {
+            "charBegin": 1703,
+            "charEnd": 1706,
+            "id": 257,
+            "sentence": 11,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 1707,
+            "charEnd": 1712,
+            "id": 258,
+            "sentence": 11,
+            "text": "Regel",
+            "word": 17
+        },
+        {
+            "charBegin": 1713,
+            "charEnd": 1728,
+            "id": 259,
+            "sentence": 11,
+            "text": "Studiengebühren",
+            "word": 18
+        },
+        {
+            "charBegin": 1729,
+            "charEnd": 1736,
+            "id": 260,
+            "sentence": 11,
+            "text": "erhoben",
+            "word": 19
+        },
+        {
+            "charBegin": 1737,
+            "charEnd": 1743,
+            "id": 261,
+            "sentence": 11,
+            "text": "werden",
+            "word": 20
+        },
+        {
+            "charBegin": 1743,
+            "charEnd": 1744,
+            "id": 262,
+            "sentence": 11,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 1746,
+            "charEnd": 1749,
+            "id": 263,
+            "sentence": 12,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1750,
+            "charEnd": 1753,
+            "id": 264,
+            "sentence": 12,
+            "text": "als",
+            "word": 2
+        },
+        {
+            "charBegin": 1754,
+            "charEnd": 1767,
+            "id": 265,
+            "sentence": 12,
+            "text": "repräsentativ",
+            "word": 3
+        },
+        {
+            "charBegin": 1768,
+            "charEnd": 1776,
+            "id": 266,
+            "sentence": 12,
+            "text": "geltende",
+            "word": 4
+        },
+        {
+            "charBegin": 1777,
+            "charEnd": 1783,
+            "id": 267,
+            "sentence": 12,
+            "text": "Studie",
+            "word": 5
+        },
+        {
+            "charBegin": 1784,
+            "charEnd": 1791,
+            "id": 268,
+            "sentence": 12,
+            "text": "stützte",
+            "word": 6
+        },
+        {
+            "charBegin": 1792,
+            "charEnd": 1796,
+            "id": 269,
+            "sentence": 12,
+            "text": "sich",
+            "word": 7
+        },
+        {
+            "charBegin": 1797,
+            "charEnd": 1800,
+            "id": 270,
+            "sentence": 12,
+            "text": "auf",
+            "word": 8
+        },
+        {
+            "charBegin": 1801,
+            "charEnd": 1805,
+            "id": 271,
+            "sentence": 12,
+            "text": "eine",
+            "word": 9
+        },
+        {
+            "charBegin": 1806,
+            "charEnd": 1815,
+            "id": 272,
+            "sentence": 12,
+            "text": "Befragung",
+            "word": 10
+        },
+        {
+            "charBegin": 1816,
+            "charEnd": 1819,
+            "id": 273,
+            "sentence": 12,
+            "text": "von",
+            "word": 11
+        },
+        {
+            "charBegin": 1820,
+            "charEnd": 1825,
+            "id": 274,
+            "sentence": 12,
+            "text": "5.240",
+            "word": 12
+        },
+        {
+            "charBegin": 1826,
+            "charEnd": 1838,
+            "id": 275,
+            "sentence": 12,
+            "text": "Abiturienten",
+            "word": 13
+        },
+        {
+            "charBegin": 1839,
+            "charEnd": 1842,
+            "id": 276,
+            "sentence": 12,
+            "text": "des",
+            "word": 14
+        },
+        {
+            "charBegin": 1843,
+            "charEnd": 1852,
+            "id": 277,
+            "sentence": 12,
+            "text": "Jahrgangs",
+            "word": 15
+        },
+        {
+            "charBegin": 1853,
+            "charEnd": 1857,
+            "id": 278,
+            "sentence": 12,
+            "text": "2006",
+            "word": 16
+        },
+        {
+            "charBegin": 1858,
+            "charEnd": 1861,
+            "id": 279,
+            "sentence": 12,
+            "text": "und",
+            "word": 17
+        },
+        {
+            "charBegin": 1862,
+            "charEnd": 1865,
+            "id": 280,
+            "sentence": 12,
+            "text": "auf",
+            "word": 18
+        },
+        {
+            "charBegin": 1866,
+            "charEnd": 1877,
+            "id": 281,
+            "sentence": 12,
+            "text": "regelmäßige",
+            "word": 19
+        },
+        {
+            "charBegin": 1878,
+            "charEnd": 1904,
+            "id": 282,
+            "sentence": 12,
+            "text": "Abiturientenuntersuchungen",
+            "word": 20
+        },
+        {
+            "charBegin": 1905,
+            "charEnd": 1908,
+            "id": 283,
+            "sentence": 12,
+            "text": "der",
+            "word": 21
+        },
+        {
+            "charBegin": 1909,
+            "charEnd": 1938,
+            "id": 284,
+            "sentence": 12,
+            "text": "Hochschul-Informations-System",
+            "word": 22
+        },
+        {
+            "charBegin": 1939,
+            "charEnd": 1943,
+            "id": 285,
+            "sentence": 12,
+            "text": "GmbH",
+            "word": 23
+        },
+        {
+            "charBegin": 1944,
+            "charEnd": 1945,
+            "id": 286,
+            "sentence": 12,
+            "text": "(",
+            "word": 24
+        },
+        {
+            "charBegin": 1945,
+            "charEnd": 1948,
+            "id": 287,
+            "sentence": 12,
+            "text": "HIS",
+            "word": 25
+        },
+        {
+            "charBegin": 1948,
+            "charEnd": 1949,
+            "id": 288,
+            "sentence": 12,
+            "text": ")",
+            "word": 26
+        },
+        {
+            "charBegin": 1950,
+            "charEnd": 1953,
+            "id": 289,
+            "sentence": 12,
+            "text": "mit",
+            "word": 27
+        },
+        {
+            "charBegin": 1954,
+            "charEnd": 1958,
+            "id": 290,
+            "sentence": 12,
+            "text": "Sitz",
+            "word": 28
+        },
+        {
+            "charBegin": 1959,
+            "charEnd": 1961,
+            "id": 291,
+            "sentence": 12,
+            "text": "in",
+            "word": 29
+        },
+        {
+            "charBegin": 1962,
+            "charEnd": 1970,
+            "id": 292,
+            "sentence": 12,
+            "text": "Hannover",
+            "word": 30
+        },
+        {
+            "charBegin": 1970,
+            "charEnd": 1971,
+            "id": 293,
+            "sentence": 12,
+            "text": ".",
+            "word": 31
+        },
+        {
+            "charBegin": 1972,
+            "charEnd": 1975,
+            "id": 294,
+            "sentence": 13,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1976,
+            "charEnd": 1979,
+            "id": 295,
+            "sentence": 13,
+            "text": "HIS",
+            "word": 2
+        },
+        {
+            "charBegin": 1980,
+            "charEnd": 1988,
+            "id": 296,
+            "sentence": 13,
+            "text": "arbeitet",
+            "word": 3
+        },
+        {
+            "charBegin": 1989,
+            "charEnd": 1991,
+            "id": 297,
+            "sentence": 13,
+            "text": "im",
+            "word": 4
+        },
+        {
+            "charBegin": 1992,
+            "charEnd": 1999,
+            "id": 298,
+            "sentence": 13,
+            "text": "Auftrag",
+            "word": 5
+        },
+        {
+            "charBegin": 2000,
+            "charEnd": 2003,
+            "id": 299,
+            "sentence": 13,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 2004,
+            "charEnd": 2008,
+            "id": 300,
+            "sentence": 13,
+            "text": "Bund",
+            "word": 7
+        },
+        {
+            "charBegin": 2009,
+            "charEnd": 2012,
+            "id": 301,
+            "sentence": 13,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 2013,
+            "charEnd": 2020,
+            "id": 302,
+            "sentence": 13,
+            "text": "Ländern",
+            "word": 9
+        },
+        {
+            "charBegin": 2021,
+            "charEnd": 2026,
+            "id": 303,
+            "sentence": 13,
+            "text": "sowie",
+            "word": 10
+        },
+        {
+            "charBegin": 2027,
+            "charEnd": 2030,
+            "id": 304,
+            "sentence": 13,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 2031,
+            "charEnd": 2057,
+            "id": 305,
+            "sentence": 13,
+            "text": "Hochschulrektorenkonferenz",
+            "word": 12
+        },
+        {
+            "charBegin": 2057,
+            "charEnd": 2058,
+            "id": 306,
+            "sentence": 13,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 2060,
+            "charEnd": 2070,
+            "id": 307,
+            "sentence": 14,
+            "text": "Inzwischen",
+            "word": 1
+        },
+        {
+            "charBegin": 2071,
+            "charEnd": 2074,
+            "id": 308,
+            "sentence": 14,
+            "text": "hat",
+            "word": 2
+        },
+        {
+            "charBegin": 2075,
+            "charEnd": 2078,
+            "id": 309,
+            "sentence": 14,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 2079,
+            "charEnd": 2088,
+            "id": 310,
+            "sentence": 14,
+            "text": "hessische",
+            "word": 4
+        },
+        {
+            "charBegin": 2089,
+            "charEnd": 2099,
+            "id": 311,
+            "sentence": 14,
+            "text": "SPD-Chefin",
+            "word": 5
+        },
+        {
+            "charBegin": 2100,
+            "charEnd": 2106,
+            "id": 312,
+            "sentence": 14,
+            "text": "Andrea",
+            "word": 6
+        },
+        {
+            "charBegin": 2107,
+            "charEnd": 2116,
+            "id": 313,
+            "sentence": 14,
+            "text": "Ypsilanti",
+            "word": 7
+        },
+        {
+            "charBegin": 2117,
+            "charEnd": 2120,
+            "id": 314,
+            "sentence": 14,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 2121,
+            "charEnd": 2127,
+            "id": 315,
+            "sentence": 14,
+            "text": "Länder",
+            "word": 9
+        },
+        {
+            "charBegin": 2128,
+            "charEnd": 2131,
+            "id": 316,
+            "sentence": 14,
+            "text": "zur",
+            "word": 10
+        },
+        {
+            "charBegin": 2132,
+            "charEnd": 2143,
+            "id": 317,
+            "sentence": 14,
+            "text": "Abschaffung",
+            "word": 11
+        },
+        {
+            "charBegin": 2144,
+            "charEnd": 2147,
+            "id": 318,
+            "sentence": 14,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 2148,
+            "charEnd": 2156,
+            "id": 319,
+            "sentence": 14,
+            "text": "Gebühren",
+            "word": 13
+        },
+        {
+            "charBegin": 2157,
+            "charEnd": 2169,
+            "id": 320,
+            "sentence": 14,
+            "text": "aufgefordert",
+            "word": 14
+        },
+        {
+            "charBegin": 2169,
+            "charEnd": 2170,
+            "id": 321,
+            "sentence": 14,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 2171,
+            "charEnd": 2195,
+            "id": 322,
+            "sentence": 15,
+            "text": "Bundesbildungsministerin",
+            "word": 1
+        },
+        {
+            "charBegin": 2196,
+            "charEnd": 2203,
+            "id": 323,
+            "sentence": 15,
+            "text": "Annette",
+            "word": 2
+        },
+        {
+            "charBegin": 2204,
+            "charEnd": 2211,
+            "id": 324,
+            "sentence": 15,
+            "text": "Schavan",
+            "word": 3
+        },
+        {
+            "charBegin": 2212,
+            "charEnd": 2213,
+            "id": 325,
+            "sentence": 15,
+            "text": "(",
+            "word": 4
+        },
+        {
+            "charBegin": 2213,
+            "charEnd": 2216,
+            "id": 326,
+            "sentence": 15,
+            "text": "CDU",
+            "word": 5
+        },
+        {
+            "charBegin": 2216,
+            "charEnd": 2217,
+            "id": 327,
+            "sentence": 15,
+            "text": ")",
+            "word": 6
+        },
+        {
+            "charBegin": 2218,
+            "charEnd": 2221,
+            "id": 328,
+            "sentence": 15,
+            "text": "hat",
+            "word": 7
+        },
+        {
+            "charBegin": 2222,
+            "charEnd": 2229,
+            "id": 329,
+            "sentence": 15,
+            "text": "dagegen",
+            "word": 8
+        },
+        {
+            "charBegin": 2230,
+            "charEnd": 2245,
+            "id": 330,
+            "sentence": 15,
+            "text": "Studiengebühren",
+            "word": 9
+        },
+        {
+            "charBegin": 2246,
+            "charEnd": 2251,
+            "id": 331,
+            "sentence": 15,
+            "text": "gegen",
+            "word": 10
+        },
+        {
+            "charBegin": 2252,
+            "charEnd": 2255,
+            "id": 332,
+            "sentence": 15,
+            "text": "neu",
+            "word": 11
+        },
+        {
+            "charBegin": 2256,
+            "charEnd": 2267,
+            "id": 333,
+            "sentence": 15,
+            "text": "aufkommende",
+            "word": 12
+        },
+        {
+            "charBegin": 2268,
+            "charEnd": 2274,
+            "id": 334,
+            "sentence": 15,
+            "text": "Kritik",
+            "word": 13
+        },
+        {
+            "charBegin": 2275,
+            "charEnd": 2285,
+            "id": 335,
+            "sentence": 15,
+            "text": "verteidigt",
+            "word": 14
+        },
+        {
+            "charBegin": 2285,
+            "charEnd": 2286,
+            "id": 336,
+            "sentence": 15,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 2287,
+            "charEnd": 2288,
+            "id": 337,
+            "sentence": 16,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 2288,
+            "charEnd": 2291,
+            "id": 338,
+            "sentence": 16,
+            "text": "Ich",
+            "word": 2
+        },
+        {
+            "charBegin": 2292,
+            "charEnd": 2297,
+            "id": 339,
+            "sentence": 16,
+            "text": "halte",
+            "word": 3
+        },
+        {
+            "charBegin": 2298,
+            "charEnd": 2313,
+            "id": 340,
+            "sentence": 16,
+            "text": "Studiengebühren",
+            "word": 4
+        },
+        {
+            "charBegin": 2314,
+            "charEnd": 2317,
+            "id": 341,
+            "sentence": 16,
+            "text": "für",
+            "word": 5
+        },
+        {
+            "charBegin": 2318,
+            "charEnd": 2325,
+            "id": 342,
+            "sentence": 16,
+            "text": "richtig",
+            "word": 6
+        },
+        {
+            "charBegin": 2325,
+            "charEnd": 2326,
+            "id": 343,
+            "sentence": 16,
+            "text": "“",
+            "word": 7
+        },
+        {
+            "charBegin": 2326,
+            "charEnd": 2327,
+            "id": 344,
+            "sentence": 16,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 2328,
+            "charEnd": 2335,
+            "id": 345,
+            "sentence": 16,
+            "text": "äußerte",
+            "word": 9
+        },
+        {
+            "charBegin": 2336,
+            "charEnd": 2340,
+            "id": 346,
+            "sentence": 16,
+            "text": "sich",
+            "word": 10
+        },
+        {
+            "charBegin": 2341,
+            "charEnd": 2348,
+            "id": 347,
+            "sentence": 16,
+            "text": "Schavan",
+            "word": 11
+        },
+        {
+            "charBegin": 2349,
+            "charEnd": 2358,
+            "id": 348,
+            "sentence": 16,
+            "text": "gegenüber",
+            "word": 12
+        },
+        {
+            "charBegin": 2359,
+            "charEnd": 2362,
+            "id": 349,
+            "sentence": 16,
+            "text": "dem",
+            "word": 13
+        },
+        {
+            "charBegin": 2363,
+            "charEnd": 2364,
+            "id": 350,
+            "sentence": 16,
+            "text": "„",
+            "word": 14
+        },
+        {
+            "charBegin": 2364,
+            "charEnd": 2373,
+            "id": 351,
+            "sentence": 16,
+            "text": "Hamburger",
+            "word": 15
+        },
+        {
+            "charBegin": 2374,
+            "charEnd": 2384,
+            "id": 352,
+            "sentence": 16,
+            "text": "Abendblatt",
+            "word": 16
+        },
+        {
+            "charBegin": 2384,
+            "charEnd": 2385,
+            "id": 353,
+            "sentence": 16,
+            "text": "“",
+            "word": 17
+        },
+        {
+            "charBegin": 2385,
+            "charEnd": 2386,
+            "id": 354,
+            "sentence": 16,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 2387,
+            "charEnd": 2390,
+            "id": 355,
+            "sentence": 17,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 2391,
+            "charEnd": 2399,
+            "id": 356,
+            "sentence": 17,
+            "text": "Beiträge",
+            "word": 2
+        },
+        {
+            "charBegin": 2400,
+            "charEnd": 2403,
+            "id": 357,
+            "sentence": 17,
+            "text": "zum",
+            "word": 3
+        },
+        {
+            "charBegin": 2404,
+            "charEnd": 2411,
+            "id": 358,
+            "sentence": 17,
+            "text": "Studium",
+            "word": 4
+        },
+        {
+            "charBegin": 2412,
+            "charEnd": 2420,
+            "id": 359,
+            "sentence": 17,
+            "text": "stärkten",
+            "word": 5
+        },
+        {
+            "charBegin": 2421,
+            "charEnd": 2424,
+            "id": 360,
+            "sentence": 17,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 2425,
+            "charEnd": 2442,
+            "id": 361,
+            "sentence": 17,
+            "text": "Weiterentwicklung",
+            "word": 7
+        },
+        {
+            "charBegin": 2443,
+            "charEnd": 2446,
+            "id": 362,
+            "sentence": 17,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 2447,
+            "charEnd": 2458,
+            "id": 363,
+            "sentence": 17,
+            "text": "Hochschulen",
+            "word": 9
+        },
+        {
+            "charBegin": 2458,
+            "charEnd": 2459,
+            "id": 364,
+            "sentence": 17,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 2460,
+            "charEnd": 2463,
+            "id": 365,
+            "sentence": 17,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 2464,
+            "charEnd": 2466,
+            "id": 366,
+            "sentence": 17,
+            "text": "so",
+            "word": 12
+        },
+        {
+            "charBegin": 2467,
+            "charEnd": 2473,
+            "id": 367,
+            "sentence": 17,
+            "text": "würden",
+            "word": 13
+        },
+        {
+            "charBegin": 2474,
+            "charEnd": 2477,
+            "id": 368,
+            "sentence": 17,
+            "text": "sie",
+            "word": 14
+        },
+        {
+            "charBegin": 2478,
+            "charEnd": 2482,
+            "id": 369,
+            "sentence": 17,
+            "text": "auch",
+            "word": 15
+        },
+        {
+            "charBegin": 2483,
+            "charEnd": 2486,
+            "id": 370,
+            "sentence": 17,
+            "text": "von",
+            "word": 16
+        },
+        {
+            "charBegin": 2487,
+            "charEnd": 2490,
+            "id": 371,
+            "sentence": 17,
+            "text": "den",
+            "word": 17
+        },
+        {
+            "charBegin": 2491,
+            "charEnd": 2498,
+            "id": 372,
+            "sentence": 17,
+            "text": "meisten",
+            "word": 18
+        },
+        {
+            "charBegin": 2499,
+            "charEnd": 2511,
+            "id": 373,
+            "sentence": 17,
+            "text": "Studierenden",
+            "word": 19
+        },
+        {
+            "charBegin": 2512,
+            "charEnd": 2524,
+            "id": 374,
+            "sentence": 17,
+            "text": "wahrgenommen",
+            "word": 20
+        },
+        {
+            "charBegin": 2524,
+            "charEnd": 2525,
+            "id": 375,
+            "sentence": 17,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 2526,
+            "charEnd": 2529,
+            "id": 376,
+            "sentence": 18,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 2530,
+            "charEnd": 2536,
+            "id": 377,
+            "sentence": 18,
+            "text": "Studie",
+            "word": 2
+        },
+        {
+            "charBegin": 2537,
+            "charEnd": 2542,
+            "id": 378,
+            "sentence": 18,
+            "text": "zeige",
+            "word": 3
+        },
+        {
+            "charBegin": 2543,
+            "charEnd": 2545,
+            "id": 379,
+            "sentence": 18,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 2546,
+            "charEnd": 2554,
+            "id": 380,
+            "sentence": 18,
+            "text": "Wahrheit",
+            "word": 5
+        },
+        {
+            "charBegin": 2554,
+            "charEnd": 2555,
+            "id": 381,
+            "sentence": 18,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 2556,
+            "charEnd": 2557,
+            "id": 382,
+            "sentence": 18,
+            "text": "„",
+            "word": 7
+        },
+        {
+            "charBegin": 2557,
+            "charEnd": 2561,
+            "id": 383,
+            "sentence": 18,
+            "text": "dass",
+            "word": 8
+        },
+        {
+            "charBegin": 2562,
+            "charEnd": 2565,
+            "id": 384,
+            "sentence": 18,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 2566,
+            "charEnd": 2574,
+            "id": 385,
+            "sentence": 18,
+            "text": "Gebühren",
+            "word": 10
+        },
+        {
+            "charBegin": 2575,
+            "charEnd": 2579,
+            "id": 386,
+            "sentence": 18,
+            "text": "kaum",
+            "word": 11
+        },
+        {
+            "charBegin": 2580,
+            "charEnd": 2583,
+            "id": 387,
+            "sentence": 18,
+            "text": "vom",
+            "word": 12
+        },
+        {
+            "charBegin": 2584,
+            "charEnd": 2591,
+            "id": 388,
+            "sentence": 18,
+            "text": "Studium",
+            "word": 13
+        },
+        {
+            "charBegin": 2592,
+            "charEnd": 2603,
+            "id": 389,
+            "sentence": 18,
+            "text": "abschrecken",
+            "word": 14
+        },
+        {
+            "charBegin": 2603,
+            "charEnd": 2604,
+            "id": 390,
+            "sentence": 18,
+            "text": "“",
+            "word": 15
+        },
+        {
+            "charBegin": 2604,
+            "charEnd": 2605,
+            "id": 391,
+            "sentence": 18,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 2606,
+            "charEnd": 2609,
+            "id": 392,
+            "sentence": 19,
+            "text": "Wie",
+            "word": 1
+        },
+        {
+            "charBegin": 2610,
+            "charEnd": 2613,
+            "id": 393,
+            "sentence": 19,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 2614,
+            "charEnd": 2625,
+            "id": 394,
+            "sentence": 19,
+            "text": "Süddeutsche",
+            "word": 3
+        },
+        {
+            "charBegin": 2626,
+            "charEnd": 2633,
+            "id": 395,
+            "sentence": 19,
+            "text": "Zeitung",
+            "word": 4
+        },
+        {
+            "charBegin": 2634,
+            "charEnd": 2644,
+            "id": 396,
+            "sentence": 19,
+            "text": "berichtete",
+            "word": 5
+        },
+        {
+            "charBegin": 2644,
+            "charEnd": 2645,
+            "id": 397,
+            "sentence": 19,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 2646,
+            "charEnd": 2650,
+            "id": 398,
+            "sentence": 19,
+            "text": "soll",
+            "word": 7
+        },
+        {
+            "charBegin": 2651,
+            "charEnd": 2655,
+            "id": 399,
+            "sentence": 19,
+            "text": "sich",
+            "word": 8
+        },
+        {
+            "charBegin": 2656,
+            "charEnd": 2664,
+            "id": 400,
+            "sentence": 19,
+            "text": "entgegen",
+            "word": 9
+        },
+        {
+            "charBegin": 2665,
+            "charEnd": 2668,
+            "id": 401,
+            "sentence": 19,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 2669,
+            "charEnd": 2681,
+            "id": 402,
+            "sentence": 19,
+            "text": "Behauptungen",
+            "word": 11
+        },
+        {
+            "charBegin": 2682,
+            "charEnd": 2685,
+            "id": 403,
+            "sentence": 19,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 2686,
+            "charEnd": 2705,
+            "id": 404,
+            "sentence": 19,
+            "text": "Gebührenbefürworter",
+            "word": 13
+        },
+        {
+            "charBegin": 2706,
+            "charEnd": 2710,
+            "id": 405,
+            "sentence": 19,
+            "text": "laut",
+            "word": 14
+        },
+        {
+            "charBegin": 2711,
+            "charEnd": 2714,
+            "id": 406,
+            "sentence": 19,
+            "text": "der",
+            "word": 15
+        },
+        {
+            "charBegin": 2715,
+            "charEnd": 2725,
+            "id": 407,
+            "sentence": 19,
+            "text": "HIS-Studie",
+            "word": 16
+        },
+        {
+            "charBegin": 2726,
+            "charEnd": 2729,
+            "id": 408,
+            "sentence": 19,
+            "text": "nur",
+            "word": 17
+        },
+        {
+            "charBegin": 2730,
+            "charEnd": 2735,
+            "id": 409,
+            "sentence": 19,
+            "text": "jeder",
+            "word": 18
+        },
+        {
+            "charBegin": 2736,
+            "charEnd": 2742,
+            "id": 410,
+            "sentence": 19,
+            "text": "zweite",
+            "word": 19
+        },
+        {
+            "charBegin": 2743,
+            "charEnd": 2757,
+            "id": 411,
+            "sentence": 19,
+            "text": "Gebührenzahler",
+            "word": 20
+        },
+        {
+            "charBegin": 2758,
+            "charEnd": 2761,
+            "id": 412,
+            "sentence": 19,
+            "text": "von",
+            "word": 21
+        },
+        {
+            "charBegin": 2762,
+            "charEnd": 2768,
+            "id": 413,
+            "sentence": 19,
+            "text": "seinem",
+            "word": 22
+        },
+        {
+            "charBegin": 2769,
+            "charEnd": 2776,
+            "id": 414,
+            "sentence": 19,
+            "text": "Beitrag",
+            "word": 23
+        },
+        {
+            "charBegin": 2777,
+            "charEnd": 2778,
+            "id": 415,
+            "sentence": 19,
+            "text": "„",
+            "word": 24
+        },
+        {
+            "charBegin": 2778,
+            "charEnd": 2789,
+            "id": 416,
+            "sentence": 19,
+            "text": "verbesserte",
+            "word": 25
+        },
+        {
+            "charBegin": 2790,
+            "charEnd": 2808,
+            "id": 417,
+            "sentence": 19,
+            "text": "Studienbedingungen",
+            "word": 26
+        },
+        {
+            "charBegin": 2808,
+            "charEnd": 2809,
+            "id": 418,
+            "sentence": 19,
+            "text": "“",
+            "word": 27
+        },
+        {
+            "charBegin": 2810,
+            "charEnd": 2818,
+            "id": 419,
+            "sentence": 19,
+            "text": "erhoffen",
+            "word": 28
+        },
+        {
+            "charBegin": 2818,
+            "charEnd": 2819,
+            "id": 420,
+            "sentence": 19,
+            "text": ".",
+            "word": 29
+        },
+        {
+            "charBegin": 2820,
+            "charEnd": 2829,
+            "id": 421,
+            "sentence": 20,
+            "text": "Weiterhin",
+            "word": 1
+        },
+        {
+            "charBegin": 2830,
+            "charEnd": 2838,
+            "id": 422,
+            "sentence": 20,
+            "text": "erklärte",
+            "word": 2
+        },
+        {
+            "charBegin": 2839,
+            "charEnd": 2842,
+            "id": 423,
+            "sentence": 20,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 2843,
+            "charEnd": 2853,
+            "id": 424,
+            "sentence": 20,
+            "text": "Ministerin",
+            "word": 4
+        },
+        {
+            "charBegin": 2853,
+            "charEnd": 2854,
+            "id": 425,
+            "sentence": 20,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 2855,
+            "charEnd": 2857,
+            "id": 426,
+            "sentence": 20,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 2858,
+            "charEnd": 2861,
+            "id": 427,
+            "sentence": 20,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 2862,
+            "charEnd": 2875,
+            "id": 428,
+            "sentence": 20,
+            "text": "Bundesländern",
+            "word": 8
+        },
+        {
+            "charBegin": 2875,
+            "charEnd": 2876,
+            "id": 429,
+            "sentence": 20,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 2877,
+            "charEnd": 2879,
+            "id": 430,
+            "sentence": 20,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 2880,
+            "charEnd": 2885,
+            "id": 431,
+            "sentence": 20,
+            "text": "denen",
+            "word": 11
+        },
+        {
+            "charBegin": 2886,
+            "charEnd": 2901,
+            "id": 432,
+            "sentence": 20,
+            "text": "Studiengebühren",
+            "word": 12
+        },
+        {
+            "charBegin": 2902,
+            "charEnd": 2909,
+            "id": 433,
+            "sentence": 20,
+            "text": "erhoben",
+            "word": 13
+        },
+        {
+            "charBegin": 2910,
+            "charEnd": 2916,
+            "id": 434,
+            "sentence": 20,
+            "text": "würden",
+            "word": 14
+        },
+        {
+            "charBegin": 2916,
+            "charEnd": 2917,
+            "id": 435,
+            "sentence": 20,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 2918,
+            "charEnd": 2921,
+            "id": 436,
+            "sentence": 20,
+            "text": "sei",
+            "word": 16
+        },
+        {
+            "charBegin": 2922,
+            "charEnd": 2925,
+            "id": 437,
+            "sentence": 20,
+            "text": "die",
+            "word": 17
+        },
+        {
+            "charBegin": 2926,
+            "charEnd": 2930,
+            "id": 438,
+            "sentence": 20,
+            "text": "Zahl",
+            "word": 18
+        },
+        {
+            "charBegin": 2931,
+            "charEnd": 2934,
+            "id": 439,
+            "sentence": 20,
+            "text": "der",
+            "word": 19
+        },
+        {
+            "charBegin": 2935,
+            "charEnd": 2950,
+            "id": 440,
+            "sentence": 20,
+            "text": "Studienanfänger",
+            "word": 20
+        },
+        {
+            "charBegin": 2951,
+            "charEnd": 2956,
+            "id": 441,
+            "sentence": 20,
+            "text": "sogar",
+            "word": 21
+        },
+        {
+            "charBegin": 2957,
+            "charEnd": 2966,
+            "id": 442,
+            "sentence": 20,
+            "text": "gestiegen",
+            "word": 22
+        },
+        {
+            "charBegin": 2966,
+            "charEnd": 2967,
+            "id": 443,
+            "sentence": 20,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 2968,
+            "charEnd": 2973,
+            "id": 444,
+            "sentence": 21,
+            "text": "Nicht",
+            "word": 1
+        },
+        {
+            "charBegin": 2974,
+            "charEnd": 2977,
+            "id": 445,
+            "sentence": 21,
+            "text": "mit",
+            "word": 2
+        },
+        {
+            "charBegin": 2978,
+            "charEnd": 2990,
+            "id": 446,
+            "sentence": 21,
+            "text": "eingerechnet",
+            "word": 3
+        },
+        {
+            "charBegin": 2991,
+            "charEnd": 2996,
+            "id": 447,
+            "sentence": 21,
+            "text": "wurde",
+            "word": 4
+        },
+        {
+            "charBegin": 2997,
+            "charEnd": 3004,
+            "id": 448,
+            "sentence": 21,
+            "text": "hierbei",
+            "word": 5
+        },
+        {
+            "charBegin": 3005,
+            "charEnd": 3011,
+            "id": 449,
+            "sentence": 21,
+            "text": "jedoch",
+            "word": 6
+        },
+        {
+            "charBegin": 3012,
+            "charEnd": 3015,
+            "id": 450,
+            "sentence": 21,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 3016,
+            "charEnd": 3023,
+            "id": 451,
+            "sentence": 21,
+            "text": "Anstieg",
+            "word": 8
+        },
+        {
+            "charBegin": 3024,
+            "charEnd": 3027,
+            "id": 452,
+            "sentence": 21,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 3028,
+            "charEnd": 3046,
+            "id": 453,
+            "sentence": 21,
+            "text": "Abiturientenzahlen",
+            "word": 10
+        },
+        {
+            "charBegin": 3047,
+            "charEnd": 3049,
+            "id": 454,
+            "sentence": 21,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 3050,
+            "charEnd": 3053,
+            "id": 455,
+            "sentence": 21,
+            "text": "den",
+            "word": 12
+        },
+        {
+            "charBegin": 3054,
+            "charEnd": 3061,
+            "id": 456,
+            "sentence": 21,
+            "text": "letzten",
+            "word": 13
+        },
+        {
+            "charBegin": 3062,
+            "charEnd": 3068,
+            "id": 457,
+            "sentence": 21,
+            "text": "Jahren",
+            "word": 14
+        },
+        {
+            "charBegin": 3068,
+            "charEnd": 3069,
+            "id": 458,
+            "sentence": 21,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 3072,
+            "charEnd": 3081,
+            "id": 459,
+            "sentence": 22,
+            "text": "Politiker",
+            "word": 1
+        },
+        {
+            "charBegin": 3082,
+            "charEnd": 3085,
+            "id": 460,
+            "sentence": 22,
+            "text": "aus",
+            "word": 2
+        },
+        {
+            "charBegin": 3086,
+            "charEnd": 3093,
+            "id": 461,
+            "sentence": 22,
+            "text": "anderen",
+            "word": 3
+        },
+        {
+            "charBegin": 3094,
+            "charEnd": 3102,
+            "id": 462,
+            "sentence": 22,
+            "text": "Parteien",
+            "word": 4
+        },
+        {
+            "charBegin": 3103,
+            "charEnd": 3108,
+            "id": 463,
+            "sentence": 22,
+            "text": "haben",
+            "word": 5
+        },
+        {
+            "charBegin": 3109,
+            "charEnd": 3112,
+            "id": 464,
+            "sentence": 22,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 3113,
+            "charEnd": 3131,
+            "id": 465,
+            "sentence": 22,
+            "text": "Bildungsministerin",
+            "word": 7
+        },
+        {
+            "charBegin": 3132,
+            "charEnd": 3143,
+            "id": 466,
+            "sentence": 22,
+            "text": "vorgeworfen",
+            "word": 8
+        },
+        {
+            "charBegin": 3143,
+            "charEnd": 3144,
+            "id": 467,
+            "sentence": 22,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 3145,
+            "charEnd": 3162,
+            "id": 468,
+            "sentence": 22,
+            "text": "Umfrageergebnisse",
+            "word": 10
+        },
+        {
+            "charBegin": 3163,
+            "charEnd": 3165,
+            "id": 469,
+            "sentence": 22,
+            "text": "zu",
+            "word": 11
+        },
+        {
+            "charBegin": 3166,
+            "charEnd": 3181,
+            "id": 470,
+            "sentence": 22,
+            "text": "Studiengebühren",
+            "word": 12
+        },
+        {
+            "charBegin": 3182,
+            "charEnd": 3185,
+            "id": 471,
+            "sentence": 22,
+            "text": "aus",
+            "word": 13
+        },
+        {
+            "charBegin": 3186,
+            "charEnd": 3202,
+            "id": 472,
+            "sentence": 22,
+            "text": "parteitaktischen",
+            "word": 14
+        },
+        {
+            "charBegin": 3203,
+            "charEnd": 3210,
+            "id": 473,
+            "sentence": 22,
+            "text": "Gründen",
+            "word": 15
+        },
+        {
+            "charBegin": 3211,
+            "charEnd": 3223,
+            "id": 474,
+            "sentence": 22,
+            "text": "verheimlicht",
+            "word": 16
+        },
+        {
+            "charBegin": 3224,
+            "charEnd": 3226,
+            "id": 475,
+            "sentence": 22,
+            "text": "zu",
+            "word": 17
+        },
+        {
+            "charBegin": 3227,
+            "charEnd": 3232,
+            "id": 476,
+            "sentence": 22,
+            "text": "haben",
+            "word": 18
+        },
+        {
+            "charBegin": 3232,
+            "charEnd": 3233,
+            "id": 477,
+            "sentence": 22,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 3234,
+            "charEnd": 3238,
+            "id": 478,
+            "sentence": 23,
+            "text": "Dazu",
+            "word": 1
+        },
+        {
+            "charBegin": 3239,
+            "charEnd": 3247,
+            "id": 479,
+            "sentence": 23,
+            "text": "erklärte",
+            "word": 2
+        },
+        {
+            "charBegin": 3248,
+            "charEnd": 3251,
+            "id": 480,
+            "sentence": 23,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 3252,
+            "charEnd": 3276,
+            "id": 481,
+            "sentence": 23,
+            "text": "Bundesbildungsministerin",
+            "word": 4
+        },
+        {
+            "charBegin": 3276,
+            "charEnd": 3277,
+            "id": 482,
+            "sentence": 23,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 3278,
+            "charEnd": 3282,
+            "id": 483,
+            "sentence": 23,
+            "text": "dass",
+            "word": 6
+        },
+        {
+            "charBegin": 3283,
+            "charEnd": 3285,
+            "id": 484,
+            "sentence": 23,
+            "text": "es",
+            "word": 7
+        },
+        {
+            "charBegin": 3286,
+            "charEnd": 3290,
+            "id": 485,
+            "sentence": 23,
+            "text": "zwei",
+            "word": 8
+        },
+        {
+            "charBegin": 3291,
+            "charEnd": 3298,
+            "id": 486,
+            "sentence": 23,
+            "text": "Studien",
+            "word": 9
+        },
+        {
+            "charBegin": 3299,
+            "charEnd": 3303,
+            "id": 487,
+            "sentence": 23,
+            "text": "gebe",
+            "word": 10
+        },
+        {
+            "charBegin": 3303,
+            "charEnd": 3304,
+            "id": 488,
+            "sentence": 23,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 3305,
+            "charEnd": 3308,
+            "id": 489,
+            "sentence": 23,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 3309,
+            "charEnd": 3318,
+            "id": 490,
+            "sentence": 23,
+            "text": "gemeinsam",
+            "word": 13
+        },
+        {
+            "charBegin": 3319,
+            "charEnd": 3330,
+            "id": 491,
+            "sentence": 23,
+            "text": "präsentiert",
+            "word": 14
+        },
+        {
+            "charBegin": 3331,
+            "charEnd": 3337,
+            "id": 492,
+            "sentence": 23,
+            "text": "werden",
+            "word": 15
+        },
+        {
+            "charBegin": 3338,
+            "charEnd": 3345,
+            "id": 493,
+            "sentence": 23,
+            "text": "sollten",
+            "word": 16
+        },
+        {
+            "charBegin": 3345,
+            "charEnd": 3346,
+            "id": 494,
+            "sentence": 23,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 3347,
+            "charEnd": 3350,
+            "id": 495,
+            "sentence": 24,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 3351,
+            "charEnd": 3363,
+            "id": 496,
+            "sentence": 24,
+            "text": "Präsentation",
+            "word": 2
+        },
+        {
+            "charBegin": 3364,
+            "charEnd": 3371,
+            "id": 497,
+            "sentence": 24,
+            "text": "erfolge",
+            "word": 3
+        },
+        {
+            "charBegin": 3371,
+            "charEnd": 3372,
+            "id": 498,
+            "sentence": 24,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 3373,
+            "charEnd": 3379,
+            "id": 499,
+            "sentence": 24,
+            "text": "sobald",
+            "word": 5
+        },
+        {
+            "charBegin": 3380,
+            "charEnd": 3383,
+            "id": 500,
+            "sentence": 24,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 3384,
+            "charEnd": 3390,
+            "id": 501,
+            "sentence": 24,
+            "text": "zweite",
+            "word": 7
+        },
+        {
+            "charBegin": 3391,
+            "charEnd": 3397,
+            "id": 502,
+            "sentence": 24,
+            "text": "Studie",
+            "word": 8
+        },
+        {
+            "charBegin": 3397,
+            "charEnd": 3398,
+            "id": 503,
+            "sentence": 24,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 3399,
+            "charEnd": 3402,
+            "id": 504,
+            "sentence": 24,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 3403,
+            "charEnd": 3407,
+            "id": 505,
+            "sentence": 24,
+            "text": "eine",
+            "word": 11
+        },
+        {
+            "charBegin": 3408,
+            "charEnd": 3417,
+            "id": 506,
+            "sentence": 24,
+            "text": "Befragung",
+            "word": 12
+        },
+        {
+            "charBegin": 3418,
+            "charEnd": 3421,
+            "id": 507,
+            "sentence": 24,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 3422,
+            "charEnd": 3437,
+            "id": 508,
+            "sentence": 24,
+            "text": "Studienanfänger",
+            "word": 14
+        },
+        {
+            "charBegin": 3438,
+            "charEnd": 3441,
+            "id": 509,
+            "sentence": 24,
+            "text": "des",
+            "word": 15
+        },
+        {
+            "charBegin": 3442,
+            "charEnd": 3448,
+            "id": 510,
+            "sentence": 24,
+            "text": "Jahres",
+            "word": 16
+        },
+        {
+            "charBegin": 3449,
+            "charEnd": 3453,
+            "id": 511,
+            "sentence": 24,
+            "text": "2007",
+            "word": 17
+        },
+        {
+            "charBegin": 3454,
+            "charEnd": 3462,
+            "id": 512,
+            "sentence": 24,
+            "text": "zugrunde",
+            "word": 18
+        },
+        {
+            "charBegin": 3463,
+            "charEnd": 3468,
+            "id": 513,
+            "sentence": 24,
+            "text": "liegt",
+            "word": 19
+        },
+        {
+            "charBegin": 3468,
+            "charEnd": 3469,
+            "id": 514,
+            "sentence": 24,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 3470,
+            "charEnd": 3484,
+            "id": 515,
+            "sentence": 24,
+            "text": "fertiggestellt",
+            "word": 21
+        },
+        {
+            "charBegin": 3485,
+            "charEnd": 3488,
+            "id": 516,
+            "sentence": 24,
+            "text": "sei",
+            "word": 22
+        },
+        {
+            "charBegin": 3488,
+            "charEnd": 3489,
+            "id": 517,
+            "sentence": 24,
+            "text": ".",
+            "word": 23
+        }
+    ]
+}

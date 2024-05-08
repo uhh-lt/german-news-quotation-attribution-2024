@@ -1,0 +1,1741 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 144,
+                        "charBegin": 883,
+                        "charEnd": 888,
+                        "end": 145
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    144
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 143,
+                        "charBegin": 881,
+                        "charEnd": 929,
+                        "end": 150
+                    }
+                ],
+                "text": ", sagte die kroatische Meteorologin Zoran Vakula",
+                "tokenIds": [
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 131,
+                        "charBegin": 826,
+                        "charEnd": 881,
+                        "end": 143
+                    }
+                ],
+                "text": "„Wir bekommen ein bisschen ‚echten‘ Winter diese Woche“",
+                "tokenIds": [
+                    131,
+                    132,
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 145,
+                        "charBegin": 889,
+                        "charEnd": 929,
+                        "end": 150
+                    }
+                ],
+                "text": "die kroatische Meteorologin Zoran Vakula",
+                "tokenIds": [
+                    145,
+                    146,
+                    147,
+                    148,
+                    149
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "71448 - Europa: Kältewelle fordert Todesopfer (2012-01-31)",
+    "originalText": "Das sibirische Hoch „Cooper“ beschert Mittel- und Osteuropa eine extreme Kältewelle. Bislang sind mindestens 36 Todesopfer zu beklagen. Besonders sind betroffen ältere Menschen und Obdachlose.\n\n\nNachrichten über Erfrierungstote kamen aus den Ländern Ukraine, Polen, Serbien, Bulgarien, der Türkei und in Rumänien. Auch in Berlin erfror eine Frau, nachdem sie in einen Wassergraben gestürzt war. Bei Temperaturen bis minus 25 Grad mussten zahlreiche Personen wegen Erfrierungen behandelt werden. Die Regierungen ergriffen Maßnahmen, um den Obdachlosen Möglichkeiten zum Wärmen zu geben.\n \nDer Verkehr war stark behindert, so wurde der Hafen in Varna geschlossen. Straßen und Zugstrecken wurden gesperrt, Flugverbindungen gestrichen. In Rumänien wurden Häftlinge zum Schneeschaufeln geschickt.Die Kältewelle soll noch andauern. „Wir bekommen ein bisschen ‚echten‘ Winter diese Woche“, sagte die kroatische Meteorologin Zoran Vakula.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 84,
+            "end": 14,
+            "id": 0,
+            "text": "Das sibirische Hoch „Cooper“ beschert Mittel- und Osteuropa eine extreme Kältewelle. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ],
+            "tokens": [
+                "Das",
+                "sibirische",
+                "Hoch",
+                "„",
+                "Cooper",
+                "“",
+                "beschert",
+                "Mittel-",
+                "und",
+                "Osteuropa",
+                "eine",
+                "extreme",
+                "Kältewelle",
+                "."
+            ]
+        },
+        {
+            "begin": 14,
+            "charBegin": 85,
+            "charEnd": 135,
+            "end": 22,
+            "id": 1,
+            "text": "Bislang sind mindestens 36 Todesopfer zu beklagen. ",
+            "tokenIds": [
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Bislang",
+                "sind",
+                "mindestens",
+                "36",
+                "Todesopfer",
+                "zu",
+                "beklagen",
+                "."
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 136,
+            "charEnd": 192,
+            "end": 30,
+            "id": 2,
+            "text": "Besonders sind betroffen ältere Menschen und Obdachlose.",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "tokens": [
+                "Besonders",
+                "sind",
+                "betroffen",
+                "ältere",
+                "Menschen",
+                "und",
+                "Obdachlose",
+                "."
+            ]
+        },
+        {
+            "begin": 30,
+            "charBegin": 195,
+            "charEnd": 313,
+            "end": 51,
+            "id": 3,
+            "text": "Nachrichten über Erfrierungstote kamen aus den Ländern Ukraine, Polen, Serbien, Bulgarien, der Türkei und in Rumänien. ",
+            "tokenIds": [
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50
+            ],
+            "tokens": [
+                "Nachrichten",
+                "über",
+                "Erfrierungstote",
+                "kamen",
+                "aus",
+                "den",
+                "Ländern",
+                "Ukraine",
+                ",",
+                "Polen",
+                ",",
+                "Serbien",
+                ",",
+                "Bulgarien",
+                ",",
+                "der",
+                "Türkei",
+                "und",
+                "in",
+                "Rumänien",
+                "."
+            ]
+        },
+        {
+            "begin": 51,
+            "charBegin": 314,
+            "charEnd": 394,
+            "end": 66,
+            "id": 4,
+            "text": "Auch in Berlin erfror eine Frau, nachdem sie in einen Wassergraben gestürzt war. ",
+            "tokenIds": [
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65
+            ],
+            "tokens": [
+                "Auch",
+                "in",
+                "Berlin",
+                "erfror",
+                "eine",
+                "Frau",
+                ",",
+                "nachdem",
+                "sie",
+                "in",
+                "einen",
+                "Wassergraben",
+                "gestürzt",
+                "war",
+                "."
+            ]
+        },
+        {
+            "begin": 66,
+            "charBegin": 395,
+            "charEnd": 494,
+            "end": 80,
+            "id": 5,
+            "text": "Bei Temperaturen bis minus 25 Grad mussten zahlreiche Personen wegen Erfrierungen behandelt werden. ",
+            "tokenIds": [
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79
+            ],
+            "tokens": [
+                "Bei",
+                "Temperaturen",
+                "bis",
+                "minus",
+                "25",
+                "Grad",
+                "mussten",
+                "zahlreiche",
+                "Personen",
+                "wegen",
+                "Erfrierungen",
+                "behandelt",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 80,
+            "charBegin": 495,
+            "charEnd": 661,
+            "end": 108,
+            "id": 6,
+            "text": "Die Regierungen ergriffen Maßnahmen, um den Obdachlosen Möglichkeiten zum Wärmen zu geben.\n \nDer Verkehr war stark behindert, so wurde der Hafen in Varna geschlossen. ",
+            "tokenIds": [
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107
+            ],
+            "tokens": [
+                "Die",
+                "Regierungen",
+                "ergriffen",
+                "Maßnahmen",
+                ",",
+                "um",
+                "den",
+                "Obdachlosen",
+                "Möglichkeiten",
+                "zum",
+                "Wärmen",
+                "zu",
+                "geben",
+                ".",
+                "Der",
+                "Verkehr",
+                "war",
+                "stark",
+                "behindert",
+                ",",
+                "so",
+                "wurde",
+                "der",
+                "Hafen",
+                "in",
+                "Varna",
+                "geschlossen",
+                "."
+            ]
+        },
+        {
+            "begin": 108,
+            "charBegin": 662,
+            "charEnd": 731,
+            "end": 117,
+            "id": 7,
+            "text": "Straßen und Zugstrecken wurden gesperrt, Flugverbindungen gestrichen. ",
+            "tokenIds": [
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116
+            ],
+            "tokens": [
+                "Straßen",
+                "und",
+                "Zugstrecken",
+                "wurden",
+                "gesperrt",
+                ",",
+                "Flugverbindungen",
+                "gestrichen",
+                "."
+            ]
+        },
+        {
+            "begin": 117,
+            "charBegin": 732,
+            "charEnd": 791,
+            "end": 125,
+            "id": 8,
+            "text": "In Rumänien wurden Häftlinge zum Schneeschaufeln geschickt.",
+            "tokenIds": [
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124
+            ],
+            "tokens": [
+                "In",
+                "Rumänien",
+                "wurden",
+                "Häftlinge",
+                "zum",
+                "Schneeschaufeln",
+                "geschickt",
+                "."
+            ]
+        },
+        {
+            "begin": 125,
+            "charBegin": 791,
+            "charEnd": 825,
+            "end": 131,
+            "id": 9,
+            "text": "Die Kältewelle soll noch andauern. ",
+            "tokenIds": [
+                125,
+                126,
+                127,
+                128,
+                129,
+                130
+            ],
+            "tokens": [
+                "Die",
+                "Kältewelle",
+                "soll",
+                "noch",
+                "andauern",
+                "."
+            ]
+        },
+        {
+            "begin": 131,
+            "charBegin": 826,
+            "charEnd": 930,
+            "end": 151,
+            "id": 10,
+            "text": "„Wir bekommen ein bisschen ‚echten‘ Winter diese Woche“, sagte die kroatische Meteorologin Zoran Vakula.",
+            "tokenIds": [
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150
+            ],
+            "tokens": [
+                "„",
+                "Wir",
+                "bekommen",
+                "ein",
+                "bisschen",
+                "‚",
+                "echten",
+                "‘",
+                "Winter",
+                "diese",
+                "Woche",
+                "“",
+                ",",
+                "sagte",
+                "die",
+                "kroatische",
+                "Meteorologin",
+                "Zoran",
+                "Vakula",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 14,
+            "id": 1,
+            "sentence": 1,
+            "text": "sibirische",
+            "word": 2
+        },
+        {
+            "charBegin": 15,
+            "charEnd": 19,
+            "id": 2,
+            "sentence": 1,
+            "text": "Hoch",
+            "word": 3
+        },
+        {
+            "charBegin": 20,
+            "charEnd": 21,
+            "id": 3,
+            "sentence": 1,
+            "text": "„",
+            "word": 4
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 27,
+            "id": 4,
+            "sentence": 1,
+            "text": "Cooper",
+            "word": 5
+        },
+        {
+            "charBegin": 27,
+            "charEnd": 28,
+            "id": 5,
+            "sentence": 1,
+            "text": "“",
+            "word": 6
+        },
+        {
+            "charBegin": 29,
+            "charEnd": 37,
+            "id": 6,
+            "sentence": 1,
+            "text": "beschert",
+            "word": 7
+        },
+        {
+            "charBegin": 38,
+            "charEnd": 45,
+            "id": 7,
+            "sentence": 1,
+            "text": "Mittel-",
+            "word": 8
+        },
+        {
+            "charBegin": 46,
+            "charEnd": 49,
+            "id": 8,
+            "sentence": 1,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 59,
+            "id": 9,
+            "sentence": 1,
+            "text": "Osteuropa",
+            "word": 10
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 64,
+            "id": 10,
+            "sentence": 1,
+            "text": "eine",
+            "word": 11
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 72,
+            "id": 11,
+            "sentence": 1,
+            "text": "extreme",
+            "word": 12
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 83,
+            "id": 12,
+            "sentence": 1,
+            "text": "Kältewelle",
+            "word": 13
+        },
+        {
+            "charBegin": 83,
+            "charEnd": 84,
+            "id": 13,
+            "sentence": 1,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 92,
+            "id": 14,
+            "sentence": 2,
+            "text": "Bislang",
+            "word": 1
+        },
+        {
+            "charBegin": 93,
+            "charEnd": 97,
+            "id": 15,
+            "sentence": 2,
+            "text": "sind",
+            "word": 2
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 108,
+            "id": 16,
+            "sentence": 2,
+            "text": "mindestens",
+            "word": 3
+        },
+        {
+            "charBegin": 109,
+            "charEnd": 111,
+            "id": 17,
+            "sentence": 2,
+            "text": "36",
+            "word": 4
+        },
+        {
+            "charBegin": 112,
+            "charEnd": 122,
+            "id": 18,
+            "sentence": 2,
+            "text": "Todesopfer",
+            "word": 5
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 125,
+            "id": 19,
+            "sentence": 2,
+            "text": "zu",
+            "word": 6
+        },
+        {
+            "charBegin": 126,
+            "charEnd": 134,
+            "id": 20,
+            "sentence": 2,
+            "text": "beklagen",
+            "word": 7
+        },
+        {
+            "charBegin": 134,
+            "charEnd": 135,
+            "id": 21,
+            "sentence": 2,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 136,
+            "charEnd": 145,
+            "id": 22,
+            "sentence": 3,
+            "text": "Besonders",
+            "word": 1
+        },
+        {
+            "charBegin": 146,
+            "charEnd": 150,
+            "id": 23,
+            "sentence": 3,
+            "text": "sind",
+            "word": 2
+        },
+        {
+            "charBegin": 151,
+            "charEnd": 160,
+            "id": 24,
+            "sentence": 3,
+            "text": "betroffen",
+            "word": 3
+        },
+        {
+            "charBegin": 161,
+            "charEnd": 167,
+            "id": 25,
+            "sentence": 3,
+            "text": "ältere",
+            "word": 4
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 176,
+            "id": 26,
+            "sentence": 3,
+            "text": "Menschen",
+            "word": 5
+        },
+        {
+            "charBegin": 177,
+            "charEnd": 180,
+            "id": 27,
+            "sentence": 3,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 191,
+            "id": 28,
+            "sentence": 3,
+            "text": "Obdachlose",
+            "word": 7
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 192,
+            "id": 29,
+            "sentence": 3,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 195,
+            "charEnd": 206,
+            "id": 30,
+            "sentence": 4,
+            "text": "Nachrichten",
+            "word": 1
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 211,
+            "id": 31,
+            "sentence": 4,
+            "text": "über",
+            "word": 2
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 227,
+            "id": 32,
+            "sentence": 4,
+            "text": "Erfrierungstote",
+            "word": 3
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 233,
+            "id": 33,
+            "sentence": 4,
+            "text": "kamen",
+            "word": 4
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 237,
+            "id": 34,
+            "sentence": 4,
+            "text": "aus",
+            "word": 5
+        },
+        {
+            "charBegin": 238,
+            "charEnd": 241,
+            "id": 35,
+            "sentence": 4,
+            "text": "den",
+            "word": 6
+        },
+        {
+            "charBegin": 242,
+            "charEnd": 249,
+            "id": 36,
+            "sentence": 4,
+            "text": "Ländern",
+            "word": 7
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 257,
+            "id": 37,
+            "sentence": 4,
+            "text": "Ukraine",
+            "word": 8
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 258,
+            "id": 38,
+            "sentence": 4,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 264,
+            "id": 39,
+            "sentence": 4,
+            "text": "Polen",
+            "word": 10
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 265,
+            "id": 40,
+            "sentence": 4,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 273,
+            "id": 41,
+            "sentence": 4,
+            "text": "Serbien",
+            "word": 12
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 274,
+            "id": 42,
+            "sentence": 4,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 284,
+            "id": 43,
+            "sentence": 4,
+            "text": "Bulgarien",
+            "word": 14
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 285,
+            "id": 44,
+            "sentence": 4,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 289,
+            "id": 45,
+            "sentence": 4,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 296,
+            "id": 46,
+            "sentence": 4,
+            "text": "Türkei",
+            "word": 17
+        },
+        {
+            "charBegin": 297,
+            "charEnd": 300,
+            "id": 47,
+            "sentence": 4,
+            "text": "und",
+            "word": 18
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 303,
+            "id": 48,
+            "sentence": 4,
+            "text": "in",
+            "word": 19
+        },
+        {
+            "charBegin": 304,
+            "charEnd": 312,
+            "id": 49,
+            "sentence": 4,
+            "text": "Rumänien",
+            "word": 20
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 313,
+            "id": 50,
+            "sentence": 4,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 318,
+            "id": 51,
+            "sentence": 5,
+            "text": "Auch",
+            "word": 1
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 321,
+            "id": 52,
+            "sentence": 5,
+            "text": "in",
+            "word": 2
+        },
+        {
+            "charBegin": 322,
+            "charEnd": 328,
+            "id": 53,
+            "sentence": 5,
+            "text": "Berlin",
+            "word": 3
+        },
+        {
+            "charBegin": 329,
+            "charEnd": 335,
+            "id": 54,
+            "sentence": 5,
+            "text": "erfror",
+            "word": 4
+        },
+        {
+            "charBegin": 336,
+            "charEnd": 340,
+            "id": 55,
+            "sentence": 5,
+            "text": "eine",
+            "word": 5
+        },
+        {
+            "charBegin": 341,
+            "charEnd": 345,
+            "id": 56,
+            "sentence": 5,
+            "text": "Frau",
+            "word": 6
+        },
+        {
+            "charBegin": 345,
+            "charEnd": 346,
+            "id": 57,
+            "sentence": 5,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 347,
+            "charEnd": 354,
+            "id": 58,
+            "sentence": 5,
+            "text": "nachdem",
+            "word": 8
+        },
+        {
+            "charBegin": 355,
+            "charEnd": 358,
+            "id": 59,
+            "sentence": 5,
+            "text": "sie",
+            "word": 9
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 361,
+            "id": 60,
+            "sentence": 5,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 367,
+            "id": 61,
+            "sentence": 5,
+            "text": "einen",
+            "word": 11
+        },
+        {
+            "charBegin": 368,
+            "charEnd": 380,
+            "id": 62,
+            "sentence": 5,
+            "text": "Wassergraben",
+            "word": 12
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 389,
+            "id": 63,
+            "sentence": 5,
+            "text": "gestürzt",
+            "word": 13
+        },
+        {
+            "charBegin": 390,
+            "charEnd": 393,
+            "id": 64,
+            "sentence": 5,
+            "text": "war",
+            "word": 14
+        },
+        {
+            "charBegin": 393,
+            "charEnd": 394,
+            "id": 65,
+            "sentence": 5,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 398,
+            "id": 66,
+            "sentence": 6,
+            "text": "Bei",
+            "word": 1
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 411,
+            "id": 67,
+            "sentence": 6,
+            "text": "Temperaturen",
+            "word": 2
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 415,
+            "id": 68,
+            "sentence": 6,
+            "text": "bis",
+            "word": 3
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 421,
+            "id": 69,
+            "sentence": 6,
+            "text": "minus",
+            "word": 4
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 424,
+            "id": 70,
+            "sentence": 6,
+            "text": "25",
+            "word": 5
+        },
+        {
+            "charBegin": 425,
+            "charEnd": 429,
+            "id": 71,
+            "sentence": 6,
+            "text": "Grad",
+            "word": 6
+        },
+        {
+            "charBegin": 430,
+            "charEnd": 437,
+            "id": 72,
+            "sentence": 6,
+            "text": "mussten",
+            "word": 7
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 448,
+            "id": 73,
+            "sentence": 6,
+            "text": "zahlreiche",
+            "word": 8
+        },
+        {
+            "charBegin": 449,
+            "charEnd": 457,
+            "id": 74,
+            "sentence": 6,
+            "text": "Personen",
+            "word": 9
+        },
+        {
+            "charBegin": 458,
+            "charEnd": 463,
+            "id": 75,
+            "sentence": 6,
+            "text": "wegen",
+            "word": 10
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 476,
+            "id": 76,
+            "sentence": 6,
+            "text": "Erfrierungen",
+            "word": 11
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 486,
+            "id": 77,
+            "sentence": 6,
+            "text": "behandelt",
+            "word": 12
+        },
+        {
+            "charBegin": 487,
+            "charEnd": 493,
+            "id": 78,
+            "sentence": 6,
+            "text": "werden",
+            "word": 13
+        },
+        {
+            "charBegin": 493,
+            "charEnd": 494,
+            "id": 79,
+            "sentence": 6,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 495,
+            "charEnd": 498,
+            "id": 80,
+            "sentence": 7,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 499,
+            "charEnd": 510,
+            "id": 81,
+            "sentence": 7,
+            "text": "Regierungen",
+            "word": 2
+        },
+        {
+            "charBegin": 511,
+            "charEnd": 520,
+            "id": 82,
+            "sentence": 7,
+            "text": "ergriffen",
+            "word": 3
+        },
+        {
+            "charBegin": 521,
+            "charEnd": 530,
+            "id": 83,
+            "sentence": 7,
+            "text": "Maßnahmen",
+            "word": 4
+        },
+        {
+            "charBegin": 530,
+            "charEnd": 531,
+            "id": 84,
+            "sentence": 7,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 532,
+            "charEnd": 534,
+            "id": 85,
+            "sentence": 7,
+            "text": "um",
+            "word": 6
+        },
+        {
+            "charBegin": 535,
+            "charEnd": 538,
+            "id": 86,
+            "sentence": 7,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 539,
+            "charEnd": 550,
+            "id": 87,
+            "sentence": 7,
+            "text": "Obdachlosen",
+            "word": 8
+        },
+        {
+            "charBegin": 551,
+            "charEnd": 564,
+            "id": 88,
+            "sentence": 7,
+            "text": "Möglichkeiten",
+            "word": 9
+        },
+        {
+            "charBegin": 565,
+            "charEnd": 568,
+            "id": 89,
+            "sentence": 7,
+            "text": "zum",
+            "word": 10
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 575,
+            "id": 90,
+            "sentence": 7,
+            "text": "Wärmen",
+            "word": 11
+        },
+        {
+            "charBegin": 576,
+            "charEnd": 578,
+            "id": 91,
+            "sentence": 7,
+            "text": "zu",
+            "word": 12
+        },
+        {
+            "charBegin": 579,
+            "charEnd": 584,
+            "id": 92,
+            "sentence": 7,
+            "text": "geben",
+            "word": 13
+        },
+        {
+            "charBegin": 584,
+            "charEnd": 585,
+            "id": 93,
+            "sentence": 7,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 588,
+            "charEnd": 591,
+            "id": 94,
+            "sentence": 7,
+            "text": "Der",
+            "word": 15
+        },
+        {
+            "charBegin": 592,
+            "charEnd": 599,
+            "id": 95,
+            "sentence": 7,
+            "text": "Verkehr",
+            "word": 16
+        },
+        {
+            "charBegin": 600,
+            "charEnd": 603,
+            "id": 96,
+            "sentence": 7,
+            "text": "war",
+            "word": 17
+        },
+        {
+            "charBegin": 604,
+            "charEnd": 609,
+            "id": 97,
+            "sentence": 7,
+            "text": "stark",
+            "word": 18
+        },
+        {
+            "charBegin": 610,
+            "charEnd": 619,
+            "id": 98,
+            "sentence": 7,
+            "text": "behindert",
+            "word": 19
+        },
+        {
+            "charBegin": 619,
+            "charEnd": 620,
+            "id": 99,
+            "sentence": 7,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 621,
+            "charEnd": 623,
+            "id": 100,
+            "sentence": 7,
+            "text": "so",
+            "word": 21
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 629,
+            "id": 101,
+            "sentence": 7,
+            "text": "wurde",
+            "word": 22
+        },
+        {
+            "charBegin": 630,
+            "charEnd": 633,
+            "id": 102,
+            "sentence": 7,
+            "text": "der",
+            "word": 23
+        },
+        {
+            "charBegin": 634,
+            "charEnd": 639,
+            "id": 103,
+            "sentence": 7,
+            "text": "Hafen",
+            "word": 24
+        },
+        {
+            "charBegin": 640,
+            "charEnd": 642,
+            "id": 104,
+            "sentence": 7,
+            "text": "in",
+            "word": 25
+        },
+        {
+            "charBegin": 643,
+            "charEnd": 648,
+            "id": 105,
+            "sentence": 7,
+            "text": "Varna",
+            "word": 26
+        },
+        {
+            "charBegin": 649,
+            "charEnd": 660,
+            "id": 106,
+            "sentence": 7,
+            "text": "geschlossen",
+            "word": 27
+        },
+        {
+            "charBegin": 660,
+            "charEnd": 661,
+            "id": 107,
+            "sentence": 7,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 662,
+            "charEnd": 669,
+            "id": 108,
+            "sentence": 8,
+            "text": "Straßen",
+            "word": 1
+        },
+        {
+            "charBegin": 670,
+            "charEnd": 673,
+            "id": 109,
+            "sentence": 8,
+            "text": "und",
+            "word": 2
+        },
+        {
+            "charBegin": 674,
+            "charEnd": 685,
+            "id": 110,
+            "sentence": 8,
+            "text": "Zugstrecken",
+            "word": 3
+        },
+        {
+            "charBegin": 686,
+            "charEnd": 692,
+            "id": 111,
+            "sentence": 8,
+            "text": "wurden",
+            "word": 4
+        },
+        {
+            "charBegin": 693,
+            "charEnd": 701,
+            "id": 112,
+            "sentence": 8,
+            "text": "gesperrt",
+            "word": 5
+        },
+        {
+            "charBegin": 701,
+            "charEnd": 702,
+            "id": 113,
+            "sentence": 8,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 719,
+            "id": 114,
+            "sentence": 8,
+            "text": "Flugverbindungen",
+            "word": 7
+        },
+        {
+            "charBegin": 720,
+            "charEnd": 730,
+            "id": 115,
+            "sentence": 8,
+            "text": "gestrichen",
+            "word": 8
+        },
+        {
+            "charBegin": 730,
+            "charEnd": 731,
+            "id": 116,
+            "sentence": 8,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 732,
+            "charEnd": 734,
+            "id": 117,
+            "sentence": 9,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 735,
+            "charEnd": 743,
+            "id": 118,
+            "sentence": 9,
+            "text": "Rumänien",
+            "word": 2
+        },
+        {
+            "charBegin": 744,
+            "charEnd": 750,
+            "id": 119,
+            "sentence": 9,
+            "text": "wurden",
+            "word": 3
+        },
+        {
+            "charBegin": 751,
+            "charEnd": 760,
+            "id": 120,
+            "sentence": 9,
+            "text": "Häftlinge",
+            "word": 4
+        },
+        {
+            "charBegin": 761,
+            "charEnd": 764,
+            "id": 121,
+            "sentence": 9,
+            "text": "zum",
+            "word": 5
+        },
+        {
+            "charBegin": 765,
+            "charEnd": 780,
+            "id": 122,
+            "sentence": 9,
+            "text": "Schneeschaufeln",
+            "word": 6
+        },
+        {
+            "charBegin": 781,
+            "charEnd": 790,
+            "id": 123,
+            "sentence": 9,
+            "text": "geschickt",
+            "word": 7
+        },
+        {
+            "charBegin": 790,
+            "charEnd": 791,
+            "id": 124,
+            "sentence": 9,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 791,
+            "charEnd": 794,
+            "id": 125,
+            "sentence": 10,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 795,
+            "charEnd": 805,
+            "id": 126,
+            "sentence": 10,
+            "text": "Kältewelle",
+            "word": 2
+        },
+        {
+            "charBegin": 806,
+            "charEnd": 810,
+            "id": 127,
+            "sentence": 10,
+            "text": "soll",
+            "word": 3
+        },
+        {
+            "charBegin": 811,
+            "charEnd": 815,
+            "id": 128,
+            "sentence": 10,
+            "text": "noch",
+            "word": 4
+        },
+        {
+            "charBegin": 816,
+            "charEnd": 824,
+            "id": 129,
+            "sentence": 10,
+            "text": "andauern",
+            "word": 5
+        },
+        {
+            "charBegin": 824,
+            "charEnd": 825,
+            "id": 130,
+            "sentence": 10,
+            "text": ".",
+            "word": 6
+        },
+        {
+            "charBegin": 826,
+            "charEnd": 827,
+            "id": 131,
+            "sentence": 11,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 827,
+            "charEnd": 830,
+            "id": 132,
+            "sentence": 11,
+            "text": "Wir",
+            "word": 2
+        },
+        {
+            "charBegin": 831,
+            "charEnd": 839,
+            "id": 133,
+            "sentence": 11,
+            "text": "bekommen",
+            "word": 3
+        },
+        {
+            "charBegin": 840,
+            "charEnd": 843,
+            "id": 134,
+            "sentence": 11,
+            "text": "ein",
+            "word": 4
+        },
+        {
+            "charBegin": 844,
+            "charEnd": 852,
+            "id": 135,
+            "sentence": 11,
+            "text": "bisschen",
+            "word": 5
+        },
+        {
+            "charBegin": 853,
+            "charEnd": 854,
+            "id": 136,
+            "sentence": 11,
+            "text": "‚",
+            "word": 6
+        },
+        {
+            "charBegin": 854,
+            "charEnd": 860,
+            "id": 137,
+            "sentence": 11,
+            "text": "echten",
+            "word": 7
+        },
+        {
+            "charBegin": 860,
+            "charEnd": 861,
+            "id": 138,
+            "sentence": 11,
+            "text": "‘",
+            "word": 8
+        },
+        {
+            "charBegin": 862,
+            "charEnd": 868,
+            "id": 139,
+            "sentence": 11,
+            "text": "Winter",
+            "word": 9
+        },
+        {
+            "charBegin": 869,
+            "charEnd": 874,
+            "id": 140,
+            "sentence": 11,
+            "text": "diese",
+            "word": 10
+        },
+        {
+            "charBegin": 875,
+            "charEnd": 880,
+            "id": 141,
+            "sentence": 11,
+            "text": "Woche",
+            "word": 11
+        },
+        {
+            "charBegin": 880,
+            "charEnd": 881,
+            "id": 142,
+            "sentence": 11,
+            "text": "“",
+            "word": 12
+        },
+        {
+            "charBegin": 881,
+            "charEnd": 882,
+            "id": 143,
+            "sentence": 11,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 883,
+            "charEnd": 888,
+            "id": 144,
+            "sentence": 11,
+            "text": "sagte",
+            "word": 14
+        },
+        {
+            "charBegin": 889,
+            "charEnd": 892,
+            "id": 145,
+            "sentence": 11,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 893,
+            "charEnd": 903,
+            "id": 146,
+            "sentence": 11,
+            "text": "kroatische",
+            "word": 16
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 916,
+            "id": 147,
+            "sentence": 11,
+            "text": "Meteorologin",
+            "word": 17
+        },
+        {
+            "charBegin": 917,
+            "charEnd": 922,
+            "id": 148,
+            "sentence": 11,
+            "text": "Zoran",
+            "word": 18
+        },
+        {
+            "charBegin": 923,
+            "charEnd": 929,
+            "id": 149,
+            "sentence": 11,
+            "text": "Vakula",
+            "word": 19
+        },
+        {
+            "charBegin": 929,
+            "charEnd": 930,
+            "id": 150,
+            "sentence": 11,
+            "text": ".",
+            "word": 20
+        }
+    ]
+}

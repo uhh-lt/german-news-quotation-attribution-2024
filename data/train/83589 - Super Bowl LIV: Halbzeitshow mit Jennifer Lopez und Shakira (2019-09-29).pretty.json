@@ -1,0 +1,4304 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 22,
+                        "charBegin": 123,
+                        "charEnd": 130,
+                        "end": 23
+                    },
+                    {
+                        "begin": 28,
+                        "charBegin": 166,
+                        "charEnd": 169,
+                        "end": 29
+                    }
+                ],
+                "text": "teilten mit",
+                "tokenIds": [
+                    22,
+                    28
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 22,
+                        "charBegin": 123,
+                        "charEnd": 169,
+                        "end": 29
+                    }
+                ],
+                "text": "teilten die beiden Sängerinnen auf Twitter mit",
+                "tokenIds": [
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 117,
+                        "end": 20
+                    },
+                    {
+                        "begin": 21,
+                        "charBegin": 119,
+                        "charEnd": 122,
+                        "end": 22
+                    }
+                ],
+                "text": "Die Halbzeitshow der Super Bowl LIV am 2. Februar im Hard Rock Stadium in Miami bestreiten Jennifer Lopez und Shakira Das",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    21
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 23,
+                        "charBegin": 131,
+                        "charEnd": 153,
+                        "end": 26
+                    }
+                ],
+                "text": "die beiden Sängerinnen",
+                "tokenIds": [
+                    23,
+                    24,
+                    25
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 32,
+                        "charBegin": 187,
+                        "charEnd": 195,
+                        "end": 33
+                    }
+                ],
+                "text": "erklärte",
+                "tokenIds": [
+                    32
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 30,
+                        "charBegin": 171,
+                        "charEnd": 196,
+                        "end": 34
+                    }
+                ],
+                "text": "Während Shakira erklärte,",
+                "tokenIds": [
+                    30,
+                    31,
+                    32,
+                    33
+                ]
+            },
+            "hasNested": true,
+            "id": 1,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 34,
+                        "charBegin": 197,
+                        "charEnd": 249,
+                        "end": 45
+                    }
+                ],
+                "text": "wahnsinnig aufgeregt zu sein, „größer wird es nicht“",
+                "tokenIds": [
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 31,
+                        "charBegin": 179,
+                        "charEnd": 186,
+                        "end": 32
+                    }
+                ],
+                "text": "Shakira",
+                "tokenIds": [
+                    31
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 32,
+                        "charBegin": 187,
+                        "charEnd": 195,
+                        "end": 33
+                    }
+                ],
+                "text": "erklärte",
+                "tokenIds": [
+                    32
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 30,
+                        "charBegin": 171,
+                        "charEnd": 196,
+                        "end": 34
+                    }
+                ],
+                "text": "Während Shakira erklärte,",
+                "tokenIds": [
+                    30,
+                    31,
+                    32,
+                    33
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": true,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 39,
+                        "charBegin": 227,
+                        "charEnd": 249,
+                        "end": 45
+                    }
+                ],
+                "text": "„größer wird es nicht“",
+                "tokenIds": [
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 31,
+                        "charBegin": 179,
+                        "charEnd": 186,
+                        "end": 32
+                    }
+                ],
+                "text": "Shakira",
+                "tokenIds": [
+                    31
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 46,
+                        "charBegin": 251,
+                        "charEnd": 257,
+                        "end": 47
+                    },
+                    {
+                        "begin": 49,
+                        "charBegin": 273,
+                        "charEnd": 276,
+                        "end": 50
+                    }
+                ],
+                "text": "räumte ein",
+                "tokenIds": [
+                    46,
+                    49
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 45,
+                        "charBegin": 249,
+                        "charEnd": 277,
+                        "end": 51
+                    }
+                ],
+                "text": ", räumte Jennifer Lopez ein,",
+                "tokenIds": [
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 51,
+                        "charBegin": 278,
+                        "charEnd": 395,
+                        "end": 72
+                    }
+                ],
+                "text": "seit dem Auftritt von Diana Ross im Jahr 1996 davon geträumt zu haben, in der Halbzeitshow der Super Bowl aufzutreten",
+                "tokenIds": [
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 47,
+                        "charBegin": 258,
+                        "charEnd": 272,
+                        "end": 49
+                    }
+                ],
+                "text": "Jennifer Lopez",
+                "tokenIds": [
+                    47,
+                    48
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 96,
+                        "charBegin": 518,
+                        "charEnd": 525,
+                        "end": 97
+                    }
+                ],
+                "text": "schrieb",
+                "tokenIds": [
+                    96
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 95,
+                        "charBegin": 516,
+                        "charEnd": 562,
+                        "end": 105
+                    }
+                ],
+                "text": ", schrieb die in New York City geborene Lopez,",
+                "tokenIds": [
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104
+                ]
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 73,
+                        "charBegin": 398,
+                        "charEnd": 516,
+                        "end": 95
+                    }
+                ],
+                "text": "„Jetzt ist es noch außergewöhnlicher, weil die NFL 100 Jahre besteht und ich mit einer anderen Latina performen werde“",
+                "tokenIds": [
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84,
+                    85,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93,
+                    94
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 97,
+                        "charBegin": 526,
+                        "charEnd": 561,
+                        "end": 104
+                    }
+                ],
+                "text": "die in New York City geborene Lopez",
+                "tokenIds": [
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 96,
+                        "charBegin": 518,
+                        "charEnd": 525,
+                        "end": 97
+                    }
+                ],
+                "text": "schrieb",
+                "tokenIds": [
+                    96
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 95,
+                        "charBegin": 516,
+                        "charEnd": 562,
+                        "end": 105
+                    }
+                ],
+                "text": ", schrieb die in New York City geborene Lopez,",
+                "tokenIds": [
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104
+                ]
+            },
+            "hasNested": true,
+            "id": 5,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 105,
+                        "charBegin": 563,
+                        "charEnd": 704,
+                        "end": 133
+                    }
+                ],
+                "text": "die den Auftritt mit der Kolumbianerin Shakira kaum erwarten könne, um „zu zeigen, was wir Mädchen auf der größten Bühne der Welt tun können“",
+                "tokenIds": [
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 97,
+                        "charBegin": 526,
+                        "charEnd": 561,
+                        "end": 104
+                    }
+                ],
+                "text": "die in New York City geborene Lopez",
+                "tokenIds": [
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 96,
+                        "charBegin": 518,
+                        "charEnd": 525,
+                        "end": 97
+                    }
+                ],
+                "text": "schrieb",
+                "tokenIds": [
+                    96
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 95,
+                        "charBegin": 516,
+                        "charEnd": 562,
+                        "end": 105
+                    }
+                ],
+                "text": ", schrieb die in New York City geborene Lopez,",
+                "tokenIds": [
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104
+                ]
+            },
+            "hasNested": false,
+            "id": 6,
+            "isNested": true,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 117,
+                        "charBegin": 634,
+                        "charEnd": 704,
+                        "end": 133
+                    }
+                ],
+                "text": "„zu zeigen, was wir Mädchen auf der größten Bühne der Welt tun können“",
+                "tokenIds": [
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 97,
+                        "charBegin": 526,
+                        "charEnd": 561,
+                        "end": 104
+                    }
+                ],
+                "text": "die in New York City geborene Lopez",
+                "tokenIds": [
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 137,
+                        "charBegin": 721,
+                        "charEnd": 731,
+                        "end": 139
+                    }
+                ],
+                "text": "so schrieb",
+                "tokenIds": [
+                    137,
+                    138
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 134,
+                        "charBegin": 708,
+                        "charEnd": 761,
+                        "end": 144
+                    }
+                ],
+                "text": "Für Shakira, so schrieb diese in einer Stellungnahme,",
+                "tokenIds": [
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142,
+                    143
+                ]
+            },
+            "hasNested": false,
+            "id": 7,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 144,
+                        "charBegin": 762,
+                        "charEnd": 932,
+                        "end": 173
+                    }
+                ],
+                "text": "sei es eine Ehre, gemeinsam mit Lopez auf einer der größten Bühnen des Showbusiness weltweit aufzutreten, stellvertretend für Latinos und Latinas aus den USA und der Welt",
+                "tokenIds": [
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    162,
+                    163,
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    169,
+                    170,
+                    171,
+                    172
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 139,
+                        "charBegin": 732,
+                        "charEnd": 737,
+                        "end": 140
+                    }
+                ],
+                "text": "diese",
+                "tokenIds": [
+                    139
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 196,
+                        "charBegin": 1092,
+                        "charEnd": 1096,
+                        "end": 197
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    196
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 196,
+                        "charBegin": 1092,
+                        "charEnd": 1170,
+                        "end": 207
+                    }
+                ],
+                "text": "Nach Angaben des Hauptsponsors der Halbzeitshow, dem Getränkehersteller Pepsi,",
+                "tokenIds": [
+                    196,
+                    197,
+                    198,
+                    199,
+                    200,
+                    201,
+                    202,
+                    203,
+                    204,
+                    205,
+                    206
+                ]
+            },
+            "hasNested": false,
+            "id": 8,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 207,
+                        "charBegin": 1171,
+                        "charEnd": 1244,
+                        "end": 219
+                    }
+                ],
+                "text": "werde es der erste gemeinsame Auftritt von Shakira und Jennfer Lopez sein",
+                "tokenIds": [
+                    207,
+                    208,
+                    209,
+                    210,
+                    211,
+                    212,
+                    213,
+                    214,
+                    215,
+                    216,
+                    217,
+                    218
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 197,
+                        "charBegin": 1097,
+                        "charEnd": 1169,
+                        "end": 206
+                    }
+                ],
+                "text": "Angaben des Hauptsponsors der Halbzeitshow, dem Getränkehersteller Pepsi",
+                "tokenIds": [
+                    197,
+                    198,
+                    199,
+                    200,
+                    201,
+                    202,
+                    203,
+                    204,
+                    205
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "83589 - Super Bowl LIV: Halbzeitshow mit Jennifer Lopez und Shakira (2019-09-29)",
+    "originalText": "Die Halbzeitshow der Super Bowl LIV am 2. Februar im Hard Rock Stadium in Miami bestreiten Jennifer Lopez und Shakira. Das teilten die beiden Sängerinnen auf Twitter mit. Während Shakira erklärte, wahnsinnig aufgeregt zu sein, „größer wird es nicht“, räumte Jennifer Lopez ein, seit dem Auftritt von Diana Ross im Jahr 1996 davon geträumt zu haben, in der Halbzeitshow der Super Bowl aufzutreten.\n\n„Jetzt ist es noch außergewöhnlicher, weil die NFL 100 Jahre besteht und ich mit einer anderen Latina performen werde“, schrieb die in New York City geborene Lopez, die den Auftritt mit der Kolumbianerin Shakira kaum erwarten könne, um „zu zeigen, was wir Mädchen auf der größten Bühne der Welt tun können“.\n\n\nFür Shakira, so schrieb diese in einer Stellungnahme, sei es eine Ehre, gemeinsam mit Lopez auf einer der größten Bühnen des Showbusiness weltweit aufzutreten, stellvertretend für Latinos und Latinas aus den USA und der Welt. Alleine in den Vereinigten Staaten schauen um die einhundert Millionen Fernsehzuschauer die Übertragung an, doch die Veranstaltung wird weltweit übertragen.\n\nNach Angaben des Hauptsponsors der Halbzeitshow, dem Getränkehersteller Pepsi, werde es der erste gemeinsame Auftritt von Shakira und Jennfer Lopez sein.\n\nIm Vorfeld der diesjährigen Veranstaltung hatten Rihanna und Pink einen Auftritt abgelehnt, weil sie nicht damit einvestanden waren, wie die Vereine der National Football League mit dem Spieler Colin Kaeperick umgehen. Schließlich war die Gruppe Maroon 5 aufgetreten, mit keineswegs guten Kritiken.\n\nKaeperick, in der Saison 2016\/17 Quarterback bei den San Francisco 49ers, kniete während der gesamten Spielzeit beim Abspielen der amerikanischen Nationalhymne, um so gegen Rassismus und Polizeigewalt zu protestieren, zahlreiche Spieler taten es ihm nach. Diese Spieler wurden von US-Präsident Donald Trump scharf angegriffen, und Kaeperick ist seit März 2017 ohne Verein.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 118,
+            "end": 21,
+            "id": 0,
+            "text": "Die Halbzeitshow der Super Bowl LIV am 2. Februar im Hard Rock Stadium in Miami bestreiten Jennifer Lopez und Shakira. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "Die",
+                "Halbzeitshow",
+                "der",
+                "Super",
+                "Bowl",
+                "LIV",
+                "am",
+                "2.",
+                "Februar",
+                "im",
+                "Hard",
+                "Rock",
+                "Stadium",
+                "in",
+                "Miami",
+                "bestreiten",
+                "Jennifer",
+                "Lopez",
+                "und",
+                "Shakira",
+                "."
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 119,
+            "charEnd": 170,
+            "end": 30,
+            "id": 1,
+            "text": "Das teilten die beiden Sängerinnen auf Twitter mit. ",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "tokens": [
+                "Das",
+                "teilten",
+                "die",
+                "beiden",
+                "Sängerinnen",
+                "auf",
+                "Twitter",
+                "mit",
+                "."
+            ]
+        },
+        {
+            "begin": 30,
+            "charBegin": 171,
+            "charEnd": 396,
+            "end": 73,
+            "id": 2,
+            "text": "Während Shakira erklärte, wahnsinnig aufgeregt zu sein, „größer wird es nicht“, räumte Jennifer Lopez ein, seit dem Auftritt von Diana Ross im Jahr 1996 davon geträumt zu haben, in der Halbzeitshow der Super Bowl aufzutreten.",
+            "tokenIds": [
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72
+            ],
+            "tokens": [
+                "Während",
+                "Shakira",
+                "erklärte",
+                ",",
+                "wahnsinnig",
+                "aufgeregt",
+                "zu",
+                "sein",
+                ",",
+                "„",
+                "größer",
+                "wird",
+                "es",
+                "nicht",
+                "“",
+                ",",
+                "räumte",
+                "Jennifer",
+                "Lopez",
+                "ein",
+                ",",
+                "seit",
+                "dem",
+                "Auftritt",
+                "von",
+                "Diana",
+                "Ross",
+                "im",
+                "Jahr",
+                "1996",
+                "davon",
+                "geträumt",
+                "zu",
+                "haben",
+                ",",
+                "in",
+                "der",
+                "Halbzeitshow",
+                "der",
+                "Super",
+                "Bowl",
+                "aufzutreten",
+                "."
+            ]
+        },
+        {
+            "begin": 73,
+            "charBegin": 398,
+            "charEnd": 705,
+            "end": 134,
+            "id": 3,
+            "text": "„Jetzt ist es noch außergewöhnlicher, weil die NFL 100 Jahre besteht und ich mit einer anderen Latina performen werde“, schrieb die in New York City geborene Lopez, die den Auftritt mit der Kolumbianerin Shakira kaum erwarten könne, um „zu zeigen, was wir Mädchen auf der größten Bühne der Welt tun können“.",
+            "tokenIds": [
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133
+            ],
+            "tokens": [
+                "„",
+                "Jetzt",
+                "ist",
+                "es",
+                "noch",
+                "außergewöhnlicher",
+                ",",
+                "weil",
+                "die",
+                "NFL",
+                "100",
+                "Jahre",
+                "besteht",
+                "und",
+                "ich",
+                "mit",
+                "einer",
+                "anderen",
+                "Latina",
+                "performen",
+                "werde",
+                "“",
+                ",",
+                "schrieb",
+                "die",
+                "in",
+                "New",
+                "York",
+                "City",
+                "geborene",
+                "Lopez",
+                ",",
+                "die",
+                "den",
+                "Auftritt",
+                "mit",
+                "der",
+                "Kolumbianerin",
+                "Shakira",
+                "kaum",
+                "erwarten",
+                "könne",
+                ",",
+                "um",
+                "„",
+                "zu",
+                "zeigen",
+                ",",
+                "was",
+                "wir",
+                "Mädchen",
+                "auf",
+                "der",
+                "größten",
+                "Bühne",
+                "der",
+                "Welt",
+                "tun",
+                "können",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 134,
+            "charBegin": 708,
+            "charEnd": 933,
+            "end": 174,
+            "id": 4,
+            "text": "Für Shakira, so schrieb diese in einer Stellungnahme, sei es eine Ehre, gemeinsam mit Lopez auf einer der größten Bühnen des Showbusiness weltweit aufzutreten, stellvertretend für Latinos und Latinas aus den USA und der Welt. ",
+            "tokenIds": [
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173
+            ],
+            "tokens": [
+                "Für",
+                "Shakira",
+                ",",
+                "so",
+                "schrieb",
+                "diese",
+                "in",
+                "einer",
+                "Stellungnahme",
+                ",",
+                "sei",
+                "es",
+                "eine",
+                "Ehre",
+                ",",
+                "gemeinsam",
+                "mit",
+                "Lopez",
+                "auf",
+                "einer",
+                "der",
+                "größten",
+                "Bühnen",
+                "des",
+                "Showbusiness",
+                "weltweit",
+                "aufzutreten",
+                ",",
+                "stellvertretend",
+                "für",
+                "Latinos",
+                "und",
+                "Latinas",
+                "aus",
+                "den",
+                "USA",
+                "und",
+                "der",
+                "Welt",
+                "."
+            ]
+        },
+        {
+            "begin": 174,
+            "charBegin": 934,
+            "charEnd": 1090,
+            "end": 196,
+            "id": 5,
+            "text": "Alleine in den Vereinigten Staaten schauen um die einhundert Millionen Fernsehzuschauer die Übertragung an, doch die Veranstaltung wird weltweit übertragen.",
+            "tokenIds": [
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195
+            ],
+            "tokens": [
+                "Alleine",
+                "in",
+                "den",
+                "Vereinigten",
+                "Staaten",
+                "schauen",
+                "um",
+                "die",
+                "einhundert",
+                "Millionen",
+                "Fernsehzuschauer",
+                "die",
+                "Übertragung",
+                "an",
+                ",",
+                "doch",
+                "die",
+                "Veranstaltung",
+                "wird",
+                "weltweit",
+                "übertragen",
+                "."
+            ]
+        },
+        {
+            "begin": 196,
+            "charBegin": 1092,
+            "charEnd": 1245,
+            "end": 220,
+            "id": 6,
+            "text": "Nach Angaben des Hauptsponsors der Halbzeitshow, dem Getränkehersteller Pepsi, werde es der erste gemeinsame Auftritt von Shakira und Jennfer Lopez sein.",
+            "tokenIds": [
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219
+            ],
+            "tokens": [
+                "Nach",
+                "Angaben",
+                "des",
+                "Hauptsponsors",
+                "der",
+                "Halbzeitshow",
+                ",",
+                "dem",
+                "Getränkehersteller",
+                "Pepsi",
+                ",",
+                "werde",
+                "es",
+                "der",
+                "erste",
+                "gemeinsame",
+                "Auftritt",
+                "von",
+                "Shakira",
+                "und",
+                "Jennfer",
+                "Lopez",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "begin": 220,
+            "charBegin": 1247,
+            "charEnd": 1465,
+            "end": 254,
+            "id": 7,
+            "text": "Im Vorfeld der diesjährigen Veranstaltung hatten Rihanna und Pink einen Auftritt abgelehnt, weil sie nicht damit einvestanden waren, wie die Vereine der National Football League mit dem Spieler Colin Kaeperick umgehen. ",
+            "tokenIds": [
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253
+            ],
+            "tokens": [
+                "Im",
+                "Vorfeld",
+                "der",
+                "diesjährigen",
+                "Veranstaltung",
+                "hatten",
+                "Rihanna",
+                "und",
+                "Pink",
+                "einen",
+                "Auftritt",
+                "abgelehnt",
+                ",",
+                "weil",
+                "sie",
+                "nicht",
+                "damit",
+                "einvestanden",
+                "waren",
+                ",",
+                "wie",
+                "die",
+                "Vereine",
+                "der",
+                "National",
+                "Football",
+                "League",
+                "mit",
+                "dem",
+                "Spieler",
+                "Colin",
+                "Kaeperick",
+                "umgehen",
+                "."
+            ]
+        },
+        {
+            "begin": 254,
+            "charBegin": 1466,
+            "charEnd": 1545,
+            "end": 267,
+            "id": 8,
+            "text": "Schließlich war die Gruppe Maroon 5 aufgetreten, mit keineswegs guten Kritiken.",
+            "tokenIds": [
+                254,
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265,
+                266
+            ],
+            "tokens": [
+                "Schließlich",
+                "war",
+                "die",
+                "Gruppe",
+                "Maroon",
+                "5",
+                "aufgetreten",
+                ",",
+                "mit",
+                "keineswegs",
+                "guten",
+                "Kritiken",
+                "."
+            ]
+        },
+        {
+            "begin": 267,
+            "charBegin": 1547,
+            "charEnd": 1802,
+            "end": 309,
+            "id": 9,
+            "text": "Kaeperick, in der Saison 2016\/17 Quarterback bei den San Francisco 49ers, kniete während der gesamten Spielzeit beim Abspielen der amerikanischen Nationalhymne, um so gegen Rassismus und Polizeigewalt zu protestieren, zahlreiche Spieler taten es ihm nach. ",
+            "tokenIds": [
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273,
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292,
+                293,
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306,
+                307,
+                308
+            ],
+            "tokens": [
+                "Kaeperick",
+                ",",
+                "in",
+                "der",
+                "Saison",
+                "2016",
+                "\/",
+                "17",
+                "Quarterback",
+                "bei",
+                "den",
+                "San",
+                "Francisco",
+                "49ers",
+                ",",
+                "kniete",
+                "während",
+                "der",
+                "gesamten",
+                "Spielzeit",
+                "beim",
+                "Abspielen",
+                "der",
+                "amerikanischen",
+                "Nationalhymne",
+                ",",
+                "um",
+                "so",
+                "gegen",
+                "Rassismus",
+                "und",
+                "Polizeigewalt",
+                "zu",
+                "protestieren",
+                ",",
+                "zahlreiche",
+                "Spieler",
+                "taten",
+                "es",
+                "ihm",
+                "nach",
+                "."
+            ]
+        },
+        {
+            "begin": 309,
+            "charBegin": 1803,
+            "charEnd": 1919,
+            "end": 328,
+            "id": 10,
+            "text": "Diese Spieler wurden von US-Präsident Donald Trump scharf angegriffen, und Kaeperick ist seit März 2017 ohne Verein.",
+            "tokenIds": [
+                309,
+                310,
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322,
+                323,
+                324,
+                325,
+                326,
+                327
+            ],
+            "tokens": [
+                "Diese",
+                "Spieler",
+                "wurden",
+                "von",
+                "US-Präsident",
+                "Donald",
+                "Trump",
+                "scharf",
+                "angegriffen",
+                ",",
+                "und",
+                "Kaeperick",
+                "ist",
+                "seit",
+                "März",
+                "2017",
+                "ohne",
+                "Verein",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 16,
+            "id": 1,
+            "sentence": 1,
+            "text": "Halbzeitshow",
+            "word": 2
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 20,
+            "id": 2,
+            "sentence": 1,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 26,
+            "id": 3,
+            "sentence": 1,
+            "text": "Super",
+            "word": 4
+        },
+        {
+            "charBegin": 27,
+            "charEnd": 31,
+            "id": 4,
+            "sentence": 1,
+            "text": "Bowl",
+            "word": 5
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 35,
+            "id": 5,
+            "sentence": 1,
+            "text": "LIV",
+            "word": 6
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 38,
+            "id": 6,
+            "sentence": 1,
+            "text": "am",
+            "word": 7
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 41,
+            "id": 7,
+            "sentence": 1,
+            "text": "2.",
+            "word": 8
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 49,
+            "id": 8,
+            "sentence": 1,
+            "text": "Februar",
+            "word": 9
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 52,
+            "id": 9,
+            "sentence": 1,
+            "text": "im",
+            "word": 10
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 57,
+            "id": 10,
+            "sentence": 1,
+            "text": "Hard",
+            "word": 11
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 62,
+            "id": 11,
+            "sentence": 1,
+            "text": "Rock",
+            "word": 12
+        },
+        {
+            "charBegin": 63,
+            "charEnd": 70,
+            "id": 12,
+            "sentence": 1,
+            "text": "Stadium",
+            "word": 13
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 73,
+            "id": 13,
+            "sentence": 1,
+            "text": "in",
+            "word": 14
+        },
+        {
+            "charBegin": 74,
+            "charEnd": 79,
+            "id": 14,
+            "sentence": 1,
+            "text": "Miami",
+            "word": 15
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 90,
+            "id": 15,
+            "sentence": 1,
+            "text": "bestreiten",
+            "word": 16
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 99,
+            "id": 16,
+            "sentence": 1,
+            "text": "Jennifer",
+            "word": 17
+        },
+        {
+            "charBegin": 100,
+            "charEnd": 105,
+            "id": 17,
+            "sentence": 1,
+            "text": "Lopez",
+            "word": 18
+        },
+        {
+            "charBegin": 106,
+            "charEnd": 109,
+            "id": 18,
+            "sentence": 1,
+            "text": "und",
+            "word": 19
+        },
+        {
+            "charBegin": 110,
+            "charEnd": 117,
+            "id": 19,
+            "sentence": 1,
+            "text": "Shakira",
+            "word": 20
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 118,
+            "id": 20,
+            "sentence": 1,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 119,
+            "charEnd": 122,
+            "id": 21,
+            "sentence": 2,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 130,
+            "id": 22,
+            "sentence": 2,
+            "text": "teilten",
+            "word": 2
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 134,
+            "id": 23,
+            "sentence": 2,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 141,
+            "id": 24,
+            "sentence": 2,
+            "text": "beiden",
+            "word": 4
+        },
+        {
+            "charBegin": 142,
+            "charEnd": 153,
+            "id": 25,
+            "sentence": 2,
+            "text": "Sängerinnen",
+            "word": 5
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 157,
+            "id": 26,
+            "sentence": 2,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 165,
+            "id": 27,
+            "sentence": 2,
+            "text": "Twitter",
+            "word": 7
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 169,
+            "id": 28,
+            "sentence": 2,
+            "text": "mit",
+            "word": 8
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 170,
+            "id": 29,
+            "sentence": 2,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 171,
+            "charEnd": 178,
+            "id": 30,
+            "sentence": 3,
+            "text": "Während",
+            "word": 1
+        },
+        {
+            "charBegin": 179,
+            "charEnd": 186,
+            "id": 31,
+            "sentence": 3,
+            "text": "Shakira",
+            "word": 2
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 195,
+            "id": 32,
+            "sentence": 3,
+            "text": "erklärte",
+            "word": 3
+        },
+        {
+            "charBegin": 195,
+            "charEnd": 196,
+            "id": 33,
+            "sentence": 3,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 197,
+            "charEnd": 207,
+            "id": 34,
+            "sentence": 3,
+            "text": "wahnsinnig",
+            "word": 5
+        },
+        {
+            "charBegin": 208,
+            "charEnd": 217,
+            "id": 35,
+            "sentence": 3,
+            "text": "aufgeregt",
+            "word": 6
+        },
+        {
+            "charBegin": 218,
+            "charEnd": 220,
+            "id": 36,
+            "sentence": 3,
+            "text": "zu",
+            "word": 7
+        },
+        {
+            "charBegin": 221,
+            "charEnd": 225,
+            "id": 37,
+            "sentence": 3,
+            "text": "sein",
+            "word": 8
+        },
+        {
+            "charBegin": 225,
+            "charEnd": 226,
+            "id": 38,
+            "sentence": 3,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 228,
+            "id": 39,
+            "sentence": 3,
+            "text": "„",
+            "word": 10
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 234,
+            "id": 40,
+            "sentence": 3,
+            "text": "größer",
+            "word": 11
+        },
+        {
+            "charBegin": 235,
+            "charEnd": 239,
+            "id": 41,
+            "sentence": 3,
+            "text": "wird",
+            "word": 12
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 242,
+            "id": 42,
+            "sentence": 3,
+            "text": "es",
+            "word": 13
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 248,
+            "id": 43,
+            "sentence": 3,
+            "text": "nicht",
+            "word": 14
+        },
+        {
+            "charBegin": 248,
+            "charEnd": 249,
+            "id": 44,
+            "sentence": 3,
+            "text": "“",
+            "word": 15
+        },
+        {
+            "charBegin": 249,
+            "charEnd": 250,
+            "id": 45,
+            "sentence": 3,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 257,
+            "id": 46,
+            "sentence": 3,
+            "text": "räumte",
+            "word": 17
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 266,
+            "id": 47,
+            "sentence": 3,
+            "text": "Jennifer",
+            "word": 18
+        },
+        {
+            "charBegin": 267,
+            "charEnd": 272,
+            "id": 48,
+            "sentence": 3,
+            "text": "Lopez",
+            "word": 19
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 276,
+            "id": 49,
+            "sentence": 3,
+            "text": "ein",
+            "word": 20
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 277,
+            "id": 50,
+            "sentence": 3,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 282,
+            "id": 51,
+            "sentence": 3,
+            "text": "seit",
+            "word": 22
+        },
+        {
+            "charBegin": 283,
+            "charEnd": 286,
+            "id": 52,
+            "sentence": 3,
+            "text": "dem",
+            "word": 23
+        },
+        {
+            "charBegin": 287,
+            "charEnd": 295,
+            "id": 53,
+            "sentence": 3,
+            "text": "Auftritt",
+            "word": 24
+        },
+        {
+            "charBegin": 296,
+            "charEnd": 299,
+            "id": 54,
+            "sentence": 3,
+            "text": "von",
+            "word": 25
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 305,
+            "id": 55,
+            "sentence": 3,
+            "text": "Diana",
+            "word": 26
+        },
+        {
+            "charBegin": 306,
+            "charEnd": 310,
+            "id": 56,
+            "sentence": 3,
+            "text": "Ross",
+            "word": 27
+        },
+        {
+            "charBegin": 311,
+            "charEnd": 313,
+            "id": 57,
+            "sentence": 3,
+            "text": "im",
+            "word": 28
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 318,
+            "id": 58,
+            "sentence": 3,
+            "text": "Jahr",
+            "word": 29
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 323,
+            "id": 59,
+            "sentence": 3,
+            "text": "1996",
+            "word": 30
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 329,
+            "id": 60,
+            "sentence": 3,
+            "text": "davon",
+            "word": 31
+        },
+        {
+            "charBegin": 330,
+            "charEnd": 338,
+            "id": 61,
+            "sentence": 3,
+            "text": "geträumt",
+            "word": 32
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 341,
+            "id": 62,
+            "sentence": 3,
+            "text": "zu",
+            "word": 33
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 347,
+            "id": 63,
+            "sentence": 3,
+            "text": "haben",
+            "word": 34
+        },
+        {
+            "charBegin": 347,
+            "charEnd": 348,
+            "id": 64,
+            "sentence": 3,
+            "text": ",",
+            "word": 35
+        },
+        {
+            "charBegin": 349,
+            "charEnd": 351,
+            "id": 65,
+            "sentence": 3,
+            "text": "in",
+            "word": 36
+        },
+        {
+            "charBegin": 352,
+            "charEnd": 355,
+            "id": 66,
+            "sentence": 3,
+            "text": "der",
+            "word": 37
+        },
+        {
+            "charBegin": 356,
+            "charEnd": 368,
+            "id": 67,
+            "sentence": 3,
+            "text": "Halbzeitshow",
+            "word": 38
+        },
+        {
+            "charBegin": 369,
+            "charEnd": 372,
+            "id": 68,
+            "sentence": 3,
+            "text": "der",
+            "word": 39
+        },
+        {
+            "charBegin": 373,
+            "charEnd": 378,
+            "id": 69,
+            "sentence": 3,
+            "text": "Super",
+            "word": 40
+        },
+        {
+            "charBegin": 379,
+            "charEnd": 383,
+            "id": 70,
+            "sentence": 3,
+            "text": "Bowl",
+            "word": 41
+        },
+        {
+            "charBegin": 384,
+            "charEnd": 395,
+            "id": 71,
+            "sentence": 3,
+            "text": "aufzutreten",
+            "word": 42
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 396,
+            "id": 72,
+            "sentence": 3,
+            "text": ".",
+            "word": 43
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 399,
+            "id": 73,
+            "sentence": 4,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 404,
+            "id": 74,
+            "sentence": 4,
+            "text": "Jetzt",
+            "word": 2
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 408,
+            "id": 75,
+            "sentence": 4,
+            "text": "ist",
+            "word": 3
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 411,
+            "id": 76,
+            "sentence": 4,
+            "text": "es",
+            "word": 4
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 416,
+            "id": 77,
+            "sentence": 4,
+            "text": "noch",
+            "word": 5
+        },
+        {
+            "charBegin": 417,
+            "charEnd": 434,
+            "id": 78,
+            "sentence": 4,
+            "text": "außergewöhnlicher",
+            "word": 6
+        },
+        {
+            "charBegin": 434,
+            "charEnd": 435,
+            "id": 79,
+            "sentence": 4,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 436,
+            "charEnd": 440,
+            "id": 80,
+            "sentence": 4,
+            "text": "weil",
+            "word": 8
+        },
+        {
+            "charBegin": 441,
+            "charEnd": 444,
+            "id": 81,
+            "sentence": 4,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 445,
+            "charEnd": 448,
+            "id": 82,
+            "sentence": 4,
+            "text": "NFL",
+            "word": 10
+        },
+        {
+            "charBegin": 449,
+            "charEnd": 452,
+            "id": 83,
+            "sentence": 4,
+            "text": "100",
+            "word": 11
+        },
+        {
+            "charBegin": 453,
+            "charEnd": 458,
+            "id": 84,
+            "sentence": 4,
+            "text": "Jahre",
+            "word": 12
+        },
+        {
+            "charBegin": 459,
+            "charEnd": 466,
+            "id": 85,
+            "sentence": 4,
+            "text": "besteht",
+            "word": 13
+        },
+        {
+            "charBegin": 467,
+            "charEnd": 470,
+            "id": 86,
+            "sentence": 4,
+            "text": "und",
+            "word": 14
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 474,
+            "id": 87,
+            "sentence": 4,
+            "text": "ich",
+            "word": 15
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 478,
+            "id": 88,
+            "sentence": 4,
+            "text": "mit",
+            "word": 16
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 484,
+            "id": 89,
+            "sentence": 4,
+            "text": "einer",
+            "word": 17
+        },
+        {
+            "charBegin": 485,
+            "charEnd": 492,
+            "id": 90,
+            "sentence": 4,
+            "text": "anderen",
+            "word": 18
+        },
+        {
+            "charBegin": 493,
+            "charEnd": 499,
+            "id": 91,
+            "sentence": 4,
+            "text": "Latina",
+            "word": 19
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 509,
+            "id": 92,
+            "sentence": 4,
+            "text": "performen",
+            "word": 20
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 515,
+            "id": 93,
+            "sentence": 4,
+            "text": "werde",
+            "word": 21
+        },
+        {
+            "charBegin": 515,
+            "charEnd": 516,
+            "id": 94,
+            "sentence": 4,
+            "text": "“",
+            "word": 22
+        },
+        {
+            "charBegin": 516,
+            "charEnd": 517,
+            "id": 95,
+            "sentence": 4,
+            "text": ",",
+            "word": 23
+        },
+        {
+            "charBegin": 518,
+            "charEnd": 525,
+            "id": 96,
+            "sentence": 4,
+            "text": "schrieb",
+            "word": 24
+        },
+        {
+            "charBegin": 526,
+            "charEnd": 529,
+            "id": 97,
+            "sentence": 4,
+            "text": "die",
+            "word": 25
+        },
+        {
+            "charBegin": 530,
+            "charEnd": 532,
+            "id": 98,
+            "sentence": 4,
+            "text": "in",
+            "word": 26
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 536,
+            "id": 99,
+            "sentence": 4,
+            "text": "New",
+            "word": 27
+        },
+        {
+            "charBegin": 537,
+            "charEnd": 541,
+            "id": 100,
+            "sentence": 4,
+            "text": "York",
+            "word": 28
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 546,
+            "id": 101,
+            "sentence": 4,
+            "text": "City",
+            "word": 29
+        },
+        {
+            "charBegin": 547,
+            "charEnd": 555,
+            "id": 102,
+            "sentence": 4,
+            "text": "geborene",
+            "word": 30
+        },
+        {
+            "charBegin": 556,
+            "charEnd": 561,
+            "id": 103,
+            "sentence": 4,
+            "text": "Lopez",
+            "word": 31
+        },
+        {
+            "charBegin": 561,
+            "charEnd": 562,
+            "id": 104,
+            "sentence": 4,
+            "text": ",",
+            "word": 32
+        },
+        {
+            "charBegin": 563,
+            "charEnd": 566,
+            "id": 105,
+            "sentence": 4,
+            "text": "die",
+            "word": 33
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 570,
+            "id": 106,
+            "sentence": 4,
+            "text": "den",
+            "word": 34
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 579,
+            "id": 107,
+            "sentence": 4,
+            "text": "Auftritt",
+            "word": 35
+        },
+        {
+            "charBegin": 580,
+            "charEnd": 583,
+            "id": 108,
+            "sentence": 4,
+            "text": "mit",
+            "word": 36
+        },
+        {
+            "charBegin": 584,
+            "charEnd": 587,
+            "id": 109,
+            "sentence": 4,
+            "text": "der",
+            "word": 37
+        },
+        {
+            "charBegin": 588,
+            "charEnd": 601,
+            "id": 110,
+            "sentence": 4,
+            "text": "Kolumbianerin",
+            "word": 38
+        },
+        {
+            "charBegin": 602,
+            "charEnd": 609,
+            "id": 111,
+            "sentence": 4,
+            "text": "Shakira",
+            "word": 39
+        },
+        {
+            "charBegin": 610,
+            "charEnd": 614,
+            "id": 112,
+            "sentence": 4,
+            "text": "kaum",
+            "word": 40
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 623,
+            "id": 113,
+            "sentence": 4,
+            "text": "erwarten",
+            "word": 41
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 629,
+            "id": 114,
+            "sentence": 4,
+            "text": "könne",
+            "word": 42
+        },
+        {
+            "charBegin": 629,
+            "charEnd": 630,
+            "id": 115,
+            "sentence": 4,
+            "text": ",",
+            "word": 43
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 633,
+            "id": 116,
+            "sentence": 4,
+            "text": "um",
+            "word": 44
+        },
+        {
+            "charBegin": 634,
+            "charEnd": 635,
+            "id": 117,
+            "sentence": 4,
+            "text": "„",
+            "word": 45
+        },
+        {
+            "charBegin": 635,
+            "charEnd": 637,
+            "id": 118,
+            "sentence": 4,
+            "text": "zu",
+            "word": 46
+        },
+        {
+            "charBegin": 638,
+            "charEnd": 644,
+            "id": 119,
+            "sentence": 4,
+            "text": "zeigen",
+            "word": 47
+        },
+        {
+            "charBegin": 644,
+            "charEnd": 645,
+            "id": 120,
+            "sentence": 4,
+            "text": ",",
+            "word": 48
+        },
+        {
+            "charBegin": 646,
+            "charEnd": 649,
+            "id": 121,
+            "sentence": 4,
+            "text": "was",
+            "word": 49
+        },
+        {
+            "charBegin": 650,
+            "charEnd": 653,
+            "id": 122,
+            "sentence": 4,
+            "text": "wir",
+            "word": 50
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 661,
+            "id": 123,
+            "sentence": 4,
+            "text": "Mädchen",
+            "word": 51
+        },
+        {
+            "charBegin": 662,
+            "charEnd": 665,
+            "id": 124,
+            "sentence": 4,
+            "text": "auf",
+            "word": 52
+        },
+        {
+            "charBegin": 666,
+            "charEnd": 669,
+            "id": 125,
+            "sentence": 4,
+            "text": "der",
+            "word": 53
+        },
+        {
+            "charBegin": 670,
+            "charEnd": 677,
+            "id": 126,
+            "sentence": 4,
+            "text": "größten",
+            "word": 54
+        },
+        {
+            "charBegin": 678,
+            "charEnd": 683,
+            "id": 127,
+            "sentence": 4,
+            "text": "Bühne",
+            "word": 55
+        },
+        {
+            "charBegin": 684,
+            "charEnd": 687,
+            "id": 128,
+            "sentence": 4,
+            "text": "der",
+            "word": 56
+        },
+        {
+            "charBegin": 688,
+            "charEnd": 692,
+            "id": 129,
+            "sentence": 4,
+            "text": "Welt",
+            "word": 57
+        },
+        {
+            "charBegin": 693,
+            "charEnd": 696,
+            "id": 130,
+            "sentence": 4,
+            "text": "tun",
+            "word": 58
+        },
+        {
+            "charBegin": 697,
+            "charEnd": 703,
+            "id": 131,
+            "sentence": 4,
+            "text": "können",
+            "word": 59
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 704,
+            "id": 132,
+            "sentence": 4,
+            "text": "“",
+            "word": 60
+        },
+        {
+            "charBegin": 704,
+            "charEnd": 705,
+            "id": 133,
+            "sentence": 4,
+            "text": ".",
+            "word": 61
+        },
+        {
+            "charBegin": 708,
+            "charEnd": 711,
+            "id": 134,
+            "sentence": 5,
+            "text": "Für",
+            "word": 1
+        },
+        {
+            "charBegin": 712,
+            "charEnd": 719,
+            "id": 135,
+            "sentence": 5,
+            "text": "Shakira",
+            "word": 2
+        },
+        {
+            "charBegin": 719,
+            "charEnd": 720,
+            "id": 136,
+            "sentence": 5,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 723,
+            "id": 137,
+            "sentence": 5,
+            "text": "so",
+            "word": 4
+        },
+        {
+            "charBegin": 724,
+            "charEnd": 731,
+            "id": 138,
+            "sentence": 5,
+            "text": "schrieb",
+            "word": 5
+        },
+        {
+            "charBegin": 732,
+            "charEnd": 737,
+            "id": 139,
+            "sentence": 5,
+            "text": "diese",
+            "word": 6
+        },
+        {
+            "charBegin": 738,
+            "charEnd": 740,
+            "id": 140,
+            "sentence": 5,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 741,
+            "charEnd": 746,
+            "id": 141,
+            "sentence": 5,
+            "text": "einer",
+            "word": 8
+        },
+        {
+            "charBegin": 747,
+            "charEnd": 760,
+            "id": 142,
+            "sentence": 5,
+            "text": "Stellungnahme",
+            "word": 9
+        },
+        {
+            "charBegin": 760,
+            "charEnd": 761,
+            "id": 143,
+            "sentence": 5,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 762,
+            "charEnd": 765,
+            "id": 144,
+            "sentence": 5,
+            "text": "sei",
+            "word": 11
+        },
+        {
+            "charBegin": 766,
+            "charEnd": 768,
+            "id": 145,
+            "sentence": 5,
+            "text": "es",
+            "word": 12
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 773,
+            "id": 146,
+            "sentence": 5,
+            "text": "eine",
+            "word": 13
+        },
+        {
+            "charBegin": 774,
+            "charEnd": 778,
+            "id": 147,
+            "sentence": 5,
+            "text": "Ehre",
+            "word": 14
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 779,
+            "id": 148,
+            "sentence": 5,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 789,
+            "id": 149,
+            "sentence": 5,
+            "text": "gemeinsam",
+            "word": 16
+        },
+        {
+            "charBegin": 790,
+            "charEnd": 793,
+            "id": 150,
+            "sentence": 5,
+            "text": "mit",
+            "word": 17
+        },
+        {
+            "charBegin": 794,
+            "charEnd": 799,
+            "id": 151,
+            "sentence": 5,
+            "text": "Lopez",
+            "word": 18
+        },
+        {
+            "charBegin": 800,
+            "charEnd": 803,
+            "id": 152,
+            "sentence": 5,
+            "text": "auf",
+            "word": 19
+        },
+        {
+            "charBegin": 804,
+            "charEnd": 809,
+            "id": 153,
+            "sentence": 5,
+            "text": "einer",
+            "word": 20
+        },
+        {
+            "charBegin": 810,
+            "charEnd": 813,
+            "id": 154,
+            "sentence": 5,
+            "text": "der",
+            "word": 21
+        },
+        {
+            "charBegin": 814,
+            "charEnd": 821,
+            "id": 155,
+            "sentence": 5,
+            "text": "größten",
+            "word": 22
+        },
+        {
+            "charBegin": 822,
+            "charEnd": 828,
+            "id": 156,
+            "sentence": 5,
+            "text": "Bühnen",
+            "word": 23
+        },
+        {
+            "charBegin": 829,
+            "charEnd": 832,
+            "id": 157,
+            "sentence": 5,
+            "text": "des",
+            "word": 24
+        },
+        {
+            "charBegin": 833,
+            "charEnd": 845,
+            "id": 158,
+            "sentence": 5,
+            "text": "Showbusiness",
+            "word": 25
+        },
+        {
+            "charBegin": 846,
+            "charEnd": 854,
+            "id": 159,
+            "sentence": 5,
+            "text": "weltweit",
+            "word": 26
+        },
+        {
+            "charBegin": 855,
+            "charEnd": 866,
+            "id": 160,
+            "sentence": 5,
+            "text": "aufzutreten",
+            "word": 27
+        },
+        {
+            "charBegin": 866,
+            "charEnd": 867,
+            "id": 161,
+            "sentence": 5,
+            "text": ",",
+            "word": 28
+        },
+        {
+            "charBegin": 868,
+            "charEnd": 883,
+            "id": 162,
+            "sentence": 5,
+            "text": "stellvertretend",
+            "word": 29
+        },
+        {
+            "charBegin": 884,
+            "charEnd": 887,
+            "id": 163,
+            "sentence": 5,
+            "text": "für",
+            "word": 30
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 895,
+            "id": 164,
+            "sentence": 5,
+            "text": "Latinos",
+            "word": 31
+        },
+        {
+            "charBegin": 896,
+            "charEnd": 899,
+            "id": 165,
+            "sentence": 5,
+            "text": "und",
+            "word": 32
+        },
+        {
+            "charBegin": 900,
+            "charEnd": 907,
+            "id": 166,
+            "sentence": 5,
+            "text": "Latinas",
+            "word": 33
+        },
+        {
+            "charBegin": 908,
+            "charEnd": 911,
+            "id": 167,
+            "sentence": 5,
+            "text": "aus",
+            "word": 34
+        },
+        {
+            "charBegin": 912,
+            "charEnd": 915,
+            "id": 168,
+            "sentence": 5,
+            "text": "den",
+            "word": 35
+        },
+        {
+            "charBegin": 916,
+            "charEnd": 919,
+            "id": 169,
+            "sentence": 5,
+            "text": "USA",
+            "word": 36
+        },
+        {
+            "charBegin": 920,
+            "charEnd": 923,
+            "id": 170,
+            "sentence": 5,
+            "text": "und",
+            "word": 37
+        },
+        {
+            "charBegin": 924,
+            "charEnd": 927,
+            "id": 171,
+            "sentence": 5,
+            "text": "der",
+            "word": 38
+        },
+        {
+            "charBegin": 928,
+            "charEnd": 932,
+            "id": 172,
+            "sentence": 5,
+            "text": "Welt",
+            "word": 39
+        },
+        {
+            "charBegin": 932,
+            "charEnd": 933,
+            "id": 173,
+            "sentence": 5,
+            "text": ".",
+            "word": 40
+        },
+        {
+            "charBegin": 934,
+            "charEnd": 941,
+            "id": 174,
+            "sentence": 6,
+            "text": "Alleine",
+            "word": 1
+        },
+        {
+            "charBegin": 942,
+            "charEnd": 944,
+            "id": 175,
+            "sentence": 6,
+            "text": "in",
+            "word": 2
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 948,
+            "id": 176,
+            "sentence": 6,
+            "text": "den",
+            "word": 3
+        },
+        {
+            "charBegin": 949,
+            "charEnd": 960,
+            "id": 177,
+            "sentence": 6,
+            "text": "Vereinigten",
+            "word": 4
+        },
+        {
+            "charBegin": 961,
+            "charEnd": 968,
+            "id": 178,
+            "sentence": 6,
+            "text": "Staaten",
+            "word": 5
+        },
+        {
+            "charBegin": 969,
+            "charEnd": 976,
+            "id": 179,
+            "sentence": 6,
+            "text": "schauen",
+            "word": 6
+        },
+        {
+            "charBegin": 977,
+            "charEnd": 979,
+            "id": 180,
+            "sentence": 6,
+            "text": "um",
+            "word": 7
+        },
+        {
+            "charBegin": 980,
+            "charEnd": 983,
+            "id": 181,
+            "sentence": 6,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 984,
+            "charEnd": 994,
+            "id": 182,
+            "sentence": 6,
+            "text": "einhundert",
+            "word": 9
+        },
+        {
+            "charBegin": 995,
+            "charEnd": 1004,
+            "id": 183,
+            "sentence": 6,
+            "text": "Millionen",
+            "word": 10
+        },
+        {
+            "charBegin": 1005,
+            "charEnd": 1021,
+            "id": 184,
+            "sentence": 6,
+            "text": "Fernsehzuschauer",
+            "word": 11
+        },
+        {
+            "charBegin": 1022,
+            "charEnd": 1025,
+            "id": 185,
+            "sentence": 6,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 1026,
+            "charEnd": 1037,
+            "id": 186,
+            "sentence": 6,
+            "text": "Übertragung",
+            "word": 13
+        },
+        {
+            "charBegin": 1038,
+            "charEnd": 1040,
+            "id": 187,
+            "sentence": 6,
+            "text": "an",
+            "word": 14
+        },
+        {
+            "charBegin": 1040,
+            "charEnd": 1041,
+            "id": 188,
+            "sentence": 6,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 1042,
+            "charEnd": 1046,
+            "id": 189,
+            "sentence": 6,
+            "text": "doch",
+            "word": 16
+        },
+        {
+            "charBegin": 1047,
+            "charEnd": 1050,
+            "id": 190,
+            "sentence": 6,
+            "text": "die",
+            "word": 17
+        },
+        {
+            "charBegin": 1051,
+            "charEnd": 1064,
+            "id": 191,
+            "sentence": 6,
+            "text": "Veranstaltung",
+            "word": 18
+        },
+        {
+            "charBegin": 1065,
+            "charEnd": 1069,
+            "id": 192,
+            "sentence": 6,
+            "text": "wird",
+            "word": 19
+        },
+        {
+            "charBegin": 1070,
+            "charEnd": 1078,
+            "id": 193,
+            "sentence": 6,
+            "text": "weltweit",
+            "word": 20
+        },
+        {
+            "charBegin": 1079,
+            "charEnd": 1089,
+            "id": 194,
+            "sentence": 6,
+            "text": "übertragen",
+            "word": 21
+        },
+        {
+            "charBegin": 1089,
+            "charEnd": 1090,
+            "id": 195,
+            "sentence": 6,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 1092,
+            "charEnd": 1096,
+            "id": 196,
+            "sentence": 7,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 1097,
+            "charEnd": 1104,
+            "id": 197,
+            "sentence": 7,
+            "text": "Angaben",
+            "word": 2
+        },
+        {
+            "charBegin": 1105,
+            "charEnd": 1108,
+            "id": 198,
+            "sentence": 7,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 1109,
+            "charEnd": 1122,
+            "id": 199,
+            "sentence": 7,
+            "text": "Hauptsponsors",
+            "word": 4
+        },
+        {
+            "charBegin": 1123,
+            "charEnd": 1126,
+            "id": 200,
+            "sentence": 7,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 1127,
+            "charEnd": 1139,
+            "id": 201,
+            "sentence": 7,
+            "text": "Halbzeitshow",
+            "word": 6
+        },
+        {
+            "charBegin": 1139,
+            "charEnd": 1140,
+            "id": 202,
+            "sentence": 7,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 1141,
+            "charEnd": 1144,
+            "id": 203,
+            "sentence": 7,
+            "text": "dem",
+            "word": 8
+        },
+        {
+            "charBegin": 1145,
+            "charEnd": 1163,
+            "id": 204,
+            "sentence": 7,
+            "text": "Getränkehersteller",
+            "word": 9
+        },
+        {
+            "charBegin": 1164,
+            "charEnd": 1169,
+            "id": 205,
+            "sentence": 7,
+            "text": "Pepsi",
+            "word": 10
+        },
+        {
+            "charBegin": 1169,
+            "charEnd": 1170,
+            "id": 206,
+            "sentence": 7,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1171,
+            "charEnd": 1176,
+            "id": 207,
+            "sentence": 7,
+            "text": "werde",
+            "word": 12
+        },
+        {
+            "charBegin": 1177,
+            "charEnd": 1179,
+            "id": 208,
+            "sentence": 7,
+            "text": "es",
+            "word": 13
+        },
+        {
+            "charBegin": 1180,
+            "charEnd": 1183,
+            "id": 209,
+            "sentence": 7,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 1184,
+            "charEnd": 1189,
+            "id": 210,
+            "sentence": 7,
+            "text": "erste",
+            "word": 15
+        },
+        {
+            "charBegin": 1190,
+            "charEnd": 1200,
+            "id": 211,
+            "sentence": 7,
+            "text": "gemeinsame",
+            "word": 16
+        },
+        {
+            "charBegin": 1201,
+            "charEnd": 1209,
+            "id": 212,
+            "sentence": 7,
+            "text": "Auftritt",
+            "word": 17
+        },
+        {
+            "charBegin": 1210,
+            "charEnd": 1213,
+            "id": 213,
+            "sentence": 7,
+            "text": "von",
+            "word": 18
+        },
+        {
+            "charBegin": 1214,
+            "charEnd": 1221,
+            "id": 214,
+            "sentence": 7,
+            "text": "Shakira",
+            "word": 19
+        },
+        {
+            "charBegin": 1222,
+            "charEnd": 1225,
+            "id": 215,
+            "sentence": 7,
+            "text": "und",
+            "word": 20
+        },
+        {
+            "charBegin": 1226,
+            "charEnd": 1233,
+            "id": 216,
+            "sentence": 7,
+            "text": "Jennfer",
+            "word": 21
+        },
+        {
+            "charBegin": 1234,
+            "charEnd": 1239,
+            "id": 217,
+            "sentence": 7,
+            "text": "Lopez",
+            "word": 22
+        },
+        {
+            "charBegin": 1240,
+            "charEnd": 1244,
+            "id": 218,
+            "sentence": 7,
+            "text": "sein",
+            "word": 23
+        },
+        {
+            "charBegin": 1244,
+            "charEnd": 1245,
+            "id": 219,
+            "sentence": 7,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 1247,
+            "charEnd": 1249,
+            "id": 220,
+            "sentence": 8,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 1250,
+            "charEnd": 1257,
+            "id": 221,
+            "sentence": 8,
+            "text": "Vorfeld",
+            "word": 2
+        },
+        {
+            "charBegin": 1258,
+            "charEnd": 1261,
+            "id": 222,
+            "sentence": 8,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 1262,
+            "charEnd": 1274,
+            "id": 223,
+            "sentence": 8,
+            "text": "diesjährigen",
+            "word": 4
+        },
+        {
+            "charBegin": 1275,
+            "charEnd": 1288,
+            "id": 224,
+            "sentence": 8,
+            "text": "Veranstaltung",
+            "word": 5
+        },
+        {
+            "charBegin": 1289,
+            "charEnd": 1295,
+            "id": 225,
+            "sentence": 8,
+            "text": "hatten",
+            "word": 6
+        },
+        {
+            "charBegin": 1296,
+            "charEnd": 1303,
+            "id": 226,
+            "sentence": 8,
+            "text": "Rihanna",
+            "word": 7
+        },
+        {
+            "charBegin": 1304,
+            "charEnd": 1307,
+            "id": 227,
+            "sentence": 8,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 1308,
+            "charEnd": 1312,
+            "id": 228,
+            "sentence": 8,
+            "text": "Pink",
+            "word": 9
+        },
+        {
+            "charBegin": 1313,
+            "charEnd": 1318,
+            "id": 229,
+            "sentence": 8,
+            "text": "einen",
+            "word": 10
+        },
+        {
+            "charBegin": 1319,
+            "charEnd": 1327,
+            "id": 230,
+            "sentence": 8,
+            "text": "Auftritt",
+            "word": 11
+        },
+        {
+            "charBegin": 1328,
+            "charEnd": 1337,
+            "id": 231,
+            "sentence": 8,
+            "text": "abgelehnt",
+            "word": 12
+        },
+        {
+            "charBegin": 1337,
+            "charEnd": 1338,
+            "id": 232,
+            "sentence": 8,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 1339,
+            "charEnd": 1343,
+            "id": 233,
+            "sentence": 8,
+            "text": "weil",
+            "word": 14
+        },
+        {
+            "charBegin": 1344,
+            "charEnd": 1347,
+            "id": 234,
+            "sentence": 8,
+            "text": "sie",
+            "word": 15
+        },
+        {
+            "charBegin": 1348,
+            "charEnd": 1353,
+            "id": 235,
+            "sentence": 8,
+            "text": "nicht",
+            "word": 16
+        },
+        {
+            "charBegin": 1354,
+            "charEnd": 1359,
+            "id": 236,
+            "sentence": 8,
+            "text": "damit",
+            "word": 17
+        },
+        {
+            "charBegin": 1360,
+            "charEnd": 1372,
+            "id": 237,
+            "sentence": 8,
+            "text": "einvestanden",
+            "word": 18
+        },
+        {
+            "charBegin": 1373,
+            "charEnd": 1378,
+            "id": 238,
+            "sentence": 8,
+            "text": "waren",
+            "word": 19
+        },
+        {
+            "charBegin": 1378,
+            "charEnd": 1379,
+            "id": 239,
+            "sentence": 8,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 1380,
+            "charEnd": 1383,
+            "id": 240,
+            "sentence": 8,
+            "text": "wie",
+            "word": 21
+        },
+        {
+            "charBegin": 1384,
+            "charEnd": 1387,
+            "id": 241,
+            "sentence": 8,
+            "text": "die",
+            "word": 22
+        },
+        {
+            "charBegin": 1388,
+            "charEnd": 1395,
+            "id": 242,
+            "sentence": 8,
+            "text": "Vereine",
+            "word": 23
+        },
+        {
+            "charBegin": 1396,
+            "charEnd": 1399,
+            "id": 243,
+            "sentence": 8,
+            "text": "der",
+            "word": 24
+        },
+        {
+            "charBegin": 1400,
+            "charEnd": 1408,
+            "id": 244,
+            "sentence": 8,
+            "text": "National",
+            "word": 25
+        },
+        {
+            "charBegin": 1409,
+            "charEnd": 1417,
+            "id": 245,
+            "sentence": 8,
+            "text": "Football",
+            "word": 26
+        },
+        {
+            "charBegin": 1418,
+            "charEnd": 1424,
+            "id": 246,
+            "sentence": 8,
+            "text": "League",
+            "word": 27
+        },
+        {
+            "charBegin": 1425,
+            "charEnd": 1428,
+            "id": 247,
+            "sentence": 8,
+            "text": "mit",
+            "word": 28
+        },
+        {
+            "charBegin": 1429,
+            "charEnd": 1432,
+            "id": 248,
+            "sentence": 8,
+            "text": "dem",
+            "word": 29
+        },
+        {
+            "charBegin": 1433,
+            "charEnd": 1440,
+            "id": 249,
+            "sentence": 8,
+            "text": "Spieler",
+            "word": 30
+        },
+        {
+            "charBegin": 1441,
+            "charEnd": 1446,
+            "id": 250,
+            "sentence": 8,
+            "text": "Colin",
+            "word": 31
+        },
+        {
+            "charBegin": 1447,
+            "charEnd": 1456,
+            "id": 251,
+            "sentence": 8,
+            "text": "Kaeperick",
+            "word": 32
+        },
+        {
+            "charBegin": 1457,
+            "charEnd": 1464,
+            "id": 252,
+            "sentence": 8,
+            "text": "umgehen",
+            "word": 33
+        },
+        {
+            "charBegin": 1464,
+            "charEnd": 1465,
+            "id": 253,
+            "sentence": 8,
+            "text": ".",
+            "word": 34
+        },
+        {
+            "charBegin": 1466,
+            "charEnd": 1477,
+            "id": 254,
+            "sentence": 9,
+            "text": "Schließlich",
+            "word": 1
+        },
+        {
+            "charBegin": 1478,
+            "charEnd": 1481,
+            "id": 255,
+            "sentence": 9,
+            "text": "war",
+            "word": 2
+        },
+        {
+            "charBegin": 1482,
+            "charEnd": 1485,
+            "id": 256,
+            "sentence": 9,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 1486,
+            "charEnd": 1492,
+            "id": 257,
+            "sentence": 9,
+            "text": "Gruppe",
+            "word": 4
+        },
+        {
+            "charBegin": 1493,
+            "charEnd": 1499,
+            "id": 258,
+            "sentence": 9,
+            "text": "Maroon",
+            "word": 5
+        },
+        {
+            "charBegin": 1500,
+            "charEnd": 1501,
+            "id": 259,
+            "sentence": 9,
+            "text": "5",
+            "word": 6
+        },
+        {
+            "charBegin": 1502,
+            "charEnd": 1513,
+            "id": 260,
+            "sentence": 9,
+            "text": "aufgetreten",
+            "word": 7
+        },
+        {
+            "charBegin": 1513,
+            "charEnd": 1514,
+            "id": 261,
+            "sentence": 9,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 1515,
+            "charEnd": 1518,
+            "id": 262,
+            "sentence": 9,
+            "text": "mit",
+            "word": 9
+        },
+        {
+            "charBegin": 1519,
+            "charEnd": 1529,
+            "id": 263,
+            "sentence": 9,
+            "text": "keineswegs",
+            "word": 10
+        },
+        {
+            "charBegin": 1530,
+            "charEnd": 1535,
+            "id": 264,
+            "sentence": 9,
+            "text": "guten",
+            "word": 11
+        },
+        {
+            "charBegin": 1536,
+            "charEnd": 1544,
+            "id": 265,
+            "sentence": 9,
+            "text": "Kritiken",
+            "word": 12
+        },
+        {
+            "charBegin": 1544,
+            "charEnd": 1545,
+            "id": 266,
+            "sentence": 9,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 1547,
+            "charEnd": 1556,
+            "id": 267,
+            "sentence": 10,
+            "text": "Kaeperick",
+            "word": 1
+        },
+        {
+            "charBegin": 1556,
+            "charEnd": 1557,
+            "id": 268,
+            "sentence": 10,
+            "text": ",",
+            "word": 2
+        },
+        {
+            "charBegin": 1558,
+            "charEnd": 1560,
+            "id": 269,
+            "sentence": 10,
+            "text": "in",
+            "word": 3
+        },
+        {
+            "charBegin": 1561,
+            "charEnd": 1564,
+            "id": 270,
+            "sentence": 10,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 1565,
+            "charEnd": 1571,
+            "id": 271,
+            "sentence": 10,
+            "text": "Saison",
+            "word": 5
+        },
+        {
+            "charBegin": 1572,
+            "charEnd": 1576,
+            "id": 272,
+            "sentence": 10,
+            "text": "2016",
+            "word": 6
+        },
+        {
+            "charBegin": 1576,
+            "charEnd": 1577,
+            "id": 273,
+            "sentence": 10,
+            "text": "\/",
+            "word": 7
+        },
+        {
+            "charBegin": 1577,
+            "charEnd": 1579,
+            "id": 274,
+            "sentence": 10,
+            "text": "17",
+            "word": 8
+        },
+        {
+            "charBegin": 1580,
+            "charEnd": 1591,
+            "id": 275,
+            "sentence": 10,
+            "text": "Quarterback",
+            "word": 9
+        },
+        {
+            "charBegin": 1592,
+            "charEnd": 1595,
+            "id": 276,
+            "sentence": 10,
+            "text": "bei",
+            "word": 10
+        },
+        {
+            "charBegin": 1596,
+            "charEnd": 1599,
+            "id": 277,
+            "sentence": 10,
+            "text": "den",
+            "word": 11
+        },
+        {
+            "charBegin": 1600,
+            "charEnd": 1603,
+            "id": 278,
+            "sentence": 10,
+            "text": "San",
+            "word": 12
+        },
+        {
+            "charBegin": 1604,
+            "charEnd": 1613,
+            "id": 279,
+            "sentence": 10,
+            "text": "Francisco",
+            "word": 13
+        },
+        {
+            "charBegin": 1614,
+            "charEnd": 1619,
+            "id": 280,
+            "sentence": 10,
+            "text": "49ers",
+            "word": 14
+        },
+        {
+            "charBegin": 1619,
+            "charEnd": 1620,
+            "id": 281,
+            "sentence": 10,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 1621,
+            "charEnd": 1627,
+            "id": 282,
+            "sentence": 10,
+            "text": "kniete",
+            "word": 16
+        },
+        {
+            "charBegin": 1628,
+            "charEnd": 1635,
+            "id": 283,
+            "sentence": 10,
+            "text": "während",
+            "word": 17
+        },
+        {
+            "charBegin": 1636,
+            "charEnd": 1639,
+            "id": 284,
+            "sentence": 10,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 1640,
+            "charEnd": 1648,
+            "id": 285,
+            "sentence": 10,
+            "text": "gesamten",
+            "word": 19
+        },
+        {
+            "charBegin": 1649,
+            "charEnd": 1658,
+            "id": 286,
+            "sentence": 10,
+            "text": "Spielzeit",
+            "word": 20
+        },
+        {
+            "charBegin": 1659,
+            "charEnd": 1663,
+            "id": 287,
+            "sentence": 10,
+            "text": "beim",
+            "word": 21
+        },
+        {
+            "charBegin": 1664,
+            "charEnd": 1673,
+            "id": 288,
+            "sentence": 10,
+            "text": "Abspielen",
+            "word": 22
+        },
+        {
+            "charBegin": 1674,
+            "charEnd": 1677,
+            "id": 289,
+            "sentence": 10,
+            "text": "der",
+            "word": 23
+        },
+        {
+            "charBegin": 1678,
+            "charEnd": 1692,
+            "id": 290,
+            "sentence": 10,
+            "text": "amerikanischen",
+            "word": 24
+        },
+        {
+            "charBegin": 1693,
+            "charEnd": 1706,
+            "id": 291,
+            "sentence": 10,
+            "text": "Nationalhymne",
+            "word": 25
+        },
+        {
+            "charBegin": 1706,
+            "charEnd": 1707,
+            "id": 292,
+            "sentence": 10,
+            "text": ",",
+            "word": 26
+        },
+        {
+            "charBegin": 1708,
+            "charEnd": 1710,
+            "id": 293,
+            "sentence": 10,
+            "text": "um",
+            "word": 27
+        },
+        {
+            "charBegin": 1711,
+            "charEnd": 1713,
+            "id": 294,
+            "sentence": 10,
+            "text": "so",
+            "word": 28
+        },
+        {
+            "charBegin": 1714,
+            "charEnd": 1719,
+            "id": 295,
+            "sentence": 10,
+            "text": "gegen",
+            "word": 29
+        },
+        {
+            "charBegin": 1720,
+            "charEnd": 1729,
+            "id": 296,
+            "sentence": 10,
+            "text": "Rassismus",
+            "word": 30
+        },
+        {
+            "charBegin": 1730,
+            "charEnd": 1733,
+            "id": 297,
+            "sentence": 10,
+            "text": "und",
+            "word": 31
+        },
+        {
+            "charBegin": 1734,
+            "charEnd": 1747,
+            "id": 298,
+            "sentence": 10,
+            "text": "Polizeigewalt",
+            "word": 32
+        },
+        {
+            "charBegin": 1748,
+            "charEnd": 1750,
+            "id": 299,
+            "sentence": 10,
+            "text": "zu",
+            "word": 33
+        },
+        {
+            "charBegin": 1751,
+            "charEnd": 1763,
+            "id": 300,
+            "sentence": 10,
+            "text": "protestieren",
+            "word": 34
+        },
+        {
+            "charBegin": 1763,
+            "charEnd": 1764,
+            "id": 301,
+            "sentence": 10,
+            "text": ",",
+            "word": 35
+        },
+        {
+            "charBegin": 1765,
+            "charEnd": 1775,
+            "id": 302,
+            "sentence": 10,
+            "text": "zahlreiche",
+            "word": 36
+        },
+        {
+            "charBegin": 1776,
+            "charEnd": 1783,
+            "id": 303,
+            "sentence": 10,
+            "text": "Spieler",
+            "word": 37
+        },
+        {
+            "charBegin": 1784,
+            "charEnd": 1789,
+            "id": 304,
+            "sentence": 10,
+            "text": "taten",
+            "word": 38
+        },
+        {
+            "charBegin": 1790,
+            "charEnd": 1792,
+            "id": 305,
+            "sentence": 10,
+            "text": "es",
+            "word": 39
+        },
+        {
+            "charBegin": 1793,
+            "charEnd": 1796,
+            "id": 306,
+            "sentence": 10,
+            "text": "ihm",
+            "word": 40
+        },
+        {
+            "charBegin": 1797,
+            "charEnd": 1801,
+            "id": 307,
+            "sentence": 10,
+            "text": "nach",
+            "word": 41
+        },
+        {
+            "charBegin": 1801,
+            "charEnd": 1802,
+            "id": 308,
+            "sentence": 10,
+            "text": ".",
+            "word": 42
+        },
+        {
+            "charBegin": 1803,
+            "charEnd": 1808,
+            "id": 309,
+            "sentence": 11,
+            "text": "Diese",
+            "word": 1
+        },
+        {
+            "charBegin": 1809,
+            "charEnd": 1816,
+            "id": 310,
+            "sentence": 11,
+            "text": "Spieler",
+            "word": 2
+        },
+        {
+            "charBegin": 1817,
+            "charEnd": 1823,
+            "id": 311,
+            "sentence": 11,
+            "text": "wurden",
+            "word": 3
+        },
+        {
+            "charBegin": 1824,
+            "charEnd": 1827,
+            "id": 312,
+            "sentence": 11,
+            "text": "von",
+            "word": 4
+        },
+        {
+            "charBegin": 1828,
+            "charEnd": 1840,
+            "id": 313,
+            "sentence": 11,
+            "text": "US-Präsident",
+            "word": 5
+        },
+        {
+            "charBegin": 1841,
+            "charEnd": 1847,
+            "id": 314,
+            "sentence": 11,
+            "text": "Donald",
+            "word": 6
+        },
+        {
+            "charBegin": 1848,
+            "charEnd": 1853,
+            "id": 315,
+            "sentence": 11,
+            "text": "Trump",
+            "word": 7
+        },
+        {
+            "charBegin": 1854,
+            "charEnd": 1860,
+            "id": 316,
+            "sentence": 11,
+            "text": "scharf",
+            "word": 8
+        },
+        {
+            "charBegin": 1861,
+            "charEnd": 1872,
+            "id": 317,
+            "sentence": 11,
+            "text": "angegriffen",
+            "word": 9
+        },
+        {
+            "charBegin": 1872,
+            "charEnd": 1873,
+            "id": 318,
+            "sentence": 11,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 1874,
+            "charEnd": 1877,
+            "id": 319,
+            "sentence": 11,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 1878,
+            "charEnd": 1887,
+            "id": 320,
+            "sentence": 11,
+            "text": "Kaeperick",
+            "word": 12
+        },
+        {
+            "charBegin": 1888,
+            "charEnd": 1891,
+            "id": 321,
+            "sentence": 11,
+            "text": "ist",
+            "word": 13
+        },
+        {
+            "charBegin": 1892,
+            "charEnd": 1896,
+            "id": 322,
+            "sentence": 11,
+            "text": "seit",
+            "word": 14
+        },
+        {
+            "charBegin": 1897,
+            "charEnd": 1901,
+            "id": 323,
+            "sentence": 11,
+            "text": "März",
+            "word": 15
+        },
+        {
+            "charBegin": 1902,
+            "charEnd": 1906,
+            "id": 324,
+            "sentence": 11,
+            "text": "2017",
+            "word": 16
+        },
+        {
+            "charBegin": 1907,
+            "charEnd": 1911,
+            "id": 325,
+            "sentence": 11,
+            "text": "ohne",
+            "word": 17
+        },
+        {
+            "charBegin": 1912,
+            "charEnd": 1918,
+            "id": 326,
+            "sentence": 11,
+            "text": "Verein",
+            "word": 18
+        },
+        {
+            "charBegin": 1918,
+            "charEnd": 1919,
+            "id": 327,
+            "sentence": 11,
+            "text": ".",
+            "word": 19
+        }
+    ]
+}

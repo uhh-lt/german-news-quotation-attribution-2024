@@ -1,0 +1,3051 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 60,
+                        "charBegin": 400,
+                        "charEnd": 402,
+                        "end": 61
+                    }
+                ],
+                "text": "so",
+                "tokenIds": [
+                    60
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 59,
+                        "charBegin": 398,
+                        "charEnd": 417,
+                        "end": 65
+                    }
+                ],
+                "text": "– so der Vorwurf –,",
+                "tokenIds": [
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64
+                ]
+            },
+            "hasNested": true,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 50,
+                        "charBegin": 348,
+                        "charEnd": 397,
+                        "end": 59
+                    },
+                    {
+                        "begin": 65,
+                        "charBegin": 418,
+                        "charEnd": 464,
+                        "end": 72
+                    }
+                ],
+                "text": "Der Sänger ruft in einigen seiner Lieder dazu auf schwule Männer zu verbrennen oder zu ertränken",
+                "tokenIds": [
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 61,
+                        "charBegin": 403,
+                        "charEnd": 414,
+                        "end": 63
+                    }
+                ],
+                "text": "der Vorwurf",
+                "tokenIds": [
+                    61,
+                    62
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 52,
+                        "charBegin": 359,
+                        "charEnd": 363,
+                        "end": 53
+                    },
+                    {
+                        "begin": 57,
+                        "charBegin": 389,
+                        "charEnd": 397,
+                        "end": 59
+                    }
+                ],
+                "text": "ruft dazu auf",
+                "tokenIds": [
+                    52,
+                    57,
+                    58
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 50,
+                        "charBegin": 348,
+                        "charEnd": 397,
+                        "end": 59
+                    }
+                ],
+                "text": "Der Sänger ruft in einigen seiner Lieder dazu auf",
+                "tokenIds": [
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58
+                ]
+            },
+            "hasNested": true,
+            "id": 1,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 65,
+                        "charBegin": 418,
+                        "charEnd": 464,
+                        "end": 72
+                    }
+                ],
+                "text": "schwule Männer zu verbrennen oder zu ertränken",
+                "tokenIds": [
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 50,
+                        "charBegin": 348,
+                        "charEnd": 358,
+                        "end": 52
+                    }
+                ],
+                "text": "Der Sänger",
+                "tokenIds": [
+                    50,
+                    51
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 75,
+                        "charBegin": 479,
+                        "charEnd": 498,
+                        "end": 77
+                    }
+                ],
+                "text": "die Bundesregierung",
+                "tokenIds": [
+                    75,
+                    76
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 74,
+                        "charBegin": 473,
+                        "charEnd": 478,
+                        "end": 75
+                    },
+                    {
+                        "begin": 79,
+                        "charBegin": 508,
+                        "charEnd": 520,
+                        "end": 80
+                    }
+                ],
+                "text": "wurde aufgefordert",
+                "tokenIds": [
+                    74,
+                    79
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 73,
+                        "charBegin": 467,
+                        "charEnd": 521,
+                        "end": 81
+                    }
+                ],
+                "text": "Zudem wurde die Bundesregierung vom LSVD aufgefordert,",
+                "tokenIds": [
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 81,
+                        "charBegin": 522,
+                        "charEnd": 603,
+                        "end": 94
+                    }
+                ],
+                "text": "dafür Sorge zu tragen, dem Jamaikaner die Einreise nach Deutschland zu verweigern",
+                "tokenIds": [
+                    81,
+                    82,
+                    83,
+                    84,
+                    85,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 78,
+                        "charBegin": 503,
+                        "charEnd": 507,
+                        "end": 79
+                    }
+                ],
+                "text": "LSVD",
+                "tokenIds": [
+                    78
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 141,
+                        "charBegin": 885,
+                        "charEnd": 929,
+                        "end": 146
+                    }
+                ],
+                "text": "Staatsanwaltschaft, Polizei und Veranstalter",
+                "tokenIds": [
+                    141,
+                    142,
+                    143,
+                    144,
+                    145
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 135,
+                        "charBegin": 851,
+                        "charEnd": 859,
+                        "end": 137
+                    }
+                ],
+                "text": "heißt es",
+                "tokenIds": [
+                    135,
+                    136
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 134,
+                        "charBegin": 849,
+                        "charEnd": 929,
+                        "end": 146
+                    }
+                ],
+                "text": ", heißt es in dem LSVD-Schreiben an Staatsanwaltschaft, Polizei und Veranstalter",
+                "tokenIds": [
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142,
+                    143,
+                    144,
+                    145
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 95,
+                        "charBegin": 606,
+                        "charEnd": 849,
+                        "end": 134
+                    }
+                ],
+                "text": "„Wir möchten Sie dringend auffordern, dafür Sorge zu tragen, dass die genannten menschenverachtenden Lieder nicht zur Aufführung kommen und dass der Interpret auf der Bühne keine Aussagen macht, die den Tatbestand der Volksverhetzung erfüllen“",
+                "tokenIds": [
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 138,
+                        "charBegin": 863,
+                        "charEnd": 881,
+                        "end": 140
+                    }
+                ],
+                "text": "dem LSVD-Schreiben",
+                "tokenIds": [
+                    138,
+                    139
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 148,
+                        "charBegin": 938,
+                        "charEnd": 947,
+                        "end": 149
+                    },
+                    {
+                        "begin": 152,
+                        "charBegin": 965,
+                        "charEnd": 970,
+                        "end": 153
+                    }
+                ],
+                "text": "plädierte dafür",
+                "tokenIds": [
+                    148,
+                    152
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 147,
+                        "charBegin": 931,
+                        "charEnd": 971,
+                        "end": 154
+                    }
+                ],
+                "text": "Ebenso plädierte auch Volker Beck dafür,",
+                "tokenIds": [
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153
+                ]
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 154,
+                        "charBegin": 972,
+                        "charEnd": 1015,
+                        "end": 160
+                    }
+                ],
+                "text": "Rodney Price kein Einreisevisum zu erteilen",
+                "tokenIds": [
+                    154,
+                    155,
+                    156,
+                    157,
+                    158,
+                    159
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 150,
+                        "charBegin": 953,
+                        "charEnd": 964,
+                        "end": 152
+                    }
+                ],
+                "text": "Volker Beck",
+                "tokenIds": [
+                    150,
+                    151
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "49104 - Volker Beck stellt Strafanzeige gegen den Sänger „Bounty Killer“ (2008-03-20)",
+    "originalText": "Sowohl der erste Parlamentarische Geschäftsführer der grünen Bundestagsfraktion Volker Beck als auch der Lesben- und Schwulenverband Deutschland (LSVD) stellten eine Strafanzeige gegen den Dancehall-Musiker Bounty Killer, der mit bürgerlichen Namen Rodney Basil Price heißt. Anlass waren dessen angekündigte Auftritte in München, Essen und Berlin. Der Sänger ruft in einigen seiner Lieder dazu auf – so der Vorwurf –, schwule Männer zu verbrennen oder zu ertränken.\n\nZudem wurde die Bundesregierung vom LSVD aufgefordert, dafür Sorge zu tragen, dem Jamaikaner die Einreise nach Deutschland zu verweigern.\n\n„Wir möchten Sie dringend auffordern, dafür Sorge zu tragen, dass die genannten menschenverachtenden Lieder nicht zur Aufführung kommen und dass der Interpret auf der Bühne keine Aussagen macht, die den Tatbestand der Volksverhetzung erfüllen“, heißt es in dem LSVD-Schreiben an Staatsanwaltschaft, Polizei und Veranstalter. Ebenso plädierte auch Volker Beck dafür, Rodney Price kein Einreisevisum zu erteilen.\n\nDas Konzert in Essen wurde daraufhin durch den Konzerthallenbetreiber abgesagt. Der Tourneeveranstalter ist dagegen auf der Suche nach einem neuen Veranstaltungsort. Seitens der Kultur- und Veranstaltungszentren „Backstage“ in München wurde noch keine Entscheidung bekannt gegeben und auf vertragliche Bindungen verwiesen. Auch das „Kesselhaus“ der Kulturbrauerei in Berlin äußerte sich bisher noch nicht zu dem Fall. Vier weitere Konzerte sind vom 25. März bis zum 1. April in den Niederlanden geplant.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 274,
+            "end": 38,
+            "id": 0,
+            "text": "Sowohl der erste Parlamentarische Geschäftsführer der grünen Bundestagsfraktion Volker Beck als auch der Lesben- und Schwulenverband Deutschland (LSVD) stellten eine Strafanzeige gegen den Dancehall-Musiker Bounty Killer, der mit bürgerlichen Namen Rodney Basil Price heißt. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37
+            ],
+            "tokens": [
+                "Sowohl",
+                "der",
+                "erste",
+                "Parlamentarische",
+                "Geschäftsführer",
+                "der",
+                "grünen",
+                "Bundestagsfraktion",
+                "Volker",
+                "Beck",
+                "als",
+                "auch",
+                "der",
+                "Lesben-",
+                "und",
+                "Schwulenverband",
+                "Deutschland",
+                "(",
+                "LSVD",
+                ")",
+                "stellten",
+                "eine",
+                "Strafanzeige",
+                "gegen",
+                "den",
+                "Dancehall-Musiker",
+                "Bounty",
+                "Killer",
+                ",",
+                "der",
+                "mit",
+                "bürgerlichen",
+                "Namen",
+                "Rodney",
+                "Basil",
+                "Price",
+                "heißt",
+                "."
+            ]
+        },
+        {
+            "begin": 38,
+            "charBegin": 275,
+            "charEnd": 347,
+            "end": 50,
+            "id": 1,
+            "text": "Anlass waren dessen angekündigte Auftritte in München, Essen und Berlin. ",
+            "tokenIds": [
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ],
+            "tokens": [
+                "Anlass",
+                "waren",
+                "dessen",
+                "angekündigte",
+                "Auftritte",
+                "in",
+                "München",
+                ",",
+                "Essen",
+                "und",
+                "Berlin",
+                "."
+            ]
+        },
+        {
+            "begin": 50,
+            "charBegin": 348,
+            "charEnd": 465,
+            "end": 73,
+            "id": 2,
+            "text": "Der Sänger ruft in einigen seiner Lieder dazu auf – so der Vorwurf –, schwule Männer zu verbrennen oder zu ertränken.",
+            "tokenIds": [
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72
+            ],
+            "tokens": [
+                "Der",
+                "Sänger",
+                "ruft",
+                "in",
+                "einigen",
+                "seiner",
+                "Lieder",
+                "dazu",
+                "auf",
+                "–",
+                "so",
+                "der",
+                "Vorwurf",
+                "–",
+                ",",
+                "schwule",
+                "Männer",
+                "zu",
+                "verbrennen",
+                "oder",
+                "zu",
+                "ertränken",
+                "."
+            ]
+        },
+        {
+            "begin": 73,
+            "charBegin": 467,
+            "charEnd": 604,
+            "end": 95,
+            "id": 3,
+            "text": "Zudem wurde die Bundesregierung vom LSVD aufgefordert, dafür Sorge zu tragen, dem Jamaikaner die Einreise nach Deutschland zu verweigern.",
+            "tokenIds": [
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94
+            ],
+            "tokens": [
+                "Zudem",
+                "wurde",
+                "die",
+                "Bundesregierung",
+                "vom",
+                "LSVD",
+                "aufgefordert",
+                ",",
+                "dafür",
+                "Sorge",
+                "zu",
+                "tragen",
+                ",",
+                "dem",
+                "Jamaikaner",
+                "die",
+                "Einreise",
+                "nach",
+                "Deutschland",
+                "zu",
+                "verweigern",
+                "."
+            ]
+        },
+        {
+            "begin": 95,
+            "charBegin": 606,
+            "charEnd": 930,
+            "end": 147,
+            "id": 4,
+            "text": "„Wir möchten Sie dringend auffordern, dafür Sorge zu tragen, dass die genannten menschenverachtenden Lieder nicht zur Aufführung kommen und dass der Interpret auf der Bühne keine Aussagen macht, die den Tatbestand der Volksverhetzung erfüllen“, heißt es in dem LSVD-Schreiben an Staatsanwaltschaft, Polizei und Veranstalter. ",
+            "tokenIds": [
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146
+            ],
+            "tokens": [
+                "„",
+                "Wir",
+                "möchten",
+                "Sie",
+                "dringend",
+                "auffordern",
+                ",",
+                "dafür",
+                "Sorge",
+                "zu",
+                "tragen",
+                ",",
+                "dass",
+                "die",
+                "genannten",
+                "menschenverachtenden",
+                "Lieder",
+                "nicht",
+                "zur",
+                "Aufführung",
+                "kommen",
+                "und",
+                "dass",
+                "der",
+                "Interpret",
+                "auf",
+                "der",
+                "Bühne",
+                "keine",
+                "Aussagen",
+                "macht",
+                ",",
+                "die",
+                "den",
+                "Tatbestand",
+                "der",
+                "Volksverhetzung",
+                "erfüllen",
+                "“",
+                ",",
+                "heißt",
+                "es",
+                "in",
+                "dem",
+                "LSVD-Schreiben",
+                "an",
+                "Staatsanwaltschaft",
+                ",",
+                "Polizei",
+                "und",
+                "Veranstalter",
+                "."
+            ]
+        },
+        {
+            "begin": 147,
+            "charBegin": 931,
+            "charEnd": 1016,
+            "end": 161,
+            "id": 5,
+            "text": "Ebenso plädierte auch Volker Beck dafür, Rodney Price kein Einreisevisum zu erteilen.",
+            "tokenIds": [
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160
+            ],
+            "tokens": [
+                "Ebenso",
+                "plädierte",
+                "auch",
+                "Volker",
+                "Beck",
+                "dafür",
+                ",",
+                "Rodney",
+                "Price",
+                "kein",
+                "Einreisevisum",
+                "zu",
+                "erteilen",
+                "."
+            ]
+        },
+        {
+            "begin": 161,
+            "charBegin": 1018,
+            "charEnd": 1097,
+            "end": 172,
+            "id": 6,
+            "text": "Das Konzert in Essen wurde daraufhin durch den Konzerthallenbetreiber abgesagt. ",
+            "tokenIds": [
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171
+            ],
+            "tokens": [
+                "Das",
+                "Konzert",
+                "in",
+                "Essen",
+                "wurde",
+                "daraufhin",
+                "durch",
+                "den",
+                "Konzerthallenbetreiber",
+                "abgesagt",
+                "."
+            ]
+        },
+        {
+            "begin": 172,
+            "charBegin": 1098,
+            "charEnd": 1183,
+            "end": 184,
+            "id": 7,
+            "text": "Der Tourneeveranstalter ist dagegen auf der Suche nach einem neuen Veranstaltungsort. ",
+            "tokenIds": [
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183
+            ],
+            "tokens": [
+                "Der",
+                "Tourneeveranstalter",
+                "ist",
+                "dagegen",
+                "auf",
+                "der",
+                "Suche",
+                "nach",
+                "einem",
+                "neuen",
+                "Veranstaltungsort",
+                "."
+            ]
+        },
+        {
+            "begin": 184,
+            "charBegin": 1184,
+            "charEnd": 1340,
+            "end": 206,
+            "id": 8,
+            "text": "Seitens der Kultur- und Veranstaltungszentren „Backstage“ in München wurde noch keine Entscheidung bekannt gegeben und auf vertragliche Bindungen verwiesen. ",
+            "tokenIds": [
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205
+            ],
+            "tokens": [
+                "Seitens",
+                "der",
+                "Kultur-",
+                "und",
+                "Veranstaltungszentren",
+                "„",
+                "Backstage",
+                "“",
+                "in",
+                "München",
+                "wurde",
+                "noch",
+                "keine",
+                "Entscheidung",
+                "bekannt",
+                "gegeben",
+                "und",
+                "auf",
+                "vertragliche",
+                "Bindungen",
+                "verwiesen",
+                "."
+            ]
+        },
+        {
+            "begin": 206,
+            "charBegin": 1341,
+            "charEnd": 1435,
+            "end": 224,
+            "id": 9,
+            "text": "Auch das „Kesselhaus“ der Kulturbrauerei in Berlin äußerte sich bisher noch nicht zu dem Fall. ",
+            "tokenIds": [
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223
+            ],
+            "tokens": [
+                "Auch",
+                "das",
+                "„",
+                "Kesselhaus",
+                "“",
+                "der",
+                "Kulturbrauerei",
+                "in",
+                "Berlin",
+                "äußerte",
+                "sich",
+                "bisher",
+                "noch",
+                "nicht",
+                "zu",
+                "dem",
+                "Fall",
+                "."
+            ]
+        },
+        {
+            "begin": 224,
+            "charBegin": 1436,
+            "charEnd": 1521,
+            "end": 240,
+            "id": 10,
+            "text": "Vier weitere Konzerte sind vom 25. März bis zum 1. April in den Niederlanden geplant.",
+            "tokenIds": [
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239
+            ],
+            "tokens": [
+                "Vier",
+                "weitere",
+                "Konzerte",
+                "sind",
+                "vom",
+                "25.",
+                "März",
+                "bis",
+                "zum",
+                "1.",
+                "April",
+                "in",
+                "den",
+                "Niederlanden",
+                "geplant",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 6,
+            "id": 0,
+            "sentence": 1,
+            "text": "Sowohl",
+            "word": 1
+        },
+        {
+            "charBegin": 7,
+            "charEnd": 10,
+            "id": 1,
+            "sentence": 1,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 11,
+            "charEnd": 16,
+            "id": 2,
+            "sentence": 1,
+            "text": "erste",
+            "word": 3
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 33,
+            "id": 3,
+            "sentence": 1,
+            "text": "Parlamentarische",
+            "word": 4
+        },
+        {
+            "charBegin": 34,
+            "charEnd": 49,
+            "id": 4,
+            "sentence": 1,
+            "text": "Geschäftsführer",
+            "word": 5
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 53,
+            "id": 5,
+            "sentence": 1,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 54,
+            "charEnd": 60,
+            "id": 6,
+            "sentence": 1,
+            "text": "grünen",
+            "word": 7
+        },
+        {
+            "charBegin": 61,
+            "charEnd": 79,
+            "id": 7,
+            "sentence": 1,
+            "text": "Bundestagsfraktion",
+            "word": 8
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 86,
+            "id": 8,
+            "sentence": 1,
+            "text": "Volker",
+            "word": 9
+        },
+        {
+            "charBegin": 87,
+            "charEnd": 91,
+            "id": 9,
+            "sentence": 1,
+            "text": "Beck",
+            "word": 10
+        },
+        {
+            "charBegin": 92,
+            "charEnd": 95,
+            "id": 10,
+            "sentence": 1,
+            "text": "als",
+            "word": 11
+        },
+        {
+            "charBegin": 96,
+            "charEnd": 100,
+            "id": 11,
+            "sentence": 1,
+            "text": "auch",
+            "word": 12
+        },
+        {
+            "charBegin": 101,
+            "charEnd": 104,
+            "id": 12,
+            "sentence": 1,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 105,
+            "charEnd": 112,
+            "id": 13,
+            "sentence": 1,
+            "text": "Lesben-",
+            "word": 14
+        },
+        {
+            "charBegin": 113,
+            "charEnd": 116,
+            "id": 14,
+            "sentence": 1,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 132,
+            "id": 15,
+            "sentence": 1,
+            "text": "Schwulenverband",
+            "word": 16
+        },
+        {
+            "charBegin": 133,
+            "charEnd": 144,
+            "id": 16,
+            "sentence": 1,
+            "text": "Deutschland",
+            "word": 17
+        },
+        {
+            "charBegin": 145,
+            "charEnd": 146,
+            "id": 17,
+            "sentence": 1,
+            "text": "(",
+            "word": 18
+        },
+        {
+            "charBegin": 146,
+            "charEnd": 150,
+            "id": 18,
+            "sentence": 1,
+            "text": "LSVD",
+            "word": 19
+        },
+        {
+            "charBegin": 150,
+            "charEnd": 151,
+            "id": 19,
+            "sentence": 1,
+            "text": ")",
+            "word": 20
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 160,
+            "id": 20,
+            "sentence": 1,
+            "text": "stellten",
+            "word": 21
+        },
+        {
+            "charBegin": 161,
+            "charEnd": 165,
+            "id": 21,
+            "sentence": 1,
+            "text": "eine",
+            "word": 22
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 178,
+            "id": 22,
+            "sentence": 1,
+            "text": "Strafanzeige",
+            "word": 23
+        },
+        {
+            "charBegin": 179,
+            "charEnd": 184,
+            "id": 23,
+            "sentence": 1,
+            "text": "gegen",
+            "word": 24
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 188,
+            "id": 24,
+            "sentence": 1,
+            "text": "den",
+            "word": 25
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 206,
+            "id": 25,
+            "sentence": 1,
+            "text": "Dancehall-Musiker",
+            "word": 26
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 213,
+            "id": 26,
+            "sentence": 1,
+            "text": "Bounty",
+            "word": 27
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 220,
+            "id": 27,
+            "sentence": 1,
+            "text": "Killer",
+            "word": 28
+        },
+        {
+            "charBegin": 220,
+            "charEnd": 221,
+            "id": 28,
+            "sentence": 1,
+            "text": ",",
+            "word": 29
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 225,
+            "id": 29,
+            "sentence": 1,
+            "text": "der",
+            "word": 30
+        },
+        {
+            "charBegin": 226,
+            "charEnd": 229,
+            "id": 30,
+            "sentence": 1,
+            "text": "mit",
+            "word": 31
+        },
+        {
+            "charBegin": 230,
+            "charEnd": 242,
+            "id": 31,
+            "sentence": 1,
+            "text": "bürgerlichen",
+            "word": 32
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 248,
+            "id": 32,
+            "sentence": 1,
+            "text": "Namen",
+            "word": 33
+        },
+        {
+            "charBegin": 249,
+            "charEnd": 255,
+            "id": 33,
+            "sentence": 1,
+            "text": "Rodney",
+            "word": 34
+        },
+        {
+            "charBegin": 256,
+            "charEnd": 261,
+            "id": 34,
+            "sentence": 1,
+            "text": "Basil",
+            "word": 35
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 267,
+            "id": 35,
+            "sentence": 1,
+            "text": "Price",
+            "word": 36
+        },
+        {
+            "charBegin": 268,
+            "charEnd": 273,
+            "id": 36,
+            "sentence": 1,
+            "text": "heißt",
+            "word": 37
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 274,
+            "id": 37,
+            "sentence": 1,
+            "text": ".",
+            "word": 38
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 281,
+            "id": 38,
+            "sentence": 2,
+            "text": "Anlass",
+            "word": 1
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 287,
+            "id": 39,
+            "sentence": 2,
+            "text": "waren",
+            "word": 2
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 294,
+            "id": 40,
+            "sentence": 2,
+            "text": "dessen",
+            "word": 3
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 307,
+            "id": 41,
+            "sentence": 2,
+            "text": "angekündigte",
+            "word": 4
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 317,
+            "id": 42,
+            "sentence": 2,
+            "text": "Auftritte",
+            "word": 5
+        },
+        {
+            "charBegin": 318,
+            "charEnd": 320,
+            "id": 43,
+            "sentence": 2,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 321,
+            "charEnd": 328,
+            "id": 44,
+            "sentence": 2,
+            "text": "München",
+            "word": 7
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 329,
+            "id": 45,
+            "sentence": 2,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 330,
+            "charEnd": 335,
+            "id": 46,
+            "sentence": 2,
+            "text": "Essen",
+            "word": 9
+        },
+        {
+            "charBegin": 336,
+            "charEnd": 339,
+            "id": 47,
+            "sentence": 2,
+            "text": "und",
+            "word": 10
+        },
+        {
+            "charBegin": 340,
+            "charEnd": 346,
+            "id": 48,
+            "sentence": 2,
+            "text": "Berlin",
+            "word": 11
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 347,
+            "id": 49,
+            "sentence": 2,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 348,
+            "charEnd": 351,
+            "id": 50,
+            "sentence": 3,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 352,
+            "charEnd": 358,
+            "id": 51,
+            "sentence": 3,
+            "text": "Sänger",
+            "word": 2
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 363,
+            "id": 52,
+            "sentence": 3,
+            "text": "ruft",
+            "word": 3
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 366,
+            "id": 53,
+            "sentence": 3,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 367,
+            "charEnd": 374,
+            "id": 54,
+            "sentence": 3,
+            "text": "einigen",
+            "word": 5
+        },
+        {
+            "charBegin": 375,
+            "charEnd": 381,
+            "id": 55,
+            "sentence": 3,
+            "text": "seiner",
+            "word": 6
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 388,
+            "id": 56,
+            "sentence": 3,
+            "text": "Lieder",
+            "word": 7
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 393,
+            "id": 57,
+            "sentence": 3,
+            "text": "dazu",
+            "word": 8
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 397,
+            "id": 58,
+            "sentence": 3,
+            "text": "auf",
+            "word": 9
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 399,
+            "id": 59,
+            "sentence": 3,
+            "text": "–",
+            "word": 10
+        },
+        {
+            "charBegin": 400,
+            "charEnd": 402,
+            "id": 60,
+            "sentence": 3,
+            "text": "so",
+            "word": 11
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 406,
+            "id": 61,
+            "sentence": 3,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 414,
+            "id": 62,
+            "sentence": 3,
+            "text": "Vorwurf",
+            "word": 13
+        },
+        {
+            "charBegin": 415,
+            "charEnd": 416,
+            "id": 63,
+            "sentence": 3,
+            "text": "–",
+            "word": 14
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 417,
+            "id": 64,
+            "sentence": 3,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 425,
+            "id": 65,
+            "sentence": 3,
+            "text": "schwule",
+            "word": 16
+        },
+        {
+            "charBegin": 426,
+            "charEnd": 432,
+            "id": 66,
+            "sentence": 3,
+            "text": "Männer",
+            "word": 17
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 435,
+            "id": 67,
+            "sentence": 3,
+            "text": "zu",
+            "word": 18
+        },
+        {
+            "charBegin": 436,
+            "charEnd": 446,
+            "id": 68,
+            "sentence": 3,
+            "text": "verbrennen",
+            "word": 19
+        },
+        {
+            "charBegin": 447,
+            "charEnd": 451,
+            "id": 69,
+            "sentence": 3,
+            "text": "oder",
+            "word": 20
+        },
+        {
+            "charBegin": 452,
+            "charEnd": 454,
+            "id": 70,
+            "sentence": 3,
+            "text": "zu",
+            "word": 21
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 464,
+            "id": 71,
+            "sentence": 3,
+            "text": "ertränken",
+            "word": 22
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 465,
+            "id": 72,
+            "sentence": 3,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 467,
+            "charEnd": 472,
+            "id": 73,
+            "sentence": 4,
+            "text": "Zudem",
+            "word": 1
+        },
+        {
+            "charBegin": 473,
+            "charEnd": 478,
+            "id": 74,
+            "sentence": 4,
+            "text": "wurde",
+            "word": 2
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 482,
+            "id": 75,
+            "sentence": 4,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 483,
+            "charEnd": 498,
+            "id": 76,
+            "sentence": 4,
+            "text": "Bundesregierung",
+            "word": 4
+        },
+        {
+            "charBegin": 499,
+            "charEnd": 502,
+            "id": 77,
+            "sentence": 4,
+            "text": "vom",
+            "word": 5
+        },
+        {
+            "charBegin": 503,
+            "charEnd": 507,
+            "id": 78,
+            "sentence": 4,
+            "text": "LSVD",
+            "word": 6
+        },
+        {
+            "charBegin": 508,
+            "charEnd": 520,
+            "id": 79,
+            "sentence": 4,
+            "text": "aufgefordert",
+            "word": 7
+        },
+        {
+            "charBegin": 520,
+            "charEnd": 521,
+            "id": 80,
+            "sentence": 4,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 527,
+            "id": 81,
+            "sentence": 4,
+            "text": "dafür",
+            "word": 9
+        },
+        {
+            "charBegin": 528,
+            "charEnd": 533,
+            "id": 82,
+            "sentence": 4,
+            "text": "Sorge",
+            "word": 10
+        },
+        {
+            "charBegin": 534,
+            "charEnd": 536,
+            "id": 83,
+            "sentence": 4,
+            "text": "zu",
+            "word": 11
+        },
+        {
+            "charBegin": 537,
+            "charEnd": 543,
+            "id": 84,
+            "sentence": 4,
+            "text": "tragen",
+            "word": 12
+        },
+        {
+            "charBegin": 543,
+            "charEnd": 544,
+            "id": 85,
+            "sentence": 4,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 545,
+            "charEnd": 548,
+            "id": 86,
+            "sentence": 4,
+            "text": "dem",
+            "word": 14
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 559,
+            "id": 87,
+            "sentence": 4,
+            "text": "Jamaikaner",
+            "word": 15
+        },
+        {
+            "charBegin": 560,
+            "charEnd": 563,
+            "id": 88,
+            "sentence": 4,
+            "text": "die",
+            "word": 16
+        },
+        {
+            "charBegin": 564,
+            "charEnd": 572,
+            "id": 89,
+            "sentence": 4,
+            "text": "Einreise",
+            "word": 17
+        },
+        {
+            "charBegin": 573,
+            "charEnd": 577,
+            "id": 90,
+            "sentence": 4,
+            "text": "nach",
+            "word": 18
+        },
+        {
+            "charBegin": 578,
+            "charEnd": 589,
+            "id": 91,
+            "sentence": 4,
+            "text": "Deutschland",
+            "word": 19
+        },
+        {
+            "charBegin": 590,
+            "charEnd": 592,
+            "id": 92,
+            "sentence": 4,
+            "text": "zu",
+            "word": 20
+        },
+        {
+            "charBegin": 593,
+            "charEnd": 603,
+            "id": 93,
+            "sentence": 4,
+            "text": "verweigern",
+            "word": 21
+        },
+        {
+            "charBegin": 603,
+            "charEnd": 604,
+            "id": 94,
+            "sentence": 4,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 606,
+            "charEnd": 607,
+            "id": 95,
+            "sentence": 5,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 607,
+            "charEnd": 610,
+            "id": 96,
+            "sentence": 5,
+            "text": "Wir",
+            "word": 2
+        },
+        {
+            "charBegin": 611,
+            "charEnd": 618,
+            "id": 97,
+            "sentence": 5,
+            "text": "möchten",
+            "word": 3
+        },
+        {
+            "charBegin": 619,
+            "charEnd": 622,
+            "id": 98,
+            "sentence": 5,
+            "text": "Sie",
+            "word": 4
+        },
+        {
+            "charBegin": 623,
+            "charEnd": 631,
+            "id": 99,
+            "sentence": 5,
+            "text": "dringend",
+            "word": 5
+        },
+        {
+            "charBegin": 632,
+            "charEnd": 642,
+            "id": 100,
+            "sentence": 5,
+            "text": "auffordern",
+            "word": 6
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 643,
+            "id": 101,
+            "sentence": 5,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 644,
+            "charEnd": 649,
+            "id": 102,
+            "sentence": 5,
+            "text": "dafür",
+            "word": 8
+        },
+        {
+            "charBegin": 650,
+            "charEnd": 655,
+            "id": 103,
+            "sentence": 5,
+            "text": "Sorge",
+            "word": 9
+        },
+        {
+            "charBegin": 656,
+            "charEnd": 658,
+            "id": 104,
+            "sentence": 5,
+            "text": "zu",
+            "word": 10
+        },
+        {
+            "charBegin": 659,
+            "charEnd": 665,
+            "id": 105,
+            "sentence": 5,
+            "text": "tragen",
+            "word": 11
+        },
+        {
+            "charBegin": 665,
+            "charEnd": 666,
+            "id": 106,
+            "sentence": 5,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 667,
+            "charEnd": 671,
+            "id": 107,
+            "sentence": 5,
+            "text": "dass",
+            "word": 13
+        },
+        {
+            "charBegin": 672,
+            "charEnd": 675,
+            "id": 108,
+            "sentence": 5,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 676,
+            "charEnd": 685,
+            "id": 109,
+            "sentence": 5,
+            "text": "genannten",
+            "word": 15
+        },
+        {
+            "charBegin": 686,
+            "charEnd": 706,
+            "id": 110,
+            "sentence": 5,
+            "text": "menschenverachtenden",
+            "word": 16
+        },
+        {
+            "charBegin": 707,
+            "charEnd": 713,
+            "id": 111,
+            "sentence": 5,
+            "text": "Lieder",
+            "word": 17
+        },
+        {
+            "charBegin": 714,
+            "charEnd": 719,
+            "id": 112,
+            "sentence": 5,
+            "text": "nicht",
+            "word": 18
+        },
+        {
+            "charBegin": 720,
+            "charEnd": 723,
+            "id": 113,
+            "sentence": 5,
+            "text": "zur",
+            "word": 19
+        },
+        {
+            "charBegin": 724,
+            "charEnd": 734,
+            "id": 114,
+            "sentence": 5,
+            "text": "Aufführung",
+            "word": 20
+        },
+        {
+            "charBegin": 735,
+            "charEnd": 741,
+            "id": 115,
+            "sentence": 5,
+            "text": "kommen",
+            "word": 21
+        },
+        {
+            "charBegin": 742,
+            "charEnd": 745,
+            "id": 116,
+            "sentence": 5,
+            "text": "und",
+            "word": 22
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 750,
+            "id": 117,
+            "sentence": 5,
+            "text": "dass",
+            "word": 23
+        },
+        {
+            "charBegin": 751,
+            "charEnd": 754,
+            "id": 118,
+            "sentence": 5,
+            "text": "der",
+            "word": 24
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 764,
+            "id": 119,
+            "sentence": 5,
+            "text": "Interpret",
+            "word": 25
+        },
+        {
+            "charBegin": 765,
+            "charEnd": 768,
+            "id": 120,
+            "sentence": 5,
+            "text": "auf",
+            "word": 26
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 772,
+            "id": 121,
+            "sentence": 5,
+            "text": "der",
+            "word": 27
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 778,
+            "id": 122,
+            "sentence": 5,
+            "text": "Bühne",
+            "word": 28
+        },
+        {
+            "charBegin": 779,
+            "charEnd": 784,
+            "id": 123,
+            "sentence": 5,
+            "text": "keine",
+            "word": 29
+        },
+        {
+            "charBegin": 785,
+            "charEnd": 793,
+            "id": 124,
+            "sentence": 5,
+            "text": "Aussagen",
+            "word": 30
+        },
+        {
+            "charBegin": 794,
+            "charEnd": 799,
+            "id": 125,
+            "sentence": 5,
+            "text": "macht",
+            "word": 31
+        },
+        {
+            "charBegin": 799,
+            "charEnd": 800,
+            "id": 126,
+            "sentence": 5,
+            "text": ",",
+            "word": 32
+        },
+        {
+            "charBegin": 801,
+            "charEnd": 804,
+            "id": 127,
+            "sentence": 5,
+            "text": "die",
+            "word": 33
+        },
+        {
+            "charBegin": 805,
+            "charEnd": 808,
+            "id": 128,
+            "sentence": 5,
+            "text": "den",
+            "word": 34
+        },
+        {
+            "charBegin": 809,
+            "charEnd": 819,
+            "id": 129,
+            "sentence": 5,
+            "text": "Tatbestand",
+            "word": 35
+        },
+        {
+            "charBegin": 820,
+            "charEnd": 823,
+            "id": 130,
+            "sentence": 5,
+            "text": "der",
+            "word": 36
+        },
+        {
+            "charBegin": 824,
+            "charEnd": 839,
+            "id": 131,
+            "sentence": 5,
+            "text": "Volksverhetzung",
+            "word": 37
+        },
+        {
+            "charBegin": 840,
+            "charEnd": 848,
+            "id": 132,
+            "sentence": 5,
+            "text": "erfüllen",
+            "word": 38
+        },
+        {
+            "charBegin": 848,
+            "charEnd": 849,
+            "id": 133,
+            "sentence": 5,
+            "text": "“",
+            "word": 39
+        },
+        {
+            "charBegin": 849,
+            "charEnd": 850,
+            "id": 134,
+            "sentence": 5,
+            "text": ",",
+            "word": 40
+        },
+        {
+            "charBegin": 851,
+            "charEnd": 856,
+            "id": 135,
+            "sentence": 5,
+            "text": "heißt",
+            "word": 41
+        },
+        {
+            "charBegin": 857,
+            "charEnd": 859,
+            "id": 136,
+            "sentence": 5,
+            "text": "es",
+            "word": 42
+        },
+        {
+            "charBegin": 860,
+            "charEnd": 862,
+            "id": 137,
+            "sentence": 5,
+            "text": "in",
+            "word": 43
+        },
+        {
+            "charBegin": 863,
+            "charEnd": 866,
+            "id": 138,
+            "sentence": 5,
+            "text": "dem",
+            "word": 44
+        },
+        {
+            "charBegin": 867,
+            "charEnd": 881,
+            "id": 139,
+            "sentence": 5,
+            "text": "LSVD-Schreiben",
+            "word": 45
+        },
+        {
+            "charBegin": 882,
+            "charEnd": 884,
+            "id": 140,
+            "sentence": 5,
+            "text": "an",
+            "word": 46
+        },
+        {
+            "charBegin": 885,
+            "charEnd": 903,
+            "id": 141,
+            "sentence": 5,
+            "text": "Staatsanwaltschaft",
+            "word": 47
+        },
+        {
+            "charBegin": 903,
+            "charEnd": 904,
+            "id": 142,
+            "sentence": 5,
+            "text": ",",
+            "word": 48
+        },
+        {
+            "charBegin": 905,
+            "charEnd": 912,
+            "id": 143,
+            "sentence": 5,
+            "text": "Polizei",
+            "word": 49
+        },
+        {
+            "charBegin": 913,
+            "charEnd": 916,
+            "id": 144,
+            "sentence": 5,
+            "text": "und",
+            "word": 50
+        },
+        {
+            "charBegin": 917,
+            "charEnd": 929,
+            "id": 145,
+            "sentence": 5,
+            "text": "Veranstalter",
+            "word": 51
+        },
+        {
+            "charBegin": 929,
+            "charEnd": 930,
+            "id": 146,
+            "sentence": 5,
+            "text": ".",
+            "word": 52
+        },
+        {
+            "charBegin": 931,
+            "charEnd": 937,
+            "id": 147,
+            "sentence": 6,
+            "text": "Ebenso",
+            "word": 1
+        },
+        {
+            "charBegin": 938,
+            "charEnd": 947,
+            "id": 148,
+            "sentence": 6,
+            "text": "plädierte",
+            "word": 2
+        },
+        {
+            "charBegin": 948,
+            "charEnd": 952,
+            "id": 149,
+            "sentence": 6,
+            "text": "auch",
+            "word": 3
+        },
+        {
+            "charBegin": 953,
+            "charEnd": 959,
+            "id": 150,
+            "sentence": 6,
+            "text": "Volker",
+            "word": 4
+        },
+        {
+            "charBegin": 960,
+            "charEnd": 964,
+            "id": 151,
+            "sentence": 6,
+            "text": "Beck",
+            "word": 5
+        },
+        {
+            "charBegin": 965,
+            "charEnd": 970,
+            "id": 152,
+            "sentence": 6,
+            "text": "dafür",
+            "word": 6
+        },
+        {
+            "charBegin": 970,
+            "charEnd": 971,
+            "id": 153,
+            "sentence": 6,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 972,
+            "charEnd": 978,
+            "id": 154,
+            "sentence": 6,
+            "text": "Rodney",
+            "word": 8
+        },
+        {
+            "charBegin": 979,
+            "charEnd": 984,
+            "id": 155,
+            "sentence": 6,
+            "text": "Price",
+            "word": 9
+        },
+        {
+            "charBegin": 985,
+            "charEnd": 989,
+            "id": 156,
+            "sentence": 6,
+            "text": "kein",
+            "word": 10
+        },
+        {
+            "charBegin": 990,
+            "charEnd": 1003,
+            "id": 157,
+            "sentence": 6,
+            "text": "Einreisevisum",
+            "word": 11
+        },
+        {
+            "charBegin": 1004,
+            "charEnd": 1006,
+            "id": 158,
+            "sentence": 6,
+            "text": "zu",
+            "word": 12
+        },
+        {
+            "charBegin": 1007,
+            "charEnd": 1015,
+            "id": 159,
+            "sentence": 6,
+            "text": "erteilen",
+            "word": 13
+        },
+        {
+            "charBegin": 1015,
+            "charEnd": 1016,
+            "id": 160,
+            "sentence": 6,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1018,
+            "charEnd": 1021,
+            "id": 161,
+            "sentence": 7,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 1022,
+            "charEnd": 1029,
+            "id": 162,
+            "sentence": 7,
+            "text": "Konzert",
+            "word": 2
+        },
+        {
+            "charBegin": 1030,
+            "charEnd": 1032,
+            "id": 163,
+            "sentence": 7,
+            "text": "in",
+            "word": 3
+        },
+        {
+            "charBegin": 1033,
+            "charEnd": 1038,
+            "id": 164,
+            "sentence": 7,
+            "text": "Essen",
+            "word": 4
+        },
+        {
+            "charBegin": 1039,
+            "charEnd": 1044,
+            "id": 165,
+            "sentence": 7,
+            "text": "wurde",
+            "word": 5
+        },
+        {
+            "charBegin": 1045,
+            "charEnd": 1054,
+            "id": 166,
+            "sentence": 7,
+            "text": "daraufhin",
+            "word": 6
+        },
+        {
+            "charBegin": 1055,
+            "charEnd": 1060,
+            "id": 167,
+            "sentence": 7,
+            "text": "durch",
+            "word": 7
+        },
+        {
+            "charBegin": 1061,
+            "charEnd": 1064,
+            "id": 168,
+            "sentence": 7,
+            "text": "den",
+            "word": 8
+        },
+        {
+            "charBegin": 1065,
+            "charEnd": 1087,
+            "id": 169,
+            "sentence": 7,
+            "text": "Konzerthallenbetreiber",
+            "word": 9
+        },
+        {
+            "charBegin": 1088,
+            "charEnd": 1096,
+            "id": 170,
+            "sentence": 7,
+            "text": "abgesagt",
+            "word": 10
+        },
+        {
+            "charBegin": 1096,
+            "charEnd": 1097,
+            "id": 171,
+            "sentence": 7,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 1098,
+            "charEnd": 1101,
+            "id": 172,
+            "sentence": 8,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1102,
+            "charEnd": 1121,
+            "id": 173,
+            "sentence": 8,
+            "text": "Tourneeveranstalter",
+            "word": 2
+        },
+        {
+            "charBegin": 1122,
+            "charEnd": 1125,
+            "id": 174,
+            "sentence": 8,
+            "text": "ist",
+            "word": 3
+        },
+        {
+            "charBegin": 1126,
+            "charEnd": 1133,
+            "id": 175,
+            "sentence": 8,
+            "text": "dagegen",
+            "word": 4
+        },
+        {
+            "charBegin": 1134,
+            "charEnd": 1137,
+            "id": 176,
+            "sentence": 8,
+            "text": "auf",
+            "word": 5
+        },
+        {
+            "charBegin": 1138,
+            "charEnd": 1141,
+            "id": 177,
+            "sentence": 8,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 1142,
+            "charEnd": 1147,
+            "id": 178,
+            "sentence": 8,
+            "text": "Suche",
+            "word": 7
+        },
+        {
+            "charBegin": 1148,
+            "charEnd": 1152,
+            "id": 179,
+            "sentence": 8,
+            "text": "nach",
+            "word": 8
+        },
+        {
+            "charBegin": 1153,
+            "charEnd": 1158,
+            "id": 180,
+            "sentence": 8,
+            "text": "einem",
+            "word": 9
+        },
+        {
+            "charBegin": 1159,
+            "charEnd": 1164,
+            "id": 181,
+            "sentence": 8,
+            "text": "neuen",
+            "word": 10
+        },
+        {
+            "charBegin": 1165,
+            "charEnd": 1182,
+            "id": 182,
+            "sentence": 8,
+            "text": "Veranstaltungsort",
+            "word": 11
+        },
+        {
+            "charBegin": 1182,
+            "charEnd": 1183,
+            "id": 183,
+            "sentence": 8,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 1184,
+            "charEnd": 1191,
+            "id": 184,
+            "sentence": 9,
+            "text": "Seitens",
+            "word": 1
+        },
+        {
+            "charBegin": 1192,
+            "charEnd": 1195,
+            "id": 185,
+            "sentence": 9,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 1196,
+            "charEnd": 1203,
+            "id": 186,
+            "sentence": 9,
+            "text": "Kultur-",
+            "word": 3
+        },
+        {
+            "charBegin": 1204,
+            "charEnd": 1207,
+            "id": 187,
+            "sentence": 9,
+            "text": "und",
+            "word": 4
+        },
+        {
+            "charBegin": 1208,
+            "charEnd": 1229,
+            "id": 188,
+            "sentence": 9,
+            "text": "Veranstaltungszentren",
+            "word": 5
+        },
+        {
+            "charBegin": 1230,
+            "charEnd": 1231,
+            "id": 189,
+            "sentence": 9,
+            "text": "„",
+            "word": 6
+        },
+        {
+            "charBegin": 1231,
+            "charEnd": 1240,
+            "id": 190,
+            "sentence": 9,
+            "text": "Backstage",
+            "word": 7
+        },
+        {
+            "charBegin": 1240,
+            "charEnd": 1241,
+            "id": 191,
+            "sentence": 9,
+            "text": "“",
+            "word": 8
+        },
+        {
+            "charBegin": 1242,
+            "charEnd": 1244,
+            "id": 192,
+            "sentence": 9,
+            "text": "in",
+            "word": 9
+        },
+        {
+            "charBegin": 1245,
+            "charEnd": 1252,
+            "id": 193,
+            "sentence": 9,
+            "text": "München",
+            "word": 10
+        },
+        {
+            "charBegin": 1253,
+            "charEnd": 1258,
+            "id": 194,
+            "sentence": 9,
+            "text": "wurde",
+            "word": 11
+        },
+        {
+            "charBegin": 1259,
+            "charEnd": 1263,
+            "id": 195,
+            "sentence": 9,
+            "text": "noch",
+            "word": 12
+        },
+        {
+            "charBegin": 1264,
+            "charEnd": 1269,
+            "id": 196,
+            "sentence": 9,
+            "text": "keine",
+            "word": 13
+        },
+        {
+            "charBegin": 1270,
+            "charEnd": 1282,
+            "id": 197,
+            "sentence": 9,
+            "text": "Entscheidung",
+            "word": 14
+        },
+        {
+            "charBegin": 1283,
+            "charEnd": 1290,
+            "id": 198,
+            "sentence": 9,
+            "text": "bekannt",
+            "word": 15
+        },
+        {
+            "charBegin": 1291,
+            "charEnd": 1298,
+            "id": 199,
+            "sentence": 9,
+            "text": "gegeben",
+            "word": 16
+        },
+        {
+            "charBegin": 1299,
+            "charEnd": 1302,
+            "id": 200,
+            "sentence": 9,
+            "text": "und",
+            "word": 17
+        },
+        {
+            "charBegin": 1303,
+            "charEnd": 1306,
+            "id": 201,
+            "sentence": 9,
+            "text": "auf",
+            "word": 18
+        },
+        {
+            "charBegin": 1307,
+            "charEnd": 1319,
+            "id": 202,
+            "sentence": 9,
+            "text": "vertragliche",
+            "word": 19
+        },
+        {
+            "charBegin": 1320,
+            "charEnd": 1329,
+            "id": 203,
+            "sentence": 9,
+            "text": "Bindungen",
+            "word": 20
+        },
+        {
+            "charBegin": 1330,
+            "charEnd": 1339,
+            "id": 204,
+            "sentence": 9,
+            "text": "verwiesen",
+            "word": 21
+        },
+        {
+            "charBegin": 1339,
+            "charEnd": 1340,
+            "id": 205,
+            "sentence": 9,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 1341,
+            "charEnd": 1345,
+            "id": 206,
+            "sentence": 10,
+            "text": "Auch",
+            "word": 1
+        },
+        {
+            "charBegin": 1346,
+            "charEnd": 1349,
+            "id": 207,
+            "sentence": 10,
+            "text": "das",
+            "word": 2
+        },
+        {
+            "charBegin": 1350,
+            "charEnd": 1351,
+            "id": 208,
+            "sentence": 10,
+            "text": "„",
+            "word": 3
+        },
+        {
+            "charBegin": 1351,
+            "charEnd": 1361,
+            "id": 209,
+            "sentence": 10,
+            "text": "Kesselhaus",
+            "word": 4
+        },
+        {
+            "charBegin": 1361,
+            "charEnd": 1362,
+            "id": 210,
+            "sentence": 10,
+            "text": "“",
+            "word": 5
+        },
+        {
+            "charBegin": 1363,
+            "charEnd": 1366,
+            "id": 211,
+            "sentence": 10,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 1367,
+            "charEnd": 1381,
+            "id": 212,
+            "sentence": 10,
+            "text": "Kulturbrauerei",
+            "word": 7
+        },
+        {
+            "charBegin": 1382,
+            "charEnd": 1384,
+            "id": 213,
+            "sentence": 10,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 1385,
+            "charEnd": 1391,
+            "id": 214,
+            "sentence": 10,
+            "text": "Berlin",
+            "word": 9
+        },
+        {
+            "charBegin": 1392,
+            "charEnd": 1399,
+            "id": 215,
+            "sentence": 10,
+            "text": "äußerte",
+            "word": 10
+        },
+        {
+            "charBegin": 1400,
+            "charEnd": 1404,
+            "id": 216,
+            "sentence": 10,
+            "text": "sich",
+            "word": 11
+        },
+        {
+            "charBegin": 1405,
+            "charEnd": 1411,
+            "id": 217,
+            "sentence": 10,
+            "text": "bisher",
+            "word": 12
+        },
+        {
+            "charBegin": 1412,
+            "charEnd": 1416,
+            "id": 218,
+            "sentence": 10,
+            "text": "noch",
+            "word": 13
+        },
+        {
+            "charBegin": 1417,
+            "charEnd": 1422,
+            "id": 219,
+            "sentence": 10,
+            "text": "nicht",
+            "word": 14
+        },
+        {
+            "charBegin": 1423,
+            "charEnd": 1425,
+            "id": 220,
+            "sentence": 10,
+            "text": "zu",
+            "word": 15
+        },
+        {
+            "charBegin": 1426,
+            "charEnd": 1429,
+            "id": 221,
+            "sentence": 10,
+            "text": "dem",
+            "word": 16
+        },
+        {
+            "charBegin": 1430,
+            "charEnd": 1434,
+            "id": 222,
+            "sentence": 10,
+            "text": "Fall",
+            "word": 17
+        },
+        {
+            "charBegin": 1434,
+            "charEnd": 1435,
+            "id": 223,
+            "sentence": 10,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 1436,
+            "charEnd": 1440,
+            "id": 224,
+            "sentence": 11,
+            "text": "Vier",
+            "word": 1
+        },
+        {
+            "charBegin": 1441,
+            "charEnd": 1448,
+            "id": 225,
+            "sentence": 11,
+            "text": "weitere",
+            "word": 2
+        },
+        {
+            "charBegin": 1449,
+            "charEnd": 1457,
+            "id": 226,
+            "sentence": 11,
+            "text": "Konzerte",
+            "word": 3
+        },
+        {
+            "charBegin": 1458,
+            "charEnd": 1462,
+            "id": 227,
+            "sentence": 11,
+            "text": "sind",
+            "word": 4
+        },
+        {
+            "charBegin": 1463,
+            "charEnd": 1466,
+            "id": 228,
+            "sentence": 11,
+            "text": "vom",
+            "word": 5
+        },
+        {
+            "charBegin": 1467,
+            "charEnd": 1470,
+            "id": 229,
+            "sentence": 11,
+            "text": "25.",
+            "word": 6
+        },
+        {
+            "charBegin": 1471,
+            "charEnd": 1475,
+            "id": 230,
+            "sentence": 11,
+            "text": "März",
+            "word": 7
+        },
+        {
+            "charBegin": 1476,
+            "charEnd": 1479,
+            "id": 231,
+            "sentence": 11,
+            "text": "bis",
+            "word": 8
+        },
+        {
+            "charBegin": 1480,
+            "charEnd": 1483,
+            "id": 232,
+            "sentence": 11,
+            "text": "zum",
+            "word": 9
+        },
+        {
+            "charBegin": 1484,
+            "charEnd": 1486,
+            "id": 233,
+            "sentence": 11,
+            "text": "1.",
+            "word": 10
+        },
+        {
+            "charBegin": 1487,
+            "charEnd": 1492,
+            "id": 234,
+            "sentence": 11,
+            "text": "April",
+            "word": 11
+        },
+        {
+            "charBegin": 1493,
+            "charEnd": 1495,
+            "id": 235,
+            "sentence": 11,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 1496,
+            "charEnd": 1499,
+            "id": 236,
+            "sentence": 11,
+            "text": "den",
+            "word": 13
+        },
+        {
+            "charBegin": 1500,
+            "charEnd": 1512,
+            "id": 237,
+            "sentence": 11,
+            "text": "Niederlanden",
+            "word": 14
+        },
+        {
+            "charBegin": 1513,
+            "charEnd": 1520,
+            "id": 238,
+            "sentence": 11,
+            "text": "geplant",
+            "word": 15
+        },
+        {
+            "charBegin": 1520,
+            "charEnd": 1521,
+            "id": 239,
+            "sentence": 11,
+            "text": ".",
+            "word": 16
+        }
+    ]
+}

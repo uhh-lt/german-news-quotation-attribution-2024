@@ -1,0 +1,1959 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 84,
+                        "charBegin": 547,
+                        "charEnd": 551,
+                        "end": 85
+                    }
+                ],
+                "text": "nach",
+                "tokenIds": [
+                    84
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 84,
+                        "charBegin": 547,
+                        "charEnd": 567,
+                        "end": 86
+                    }
+                ],
+                "text": "nach Expertenmeinung",
+                "tokenIds": [
+                    84,
+                    85
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 81,
+                        "charBegin": 529,
+                        "charEnd": 546,
+                        "end": 84
+                    },
+                    {
+                        "begin": 86,
+                        "charBegin": 568,
+                        "charEnd": 677,
+                        "end": 100
+                    }
+                ],
+                "text": "Den Bildern kommt historische Bedeutung zu, da sie erstmals das Alltagsleben der Nationalsozialisten in Auschwitz dokumentieren",
+                "tokenIds": [
+                    81,
+                    82,
+                    83,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    98,
+                    99
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 85,
+                        "charBegin": 552,
+                        "charEnd": 567,
+                        "end": 86
+                    }
+                ],
+                "text": "Expertenmeinung",
+                "tokenIds": [
+                    85
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "44364 - Auschwitz-Bilderalbum von Paul Höcker veröffentlicht (2007-09-22)",
+    "originalText": "Ein Bilderalbum des während der Zeit des Nationalsozialismus im Vernichtungslager in Auschwitz als Adjutant tätigen SS-Offiziers Karl Höcker wurde erstmals veröffentlicht.\n\nDas Washingtoner United States Holocaust Memorial Museum hat insgesamt 116 Bilder veröffentlicht. Auch Josef Mengele ist auf den Bildern, die allesamt nach Dienstschluss entstanden sind, zu sehen. Die Bilder waren von einem anonym bleiben wollenden Spender, der in diesem Sommer verstorben ist, 1946 in einer Wohnung in Frankfurt am Main gefunden worden.\n\nDen Bildern kommt nach Expertenmeinung historische Bedeutung zu, da sie erstmals das Alltagsleben der Nationalsozialisten in Auschwitz dokumentieren. Auf einem der Bilder ist etwa Mengele lachend zwischen Richard Baer, der Höckers Vorgesetzter war, und Rudolf Höß abgebildet.\n\nKarl Höcker wurde in einem Strafverfahren im Rahmen des Frankfurter Auschwitz-Prozesses zu einer siebenjährigen Freiheitsstrafe verurteilt, die er bis 1970 verbüßte. Im Jahr 2000 starb er im Alter von 88 Jahren.\n\nDie Bilder des Albums sind auf der Website von Welt Online zu sehen (siehe Quelle).",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 171,
+            "end": 22,
+            "id": 0,
+            "text": "Ein Bilderalbum des während der Zeit des Nationalsozialismus im Vernichtungslager in Auschwitz als Adjutant tätigen SS-Offiziers Karl Höcker wurde erstmals veröffentlicht.",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Ein",
+                "Bilderalbum",
+                "des",
+                "während",
+                "der",
+                "Zeit",
+                "des",
+                "Nationalsozialismus",
+                "im",
+                "Vernichtungslager",
+                "in",
+                "Auschwitz",
+                "als",
+                "Adjutant",
+                "tätigen",
+                "SS-Offiziers",
+                "Karl",
+                "Höcker",
+                "wurde",
+                "erstmals",
+                "veröffentlicht",
+                "."
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 173,
+            "charEnd": 270,
+            "end": 35,
+            "id": 1,
+            "text": "Das Washingtoner United States Holocaust Memorial Museum hat insgesamt 116 Bilder veröffentlicht. ",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "tokens": [
+                "Das",
+                "Washingtoner",
+                "United",
+                "States",
+                "Holocaust",
+                "Memorial",
+                "Museum",
+                "hat",
+                "insgesamt",
+                "116",
+                "Bilder",
+                "veröffentlicht",
+                "."
+            ]
+        },
+        {
+            "begin": 35,
+            "charBegin": 271,
+            "charEnd": 369,
+            "end": 53,
+            "id": 2,
+            "text": "Auch Josef Mengele ist auf den Bildern, die allesamt nach Dienstschluss entstanden sind, zu sehen. ",
+            "tokenIds": [
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52
+            ],
+            "tokens": [
+                "Auch",
+                "Josef",
+                "Mengele",
+                "ist",
+                "auf",
+                "den",
+                "Bildern",
+                ",",
+                "die",
+                "allesamt",
+                "nach",
+                "Dienstschluss",
+                "entstanden",
+                "sind",
+                ",",
+                "zu",
+                "sehen",
+                "."
+            ]
+        },
+        {
+            "begin": 53,
+            "charBegin": 370,
+            "charEnd": 527,
+            "end": 81,
+            "id": 3,
+            "text": "Die Bilder waren von einem anonym bleiben wollenden Spender, der in diesem Sommer verstorben ist, 1946 in einer Wohnung in Frankfurt am Main gefunden worden.",
+            "tokenIds": [
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80
+            ],
+            "tokens": [
+                "Die",
+                "Bilder",
+                "waren",
+                "von",
+                "einem",
+                "anonym",
+                "bleiben",
+                "wollenden",
+                "Spender",
+                ",",
+                "der",
+                "in",
+                "diesem",
+                "Sommer",
+                "verstorben",
+                "ist",
+                ",",
+                "1946",
+                "in",
+                "einer",
+                "Wohnung",
+                "in",
+                "Frankfurt",
+                "am",
+                "Main",
+                "gefunden",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "begin": 81,
+            "charBegin": 529,
+            "charEnd": 678,
+            "end": 101,
+            "id": 4,
+            "text": "Den Bildern kommt nach Expertenmeinung historische Bedeutung zu, da sie erstmals das Alltagsleben der Nationalsozialisten in Auschwitz dokumentieren. ",
+            "tokenIds": [
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100
+            ],
+            "tokens": [
+                "Den",
+                "Bildern",
+                "kommt",
+                "nach",
+                "Expertenmeinung",
+                "historische",
+                "Bedeutung",
+                "zu",
+                ",",
+                "da",
+                "sie",
+                "erstmals",
+                "das",
+                "Alltagsleben",
+                "der",
+                "Nationalsozialisten",
+                "in",
+                "Auschwitz",
+                "dokumentieren",
+                "."
+            ]
+        },
+        {
+            "begin": 101,
+            "charBegin": 679,
+            "charEnd": 804,
+            "end": 123,
+            "id": 5,
+            "text": "Auf einem der Bilder ist etwa Mengele lachend zwischen Richard Baer, der Höckers Vorgesetzter war, und Rudolf Höß abgebildet.",
+            "tokenIds": [
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122
+            ],
+            "tokens": [
+                "Auf",
+                "einem",
+                "der",
+                "Bilder",
+                "ist",
+                "etwa",
+                "Mengele",
+                "lachend",
+                "zwischen",
+                "Richard",
+                "Baer",
+                ",",
+                "der",
+                "Höckers",
+                "Vorgesetzter",
+                "war",
+                ",",
+                "und",
+                "Rudolf",
+                "Höß",
+                "abgebildet",
+                "."
+            ]
+        },
+        {
+            "begin": 123,
+            "charBegin": 806,
+            "charEnd": 971,
+            "end": 146,
+            "id": 6,
+            "text": "Karl Höcker wurde in einem Strafverfahren im Rahmen des Frankfurter Auschwitz-Prozesses zu einer siebenjährigen Freiheitsstrafe verurteilt, die er bis 1970 verbüßte. ",
+            "tokenIds": [
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145
+            ],
+            "tokens": [
+                "Karl",
+                "Höcker",
+                "wurde",
+                "in",
+                "einem",
+                "Strafverfahren",
+                "im",
+                "Rahmen",
+                "des",
+                "Frankfurter",
+                "Auschwitz-Prozesses",
+                "zu",
+                "einer",
+                "siebenjährigen",
+                "Freiheitsstrafe",
+                "verurteilt",
+                ",",
+                "die",
+                "er",
+                "bis",
+                "1970",
+                "verbüßte",
+                "."
+            ]
+        },
+        {
+            "begin": 146,
+            "charBegin": 972,
+            "charEnd": 1017,
+            "end": 157,
+            "id": 7,
+            "text": "Im Jahr 2000 starb er im Alter von 88 Jahren.",
+            "tokenIds": [
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156
+            ],
+            "tokens": [
+                "Im",
+                "Jahr",
+                "2000",
+                "starb",
+                "er",
+                "im",
+                "Alter",
+                "von",
+                "88",
+                "Jahren",
+                "."
+            ]
+        },
+        {
+            "begin": 157,
+            "charBegin": 1019,
+            "charEnd": 1102,
+            "end": 175,
+            "id": 8,
+            "text": "Die Bilder des Albums sind auf der Website von Welt Online zu sehen (siehe Quelle).",
+            "tokenIds": [
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174
+            ],
+            "tokens": [
+                "Die",
+                "Bilder",
+                "des",
+                "Albums",
+                "sind",
+                "auf",
+                "der",
+                "Website",
+                "von",
+                "Welt",
+                "Online",
+                "zu",
+                "sehen",
+                "(",
+                "siehe",
+                "Quelle",
+                ")",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 15,
+            "id": 1,
+            "sentence": 1,
+            "text": "Bilderalbum",
+            "word": 2
+        },
+        {
+            "charBegin": 16,
+            "charEnd": 19,
+            "id": 2,
+            "sentence": 1,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 20,
+            "charEnd": 27,
+            "id": 3,
+            "sentence": 1,
+            "text": "während",
+            "word": 4
+        },
+        {
+            "charBegin": 28,
+            "charEnd": 31,
+            "id": 4,
+            "sentence": 1,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 36,
+            "id": 5,
+            "sentence": 1,
+            "text": "Zeit",
+            "word": 6
+        },
+        {
+            "charBegin": 37,
+            "charEnd": 40,
+            "id": 6,
+            "sentence": 1,
+            "text": "des",
+            "word": 7
+        },
+        {
+            "charBegin": 41,
+            "charEnd": 60,
+            "id": 7,
+            "sentence": 1,
+            "text": "Nationalsozialismus",
+            "word": 8
+        },
+        {
+            "charBegin": 61,
+            "charEnd": 63,
+            "id": 8,
+            "sentence": 1,
+            "text": "im",
+            "word": 9
+        },
+        {
+            "charBegin": 64,
+            "charEnd": 81,
+            "id": 9,
+            "sentence": 1,
+            "text": "Vernichtungslager",
+            "word": 10
+        },
+        {
+            "charBegin": 82,
+            "charEnd": 84,
+            "id": 10,
+            "sentence": 1,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 94,
+            "id": 11,
+            "sentence": 1,
+            "text": "Auschwitz",
+            "word": 12
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 98,
+            "id": 12,
+            "sentence": 1,
+            "text": "als",
+            "word": 13
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 107,
+            "id": 13,
+            "sentence": 1,
+            "text": "Adjutant",
+            "word": 14
+        },
+        {
+            "charBegin": 108,
+            "charEnd": 115,
+            "id": 14,
+            "sentence": 1,
+            "text": "tätigen",
+            "word": 15
+        },
+        {
+            "charBegin": 116,
+            "charEnd": 128,
+            "id": 15,
+            "sentence": 1,
+            "text": "SS-Offiziers",
+            "word": 16
+        },
+        {
+            "charBegin": 129,
+            "charEnd": 133,
+            "id": 16,
+            "sentence": 1,
+            "text": "Karl",
+            "word": 17
+        },
+        {
+            "charBegin": 134,
+            "charEnd": 140,
+            "id": 17,
+            "sentence": 1,
+            "text": "Höcker",
+            "word": 18
+        },
+        {
+            "charBegin": 141,
+            "charEnd": 146,
+            "id": 18,
+            "sentence": 1,
+            "text": "wurde",
+            "word": 19
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 155,
+            "id": 19,
+            "sentence": 1,
+            "text": "erstmals",
+            "word": 20
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 170,
+            "id": 20,
+            "sentence": 1,
+            "text": "veröffentlicht",
+            "word": 21
+        },
+        {
+            "charBegin": 170,
+            "charEnd": 171,
+            "id": 21,
+            "sentence": 1,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 176,
+            "id": 22,
+            "sentence": 2,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 177,
+            "charEnd": 189,
+            "id": 23,
+            "sentence": 2,
+            "text": "Washingtoner",
+            "word": 2
+        },
+        {
+            "charBegin": 190,
+            "charEnd": 196,
+            "id": 24,
+            "sentence": 2,
+            "text": "United",
+            "word": 3
+        },
+        {
+            "charBegin": 197,
+            "charEnd": 203,
+            "id": 25,
+            "sentence": 2,
+            "text": "States",
+            "word": 4
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 213,
+            "id": 26,
+            "sentence": 2,
+            "text": "Holocaust",
+            "word": 5
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 222,
+            "id": 27,
+            "sentence": 2,
+            "text": "Memorial",
+            "word": 6
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 229,
+            "id": 28,
+            "sentence": 2,
+            "text": "Museum",
+            "word": 7
+        },
+        {
+            "charBegin": 230,
+            "charEnd": 233,
+            "id": 29,
+            "sentence": 2,
+            "text": "hat",
+            "word": 8
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 243,
+            "id": 30,
+            "sentence": 2,
+            "text": "insgesamt",
+            "word": 9
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 247,
+            "id": 31,
+            "sentence": 2,
+            "text": "116",
+            "word": 10
+        },
+        {
+            "charBegin": 248,
+            "charEnd": 254,
+            "id": 32,
+            "sentence": 2,
+            "text": "Bilder",
+            "word": 11
+        },
+        {
+            "charBegin": 255,
+            "charEnd": 269,
+            "id": 33,
+            "sentence": 2,
+            "text": "veröffentlicht",
+            "word": 12
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 270,
+            "id": 34,
+            "sentence": 2,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 275,
+            "id": 35,
+            "sentence": 3,
+            "text": "Auch",
+            "word": 1
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 281,
+            "id": 36,
+            "sentence": 3,
+            "text": "Josef",
+            "word": 2
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 289,
+            "id": 37,
+            "sentence": 3,
+            "text": "Mengele",
+            "word": 3
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 293,
+            "id": 38,
+            "sentence": 3,
+            "text": "ist",
+            "word": 4
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 297,
+            "id": 39,
+            "sentence": 3,
+            "text": "auf",
+            "word": 5
+        },
+        {
+            "charBegin": 298,
+            "charEnd": 301,
+            "id": 40,
+            "sentence": 3,
+            "text": "den",
+            "word": 6
+        },
+        {
+            "charBegin": 302,
+            "charEnd": 309,
+            "id": 41,
+            "sentence": 3,
+            "text": "Bildern",
+            "word": 7
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 310,
+            "id": 42,
+            "sentence": 3,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 311,
+            "charEnd": 314,
+            "id": 43,
+            "sentence": 3,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 323,
+            "id": 44,
+            "sentence": 3,
+            "text": "allesamt",
+            "word": 10
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 328,
+            "id": 45,
+            "sentence": 3,
+            "text": "nach",
+            "word": 11
+        },
+        {
+            "charBegin": 329,
+            "charEnd": 342,
+            "id": 46,
+            "sentence": 3,
+            "text": "Dienstschluss",
+            "word": 12
+        },
+        {
+            "charBegin": 343,
+            "charEnd": 353,
+            "id": 47,
+            "sentence": 3,
+            "text": "entstanden",
+            "word": 13
+        },
+        {
+            "charBegin": 354,
+            "charEnd": 358,
+            "id": 48,
+            "sentence": 3,
+            "text": "sind",
+            "word": 14
+        },
+        {
+            "charBegin": 358,
+            "charEnd": 359,
+            "id": 49,
+            "sentence": 3,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 360,
+            "charEnd": 362,
+            "id": 50,
+            "sentence": 3,
+            "text": "zu",
+            "word": 16
+        },
+        {
+            "charBegin": 363,
+            "charEnd": 368,
+            "id": 51,
+            "sentence": 3,
+            "text": "sehen",
+            "word": 17
+        },
+        {
+            "charBegin": 368,
+            "charEnd": 369,
+            "id": 52,
+            "sentence": 3,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 370,
+            "charEnd": 373,
+            "id": 53,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 380,
+            "id": 54,
+            "sentence": 4,
+            "text": "Bilder",
+            "word": 2
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 386,
+            "id": 55,
+            "sentence": 4,
+            "text": "waren",
+            "word": 3
+        },
+        {
+            "charBegin": 387,
+            "charEnd": 390,
+            "id": 56,
+            "sentence": 4,
+            "text": "von",
+            "word": 4
+        },
+        {
+            "charBegin": 391,
+            "charEnd": 396,
+            "id": 57,
+            "sentence": 4,
+            "text": "einem",
+            "word": 5
+        },
+        {
+            "charBegin": 397,
+            "charEnd": 403,
+            "id": 58,
+            "sentence": 4,
+            "text": "anonym",
+            "word": 6
+        },
+        {
+            "charBegin": 404,
+            "charEnd": 411,
+            "id": 59,
+            "sentence": 4,
+            "text": "bleiben",
+            "word": 7
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 421,
+            "id": 60,
+            "sentence": 4,
+            "text": "wollenden",
+            "word": 8
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 429,
+            "id": 61,
+            "sentence": 4,
+            "text": "Spender",
+            "word": 9
+        },
+        {
+            "charBegin": 429,
+            "charEnd": 430,
+            "id": 62,
+            "sentence": 4,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 431,
+            "charEnd": 434,
+            "id": 63,
+            "sentence": 4,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 437,
+            "id": 64,
+            "sentence": 4,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 444,
+            "id": 65,
+            "sentence": 4,
+            "text": "diesem",
+            "word": 13
+        },
+        {
+            "charBegin": 445,
+            "charEnd": 451,
+            "id": 66,
+            "sentence": 4,
+            "text": "Sommer",
+            "word": 14
+        },
+        {
+            "charBegin": 452,
+            "charEnd": 462,
+            "id": 67,
+            "sentence": 4,
+            "text": "verstorben",
+            "word": 15
+        },
+        {
+            "charBegin": 463,
+            "charEnd": 466,
+            "id": 68,
+            "sentence": 4,
+            "text": "ist",
+            "word": 16
+        },
+        {
+            "charBegin": 466,
+            "charEnd": 467,
+            "id": 69,
+            "sentence": 4,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 468,
+            "charEnd": 472,
+            "id": 70,
+            "sentence": 4,
+            "text": "1946",
+            "word": 18
+        },
+        {
+            "charBegin": 473,
+            "charEnd": 475,
+            "id": 71,
+            "sentence": 4,
+            "text": "in",
+            "word": 19
+        },
+        {
+            "charBegin": 476,
+            "charEnd": 481,
+            "id": 72,
+            "sentence": 4,
+            "text": "einer",
+            "word": 20
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 489,
+            "id": 73,
+            "sentence": 4,
+            "text": "Wohnung",
+            "word": 21
+        },
+        {
+            "charBegin": 490,
+            "charEnd": 492,
+            "id": 74,
+            "sentence": 4,
+            "text": "in",
+            "word": 22
+        },
+        {
+            "charBegin": 493,
+            "charEnd": 502,
+            "id": 75,
+            "sentence": 4,
+            "text": "Frankfurt",
+            "word": 23
+        },
+        {
+            "charBegin": 503,
+            "charEnd": 505,
+            "id": 76,
+            "sentence": 4,
+            "text": "am",
+            "word": 24
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 510,
+            "id": 77,
+            "sentence": 4,
+            "text": "Main",
+            "word": 25
+        },
+        {
+            "charBegin": 511,
+            "charEnd": 519,
+            "id": 78,
+            "sentence": 4,
+            "text": "gefunden",
+            "word": 26
+        },
+        {
+            "charBegin": 520,
+            "charEnd": 526,
+            "id": 79,
+            "sentence": 4,
+            "text": "worden",
+            "word": 27
+        },
+        {
+            "charBegin": 526,
+            "charEnd": 527,
+            "id": 80,
+            "sentence": 4,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 529,
+            "charEnd": 532,
+            "id": 81,
+            "sentence": 5,
+            "text": "Den",
+            "word": 1
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 540,
+            "id": 82,
+            "sentence": 5,
+            "text": "Bildern",
+            "word": 2
+        },
+        {
+            "charBegin": 541,
+            "charEnd": 546,
+            "id": 83,
+            "sentence": 5,
+            "text": "kommt",
+            "word": 3
+        },
+        {
+            "charBegin": 547,
+            "charEnd": 551,
+            "id": 84,
+            "sentence": 5,
+            "text": "nach",
+            "word": 4
+        },
+        {
+            "charBegin": 552,
+            "charEnd": 567,
+            "id": 85,
+            "sentence": 5,
+            "text": "Expertenmeinung",
+            "word": 5
+        },
+        {
+            "charBegin": 568,
+            "charEnd": 579,
+            "id": 86,
+            "sentence": 5,
+            "text": "historische",
+            "word": 6
+        },
+        {
+            "charBegin": 580,
+            "charEnd": 589,
+            "id": 87,
+            "sentence": 5,
+            "text": "Bedeutung",
+            "word": 7
+        },
+        {
+            "charBegin": 590,
+            "charEnd": 592,
+            "id": 88,
+            "sentence": 5,
+            "text": "zu",
+            "word": 8
+        },
+        {
+            "charBegin": 592,
+            "charEnd": 593,
+            "id": 89,
+            "sentence": 5,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 594,
+            "charEnd": 596,
+            "id": 90,
+            "sentence": 5,
+            "text": "da",
+            "word": 10
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 600,
+            "id": 91,
+            "sentence": 5,
+            "text": "sie",
+            "word": 11
+        },
+        {
+            "charBegin": 601,
+            "charEnd": 609,
+            "id": 92,
+            "sentence": 5,
+            "text": "erstmals",
+            "word": 12
+        },
+        {
+            "charBegin": 610,
+            "charEnd": 613,
+            "id": 93,
+            "sentence": 5,
+            "text": "das",
+            "word": 13
+        },
+        {
+            "charBegin": 614,
+            "charEnd": 626,
+            "id": 94,
+            "sentence": 5,
+            "text": "Alltagsleben",
+            "word": 14
+        },
+        {
+            "charBegin": 627,
+            "charEnd": 630,
+            "id": 95,
+            "sentence": 5,
+            "text": "der",
+            "word": 15
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 650,
+            "id": 96,
+            "sentence": 5,
+            "text": "Nationalsozialisten",
+            "word": 16
+        },
+        {
+            "charBegin": 651,
+            "charEnd": 653,
+            "id": 97,
+            "sentence": 5,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 663,
+            "id": 98,
+            "sentence": 5,
+            "text": "Auschwitz",
+            "word": 18
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 677,
+            "id": 99,
+            "sentence": 5,
+            "text": "dokumentieren",
+            "word": 19
+        },
+        {
+            "charBegin": 677,
+            "charEnd": 678,
+            "id": 100,
+            "sentence": 5,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 679,
+            "charEnd": 682,
+            "id": 101,
+            "sentence": 6,
+            "text": "Auf",
+            "word": 1
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 688,
+            "id": 102,
+            "sentence": 6,
+            "text": "einem",
+            "word": 2
+        },
+        {
+            "charBegin": 689,
+            "charEnd": 692,
+            "id": 103,
+            "sentence": 6,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 693,
+            "charEnd": 699,
+            "id": 104,
+            "sentence": 6,
+            "text": "Bilder",
+            "word": 4
+        },
+        {
+            "charBegin": 700,
+            "charEnd": 703,
+            "id": 105,
+            "sentence": 6,
+            "text": "ist",
+            "word": 5
+        },
+        {
+            "charBegin": 704,
+            "charEnd": 708,
+            "id": 106,
+            "sentence": 6,
+            "text": "etwa",
+            "word": 6
+        },
+        {
+            "charBegin": 709,
+            "charEnd": 716,
+            "id": 107,
+            "sentence": 6,
+            "text": "Mengele",
+            "word": 7
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 724,
+            "id": 108,
+            "sentence": 6,
+            "text": "lachend",
+            "word": 8
+        },
+        {
+            "charBegin": 725,
+            "charEnd": 733,
+            "id": 109,
+            "sentence": 6,
+            "text": "zwischen",
+            "word": 9
+        },
+        {
+            "charBegin": 734,
+            "charEnd": 741,
+            "id": 110,
+            "sentence": 6,
+            "text": "Richard",
+            "word": 10
+        },
+        {
+            "charBegin": 742,
+            "charEnd": 746,
+            "id": 111,
+            "sentence": 6,
+            "text": "Baer",
+            "word": 11
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 747,
+            "id": 112,
+            "sentence": 6,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 751,
+            "id": 113,
+            "sentence": 6,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 752,
+            "charEnd": 759,
+            "id": 114,
+            "sentence": 6,
+            "text": "Höckers",
+            "word": 14
+        },
+        {
+            "charBegin": 760,
+            "charEnd": 772,
+            "id": 115,
+            "sentence": 6,
+            "text": "Vorgesetzter",
+            "word": 15
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 776,
+            "id": 116,
+            "sentence": 6,
+            "text": "war",
+            "word": 16
+        },
+        {
+            "charBegin": 776,
+            "charEnd": 777,
+            "id": 117,
+            "sentence": 6,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 781,
+            "id": 118,
+            "sentence": 6,
+            "text": "und",
+            "word": 18
+        },
+        {
+            "charBegin": 782,
+            "charEnd": 788,
+            "id": 119,
+            "sentence": 6,
+            "text": "Rudolf",
+            "word": 19
+        },
+        {
+            "charBegin": 789,
+            "charEnd": 792,
+            "id": 120,
+            "sentence": 6,
+            "text": "Höß",
+            "word": 20
+        },
+        {
+            "charBegin": 793,
+            "charEnd": 803,
+            "id": 121,
+            "sentence": 6,
+            "text": "abgebildet",
+            "word": 21
+        },
+        {
+            "charBegin": 803,
+            "charEnd": 804,
+            "id": 122,
+            "sentence": 6,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 806,
+            "charEnd": 810,
+            "id": 123,
+            "sentence": 7,
+            "text": "Karl",
+            "word": 1
+        },
+        {
+            "charBegin": 811,
+            "charEnd": 817,
+            "id": 124,
+            "sentence": 7,
+            "text": "Höcker",
+            "word": 2
+        },
+        {
+            "charBegin": 818,
+            "charEnd": 823,
+            "id": 125,
+            "sentence": 7,
+            "text": "wurde",
+            "word": 3
+        },
+        {
+            "charBegin": 824,
+            "charEnd": 826,
+            "id": 126,
+            "sentence": 7,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 827,
+            "charEnd": 832,
+            "id": 127,
+            "sentence": 7,
+            "text": "einem",
+            "word": 5
+        },
+        {
+            "charBegin": 833,
+            "charEnd": 847,
+            "id": 128,
+            "sentence": 7,
+            "text": "Strafverfahren",
+            "word": 6
+        },
+        {
+            "charBegin": 848,
+            "charEnd": 850,
+            "id": 129,
+            "sentence": 7,
+            "text": "im",
+            "word": 7
+        },
+        {
+            "charBegin": 851,
+            "charEnd": 857,
+            "id": 130,
+            "sentence": 7,
+            "text": "Rahmen",
+            "word": 8
+        },
+        {
+            "charBegin": 858,
+            "charEnd": 861,
+            "id": 131,
+            "sentence": 7,
+            "text": "des",
+            "word": 9
+        },
+        {
+            "charBegin": 862,
+            "charEnd": 873,
+            "id": 132,
+            "sentence": 7,
+            "text": "Frankfurter",
+            "word": 10
+        },
+        {
+            "charBegin": 874,
+            "charEnd": 893,
+            "id": 133,
+            "sentence": 7,
+            "text": "Auschwitz-Prozesses",
+            "word": 11
+        },
+        {
+            "charBegin": 894,
+            "charEnd": 896,
+            "id": 134,
+            "sentence": 7,
+            "text": "zu",
+            "word": 12
+        },
+        {
+            "charBegin": 897,
+            "charEnd": 902,
+            "id": 135,
+            "sentence": 7,
+            "text": "einer",
+            "word": 13
+        },
+        {
+            "charBegin": 903,
+            "charEnd": 917,
+            "id": 136,
+            "sentence": 7,
+            "text": "siebenjährigen",
+            "word": 14
+        },
+        {
+            "charBegin": 918,
+            "charEnd": 933,
+            "id": 137,
+            "sentence": 7,
+            "text": "Freiheitsstrafe",
+            "word": 15
+        },
+        {
+            "charBegin": 934,
+            "charEnd": 944,
+            "id": 138,
+            "sentence": 7,
+            "text": "verurteilt",
+            "word": 16
+        },
+        {
+            "charBegin": 944,
+            "charEnd": 945,
+            "id": 139,
+            "sentence": 7,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 946,
+            "charEnd": 949,
+            "id": 140,
+            "sentence": 7,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 950,
+            "charEnd": 952,
+            "id": 141,
+            "sentence": 7,
+            "text": "er",
+            "word": 19
+        },
+        {
+            "charBegin": 953,
+            "charEnd": 956,
+            "id": 142,
+            "sentence": 7,
+            "text": "bis",
+            "word": 20
+        },
+        {
+            "charBegin": 957,
+            "charEnd": 961,
+            "id": 143,
+            "sentence": 7,
+            "text": "1970",
+            "word": 21
+        },
+        {
+            "charBegin": 962,
+            "charEnd": 970,
+            "id": 144,
+            "sentence": 7,
+            "text": "verbüßte",
+            "word": 22
+        },
+        {
+            "charBegin": 970,
+            "charEnd": 971,
+            "id": 145,
+            "sentence": 7,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 972,
+            "charEnd": 974,
+            "id": 146,
+            "sentence": 8,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 975,
+            "charEnd": 979,
+            "id": 147,
+            "sentence": 8,
+            "text": "Jahr",
+            "word": 2
+        },
+        {
+            "charBegin": 980,
+            "charEnd": 984,
+            "id": 148,
+            "sentence": 8,
+            "text": "2000",
+            "word": 3
+        },
+        {
+            "charBegin": 985,
+            "charEnd": 990,
+            "id": 149,
+            "sentence": 8,
+            "text": "starb",
+            "word": 4
+        },
+        {
+            "charBegin": 991,
+            "charEnd": 993,
+            "id": 150,
+            "sentence": 8,
+            "text": "er",
+            "word": 5
+        },
+        {
+            "charBegin": 994,
+            "charEnd": 996,
+            "id": 151,
+            "sentence": 8,
+            "text": "im",
+            "word": 6
+        },
+        {
+            "charBegin": 997,
+            "charEnd": 1002,
+            "id": 152,
+            "sentence": 8,
+            "text": "Alter",
+            "word": 7
+        },
+        {
+            "charBegin": 1003,
+            "charEnd": 1006,
+            "id": 153,
+            "sentence": 8,
+            "text": "von",
+            "word": 8
+        },
+        {
+            "charBegin": 1007,
+            "charEnd": 1009,
+            "id": 154,
+            "sentence": 8,
+            "text": "88",
+            "word": 9
+        },
+        {
+            "charBegin": 1010,
+            "charEnd": 1016,
+            "id": 155,
+            "sentence": 8,
+            "text": "Jahren",
+            "word": 10
+        },
+        {
+            "charBegin": 1016,
+            "charEnd": 1017,
+            "id": 156,
+            "sentence": 8,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 1019,
+            "charEnd": 1022,
+            "id": 157,
+            "sentence": 9,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1023,
+            "charEnd": 1029,
+            "id": 158,
+            "sentence": 9,
+            "text": "Bilder",
+            "word": 2
+        },
+        {
+            "charBegin": 1030,
+            "charEnd": 1033,
+            "id": 159,
+            "sentence": 9,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 1034,
+            "charEnd": 1040,
+            "id": 160,
+            "sentence": 9,
+            "text": "Albums",
+            "word": 4
+        },
+        {
+            "charBegin": 1041,
+            "charEnd": 1045,
+            "id": 161,
+            "sentence": 9,
+            "text": "sind",
+            "word": 5
+        },
+        {
+            "charBegin": 1046,
+            "charEnd": 1049,
+            "id": 162,
+            "sentence": 9,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 1050,
+            "charEnd": 1053,
+            "id": 163,
+            "sentence": 9,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 1054,
+            "charEnd": 1061,
+            "id": 164,
+            "sentence": 9,
+            "text": "Website",
+            "word": 8
+        },
+        {
+            "charBegin": 1062,
+            "charEnd": 1065,
+            "id": 165,
+            "sentence": 9,
+            "text": "von",
+            "word": 9
+        },
+        {
+            "charBegin": 1066,
+            "charEnd": 1070,
+            "id": 166,
+            "sentence": 9,
+            "text": "Welt",
+            "word": 10
+        },
+        {
+            "charBegin": 1071,
+            "charEnd": 1077,
+            "id": 167,
+            "sentence": 9,
+            "text": "Online",
+            "word": 11
+        },
+        {
+            "charBegin": 1078,
+            "charEnd": 1080,
+            "id": 168,
+            "sentence": 9,
+            "text": "zu",
+            "word": 12
+        },
+        {
+            "charBegin": 1081,
+            "charEnd": 1086,
+            "id": 169,
+            "sentence": 9,
+            "text": "sehen",
+            "word": 13
+        },
+        {
+            "charBegin": 1087,
+            "charEnd": 1088,
+            "id": 170,
+            "sentence": 9,
+            "text": "(",
+            "word": 14
+        },
+        {
+            "charBegin": 1088,
+            "charEnd": 1093,
+            "id": 171,
+            "sentence": 9,
+            "text": "siehe",
+            "word": 15
+        },
+        {
+            "charBegin": 1094,
+            "charEnd": 1100,
+            "id": 172,
+            "sentence": 9,
+            "text": "Quelle",
+            "word": 16
+        },
+        {
+            "charBegin": 1100,
+            "charEnd": 1101,
+            "id": 173,
+            "sentence": 9,
+            "text": ")",
+            "word": 17
+        },
+        {
+            "charBegin": 1101,
+            "charEnd": 1102,
+            "id": 174,
+            "sentence": 9,
+            "text": ".",
+            "word": 18
+        }
+    ]
+}

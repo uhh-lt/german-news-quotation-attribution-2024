@@ -1,0 +1,1415 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 101,
+                        "charBegin": 634,
+                        "charEnd": 646,
+                        "end": 102
+                    }
+                ],
+                "text": "interessiert",
+                "tokenIds": [
+                    101
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 99,
+                        "charBegin": 614,
+                        "charEnd": 647,
+                        "end": 103
+                    }
+                ],
+                "text": "Die Wissenschaftler interessiert,",
+                "tokenIds": [
+                    99,
+                    100,
+                    101,
+                    102
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 103,
+                        "charBegin": 648,
+                        "charEnd": 802,
+                        "end": 121
+                    }
+                ],
+                "text": "warum die beiden Himmelskörper aus der gleichen Zeitepoche der Entstehungsgeschichte des Sonnensystems eine so unterschiedliche Entwicklung genommen haben",
+                "tokenIds": [
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 99,
+                        "charBegin": 614,
+                        "charEnd": 633,
+                        "end": 101
+                    }
+                ],
+                "text": "Die Wissenschaftler",
+                "tokenIds": [
+                    99,
+                    100
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "44492 - Raumsonde Dawn auf dem Weg zum Asteroidengürtel (2007-09-27)",
+    "originalText": "Die Raumsonde Dawn ist auf dem Weg zum Asteroidengürtel. Sie wurde mit Hilfe einer US-amerikanischen Trägerrakete vom Typ Delta II heute in den Weltraum transportiert und soll im Jahr 2011 an ihrem ersten Bestimmungsort angekommen sein. Ziel der Sonde ist die Untersuchung des Zwergplaneten Ceres und des Asterioden Vesta.\n\nCeres hat einen Durchmesser von 960 Kilometern und ist der größte Himmelskörper im Asteroidengürtel zwischen Mars und Jupiter. Er besitzt leichte und flüchtige Elemente. Vesta ist mit 520 Kilometer Durchmesser wesentlich kleiner. Er gilt als trockener Asteroid, der nur aus Felsen besteht. Die Wissenschaftler interessiert, warum die beiden Himmelskörper aus der gleichen Zeitepoche der Entstehungsgeschichte des Sonnensystems eine so unterschiedliche Entwicklung genommen haben.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 56,
+            "end": 10,
+            "id": 0,
+            "text": "Die Raumsonde Dawn ist auf dem Weg zum Asteroidengürtel. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "tokens": [
+                "Die",
+                "Raumsonde",
+                "Dawn",
+                "ist",
+                "auf",
+                "dem",
+                "Weg",
+                "zum",
+                "Asteroidengürtel",
+                "."
+            ]
+        },
+        {
+            "begin": 10,
+            "charBegin": 57,
+            "charEnd": 236,
+            "end": 38,
+            "id": 1,
+            "text": "Sie wurde mit Hilfe einer US-amerikanischen Trägerrakete vom Typ Delta II heute in den Weltraum transportiert und soll im Jahr 2011 an ihrem ersten Bestimmungsort angekommen sein. ",
+            "tokenIds": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37
+            ],
+            "tokens": [
+                "Sie",
+                "wurde",
+                "mit",
+                "Hilfe",
+                "einer",
+                "US-amerikanischen",
+                "Trägerrakete",
+                "vom",
+                "Typ",
+                "Delta",
+                "II",
+                "heute",
+                "in",
+                "den",
+                "Weltraum",
+                "transportiert",
+                "und",
+                "soll",
+                "im",
+                "Jahr",
+                "2011",
+                "an",
+                "ihrem",
+                "ersten",
+                "Bestimmungsort",
+                "angekommen",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "begin": 38,
+            "charBegin": 237,
+            "charEnd": 322,
+            "end": 52,
+            "id": 2,
+            "text": "Ziel der Sonde ist die Untersuchung des Zwergplaneten Ceres und des Asterioden Vesta.",
+            "tokenIds": [
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51
+            ],
+            "tokens": [
+                "Ziel",
+                "der",
+                "Sonde",
+                "ist",
+                "die",
+                "Untersuchung",
+                "des",
+                "Zwergplaneten",
+                "Ceres",
+                "und",
+                "des",
+                "Asterioden",
+                "Vesta",
+                "."
+            ]
+        },
+        {
+            "begin": 52,
+            "charBegin": 324,
+            "charEnd": 450,
+            "end": 71,
+            "id": 3,
+            "text": "Ceres hat einen Durchmesser von 960 Kilometern und ist der größte Himmelskörper im Asteroidengürtel zwischen Mars und Jupiter. ",
+            "tokenIds": [
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70
+            ],
+            "tokens": [
+                "Ceres",
+                "hat",
+                "einen",
+                "Durchmesser",
+                "von",
+                "960",
+                "Kilometern",
+                "und",
+                "ist",
+                "der",
+                "größte",
+                "Himmelskörper",
+                "im",
+                "Asteroidengürtel",
+                "zwischen",
+                "Mars",
+                "und",
+                "Jupiter",
+                "."
+            ]
+        },
+        {
+            "begin": 71,
+            "charBegin": 451,
+            "charEnd": 493,
+            "end": 78,
+            "id": 4,
+            "text": "Er besitzt leichte und flüchtige Elemente. ",
+            "tokenIds": [
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77
+            ],
+            "tokens": [
+                "Er",
+                "besitzt",
+                "leichte",
+                "und",
+                "flüchtige",
+                "Elemente",
+                "."
+            ]
+        },
+        {
+            "begin": 78,
+            "charBegin": 494,
+            "charEnd": 553,
+            "end": 87,
+            "id": 5,
+            "text": "Vesta ist mit 520 Kilometer Durchmesser wesentlich kleiner. ",
+            "tokenIds": [
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+            ],
+            "tokens": [
+                "Vesta",
+                "ist",
+                "mit",
+                "520",
+                "Kilometer",
+                "Durchmesser",
+                "wesentlich",
+                "kleiner",
+                "."
+            ]
+        },
+        {
+            "begin": 87,
+            "charBegin": 554,
+            "charEnd": 613,
+            "end": 99,
+            "id": 6,
+            "text": "Er gilt als trockener Asteroid, der nur aus Felsen besteht. ",
+            "tokenIds": [
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98
+            ],
+            "tokens": [
+                "Er",
+                "gilt",
+                "als",
+                "trockener",
+                "Asteroid",
+                ",",
+                "der",
+                "nur",
+                "aus",
+                "Felsen",
+                "besteht",
+                "."
+            ]
+        },
+        {
+            "begin": 99,
+            "charBegin": 614,
+            "charEnd": 803,
+            "end": 122,
+            "id": 7,
+            "text": "Die Wissenschaftler interessiert, warum die beiden Himmelskörper aus der gleichen Zeitepoche der Entstehungsgeschichte des Sonnensystems eine so unterschiedliche Entwicklung genommen haben.",
+            "tokenIds": [
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ],
+            "tokens": [
+                "Die",
+                "Wissenschaftler",
+                "interessiert",
+                ",",
+                "warum",
+                "die",
+                "beiden",
+                "Himmelskörper",
+                "aus",
+                "der",
+                "gleichen",
+                "Zeitepoche",
+                "der",
+                "Entstehungsgeschichte",
+                "des",
+                "Sonnensystems",
+                "eine",
+                "so",
+                "unterschiedliche",
+                "Entwicklung",
+                "genommen",
+                "haben",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 13,
+            "id": 1,
+            "sentence": 1,
+            "text": "Raumsonde",
+            "word": 2
+        },
+        {
+            "charBegin": 14,
+            "charEnd": 18,
+            "id": 2,
+            "sentence": 1,
+            "text": "Dawn",
+            "word": 3
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 22,
+            "id": 3,
+            "sentence": 1,
+            "text": "ist",
+            "word": 4
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 26,
+            "id": 4,
+            "sentence": 1,
+            "text": "auf",
+            "word": 5
+        },
+        {
+            "charBegin": 27,
+            "charEnd": 30,
+            "id": 5,
+            "sentence": 1,
+            "text": "dem",
+            "word": 6
+        },
+        {
+            "charBegin": 31,
+            "charEnd": 34,
+            "id": 6,
+            "sentence": 1,
+            "text": "Weg",
+            "word": 7
+        },
+        {
+            "charBegin": 35,
+            "charEnd": 38,
+            "id": 7,
+            "sentence": 1,
+            "text": "zum",
+            "word": 8
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 55,
+            "id": 8,
+            "sentence": 1,
+            "text": "Asteroidengürtel",
+            "word": 9
+        },
+        {
+            "charBegin": 55,
+            "charEnd": 56,
+            "id": 9,
+            "sentence": 1,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 57,
+            "charEnd": 60,
+            "id": 10,
+            "sentence": 2,
+            "text": "Sie",
+            "word": 1
+        },
+        {
+            "charBegin": 61,
+            "charEnd": 66,
+            "id": 11,
+            "sentence": 2,
+            "text": "wurde",
+            "word": 2
+        },
+        {
+            "charBegin": 67,
+            "charEnd": 70,
+            "id": 12,
+            "sentence": 2,
+            "text": "mit",
+            "word": 3
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 76,
+            "id": 13,
+            "sentence": 2,
+            "text": "Hilfe",
+            "word": 4
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 82,
+            "id": 14,
+            "sentence": 2,
+            "text": "einer",
+            "word": 5
+        },
+        {
+            "charBegin": 83,
+            "charEnd": 100,
+            "id": 15,
+            "sentence": 2,
+            "text": "US-amerikanischen",
+            "word": 6
+        },
+        {
+            "charBegin": 101,
+            "charEnd": 113,
+            "id": 16,
+            "sentence": 2,
+            "text": "Trägerrakete",
+            "word": 7
+        },
+        {
+            "charBegin": 114,
+            "charEnd": 117,
+            "id": 17,
+            "sentence": 2,
+            "text": "vom",
+            "word": 8
+        },
+        {
+            "charBegin": 118,
+            "charEnd": 121,
+            "id": 18,
+            "sentence": 2,
+            "text": "Typ",
+            "word": 9
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 127,
+            "id": 19,
+            "sentence": 2,
+            "text": "Delta",
+            "word": 10
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 130,
+            "id": 20,
+            "sentence": 2,
+            "text": "II",
+            "word": 11
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 136,
+            "id": 21,
+            "sentence": 2,
+            "text": "heute",
+            "word": 12
+        },
+        {
+            "charBegin": 137,
+            "charEnd": 139,
+            "id": 22,
+            "sentence": 2,
+            "text": "in",
+            "word": 13
+        },
+        {
+            "charBegin": 140,
+            "charEnd": 143,
+            "id": 23,
+            "sentence": 2,
+            "text": "den",
+            "word": 14
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 152,
+            "id": 24,
+            "sentence": 2,
+            "text": "Weltraum",
+            "word": 15
+        },
+        {
+            "charBegin": 153,
+            "charEnd": 166,
+            "id": 25,
+            "sentence": 2,
+            "text": "transportiert",
+            "word": 16
+        },
+        {
+            "charBegin": 167,
+            "charEnd": 170,
+            "id": 26,
+            "sentence": 2,
+            "text": "und",
+            "word": 17
+        },
+        {
+            "charBegin": 171,
+            "charEnd": 175,
+            "id": 27,
+            "sentence": 2,
+            "text": "soll",
+            "word": 18
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 178,
+            "id": 28,
+            "sentence": 2,
+            "text": "im",
+            "word": 19
+        },
+        {
+            "charBegin": 179,
+            "charEnd": 183,
+            "id": 29,
+            "sentence": 2,
+            "text": "Jahr",
+            "word": 20
+        },
+        {
+            "charBegin": 184,
+            "charEnd": 188,
+            "id": 30,
+            "sentence": 2,
+            "text": "2011",
+            "word": 21
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 191,
+            "id": 31,
+            "sentence": 2,
+            "text": "an",
+            "word": 22
+        },
+        {
+            "charBegin": 192,
+            "charEnd": 197,
+            "id": 32,
+            "sentence": 2,
+            "text": "ihrem",
+            "word": 23
+        },
+        {
+            "charBegin": 198,
+            "charEnd": 204,
+            "id": 33,
+            "sentence": 2,
+            "text": "ersten",
+            "word": 24
+        },
+        {
+            "charBegin": 205,
+            "charEnd": 219,
+            "id": 34,
+            "sentence": 2,
+            "text": "Bestimmungsort",
+            "word": 25
+        },
+        {
+            "charBegin": 220,
+            "charEnd": 230,
+            "id": 35,
+            "sentence": 2,
+            "text": "angekommen",
+            "word": 26
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 235,
+            "id": 36,
+            "sentence": 2,
+            "text": "sein",
+            "word": 27
+        },
+        {
+            "charBegin": 235,
+            "charEnd": 236,
+            "id": 37,
+            "sentence": 2,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 241,
+            "id": 38,
+            "sentence": 3,
+            "text": "Ziel",
+            "word": 1
+        },
+        {
+            "charBegin": 242,
+            "charEnd": 245,
+            "id": 39,
+            "sentence": 3,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 251,
+            "id": 40,
+            "sentence": 3,
+            "text": "Sonde",
+            "word": 3
+        },
+        {
+            "charBegin": 252,
+            "charEnd": 255,
+            "id": 41,
+            "sentence": 3,
+            "text": "ist",
+            "word": 4
+        },
+        {
+            "charBegin": 256,
+            "charEnd": 259,
+            "id": 42,
+            "sentence": 3,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 260,
+            "charEnd": 272,
+            "id": 43,
+            "sentence": 3,
+            "text": "Untersuchung",
+            "word": 6
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 276,
+            "id": 44,
+            "sentence": 3,
+            "text": "des",
+            "word": 7
+        },
+        {
+            "charBegin": 277,
+            "charEnd": 290,
+            "id": 45,
+            "sentence": 3,
+            "text": "Zwergplaneten",
+            "word": 8
+        },
+        {
+            "charBegin": 291,
+            "charEnd": 296,
+            "id": 46,
+            "sentence": 3,
+            "text": "Ceres",
+            "word": 9
+        },
+        {
+            "charBegin": 297,
+            "charEnd": 300,
+            "id": 47,
+            "sentence": 3,
+            "text": "und",
+            "word": 10
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 304,
+            "id": 48,
+            "sentence": 3,
+            "text": "des",
+            "word": 11
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 315,
+            "id": 49,
+            "sentence": 3,
+            "text": "Asterioden",
+            "word": 12
+        },
+        {
+            "charBegin": 316,
+            "charEnd": 321,
+            "id": 50,
+            "sentence": 3,
+            "text": "Vesta",
+            "word": 13
+        },
+        {
+            "charBegin": 321,
+            "charEnd": 322,
+            "id": 51,
+            "sentence": 3,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 329,
+            "id": 52,
+            "sentence": 4,
+            "text": "Ceres",
+            "word": 1
+        },
+        {
+            "charBegin": 330,
+            "charEnd": 333,
+            "id": 53,
+            "sentence": 4,
+            "text": "hat",
+            "word": 2
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 339,
+            "id": 54,
+            "sentence": 4,
+            "text": "einen",
+            "word": 3
+        },
+        {
+            "charBegin": 340,
+            "charEnd": 351,
+            "id": 55,
+            "sentence": 4,
+            "text": "Durchmesser",
+            "word": 4
+        },
+        {
+            "charBegin": 352,
+            "charEnd": 355,
+            "id": 56,
+            "sentence": 4,
+            "text": "von",
+            "word": 5
+        },
+        {
+            "charBegin": 356,
+            "charEnd": 359,
+            "id": 57,
+            "sentence": 4,
+            "text": "960",
+            "word": 6
+        },
+        {
+            "charBegin": 360,
+            "charEnd": 370,
+            "id": 58,
+            "sentence": 4,
+            "text": "Kilometern",
+            "word": 7
+        },
+        {
+            "charBegin": 371,
+            "charEnd": 374,
+            "id": 59,
+            "sentence": 4,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 375,
+            "charEnd": 378,
+            "id": 60,
+            "sentence": 4,
+            "text": "ist",
+            "word": 9
+        },
+        {
+            "charBegin": 379,
+            "charEnd": 382,
+            "id": 61,
+            "sentence": 4,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 389,
+            "id": 62,
+            "sentence": 4,
+            "text": "größte",
+            "word": 11
+        },
+        {
+            "charBegin": 390,
+            "charEnd": 403,
+            "id": 63,
+            "sentence": 4,
+            "text": "Himmelskörper",
+            "word": 12
+        },
+        {
+            "charBegin": 404,
+            "charEnd": 406,
+            "id": 64,
+            "sentence": 4,
+            "text": "im",
+            "word": 13
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 423,
+            "id": 65,
+            "sentence": 4,
+            "text": "Asteroidengürtel",
+            "word": 14
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 432,
+            "id": 66,
+            "sentence": 4,
+            "text": "zwischen",
+            "word": 15
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 437,
+            "id": 67,
+            "sentence": 4,
+            "text": "Mars",
+            "word": 16
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 441,
+            "id": 68,
+            "sentence": 4,
+            "text": "und",
+            "word": 17
+        },
+        {
+            "charBegin": 442,
+            "charEnd": 449,
+            "id": 69,
+            "sentence": 4,
+            "text": "Jupiter",
+            "word": 18
+        },
+        {
+            "charBegin": 449,
+            "charEnd": 450,
+            "id": 70,
+            "sentence": 4,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 453,
+            "id": 71,
+            "sentence": 5,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 454,
+            "charEnd": 461,
+            "id": 72,
+            "sentence": 5,
+            "text": "besitzt",
+            "word": 2
+        },
+        {
+            "charBegin": 462,
+            "charEnd": 469,
+            "id": 73,
+            "sentence": 5,
+            "text": "leichte",
+            "word": 3
+        },
+        {
+            "charBegin": 470,
+            "charEnd": 473,
+            "id": 74,
+            "sentence": 5,
+            "text": "und",
+            "word": 4
+        },
+        {
+            "charBegin": 474,
+            "charEnd": 483,
+            "id": 75,
+            "sentence": 5,
+            "text": "flüchtige",
+            "word": 5
+        },
+        {
+            "charBegin": 484,
+            "charEnd": 492,
+            "id": 76,
+            "sentence": 5,
+            "text": "Elemente",
+            "word": 6
+        },
+        {
+            "charBegin": 492,
+            "charEnd": 493,
+            "id": 77,
+            "sentence": 5,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 494,
+            "charEnd": 499,
+            "id": 78,
+            "sentence": 6,
+            "text": "Vesta",
+            "word": 1
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 503,
+            "id": 79,
+            "sentence": 6,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 507,
+            "id": 80,
+            "sentence": 6,
+            "text": "mit",
+            "word": 3
+        },
+        {
+            "charBegin": 508,
+            "charEnd": 511,
+            "id": 81,
+            "sentence": 6,
+            "text": "520",
+            "word": 4
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 521,
+            "id": 82,
+            "sentence": 6,
+            "text": "Kilometer",
+            "word": 5
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 533,
+            "id": 83,
+            "sentence": 6,
+            "text": "Durchmesser",
+            "word": 6
+        },
+        {
+            "charBegin": 534,
+            "charEnd": 544,
+            "id": 84,
+            "sentence": 6,
+            "text": "wesentlich",
+            "word": 7
+        },
+        {
+            "charBegin": 545,
+            "charEnd": 552,
+            "id": 85,
+            "sentence": 6,
+            "text": "kleiner",
+            "word": 8
+        },
+        {
+            "charBegin": 552,
+            "charEnd": 553,
+            "id": 86,
+            "sentence": 6,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 554,
+            "charEnd": 556,
+            "id": 87,
+            "sentence": 7,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 561,
+            "id": 88,
+            "sentence": 7,
+            "text": "gilt",
+            "word": 2
+        },
+        {
+            "charBegin": 562,
+            "charEnd": 565,
+            "id": 89,
+            "sentence": 7,
+            "text": "als",
+            "word": 3
+        },
+        {
+            "charBegin": 566,
+            "charEnd": 575,
+            "id": 90,
+            "sentence": 7,
+            "text": "trockener",
+            "word": 4
+        },
+        {
+            "charBegin": 576,
+            "charEnd": 584,
+            "id": 91,
+            "sentence": 7,
+            "text": "Asteroid",
+            "word": 5
+        },
+        {
+            "charBegin": 584,
+            "charEnd": 585,
+            "id": 92,
+            "sentence": 7,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 589,
+            "id": 93,
+            "sentence": 7,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 590,
+            "charEnd": 593,
+            "id": 94,
+            "sentence": 7,
+            "text": "nur",
+            "word": 8
+        },
+        {
+            "charBegin": 594,
+            "charEnd": 597,
+            "id": 95,
+            "sentence": 7,
+            "text": "aus",
+            "word": 9
+        },
+        {
+            "charBegin": 598,
+            "charEnd": 604,
+            "id": 96,
+            "sentence": 7,
+            "text": "Felsen",
+            "word": 10
+        },
+        {
+            "charBegin": 605,
+            "charEnd": 612,
+            "id": 97,
+            "sentence": 7,
+            "text": "besteht",
+            "word": 11
+        },
+        {
+            "charBegin": 612,
+            "charEnd": 613,
+            "id": 98,
+            "sentence": 7,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 614,
+            "charEnd": 617,
+            "id": 99,
+            "sentence": 8,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 618,
+            "charEnd": 633,
+            "id": 100,
+            "sentence": 8,
+            "text": "Wissenschaftler",
+            "word": 2
+        },
+        {
+            "charBegin": 634,
+            "charEnd": 646,
+            "id": 101,
+            "sentence": 8,
+            "text": "interessiert",
+            "word": 3
+        },
+        {
+            "charBegin": 646,
+            "charEnd": 647,
+            "id": 102,
+            "sentence": 8,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 653,
+            "id": 103,
+            "sentence": 8,
+            "text": "warum",
+            "word": 5
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 657,
+            "id": 104,
+            "sentence": 8,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 658,
+            "charEnd": 664,
+            "id": 105,
+            "sentence": 8,
+            "text": "beiden",
+            "word": 7
+        },
+        {
+            "charBegin": 665,
+            "charEnd": 678,
+            "id": 106,
+            "sentence": 8,
+            "text": "Himmelskörper",
+            "word": 8
+        },
+        {
+            "charBegin": 679,
+            "charEnd": 682,
+            "id": 107,
+            "sentence": 8,
+            "text": "aus",
+            "word": 9
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 686,
+            "id": 108,
+            "sentence": 8,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 687,
+            "charEnd": 695,
+            "id": 109,
+            "sentence": 8,
+            "text": "gleichen",
+            "word": 11
+        },
+        {
+            "charBegin": 696,
+            "charEnd": 706,
+            "id": 110,
+            "sentence": 8,
+            "text": "Zeitepoche",
+            "word": 12
+        },
+        {
+            "charBegin": 707,
+            "charEnd": 710,
+            "id": 111,
+            "sentence": 8,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 711,
+            "charEnd": 732,
+            "id": 112,
+            "sentence": 8,
+            "text": "Entstehungsgeschichte",
+            "word": 14
+        },
+        {
+            "charBegin": 733,
+            "charEnd": 736,
+            "id": 113,
+            "sentence": 8,
+            "text": "des",
+            "word": 15
+        },
+        {
+            "charBegin": 737,
+            "charEnd": 750,
+            "id": 114,
+            "sentence": 8,
+            "text": "Sonnensystems",
+            "word": 16
+        },
+        {
+            "charBegin": 751,
+            "charEnd": 755,
+            "id": 115,
+            "sentence": 8,
+            "text": "eine",
+            "word": 17
+        },
+        {
+            "charBegin": 756,
+            "charEnd": 758,
+            "id": 116,
+            "sentence": 8,
+            "text": "so",
+            "word": 18
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 775,
+            "id": 117,
+            "sentence": 8,
+            "text": "unterschiedliche",
+            "word": 19
+        },
+        {
+            "charBegin": 776,
+            "charEnd": 787,
+            "id": 118,
+            "sentence": 8,
+            "text": "Entwicklung",
+            "word": 20
+        },
+        {
+            "charBegin": 788,
+            "charEnd": 796,
+            "id": 119,
+            "sentence": 8,
+            "text": "genommen",
+            "word": 21
+        },
+        {
+            "charBegin": 797,
+            "charEnd": 802,
+            "id": 120,
+            "sentence": 8,
+            "text": "haben",
+            "word": 22
+        },
+        {
+            "charBegin": 802,
+            "charEnd": 803,
+            "id": 121,
+            "sentence": 8,
+            "text": ".",
+            "word": 23
+        }
+    ]
+}

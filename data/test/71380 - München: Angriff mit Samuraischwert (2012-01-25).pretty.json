@@ -1,0 +1,1947 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 15,
+                        "charBegin": 110,
+                        "charEnd": 125,
+                        "end": 17
+                    }
+                ],
+                "text": "dem 50-Jährigen",
+                "tokenIds": [
+                    15,
+                    16
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 17,
+                        "charBegin": 126,
+                        "charEnd": 147,
+                        "end": 20
+                    }
+                ],
+                "text": "bekannt gegeben hatte",
+                "tokenIds": [
+                    17,
+                    18,
+                    19
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 12,
+                        "charBegin": 93,
+                        "charEnd": 148,
+                        "end": 21
+                    },
+                    {
+                        "begin": 26,
+                        "charBegin": 191,
+                        "charEnd": 258,
+                        "end": 39
+                    }
+                ],
+                "text": "Nachdem der Arzt dem 50-Jährigen bekannt gegeben hatte, , griff sich dieser ein Samuraischwert und griff den Arzt damit an.",
+                "tokenIds": [
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37,
+                    38
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 21,
+                        "charBegin": 149,
+                        "charEnd": 191,
+                        "end": 26
+                    }
+                ],
+                "text": "dass ein Klinikaufenthalt erforderlich sei",
+                "tokenIds": [
+                    21,
+                    22,
+                    23,
+                    24,
+                    25
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 13,
+                        "charBegin": 101,
+                        "charEnd": 109,
+                        "end": 15
+                    }
+                ],
+                "text": "der Arzt",
+                "tokenIds": [
+                    13,
+                    14
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 40,
+                        "charBegin": 262,
+                        "charEnd": 268,
+                        "end": 41
+                    }
+                ],
+                "text": "drohte",
+                "tokenIds": [
+                    40
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 39,
+                        "charBegin": 259,
+                        "charEnd": 275,
+                        "end": 43
+                    }
+                ],
+                "text": "Er drohte damit,",
+                "tokenIds": [
+                    39,
+                    40,
+                    41,
+                    42
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 43,
+                        "charBegin": 276,
+                        "charEnd": 343,
+                        "end": 54
+                    }
+                ],
+                "text": "jeden mit dem Schwert anzugreifen, der seine Wohnung betreten würde",
+                "tokenIds": [
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 39,
+                        "charBegin": 259,
+                        "charEnd": 261,
+                        "end": 40
+                    }
+                ],
+                "text": "Er",
+                "tokenIds": [
+                    39
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "71380 - München: Angriff mit Samuraischwert (2012-01-25)",
+    "originalText": "Am Dienstagmittag machte ein Arzt einen Hausbesuch bei einem 50-jährigen Methadon-Patienten. Nachdem der Arzt dem 50-Jährigen bekannt gegeben hatte, dass ein Klinikaufenthalt erforderlich sei, griff sich dieser ein Samuraischwert und griff den Arzt damit an. Er drohte damit, jeden mit dem Schwert anzugreifen, der seine Wohnung betreten würde.\n \nDem Angegriffenen gelang es, unverletzt aus der Wohnung zu flüchten. Nachdem er sich in Sicherheit befand, verständigte der Mediziner die Polizei und wies auf die Gefährlichkeit seines Patienten hin. Starke Polizeikräfte umstellten das Haus. Zu dem 50-Jährigen wurde telefonisch und später durch die geschlossene Wohnungstür Kontakt aufgenommen. Nach etwa einer Stunde öffnete der Methadon-Patient die Tür. Er wurde von Beamten des Unterstützungskommandos (USK) festgenommen; dabei verletzte er sich leicht. Eine ambulante Versorgung durch den Rettungsdienst war erforderlich. Die Wohnung wurde nach weiteren Waffen durchsucht. Die Ermittlungen wurden von der Kriminalpolizei übernommen.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 92,
+            "end": 12,
+            "id": 0,
+            "text": "Am Dienstagmittag machte ein Arzt einen Hausbesuch bei einem 50-jährigen Methadon-Patienten. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ],
+            "tokens": [
+                "Am",
+                "Dienstagmittag",
+                "machte",
+                "ein",
+                "Arzt",
+                "einen",
+                "Hausbesuch",
+                "bei",
+                "einem",
+                "50-jährigen",
+                "Methadon-Patienten",
+                "."
+            ]
+        },
+        {
+            "begin": 12,
+            "charBegin": 93,
+            "charEnd": 258,
+            "end": 39,
+            "id": 1,
+            "text": "Nachdem der Arzt dem 50-Jährigen bekannt gegeben hatte, dass ein Klinikaufenthalt erforderlich sei, griff sich dieser ein Samuraischwert und griff den Arzt damit an. ",
+            "tokenIds": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38
+            ],
+            "tokens": [
+                "Nachdem",
+                "der",
+                "Arzt",
+                "dem",
+                "50-Jährigen",
+                "bekannt",
+                "gegeben",
+                "hatte",
+                ",",
+                "dass",
+                "ein",
+                "Klinikaufenthalt",
+                "erforderlich",
+                "sei",
+                ",",
+                "griff",
+                "sich",
+                "dieser",
+                "ein",
+                "Samuraischwert",
+                "und",
+                "griff",
+                "den",
+                "Arzt",
+                "damit",
+                "an",
+                "."
+            ]
+        },
+        {
+            "begin": 39,
+            "charBegin": 259,
+            "charEnd": 415,
+            "end": 67,
+            "id": 2,
+            "text": "Er drohte damit, jeden mit dem Schwert anzugreifen, der seine Wohnung betreten würde.\n \nDem Angegriffenen gelang es, unverletzt aus der Wohnung zu flüchten. ",
+            "tokenIds": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66
+            ],
+            "tokens": [
+                "Er",
+                "drohte",
+                "damit",
+                ",",
+                "jeden",
+                "mit",
+                "dem",
+                "Schwert",
+                "anzugreifen",
+                ",",
+                "der",
+                "seine",
+                "Wohnung",
+                "betreten",
+                "würde",
+                ".",
+                "Dem",
+                "Angegriffenen",
+                "gelang",
+                "es",
+                ",",
+                "unverletzt",
+                "aus",
+                "der",
+                "Wohnung",
+                "zu",
+                "flüchten",
+                "."
+            ]
+        },
+        {
+            "begin": 67,
+            "charBegin": 416,
+            "charEnd": 546,
+            "end": 88,
+            "id": 3,
+            "text": "Nachdem er sich in Sicherheit befand, verständigte der Mediziner die Polizei und wies auf die Gefährlichkeit seines Patienten hin. ",
+            "tokenIds": [
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "tokens": [
+                "Nachdem",
+                "er",
+                "sich",
+                "in",
+                "Sicherheit",
+                "befand",
+                ",",
+                "verständigte",
+                "der",
+                "Mediziner",
+                "die",
+                "Polizei",
+                "und",
+                "wies",
+                "auf",
+                "die",
+                "Gefährlichkeit",
+                "seines",
+                "Patienten",
+                "hin",
+                "."
+            ]
+        },
+        {
+            "begin": 88,
+            "charBegin": 547,
+            "charEnd": 588,
+            "end": 94,
+            "id": 4,
+            "text": "Starke Polizeikräfte umstellten das Haus. ",
+            "tokenIds": [
+                88,
+                89,
+                90,
+                91,
+                92,
+                93
+            ],
+            "tokens": [
+                "Starke",
+                "Polizeikräfte",
+                "umstellten",
+                "das",
+                "Haus",
+                "."
+            ]
+        },
+        {
+            "begin": 94,
+            "charBegin": 589,
+            "charEnd": 692,
+            "end": 108,
+            "id": 5,
+            "text": "Zu dem 50-Jährigen wurde telefonisch und später durch die geschlossene Wohnungstür Kontakt aufgenommen. ",
+            "tokenIds": [
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107
+            ],
+            "tokens": [
+                "Zu",
+                "dem",
+                "50-Jährigen",
+                "wurde",
+                "telefonisch",
+                "und",
+                "später",
+                "durch",
+                "die",
+                "geschlossene",
+                "Wohnungstür",
+                "Kontakt",
+                "aufgenommen",
+                "."
+            ]
+        },
+        {
+            "begin": 108,
+            "charBegin": 693,
+            "charEnd": 753,
+            "end": 118,
+            "id": 6,
+            "text": "Nach etwa einer Stunde öffnete der Methadon-Patient die Tür. ",
+            "tokenIds": [
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117
+            ],
+            "tokens": [
+                "Nach",
+                "etwa",
+                "einer",
+                "Stunde",
+                "öffnete",
+                "der",
+                "Methadon-Patient",
+                "die",
+                "Tür",
+                "."
+            ]
+        },
+        {
+            "begin": 118,
+            "charBegin": 754,
+            "charEnd": 822,
+            "end": 129,
+            "id": 7,
+            "text": "Er wurde von Beamten des Unterstützungskommandos (USK) festgenommen; ",
+            "tokenIds": [
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128
+            ],
+            "tokens": [
+                "Er",
+                "wurde",
+                "von",
+                "Beamten",
+                "des",
+                "Unterstützungskommandos",
+                "(",
+                "USK",
+                ")",
+                "festgenommen",
+                ";"
+            ]
+        },
+        {
+            "begin": 129,
+            "charBegin": 823,
+            "charEnd": 854,
+            "end": 135,
+            "id": 8,
+            "text": "dabei verletzte er sich leicht. ",
+            "tokenIds": [
+                129,
+                130,
+                131,
+                132,
+                133,
+                134
+            ],
+            "tokens": [
+                "dabei",
+                "verletzte",
+                "er",
+                "sich",
+                "leicht",
+                "."
+            ]
+        },
+        {
+            "begin": 135,
+            "charBegin": 855,
+            "charEnd": 923,
+            "end": 144,
+            "id": 9,
+            "text": "Eine ambulante Versorgung durch den Rettungsdienst war erforderlich. ",
+            "tokenIds": [
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143
+            ],
+            "tokens": [
+                "Eine",
+                "ambulante",
+                "Versorgung",
+                "durch",
+                "den",
+                "Rettungsdienst",
+                "war",
+                "erforderlich",
+                "."
+            ]
+        },
+        {
+            "begin": 144,
+            "charBegin": 924,
+            "charEnd": 974,
+            "end": 152,
+            "id": 10,
+            "text": "Die Wohnung wurde nach weiteren Waffen durchsucht. ",
+            "tokenIds": [
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151
+            ],
+            "tokens": [
+                "Die",
+                "Wohnung",
+                "wurde",
+                "nach",
+                "weiteren",
+                "Waffen",
+                "durchsucht",
+                "."
+            ]
+        },
+        {
+            "begin": 152,
+            "charBegin": 975,
+            "charEnd": 1034,
+            "end": 160,
+            "id": 11,
+            "text": "Die Ermittlungen wurden von der Kriminalpolizei übernommen.",
+            "tokenIds": [
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159
+            ],
+            "tokens": [
+                "Die",
+                "Ermittlungen",
+                "wurden",
+                "von",
+                "der",
+                "Kriminalpolizei",
+                "übernommen",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 17,
+            "id": 1,
+            "sentence": 1,
+            "text": "Dienstagmittag",
+            "word": 2
+        },
+        {
+            "charBegin": 18,
+            "charEnd": 24,
+            "id": 2,
+            "sentence": 1,
+            "text": "machte",
+            "word": 3
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 28,
+            "id": 3,
+            "sentence": 1,
+            "text": "ein",
+            "word": 4
+        },
+        {
+            "charBegin": 29,
+            "charEnd": 33,
+            "id": 4,
+            "sentence": 1,
+            "text": "Arzt",
+            "word": 5
+        },
+        {
+            "charBegin": 34,
+            "charEnd": 39,
+            "id": 5,
+            "sentence": 1,
+            "text": "einen",
+            "word": 6
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 50,
+            "id": 6,
+            "sentence": 1,
+            "text": "Hausbesuch",
+            "word": 7
+        },
+        {
+            "charBegin": 51,
+            "charEnd": 54,
+            "id": 7,
+            "sentence": 1,
+            "text": "bei",
+            "word": 8
+        },
+        {
+            "charBegin": 55,
+            "charEnd": 60,
+            "id": 8,
+            "sentence": 1,
+            "text": "einem",
+            "word": 9
+        },
+        {
+            "charBegin": 61,
+            "charEnd": 72,
+            "id": 9,
+            "sentence": 1,
+            "text": "50-jährigen",
+            "word": 10
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 91,
+            "id": 10,
+            "sentence": 1,
+            "text": "Methadon-Patienten",
+            "word": 11
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 92,
+            "id": 11,
+            "sentence": 1,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 93,
+            "charEnd": 100,
+            "id": 12,
+            "sentence": 2,
+            "text": "Nachdem",
+            "word": 1
+        },
+        {
+            "charBegin": 101,
+            "charEnd": 104,
+            "id": 13,
+            "sentence": 2,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 105,
+            "charEnd": 109,
+            "id": 14,
+            "sentence": 2,
+            "text": "Arzt",
+            "word": 3
+        },
+        {
+            "charBegin": 110,
+            "charEnd": 113,
+            "id": 15,
+            "sentence": 2,
+            "text": "dem",
+            "word": 4
+        },
+        {
+            "charBegin": 114,
+            "charEnd": 125,
+            "id": 16,
+            "sentence": 2,
+            "text": "50-Jährigen",
+            "word": 5
+        },
+        {
+            "charBegin": 126,
+            "charEnd": 133,
+            "id": 17,
+            "sentence": 2,
+            "text": "bekannt",
+            "word": 6
+        },
+        {
+            "charBegin": 134,
+            "charEnd": 141,
+            "id": 18,
+            "sentence": 2,
+            "text": "gegeben",
+            "word": 7
+        },
+        {
+            "charBegin": 142,
+            "charEnd": 147,
+            "id": 19,
+            "sentence": 2,
+            "text": "hatte",
+            "word": 8
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 148,
+            "id": 20,
+            "sentence": 2,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 153,
+            "id": 21,
+            "sentence": 2,
+            "text": "dass",
+            "word": 10
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 157,
+            "id": 22,
+            "sentence": 2,
+            "text": "ein",
+            "word": 11
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 174,
+            "id": 23,
+            "sentence": 2,
+            "text": "Klinikaufenthalt",
+            "word": 12
+        },
+        {
+            "charBegin": 175,
+            "charEnd": 187,
+            "id": 24,
+            "sentence": 2,
+            "text": "erforderlich",
+            "word": 13
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 191,
+            "id": 25,
+            "sentence": 2,
+            "text": "sei",
+            "word": 14
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 192,
+            "id": 26,
+            "sentence": 2,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 198,
+            "id": 27,
+            "sentence": 2,
+            "text": "griff",
+            "word": 16
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 203,
+            "id": 28,
+            "sentence": 2,
+            "text": "sich",
+            "word": 17
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 210,
+            "id": 29,
+            "sentence": 2,
+            "text": "dieser",
+            "word": 18
+        },
+        {
+            "charBegin": 211,
+            "charEnd": 214,
+            "id": 30,
+            "sentence": 2,
+            "text": "ein",
+            "word": 19
+        },
+        {
+            "charBegin": 215,
+            "charEnd": 229,
+            "id": 31,
+            "sentence": 2,
+            "text": "Samuraischwert",
+            "word": 20
+        },
+        {
+            "charBegin": 230,
+            "charEnd": 233,
+            "id": 32,
+            "sentence": 2,
+            "text": "und",
+            "word": 21
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 239,
+            "id": 33,
+            "sentence": 2,
+            "text": "griff",
+            "word": 22
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 243,
+            "id": 34,
+            "sentence": 2,
+            "text": "den",
+            "word": 23
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 248,
+            "id": 35,
+            "sentence": 2,
+            "text": "Arzt",
+            "word": 24
+        },
+        {
+            "charBegin": 249,
+            "charEnd": 254,
+            "id": 36,
+            "sentence": 2,
+            "text": "damit",
+            "word": 25
+        },
+        {
+            "charBegin": 255,
+            "charEnd": 257,
+            "id": 37,
+            "sentence": 2,
+            "text": "an",
+            "word": 26
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 258,
+            "id": 38,
+            "sentence": 2,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 261,
+            "id": 39,
+            "sentence": 3,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 268,
+            "id": 40,
+            "sentence": 3,
+            "text": "drohte",
+            "word": 2
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 274,
+            "id": 41,
+            "sentence": 3,
+            "text": "damit",
+            "word": 3
+        },
+        {
+            "charBegin": 274,
+            "charEnd": 275,
+            "id": 42,
+            "sentence": 3,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 281,
+            "id": 43,
+            "sentence": 3,
+            "text": "jeden",
+            "word": 5
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 285,
+            "id": 44,
+            "sentence": 3,
+            "text": "mit",
+            "word": 6
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 289,
+            "id": 45,
+            "sentence": 3,
+            "text": "dem",
+            "word": 7
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 297,
+            "id": 46,
+            "sentence": 3,
+            "text": "Schwert",
+            "word": 8
+        },
+        {
+            "charBegin": 298,
+            "charEnd": 309,
+            "id": 47,
+            "sentence": 3,
+            "text": "anzugreifen",
+            "word": 9
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 310,
+            "id": 48,
+            "sentence": 3,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 311,
+            "charEnd": 314,
+            "id": 49,
+            "sentence": 3,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 320,
+            "id": 50,
+            "sentence": 3,
+            "text": "seine",
+            "word": 12
+        },
+        {
+            "charBegin": 321,
+            "charEnd": 328,
+            "id": 51,
+            "sentence": 3,
+            "text": "Wohnung",
+            "word": 13
+        },
+        {
+            "charBegin": 329,
+            "charEnd": 337,
+            "id": 52,
+            "sentence": 3,
+            "text": "betreten",
+            "word": 14
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 343,
+            "id": 53,
+            "sentence": 3,
+            "text": "würde",
+            "word": 15
+        },
+        {
+            "charBegin": 343,
+            "charEnd": 344,
+            "id": 54,
+            "sentence": 3,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 347,
+            "charEnd": 350,
+            "id": 55,
+            "sentence": 3,
+            "text": "Dem",
+            "word": 17
+        },
+        {
+            "charBegin": 351,
+            "charEnd": 364,
+            "id": 56,
+            "sentence": 3,
+            "text": "Angegriffenen",
+            "word": 18
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 371,
+            "id": 57,
+            "sentence": 3,
+            "text": "gelang",
+            "word": 19
+        },
+        {
+            "charBegin": 372,
+            "charEnd": 374,
+            "id": 58,
+            "sentence": 3,
+            "text": "es",
+            "word": 20
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 375,
+            "id": 59,
+            "sentence": 3,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 386,
+            "id": 60,
+            "sentence": 3,
+            "text": "unverletzt",
+            "word": 22
+        },
+        {
+            "charBegin": 387,
+            "charEnd": 390,
+            "id": 61,
+            "sentence": 3,
+            "text": "aus",
+            "word": 23
+        },
+        {
+            "charBegin": 391,
+            "charEnd": 394,
+            "id": 62,
+            "sentence": 3,
+            "text": "der",
+            "word": 24
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 402,
+            "id": 63,
+            "sentence": 3,
+            "text": "Wohnung",
+            "word": 25
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 405,
+            "id": 64,
+            "sentence": 3,
+            "text": "zu",
+            "word": 26
+        },
+        {
+            "charBegin": 406,
+            "charEnd": 414,
+            "id": 65,
+            "sentence": 3,
+            "text": "flüchten",
+            "word": 27
+        },
+        {
+            "charBegin": 414,
+            "charEnd": 415,
+            "id": 66,
+            "sentence": 3,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 423,
+            "id": 67,
+            "sentence": 4,
+            "text": "Nachdem",
+            "word": 1
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 426,
+            "id": 68,
+            "sentence": 4,
+            "text": "er",
+            "word": 2
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 431,
+            "id": 69,
+            "sentence": 4,
+            "text": "sich",
+            "word": 3
+        },
+        {
+            "charBegin": 432,
+            "charEnd": 434,
+            "id": 70,
+            "sentence": 4,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 445,
+            "id": 71,
+            "sentence": 4,
+            "text": "Sicherheit",
+            "word": 5
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 452,
+            "id": 72,
+            "sentence": 4,
+            "text": "befand",
+            "word": 6
+        },
+        {
+            "charBegin": 452,
+            "charEnd": 453,
+            "id": 73,
+            "sentence": 4,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 454,
+            "charEnd": 466,
+            "id": 74,
+            "sentence": 4,
+            "text": "verständigte",
+            "word": 8
+        },
+        {
+            "charBegin": 467,
+            "charEnd": 470,
+            "id": 75,
+            "sentence": 4,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 480,
+            "id": 76,
+            "sentence": 4,
+            "text": "Mediziner",
+            "word": 10
+        },
+        {
+            "charBegin": 481,
+            "charEnd": 484,
+            "id": 77,
+            "sentence": 4,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 485,
+            "charEnd": 492,
+            "id": 78,
+            "sentence": 4,
+            "text": "Polizei",
+            "word": 12
+        },
+        {
+            "charBegin": 493,
+            "charEnd": 496,
+            "id": 79,
+            "sentence": 4,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 497,
+            "charEnd": 501,
+            "id": 80,
+            "sentence": 4,
+            "text": "wies",
+            "word": 14
+        },
+        {
+            "charBegin": 502,
+            "charEnd": 505,
+            "id": 81,
+            "sentence": 4,
+            "text": "auf",
+            "word": 15
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 509,
+            "id": 82,
+            "sentence": 4,
+            "text": "die",
+            "word": 16
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 524,
+            "id": 83,
+            "sentence": 4,
+            "text": "Gefährlichkeit",
+            "word": 17
+        },
+        {
+            "charBegin": 525,
+            "charEnd": 531,
+            "id": 84,
+            "sentence": 4,
+            "text": "seines",
+            "word": 18
+        },
+        {
+            "charBegin": 532,
+            "charEnd": 541,
+            "id": 85,
+            "sentence": 4,
+            "text": "Patienten",
+            "word": 19
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 545,
+            "id": 86,
+            "sentence": 4,
+            "text": "hin",
+            "word": 20
+        },
+        {
+            "charBegin": 545,
+            "charEnd": 546,
+            "id": 87,
+            "sentence": 4,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 547,
+            "charEnd": 553,
+            "id": 88,
+            "sentence": 5,
+            "text": "Starke",
+            "word": 1
+        },
+        {
+            "charBegin": 554,
+            "charEnd": 567,
+            "id": 89,
+            "sentence": 5,
+            "text": "Polizeikräfte",
+            "word": 2
+        },
+        {
+            "charBegin": 568,
+            "charEnd": 578,
+            "id": 90,
+            "sentence": 5,
+            "text": "umstellten",
+            "word": 3
+        },
+        {
+            "charBegin": 579,
+            "charEnd": 582,
+            "id": 91,
+            "sentence": 5,
+            "text": "das",
+            "word": 4
+        },
+        {
+            "charBegin": 583,
+            "charEnd": 587,
+            "id": 92,
+            "sentence": 5,
+            "text": "Haus",
+            "word": 5
+        },
+        {
+            "charBegin": 587,
+            "charEnd": 588,
+            "id": 93,
+            "sentence": 5,
+            "text": ".",
+            "word": 6
+        },
+        {
+            "charBegin": 589,
+            "charEnd": 591,
+            "id": 94,
+            "sentence": 6,
+            "text": "Zu",
+            "word": 1
+        },
+        {
+            "charBegin": 592,
+            "charEnd": 595,
+            "id": 95,
+            "sentence": 6,
+            "text": "dem",
+            "word": 2
+        },
+        {
+            "charBegin": 596,
+            "charEnd": 607,
+            "id": 96,
+            "sentence": 6,
+            "text": "50-Jährigen",
+            "word": 3
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 613,
+            "id": 97,
+            "sentence": 6,
+            "text": "wurde",
+            "word": 4
+        },
+        {
+            "charBegin": 614,
+            "charEnd": 625,
+            "id": 98,
+            "sentence": 6,
+            "text": "telefonisch",
+            "word": 5
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 629,
+            "id": 99,
+            "sentence": 6,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 630,
+            "charEnd": 636,
+            "id": 100,
+            "sentence": 6,
+            "text": "später",
+            "word": 7
+        },
+        {
+            "charBegin": 637,
+            "charEnd": 642,
+            "id": 101,
+            "sentence": 6,
+            "text": "durch",
+            "word": 8
+        },
+        {
+            "charBegin": 643,
+            "charEnd": 646,
+            "id": 102,
+            "sentence": 6,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 647,
+            "charEnd": 659,
+            "id": 103,
+            "sentence": 6,
+            "text": "geschlossene",
+            "word": 10
+        },
+        {
+            "charBegin": 660,
+            "charEnd": 671,
+            "id": 104,
+            "sentence": 6,
+            "text": "Wohnungstür",
+            "word": 11
+        },
+        {
+            "charBegin": 672,
+            "charEnd": 679,
+            "id": 105,
+            "sentence": 6,
+            "text": "Kontakt",
+            "word": 12
+        },
+        {
+            "charBegin": 680,
+            "charEnd": 691,
+            "id": 106,
+            "sentence": 6,
+            "text": "aufgenommen",
+            "word": 13
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 692,
+            "id": 107,
+            "sentence": 6,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 693,
+            "charEnd": 697,
+            "id": 108,
+            "sentence": 7,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 698,
+            "charEnd": 702,
+            "id": 109,
+            "sentence": 7,
+            "text": "etwa",
+            "word": 2
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 708,
+            "id": 110,
+            "sentence": 7,
+            "text": "einer",
+            "word": 3
+        },
+        {
+            "charBegin": 709,
+            "charEnd": 715,
+            "id": 111,
+            "sentence": 7,
+            "text": "Stunde",
+            "word": 4
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 723,
+            "id": 112,
+            "sentence": 7,
+            "text": "öffnete",
+            "word": 5
+        },
+        {
+            "charBegin": 724,
+            "charEnd": 727,
+            "id": 113,
+            "sentence": 7,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 728,
+            "charEnd": 744,
+            "id": 114,
+            "sentence": 7,
+            "text": "Methadon-Patient",
+            "word": 7
+        },
+        {
+            "charBegin": 745,
+            "charEnd": 748,
+            "id": 115,
+            "sentence": 7,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 749,
+            "charEnd": 752,
+            "id": 116,
+            "sentence": 7,
+            "text": "Tür",
+            "word": 9
+        },
+        {
+            "charBegin": 752,
+            "charEnd": 753,
+            "id": 117,
+            "sentence": 7,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 754,
+            "charEnd": 756,
+            "id": 118,
+            "sentence": 8,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 762,
+            "id": 119,
+            "sentence": 8,
+            "text": "wurde",
+            "word": 2
+        },
+        {
+            "charBegin": 763,
+            "charEnd": 766,
+            "id": 120,
+            "sentence": 8,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 767,
+            "charEnd": 774,
+            "id": 121,
+            "sentence": 8,
+            "text": "Beamten",
+            "word": 4
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 778,
+            "id": 122,
+            "sentence": 8,
+            "text": "des",
+            "word": 5
+        },
+        {
+            "charBegin": 779,
+            "charEnd": 802,
+            "id": 123,
+            "sentence": 8,
+            "text": "Unterstützungskommandos",
+            "word": 6
+        },
+        {
+            "charBegin": 803,
+            "charEnd": 804,
+            "id": 124,
+            "sentence": 8,
+            "text": "(",
+            "word": 7
+        },
+        {
+            "charBegin": 804,
+            "charEnd": 807,
+            "id": 125,
+            "sentence": 8,
+            "text": "USK",
+            "word": 8
+        },
+        {
+            "charBegin": 807,
+            "charEnd": 808,
+            "id": 126,
+            "sentence": 8,
+            "text": ")",
+            "word": 9
+        },
+        {
+            "charBegin": 809,
+            "charEnd": 821,
+            "id": 127,
+            "sentence": 8,
+            "text": "festgenommen",
+            "word": 10
+        },
+        {
+            "charBegin": 821,
+            "charEnd": 822,
+            "id": 128,
+            "sentence": 8,
+            "text": ";",
+            "word": 11
+        },
+        {
+            "charBegin": 823,
+            "charEnd": 828,
+            "id": 129,
+            "sentence": 9,
+            "text": "dabei",
+            "word": 1
+        },
+        {
+            "charBegin": 829,
+            "charEnd": 838,
+            "id": 130,
+            "sentence": 9,
+            "text": "verletzte",
+            "word": 2
+        },
+        {
+            "charBegin": 839,
+            "charEnd": 841,
+            "id": 131,
+            "sentence": 9,
+            "text": "er",
+            "word": 3
+        },
+        {
+            "charBegin": 842,
+            "charEnd": 846,
+            "id": 132,
+            "sentence": 9,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 853,
+            "id": 133,
+            "sentence": 9,
+            "text": "leicht",
+            "word": 5
+        },
+        {
+            "charBegin": 853,
+            "charEnd": 854,
+            "id": 134,
+            "sentence": 9,
+            "text": ".",
+            "word": 6
+        },
+        {
+            "charBegin": 855,
+            "charEnd": 859,
+            "id": 135,
+            "sentence": 10,
+            "text": "Eine",
+            "word": 1
+        },
+        {
+            "charBegin": 860,
+            "charEnd": 869,
+            "id": 136,
+            "sentence": 10,
+            "text": "ambulante",
+            "word": 2
+        },
+        {
+            "charBegin": 870,
+            "charEnd": 880,
+            "id": 137,
+            "sentence": 10,
+            "text": "Versorgung",
+            "word": 3
+        },
+        {
+            "charBegin": 881,
+            "charEnd": 886,
+            "id": 138,
+            "sentence": 10,
+            "text": "durch",
+            "word": 4
+        },
+        {
+            "charBegin": 887,
+            "charEnd": 890,
+            "id": 139,
+            "sentence": 10,
+            "text": "den",
+            "word": 5
+        },
+        {
+            "charBegin": 891,
+            "charEnd": 905,
+            "id": 140,
+            "sentence": 10,
+            "text": "Rettungsdienst",
+            "word": 6
+        },
+        {
+            "charBegin": 906,
+            "charEnd": 909,
+            "id": 141,
+            "sentence": 10,
+            "text": "war",
+            "word": 7
+        },
+        {
+            "charBegin": 910,
+            "charEnd": 922,
+            "id": 142,
+            "sentence": 10,
+            "text": "erforderlich",
+            "word": 8
+        },
+        {
+            "charBegin": 922,
+            "charEnd": 923,
+            "id": 143,
+            "sentence": 10,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 924,
+            "charEnd": 927,
+            "id": 144,
+            "sentence": 11,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 928,
+            "charEnd": 935,
+            "id": 145,
+            "sentence": 11,
+            "text": "Wohnung",
+            "word": 2
+        },
+        {
+            "charBegin": 936,
+            "charEnd": 941,
+            "id": 146,
+            "sentence": 11,
+            "text": "wurde",
+            "word": 3
+        },
+        {
+            "charBegin": 942,
+            "charEnd": 946,
+            "id": 147,
+            "sentence": 11,
+            "text": "nach",
+            "word": 4
+        },
+        {
+            "charBegin": 947,
+            "charEnd": 955,
+            "id": 148,
+            "sentence": 11,
+            "text": "weiteren",
+            "word": 5
+        },
+        {
+            "charBegin": 956,
+            "charEnd": 962,
+            "id": 149,
+            "sentence": 11,
+            "text": "Waffen",
+            "word": 6
+        },
+        {
+            "charBegin": 963,
+            "charEnd": 973,
+            "id": 150,
+            "sentence": 11,
+            "text": "durchsucht",
+            "word": 7
+        },
+        {
+            "charBegin": 973,
+            "charEnd": 974,
+            "id": 151,
+            "sentence": 11,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 975,
+            "charEnd": 978,
+            "id": 152,
+            "sentence": 12,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 979,
+            "charEnd": 991,
+            "id": 153,
+            "sentence": 12,
+            "text": "Ermittlungen",
+            "word": 2
+        },
+        {
+            "charBegin": 992,
+            "charEnd": 998,
+            "id": 154,
+            "sentence": 12,
+            "text": "wurden",
+            "word": 3
+        },
+        {
+            "charBegin": 999,
+            "charEnd": 1002,
+            "id": 155,
+            "sentence": 12,
+            "text": "von",
+            "word": 4
+        },
+        {
+            "charBegin": 1003,
+            "charEnd": 1006,
+            "id": 156,
+            "sentence": 12,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 1007,
+            "charEnd": 1022,
+            "id": 157,
+            "sentence": 12,
+            "text": "Kriminalpolizei",
+            "word": 6
+        },
+        {
+            "charBegin": 1023,
+            "charEnd": 1033,
+            "id": 158,
+            "sentence": 12,
+            "text": "übernommen",
+            "word": 7
+        },
+        {
+            "charBegin": 1033,
+            "charEnd": 1034,
+            "id": 159,
+            "sentence": 12,
+            "text": ".",
+            "word": 8
+        }
+    ]
+}

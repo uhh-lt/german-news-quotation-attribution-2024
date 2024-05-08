@@ -1,0 +1,4058 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 14,
+                        "charBegin": 83,
+                        "charEnd": 197,
+                        "end": 31
+                    }
+                ],
+                "text": "Insgesamt spricht die Polizei von weniger Auseinandersetzungen der beiden Lager, dennoch ist der Sachschaden hoch.",
+                "tokenIds": [
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 16,
+                        "charBegin": 101,
+                        "charEnd": 112,
+                        "end": 18
+                    }
+                ],
+                "text": "die Polizei",
+                "tokenIds": [
+                    16,
+                    17
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 39,
+                        "charBegin": 236,
+                        "charEnd": 331,
+                        "end": 55
+                    }
+                ],
+                "text": "Allein in einem Depot im Département Yvelines seien durch einen Brand 27 Busse zerstört worden.",
+                "tokenIds": [
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 16,
+                        "charBegin": 101,
+                        "charEnd": 112,
+                        "end": 18
+                    }
+                ],
+                "text": "die Polizei",
+                "tokenIds": [
+                    16,
+                    17
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 66,
+                        "charBegin": 420,
+                        "charEnd": 493,
+                        "end": 75
+                    }
+                ],
+                "text": "Im Département Seine-Saint-Denis sollen drei Lagerhallen abgebrannt sein.",
+                "tokenIds": [
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 16,
+                        "charBegin": 101,
+                        "charEnd": 112,
+                        "end": 18
+                    }
+                ],
+                "text": "die Polizei",
+                "tokenIds": [
+                    16,
+                    17
+                ]
+            },
+            "type": "FreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 152,
+                        "charBegin": 1062,
+                        "charEnd": 1137,
+                        "end": 162
+                    },
+                    {
+                        "begin": 165,
+                        "charBegin": 1148,
+                        "charEnd": 1189,
+                        "end": 173
+                    }
+                ],
+                "text": "Der Innenminister Frankreichs, Nicolas Sarkozy, verteidigte die Bezeichnung , mit der er die Aufständigen titulierte.",
+                "tokenIds": [
+                    152,
+                    153,
+                    154,
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    165,
+                    166,
+                    167,
+                    168,
+                    169,
+                    170,
+                    171,
+                    172
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 162,
+                        "charBegin": 1138,
+                        "charEnd": 1148,
+                        "end": 165
+                    }
+                ],
+                "text": "„Gesindel“",
+                "tokenIds": [
+                    162,
+                    163,
+                    164
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 152,
+                        "charBegin": 1062,
+                        "charEnd": 1108,
+                        "end": 158
+                    }
+                ],
+                "text": "Der Innenminister Frankreichs, Nicolas Sarkozy",
+                "tokenIds": [
+                    152,
+                    153,
+                    154,
+                    155,
+                    156,
+                    157
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 174,
+                        "charBegin": 1193,
+                        "charEnd": 1198,
+                        "end": 175
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    174
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 173,
+                        "charBegin": 1190,
+                        "charEnd": 1199,
+                        "end": 176
+                    }
+                ],
+                "text": "Er sagte,",
+                "tokenIds": [
+                    173,
+                    174,
+                    175
+                ]
+            },
+            "hasNested": true,
+            "id": 4,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 176,
+                        "charBegin": 1200,
+                        "charEnd": 1338,
+                        "end": 200
+                    }
+                ],
+                "text": "wer mit scharfer Munition auf „Beamten, Familienväter oder junge Leute von der eigenen Hautfarbe“ schiesse, könne nur so bezeichnet werden",
+                "tokenIds": [
+                    176,
+                    177,
+                    178,
+                    179,
+                    180,
+                    181,
+                    182,
+                    183,
+                    184,
+                    185,
+                    186,
+                    187,
+                    188,
+                    189,
+                    190,
+                    191,
+                    192,
+                    193,
+                    194,
+                    195,
+                    196,
+                    197,
+                    198,
+                    199
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 173,
+                        "charBegin": 1190,
+                        "charEnd": 1192,
+                        "end": 174
+                    }
+                ],
+                "text": "Er",
+                "tokenIds": [
+                    173
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 174,
+                        "charBegin": 1193,
+                        "charEnd": 1198,
+                        "end": 175
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    174
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 173,
+                        "charBegin": 1190,
+                        "charEnd": 1199,
+                        "end": 176
+                    }
+                ],
+                "text": "Er sagte,",
+                "tokenIds": [
+                    173,
+                    174,
+                    175
+                ]
+            },
+            "hasNested": false,
+            "id": 5,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 181,
+                        "charBegin": 1230,
+                        "charEnd": 1297,
+                        "end": 193
+                    }
+                ],
+                "text": "„Beamten, Familienväter oder junge Leute von der eigenen Hautfarbe“",
+                "tokenIds": [
+                    181,
+                    182,
+                    183,
+                    184,
+                    185,
+                    186,
+                    187,
+                    188,
+                    189,
+                    190,
+                    191,
+                    192
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 173,
+                        "charBegin": 1190,
+                        "charEnd": 1192,
+                        "end": 174
+                    }
+                ],
+                "text": "Er",
+                "tokenIds": [
+                    173
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 6,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 201,
+                        "charBegin": 1340,
+                        "charEnd": 1428,
+                        "end": 212
+                    }
+                ],
+                "text": "Gleichzeitig vermutet er hinter den Ausschreitungen eine perfekte zentrale Organisation.",
+                "tokenIds": [
+                    201,
+                    202,
+                    203,
+                    204,
+                    205,
+                    206,
+                    207,
+                    208,
+                    209,
+                    210,
+                    211
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 203,
+                        "charBegin": 1362,
+                        "charEnd": 1364,
+                        "end": 204
+                    }
+                ],
+                "text": "er",
+                "tokenIds": [
+                    203
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 212,
+                        "charBegin": 1429,
+                        "charEnd": 1433,
+                        "end": 213
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    212
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 212,
+                        "charBegin": 1429,
+                        "charEnd": 1449,
+                        "end": 216
+                    }
+                ],
+                "text": "Nach Angaben von n24",
+                "tokenIds": [
+                    212,
+                    213,
+                    214,
+                    215
+                ]
+            },
+            "hasNested": false,
+            "id": 7,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 216,
+                        "charBegin": 1450,
+                        "charEnd": 1477,
+                        "end": 221
+                    }
+                ],
+                "text": "sind die Gruppen sehr mobil",
+                "tokenIds": [
+                    216,
+                    217,
+                    218,
+                    219,
+                    220
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 213,
+                        "charBegin": 1434,
+                        "charEnd": 1449,
+                        "end": 216
+                    }
+                ],
+                "text": "Angaben von n24",
+                "tokenIds": [
+                    213,
+                    214,
+                    215
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 8,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 222,
+                        "charBegin": 1479,
+                        "charEnd": 1577,
+                        "end": 236
+                    }
+                ],
+                "text": "Sie würden sich durch Mobilfunktelefone verständigen und so Katz-und-Maus mit der Polizei spielen.",
+                "tokenIds": [
+                    222,
+                    223,
+                    224,
+                    225,
+                    226,
+                    227,
+                    228,
+                    229,
+                    230,
+                    231,
+                    232,
+                    233,
+                    234,
+                    235
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 213,
+                        "charBegin": 1434,
+                        "charEnd": 1449,
+                        "end": 216
+                    }
+                ],
+                "text": "Angaben von n24",
+                "tokenIds": [
+                    213,
+                    214,
+                    215
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 241,
+                        "charBegin": 1616,
+                        "charEnd": 1626,
+                        "end": 242
+                    }
+                ],
+                "text": "berichtete",
+                "tokenIds": [
+                    241
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 236,
+                        "charBegin": 1579,
+                        "charEnd": 1627,
+                        "end": 243
+                    }
+                ],
+                "text": "Ein Reporter des Fernsehsenders n-tv berichtete,",
+                "tokenIds": [
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241,
+                    242
+                ]
+            },
+            "hasNested": false,
+            "id": 9,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 243,
+                        "charBegin": 1628,
+                        "charEnd": 1691,
+                        "end": 254
+                    }
+                ],
+                "text": "dass Inbrandsetzen der Autos in den Vororten eine Art Sport sei",
+                "tokenIds": [
+                    243,
+                    244,
+                    245,
+                    246,
+                    247,
+                    248,
+                    249,
+                    250,
+                    251,
+                    252,
+                    253
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 236,
+                        "charBegin": 1579,
+                        "charEnd": 1615,
+                        "end": 241
+                    }
+                ],
+                "text": "Ein Reporter des Fernsehsenders n-tv",
+                "tokenIds": [
+                    236,
+                    237,
+                    238,
+                    239,
+                    240
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 10,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 255,
+                        "charBegin": 1693,
+                        "charEnd": 1743,
+                        "end": 264
+                    }
+                ],
+                "text": "Jedes Jahr würden dadurch etwa 600 Autos zerstört.",
+                "tokenIds": [
+                    255,
+                    256,
+                    257,
+                    258,
+                    259,
+                    260,
+                    261,
+                    262,
+                    263
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 236,
+                        "charBegin": 1579,
+                        "charEnd": 1615,
+                        "end": 241
+                    }
+                ],
+                "text": "Ein Reporter des Fernsehsenders n-tv",
+                "tokenIds": [
+                    236,
+                    237,
+                    238,
+                    239,
+                    240
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 11,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 274,
+                        "charBegin": 1797,
+                        "charEnd": 1896,
+                        "end": 293
+                    }
+                ],
+                "text": "Eine Reporterin von n24 sprach von 800 Autos, die in diesem Jahr allein bei Lyon angezündet wurden.",
+                "tokenIds": [
+                    274,
+                    275,
+                    276,
+                    277,
+                    278,
+                    279,
+                    280,
+                    281,
+                    282,
+                    283,
+                    284,
+                    285,
+                    286,
+                    287,
+                    288,
+                    289,
+                    290,
+                    291,
+                    292
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 274,
+                        "charBegin": 1797,
+                        "charEnd": 1820,
+                        "end": 278
+                    }
+                ],
+                "text": "Eine Reporterin von n24",
+                "tokenIds": [
+                    274,
+                    275,
+                    276,
+                    277
+                ]
+            },
+            "type": "Reported"
+        }
+    ],
+    "documentName": "15510 - Bilanz der achten Nacht der Pariser Ausschreitungen (2005-11-04)",
+    "originalText": "Auch in der achten Nacht gab es schwere Ausschreitungen in den Pariser Vorstädten. Insgesamt spricht die Polizei von weniger Auseinandersetzungen der beiden Lager, dennoch ist der Sachschaden hoch. In etwa 400 Autos wurde Feuer gelegt. Allein in einem Depot im Département Yvelines seien durch einen Brand 27 Busse zerstört worden. Brandsätze wurden auch gegen Bürgermeisterämter, Schulen und Polizeistationen geworfen. Im Département Seine-Saint-Denis sollen drei Lagerhallen abgebrannt sein. Fünf Polizisten wurden durch Steinwürfe leicht verletzt, und an einigen Einsatzwagen der Bereitschaftspolizei CRS wurden Einschusslöcher von Schrotwaffen gefunden. In der Nacht waren etwa 1.300 Polizisten im Einsatz.\n\nDer Öffentliche Nahverkehr wurden im Departement Seine-Saint-Denis, dem am schwersten betroffenen Departement, nahezu vollständig eingestellt.\n\nErstmals wurden auch in entfernten Gebieten in Frankreich ähnliche Zwischenfälle gemeldet. Es gab Brandanschläge in dem ostfranzösischen Dijon, der Regionen Côte-d'Or, Bouches-du-Rhône und Seine-Maritime.\n\nDer Innenminister Frankreichs, Nicolas Sarkozy, verteidigte die Bezeichnung „Gesindel“, mit der er die Aufständigen titulierte. Er sagte, wer mit scharfer Munition auf „Beamten, Familienväter oder junge Leute von der eigenen Hautfarbe“ schiesse, könne nur so bezeichnet werden. Gleichzeitig vermutet er hinter den Ausschreitungen eine perfekte zentrale Organisation. Nach Angaben von n24 sind die Gruppen sehr mobil. Sie würden sich durch Mobilfunktelefone verständigen und so Katz-und-Maus mit der Polizei spielen.\n\nEin Reporter des Fernsehsenders n-tv berichtete, dass Inbrandsetzen der Autos in den Vororten eine Art Sport sei. Jedes Jahr würden dadurch etwa 600 Autos zerstört. Allein zu Silvester gingen 100 Autos in Flammen auf. Eine Reporterin von n24 sprach von 800 Autos, die in diesem Jahr allein bei Lyon angezündet wurden.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 82,
+            "end": 14,
+            "id": 0,
+            "text": "Auch in der achten Nacht gab es schwere Ausschreitungen in den Pariser Vorstädten. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ],
+            "tokens": [
+                "Auch",
+                "in",
+                "der",
+                "achten",
+                "Nacht",
+                "gab",
+                "es",
+                "schwere",
+                "Ausschreitungen",
+                "in",
+                "den",
+                "Pariser",
+                "Vorstädten",
+                "."
+            ]
+        },
+        {
+            "begin": 14,
+            "charBegin": 83,
+            "charEnd": 197,
+            "end": 31,
+            "id": 1,
+            "text": "Insgesamt spricht die Polizei von weniger Auseinandersetzungen der beiden Lager, dennoch ist der Sachschaden hoch. ",
+            "tokenIds": [
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "tokens": [
+                "Insgesamt",
+                "spricht",
+                "die",
+                "Polizei",
+                "von",
+                "weniger",
+                "Auseinandersetzungen",
+                "der",
+                "beiden",
+                "Lager",
+                ",",
+                "dennoch",
+                "ist",
+                "der",
+                "Sachschaden",
+                "hoch",
+                "."
+            ]
+        },
+        {
+            "begin": 31,
+            "charBegin": 198,
+            "charEnd": 235,
+            "end": 39,
+            "id": 2,
+            "text": "In etwa 400 Autos wurde Feuer gelegt. ",
+            "tokenIds": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38
+            ],
+            "tokens": [
+                "In",
+                "etwa",
+                "400",
+                "Autos",
+                "wurde",
+                "Feuer",
+                "gelegt",
+                "."
+            ]
+        },
+        {
+            "begin": 39,
+            "charBegin": 236,
+            "charEnd": 331,
+            "end": 55,
+            "id": 3,
+            "text": "Allein in einem Depot im Département Yvelines seien durch einen Brand 27 Busse zerstört worden. ",
+            "tokenIds": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "tokens": [
+                "Allein",
+                "in",
+                "einem",
+                "Depot",
+                "im",
+                "Département",
+                "Yvelines",
+                "seien",
+                "durch",
+                "einen",
+                "Brand",
+                "27",
+                "Busse",
+                "zerstört",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "begin": 55,
+            "charBegin": 332,
+            "charEnd": 419,
+            "end": 66,
+            "id": 4,
+            "text": "Brandsätze wurden auch gegen Bürgermeisterämter, Schulen und Polizeistationen geworfen. ",
+            "tokenIds": [
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65
+            ],
+            "tokens": [
+                "Brandsätze",
+                "wurden",
+                "auch",
+                "gegen",
+                "Bürgermeisterämter",
+                ",",
+                "Schulen",
+                "und",
+                "Polizeistationen",
+                "geworfen",
+                "."
+            ]
+        },
+        {
+            "begin": 66,
+            "charBegin": 420,
+            "charEnd": 493,
+            "end": 75,
+            "id": 5,
+            "text": "Im Département Seine-Saint-Denis sollen drei Lagerhallen abgebrannt sein. ",
+            "tokenIds": [
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74
+            ],
+            "tokens": [
+                "Im",
+                "Département",
+                "Seine-Saint-Denis",
+                "sollen",
+                "drei",
+                "Lagerhallen",
+                "abgebrannt",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "begin": 75,
+            "charBegin": 494,
+            "charEnd": 657,
+            "end": 96,
+            "id": 6,
+            "text": "Fünf Polizisten wurden durch Steinwürfe leicht verletzt, und an einigen Einsatzwagen der Bereitschaftspolizei CRS wurden Einschusslöcher von Schrotwaffen gefunden. ",
+            "tokenIds": [
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95
+            ],
+            "tokens": [
+                "Fünf",
+                "Polizisten",
+                "wurden",
+                "durch",
+                "Steinwürfe",
+                "leicht",
+                "verletzt",
+                ",",
+                "und",
+                "an",
+                "einigen",
+                "Einsatzwagen",
+                "der",
+                "Bereitschaftspolizei",
+                "CRS",
+                "wurden",
+                "Einschusslöcher",
+                "von",
+                "Schrotwaffen",
+                "gefunden",
+                "."
+            ]
+        },
+        {
+            "begin": 96,
+            "charBegin": 658,
+            "charEnd": 710,
+            "end": 106,
+            "id": 7,
+            "text": "In der Nacht waren etwa 1.300 Polizisten im Einsatz.",
+            "tokenIds": [
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "tokens": [
+                "In",
+                "der",
+                "Nacht",
+                "waren",
+                "etwa",
+                "1.300",
+                "Polizisten",
+                "im",
+                "Einsatz",
+                "."
+            ]
+        },
+        {
+            "begin": 106,
+            "charBegin": 712,
+            "charEnd": 854,
+            "end": 124,
+            "id": 8,
+            "text": "Der Öffentliche Nahverkehr wurden im Departement Seine-Saint-Denis, dem am schwersten betroffenen Departement, nahezu vollständig eingestellt.",
+            "tokenIds": [
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123
+            ],
+            "tokens": [
+                "Der",
+                "Öffentliche",
+                "Nahverkehr",
+                "wurden",
+                "im",
+                "Departement",
+                "Seine-Saint-Denis",
+                ",",
+                "dem",
+                "am",
+                "schwersten",
+                "betroffenen",
+                "Departement",
+                ",",
+                "nahezu",
+                "vollständig",
+                "eingestellt",
+                "."
+            ]
+        },
+        {
+            "begin": 124,
+            "charBegin": 856,
+            "charEnd": 946,
+            "end": 136,
+            "id": 9,
+            "text": "Erstmals wurden auch in entfernten Gebieten in Frankreich ähnliche Zwischenfälle gemeldet. ",
+            "tokenIds": [
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135
+            ],
+            "tokens": [
+                "Erstmals",
+                "wurden",
+                "auch",
+                "in",
+                "entfernten",
+                "Gebieten",
+                "in",
+                "Frankreich",
+                "ähnliche",
+                "Zwischenfälle",
+                "gemeldet",
+                "."
+            ]
+        },
+        {
+            "begin": 136,
+            "charBegin": 947,
+            "charEnd": 1060,
+            "end": 152,
+            "id": 10,
+            "text": "Es gab Brandanschläge in dem ostfranzösischen Dijon, der Regionen Côte-d'Or, Bouches-du-Rhône und Seine-Maritime.",
+            "tokenIds": [
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151
+            ],
+            "tokens": [
+                "Es",
+                "gab",
+                "Brandanschläge",
+                "in",
+                "dem",
+                "ostfranzösischen",
+                "Dijon",
+                ",",
+                "der",
+                "Regionen",
+                "Côte-d'Or",
+                ",",
+                "Bouches-du-Rhône",
+                "und",
+                "Seine-Maritime",
+                "."
+            ]
+        },
+        {
+            "begin": 152,
+            "charBegin": 1062,
+            "charEnd": 1189,
+            "end": 173,
+            "id": 11,
+            "text": "Der Innenminister Frankreichs, Nicolas Sarkozy, verteidigte die Bezeichnung „Gesindel“, mit der er die Aufständigen titulierte. ",
+            "tokenIds": [
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172
+            ],
+            "tokens": [
+                "Der",
+                "Innenminister",
+                "Frankreichs",
+                ",",
+                "Nicolas",
+                "Sarkozy",
+                ",",
+                "verteidigte",
+                "die",
+                "Bezeichnung",
+                "„",
+                "Gesindel",
+                "“",
+                ",",
+                "mit",
+                "der",
+                "er",
+                "die",
+                "Aufständigen",
+                "titulierte",
+                "."
+            ]
+        },
+        {
+            "begin": 173,
+            "charBegin": 1190,
+            "charEnd": 1339,
+            "end": 201,
+            "id": 12,
+            "text": "Er sagte, wer mit scharfer Munition auf „Beamten, Familienväter oder junge Leute von der eigenen Hautfarbe“ schiesse, könne nur so bezeichnet werden. ",
+            "tokenIds": [
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200
+            ],
+            "tokens": [
+                "Er",
+                "sagte",
+                ",",
+                "wer",
+                "mit",
+                "scharfer",
+                "Munition",
+                "auf",
+                "„",
+                "Beamten",
+                ",",
+                "Familienväter",
+                "oder",
+                "junge",
+                "Leute",
+                "von",
+                "der",
+                "eigenen",
+                "Hautfarbe",
+                "“",
+                "schiesse",
+                ",",
+                "könne",
+                "nur",
+                "so",
+                "bezeichnet",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 201,
+            "charBegin": 1340,
+            "charEnd": 1428,
+            "end": 212,
+            "id": 13,
+            "text": "Gleichzeitig vermutet er hinter den Ausschreitungen eine perfekte zentrale Organisation. ",
+            "tokenIds": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211
+            ],
+            "tokens": [
+                "Gleichzeitig",
+                "vermutet",
+                "er",
+                "hinter",
+                "den",
+                "Ausschreitungen",
+                "eine",
+                "perfekte",
+                "zentrale",
+                "Organisation",
+                "."
+            ]
+        },
+        {
+            "begin": 212,
+            "charBegin": 1429,
+            "charEnd": 1478,
+            "end": 222,
+            "id": 14,
+            "text": "Nach Angaben von n24 sind die Gruppen sehr mobil. ",
+            "tokenIds": [
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221
+            ],
+            "tokens": [
+                "Nach",
+                "Angaben",
+                "von",
+                "n24",
+                "sind",
+                "die",
+                "Gruppen",
+                "sehr",
+                "mobil",
+                "."
+            ]
+        },
+        {
+            "begin": 222,
+            "charBegin": 1479,
+            "charEnd": 1577,
+            "end": 236,
+            "id": 15,
+            "text": "Sie würden sich durch Mobilfunktelefone verständigen und so Katz-und-Maus mit der Polizei spielen.",
+            "tokenIds": [
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235
+            ],
+            "tokens": [
+                "Sie",
+                "würden",
+                "sich",
+                "durch",
+                "Mobilfunktelefone",
+                "verständigen",
+                "und",
+                "so",
+                "Katz-und-Maus",
+                "mit",
+                "der",
+                "Polizei",
+                "spielen",
+                "."
+            ]
+        },
+        {
+            "begin": 236,
+            "charBegin": 1579,
+            "charEnd": 1692,
+            "end": 255,
+            "id": 16,
+            "text": "Ein Reporter des Fernsehsenders n-tv berichtete, dass Inbrandsetzen der Autos in den Vororten eine Art Sport sei. ",
+            "tokenIds": [
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254
+            ],
+            "tokens": [
+                "Ein",
+                "Reporter",
+                "des",
+                "Fernsehsenders",
+                "n-tv",
+                "berichtete",
+                ",",
+                "dass",
+                "Inbrandsetzen",
+                "der",
+                "Autos",
+                "in",
+                "den",
+                "Vororten",
+                "eine",
+                "Art",
+                "Sport",
+                "sei",
+                "."
+            ]
+        },
+        {
+            "begin": 255,
+            "charBegin": 1693,
+            "charEnd": 1743,
+            "end": 264,
+            "id": 17,
+            "text": "Jedes Jahr würden dadurch etwa 600 Autos zerstört. ",
+            "tokenIds": [
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263
+            ],
+            "tokens": [
+                "Jedes",
+                "Jahr",
+                "würden",
+                "dadurch",
+                "etwa",
+                "600",
+                "Autos",
+                "zerstört",
+                "."
+            ]
+        },
+        {
+            "begin": 264,
+            "charBegin": 1744,
+            "charEnd": 1796,
+            "end": 274,
+            "id": 18,
+            "text": "Allein zu Silvester gingen 100 Autos in Flammen auf. ",
+            "tokenIds": [
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273
+            ],
+            "tokens": [
+                "Allein",
+                "zu",
+                "Silvester",
+                "gingen",
+                "100",
+                "Autos",
+                "in",
+                "Flammen",
+                "auf",
+                "."
+            ]
+        },
+        {
+            "begin": 274,
+            "charBegin": 1797,
+            "charEnd": 1896,
+            "end": 293,
+            "id": 19,
+            "text": "Eine Reporterin von n24 sprach von 800 Autos, die in diesem Jahr allein bei Lyon angezündet wurden.",
+            "tokenIds": [
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292
+            ],
+            "tokens": [
+                "Eine",
+                "Reporterin",
+                "von",
+                "n24",
+                "sprach",
+                "von",
+                "800",
+                "Autos",
+                ",",
+                "die",
+                "in",
+                "diesem",
+                "Jahr",
+                "allein",
+                "bei",
+                "Lyon",
+                "angezündet",
+                "wurden",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 4,
+            "id": 0,
+            "sentence": 1,
+            "text": "Auch",
+            "word": 1
+        },
+        {
+            "charBegin": 5,
+            "charEnd": 7,
+            "id": 1,
+            "sentence": 1,
+            "text": "in",
+            "word": 2
+        },
+        {
+            "charBegin": 8,
+            "charEnd": 11,
+            "id": 2,
+            "sentence": 1,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 12,
+            "charEnd": 18,
+            "id": 3,
+            "sentence": 1,
+            "text": "achten",
+            "word": 4
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 24,
+            "id": 4,
+            "sentence": 1,
+            "text": "Nacht",
+            "word": 5
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 28,
+            "id": 5,
+            "sentence": 1,
+            "text": "gab",
+            "word": 6
+        },
+        {
+            "charBegin": 29,
+            "charEnd": 31,
+            "id": 6,
+            "sentence": 1,
+            "text": "es",
+            "word": 7
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 39,
+            "id": 7,
+            "sentence": 1,
+            "text": "schwere",
+            "word": 8
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 55,
+            "id": 8,
+            "sentence": 1,
+            "text": "Ausschreitungen",
+            "word": 9
+        },
+        {
+            "charBegin": 56,
+            "charEnd": 58,
+            "id": 9,
+            "sentence": 1,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 59,
+            "charEnd": 62,
+            "id": 10,
+            "sentence": 1,
+            "text": "den",
+            "word": 11
+        },
+        {
+            "charBegin": 63,
+            "charEnd": 70,
+            "id": 11,
+            "sentence": 1,
+            "text": "Pariser",
+            "word": 12
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 81,
+            "id": 12,
+            "sentence": 1,
+            "text": "Vorstädten",
+            "word": 13
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 82,
+            "id": 13,
+            "sentence": 1,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 83,
+            "charEnd": 92,
+            "id": 14,
+            "sentence": 2,
+            "text": "Insgesamt",
+            "word": 1
+        },
+        {
+            "charBegin": 93,
+            "charEnd": 100,
+            "id": 15,
+            "sentence": 2,
+            "text": "spricht",
+            "word": 2
+        },
+        {
+            "charBegin": 101,
+            "charEnd": 104,
+            "id": 16,
+            "sentence": 2,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 105,
+            "charEnd": 112,
+            "id": 17,
+            "sentence": 2,
+            "text": "Polizei",
+            "word": 4
+        },
+        {
+            "charBegin": 113,
+            "charEnd": 116,
+            "id": 18,
+            "sentence": 2,
+            "text": "von",
+            "word": 5
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 124,
+            "id": 19,
+            "sentence": 2,
+            "text": "weniger",
+            "word": 6
+        },
+        {
+            "charBegin": 125,
+            "charEnd": 145,
+            "id": 20,
+            "sentence": 2,
+            "text": "Auseinandersetzungen",
+            "word": 7
+        },
+        {
+            "charBegin": 146,
+            "charEnd": 149,
+            "id": 21,
+            "sentence": 2,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 150,
+            "charEnd": 156,
+            "id": 22,
+            "sentence": 2,
+            "text": "beiden",
+            "word": 9
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 162,
+            "id": 23,
+            "sentence": 2,
+            "text": "Lager",
+            "word": 10
+        },
+        {
+            "charBegin": 162,
+            "charEnd": 163,
+            "id": 24,
+            "sentence": 2,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 164,
+            "charEnd": 171,
+            "id": 25,
+            "sentence": 2,
+            "text": "dennoch",
+            "word": 12
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 175,
+            "id": 26,
+            "sentence": 2,
+            "text": "ist",
+            "word": 13
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 179,
+            "id": 27,
+            "sentence": 2,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 180,
+            "charEnd": 191,
+            "id": 28,
+            "sentence": 2,
+            "text": "Sachschaden",
+            "word": 15
+        },
+        {
+            "charBegin": 192,
+            "charEnd": 196,
+            "id": 29,
+            "sentence": 2,
+            "text": "hoch",
+            "word": 16
+        },
+        {
+            "charBegin": 196,
+            "charEnd": 197,
+            "id": 30,
+            "sentence": 2,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 198,
+            "charEnd": 200,
+            "id": 31,
+            "sentence": 3,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 205,
+            "id": 32,
+            "sentence": 3,
+            "text": "etwa",
+            "word": 2
+        },
+        {
+            "charBegin": 206,
+            "charEnd": 209,
+            "id": 33,
+            "sentence": 3,
+            "text": "400",
+            "word": 3
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 215,
+            "id": 34,
+            "sentence": 3,
+            "text": "Autos",
+            "word": 4
+        },
+        {
+            "charBegin": 216,
+            "charEnd": 221,
+            "id": 35,
+            "sentence": 3,
+            "text": "wurde",
+            "word": 5
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 227,
+            "id": 36,
+            "sentence": 3,
+            "text": "Feuer",
+            "word": 6
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 234,
+            "id": 37,
+            "sentence": 3,
+            "text": "gelegt",
+            "word": 7
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 235,
+            "id": 38,
+            "sentence": 3,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 236,
+            "charEnd": 242,
+            "id": 39,
+            "sentence": 4,
+            "text": "Allein",
+            "word": 1
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 245,
+            "id": 40,
+            "sentence": 4,
+            "text": "in",
+            "word": 2
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 251,
+            "id": 41,
+            "sentence": 4,
+            "text": "einem",
+            "word": 3
+        },
+        {
+            "charBegin": 252,
+            "charEnd": 257,
+            "id": 42,
+            "sentence": 4,
+            "text": "Depot",
+            "word": 4
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 260,
+            "id": 43,
+            "sentence": 4,
+            "text": "im",
+            "word": 5
+        },
+        {
+            "charBegin": 261,
+            "charEnd": 272,
+            "id": 44,
+            "sentence": 4,
+            "text": "Département",
+            "word": 6
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 281,
+            "id": 45,
+            "sentence": 4,
+            "text": "Yvelines",
+            "word": 7
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 287,
+            "id": 46,
+            "sentence": 4,
+            "text": "seien",
+            "word": 8
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 293,
+            "id": 47,
+            "sentence": 4,
+            "text": "durch",
+            "word": 9
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 299,
+            "id": 48,
+            "sentence": 4,
+            "text": "einen",
+            "word": 10
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 305,
+            "id": 49,
+            "sentence": 4,
+            "text": "Brand",
+            "word": 11
+        },
+        {
+            "charBegin": 306,
+            "charEnd": 308,
+            "id": 50,
+            "sentence": 4,
+            "text": "27",
+            "word": 12
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 314,
+            "id": 51,
+            "sentence": 4,
+            "text": "Busse",
+            "word": 13
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 323,
+            "id": 52,
+            "sentence": 4,
+            "text": "zerstört",
+            "word": 14
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 330,
+            "id": 53,
+            "sentence": 4,
+            "text": "worden",
+            "word": 15
+        },
+        {
+            "charBegin": 330,
+            "charEnd": 331,
+            "id": 54,
+            "sentence": 4,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 332,
+            "charEnd": 342,
+            "id": 55,
+            "sentence": 5,
+            "text": "Brandsätze",
+            "word": 1
+        },
+        {
+            "charBegin": 343,
+            "charEnd": 349,
+            "id": 56,
+            "sentence": 5,
+            "text": "wurden",
+            "word": 2
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 354,
+            "id": 57,
+            "sentence": 5,
+            "text": "auch",
+            "word": 3
+        },
+        {
+            "charBegin": 355,
+            "charEnd": 360,
+            "id": 58,
+            "sentence": 5,
+            "text": "gegen",
+            "word": 4
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 379,
+            "id": 59,
+            "sentence": 5,
+            "text": "Bürgermeisterämter",
+            "word": 5
+        },
+        {
+            "charBegin": 379,
+            "charEnd": 380,
+            "id": 60,
+            "sentence": 5,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 388,
+            "id": 61,
+            "sentence": 5,
+            "text": "Schulen",
+            "word": 7
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 392,
+            "id": 62,
+            "sentence": 5,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 393,
+            "charEnd": 409,
+            "id": 63,
+            "sentence": 5,
+            "text": "Polizeistationen",
+            "word": 9
+        },
+        {
+            "charBegin": 410,
+            "charEnd": 418,
+            "id": 64,
+            "sentence": 5,
+            "text": "geworfen",
+            "word": 10
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 419,
+            "id": 65,
+            "sentence": 5,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 422,
+            "id": 66,
+            "sentence": 6,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 423,
+            "charEnd": 434,
+            "id": 67,
+            "sentence": 6,
+            "text": "Département",
+            "word": 2
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 452,
+            "id": 68,
+            "sentence": 6,
+            "text": "Seine-Saint-Denis",
+            "word": 3
+        },
+        {
+            "charBegin": 453,
+            "charEnd": 459,
+            "id": 69,
+            "sentence": 6,
+            "text": "sollen",
+            "word": 4
+        },
+        {
+            "charBegin": 460,
+            "charEnd": 464,
+            "id": 70,
+            "sentence": 6,
+            "text": "drei",
+            "word": 5
+        },
+        {
+            "charBegin": 465,
+            "charEnd": 476,
+            "id": 71,
+            "sentence": 6,
+            "text": "Lagerhallen",
+            "word": 6
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 487,
+            "id": 72,
+            "sentence": 6,
+            "text": "abgebrannt",
+            "word": 7
+        },
+        {
+            "charBegin": 488,
+            "charEnd": 492,
+            "id": 73,
+            "sentence": 6,
+            "text": "sein",
+            "word": 8
+        },
+        {
+            "charBegin": 492,
+            "charEnd": 493,
+            "id": 74,
+            "sentence": 6,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 494,
+            "charEnd": 498,
+            "id": 75,
+            "sentence": 7,
+            "text": "Fünf",
+            "word": 1
+        },
+        {
+            "charBegin": 499,
+            "charEnd": 509,
+            "id": 76,
+            "sentence": 7,
+            "text": "Polizisten",
+            "word": 2
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 516,
+            "id": 77,
+            "sentence": 7,
+            "text": "wurden",
+            "word": 3
+        },
+        {
+            "charBegin": 517,
+            "charEnd": 522,
+            "id": 78,
+            "sentence": 7,
+            "text": "durch",
+            "word": 4
+        },
+        {
+            "charBegin": 523,
+            "charEnd": 533,
+            "id": 79,
+            "sentence": 7,
+            "text": "Steinwürfe",
+            "word": 5
+        },
+        {
+            "charBegin": 534,
+            "charEnd": 540,
+            "id": 80,
+            "sentence": 7,
+            "text": "leicht",
+            "word": 6
+        },
+        {
+            "charBegin": 541,
+            "charEnd": 549,
+            "id": 81,
+            "sentence": 7,
+            "text": "verletzt",
+            "word": 7
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 550,
+            "id": 82,
+            "sentence": 7,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 551,
+            "charEnd": 554,
+            "id": 83,
+            "sentence": 7,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 555,
+            "charEnd": 557,
+            "id": 84,
+            "sentence": 7,
+            "text": "an",
+            "word": 10
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 565,
+            "id": 85,
+            "sentence": 7,
+            "text": "einigen",
+            "word": 11
+        },
+        {
+            "charBegin": 566,
+            "charEnd": 578,
+            "id": 86,
+            "sentence": 7,
+            "text": "Einsatzwagen",
+            "word": 12
+        },
+        {
+            "charBegin": 579,
+            "charEnd": 582,
+            "id": 87,
+            "sentence": 7,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 583,
+            "charEnd": 603,
+            "id": 88,
+            "sentence": 7,
+            "text": "Bereitschaftspolizei",
+            "word": 14
+        },
+        {
+            "charBegin": 604,
+            "charEnd": 607,
+            "id": 89,
+            "sentence": 7,
+            "text": "CRS",
+            "word": 15
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 614,
+            "id": 90,
+            "sentence": 7,
+            "text": "wurden",
+            "word": 16
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 630,
+            "id": 91,
+            "sentence": 7,
+            "text": "Einschusslöcher",
+            "word": 17
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 634,
+            "id": 92,
+            "sentence": 7,
+            "text": "von",
+            "word": 18
+        },
+        {
+            "charBegin": 635,
+            "charEnd": 647,
+            "id": 93,
+            "sentence": 7,
+            "text": "Schrotwaffen",
+            "word": 19
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 656,
+            "id": 94,
+            "sentence": 7,
+            "text": "gefunden",
+            "word": 20
+        },
+        {
+            "charBegin": 656,
+            "charEnd": 657,
+            "id": 95,
+            "sentence": 7,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 658,
+            "charEnd": 660,
+            "id": 96,
+            "sentence": 8,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 661,
+            "charEnd": 664,
+            "id": 97,
+            "sentence": 8,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 665,
+            "charEnd": 670,
+            "id": 98,
+            "sentence": 8,
+            "text": "Nacht",
+            "word": 3
+        },
+        {
+            "charBegin": 671,
+            "charEnd": 676,
+            "id": 99,
+            "sentence": 8,
+            "text": "waren",
+            "word": 4
+        },
+        {
+            "charBegin": 677,
+            "charEnd": 681,
+            "id": 100,
+            "sentence": 8,
+            "text": "etwa",
+            "word": 5
+        },
+        {
+            "charBegin": 682,
+            "charEnd": 687,
+            "id": 101,
+            "sentence": 8,
+            "text": "1.300",
+            "word": 6
+        },
+        {
+            "charBegin": 688,
+            "charEnd": 698,
+            "id": 102,
+            "sentence": 8,
+            "text": "Polizisten",
+            "word": 7
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 701,
+            "id": 103,
+            "sentence": 8,
+            "text": "im",
+            "word": 8
+        },
+        {
+            "charBegin": 702,
+            "charEnd": 709,
+            "id": 104,
+            "sentence": 8,
+            "text": "Einsatz",
+            "word": 9
+        },
+        {
+            "charBegin": 709,
+            "charEnd": 710,
+            "id": 105,
+            "sentence": 8,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 712,
+            "charEnd": 715,
+            "id": 106,
+            "sentence": 9,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 727,
+            "id": 107,
+            "sentence": 9,
+            "text": "Öffentliche",
+            "word": 2
+        },
+        {
+            "charBegin": 728,
+            "charEnd": 738,
+            "id": 108,
+            "sentence": 9,
+            "text": "Nahverkehr",
+            "word": 3
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 745,
+            "id": 109,
+            "sentence": 9,
+            "text": "wurden",
+            "word": 4
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 748,
+            "id": 110,
+            "sentence": 9,
+            "text": "im",
+            "word": 5
+        },
+        {
+            "charBegin": 749,
+            "charEnd": 760,
+            "id": 111,
+            "sentence": 9,
+            "text": "Departement",
+            "word": 6
+        },
+        {
+            "charBegin": 761,
+            "charEnd": 778,
+            "id": 112,
+            "sentence": 9,
+            "text": "Seine-Saint-Denis",
+            "word": 7
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 779,
+            "id": 113,
+            "sentence": 9,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 783,
+            "id": 114,
+            "sentence": 9,
+            "text": "dem",
+            "word": 9
+        },
+        {
+            "charBegin": 784,
+            "charEnd": 786,
+            "id": 115,
+            "sentence": 9,
+            "text": "am",
+            "word": 10
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 797,
+            "id": 116,
+            "sentence": 9,
+            "text": "schwersten",
+            "word": 11
+        },
+        {
+            "charBegin": 798,
+            "charEnd": 809,
+            "id": 117,
+            "sentence": 9,
+            "text": "betroffenen",
+            "word": 12
+        },
+        {
+            "charBegin": 810,
+            "charEnd": 821,
+            "id": 118,
+            "sentence": 9,
+            "text": "Departement",
+            "word": 13
+        },
+        {
+            "charBegin": 821,
+            "charEnd": 822,
+            "id": 119,
+            "sentence": 9,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 823,
+            "charEnd": 829,
+            "id": 120,
+            "sentence": 9,
+            "text": "nahezu",
+            "word": 15
+        },
+        {
+            "charBegin": 830,
+            "charEnd": 841,
+            "id": 121,
+            "sentence": 9,
+            "text": "vollständig",
+            "word": 16
+        },
+        {
+            "charBegin": 842,
+            "charEnd": 853,
+            "id": 122,
+            "sentence": 9,
+            "text": "eingestellt",
+            "word": 17
+        },
+        {
+            "charBegin": 853,
+            "charEnd": 854,
+            "id": 123,
+            "sentence": 9,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 856,
+            "charEnd": 864,
+            "id": 124,
+            "sentence": 10,
+            "text": "Erstmals",
+            "word": 1
+        },
+        {
+            "charBegin": 865,
+            "charEnd": 871,
+            "id": 125,
+            "sentence": 10,
+            "text": "wurden",
+            "word": 2
+        },
+        {
+            "charBegin": 872,
+            "charEnd": 876,
+            "id": 126,
+            "sentence": 10,
+            "text": "auch",
+            "word": 3
+        },
+        {
+            "charBegin": 877,
+            "charEnd": 879,
+            "id": 127,
+            "sentence": 10,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 880,
+            "charEnd": 890,
+            "id": 128,
+            "sentence": 10,
+            "text": "entfernten",
+            "word": 5
+        },
+        {
+            "charBegin": 891,
+            "charEnd": 899,
+            "id": 129,
+            "sentence": 10,
+            "text": "Gebieten",
+            "word": 6
+        },
+        {
+            "charBegin": 900,
+            "charEnd": 902,
+            "id": 130,
+            "sentence": 10,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 903,
+            "charEnd": 913,
+            "id": 131,
+            "sentence": 10,
+            "text": "Frankreich",
+            "word": 8
+        },
+        {
+            "charBegin": 914,
+            "charEnd": 922,
+            "id": 132,
+            "sentence": 10,
+            "text": "ähnliche",
+            "word": 9
+        },
+        {
+            "charBegin": 923,
+            "charEnd": 936,
+            "id": 133,
+            "sentence": 10,
+            "text": "Zwischenfälle",
+            "word": 10
+        },
+        {
+            "charBegin": 937,
+            "charEnd": 945,
+            "id": 134,
+            "sentence": 10,
+            "text": "gemeldet",
+            "word": 11
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 946,
+            "id": 135,
+            "sentence": 10,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 947,
+            "charEnd": 949,
+            "id": 136,
+            "sentence": 11,
+            "text": "Es",
+            "word": 1
+        },
+        {
+            "charBegin": 950,
+            "charEnd": 953,
+            "id": 137,
+            "sentence": 11,
+            "text": "gab",
+            "word": 2
+        },
+        {
+            "charBegin": 954,
+            "charEnd": 968,
+            "id": 138,
+            "sentence": 11,
+            "text": "Brandanschläge",
+            "word": 3
+        },
+        {
+            "charBegin": 969,
+            "charEnd": 971,
+            "id": 139,
+            "sentence": 11,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 972,
+            "charEnd": 975,
+            "id": 140,
+            "sentence": 11,
+            "text": "dem",
+            "word": 5
+        },
+        {
+            "charBegin": 976,
+            "charEnd": 992,
+            "id": 141,
+            "sentence": 11,
+            "text": "ostfranzösischen",
+            "word": 6
+        },
+        {
+            "charBegin": 993,
+            "charEnd": 998,
+            "id": 142,
+            "sentence": 11,
+            "text": "Dijon",
+            "word": 7
+        },
+        {
+            "charBegin": 998,
+            "charEnd": 999,
+            "id": 143,
+            "sentence": 11,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 1000,
+            "charEnd": 1003,
+            "id": 144,
+            "sentence": 11,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 1004,
+            "charEnd": 1012,
+            "id": 145,
+            "sentence": 11,
+            "text": "Regionen",
+            "word": 10
+        },
+        {
+            "charBegin": 1013,
+            "charEnd": 1022,
+            "id": 146,
+            "sentence": 11,
+            "text": "Côte-d'Or",
+            "word": 11
+        },
+        {
+            "charBegin": 1022,
+            "charEnd": 1023,
+            "id": 147,
+            "sentence": 11,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 1024,
+            "charEnd": 1040,
+            "id": 148,
+            "sentence": 11,
+            "text": "Bouches-du-Rhône",
+            "word": 13
+        },
+        {
+            "charBegin": 1041,
+            "charEnd": 1044,
+            "id": 149,
+            "sentence": 11,
+            "text": "und",
+            "word": 14
+        },
+        {
+            "charBegin": 1045,
+            "charEnd": 1059,
+            "id": 150,
+            "sentence": 11,
+            "text": "Seine-Maritime",
+            "word": 15
+        },
+        {
+            "charBegin": 1059,
+            "charEnd": 1060,
+            "id": 151,
+            "sentence": 11,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 1062,
+            "charEnd": 1065,
+            "id": 152,
+            "sentence": 12,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1066,
+            "charEnd": 1079,
+            "id": 153,
+            "sentence": 12,
+            "text": "Innenminister",
+            "word": 2
+        },
+        {
+            "charBegin": 1080,
+            "charEnd": 1091,
+            "id": 154,
+            "sentence": 12,
+            "text": "Frankreichs",
+            "word": 3
+        },
+        {
+            "charBegin": 1091,
+            "charEnd": 1092,
+            "id": 155,
+            "sentence": 12,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 1093,
+            "charEnd": 1100,
+            "id": 156,
+            "sentence": 12,
+            "text": "Nicolas",
+            "word": 5
+        },
+        {
+            "charBegin": 1101,
+            "charEnd": 1108,
+            "id": 157,
+            "sentence": 12,
+            "text": "Sarkozy",
+            "word": 6
+        },
+        {
+            "charBegin": 1108,
+            "charEnd": 1109,
+            "id": 158,
+            "sentence": 12,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 1110,
+            "charEnd": 1121,
+            "id": 159,
+            "sentence": 12,
+            "text": "verteidigte",
+            "word": 8
+        },
+        {
+            "charBegin": 1122,
+            "charEnd": 1125,
+            "id": 160,
+            "sentence": 12,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 1126,
+            "charEnd": 1137,
+            "id": 161,
+            "sentence": 12,
+            "text": "Bezeichnung",
+            "word": 10
+        },
+        {
+            "charBegin": 1138,
+            "charEnd": 1139,
+            "id": 162,
+            "sentence": 12,
+            "text": "„",
+            "word": 11
+        },
+        {
+            "charBegin": 1139,
+            "charEnd": 1147,
+            "id": 163,
+            "sentence": 12,
+            "text": "Gesindel",
+            "word": 12
+        },
+        {
+            "charBegin": 1147,
+            "charEnd": 1148,
+            "id": 164,
+            "sentence": 12,
+            "text": "“",
+            "word": 13
+        },
+        {
+            "charBegin": 1148,
+            "charEnd": 1149,
+            "id": 165,
+            "sentence": 12,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 1150,
+            "charEnd": 1153,
+            "id": 166,
+            "sentence": 12,
+            "text": "mit",
+            "word": 15
+        },
+        {
+            "charBegin": 1154,
+            "charEnd": 1157,
+            "id": 167,
+            "sentence": 12,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 1158,
+            "charEnd": 1160,
+            "id": 168,
+            "sentence": 12,
+            "text": "er",
+            "word": 17
+        },
+        {
+            "charBegin": 1161,
+            "charEnd": 1164,
+            "id": 169,
+            "sentence": 12,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 1165,
+            "charEnd": 1177,
+            "id": 170,
+            "sentence": 12,
+            "text": "Aufständigen",
+            "word": 19
+        },
+        {
+            "charBegin": 1178,
+            "charEnd": 1188,
+            "id": 171,
+            "sentence": 12,
+            "text": "titulierte",
+            "word": 20
+        },
+        {
+            "charBegin": 1188,
+            "charEnd": 1189,
+            "id": 172,
+            "sentence": 12,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 1190,
+            "charEnd": 1192,
+            "id": 173,
+            "sentence": 13,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 1193,
+            "charEnd": 1198,
+            "id": 174,
+            "sentence": 13,
+            "text": "sagte",
+            "word": 2
+        },
+        {
+            "charBegin": 1198,
+            "charEnd": 1199,
+            "id": 175,
+            "sentence": 13,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 1200,
+            "charEnd": 1203,
+            "id": 176,
+            "sentence": 13,
+            "text": "wer",
+            "word": 4
+        },
+        {
+            "charBegin": 1204,
+            "charEnd": 1207,
+            "id": 177,
+            "sentence": 13,
+            "text": "mit",
+            "word": 5
+        },
+        {
+            "charBegin": 1208,
+            "charEnd": 1216,
+            "id": 178,
+            "sentence": 13,
+            "text": "scharfer",
+            "word": 6
+        },
+        {
+            "charBegin": 1217,
+            "charEnd": 1225,
+            "id": 179,
+            "sentence": 13,
+            "text": "Munition",
+            "word": 7
+        },
+        {
+            "charBegin": 1226,
+            "charEnd": 1229,
+            "id": 180,
+            "sentence": 13,
+            "text": "auf",
+            "word": 8
+        },
+        {
+            "charBegin": 1230,
+            "charEnd": 1231,
+            "id": 181,
+            "sentence": 13,
+            "text": "„",
+            "word": 9
+        },
+        {
+            "charBegin": 1231,
+            "charEnd": 1238,
+            "id": 182,
+            "sentence": 13,
+            "text": "Beamten",
+            "word": 10
+        },
+        {
+            "charBegin": 1238,
+            "charEnd": 1239,
+            "id": 183,
+            "sentence": 13,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1240,
+            "charEnd": 1253,
+            "id": 184,
+            "sentence": 13,
+            "text": "Familienväter",
+            "word": 12
+        },
+        {
+            "charBegin": 1254,
+            "charEnd": 1258,
+            "id": 185,
+            "sentence": 13,
+            "text": "oder",
+            "word": 13
+        },
+        {
+            "charBegin": 1259,
+            "charEnd": 1264,
+            "id": 186,
+            "sentence": 13,
+            "text": "junge",
+            "word": 14
+        },
+        {
+            "charBegin": 1265,
+            "charEnd": 1270,
+            "id": 187,
+            "sentence": 13,
+            "text": "Leute",
+            "word": 15
+        },
+        {
+            "charBegin": 1271,
+            "charEnd": 1274,
+            "id": 188,
+            "sentence": 13,
+            "text": "von",
+            "word": 16
+        },
+        {
+            "charBegin": 1275,
+            "charEnd": 1278,
+            "id": 189,
+            "sentence": 13,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 1279,
+            "charEnd": 1286,
+            "id": 190,
+            "sentence": 13,
+            "text": "eigenen",
+            "word": 18
+        },
+        {
+            "charBegin": 1287,
+            "charEnd": 1296,
+            "id": 191,
+            "sentence": 13,
+            "text": "Hautfarbe",
+            "word": 19
+        },
+        {
+            "charBegin": 1296,
+            "charEnd": 1297,
+            "id": 192,
+            "sentence": 13,
+            "text": "“",
+            "word": 20
+        },
+        {
+            "charBegin": 1298,
+            "charEnd": 1306,
+            "id": 193,
+            "sentence": 13,
+            "text": "schiesse",
+            "word": 21
+        },
+        {
+            "charBegin": 1306,
+            "charEnd": 1307,
+            "id": 194,
+            "sentence": 13,
+            "text": ",",
+            "word": 22
+        },
+        {
+            "charBegin": 1308,
+            "charEnd": 1313,
+            "id": 195,
+            "sentence": 13,
+            "text": "könne",
+            "word": 23
+        },
+        {
+            "charBegin": 1314,
+            "charEnd": 1317,
+            "id": 196,
+            "sentence": 13,
+            "text": "nur",
+            "word": 24
+        },
+        {
+            "charBegin": 1318,
+            "charEnd": 1320,
+            "id": 197,
+            "sentence": 13,
+            "text": "so",
+            "word": 25
+        },
+        {
+            "charBegin": 1321,
+            "charEnd": 1331,
+            "id": 198,
+            "sentence": 13,
+            "text": "bezeichnet",
+            "word": 26
+        },
+        {
+            "charBegin": 1332,
+            "charEnd": 1338,
+            "id": 199,
+            "sentence": 13,
+            "text": "werden",
+            "word": 27
+        },
+        {
+            "charBegin": 1338,
+            "charEnd": 1339,
+            "id": 200,
+            "sentence": 13,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 1340,
+            "charEnd": 1352,
+            "id": 201,
+            "sentence": 14,
+            "text": "Gleichzeitig",
+            "word": 1
+        },
+        {
+            "charBegin": 1353,
+            "charEnd": 1361,
+            "id": 202,
+            "sentence": 14,
+            "text": "vermutet",
+            "word": 2
+        },
+        {
+            "charBegin": 1362,
+            "charEnd": 1364,
+            "id": 203,
+            "sentence": 14,
+            "text": "er",
+            "word": 3
+        },
+        {
+            "charBegin": 1365,
+            "charEnd": 1371,
+            "id": 204,
+            "sentence": 14,
+            "text": "hinter",
+            "word": 4
+        },
+        {
+            "charBegin": 1372,
+            "charEnd": 1375,
+            "id": 205,
+            "sentence": 14,
+            "text": "den",
+            "word": 5
+        },
+        {
+            "charBegin": 1376,
+            "charEnd": 1391,
+            "id": 206,
+            "sentence": 14,
+            "text": "Ausschreitungen",
+            "word": 6
+        },
+        {
+            "charBegin": 1392,
+            "charEnd": 1396,
+            "id": 207,
+            "sentence": 14,
+            "text": "eine",
+            "word": 7
+        },
+        {
+            "charBegin": 1397,
+            "charEnd": 1405,
+            "id": 208,
+            "sentence": 14,
+            "text": "perfekte",
+            "word": 8
+        },
+        {
+            "charBegin": 1406,
+            "charEnd": 1414,
+            "id": 209,
+            "sentence": 14,
+            "text": "zentrale",
+            "word": 9
+        },
+        {
+            "charBegin": 1415,
+            "charEnd": 1427,
+            "id": 210,
+            "sentence": 14,
+            "text": "Organisation",
+            "word": 10
+        },
+        {
+            "charBegin": 1427,
+            "charEnd": 1428,
+            "id": 211,
+            "sentence": 14,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 1429,
+            "charEnd": 1433,
+            "id": 212,
+            "sentence": 15,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 1434,
+            "charEnd": 1441,
+            "id": 213,
+            "sentence": 15,
+            "text": "Angaben",
+            "word": 2
+        },
+        {
+            "charBegin": 1442,
+            "charEnd": 1445,
+            "id": 214,
+            "sentence": 15,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 1446,
+            "charEnd": 1449,
+            "id": 215,
+            "sentence": 15,
+            "text": "n24",
+            "word": 4
+        },
+        {
+            "charBegin": 1450,
+            "charEnd": 1454,
+            "id": 216,
+            "sentence": 15,
+            "text": "sind",
+            "word": 5
+        },
+        {
+            "charBegin": 1455,
+            "charEnd": 1458,
+            "id": 217,
+            "sentence": 15,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 1459,
+            "charEnd": 1466,
+            "id": 218,
+            "sentence": 15,
+            "text": "Gruppen",
+            "word": 7
+        },
+        {
+            "charBegin": 1467,
+            "charEnd": 1471,
+            "id": 219,
+            "sentence": 15,
+            "text": "sehr",
+            "word": 8
+        },
+        {
+            "charBegin": 1472,
+            "charEnd": 1477,
+            "id": 220,
+            "sentence": 15,
+            "text": "mobil",
+            "word": 9
+        },
+        {
+            "charBegin": 1477,
+            "charEnd": 1478,
+            "id": 221,
+            "sentence": 15,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 1479,
+            "charEnd": 1482,
+            "id": 222,
+            "sentence": 16,
+            "text": "Sie",
+            "word": 1
+        },
+        {
+            "charBegin": 1483,
+            "charEnd": 1489,
+            "id": 223,
+            "sentence": 16,
+            "text": "würden",
+            "word": 2
+        },
+        {
+            "charBegin": 1490,
+            "charEnd": 1494,
+            "id": 224,
+            "sentence": 16,
+            "text": "sich",
+            "word": 3
+        },
+        {
+            "charBegin": 1495,
+            "charEnd": 1500,
+            "id": 225,
+            "sentence": 16,
+            "text": "durch",
+            "word": 4
+        },
+        {
+            "charBegin": 1501,
+            "charEnd": 1518,
+            "id": 226,
+            "sentence": 16,
+            "text": "Mobilfunktelefone",
+            "word": 5
+        },
+        {
+            "charBegin": 1519,
+            "charEnd": 1531,
+            "id": 227,
+            "sentence": 16,
+            "text": "verständigen",
+            "word": 6
+        },
+        {
+            "charBegin": 1532,
+            "charEnd": 1535,
+            "id": 228,
+            "sentence": 16,
+            "text": "und",
+            "word": 7
+        },
+        {
+            "charBegin": 1536,
+            "charEnd": 1538,
+            "id": 229,
+            "sentence": 16,
+            "text": "so",
+            "word": 8
+        },
+        {
+            "charBegin": 1539,
+            "charEnd": 1552,
+            "id": 230,
+            "sentence": 16,
+            "text": "Katz-und-Maus",
+            "word": 9
+        },
+        {
+            "charBegin": 1553,
+            "charEnd": 1556,
+            "id": 231,
+            "sentence": 16,
+            "text": "mit",
+            "word": 10
+        },
+        {
+            "charBegin": 1557,
+            "charEnd": 1560,
+            "id": 232,
+            "sentence": 16,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 1561,
+            "charEnd": 1568,
+            "id": 233,
+            "sentence": 16,
+            "text": "Polizei",
+            "word": 12
+        },
+        {
+            "charBegin": 1569,
+            "charEnd": 1576,
+            "id": 234,
+            "sentence": 16,
+            "text": "spielen",
+            "word": 13
+        },
+        {
+            "charBegin": 1576,
+            "charEnd": 1577,
+            "id": 235,
+            "sentence": 16,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1579,
+            "charEnd": 1582,
+            "id": 236,
+            "sentence": 17,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 1583,
+            "charEnd": 1591,
+            "id": 237,
+            "sentence": 17,
+            "text": "Reporter",
+            "word": 2
+        },
+        {
+            "charBegin": 1592,
+            "charEnd": 1595,
+            "id": 238,
+            "sentence": 17,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 1596,
+            "charEnd": 1610,
+            "id": 239,
+            "sentence": 17,
+            "text": "Fernsehsenders",
+            "word": 4
+        },
+        {
+            "charBegin": 1611,
+            "charEnd": 1615,
+            "id": 240,
+            "sentence": 17,
+            "text": "n-tv",
+            "word": 5
+        },
+        {
+            "charBegin": 1616,
+            "charEnd": 1626,
+            "id": 241,
+            "sentence": 17,
+            "text": "berichtete",
+            "word": 6
+        },
+        {
+            "charBegin": 1626,
+            "charEnd": 1627,
+            "id": 242,
+            "sentence": 17,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 1628,
+            "charEnd": 1632,
+            "id": 243,
+            "sentence": 17,
+            "text": "dass",
+            "word": 8
+        },
+        {
+            "charBegin": 1633,
+            "charEnd": 1646,
+            "id": 244,
+            "sentence": 17,
+            "text": "Inbrandsetzen",
+            "word": 9
+        },
+        {
+            "charBegin": 1647,
+            "charEnd": 1650,
+            "id": 245,
+            "sentence": 17,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 1651,
+            "charEnd": 1656,
+            "id": 246,
+            "sentence": 17,
+            "text": "Autos",
+            "word": 11
+        },
+        {
+            "charBegin": 1657,
+            "charEnd": 1659,
+            "id": 247,
+            "sentence": 17,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 1660,
+            "charEnd": 1663,
+            "id": 248,
+            "sentence": 17,
+            "text": "den",
+            "word": 13
+        },
+        {
+            "charBegin": 1664,
+            "charEnd": 1672,
+            "id": 249,
+            "sentence": 17,
+            "text": "Vororten",
+            "word": 14
+        },
+        {
+            "charBegin": 1673,
+            "charEnd": 1677,
+            "id": 250,
+            "sentence": 17,
+            "text": "eine",
+            "word": 15
+        },
+        {
+            "charBegin": 1678,
+            "charEnd": 1681,
+            "id": 251,
+            "sentence": 17,
+            "text": "Art",
+            "word": 16
+        },
+        {
+            "charBegin": 1682,
+            "charEnd": 1687,
+            "id": 252,
+            "sentence": 17,
+            "text": "Sport",
+            "word": 17
+        },
+        {
+            "charBegin": 1688,
+            "charEnd": 1691,
+            "id": 253,
+            "sentence": 17,
+            "text": "sei",
+            "word": 18
+        },
+        {
+            "charBegin": 1691,
+            "charEnd": 1692,
+            "id": 254,
+            "sentence": 17,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 1693,
+            "charEnd": 1698,
+            "id": 255,
+            "sentence": 18,
+            "text": "Jedes",
+            "word": 1
+        },
+        {
+            "charBegin": 1699,
+            "charEnd": 1703,
+            "id": 256,
+            "sentence": 18,
+            "text": "Jahr",
+            "word": 2
+        },
+        {
+            "charBegin": 1704,
+            "charEnd": 1710,
+            "id": 257,
+            "sentence": 18,
+            "text": "würden",
+            "word": 3
+        },
+        {
+            "charBegin": 1711,
+            "charEnd": 1718,
+            "id": 258,
+            "sentence": 18,
+            "text": "dadurch",
+            "word": 4
+        },
+        {
+            "charBegin": 1719,
+            "charEnd": 1723,
+            "id": 259,
+            "sentence": 18,
+            "text": "etwa",
+            "word": 5
+        },
+        {
+            "charBegin": 1724,
+            "charEnd": 1727,
+            "id": 260,
+            "sentence": 18,
+            "text": "600",
+            "word": 6
+        },
+        {
+            "charBegin": 1728,
+            "charEnd": 1733,
+            "id": 261,
+            "sentence": 18,
+            "text": "Autos",
+            "word": 7
+        },
+        {
+            "charBegin": 1734,
+            "charEnd": 1742,
+            "id": 262,
+            "sentence": 18,
+            "text": "zerstört",
+            "word": 8
+        },
+        {
+            "charBegin": 1742,
+            "charEnd": 1743,
+            "id": 263,
+            "sentence": 18,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 1744,
+            "charEnd": 1750,
+            "id": 264,
+            "sentence": 19,
+            "text": "Allein",
+            "word": 1
+        },
+        {
+            "charBegin": 1751,
+            "charEnd": 1753,
+            "id": 265,
+            "sentence": 19,
+            "text": "zu",
+            "word": 2
+        },
+        {
+            "charBegin": 1754,
+            "charEnd": 1763,
+            "id": 266,
+            "sentence": 19,
+            "text": "Silvester",
+            "word": 3
+        },
+        {
+            "charBegin": 1764,
+            "charEnd": 1770,
+            "id": 267,
+            "sentence": 19,
+            "text": "gingen",
+            "word": 4
+        },
+        {
+            "charBegin": 1771,
+            "charEnd": 1774,
+            "id": 268,
+            "sentence": 19,
+            "text": "100",
+            "word": 5
+        },
+        {
+            "charBegin": 1775,
+            "charEnd": 1780,
+            "id": 269,
+            "sentence": 19,
+            "text": "Autos",
+            "word": 6
+        },
+        {
+            "charBegin": 1781,
+            "charEnd": 1783,
+            "id": 270,
+            "sentence": 19,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 1784,
+            "charEnd": 1791,
+            "id": 271,
+            "sentence": 19,
+            "text": "Flammen",
+            "word": 8
+        },
+        {
+            "charBegin": 1792,
+            "charEnd": 1795,
+            "id": 272,
+            "sentence": 19,
+            "text": "auf",
+            "word": 9
+        },
+        {
+            "charBegin": 1795,
+            "charEnd": 1796,
+            "id": 273,
+            "sentence": 19,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 1797,
+            "charEnd": 1801,
+            "id": 274,
+            "sentence": 20,
+            "text": "Eine",
+            "word": 1
+        },
+        {
+            "charBegin": 1802,
+            "charEnd": 1812,
+            "id": 275,
+            "sentence": 20,
+            "text": "Reporterin",
+            "word": 2
+        },
+        {
+            "charBegin": 1813,
+            "charEnd": 1816,
+            "id": 276,
+            "sentence": 20,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 1817,
+            "charEnd": 1820,
+            "id": 277,
+            "sentence": 20,
+            "text": "n24",
+            "word": 4
+        },
+        {
+            "charBegin": 1821,
+            "charEnd": 1827,
+            "id": 278,
+            "sentence": 20,
+            "text": "sprach",
+            "word": 5
+        },
+        {
+            "charBegin": 1828,
+            "charEnd": 1831,
+            "id": 279,
+            "sentence": 20,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 1832,
+            "charEnd": 1835,
+            "id": 280,
+            "sentence": 20,
+            "text": "800",
+            "word": 7
+        },
+        {
+            "charBegin": 1836,
+            "charEnd": 1841,
+            "id": 281,
+            "sentence": 20,
+            "text": "Autos",
+            "word": 8
+        },
+        {
+            "charBegin": 1841,
+            "charEnd": 1842,
+            "id": 282,
+            "sentence": 20,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 1843,
+            "charEnd": 1846,
+            "id": 283,
+            "sentence": 20,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 1847,
+            "charEnd": 1849,
+            "id": 284,
+            "sentence": 20,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 1850,
+            "charEnd": 1856,
+            "id": 285,
+            "sentence": 20,
+            "text": "diesem",
+            "word": 12
+        },
+        {
+            "charBegin": 1857,
+            "charEnd": 1861,
+            "id": 286,
+            "sentence": 20,
+            "text": "Jahr",
+            "word": 13
+        },
+        {
+            "charBegin": 1862,
+            "charEnd": 1868,
+            "id": 287,
+            "sentence": 20,
+            "text": "allein",
+            "word": 14
+        },
+        {
+            "charBegin": 1869,
+            "charEnd": 1872,
+            "id": 288,
+            "sentence": 20,
+            "text": "bei",
+            "word": 15
+        },
+        {
+            "charBegin": 1873,
+            "charEnd": 1877,
+            "id": 289,
+            "sentence": 20,
+            "text": "Lyon",
+            "word": 16
+        },
+        {
+            "charBegin": 1878,
+            "charEnd": 1888,
+            "id": 290,
+            "sentence": 20,
+            "text": "angezündet",
+            "word": 17
+        },
+        {
+            "charBegin": 1889,
+            "charEnd": 1895,
+            "id": 291,
+            "sentence": 20,
+            "text": "wurden",
+            "word": 18
+        },
+        {
+            "charBegin": 1895,
+            "charEnd": 1896,
+            "id": 292,
+            "sentence": 20,
+            "text": ".",
+            "word": 19
+        }
+    ]
+}

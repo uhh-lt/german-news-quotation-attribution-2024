@@ -1,0 +1,4749 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 66,
+                        "charBegin": 429,
+                        "charEnd": 439,
+                        "end": 67
+                    }
+                ],
+                "text": "überlegten",
+                "tokenIds": [
+                    66
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 64,
+                        "charBegin": 403,
+                        "charEnd": 445,
+                        "end": 69
+                    }
+                ],
+                "text": "Die NASA-Verantwortlichen überlegten kurz,",
+                "tokenIds": [
+                    64,
+                    65,
+                    66,
+                    67,
+                    68
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 69,
+                        "charBegin": 446,
+                        "charEnd": 503,
+                        "end": 78
+                    }
+                ],
+                "text": "den Shuttle wieder in den Hangar zurück zu transportieren",
+                "tokenIds": [
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 64,
+                        "charBegin": 403,
+                        "charEnd": 428,
+                        "end": 66
+                    }
+                ],
+                "text": "Die NASA-Verantwortlichen",
+                "tokenIds": [
+                    64,
+                    65
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "8562 - NASA nimmt Spaceshuttle-Flüge mit dem Start der Discovery wieder auf (2005-07-26)",
+    "originalText": "Heute ist um 10:39 Uhr Ortszeit (16:39 Uhr MESZ) vom Weltraumbahnhof Cape Canaveral die US-amerikanische Raumfähre „Discovery“ ins Weltall gestartet. Mit ihr brachen sieben Astronauten zur Internationalen Raumstation ISS auf. \n\nIm Verlauf des Countdowns mussten einige Unwägbarkeiten in Kauf genommen werden. Zuerst bestand die Möglichkeit, dass der Hurrikan „Dennis“ das Startgelände erreichen könnte. Die NASA-Verantwortlichen überlegten kurz, den Shuttle wieder in den Hangar zurück zu transportieren. Eine weitere Vorhersage des Wetterdienstes gab dann aber Entwarnung.\n\nNoch wenige Stunden vor dem Start gab es wieder einen Zwischenfall bei den Kacheln, die bei der Raumfähre als Hitzeschild fungieren. Die Plastikabdeckung eines Cockpitfensters löste sich, fiel 20 Meter in die Tiefe und beschädigte einige Kacheln. Der Schaden konnte noch auf der Rampe repariert werden.\n\nSchließlich wurde der erste Startversuch am 13.07.2005 abgebrochen, da ein Sensor eine Fehlfunktion an einem Treibstofftank anzeigte. Der neue zweite Startversuch verlief dagegen problemlos.\n\nDer Flug wird voraussichtlich zwölf Tage dauern. Die  Raumfähre „Discovery“ wurde in den letzten Monaten generalüberholt, dabei investierte die NASA mehr als 1,5 Milliarden Dollar (1,24 Milliarden Euro) für Verbesserungen der Sicherheitsstandards.\n\nEs ist die 114. Space Shuttle Mission und der 31. Flug der Raumfähre Discovery, außerdem der 17. Flug eines Shuttle zur Internationalen Raumstation ISS. Das Shuttle ist mit dem Multi-Purpose Logistic Modul „Raffaello“ bestückt worden.\n\nDie zweite wichtige Aufgabe der Mission ist ein Test des nach dem Columbia-Unglück umgebauten Außentanks. Sowohl am Orbiter als auch am Außentank wurden Kameras angebracht, mit denen eventuell sich ablösende Teile hätten entdeckt werden können. Zusätzlich filmten Flugzeuge der Air Force den Start. Während der ersten zwei Flugtage wird mit Hilfe eines Roboterarms eine ausführliche Inspektion der Shuttle-Außenhaut stattfinden.\n\nDie Namen der Besatzungsmitglieder lauten: Eileen M. Collins, Kommandantin; James M. Kelly, Pilot; Charles J. Camarda, Missions Spezialist; Wendy B. Lawrence, Missions Spezialistin; Stephen K. Robinson, Missions Spezialist; Andrew S. W. Thomas, Missions Spezialist und Soichi Noguchi, Missions Spezialist (Japan Aerospace Exploration Agency (JAXA))\n\nAber nicht nur die Amerikaner bereiten sich auf den Start der Discovery vor. Auch die Besatzung der ISS hat mit den Vorbereitungen für die Arbeiten an der Station begonnen. Die Raumfähre bringt gut 12 Tonnen Material für die Station mit. Auf dem Rückflug soll sie den Müll, der sich in den letzten Jahren angesammelt hat, wieder mit zur Erde bringen.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 149,
+            "end": 25,
+            "id": 0,
+            "text": "Heute ist um 10:39 Uhr Ortszeit (16:39 Uhr MESZ) vom Weltraumbahnhof Cape Canaveral die US-amerikanische Raumfähre „Discovery“ ins Weltall gestartet. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24
+            ],
+            "tokens": [
+                "Heute",
+                "ist",
+                "um",
+                "10:39",
+                "Uhr",
+                "Ortszeit",
+                "(",
+                "16:39",
+                "Uhr",
+                "MESZ",
+                ")",
+                "vom",
+                "Weltraumbahnhof",
+                "Cape",
+                "Canaveral",
+                "die",
+                "US-amerikanische",
+                "Raumfähre",
+                "„",
+                "Discovery",
+                "“",
+                "ins",
+                "Weltall",
+                "gestartet",
+                "."
+            ]
+        },
+        {
+            "begin": 25,
+            "charBegin": 150,
+            "charEnd": 225,
+            "end": 36,
+            "id": 1,
+            "text": "Mit ihr brachen sieben Astronauten zur Internationalen Raumstation ISS auf. ",
+            "tokenIds": [
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "tokens": [
+                "Mit",
+                "ihr",
+                "brachen",
+                "sieben",
+                "Astronauten",
+                "zur",
+                "Internationalen",
+                "Raumstation",
+                "ISS",
+                "auf",
+                "."
+            ]
+        },
+        {
+            "begin": 36,
+            "charBegin": 228,
+            "charEnd": 308,
+            "end": 48,
+            "id": 2,
+            "text": "Im Verlauf des Countdowns mussten einige Unwägbarkeiten in Kauf genommen werden. ",
+            "tokenIds": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "tokens": [
+                "Im",
+                "Verlauf",
+                "des",
+                "Countdowns",
+                "mussten",
+                "einige",
+                "Unwägbarkeiten",
+                "in",
+                "Kauf",
+                "genommen",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 48,
+            "charBegin": 309,
+            "charEnd": 402,
+            "end": 64,
+            "id": 3,
+            "text": "Zuerst bestand die Möglichkeit, dass der Hurrikan „Dennis“ das Startgelände erreichen könnte. ",
+            "tokenIds": [
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63
+            ],
+            "tokens": [
+                "Zuerst",
+                "bestand",
+                "die",
+                "Möglichkeit",
+                ",",
+                "dass",
+                "der",
+                "Hurrikan",
+                "„",
+                "Dennis",
+                "“",
+                "das",
+                "Startgelände",
+                "erreichen",
+                "könnte",
+                "."
+            ]
+        },
+        {
+            "begin": 64,
+            "charBegin": 403,
+            "charEnd": 504,
+            "end": 79,
+            "id": 4,
+            "text": "Die NASA-Verantwortlichen überlegten kurz, den Shuttle wieder in den Hangar zurück zu transportieren. ",
+            "tokenIds": [
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78
+            ],
+            "tokens": [
+                "Die",
+                "NASA-Verantwortlichen",
+                "überlegten",
+                "kurz",
+                ",",
+                "den",
+                "Shuttle",
+                "wieder",
+                "in",
+                "den",
+                "Hangar",
+                "zurück",
+                "zu",
+                "transportieren",
+                "."
+            ]
+        },
+        {
+            "begin": 79,
+            "charBegin": 505,
+            "charEnd": 573,
+            "end": 89,
+            "id": 5,
+            "text": "Eine weitere Vorhersage des Wetterdienstes gab dann aber Entwarnung.",
+            "tokenIds": [
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88
+            ],
+            "tokens": [
+                "Eine",
+                "weitere",
+                "Vorhersage",
+                "des",
+                "Wetterdienstes",
+                "gab",
+                "dann",
+                "aber",
+                "Entwarnung",
+                "."
+            ]
+        },
+        {
+            "begin": 89,
+            "charBegin": 575,
+            "charEnd": 707,
+            "end": 112,
+            "id": 6,
+            "text": "Noch wenige Stunden vor dem Start gab es wieder einen Zwischenfall bei den Kacheln, die bei der Raumfähre als Hitzeschild fungieren. ",
+            "tokenIds": [
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111
+            ],
+            "tokens": [
+                "Noch",
+                "wenige",
+                "Stunden",
+                "vor",
+                "dem",
+                "Start",
+                "gab",
+                "es",
+                "wieder",
+                "einen",
+                "Zwischenfall",
+                "bei",
+                "den",
+                "Kacheln",
+                ",",
+                "die",
+                "bei",
+                "der",
+                "Raumfähre",
+                "als",
+                "Hitzeschild",
+                "fungieren",
+                "."
+            ]
+        },
+        {
+            "begin": 112,
+            "charBegin": 708,
+            "charEnd": 821,
+            "end": 130,
+            "id": 7,
+            "text": "Die Plastikabdeckung eines Cockpitfensters löste sich, fiel 20 Meter in die Tiefe und beschädigte einige Kacheln. ",
+            "tokenIds": [
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129
+            ],
+            "tokens": [
+                "Die",
+                "Plastikabdeckung",
+                "eines",
+                "Cockpitfensters",
+                "löste",
+                "sich",
+                ",",
+                "fiel",
+                "20",
+                "Meter",
+                "in",
+                "die",
+                "Tiefe",
+                "und",
+                "beschädigte",
+                "einige",
+                "Kacheln",
+                "."
+            ]
+        },
+        {
+            "begin": 130,
+            "charBegin": 822,
+            "charEnd": 877,
+            "end": 140,
+            "id": 8,
+            "text": "Der Schaden konnte noch auf der Rampe repariert werden.",
+            "tokenIds": [
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139
+            ],
+            "tokens": [
+                "Der",
+                "Schaden",
+                "konnte",
+                "noch",
+                "auf",
+                "der",
+                "Rampe",
+                "repariert",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 140,
+            "charBegin": 879,
+            "charEnd": 1012,
+            "end": 159,
+            "id": 9,
+            "text": "Schließlich wurde der erste Startversuch am 13.07.2005 abgebrochen, da ein Sensor eine Fehlfunktion an einem Treibstofftank anzeigte. ",
+            "tokenIds": [
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158
+            ],
+            "tokens": [
+                "Schließlich",
+                "wurde",
+                "der",
+                "erste",
+                "Startversuch",
+                "am",
+                "13.07.2005",
+                "abgebrochen",
+                ",",
+                "da",
+                "ein",
+                "Sensor",
+                "eine",
+                "Fehlfunktion",
+                "an",
+                "einem",
+                "Treibstofftank",
+                "anzeigte",
+                "."
+            ]
+        },
+        {
+            "begin": 159,
+            "charBegin": 1013,
+            "charEnd": 1069,
+            "end": 167,
+            "id": 10,
+            "text": "Der neue zweite Startversuch verlief dagegen problemlos.",
+            "tokenIds": [
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166
+            ],
+            "tokens": [
+                "Der",
+                "neue",
+                "zweite",
+                "Startversuch",
+                "verlief",
+                "dagegen",
+                "problemlos",
+                "."
+            ]
+        },
+        {
+            "begin": 167,
+            "charBegin": 1071,
+            "charEnd": 1119,
+            "end": 175,
+            "id": 11,
+            "text": "Der Flug wird voraussichtlich zwölf Tage dauern. ",
+            "tokenIds": [
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174
+            ],
+            "tokens": [
+                "Der",
+                "Flug",
+                "wird",
+                "voraussichtlich",
+                "zwölf",
+                "Tage",
+                "dauern",
+                "."
+            ]
+        },
+        {
+            "begin": 175,
+            "charBegin": 1120,
+            "charEnd": 1318,
+            "end": 206,
+            "id": 12,
+            "text": "Die  Raumfähre „Discovery“ wurde in den letzten Monaten generalüberholt, dabei investierte die NASA mehr als 1,5 Milliarden Dollar (1,24 Milliarden Euro) für Verbesserungen der Sicherheitsstandards.",
+            "tokenIds": [
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205
+            ],
+            "tokens": [
+                "Die",
+                "Raumfähre",
+                "„",
+                "Discovery",
+                "“",
+                "wurde",
+                "in",
+                "den",
+                "letzten",
+                "Monaten",
+                "generalüberholt",
+                ",",
+                "dabei",
+                "investierte",
+                "die",
+                "NASA",
+                "mehr",
+                "als",
+                "1,5",
+                "Milliarden",
+                "Dollar",
+                "(",
+                "1,24",
+                "Milliarden",
+                "Euro",
+                ")",
+                "für",
+                "Verbesserungen",
+                "der",
+                "Sicherheitsstandards",
+                "."
+            ]
+        },
+        {
+            "begin": 206,
+            "charBegin": 1320,
+            "charEnd": 1472,
+            "end": 232,
+            "id": 13,
+            "text": "Es ist die 114. Space Shuttle Mission und der 31. Flug der Raumfähre Discovery, außerdem der 17. Flug eines Shuttle zur Internationalen Raumstation ISS. ",
+            "tokenIds": [
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231
+            ],
+            "tokens": [
+                "Es",
+                "ist",
+                "die",
+                "114.",
+                "Space",
+                "Shuttle",
+                "Mission",
+                "und",
+                "der",
+                "31.",
+                "Flug",
+                "der",
+                "Raumfähre",
+                "Discovery",
+                ",",
+                "außerdem",
+                "der",
+                "17.",
+                "Flug",
+                "eines",
+                "Shuttle",
+                "zur",
+                "Internationalen",
+                "Raumstation",
+                "ISS",
+                "."
+            ]
+        },
+        {
+            "begin": 232,
+            "charBegin": 1473,
+            "charEnd": 1554,
+            "end": 246,
+            "id": 14,
+            "text": "Das Shuttle ist mit dem Multi-Purpose Logistic Modul „Raffaello“ bestückt worden.",
+            "tokenIds": [
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245
+            ],
+            "tokens": [
+                "Das",
+                "Shuttle",
+                "ist",
+                "mit",
+                "dem",
+                "Multi-Purpose",
+                "Logistic",
+                "Modul",
+                "„",
+                "Raffaello",
+                "“",
+                "bestückt",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "begin": 246,
+            "charBegin": 1556,
+            "charEnd": 1661,
+            "end": 262,
+            "id": 15,
+            "text": "Die zweite wichtige Aufgabe der Mission ist ein Test des nach dem Columbia-Unglück umgebauten Außentanks. ",
+            "tokenIds": [
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261
+            ],
+            "tokens": [
+                "Die",
+                "zweite",
+                "wichtige",
+                "Aufgabe",
+                "der",
+                "Mission",
+                "ist",
+                "ein",
+                "Test",
+                "des",
+                "nach",
+                "dem",
+                "Columbia-Unglück",
+                "umgebauten",
+                "Außentanks",
+                "."
+            ]
+        },
+        {
+            "begin": 262,
+            "charBegin": 1662,
+            "charEnd": 1800,
+            "end": 284,
+            "id": 16,
+            "text": "Sowohl am Orbiter als auch am Außentank wurden Kameras angebracht, mit denen eventuell sich ablösende Teile hätten entdeckt werden können. ",
+            "tokenIds": [
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273,
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283
+            ],
+            "tokens": [
+                "Sowohl",
+                "am",
+                "Orbiter",
+                "als",
+                "auch",
+                "am",
+                "Außentank",
+                "wurden",
+                "Kameras",
+                "angebracht",
+                ",",
+                "mit",
+                "denen",
+                "eventuell",
+                "sich",
+                "ablösende",
+                "Teile",
+                "hätten",
+                "entdeckt",
+                "werden",
+                "können",
+                "."
+            ]
+        },
+        {
+            "begin": 284,
+            "charBegin": 1801,
+            "charEnd": 1854,
+            "end": 293,
+            "id": 17,
+            "text": "Zusätzlich filmten Flugzeuge der Air Force den Start. ",
+            "tokenIds": [
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292
+            ],
+            "tokens": [
+                "Zusätzlich",
+                "filmten",
+                "Flugzeuge",
+                "der",
+                "Air",
+                "Force",
+                "den",
+                "Start",
+                "."
+            ]
+        },
+        {
+            "begin": 293,
+            "charBegin": 1855,
+            "charEnd": 1984,
+            "end": 310,
+            "id": 18,
+            "text": "Während der ersten zwei Flugtage wird mit Hilfe eines Roboterarms eine ausführliche Inspektion der Shuttle-Außenhaut stattfinden.",
+            "tokenIds": [
+                293,
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306,
+                307,
+                308,
+                309
+            ],
+            "tokens": [
+                "Während",
+                "der",
+                "ersten",
+                "zwei",
+                "Flugtage",
+                "wird",
+                "mit",
+                "Hilfe",
+                "eines",
+                "Roboterarms",
+                "eine",
+                "ausführliche",
+                "Inspektion",
+                "der",
+                "Shuttle-Außenhaut",
+                "stattfinden",
+                "."
+            ]
+        },
+        {
+            "begin": 310,
+            "charBegin": 1986,
+            "charEnd": 2334,
+            "end": 371,
+            "id": 19,
+            "text": "Die Namen der Besatzungsmitglieder lauten: Eileen M. Collins, Kommandantin; James M. Kelly, Pilot; Charles J. Camarda, Missions Spezialist; Wendy B. Lawrence, Missions Spezialistin; Stephen K. Robinson, Missions Spezialist; Andrew S. W. Thomas, Missions Spezialist und Soichi Noguchi, Missions Spezialist (Japan Aerospace Exploration Agency (JAXA))",
+            "tokenIds": [
+                310,
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322,
+                323,
+                324,
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332,
+                333,
+                334,
+                335,
+                336,
+                337,
+                338,
+                339,
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346,
+                347,
+                348,
+                349,
+                350,
+                351,
+                352,
+                353,
+                354,
+                355,
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365,
+                366,
+                367,
+                368,
+                369,
+                370
+            ],
+            "tokens": [
+                "Die",
+                "Namen",
+                "der",
+                "Besatzungsmitglieder",
+                "lauten",
+                ":",
+                "Eileen",
+                "M.",
+                "Collins",
+                ",",
+                "Kommandantin",
+                ";",
+                "James",
+                "M.",
+                "Kelly",
+                ",",
+                "Pilot",
+                ";",
+                "Charles",
+                "J.",
+                "Camarda",
+                ",",
+                "Missions",
+                "Spezialist",
+                ";",
+                "Wendy",
+                "B.",
+                "Lawrence",
+                ",",
+                "Missions",
+                "Spezialistin",
+                ";",
+                "Stephen",
+                "K.",
+                "Robinson",
+                ",",
+                "Missions",
+                "Spezialist",
+                ";",
+                "Andrew",
+                "S.",
+                "W.",
+                "Thomas",
+                ",",
+                "Missions",
+                "Spezialist",
+                "und",
+                "Soichi",
+                "Noguchi",
+                ",",
+                "Missions",
+                "Spezialist",
+                "(",
+                "Japan",
+                "Aerospace",
+                "Exploration",
+                "Agency",
+                "(",
+                "JAXA",
+                ")",
+                ")"
+            ]
+        },
+        {
+            "begin": 371,
+            "charBegin": 2336,
+            "charEnd": 2412,
+            "end": 385,
+            "id": 20,
+            "text": "Aber nicht nur die Amerikaner bereiten sich auf den Start der Discovery vor. ",
+            "tokenIds": [
+                371,
+                372,
+                373,
+                374,
+                375,
+                376,
+                377,
+                378,
+                379,
+                380,
+                381,
+                382,
+                383,
+                384
+            ],
+            "tokens": [
+                "Aber",
+                "nicht",
+                "nur",
+                "die",
+                "Amerikaner",
+                "bereiten",
+                "sich",
+                "auf",
+                "den",
+                "Start",
+                "der",
+                "Discovery",
+                "vor",
+                "."
+            ]
+        },
+        {
+            "begin": 385,
+            "charBegin": 2413,
+            "charEnd": 2508,
+            "end": 402,
+            "id": 21,
+            "text": "Auch die Besatzung der ISS hat mit den Vorbereitungen für die Arbeiten an der Station begonnen. ",
+            "tokenIds": [
+                385,
+                386,
+                387,
+                388,
+                389,
+                390,
+                391,
+                392,
+                393,
+                394,
+                395,
+                396,
+                397,
+                398,
+                399,
+                400,
+                401
+            ],
+            "tokens": [
+                "Auch",
+                "die",
+                "Besatzung",
+                "der",
+                "ISS",
+                "hat",
+                "mit",
+                "den",
+                "Vorbereitungen",
+                "für",
+                "die",
+                "Arbeiten",
+                "an",
+                "der",
+                "Station",
+                "begonnen",
+                "."
+            ]
+        },
+        {
+            "begin": 402,
+            "charBegin": 2509,
+            "charEnd": 2573,
+            "end": 414,
+            "id": 22,
+            "text": "Die Raumfähre bringt gut 12 Tonnen Material für die Station mit. ",
+            "tokenIds": [
+                402,
+                403,
+                404,
+                405,
+                406,
+                407,
+                408,
+                409,
+                410,
+                411,
+                412,
+                413
+            ],
+            "tokens": [
+                "Die",
+                "Raumfähre",
+                "bringt",
+                "gut",
+                "12",
+                "Tonnen",
+                "Material",
+                "für",
+                "die",
+                "Station",
+                "mit",
+                "."
+            ]
+        },
+        {
+            "begin": 414,
+            "charBegin": 2574,
+            "charEnd": 2686,
+            "end": 437,
+            "id": 23,
+            "text": "Auf dem Rückflug soll sie den Müll, der sich in den letzten Jahren angesammelt hat, wieder mit zur Erde bringen.",
+            "tokenIds": [
+                414,
+                415,
+                416,
+                417,
+                418,
+                419,
+                420,
+                421,
+                422,
+                423,
+                424,
+                425,
+                426,
+                427,
+                428,
+                429,
+                430,
+                431,
+                432,
+                433,
+                434,
+                435,
+                436
+            ],
+            "tokens": [
+                "Auf",
+                "dem",
+                "Rückflug",
+                "soll",
+                "sie",
+                "den",
+                "Müll",
+                ",",
+                "der",
+                "sich",
+                "in",
+                "den",
+                "letzten",
+                "Jahren",
+                "angesammelt",
+                "hat",
+                ",",
+                "wieder",
+                "mit",
+                "zur",
+                "Erde",
+                "bringen",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 5,
+            "id": 0,
+            "sentence": 1,
+            "text": "Heute",
+            "word": 1
+        },
+        {
+            "charBegin": 6,
+            "charEnd": 9,
+            "id": 1,
+            "sentence": 1,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 10,
+            "charEnd": 12,
+            "id": 2,
+            "sentence": 1,
+            "text": "um",
+            "word": 3
+        },
+        {
+            "charBegin": 13,
+            "charEnd": 18,
+            "id": 3,
+            "sentence": 1,
+            "text": "10:39",
+            "word": 4
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 22,
+            "id": 4,
+            "sentence": 1,
+            "text": "Uhr",
+            "word": 5
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 31,
+            "id": 5,
+            "sentence": 1,
+            "text": "Ortszeit",
+            "word": 6
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 33,
+            "id": 6,
+            "sentence": 1,
+            "text": "(",
+            "word": 7
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 38,
+            "id": 7,
+            "sentence": 1,
+            "text": "16:39",
+            "word": 8
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 42,
+            "id": 8,
+            "sentence": 1,
+            "text": "Uhr",
+            "word": 9
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 47,
+            "id": 9,
+            "sentence": 1,
+            "text": "MESZ",
+            "word": 10
+        },
+        {
+            "charBegin": 47,
+            "charEnd": 48,
+            "id": 10,
+            "sentence": 1,
+            "text": ")",
+            "word": 11
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 52,
+            "id": 11,
+            "sentence": 1,
+            "text": "vom",
+            "word": 12
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 68,
+            "id": 12,
+            "sentence": 1,
+            "text": "Weltraumbahnhof",
+            "word": 13
+        },
+        {
+            "charBegin": 69,
+            "charEnd": 73,
+            "id": 13,
+            "sentence": 1,
+            "text": "Cape",
+            "word": 14
+        },
+        {
+            "charBegin": 74,
+            "charEnd": 83,
+            "id": 14,
+            "sentence": 1,
+            "text": "Canaveral",
+            "word": 15
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 87,
+            "id": 15,
+            "sentence": 1,
+            "text": "die",
+            "word": 16
+        },
+        {
+            "charBegin": 88,
+            "charEnd": 104,
+            "id": 16,
+            "sentence": 1,
+            "text": "US-amerikanische",
+            "word": 17
+        },
+        {
+            "charBegin": 105,
+            "charEnd": 114,
+            "id": 17,
+            "sentence": 1,
+            "text": "Raumfähre",
+            "word": 18
+        },
+        {
+            "charBegin": 115,
+            "charEnd": 116,
+            "id": 18,
+            "sentence": 1,
+            "text": "„",
+            "word": 19
+        },
+        {
+            "charBegin": 116,
+            "charEnd": 125,
+            "id": 19,
+            "sentence": 1,
+            "text": "Discovery",
+            "word": 20
+        },
+        {
+            "charBegin": 125,
+            "charEnd": 126,
+            "id": 20,
+            "sentence": 1,
+            "text": "“",
+            "word": 21
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 130,
+            "id": 21,
+            "sentence": 1,
+            "text": "ins",
+            "word": 22
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 138,
+            "id": 22,
+            "sentence": 1,
+            "text": "Weltall",
+            "word": 23
+        },
+        {
+            "charBegin": 139,
+            "charEnd": 148,
+            "id": 23,
+            "sentence": 1,
+            "text": "gestartet",
+            "word": 24
+        },
+        {
+            "charBegin": 148,
+            "charEnd": 149,
+            "id": 24,
+            "sentence": 1,
+            "text": ".",
+            "word": 25
+        },
+        {
+            "charBegin": 150,
+            "charEnd": 153,
+            "id": 25,
+            "sentence": 2,
+            "text": "Mit",
+            "word": 1
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 157,
+            "id": 26,
+            "sentence": 2,
+            "text": "ihr",
+            "word": 2
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 165,
+            "id": 27,
+            "sentence": 2,
+            "text": "brachen",
+            "word": 3
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 172,
+            "id": 28,
+            "sentence": 2,
+            "text": "sieben",
+            "word": 4
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 184,
+            "id": 29,
+            "sentence": 2,
+            "text": "Astronauten",
+            "word": 5
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 188,
+            "id": 30,
+            "sentence": 2,
+            "text": "zur",
+            "word": 6
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 204,
+            "id": 31,
+            "sentence": 2,
+            "text": "Internationalen",
+            "word": 7
+        },
+        {
+            "charBegin": 205,
+            "charEnd": 216,
+            "id": 32,
+            "sentence": 2,
+            "text": "Raumstation",
+            "word": 8
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 220,
+            "id": 33,
+            "sentence": 2,
+            "text": "ISS",
+            "word": 9
+        },
+        {
+            "charBegin": 221,
+            "charEnd": 224,
+            "id": 34,
+            "sentence": 2,
+            "text": "auf",
+            "word": 10
+        },
+        {
+            "charBegin": 224,
+            "charEnd": 225,
+            "id": 35,
+            "sentence": 2,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 230,
+            "id": 36,
+            "sentence": 3,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 238,
+            "id": 37,
+            "sentence": 3,
+            "text": "Verlauf",
+            "word": 2
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 242,
+            "id": 38,
+            "sentence": 3,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 253,
+            "id": 39,
+            "sentence": 3,
+            "text": "Countdowns",
+            "word": 4
+        },
+        {
+            "charBegin": 254,
+            "charEnd": 261,
+            "id": 40,
+            "sentence": 3,
+            "text": "mussten",
+            "word": 5
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 268,
+            "id": 41,
+            "sentence": 3,
+            "text": "einige",
+            "word": 6
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 283,
+            "id": 42,
+            "sentence": 3,
+            "text": "Unwägbarkeiten",
+            "word": 7
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 286,
+            "id": 43,
+            "sentence": 3,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 287,
+            "charEnd": 291,
+            "id": 44,
+            "sentence": 3,
+            "text": "Kauf",
+            "word": 9
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 300,
+            "id": 45,
+            "sentence": 3,
+            "text": "genommen",
+            "word": 10
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 307,
+            "id": 46,
+            "sentence": 3,
+            "text": "werden",
+            "word": 11
+        },
+        {
+            "charBegin": 307,
+            "charEnd": 308,
+            "id": 47,
+            "sentence": 3,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 315,
+            "id": 48,
+            "sentence": 4,
+            "text": "Zuerst",
+            "word": 1
+        },
+        {
+            "charBegin": 316,
+            "charEnd": 323,
+            "id": 49,
+            "sentence": 4,
+            "text": "bestand",
+            "word": 2
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 327,
+            "id": 50,
+            "sentence": 4,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 339,
+            "id": 51,
+            "sentence": 4,
+            "text": "Möglichkeit",
+            "word": 4
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 340,
+            "id": 52,
+            "sentence": 4,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 341,
+            "charEnd": 345,
+            "id": 53,
+            "sentence": 4,
+            "text": "dass",
+            "word": 6
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 349,
+            "id": 54,
+            "sentence": 4,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 358,
+            "id": 55,
+            "sentence": 4,
+            "text": "Hurrikan",
+            "word": 8
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 360,
+            "id": 56,
+            "sentence": 4,
+            "text": "„",
+            "word": 9
+        },
+        {
+            "charBegin": 360,
+            "charEnd": 366,
+            "id": 57,
+            "sentence": 4,
+            "text": "Dennis",
+            "word": 10
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 367,
+            "id": 58,
+            "sentence": 4,
+            "text": "“",
+            "word": 11
+        },
+        {
+            "charBegin": 368,
+            "charEnd": 371,
+            "id": 59,
+            "sentence": 4,
+            "text": "das",
+            "word": 12
+        },
+        {
+            "charBegin": 372,
+            "charEnd": 384,
+            "id": 60,
+            "sentence": 4,
+            "text": "Startgelände",
+            "word": 13
+        },
+        {
+            "charBegin": 385,
+            "charEnd": 394,
+            "id": 61,
+            "sentence": 4,
+            "text": "erreichen",
+            "word": 14
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 401,
+            "id": 62,
+            "sentence": 4,
+            "text": "könnte",
+            "word": 15
+        },
+        {
+            "charBegin": 401,
+            "charEnd": 402,
+            "id": 63,
+            "sentence": 4,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 406,
+            "id": 64,
+            "sentence": 5,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 428,
+            "id": 65,
+            "sentence": 5,
+            "text": "NASA-Verantwortlichen",
+            "word": 2
+        },
+        {
+            "charBegin": 429,
+            "charEnd": 439,
+            "id": 66,
+            "sentence": 5,
+            "text": "überlegten",
+            "word": 3
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 444,
+            "id": 67,
+            "sentence": 5,
+            "text": "kurz",
+            "word": 4
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 445,
+            "id": 68,
+            "sentence": 5,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 449,
+            "id": 69,
+            "sentence": 5,
+            "text": "den",
+            "word": 6
+        },
+        {
+            "charBegin": 450,
+            "charEnd": 457,
+            "id": 70,
+            "sentence": 5,
+            "text": "Shuttle",
+            "word": 7
+        },
+        {
+            "charBegin": 458,
+            "charEnd": 464,
+            "id": 71,
+            "sentence": 5,
+            "text": "wieder",
+            "word": 8
+        },
+        {
+            "charBegin": 465,
+            "charEnd": 467,
+            "id": 72,
+            "sentence": 5,
+            "text": "in",
+            "word": 9
+        },
+        {
+            "charBegin": 468,
+            "charEnd": 471,
+            "id": 73,
+            "sentence": 5,
+            "text": "den",
+            "word": 10
+        },
+        {
+            "charBegin": 472,
+            "charEnd": 478,
+            "id": 74,
+            "sentence": 5,
+            "text": "Hangar",
+            "word": 11
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 485,
+            "id": 75,
+            "sentence": 5,
+            "text": "zurück",
+            "word": 12
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 488,
+            "id": 76,
+            "sentence": 5,
+            "text": "zu",
+            "word": 13
+        },
+        {
+            "charBegin": 489,
+            "charEnd": 503,
+            "id": 77,
+            "sentence": 5,
+            "text": "transportieren",
+            "word": 14
+        },
+        {
+            "charBegin": 503,
+            "charEnd": 504,
+            "id": 78,
+            "sentence": 5,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 505,
+            "charEnd": 509,
+            "id": 79,
+            "sentence": 6,
+            "text": "Eine",
+            "word": 1
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 517,
+            "id": 80,
+            "sentence": 6,
+            "text": "weitere",
+            "word": 2
+        },
+        {
+            "charBegin": 518,
+            "charEnd": 528,
+            "id": 81,
+            "sentence": 6,
+            "text": "Vorhersage",
+            "word": 3
+        },
+        {
+            "charBegin": 529,
+            "charEnd": 532,
+            "id": 82,
+            "sentence": 6,
+            "text": "des",
+            "word": 4
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 547,
+            "id": 83,
+            "sentence": 6,
+            "text": "Wetterdienstes",
+            "word": 5
+        },
+        {
+            "charBegin": 548,
+            "charEnd": 551,
+            "id": 84,
+            "sentence": 6,
+            "text": "gab",
+            "word": 6
+        },
+        {
+            "charBegin": 552,
+            "charEnd": 556,
+            "id": 85,
+            "sentence": 6,
+            "text": "dann",
+            "word": 7
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 561,
+            "id": 86,
+            "sentence": 6,
+            "text": "aber",
+            "word": 8
+        },
+        {
+            "charBegin": 562,
+            "charEnd": 572,
+            "id": 87,
+            "sentence": 6,
+            "text": "Entwarnung",
+            "word": 9
+        },
+        {
+            "charBegin": 572,
+            "charEnd": 573,
+            "id": 88,
+            "sentence": 6,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 575,
+            "charEnd": 579,
+            "id": 89,
+            "sentence": 7,
+            "text": "Noch",
+            "word": 1
+        },
+        {
+            "charBegin": 580,
+            "charEnd": 586,
+            "id": 90,
+            "sentence": 7,
+            "text": "wenige",
+            "word": 2
+        },
+        {
+            "charBegin": 587,
+            "charEnd": 594,
+            "id": 91,
+            "sentence": 7,
+            "text": "Stunden",
+            "word": 3
+        },
+        {
+            "charBegin": 595,
+            "charEnd": 598,
+            "id": 92,
+            "sentence": 7,
+            "text": "vor",
+            "word": 4
+        },
+        {
+            "charBegin": 599,
+            "charEnd": 602,
+            "id": 93,
+            "sentence": 7,
+            "text": "dem",
+            "word": 5
+        },
+        {
+            "charBegin": 603,
+            "charEnd": 608,
+            "id": 94,
+            "sentence": 7,
+            "text": "Start",
+            "word": 6
+        },
+        {
+            "charBegin": 609,
+            "charEnd": 612,
+            "id": 95,
+            "sentence": 7,
+            "text": "gab",
+            "word": 7
+        },
+        {
+            "charBegin": 613,
+            "charEnd": 615,
+            "id": 96,
+            "sentence": 7,
+            "text": "es",
+            "word": 8
+        },
+        {
+            "charBegin": 616,
+            "charEnd": 622,
+            "id": 97,
+            "sentence": 7,
+            "text": "wieder",
+            "word": 9
+        },
+        {
+            "charBegin": 623,
+            "charEnd": 628,
+            "id": 98,
+            "sentence": 7,
+            "text": "einen",
+            "word": 10
+        },
+        {
+            "charBegin": 629,
+            "charEnd": 641,
+            "id": 99,
+            "sentence": 7,
+            "text": "Zwischenfall",
+            "word": 11
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 645,
+            "id": 100,
+            "sentence": 7,
+            "text": "bei",
+            "word": 12
+        },
+        {
+            "charBegin": 646,
+            "charEnd": 649,
+            "id": 101,
+            "sentence": 7,
+            "text": "den",
+            "word": 13
+        },
+        {
+            "charBegin": 650,
+            "charEnd": 657,
+            "id": 102,
+            "sentence": 7,
+            "text": "Kacheln",
+            "word": 14
+        },
+        {
+            "charBegin": 657,
+            "charEnd": 658,
+            "id": 103,
+            "sentence": 7,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 659,
+            "charEnd": 662,
+            "id": 104,
+            "sentence": 7,
+            "text": "die",
+            "word": 16
+        },
+        {
+            "charBegin": 663,
+            "charEnd": 666,
+            "id": 105,
+            "sentence": 7,
+            "text": "bei",
+            "word": 17
+        },
+        {
+            "charBegin": 667,
+            "charEnd": 670,
+            "id": 106,
+            "sentence": 7,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 671,
+            "charEnd": 680,
+            "id": 107,
+            "sentence": 7,
+            "text": "Raumfähre",
+            "word": 19
+        },
+        {
+            "charBegin": 681,
+            "charEnd": 684,
+            "id": 108,
+            "sentence": 7,
+            "text": "als",
+            "word": 20
+        },
+        {
+            "charBegin": 685,
+            "charEnd": 696,
+            "id": 109,
+            "sentence": 7,
+            "text": "Hitzeschild",
+            "word": 21
+        },
+        {
+            "charBegin": 697,
+            "charEnd": 706,
+            "id": 110,
+            "sentence": 7,
+            "text": "fungieren",
+            "word": 22
+        },
+        {
+            "charBegin": 706,
+            "charEnd": 707,
+            "id": 111,
+            "sentence": 7,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 708,
+            "charEnd": 711,
+            "id": 112,
+            "sentence": 8,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 712,
+            "charEnd": 728,
+            "id": 113,
+            "sentence": 8,
+            "text": "Plastikabdeckung",
+            "word": 2
+        },
+        {
+            "charBegin": 729,
+            "charEnd": 734,
+            "id": 114,
+            "sentence": 8,
+            "text": "eines",
+            "word": 3
+        },
+        {
+            "charBegin": 735,
+            "charEnd": 750,
+            "id": 115,
+            "sentence": 8,
+            "text": "Cockpitfensters",
+            "word": 4
+        },
+        {
+            "charBegin": 751,
+            "charEnd": 756,
+            "id": 116,
+            "sentence": 8,
+            "text": "löste",
+            "word": 5
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 761,
+            "id": 117,
+            "sentence": 8,
+            "text": "sich",
+            "word": 6
+        },
+        {
+            "charBegin": 761,
+            "charEnd": 762,
+            "id": 118,
+            "sentence": 8,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 763,
+            "charEnd": 767,
+            "id": 119,
+            "sentence": 8,
+            "text": "fiel",
+            "word": 8
+        },
+        {
+            "charBegin": 768,
+            "charEnd": 770,
+            "id": 120,
+            "sentence": 8,
+            "text": "20",
+            "word": 9
+        },
+        {
+            "charBegin": 771,
+            "charEnd": 776,
+            "id": 121,
+            "sentence": 8,
+            "text": "Meter",
+            "word": 10
+        },
+        {
+            "charBegin": 777,
+            "charEnd": 779,
+            "id": 122,
+            "sentence": 8,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 783,
+            "id": 123,
+            "sentence": 8,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 784,
+            "charEnd": 789,
+            "id": 124,
+            "sentence": 8,
+            "text": "Tiefe",
+            "word": 13
+        },
+        {
+            "charBegin": 790,
+            "charEnd": 793,
+            "id": 125,
+            "sentence": 8,
+            "text": "und",
+            "word": 14
+        },
+        {
+            "charBegin": 794,
+            "charEnd": 805,
+            "id": 126,
+            "sentence": 8,
+            "text": "beschädigte",
+            "word": 15
+        },
+        {
+            "charBegin": 806,
+            "charEnd": 812,
+            "id": 127,
+            "sentence": 8,
+            "text": "einige",
+            "word": 16
+        },
+        {
+            "charBegin": 813,
+            "charEnd": 820,
+            "id": 128,
+            "sentence": 8,
+            "text": "Kacheln",
+            "word": 17
+        },
+        {
+            "charBegin": 820,
+            "charEnd": 821,
+            "id": 129,
+            "sentence": 8,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 822,
+            "charEnd": 825,
+            "id": 130,
+            "sentence": 9,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 826,
+            "charEnd": 833,
+            "id": 131,
+            "sentence": 9,
+            "text": "Schaden",
+            "word": 2
+        },
+        {
+            "charBegin": 834,
+            "charEnd": 840,
+            "id": 132,
+            "sentence": 9,
+            "text": "konnte",
+            "word": 3
+        },
+        {
+            "charBegin": 841,
+            "charEnd": 845,
+            "id": 133,
+            "sentence": 9,
+            "text": "noch",
+            "word": 4
+        },
+        {
+            "charBegin": 846,
+            "charEnd": 849,
+            "id": 134,
+            "sentence": 9,
+            "text": "auf",
+            "word": 5
+        },
+        {
+            "charBegin": 850,
+            "charEnd": 853,
+            "id": 135,
+            "sentence": 9,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 854,
+            "charEnd": 859,
+            "id": 136,
+            "sentence": 9,
+            "text": "Rampe",
+            "word": 7
+        },
+        {
+            "charBegin": 860,
+            "charEnd": 869,
+            "id": 137,
+            "sentence": 9,
+            "text": "repariert",
+            "word": 8
+        },
+        {
+            "charBegin": 870,
+            "charEnd": 876,
+            "id": 138,
+            "sentence": 9,
+            "text": "werden",
+            "word": 9
+        },
+        {
+            "charBegin": 876,
+            "charEnd": 877,
+            "id": 139,
+            "sentence": 9,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 879,
+            "charEnd": 890,
+            "id": 140,
+            "sentence": 10,
+            "text": "Schließlich",
+            "word": 1
+        },
+        {
+            "charBegin": 891,
+            "charEnd": 896,
+            "id": 141,
+            "sentence": 10,
+            "text": "wurde",
+            "word": 2
+        },
+        {
+            "charBegin": 897,
+            "charEnd": 900,
+            "id": 142,
+            "sentence": 10,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 901,
+            "charEnd": 906,
+            "id": 143,
+            "sentence": 10,
+            "text": "erste",
+            "word": 4
+        },
+        {
+            "charBegin": 907,
+            "charEnd": 919,
+            "id": 144,
+            "sentence": 10,
+            "text": "Startversuch",
+            "word": 5
+        },
+        {
+            "charBegin": 920,
+            "charEnd": 922,
+            "id": 145,
+            "sentence": 10,
+            "text": "am",
+            "word": 6
+        },
+        {
+            "charBegin": 923,
+            "charEnd": 933,
+            "id": 146,
+            "sentence": 10,
+            "text": "13.07.2005",
+            "word": 7
+        },
+        {
+            "charBegin": 934,
+            "charEnd": 945,
+            "id": 147,
+            "sentence": 10,
+            "text": "abgebrochen",
+            "word": 8
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 946,
+            "id": 148,
+            "sentence": 10,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 947,
+            "charEnd": 949,
+            "id": 149,
+            "sentence": 10,
+            "text": "da",
+            "word": 10
+        },
+        {
+            "charBegin": 950,
+            "charEnd": 953,
+            "id": 150,
+            "sentence": 10,
+            "text": "ein",
+            "word": 11
+        },
+        {
+            "charBegin": 954,
+            "charEnd": 960,
+            "id": 151,
+            "sentence": 10,
+            "text": "Sensor",
+            "word": 12
+        },
+        {
+            "charBegin": 961,
+            "charEnd": 965,
+            "id": 152,
+            "sentence": 10,
+            "text": "eine",
+            "word": 13
+        },
+        {
+            "charBegin": 966,
+            "charEnd": 978,
+            "id": 153,
+            "sentence": 10,
+            "text": "Fehlfunktion",
+            "word": 14
+        },
+        {
+            "charBegin": 979,
+            "charEnd": 981,
+            "id": 154,
+            "sentence": 10,
+            "text": "an",
+            "word": 15
+        },
+        {
+            "charBegin": 982,
+            "charEnd": 987,
+            "id": 155,
+            "sentence": 10,
+            "text": "einem",
+            "word": 16
+        },
+        {
+            "charBegin": 988,
+            "charEnd": 1002,
+            "id": 156,
+            "sentence": 10,
+            "text": "Treibstofftank",
+            "word": 17
+        },
+        {
+            "charBegin": 1003,
+            "charEnd": 1011,
+            "id": 157,
+            "sentence": 10,
+            "text": "anzeigte",
+            "word": 18
+        },
+        {
+            "charBegin": 1011,
+            "charEnd": 1012,
+            "id": 158,
+            "sentence": 10,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 1013,
+            "charEnd": 1016,
+            "id": 159,
+            "sentence": 11,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1017,
+            "charEnd": 1021,
+            "id": 160,
+            "sentence": 11,
+            "text": "neue",
+            "word": 2
+        },
+        {
+            "charBegin": 1022,
+            "charEnd": 1028,
+            "id": 161,
+            "sentence": 11,
+            "text": "zweite",
+            "word": 3
+        },
+        {
+            "charBegin": 1029,
+            "charEnd": 1041,
+            "id": 162,
+            "sentence": 11,
+            "text": "Startversuch",
+            "word": 4
+        },
+        {
+            "charBegin": 1042,
+            "charEnd": 1049,
+            "id": 163,
+            "sentence": 11,
+            "text": "verlief",
+            "word": 5
+        },
+        {
+            "charBegin": 1050,
+            "charEnd": 1057,
+            "id": 164,
+            "sentence": 11,
+            "text": "dagegen",
+            "word": 6
+        },
+        {
+            "charBegin": 1058,
+            "charEnd": 1068,
+            "id": 165,
+            "sentence": 11,
+            "text": "problemlos",
+            "word": 7
+        },
+        {
+            "charBegin": 1068,
+            "charEnd": 1069,
+            "id": 166,
+            "sentence": 11,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 1071,
+            "charEnd": 1074,
+            "id": 167,
+            "sentence": 12,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1075,
+            "charEnd": 1079,
+            "id": 168,
+            "sentence": 12,
+            "text": "Flug",
+            "word": 2
+        },
+        {
+            "charBegin": 1080,
+            "charEnd": 1084,
+            "id": 169,
+            "sentence": 12,
+            "text": "wird",
+            "word": 3
+        },
+        {
+            "charBegin": 1085,
+            "charEnd": 1100,
+            "id": 170,
+            "sentence": 12,
+            "text": "voraussichtlich",
+            "word": 4
+        },
+        {
+            "charBegin": 1101,
+            "charEnd": 1106,
+            "id": 171,
+            "sentence": 12,
+            "text": "zwölf",
+            "word": 5
+        },
+        {
+            "charBegin": 1107,
+            "charEnd": 1111,
+            "id": 172,
+            "sentence": 12,
+            "text": "Tage",
+            "word": 6
+        },
+        {
+            "charBegin": 1112,
+            "charEnd": 1118,
+            "id": 173,
+            "sentence": 12,
+            "text": "dauern",
+            "word": 7
+        },
+        {
+            "charBegin": 1118,
+            "charEnd": 1119,
+            "id": 174,
+            "sentence": 12,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 1120,
+            "charEnd": 1123,
+            "id": 175,
+            "sentence": 13,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1125,
+            "charEnd": 1134,
+            "id": 176,
+            "sentence": 13,
+            "text": "Raumfähre",
+            "word": 2
+        },
+        {
+            "charBegin": 1135,
+            "charEnd": 1136,
+            "id": 177,
+            "sentence": 13,
+            "text": "„",
+            "word": 3
+        },
+        {
+            "charBegin": 1136,
+            "charEnd": 1145,
+            "id": 178,
+            "sentence": 13,
+            "text": "Discovery",
+            "word": 4
+        },
+        {
+            "charBegin": 1145,
+            "charEnd": 1146,
+            "id": 179,
+            "sentence": 13,
+            "text": "“",
+            "word": 5
+        },
+        {
+            "charBegin": 1147,
+            "charEnd": 1152,
+            "id": 180,
+            "sentence": 13,
+            "text": "wurde",
+            "word": 6
+        },
+        {
+            "charBegin": 1153,
+            "charEnd": 1155,
+            "id": 181,
+            "sentence": 13,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 1156,
+            "charEnd": 1159,
+            "id": 182,
+            "sentence": 13,
+            "text": "den",
+            "word": 8
+        },
+        {
+            "charBegin": 1160,
+            "charEnd": 1167,
+            "id": 183,
+            "sentence": 13,
+            "text": "letzten",
+            "word": 9
+        },
+        {
+            "charBegin": 1168,
+            "charEnd": 1175,
+            "id": 184,
+            "sentence": 13,
+            "text": "Monaten",
+            "word": 10
+        },
+        {
+            "charBegin": 1176,
+            "charEnd": 1191,
+            "id": 185,
+            "sentence": 13,
+            "text": "generalüberholt",
+            "word": 11
+        },
+        {
+            "charBegin": 1191,
+            "charEnd": 1192,
+            "id": 186,
+            "sentence": 13,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 1193,
+            "charEnd": 1198,
+            "id": 187,
+            "sentence": 13,
+            "text": "dabei",
+            "word": 13
+        },
+        {
+            "charBegin": 1199,
+            "charEnd": 1210,
+            "id": 188,
+            "sentence": 13,
+            "text": "investierte",
+            "word": 14
+        },
+        {
+            "charBegin": 1211,
+            "charEnd": 1214,
+            "id": 189,
+            "sentence": 13,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 1215,
+            "charEnd": 1219,
+            "id": 190,
+            "sentence": 13,
+            "text": "NASA",
+            "word": 16
+        },
+        {
+            "charBegin": 1220,
+            "charEnd": 1224,
+            "id": 191,
+            "sentence": 13,
+            "text": "mehr",
+            "word": 17
+        },
+        {
+            "charBegin": 1225,
+            "charEnd": 1228,
+            "id": 192,
+            "sentence": 13,
+            "text": "als",
+            "word": 18
+        },
+        {
+            "charBegin": 1229,
+            "charEnd": 1232,
+            "id": 193,
+            "sentence": 13,
+            "text": "1,5",
+            "word": 19
+        },
+        {
+            "charBegin": 1233,
+            "charEnd": 1243,
+            "id": 194,
+            "sentence": 13,
+            "text": "Milliarden",
+            "word": 20
+        },
+        {
+            "charBegin": 1244,
+            "charEnd": 1250,
+            "id": 195,
+            "sentence": 13,
+            "text": "Dollar",
+            "word": 21
+        },
+        {
+            "charBegin": 1251,
+            "charEnd": 1252,
+            "id": 196,
+            "sentence": 13,
+            "text": "(",
+            "word": 22
+        },
+        {
+            "charBegin": 1252,
+            "charEnd": 1256,
+            "id": 197,
+            "sentence": 13,
+            "text": "1,24",
+            "word": 23
+        },
+        {
+            "charBegin": 1257,
+            "charEnd": 1267,
+            "id": 198,
+            "sentence": 13,
+            "text": "Milliarden",
+            "word": 24
+        },
+        {
+            "charBegin": 1268,
+            "charEnd": 1272,
+            "id": 199,
+            "sentence": 13,
+            "text": "Euro",
+            "word": 25
+        },
+        {
+            "charBegin": 1272,
+            "charEnd": 1273,
+            "id": 200,
+            "sentence": 13,
+            "text": ")",
+            "word": 26
+        },
+        {
+            "charBegin": 1274,
+            "charEnd": 1277,
+            "id": 201,
+            "sentence": 13,
+            "text": "für",
+            "word": 27
+        },
+        {
+            "charBegin": 1278,
+            "charEnd": 1292,
+            "id": 202,
+            "sentence": 13,
+            "text": "Verbesserungen",
+            "word": 28
+        },
+        {
+            "charBegin": 1293,
+            "charEnd": 1296,
+            "id": 203,
+            "sentence": 13,
+            "text": "der",
+            "word": 29
+        },
+        {
+            "charBegin": 1297,
+            "charEnd": 1317,
+            "id": 204,
+            "sentence": 13,
+            "text": "Sicherheitsstandards",
+            "word": 30
+        },
+        {
+            "charBegin": 1317,
+            "charEnd": 1318,
+            "id": 205,
+            "sentence": 13,
+            "text": ".",
+            "word": 31
+        },
+        {
+            "charBegin": 1320,
+            "charEnd": 1322,
+            "id": 206,
+            "sentence": 14,
+            "text": "Es",
+            "word": 1
+        },
+        {
+            "charBegin": 1323,
+            "charEnd": 1326,
+            "id": 207,
+            "sentence": 14,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 1327,
+            "charEnd": 1330,
+            "id": 208,
+            "sentence": 14,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 1331,
+            "charEnd": 1335,
+            "id": 209,
+            "sentence": 14,
+            "text": "114.",
+            "word": 4
+        },
+        {
+            "charBegin": 1336,
+            "charEnd": 1341,
+            "id": 210,
+            "sentence": 14,
+            "text": "Space",
+            "word": 5
+        },
+        {
+            "charBegin": 1342,
+            "charEnd": 1349,
+            "id": 211,
+            "sentence": 14,
+            "text": "Shuttle",
+            "word": 6
+        },
+        {
+            "charBegin": 1350,
+            "charEnd": 1357,
+            "id": 212,
+            "sentence": 14,
+            "text": "Mission",
+            "word": 7
+        },
+        {
+            "charBegin": 1358,
+            "charEnd": 1361,
+            "id": 213,
+            "sentence": 14,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 1362,
+            "charEnd": 1365,
+            "id": 214,
+            "sentence": 14,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 1366,
+            "charEnd": 1369,
+            "id": 215,
+            "sentence": 14,
+            "text": "31.",
+            "word": 10
+        },
+        {
+            "charBegin": 1370,
+            "charEnd": 1374,
+            "id": 216,
+            "sentence": 14,
+            "text": "Flug",
+            "word": 11
+        },
+        {
+            "charBegin": 1375,
+            "charEnd": 1378,
+            "id": 217,
+            "sentence": 14,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 1379,
+            "charEnd": 1388,
+            "id": 218,
+            "sentence": 14,
+            "text": "Raumfähre",
+            "word": 13
+        },
+        {
+            "charBegin": 1389,
+            "charEnd": 1398,
+            "id": 219,
+            "sentence": 14,
+            "text": "Discovery",
+            "word": 14
+        },
+        {
+            "charBegin": 1398,
+            "charEnd": 1399,
+            "id": 220,
+            "sentence": 14,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 1400,
+            "charEnd": 1408,
+            "id": 221,
+            "sentence": 14,
+            "text": "außerdem",
+            "word": 16
+        },
+        {
+            "charBegin": 1409,
+            "charEnd": 1412,
+            "id": 222,
+            "sentence": 14,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 1413,
+            "charEnd": 1416,
+            "id": 223,
+            "sentence": 14,
+            "text": "17.",
+            "word": 18
+        },
+        {
+            "charBegin": 1417,
+            "charEnd": 1421,
+            "id": 224,
+            "sentence": 14,
+            "text": "Flug",
+            "word": 19
+        },
+        {
+            "charBegin": 1422,
+            "charEnd": 1427,
+            "id": 225,
+            "sentence": 14,
+            "text": "eines",
+            "word": 20
+        },
+        {
+            "charBegin": 1428,
+            "charEnd": 1435,
+            "id": 226,
+            "sentence": 14,
+            "text": "Shuttle",
+            "word": 21
+        },
+        {
+            "charBegin": 1436,
+            "charEnd": 1439,
+            "id": 227,
+            "sentence": 14,
+            "text": "zur",
+            "word": 22
+        },
+        {
+            "charBegin": 1440,
+            "charEnd": 1455,
+            "id": 228,
+            "sentence": 14,
+            "text": "Internationalen",
+            "word": 23
+        },
+        {
+            "charBegin": 1456,
+            "charEnd": 1467,
+            "id": 229,
+            "sentence": 14,
+            "text": "Raumstation",
+            "word": 24
+        },
+        {
+            "charBegin": 1468,
+            "charEnd": 1471,
+            "id": 230,
+            "sentence": 14,
+            "text": "ISS",
+            "word": 25
+        },
+        {
+            "charBegin": 1471,
+            "charEnd": 1472,
+            "id": 231,
+            "sentence": 14,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 1473,
+            "charEnd": 1476,
+            "id": 232,
+            "sentence": 15,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 1477,
+            "charEnd": 1484,
+            "id": 233,
+            "sentence": 15,
+            "text": "Shuttle",
+            "word": 2
+        },
+        {
+            "charBegin": 1485,
+            "charEnd": 1488,
+            "id": 234,
+            "sentence": 15,
+            "text": "ist",
+            "word": 3
+        },
+        {
+            "charBegin": 1489,
+            "charEnd": 1492,
+            "id": 235,
+            "sentence": 15,
+            "text": "mit",
+            "word": 4
+        },
+        {
+            "charBegin": 1493,
+            "charEnd": 1496,
+            "id": 236,
+            "sentence": 15,
+            "text": "dem",
+            "word": 5
+        },
+        {
+            "charBegin": 1497,
+            "charEnd": 1510,
+            "id": 237,
+            "sentence": 15,
+            "text": "Multi-Purpose",
+            "word": 6
+        },
+        {
+            "charBegin": 1511,
+            "charEnd": 1519,
+            "id": 238,
+            "sentence": 15,
+            "text": "Logistic",
+            "word": 7
+        },
+        {
+            "charBegin": 1520,
+            "charEnd": 1525,
+            "id": 239,
+            "sentence": 15,
+            "text": "Modul",
+            "word": 8
+        },
+        {
+            "charBegin": 1526,
+            "charEnd": 1527,
+            "id": 240,
+            "sentence": 15,
+            "text": "„",
+            "word": 9
+        },
+        {
+            "charBegin": 1527,
+            "charEnd": 1536,
+            "id": 241,
+            "sentence": 15,
+            "text": "Raffaello",
+            "word": 10
+        },
+        {
+            "charBegin": 1536,
+            "charEnd": 1537,
+            "id": 242,
+            "sentence": 15,
+            "text": "“",
+            "word": 11
+        },
+        {
+            "charBegin": 1538,
+            "charEnd": 1546,
+            "id": 243,
+            "sentence": 15,
+            "text": "bestückt",
+            "word": 12
+        },
+        {
+            "charBegin": 1547,
+            "charEnd": 1553,
+            "id": 244,
+            "sentence": 15,
+            "text": "worden",
+            "word": 13
+        },
+        {
+            "charBegin": 1553,
+            "charEnd": 1554,
+            "id": 245,
+            "sentence": 15,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1556,
+            "charEnd": 1559,
+            "id": 246,
+            "sentence": 16,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1560,
+            "charEnd": 1566,
+            "id": 247,
+            "sentence": 16,
+            "text": "zweite",
+            "word": 2
+        },
+        {
+            "charBegin": 1567,
+            "charEnd": 1575,
+            "id": 248,
+            "sentence": 16,
+            "text": "wichtige",
+            "word": 3
+        },
+        {
+            "charBegin": 1576,
+            "charEnd": 1583,
+            "id": 249,
+            "sentence": 16,
+            "text": "Aufgabe",
+            "word": 4
+        },
+        {
+            "charBegin": 1584,
+            "charEnd": 1587,
+            "id": 250,
+            "sentence": 16,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 1588,
+            "charEnd": 1595,
+            "id": 251,
+            "sentence": 16,
+            "text": "Mission",
+            "word": 6
+        },
+        {
+            "charBegin": 1596,
+            "charEnd": 1599,
+            "id": 252,
+            "sentence": 16,
+            "text": "ist",
+            "word": 7
+        },
+        {
+            "charBegin": 1600,
+            "charEnd": 1603,
+            "id": 253,
+            "sentence": 16,
+            "text": "ein",
+            "word": 8
+        },
+        {
+            "charBegin": 1604,
+            "charEnd": 1608,
+            "id": 254,
+            "sentence": 16,
+            "text": "Test",
+            "word": 9
+        },
+        {
+            "charBegin": 1609,
+            "charEnd": 1612,
+            "id": 255,
+            "sentence": 16,
+            "text": "des",
+            "word": 10
+        },
+        {
+            "charBegin": 1613,
+            "charEnd": 1617,
+            "id": 256,
+            "sentence": 16,
+            "text": "nach",
+            "word": 11
+        },
+        {
+            "charBegin": 1618,
+            "charEnd": 1621,
+            "id": 257,
+            "sentence": 16,
+            "text": "dem",
+            "word": 12
+        },
+        {
+            "charBegin": 1622,
+            "charEnd": 1638,
+            "id": 258,
+            "sentence": 16,
+            "text": "Columbia-Unglück",
+            "word": 13
+        },
+        {
+            "charBegin": 1639,
+            "charEnd": 1649,
+            "id": 259,
+            "sentence": 16,
+            "text": "umgebauten",
+            "word": 14
+        },
+        {
+            "charBegin": 1650,
+            "charEnd": 1660,
+            "id": 260,
+            "sentence": 16,
+            "text": "Außentanks",
+            "word": 15
+        },
+        {
+            "charBegin": 1660,
+            "charEnd": 1661,
+            "id": 261,
+            "sentence": 16,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 1662,
+            "charEnd": 1668,
+            "id": 262,
+            "sentence": 17,
+            "text": "Sowohl",
+            "word": 1
+        },
+        {
+            "charBegin": 1669,
+            "charEnd": 1671,
+            "id": 263,
+            "sentence": 17,
+            "text": "am",
+            "word": 2
+        },
+        {
+            "charBegin": 1672,
+            "charEnd": 1679,
+            "id": 264,
+            "sentence": 17,
+            "text": "Orbiter",
+            "word": 3
+        },
+        {
+            "charBegin": 1680,
+            "charEnd": 1683,
+            "id": 265,
+            "sentence": 17,
+            "text": "als",
+            "word": 4
+        },
+        {
+            "charBegin": 1684,
+            "charEnd": 1688,
+            "id": 266,
+            "sentence": 17,
+            "text": "auch",
+            "word": 5
+        },
+        {
+            "charBegin": 1689,
+            "charEnd": 1691,
+            "id": 267,
+            "sentence": 17,
+            "text": "am",
+            "word": 6
+        },
+        {
+            "charBegin": 1692,
+            "charEnd": 1701,
+            "id": 268,
+            "sentence": 17,
+            "text": "Außentank",
+            "word": 7
+        },
+        {
+            "charBegin": 1702,
+            "charEnd": 1708,
+            "id": 269,
+            "sentence": 17,
+            "text": "wurden",
+            "word": 8
+        },
+        {
+            "charBegin": 1709,
+            "charEnd": 1716,
+            "id": 270,
+            "sentence": 17,
+            "text": "Kameras",
+            "word": 9
+        },
+        {
+            "charBegin": 1717,
+            "charEnd": 1727,
+            "id": 271,
+            "sentence": 17,
+            "text": "angebracht",
+            "word": 10
+        },
+        {
+            "charBegin": 1727,
+            "charEnd": 1728,
+            "id": 272,
+            "sentence": 17,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1729,
+            "charEnd": 1732,
+            "id": 273,
+            "sentence": 17,
+            "text": "mit",
+            "word": 12
+        },
+        {
+            "charBegin": 1733,
+            "charEnd": 1738,
+            "id": 274,
+            "sentence": 17,
+            "text": "denen",
+            "word": 13
+        },
+        {
+            "charBegin": 1739,
+            "charEnd": 1748,
+            "id": 275,
+            "sentence": 17,
+            "text": "eventuell",
+            "word": 14
+        },
+        {
+            "charBegin": 1749,
+            "charEnd": 1753,
+            "id": 276,
+            "sentence": 17,
+            "text": "sich",
+            "word": 15
+        },
+        {
+            "charBegin": 1754,
+            "charEnd": 1763,
+            "id": 277,
+            "sentence": 17,
+            "text": "ablösende",
+            "word": 16
+        },
+        {
+            "charBegin": 1764,
+            "charEnd": 1769,
+            "id": 278,
+            "sentence": 17,
+            "text": "Teile",
+            "word": 17
+        },
+        {
+            "charBegin": 1770,
+            "charEnd": 1776,
+            "id": 279,
+            "sentence": 17,
+            "text": "hätten",
+            "word": 18
+        },
+        {
+            "charBegin": 1777,
+            "charEnd": 1785,
+            "id": 280,
+            "sentence": 17,
+            "text": "entdeckt",
+            "word": 19
+        },
+        {
+            "charBegin": 1786,
+            "charEnd": 1792,
+            "id": 281,
+            "sentence": 17,
+            "text": "werden",
+            "word": 20
+        },
+        {
+            "charBegin": 1793,
+            "charEnd": 1799,
+            "id": 282,
+            "sentence": 17,
+            "text": "können",
+            "word": 21
+        },
+        {
+            "charBegin": 1799,
+            "charEnd": 1800,
+            "id": 283,
+            "sentence": 17,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 1801,
+            "charEnd": 1811,
+            "id": 284,
+            "sentence": 18,
+            "text": "Zusätzlich",
+            "word": 1
+        },
+        {
+            "charBegin": 1812,
+            "charEnd": 1819,
+            "id": 285,
+            "sentence": 18,
+            "text": "filmten",
+            "word": 2
+        },
+        {
+            "charBegin": 1820,
+            "charEnd": 1829,
+            "id": 286,
+            "sentence": 18,
+            "text": "Flugzeuge",
+            "word": 3
+        },
+        {
+            "charBegin": 1830,
+            "charEnd": 1833,
+            "id": 287,
+            "sentence": 18,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 1834,
+            "charEnd": 1837,
+            "id": 288,
+            "sentence": 18,
+            "text": "Air",
+            "word": 5
+        },
+        {
+            "charBegin": 1838,
+            "charEnd": 1843,
+            "id": 289,
+            "sentence": 18,
+            "text": "Force",
+            "word": 6
+        },
+        {
+            "charBegin": 1844,
+            "charEnd": 1847,
+            "id": 290,
+            "sentence": 18,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 1848,
+            "charEnd": 1853,
+            "id": 291,
+            "sentence": 18,
+            "text": "Start",
+            "word": 8
+        },
+        {
+            "charBegin": 1853,
+            "charEnd": 1854,
+            "id": 292,
+            "sentence": 18,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 1855,
+            "charEnd": 1862,
+            "id": 293,
+            "sentence": 19,
+            "text": "Während",
+            "word": 1
+        },
+        {
+            "charBegin": 1863,
+            "charEnd": 1866,
+            "id": 294,
+            "sentence": 19,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 1867,
+            "charEnd": 1873,
+            "id": 295,
+            "sentence": 19,
+            "text": "ersten",
+            "word": 3
+        },
+        {
+            "charBegin": 1874,
+            "charEnd": 1878,
+            "id": 296,
+            "sentence": 19,
+            "text": "zwei",
+            "word": 4
+        },
+        {
+            "charBegin": 1879,
+            "charEnd": 1887,
+            "id": 297,
+            "sentence": 19,
+            "text": "Flugtage",
+            "word": 5
+        },
+        {
+            "charBegin": 1888,
+            "charEnd": 1892,
+            "id": 298,
+            "sentence": 19,
+            "text": "wird",
+            "word": 6
+        },
+        {
+            "charBegin": 1893,
+            "charEnd": 1896,
+            "id": 299,
+            "sentence": 19,
+            "text": "mit",
+            "word": 7
+        },
+        {
+            "charBegin": 1897,
+            "charEnd": 1902,
+            "id": 300,
+            "sentence": 19,
+            "text": "Hilfe",
+            "word": 8
+        },
+        {
+            "charBegin": 1903,
+            "charEnd": 1908,
+            "id": 301,
+            "sentence": 19,
+            "text": "eines",
+            "word": 9
+        },
+        {
+            "charBegin": 1909,
+            "charEnd": 1920,
+            "id": 302,
+            "sentence": 19,
+            "text": "Roboterarms",
+            "word": 10
+        },
+        {
+            "charBegin": 1921,
+            "charEnd": 1925,
+            "id": 303,
+            "sentence": 19,
+            "text": "eine",
+            "word": 11
+        },
+        {
+            "charBegin": 1926,
+            "charEnd": 1938,
+            "id": 304,
+            "sentence": 19,
+            "text": "ausführliche",
+            "word": 12
+        },
+        {
+            "charBegin": 1939,
+            "charEnd": 1949,
+            "id": 305,
+            "sentence": 19,
+            "text": "Inspektion",
+            "word": 13
+        },
+        {
+            "charBegin": 1950,
+            "charEnd": 1953,
+            "id": 306,
+            "sentence": 19,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 1954,
+            "charEnd": 1971,
+            "id": 307,
+            "sentence": 19,
+            "text": "Shuttle-Außenhaut",
+            "word": 15
+        },
+        {
+            "charBegin": 1972,
+            "charEnd": 1983,
+            "id": 308,
+            "sentence": 19,
+            "text": "stattfinden",
+            "word": 16
+        },
+        {
+            "charBegin": 1983,
+            "charEnd": 1984,
+            "id": 309,
+            "sentence": 19,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 1986,
+            "charEnd": 1989,
+            "id": 310,
+            "sentence": 20,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1990,
+            "charEnd": 1995,
+            "id": 311,
+            "sentence": 20,
+            "text": "Namen",
+            "word": 2
+        },
+        {
+            "charBegin": 1996,
+            "charEnd": 1999,
+            "id": 312,
+            "sentence": 20,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 2000,
+            "charEnd": 2020,
+            "id": 313,
+            "sentence": 20,
+            "text": "Besatzungsmitglieder",
+            "word": 4
+        },
+        {
+            "charBegin": 2021,
+            "charEnd": 2027,
+            "id": 314,
+            "sentence": 20,
+            "text": "lauten",
+            "word": 5
+        },
+        {
+            "charBegin": 2027,
+            "charEnd": 2028,
+            "id": 315,
+            "sentence": 20,
+            "text": ":",
+            "word": 6
+        },
+        {
+            "charBegin": 2029,
+            "charEnd": 2035,
+            "id": 316,
+            "sentence": 20,
+            "text": "Eileen",
+            "word": 7
+        },
+        {
+            "charBegin": 2036,
+            "charEnd": 2038,
+            "id": 317,
+            "sentence": 20,
+            "text": "M.",
+            "word": 8
+        },
+        {
+            "charBegin": 2039,
+            "charEnd": 2046,
+            "id": 318,
+            "sentence": 20,
+            "text": "Collins",
+            "word": 9
+        },
+        {
+            "charBegin": 2046,
+            "charEnd": 2047,
+            "id": 319,
+            "sentence": 20,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 2048,
+            "charEnd": 2060,
+            "id": 320,
+            "sentence": 20,
+            "text": "Kommandantin",
+            "word": 11
+        },
+        {
+            "charBegin": 2060,
+            "charEnd": 2061,
+            "id": 321,
+            "sentence": 20,
+            "text": ";",
+            "word": 12
+        },
+        {
+            "charBegin": 2062,
+            "charEnd": 2067,
+            "id": 322,
+            "sentence": 20,
+            "text": "James",
+            "word": 13
+        },
+        {
+            "charBegin": 2068,
+            "charEnd": 2070,
+            "id": 323,
+            "sentence": 20,
+            "text": "M.",
+            "word": 14
+        },
+        {
+            "charBegin": 2071,
+            "charEnd": 2076,
+            "id": 324,
+            "sentence": 20,
+            "text": "Kelly",
+            "word": 15
+        },
+        {
+            "charBegin": 2076,
+            "charEnd": 2077,
+            "id": 325,
+            "sentence": 20,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 2078,
+            "charEnd": 2083,
+            "id": 326,
+            "sentence": 20,
+            "text": "Pilot",
+            "word": 17
+        },
+        {
+            "charBegin": 2083,
+            "charEnd": 2084,
+            "id": 327,
+            "sentence": 20,
+            "text": ";",
+            "word": 18
+        },
+        {
+            "charBegin": 2085,
+            "charEnd": 2092,
+            "id": 328,
+            "sentence": 20,
+            "text": "Charles",
+            "word": 19
+        },
+        {
+            "charBegin": 2093,
+            "charEnd": 2095,
+            "id": 329,
+            "sentence": 20,
+            "text": "J.",
+            "word": 20
+        },
+        {
+            "charBegin": 2096,
+            "charEnd": 2103,
+            "id": 330,
+            "sentence": 20,
+            "text": "Camarda",
+            "word": 21
+        },
+        {
+            "charBegin": 2103,
+            "charEnd": 2104,
+            "id": 331,
+            "sentence": 20,
+            "text": ",",
+            "word": 22
+        },
+        {
+            "charBegin": 2105,
+            "charEnd": 2113,
+            "id": 332,
+            "sentence": 20,
+            "text": "Missions",
+            "word": 23
+        },
+        {
+            "charBegin": 2114,
+            "charEnd": 2124,
+            "id": 333,
+            "sentence": 20,
+            "text": "Spezialist",
+            "word": 24
+        },
+        {
+            "charBegin": 2124,
+            "charEnd": 2125,
+            "id": 334,
+            "sentence": 20,
+            "text": ";",
+            "word": 25
+        },
+        {
+            "charBegin": 2126,
+            "charEnd": 2131,
+            "id": 335,
+            "sentence": 20,
+            "text": "Wendy",
+            "word": 26
+        },
+        {
+            "charBegin": 2132,
+            "charEnd": 2134,
+            "id": 336,
+            "sentence": 20,
+            "text": "B.",
+            "word": 27
+        },
+        {
+            "charBegin": 2135,
+            "charEnd": 2143,
+            "id": 337,
+            "sentence": 20,
+            "text": "Lawrence",
+            "word": 28
+        },
+        {
+            "charBegin": 2143,
+            "charEnd": 2144,
+            "id": 338,
+            "sentence": 20,
+            "text": ",",
+            "word": 29
+        },
+        {
+            "charBegin": 2145,
+            "charEnd": 2153,
+            "id": 339,
+            "sentence": 20,
+            "text": "Missions",
+            "word": 30
+        },
+        {
+            "charBegin": 2154,
+            "charEnd": 2166,
+            "id": 340,
+            "sentence": 20,
+            "text": "Spezialistin",
+            "word": 31
+        },
+        {
+            "charBegin": 2166,
+            "charEnd": 2167,
+            "id": 341,
+            "sentence": 20,
+            "text": ";",
+            "word": 32
+        },
+        {
+            "charBegin": 2168,
+            "charEnd": 2175,
+            "id": 342,
+            "sentence": 20,
+            "text": "Stephen",
+            "word": 33
+        },
+        {
+            "charBegin": 2176,
+            "charEnd": 2178,
+            "id": 343,
+            "sentence": 20,
+            "text": "K.",
+            "word": 34
+        },
+        {
+            "charBegin": 2179,
+            "charEnd": 2187,
+            "id": 344,
+            "sentence": 20,
+            "text": "Robinson",
+            "word": 35
+        },
+        {
+            "charBegin": 2187,
+            "charEnd": 2188,
+            "id": 345,
+            "sentence": 20,
+            "text": ",",
+            "word": 36
+        },
+        {
+            "charBegin": 2189,
+            "charEnd": 2197,
+            "id": 346,
+            "sentence": 20,
+            "text": "Missions",
+            "word": 37
+        },
+        {
+            "charBegin": 2198,
+            "charEnd": 2208,
+            "id": 347,
+            "sentence": 20,
+            "text": "Spezialist",
+            "word": 38
+        },
+        {
+            "charBegin": 2208,
+            "charEnd": 2209,
+            "id": 348,
+            "sentence": 20,
+            "text": ";",
+            "word": 39
+        },
+        {
+            "charBegin": 2210,
+            "charEnd": 2216,
+            "id": 349,
+            "sentence": 20,
+            "text": "Andrew",
+            "word": 40
+        },
+        {
+            "charBegin": 2217,
+            "charEnd": 2219,
+            "id": 350,
+            "sentence": 20,
+            "text": "S.",
+            "word": 41
+        },
+        {
+            "charBegin": 2220,
+            "charEnd": 2222,
+            "id": 351,
+            "sentence": 20,
+            "text": "W.",
+            "word": 42
+        },
+        {
+            "charBegin": 2223,
+            "charEnd": 2229,
+            "id": 352,
+            "sentence": 20,
+            "text": "Thomas",
+            "word": 43
+        },
+        {
+            "charBegin": 2229,
+            "charEnd": 2230,
+            "id": 353,
+            "sentence": 20,
+            "text": ",",
+            "word": 44
+        },
+        {
+            "charBegin": 2231,
+            "charEnd": 2239,
+            "id": 354,
+            "sentence": 20,
+            "text": "Missions",
+            "word": 45
+        },
+        {
+            "charBegin": 2240,
+            "charEnd": 2250,
+            "id": 355,
+            "sentence": 20,
+            "text": "Spezialist",
+            "word": 46
+        },
+        {
+            "charBegin": 2251,
+            "charEnd": 2254,
+            "id": 356,
+            "sentence": 20,
+            "text": "und",
+            "word": 47
+        },
+        {
+            "charBegin": 2255,
+            "charEnd": 2261,
+            "id": 357,
+            "sentence": 20,
+            "text": "Soichi",
+            "word": 48
+        },
+        {
+            "charBegin": 2262,
+            "charEnd": 2269,
+            "id": 358,
+            "sentence": 20,
+            "text": "Noguchi",
+            "word": 49
+        },
+        {
+            "charBegin": 2269,
+            "charEnd": 2270,
+            "id": 359,
+            "sentence": 20,
+            "text": ",",
+            "word": 50
+        },
+        {
+            "charBegin": 2271,
+            "charEnd": 2279,
+            "id": 360,
+            "sentence": 20,
+            "text": "Missions",
+            "word": 51
+        },
+        {
+            "charBegin": 2280,
+            "charEnd": 2290,
+            "id": 361,
+            "sentence": 20,
+            "text": "Spezialist",
+            "word": 52
+        },
+        {
+            "charBegin": 2291,
+            "charEnd": 2292,
+            "id": 362,
+            "sentence": 20,
+            "text": "(",
+            "word": 53
+        },
+        {
+            "charBegin": 2292,
+            "charEnd": 2297,
+            "id": 363,
+            "sentence": 20,
+            "text": "Japan",
+            "word": 54
+        },
+        {
+            "charBegin": 2298,
+            "charEnd": 2307,
+            "id": 364,
+            "sentence": 20,
+            "text": "Aerospace",
+            "word": 55
+        },
+        {
+            "charBegin": 2308,
+            "charEnd": 2319,
+            "id": 365,
+            "sentence": 20,
+            "text": "Exploration",
+            "word": 56
+        },
+        {
+            "charBegin": 2320,
+            "charEnd": 2326,
+            "id": 366,
+            "sentence": 20,
+            "text": "Agency",
+            "word": 57
+        },
+        {
+            "charBegin": 2327,
+            "charEnd": 2328,
+            "id": 367,
+            "sentence": 20,
+            "text": "(",
+            "word": 58
+        },
+        {
+            "charBegin": 2328,
+            "charEnd": 2332,
+            "id": 368,
+            "sentence": 20,
+            "text": "JAXA",
+            "word": 59
+        },
+        {
+            "charBegin": 2332,
+            "charEnd": 2333,
+            "id": 369,
+            "sentence": 20,
+            "text": ")",
+            "word": 60
+        },
+        {
+            "charBegin": 2333,
+            "charEnd": 2334,
+            "id": 370,
+            "sentence": 20,
+            "text": ")",
+            "word": 61
+        },
+        {
+            "charBegin": 2336,
+            "charEnd": 2340,
+            "id": 371,
+            "sentence": 21,
+            "text": "Aber",
+            "word": 1
+        },
+        {
+            "charBegin": 2341,
+            "charEnd": 2346,
+            "id": 372,
+            "sentence": 21,
+            "text": "nicht",
+            "word": 2
+        },
+        {
+            "charBegin": 2347,
+            "charEnd": 2350,
+            "id": 373,
+            "sentence": 21,
+            "text": "nur",
+            "word": 3
+        },
+        {
+            "charBegin": 2351,
+            "charEnd": 2354,
+            "id": 374,
+            "sentence": 21,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 2355,
+            "charEnd": 2365,
+            "id": 375,
+            "sentence": 21,
+            "text": "Amerikaner",
+            "word": 5
+        },
+        {
+            "charBegin": 2366,
+            "charEnd": 2374,
+            "id": 376,
+            "sentence": 21,
+            "text": "bereiten",
+            "word": 6
+        },
+        {
+            "charBegin": 2375,
+            "charEnd": 2379,
+            "id": 377,
+            "sentence": 21,
+            "text": "sich",
+            "word": 7
+        },
+        {
+            "charBegin": 2380,
+            "charEnd": 2383,
+            "id": 378,
+            "sentence": 21,
+            "text": "auf",
+            "word": 8
+        },
+        {
+            "charBegin": 2384,
+            "charEnd": 2387,
+            "id": 379,
+            "sentence": 21,
+            "text": "den",
+            "word": 9
+        },
+        {
+            "charBegin": 2388,
+            "charEnd": 2393,
+            "id": 380,
+            "sentence": 21,
+            "text": "Start",
+            "word": 10
+        },
+        {
+            "charBegin": 2394,
+            "charEnd": 2397,
+            "id": 381,
+            "sentence": 21,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 2398,
+            "charEnd": 2407,
+            "id": 382,
+            "sentence": 21,
+            "text": "Discovery",
+            "word": 12
+        },
+        {
+            "charBegin": 2408,
+            "charEnd": 2411,
+            "id": 383,
+            "sentence": 21,
+            "text": "vor",
+            "word": 13
+        },
+        {
+            "charBegin": 2411,
+            "charEnd": 2412,
+            "id": 384,
+            "sentence": 21,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 2413,
+            "charEnd": 2417,
+            "id": 385,
+            "sentence": 22,
+            "text": "Auch",
+            "word": 1
+        },
+        {
+            "charBegin": 2418,
+            "charEnd": 2421,
+            "id": 386,
+            "sentence": 22,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 2422,
+            "charEnd": 2431,
+            "id": 387,
+            "sentence": 22,
+            "text": "Besatzung",
+            "word": 3
+        },
+        {
+            "charBegin": 2432,
+            "charEnd": 2435,
+            "id": 388,
+            "sentence": 22,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 2436,
+            "charEnd": 2439,
+            "id": 389,
+            "sentence": 22,
+            "text": "ISS",
+            "word": 5
+        },
+        {
+            "charBegin": 2440,
+            "charEnd": 2443,
+            "id": 390,
+            "sentence": 22,
+            "text": "hat",
+            "word": 6
+        },
+        {
+            "charBegin": 2444,
+            "charEnd": 2447,
+            "id": 391,
+            "sentence": 22,
+            "text": "mit",
+            "word": 7
+        },
+        {
+            "charBegin": 2448,
+            "charEnd": 2451,
+            "id": 392,
+            "sentence": 22,
+            "text": "den",
+            "word": 8
+        },
+        {
+            "charBegin": 2452,
+            "charEnd": 2466,
+            "id": 393,
+            "sentence": 22,
+            "text": "Vorbereitungen",
+            "word": 9
+        },
+        {
+            "charBegin": 2467,
+            "charEnd": 2470,
+            "id": 394,
+            "sentence": 22,
+            "text": "für",
+            "word": 10
+        },
+        {
+            "charBegin": 2471,
+            "charEnd": 2474,
+            "id": 395,
+            "sentence": 22,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 2475,
+            "charEnd": 2483,
+            "id": 396,
+            "sentence": 22,
+            "text": "Arbeiten",
+            "word": 12
+        },
+        {
+            "charBegin": 2484,
+            "charEnd": 2486,
+            "id": 397,
+            "sentence": 22,
+            "text": "an",
+            "word": 13
+        },
+        {
+            "charBegin": 2487,
+            "charEnd": 2490,
+            "id": 398,
+            "sentence": 22,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 2491,
+            "charEnd": 2498,
+            "id": 399,
+            "sentence": 22,
+            "text": "Station",
+            "word": 15
+        },
+        {
+            "charBegin": 2499,
+            "charEnd": 2507,
+            "id": 400,
+            "sentence": 22,
+            "text": "begonnen",
+            "word": 16
+        },
+        {
+            "charBegin": 2507,
+            "charEnd": 2508,
+            "id": 401,
+            "sentence": 22,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 2509,
+            "charEnd": 2512,
+            "id": 402,
+            "sentence": 23,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 2513,
+            "charEnd": 2522,
+            "id": 403,
+            "sentence": 23,
+            "text": "Raumfähre",
+            "word": 2
+        },
+        {
+            "charBegin": 2523,
+            "charEnd": 2529,
+            "id": 404,
+            "sentence": 23,
+            "text": "bringt",
+            "word": 3
+        },
+        {
+            "charBegin": 2530,
+            "charEnd": 2533,
+            "id": 405,
+            "sentence": 23,
+            "text": "gut",
+            "word": 4
+        },
+        {
+            "charBegin": 2534,
+            "charEnd": 2536,
+            "id": 406,
+            "sentence": 23,
+            "text": "12",
+            "word": 5
+        },
+        {
+            "charBegin": 2537,
+            "charEnd": 2543,
+            "id": 407,
+            "sentence": 23,
+            "text": "Tonnen",
+            "word": 6
+        },
+        {
+            "charBegin": 2544,
+            "charEnd": 2552,
+            "id": 408,
+            "sentence": 23,
+            "text": "Material",
+            "word": 7
+        },
+        {
+            "charBegin": 2553,
+            "charEnd": 2556,
+            "id": 409,
+            "sentence": 23,
+            "text": "für",
+            "word": 8
+        },
+        {
+            "charBegin": 2557,
+            "charEnd": 2560,
+            "id": 410,
+            "sentence": 23,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 2561,
+            "charEnd": 2568,
+            "id": 411,
+            "sentence": 23,
+            "text": "Station",
+            "word": 10
+        },
+        {
+            "charBegin": 2569,
+            "charEnd": 2572,
+            "id": 412,
+            "sentence": 23,
+            "text": "mit",
+            "word": 11
+        },
+        {
+            "charBegin": 2572,
+            "charEnd": 2573,
+            "id": 413,
+            "sentence": 23,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 2574,
+            "charEnd": 2577,
+            "id": 414,
+            "sentence": 24,
+            "text": "Auf",
+            "word": 1
+        },
+        {
+            "charBegin": 2578,
+            "charEnd": 2581,
+            "id": 415,
+            "sentence": 24,
+            "text": "dem",
+            "word": 2
+        },
+        {
+            "charBegin": 2582,
+            "charEnd": 2590,
+            "id": 416,
+            "sentence": 24,
+            "text": "Rückflug",
+            "word": 3
+        },
+        {
+            "charBegin": 2591,
+            "charEnd": 2595,
+            "id": 417,
+            "sentence": 24,
+            "text": "soll",
+            "word": 4
+        },
+        {
+            "charBegin": 2596,
+            "charEnd": 2599,
+            "id": 418,
+            "sentence": 24,
+            "text": "sie",
+            "word": 5
+        },
+        {
+            "charBegin": 2600,
+            "charEnd": 2603,
+            "id": 419,
+            "sentence": 24,
+            "text": "den",
+            "word": 6
+        },
+        {
+            "charBegin": 2604,
+            "charEnd": 2608,
+            "id": 420,
+            "sentence": 24,
+            "text": "Müll",
+            "word": 7
+        },
+        {
+            "charBegin": 2608,
+            "charEnd": 2609,
+            "id": 421,
+            "sentence": 24,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 2610,
+            "charEnd": 2613,
+            "id": 422,
+            "sentence": 24,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 2614,
+            "charEnd": 2618,
+            "id": 423,
+            "sentence": 24,
+            "text": "sich",
+            "word": 10
+        },
+        {
+            "charBegin": 2619,
+            "charEnd": 2621,
+            "id": 424,
+            "sentence": 24,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 2622,
+            "charEnd": 2625,
+            "id": 425,
+            "sentence": 24,
+            "text": "den",
+            "word": 12
+        },
+        {
+            "charBegin": 2626,
+            "charEnd": 2633,
+            "id": 426,
+            "sentence": 24,
+            "text": "letzten",
+            "word": 13
+        },
+        {
+            "charBegin": 2634,
+            "charEnd": 2640,
+            "id": 427,
+            "sentence": 24,
+            "text": "Jahren",
+            "word": 14
+        },
+        {
+            "charBegin": 2641,
+            "charEnd": 2652,
+            "id": 428,
+            "sentence": 24,
+            "text": "angesammelt",
+            "word": 15
+        },
+        {
+            "charBegin": 2653,
+            "charEnd": 2656,
+            "id": 429,
+            "sentence": 24,
+            "text": "hat",
+            "word": 16
+        },
+        {
+            "charBegin": 2656,
+            "charEnd": 2657,
+            "id": 430,
+            "sentence": 24,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 2658,
+            "charEnd": 2664,
+            "id": 431,
+            "sentence": 24,
+            "text": "wieder",
+            "word": 18
+        },
+        {
+            "charBegin": 2665,
+            "charEnd": 2668,
+            "id": 432,
+            "sentence": 24,
+            "text": "mit",
+            "word": 19
+        },
+        {
+            "charBegin": 2669,
+            "charEnd": 2672,
+            "id": 433,
+            "sentence": 24,
+            "text": "zur",
+            "word": 20
+        },
+        {
+            "charBegin": 2673,
+            "charEnd": 2677,
+            "id": 434,
+            "sentence": 24,
+            "text": "Erde",
+            "word": 21
+        },
+        {
+            "charBegin": 2678,
+            "charEnd": 2685,
+            "id": 435,
+            "sentence": 24,
+            "text": "bringen",
+            "word": 22
+        },
+        {
+            "charBegin": 2685,
+            "charEnd": 2686,
+            "id": 436,
+            "sentence": 24,
+            "text": ".",
+            "word": 23
+        }
+    ]
+}

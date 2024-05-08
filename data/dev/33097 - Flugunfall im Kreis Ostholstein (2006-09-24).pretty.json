@@ -1,0 +1,737 @@
+{
+    "annotations": [],
+    "documentName": "33097 - Flugunfall im Kreis Ostholstein (2006-09-24)",
+    "originalText": "Im Luftraum über Ratekau sind am Freitag, den 22. September 2006 gegen 14.20 Uhr nördlich möglicherweise zwei Sportflugzeuge kollidiert. Eine der Maschinen stürzte dabei auf ein Feld nahe dem Ort Groß Parin ab, wobei der Pilot, ein 51-jähriger Kieler, ums Leben kam. Die zweite Maschine konnte auf dem Flughafen Lübeck Blankensee mit vier Insassen notlanden. Eine Passagierin wurde leicht verletzt.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 136,
+            "end": 21,
+            "id": 0,
+            "text": "Im Luftraum über Ratekau sind am Freitag, den 22. September 2006 gegen 14.20 Uhr nördlich möglicherweise zwei Sportflugzeuge kollidiert. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "Im",
+                "Luftraum",
+                "über",
+                "Ratekau",
+                "sind",
+                "am",
+                "Freitag",
+                ",",
+                "den",
+                "22.",
+                "September",
+                "2006",
+                "gegen",
+                "14.20",
+                "Uhr",
+                "nördlich",
+                "möglicherweise",
+                "zwei",
+                "Sportflugzeuge",
+                "kollidiert",
+                "."
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 137,
+            "charEnd": 266,
+            "end": 48,
+            "id": 1,
+            "text": "Eine der Maschinen stürzte dabei auf ein Feld nahe dem Ort Groß Parin ab, wobei der Pilot, ein 51-jähriger Kieler, ums Leben kam. ",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "tokens": [
+                "Eine",
+                "der",
+                "Maschinen",
+                "stürzte",
+                "dabei",
+                "auf",
+                "ein",
+                "Feld",
+                "nahe",
+                "dem",
+                "Ort",
+                "Groß",
+                "Parin",
+                "ab",
+                ",",
+                "wobei",
+                "der",
+                "Pilot",
+                ",",
+                "ein",
+                "51-jähriger",
+                "Kieler",
+                ",",
+                "ums",
+                "Leben",
+                "kam",
+                "."
+            ]
+        },
+        {
+            "begin": 48,
+            "charBegin": 267,
+            "charEnd": 358,
+            "end": 62,
+            "id": 2,
+            "text": "Die zweite Maschine konnte auf dem Flughafen Lübeck Blankensee mit vier Insassen notlanden. ",
+            "tokenIds": [
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "tokens": [
+                "Die",
+                "zweite",
+                "Maschine",
+                "konnte",
+                "auf",
+                "dem",
+                "Flughafen",
+                "Lübeck",
+                "Blankensee",
+                "mit",
+                "vier",
+                "Insassen",
+                "notlanden",
+                "."
+            ]
+        },
+        {
+            "begin": 62,
+            "charBegin": 359,
+            "charEnd": 398,
+            "end": 68,
+            "id": 3,
+            "text": "Eine Passagierin wurde leicht verletzt.",
+            "tokenIds": [
+                62,
+                63,
+                64,
+                65,
+                66,
+                67
+            ],
+            "tokens": [
+                "Eine",
+                "Passagierin",
+                "wurde",
+                "leicht",
+                "verletzt",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 11,
+            "id": 1,
+            "sentence": 1,
+            "text": "Luftraum",
+            "word": 2
+        },
+        {
+            "charBegin": 12,
+            "charEnd": 16,
+            "id": 2,
+            "sentence": 1,
+            "text": "über",
+            "word": 3
+        },
+        {
+            "charBegin": 17,
+            "charEnd": 24,
+            "id": 3,
+            "sentence": 1,
+            "text": "Ratekau",
+            "word": 4
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 29,
+            "id": 4,
+            "sentence": 1,
+            "text": "sind",
+            "word": 5
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 32,
+            "id": 5,
+            "sentence": 1,
+            "text": "am",
+            "word": 6
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 40,
+            "id": 6,
+            "sentence": 1,
+            "text": "Freitag",
+            "word": 7
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 41,
+            "id": 7,
+            "sentence": 1,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 45,
+            "id": 8,
+            "sentence": 1,
+            "text": "den",
+            "word": 9
+        },
+        {
+            "charBegin": 46,
+            "charEnd": 49,
+            "id": 9,
+            "sentence": 1,
+            "text": "22.",
+            "word": 10
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 59,
+            "id": 10,
+            "sentence": 1,
+            "text": "September",
+            "word": 11
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 64,
+            "id": 11,
+            "sentence": 1,
+            "text": "2006",
+            "word": 12
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 70,
+            "id": 12,
+            "sentence": 1,
+            "text": "gegen",
+            "word": 13
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 76,
+            "id": 13,
+            "sentence": 1,
+            "text": "14.20",
+            "word": 14
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 80,
+            "id": 14,
+            "sentence": 1,
+            "text": "Uhr",
+            "word": 15
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 89,
+            "id": 15,
+            "sentence": 1,
+            "text": "nördlich",
+            "word": 16
+        },
+        {
+            "charBegin": 90,
+            "charEnd": 104,
+            "id": 16,
+            "sentence": 1,
+            "text": "möglicherweise",
+            "word": 17
+        },
+        {
+            "charBegin": 105,
+            "charEnd": 109,
+            "id": 17,
+            "sentence": 1,
+            "text": "zwei",
+            "word": 18
+        },
+        {
+            "charBegin": 110,
+            "charEnd": 124,
+            "id": 18,
+            "sentence": 1,
+            "text": "Sportflugzeuge",
+            "word": 19
+        },
+        {
+            "charBegin": 125,
+            "charEnd": 135,
+            "id": 19,
+            "sentence": 1,
+            "text": "kollidiert",
+            "word": 20
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 136,
+            "id": 20,
+            "sentence": 1,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 137,
+            "charEnd": 141,
+            "id": 21,
+            "sentence": 2,
+            "text": "Eine",
+            "word": 1
+        },
+        {
+            "charBegin": 142,
+            "charEnd": 145,
+            "id": 22,
+            "sentence": 2,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 146,
+            "charEnd": 155,
+            "id": 23,
+            "sentence": 2,
+            "text": "Maschinen",
+            "word": 3
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 163,
+            "id": 24,
+            "sentence": 2,
+            "text": "stürzte",
+            "word": 4
+        },
+        {
+            "charBegin": 164,
+            "charEnd": 169,
+            "id": 25,
+            "sentence": 2,
+            "text": "dabei",
+            "word": 5
+        },
+        {
+            "charBegin": 170,
+            "charEnd": 173,
+            "id": 26,
+            "sentence": 2,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 174,
+            "charEnd": 177,
+            "id": 27,
+            "sentence": 2,
+            "text": "ein",
+            "word": 7
+        },
+        {
+            "charBegin": 178,
+            "charEnd": 182,
+            "id": 28,
+            "sentence": 2,
+            "text": "Feld",
+            "word": 8
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 187,
+            "id": 29,
+            "sentence": 2,
+            "text": "nahe",
+            "word": 9
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 191,
+            "id": 30,
+            "sentence": 2,
+            "text": "dem",
+            "word": 10
+        },
+        {
+            "charBegin": 192,
+            "charEnd": 195,
+            "id": 31,
+            "sentence": 2,
+            "text": "Ort",
+            "word": 11
+        },
+        {
+            "charBegin": 196,
+            "charEnd": 200,
+            "id": 32,
+            "sentence": 2,
+            "text": "Groß",
+            "word": 12
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 206,
+            "id": 33,
+            "sentence": 2,
+            "text": "Parin",
+            "word": 13
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 209,
+            "id": 34,
+            "sentence": 2,
+            "text": "ab",
+            "word": 14
+        },
+        {
+            "charBegin": 209,
+            "charEnd": 210,
+            "id": 35,
+            "sentence": 2,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 211,
+            "charEnd": 216,
+            "id": 36,
+            "sentence": 2,
+            "text": "wobei",
+            "word": 16
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 220,
+            "id": 37,
+            "sentence": 2,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 221,
+            "charEnd": 226,
+            "id": 38,
+            "sentence": 2,
+            "text": "Pilot",
+            "word": 18
+        },
+        {
+            "charBegin": 226,
+            "charEnd": 227,
+            "id": 39,
+            "sentence": 2,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 231,
+            "id": 40,
+            "sentence": 2,
+            "text": "ein",
+            "word": 20
+        },
+        {
+            "charBegin": 232,
+            "charEnd": 243,
+            "id": 41,
+            "sentence": 2,
+            "text": "51-jähriger",
+            "word": 21
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 250,
+            "id": 42,
+            "sentence": 2,
+            "text": "Kieler",
+            "word": 22
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 251,
+            "id": 43,
+            "sentence": 2,
+            "text": ",",
+            "word": 23
+        },
+        {
+            "charBegin": 252,
+            "charEnd": 255,
+            "id": 44,
+            "sentence": 2,
+            "text": "ums",
+            "word": 24
+        },
+        {
+            "charBegin": 256,
+            "charEnd": 261,
+            "id": 45,
+            "sentence": 2,
+            "text": "Leben",
+            "word": 25
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 265,
+            "id": 46,
+            "sentence": 2,
+            "text": "kam",
+            "word": 26
+        },
+        {
+            "charBegin": 265,
+            "charEnd": 266,
+            "id": 47,
+            "sentence": 2,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 267,
+            "charEnd": 270,
+            "id": 48,
+            "sentence": 3,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 277,
+            "id": 49,
+            "sentence": 3,
+            "text": "zweite",
+            "word": 2
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 286,
+            "id": 50,
+            "sentence": 3,
+            "text": "Maschine",
+            "word": 3
+        },
+        {
+            "charBegin": 287,
+            "charEnd": 293,
+            "id": 51,
+            "sentence": 3,
+            "text": "konnte",
+            "word": 4
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 297,
+            "id": 52,
+            "sentence": 3,
+            "text": "auf",
+            "word": 5
+        },
+        {
+            "charBegin": 298,
+            "charEnd": 301,
+            "id": 53,
+            "sentence": 3,
+            "text": "dem",
+            "word": 6
+        },
+        {
+            "charBegin": 302,
+            "charEnd": 311,
+            "id": 54,
+            "sentence": 3,
+            "text": "Flughafen",
+            "word": 7
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 318,
+            "id": 55,
+            "sentence": 3,
+            "text": "Lübeck",
+            "word": 8
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 329,
+            "id": 56,
+            "sentence": 3,
+            "text": "Blankensee",
+            "word": 9
+        },
+        {
+            "charBegin": 330,
+            "charEnd": 333,
+            "id": 57,
+            "sentence": 3,
+            "text": "mit",
+            "word": 10
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 338,
+            "id": 58,
+            "sentence": 3,
+            "text": "vier",
+            "word": 11
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 347,
+            "id": 59,
+            "sentence": 3,
+            "text": "Insassen",
+            "word": 12
+        },
+        {
+            "charBegin": 348,
+            "charEnd": 357,
+            "id": 60,
+            "sentence": 3,
+            "text": "notlanden",
+            "word": 13
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 358,
+            "id": 61,
+            "sentence": 3,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 363,
+            "id": 62,
+            "sentence": 4,
+            "text": "Eine",
+            "word": 1
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 375,
+            "id": 63,
+            "sentence": 4,
+            "text": "Passagierin",
+            "word": 2
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 381,
+            "id": 64,
+            "sentence": 4,
+            "text": "wurde",
+            "word": 3
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 388,
+            "id": 65,
+            "sentence": 4,
+            "text": "leicht",
+            "word": 4
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 397,
+            "id": 66,
+            "sentence": 4,
+            "text": "verletzt",
+            "word": 5
+        },
+        {
+            "charBegin": 397,
+            "charEnd": 398,
+            "id": 67,
+            "sentence": 4,
+            "text": ".",
+            "word": 6
+        }
+    ]
+}

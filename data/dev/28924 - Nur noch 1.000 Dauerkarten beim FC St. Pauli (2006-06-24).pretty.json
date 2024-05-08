@@ -1,0 +1,1210 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 93,
+                        "charBegin": 524,
+                        "charEnd": 526,
+                        "end": 94
+                    }
+                ],
+                "text": "so",
+                "tokenIds": [
+                    93
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 92,
+                        "charBegin": 522,
+                        "charEnd": 585,
+                        "end": 102
+                    }
+                ],
+                "text": ", so Vereinschef Corny Littmann zu den Beweggründen des Vereins",
+                "tokenIds": [
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    101
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 60,
+                        "charBegin": 345,
+                        "charEnd": 522,
+                        "end": 92
+                    }
+                ],
+                "text": "„Wir wollen auch den Fans, die sich aus verschiedensten Gründen keine Dauerkarte holen können oder möchten, die Möglichkeit bieten, sich die Spiele des FC St. Pauli anzuschauen“",
+                "tokenIds": [
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84,
+                    85,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 94,
+                        "charBegin": 527,
+                        "charEnd": 553,
+                        "end": 97
+                    }
+                ],
+                "text": "Vereinschef Corny Littmann",
+                "tokenIds": [
+                    94,
+                    95,
+                    96
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "28924 - Nur noch 1.000 Dauerkarten beim FC St. Pauli (2006-06-24)",
+    "originalText": "Für die Saison 2006\/2007 stehen nur noch 1.000 Dauerkarten für die Heimspiele des FC St. Pauli zur Verfügung. Die Tickets für die Gegengerade sind bereits ausverkauft. Für alle anderen Bereiche sind noch Dauerkarten, auch ermäßigte, zu bekommen. Wenn die letzten 1.000 Dauerkarten von 12.000 verkauft sind, werden keine weiteren mehr angeboten. „Wir wollen auch den Fans, die sich aus verschiedensten Gründen keine Dauerkarte holen können oder möchten, die Möglichkeit bieten, sich die Spiele des FC St. Pauli anzuschauen“, so Vereinschef Corny Littmann zu den Beweggründen des Vereins.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 109,
+            "end": 21,
+            "id": 0,
+            "text": "Für die Saison 2006\/2007 stehen nur noch 1.000 Dauerkarten für die Heimspiele des FC St. Pauli zur Verfügung. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "Für",
+                "die",
+                "Saison",
+                "2006",
+                "\/",
+                "2007",
+                "stehen",
+                "nur",
+                "noch",
+                "1.000",
+                "Dauerkarten",
+                "für",
+                "die",
+                "Heimspiele",
+                "des",
+                "FC",
+                "St.",
+                "Pauli",
+                "zur",
+                "Verfügung",
+                "."
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 110,
+            "charEnd": 167,
+            "end": 30,
+            "id": 1,
+            "text": "Die Tickets für die Gegengerade sind bereits ausverkauft. ",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "tokens": [
+                "Die",
+                "Tickets",
+                "für",
+                "die",
+                "Gegengerade",
+                "sind",
+                "bereits",
+                "ausverkauft",
+                "."
+            ]
+        },
+        {
+            "begin": 30,
+            "charBegin": 168,
+            "charEnd": 245,
+            "end": 44,
+            "id": 2,
+            "text": "Für alle anderen Bereiche sind noch Dauerkarten, auch ermäßigte, zu bekommen. ",
+            "tokenIds": [
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "tokens": [
+                "Für",
+                "alle",
+                "anderen",
+                "Bereiche",
+                "sind",
+                "noch",
+                "Dauerkarten",
+                ",",
+                "auch",
+                "ermäßigte",
+                ",",
+                "zu",
+                "bekommen",
+                "."
+            ]
+        },
+        {
+            "begin": 44,
+            "charBegin": 246,
+            "charEnd": 344,
+            "end": 60,
+            "id": 3,
+            "text": "Wenn die letzten 1.000 Dauerkarten von 12.000 verkauft sind, werden keine weiteren mehr angeboten. ",
+            "tokenIds": [
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59
+            ],
+            "tokens": [
+                "Wenn",
+                "die",
+                "letzten",
+                "1.000",
+                "Dauerkarten",
+                "von",
+                "12.000",
+                "verkauft",
+                "sind",
+                ",",
+                "werden",
+                "keine",
+                "weiteren",
+                "mehr",
+                "angeboten",
+                "."
+            ]
+        },
+        {
+            "begin": 60,
+            "charBegin": 345,
+            "charEnd": 586,
+            "end": 103,
+            "id": 4,
+            "text": "„Wir wollen auch den Fans, die sich aus verschiedensten Gründen keine Dauerkarte holen können oder möchten, die Möglichkeit bieten, sich die Spiele des FC St. Pauli anzuschauen“, so Vereinschef Corny Littmann zu den Beweggründen des Vereins.",
+            "tokenIds": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102
+            ],
+            "tokens": [
+                "„",
+                "Wir",
+                "wollen",
+                "auch",
+                "den",
+                "Fans",
+                ",",
+                "die",
+                "sich",
+                "aus",
+                "verschiedensten",
+                "Gründen",
+                "keine",
+                "Dauerkarte",
+                "holen",
+                "können",
+                "oder",
+                "möchten",
+                ",",
+                "die",
+                "Möglichkeit",
+                "bieten",
+                ",",
+                "sich",
+                "die",
+                "Spiele",
+                "des",
+                "FC",
+                "St.",
+                "Pauli",
+                "anzuschauen",
+                "“",
+                ",",
+                "so",
+                "Vereinschef",
+                "Corny",
+                "Littmann",
+                "zu",
+                "den",
+                "Beweggründen",
+                "des",
+                "Vereins",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Für",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 7,
+            "id": 1,
+            "sentence": 1,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 8,
+            "charEnd": 14,
+            "id": 2,
+            "sentence": 1,
+            "text": "Saison",
+            "word": 3
+        },
+        {
+            "charBegin": 15,
+            "charEnd": 19,
+            "id": 3,
+            "sentence": 1,
+            "text": "2006",
+            "word": 4
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 20,
+            "id": 4,
+            "sentence": 1,
+            "text": "\/",
+            "word": 5
+        },
+        {
+            "charBegin": 20,
+            "charEnd": 24,
+            "id": 5,
+            "sentence": 1,
+            "text": "2007",
+            "word": 6
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 31,
+            "id": 6,
+            "sentence": 1,
+            "text": "stehen",
+            "word": 7
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 35,
+            "id": 7,
+            "sentence": 1,
+            "text": "nur",
+            "word": 8
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 40,
+            "id": 8,
+            "sentence": 1,
+            "text": "noch",
+            "word": 9
+        },
+        {
+            "charBegin": 41,
+            "charEnd": 46,
+            "id": 9,
+            "sentence": 1,
+            "text": "1.000",
+            "word": 10
+        },
+        {
+            "charBegin": 47,
+            "charEnd": 58,
+            "id": 10,
+            "sentence": 1,
+            "text": "Dauerkarten",
+            "word": 11
+        },
+        {
+            "charBegin": 59,
+            "charEnd": 62,
+            "id": 11,
+            "sentence": 1,
+            "text": "für",
+            "word": 12
+        },
+        {
+            "charBegin": 63,
+            "charEnd": 66,
+            "id": 12,
+            "sentence": 1,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 67,
+            "charEnd": 77,
+            "id": 13,
+            "sentence": 1,
+            "text": "Heimspiele",
+            "word": 14
+        },
+        {
+            "charBegin": 78,
+            "charEnd": 81,
+            "id": 14,
+            "sentence": 1,
+            "text": "des",
+            "word": 15
+        },
+        {
+            "charBegin": 82,
+            "charEnd": 84,
+            "id": 15,
+            "sentence": 1,
+            "text": "FC",
+            "word": 16
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 88,
+            "id": 16,
+            "sentence": 1,
+            "text": "St.",
+            "word": 17
+        },
+        {
+            "charBegin": 89,
+            "charEnd": 94,
+            "id": 17,
+            "sentence": 1,
+            "text": "Pauli",
+            "word": 18
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 98,
+            "id": 18,
+            "sentence": 1,
+            "text": "zur",
+            "word": 19
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 108,
+            "id": 19,
+            "sentence": 1,
+            "text": "Verfügung",
+            "word": 20
+        },
+        {
+            "charBegin": 108,
+            "charEnd": 109,
+            "id": 20,
+            "sentence": 1,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 110,
+            "charEnd": 113,
+            "id": 21,
+            "sentence": 2,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 114,
+            "charEnd": 121,
+            "id": 22,
+            "sentence": 2,
+            "text": "Tickets",
+            "word": 2
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 125,
+            "id": 23,
+            "sentence": 2,
+            "text": "für",
+            "word": 3
+        },
+        {
+            "charBegin": 126,
+            "charEnd": 129,
+            "id": 24,
+            "sentence": 2,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 130,
+            "charEnd": 141,
+            "id": 25,
+            "sentence": 2,
+            "text": "Gegengerade",
+            "word": 5
+        },
+        {
+            "charBegin": 142,
+            "charEnd": 146,
+            "id": 26,
+            "sentence": 2,
+            "text": "sind",
+            "word": 6
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 154,
+            "id": 27,
+            "sentence": 2,
+            "text": "bereits",
+            "word": 7
+        },
+        {
+            "charBegin": 155,
+            "charEnd": 166,
+            "id": 28,
+            "sentence": 2,
+            "text": "ausverkauft",
+            "word": 8
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 167,
+            "id": 29,
+            "sentence": 2,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 171,
+            "id": 30,
+            "sentence": 3,
+            "text": "Für",
+            "word": 1
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 176,
+            "id": 31,
+            "sentence": 3,
+            "text": "alle",
+            "word": 2
+        },
+        {
+            "charBegin": 177,
+            "charEnd": 184,
+            "id": 32,
+            "sentence": 3,
+            "text": "anderen",
+            "word": 3
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 193,
+            "id": 33,
+            "sentence": 3,
+            "text": "Bereiche",
+            "word": 4
+        },
+        {
+            "charBegin": 194,
+            "charEnd": 198,
+            "id": 34,
+            "sentence": 3,
+            "text": "sind",
+            "word": 5
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 203,
+            "id": 35,
+            "sentence": 3,
+            "text": "noch",
+            "word": 6
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 215,
+            "id": 36,
+            "sentence": 3,
+            "text": "Dauerkarten",
+            "word": 7
+        },
+        {
+            "charBegin": 215,
+            "charEnd": 216,
+            "id": 37,
+            "sentence": 3,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 221,
+            "id": 38,
+            "sentence": 3,
+            "text": "auch",
+            "word": 9
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 231,
+            "id": 39,
+            "sentence": 3,
+            "text": "ermäßigte",
+            "word": 10
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 232,
+            "id": 40,
+            "sentence": 3,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 235,
+            "id": 41,
+            "sentence": 3,
+            "text": "zu",
+            "word": 12
+        },
+        {
+            "charBegin": 236,
+            "charEnd": 244,
+            "id": 42,
+            "sentence": 3,
+            "text": "bekommen",
+            "word": 13
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 245,
+            "id": 43,
+            "sentence": 3,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 250,
+            "id": 44,
+            "sentence": 4,
+            "text": "Wenn",
+            "word": 1
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 254,
+            "id": 45,
+            "sentence": 4,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 255,
+            "charEnd": 262,
+            "id": 46,
+            "sentence": 4,
+            "text": "letzten",
+            "word": 3
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 268,
+            "id": 47,
+            "sentence": 4,
+            "text": "1.000",
+            "word": 4
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 280,
+            "id": 48,
+            "sentence": 4,
+            "text": "Dauerkarten",
+            "word": 5
+        },
+        {
+            "charBegin": 281,
+            "charEnd": 284,
+            "id": 49,
+            "sentence": 4,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 291,
+            "id": 50,
+            "sentence": 4,
+            "text": "12.000",
+            "word": 7
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 300,
+            "id": 51,
+            "sentence": 4,
+            "text": "verkauft",
+            "word": 8
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 305,
+            "id": 52,
+            "sentence": 4,
+            "text": "sind",
+            "word": 9
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 306,
+            "id": 53,
+            "sentence": 4,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 307,
+            "charEnd": 313,
+            "id": 54,
+            "sentence": 4,
+            "text": "werden",
+            "word": 11
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 319,
+            "id": 55,
+            "sentence": 4,
+            "text": "keine",
+            "word": 12
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 328,
+            "id": 56,
+            "sentence": 4,
+            "text": "weiteren",
+            "word": 13
+        },
+        {
+            "charBegin": 329,
+            "charEnd": 333,
+            "id": 57,
+            "sentence": 4,
+            "text": "mehr",
+            "word": 14
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 343,
+            "id": 58,
+            "sentence": 4,
+            "text": "angeboten",
+            "word": 15
+        },
+        {
+            "charBegin": 343,
+            "charEnd": 344,
+            "id": 59,
+            "sentence": 4,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 345,
+            "charEnd": 346,
+            "id": 60,
+            "sentence": 5,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 349,
+            "id": 61,
+            "sentence": 5,
+            "text": "Wir",
+            "word": 2
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 356,
+            "id": 62,
+            "sentence": 5,
+            "text": "wollen",
+            "word": 3
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 361,
+            "id": 63,
+            "sentence": 5,
+            "text": "auch",
+            "word": 4
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 365,
+            "id": 64,
+            "sentence": 5,
+            "text": "den",
+            "word": 5
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 370,
+            "id": 65,
+            "sentence": 5,
+            "text": "Fans",
+            "word": 6
+        },
+        {
+            "charBegin": 370,
+            "charEnd": 371,
+            "id": 66,
+            "sentence": 5,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 372,
+            "charEnd": 375,
+            "id": 67,
+            "sentence": 5,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 380,
+            "id": 68,
+            "sentence": 5,
+            "text": "sich",
+            "word": 9
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 384,
+            "id": 69,
+            "sentence": 5,
+            "text": "aus",
+            "word": 10
+        },
+        {
+            "charBegin": 385,
+            "charEnd": 400,
+            "id": 70,
+            "sentence": 5,
+            "text": "verschiedensten",
+            "word": 11
+        },
+        {
+            "charBegin": 401,
+            "charEnd": 408,
+            "id": 71,
+            "sentence": 5,
+            "text": "Gründen",
+            "word": 12
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 414,
+            "id": 72,
+            "sentence": 5,
+            "text": "keine",
+            "word": 13
+        },
+        {
+            "charBegin": 415,
+            "charEnd": 425,
+            "id": 73,
+            "sentence": 5,
+            "text": "Dauerkarte",
+            "word": 14
+        },
+        {
+            "charBegin": 426,
+            "charEnd": 431,
+            "id": 74,
+            "sentence": 5,
+            "text": "holen",
+            "word": 15
+        },
+        {
+            "charBegin": 432,
+            "charEnd": 438,
+            "id": 75,
+            "sentence": 5,
+            "text": "können",
+            "word": 16
+        },
+        {
+            "charBegin": 439,
+            "charEnd": 443,
+            "id": 76,
+            "sentence": 5,
+            "text": "oder",
+            "word": 17
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 451,
+            "id": 77,
+            "sentence": 5,
+            "text": "möchten",
+            "word": 18
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 452,
+            "id": 78,
+            "sentence": 5,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 453,
+            "charEnd": 456,
+            "id": 79,
+            "sentence": 5,
+            "text": "die",
+            "word": 20
+        },
+        {
+            "charBegin": 457,
+            "charEnd": 468,
+            "id": 80,
+            "sentence": 5,
+            "text": "Möglichkeit",
+            "word": 21
+        },
+        {
+            "charBegin": 469,
+            "charEnd": 475,
+            "id": 81,
+            "sentence": 5,
+            "text": "bieten",
+            "word": 22
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 476,
+            "id": 82,
+            "sentence": 5,
+            "text": ",",
+            "word": 23
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 481,
+            "id": 83,
+            "sentence": 5,
+            "text": "sich",
+            "word": 24
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 485,
+            "id": 84,
+            "sentence": 5,
+            "text": "die",
+            "word": 25
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 492,
+            "id": 85,
+            "sentence": 5,
+            "text": "Spiele",
+            "word": 26
+        },
+        {
+            "charBegin": 493,
+            "charEnd": 496,
+            "id": 86,
+            "sentence": 5,
+            "text": "des",
+            "word": 27
+        },
+        {
+            "charBegin": 497,
+            "charEnd": 499,
+            "id": 87,
+            "sentence": 5,
+            "text": "FC",
+            "word": 28
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 503,
+            "id": 88,
+            "sentence": 5,
+            "text": "St.",
+            "word": 29
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 509,
+            "id": 89,
+            "sentence": 5,
+            "text": "Pauli",
+            "word": 30
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 521,
+            "id": 90,
+            "sentence": 5,
+            "text": "anzuschauen",
+            "word": 31
+        },
+        {
+            "charBegin": 521,
+            "charEnd": 522,
+            "id": 91,
+            "sentence": 5,
+            "text": "“",
+            "word": 32
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 523,
+            "id": 92,
+            "sentence": 5,
+            "text": ",",
+            "word": 33
+        },
+        {
+            "charBegin": 524,
+            "charEnd": 526,
+            "id": 93,
+            "sentence": 5,
+            "text": "so",
+            "word": 34
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 538,
+            "id": 94,
+            "sentence": 5,
+            "text": "Vereinschef",
+            "word": 35
+        },
+        {
+            "charBegin": 539,
+            "charEnd": 544,
+            "id": 95,
+            "sentence": 5,
+            "text": "Corny",
+            "word": 36
+        },
+        {
+            "charBegin": 545,
+            "charEnd": 553,
+            "id": 96,
+            "sentence": 5,
+            "text": "Littmann",
+            "word": 37
+        },
+        {
+            "charBegin": 554,
+            "charEnd": 556,
+            "id": 97,
+            "sentence": 5,
+            "text": "zu",
+            "word": 38
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 560,
+            "id": 98,
+            "sentence": 5,
+            "text": "den",
+            "word": 39
+        },
+        {
+            "charBegin": 561,
+            "charEnd": 573,
+            "id": 99,
+            "sentence": 5,
+            "text": "Beweggründen",
+            "word": 40
+        },
+        {
+            "charBegin": 574,
+            "charEnd": 577,
+            "id": 100,
+            "sentence": 5,
+            "text": "des",
+            "word": 41
+        },
+        {
+            "charBegin": 578,
+            "charEnd": 585,
+            "id": 101,
+            "sentence": 5,
+            "text": "Vereins",
+            "word": 42
+        },
+        {
+            "charBegin": 585,
+            "charEnd": 586,
+            "id": 102,
+            "sentence": 5,
+            "text": ".",
+            "word": 43
+        }
+    ]
+}

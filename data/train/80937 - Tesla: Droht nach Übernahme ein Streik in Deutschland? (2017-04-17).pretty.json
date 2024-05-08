@@ -1,0 +1,3070 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 22,
+                        "charBegin": 135,
+                        "charEnd": 209,
+                        "end": 36
+                    }
+                ],
+                "text": "Der Lohn der Arbeiter liege derzeit 25 bis 30 Prozent unter dem Tariflohn.",
+                "tokenIds": [
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 36,
+                        "charBegin": 210,
+                        "charEnd": 223,
+                        "end": 39
+                    }
+                ],
+                "text": "Die IG Metall",
+                "tokenIds": [
+                    36,
+                    37,
+                    38
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 36,
+                        "charBegin": 210,
+                        "charEnd": 315,
+                        "end": 50
+                    }
+                ],
+                "text": "Die IG Metall will neben einer Arbeitsplatzgarantie die Übernahme des Tarifvertrages der Metallindustrie.",
+                "tokenIds": [
+                    36,
+                    37,
+                    38,
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 36,
+                        "charBegin": 210,
+                        "charEnd": 223,
+                        "end": 39
+                    }
+                ],
+                "text": "Die IG Metall",
+                "tokenIds": [
+                    36,
+                    37,
+                    38
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 51,
+                        "charBegin": 322,
+                        "charEnd": 331,
+                        "end": 53
+                    }
+                ],
+                "text": "bietet an",
+                "tokenIds": [
+                    51,
+                    52
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 50,
+                        "charBegin": 316,
+                        "charEnd": 331,
+                        "end": 53
+                    }
+                ],
+                "text": "Tesla bietet an",
+                "tokenIds": [
+                    50,
+                    51,
+                    52
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 53,
+                        "charBegin": 332,
+                        "charEnd": 391,
+                        "end": 63
+                    }
+                ],
+                "text": "den Lohn aller Mitarbeiter um 150 Euro monatlich zu erhöhen",
+                "tokenIds": [
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 50,
+                        "charBegin": 316,
+                        "charEnd": 321,
+                        "end": 51
+                    }
+                ],
+                "text": "Tesla",
+                "tokenIds": [
+                    50
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 71,
+                        "charBegin": 433,
+                        "charEnd": 438,
+                        "end": 72
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    71
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 64,
+                        "charBegin": 395,
+                        "charEnd": 439,
+                        "end": 73
+                    }
+                ],
+                "text": "Patrick Georg von der IG Metall Trier sagte,",
+                "tokenIds": [
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 73,
+                        "charBegin": 440,
+                        "charEnd": 494,
+                        "end": 82
+                    }
+                ],
+                "text": "es werde nächste Woche geprüft ob Streiks möglich sind",
+                "tokenIds": [
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 64,
+                        "charBegin": 395,
+                        "charEnd": 432,
+                        "end": 71
+                    }
+                ],
+                "text": "Patrick Georg von der IG Metall Trier",
+                "tokenIds": [
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 83,
+                        "charBegin": 496,
+                        "charEnd": 608,
+                        "end": 99
+                    }
+                ],
+                "text": "Ein Arbeitskampf hätte vermutlich negative Auswirkungen auf die für ab Juli geplante Auslieferung des Modells 3.",
+                "tokenIds": [
+                    83,
+                    84,
+                    85,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    98
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 64,
+                        "charBegin": 395,
+                        "charEnd": 432,
+                        "end": 71
+                    }
+                ],
+                "text": "Patrick Georg von der IG Metall Trier",
+                "tokenIds": [
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 103,
+                        "charBegin": 632,
+                        "charEnd": 642,
+                        "end": 105
+                    }
+                ],
+                "text": "teilte mit",
+                "tokenIds": [
+                    103,
+                    104
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 99,
+                        "charBegin": 609,
+                        "charEnd": 643,
+                        "end": 106
+                    }
+                ],
+                "text": "Ein Sprecher von Tesla teilte mit:",
+                "tokenIds": [
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105
+                ]
+            },
+            "hasNested": true,
+            "id": 5,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 106,
+                        "charBegin": 644,
+                        "charEnd": 807,
+                        "end": 132
+                    }
+                ],
+                "text": "\"jeder bei Tesla Grohmann Automation soll fair und wettbewerbsfähig über dem Branchenniveau bezahlt wird\", hierzu wolle man auch Aktien an die Belegschaft ausgeben",
+                "tokenIds": [
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 99,
+                        "charBegin": 609,
+                        "charEnd": 631,
+                        "end": 103
+                    }
+                ],
+                "text": "Ein Sprecher von Tesla",
+                "tokenIds": [
+                    99,
+                    100,
+                    101,
+                    102
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 103,
+                        "charBegin": 632,
+                        "charEnd": 642,
+                        "end": 105
+                    }
+                ],
+                "text": "teilte mit",
+                "tokenIds": [
+                    103,
+                    104
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 99,
+                        "charBegin": 609,
+                        "charEnd": 643,
+                        "end": 106
+                    }
+                ],
+                "text": "Ein Sprecher von Tesla teilte mit:",
+                "tokenIds": [
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105
+                ]
+            },
+            "hasNested": false,
+            "id": 6,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 106,
+                        "charBegin": 644,
+                        "charEnd": 749,
+                        "end": 122
+                    }
+                ],
+                "text": "\"jeder bei Tesla Grohmann Automation soll fair und wettbewerbsfähig über dem Branchenniveau bezahlt wird\"",
+                "tokenIds": [
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 99,
+                        "charBegin": 609,
+                        "charEnd": 631,
+                        "end": 103
+                    }
+                ],
+                "text": "Ein Sprecher von Tesla",
+                "tokenIds": [
+                    99,
+                    100,
+                    101,
+                    102
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 7,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 133,
+                        "charBegin": 809,
+                        "charEnd": 973,
+                        "end": 157
+                    }
+                ],
+                "text": "Das Unternehmen Grohmann Automation solle in Zukunft nur noch für die Firma Tesla produzieren. Die Geschäftsverbindungen zu anderen Kunden werden daher eingestellt.",
+                "tokenIds": [
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    156
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 99,
+                        "charBegin": 609,
+                        "charEnd": 631,
+                        "end": 103
+                    }
+                ],
+                "text": "Ein Sprecher von Tesla",
+                "tokenIds": [
+                    99,
+                    100,
+                    101,
+                    102
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 8,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 172,
+                        "charBegin": 1066,
+                        "charEnd": 1205,
+                        "end": 198
+                    }
+                ],
+                "text": "Elon Musk, der Milliardär hinter der Firma, kündigte einen Pick-up-Truck an, der in den nächsten 18 bis 24 Monaten vorgestellt werden soll.",
+                "tokenIds": [
+                    172,
+                    173,
+                    174,
+                    175,
+                    176,
+                    177,
+                    178,
+                    179,
+                    180,
+                    181,
+                    182,
+                    183,
+                    184,
+                    185,
+                    186,
+                    187,
+                    188,
+                    189,
+                    190,
+                    191,
+                    192,
+                    193,
+                    194,
+                    195,
+                    196,
+                    197
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 172,
+                        "charBegin": 1066,
+                        "charEnd": 1108,
+                        "end": 180
+                    }
+                ],
+                "text": "Elon Musk, der Milliardär hinter der Firma",
+                "tokenIds": [
+                    172,
+                    173,
+                    174,
+                    175,
+                    176,
+                    177,
+                    178,
+                    179
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 9,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 198,
+                        "charBegin": 1206,
+                        "charEnd": 1287,
+                        "end": 211
+                    }
+                ],
+                "text": "In der Zukunft wolle man auch Busse und Lastwagen mit Elektroantrieb produzieren.",
+                "tokenIds": [
+                    198,
+                    199,
+                    200,
+                    201,
+                    202,
+                    203,
+                    204,
+                    205,
+                    206,
+                    207,
+                    208,
+                    209,
+                    210
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 172,
+                        "charBegin": 1066,
+                        "charEnd": 1108,
+                        "end": 180
+                    }
+                ],
+                "text": "Elon Musk, der Milliardär hinter der Firma",
+                "tokenIds": [
+                    172,
+                    173,
+                    174,
+                    175,
+                    176,
+                    177,
+                    178,
+                    179
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        }
+    ],
+    "documentName": "80937 - Tesla: Droht nach Übernahme ein Streik in Deutschland? (2017-04-17)",
+    "originalText": "Vor einigen Monaten hatte Tesla die Firma Grohmann Automation in der Stadt Prüm in Rheinland-Pfalz übernommen. Jetzt droht ein Streik. Der Lohn der Arbeiter liege derzeit 25 bis 30 Prozent unter dem Tariflohn. Die IG Metall will neben einer Arbeitsplatzgarantie die Übernahme des Tarifvertrages der Metallindustrie. Tesla bietet an den Lohn aller Mitarbeiter um 150 Euro monatlich zu erhöhen. \n\nPatrick Georg von der IG Metall Trier sagte, es werde nächste Woche geprüft ob Streiks möglich sind. Ein Arbeitskampf hätte vermutlich negative Auswirkungen auf die für ab Juli geplante Auslieferung des Modells 3. Ein Sprecher von Tesla teilte mit: \"jeder bei Tesla Grohmann Automation soll fair und wettbewerbsfähig über dem Branchenniveau bezahlt wird\", hierzu wolle man auch Aktien an die Belegschaft ausgeben. Das Unternehmen Grohmann Automation solle in Zukunft nur noch für die Firma Tesla produzieren. Die Geschäftsverbindungen zu anderen Kunden werden daher eingestellt. \n\nGerade noch dabei den Markt der Pkw umzukrempeln, sollen jetzt auch Nutzfahrzeuge folgen. Elon Musk, der Milliardär hinter der Firma, kündigte einen Pick-up-Truck an, der in den nächsten 18 bis 24 Monaten vorgestellt werden soll. In der Zukunft wolle man auch Busse und Lastwagen mit Elektroantrieb produzieren.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 110,
+            "end": 17,
+            "id": 0,
+            "text": "Vor einigen Monaten hatte Tesla die Firma Grohmann Automation in der Stadt Prüm in Rheinland-Pfalz übernommen. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ],
+            "tokens": [
+                "Vor",
+                "einigen",
+                "Monaten",
+                "hatte",
+                "Tesla",
+                "die",
+                "Firma",
+                "Grohmann",
+                "Automation",
+                "in",
+                "der",
+                "Stadt",
+                "Prüm",
+                "in",
+                "Rheinland-Pfalz",
+                "übernommen",
+                "."
+            ]
+        },
+        {
+            "begin": 17,
+            "charBegin": 111,
+            "charEnd": 134,
+            "end": 22,
+            "id": 1,
+            "text": "Jetzt droht ein Streik. ",
+            "tokenIds": [
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Jetzt",
+                "droht",
+                "ein",
+                "Streik",
+                "."
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 135,
+            "charEnd": 209,
+            "end": 36,
+            "id": 2,
+            "text": "Der Lohn der Arbeiter liege derzeit 25 bis 30 Prozent unter dem Tariflohn. ",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35
+            ],
+            "tokens": [
+                "Der",
+                "Lohn",
+                "der",
+                "Arbeiter",
+                "liege",
+                "derzeit",
+                "25",
+                "bis",
+                "30",
+                "Prozent",
+                "unter",
+                "dem",
+                "Tariflohn",
+                "."
+            ]
+        },
+        {
+            "begin": 36,
+            "charBegin": 210,
+            "charEnd": 315,
+            "end": 50,
+            "id": 3,
+            "text": "Die IG Metall will neben einer Arbeitsplatzgarantie die Übernahme des Tarifvertrages der Metallindustrie. ",
+            "tokenIds": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49
+            ],
+            "tokens": [
+                "Die",
+                "IG",
+                "Metall",
+                "will",
+                "neben",
+                "einer",
+                "Arbeitsplatzgarantie",
+                "die",
+                "Übernahme",
+                "des",
+                "Tarifvertrages",
+                "der",
+                "Metallindustrie",
+                "."
+            ]
+        },
+        {
+            "begin": 50,
+            "charBegin": 316,
+            "charEnd": 392,
+            "end": 64,
+            "id": 4,
+            "text": "Tesla bietet an den Lohn aller Mitarbeiter um 150 Euro monatlich zu erhöhen. ",
+            "tokenIds": [
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63
+            ],
+            "tokens": [
+                "Tesla",
+                "bietet",
+                "an",
+                "den",
+                "Lohn",
+                "aller",
+                "Mitarbeiter",
+                "um",
+                "150",
+                "Euro",
+                "monatlich",
+                "zu",
+                "erhöhen",
+                "."
+            ]
+        },
+        {
+            "begin": 64,
+            "charBegin": 395,
+            "charEnd": 495,
+            "end": 83,
+            "id": 5,
+            "text": "Patrick Georg von der IG Metall Trier sagte, es werde nächste Woche geprüft ob Streiks möglich sind. ",
+            "tokenIds": [
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82
+            ],
+            "tokens": [
+                "Patrick",
+                "Georg",
+                "von",
+                "der",
+                "IG",
+                "Metall",
+                "Trier",
+                "sagte",
+                ",",
+                "es",
+                "werde",
+                "nächste",
+                "Woche",
+                "geprüft",
+                "ob",
+                "Streiks",
+                "möglich",
+                "sind",
+                "."
+            ]
+        },
+        {
+            "begin": 83,
+            "charBegin": 496,
+            "charEnd": 608,
+            "end": 99,
+            "id": 6,
+            "text": "Ein Arbeitskampf hätte vermutlich negative Auswirkungen auf die für ab Juli geplante Auslieferung des Modells 3. ",
+            "tokenIds": [
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98
+            ],
+            "tokens": [
+                "Ein",
+                "Arbeitskampf",
+                "hätte",
+                "vermutlich",
+                "negative",
+                "Auswirkungen",
+                "auf",
+                "die",
+                "für",
+                "ab",
+                "Juli",
+                "geplante",
+                "Auslieferung",
+                "des",
+                "Modells",
+                "3."
+            ]
+        },
+        {
+            "begin": 99,
+            "charBegin": 609,
+            "charEnd": 808,
+            "end": 133,
+            "id": 7,
+            "text": "Ein Sprecher von Tesla teilte mit: \"jeder bei Tesla Grohmann Automation soll fair und wettbewerbsfähig über dem Branchenniveau bezahlt wird\", hierzu wolle man auch Aktien an die Belegschaft ausgeben. ",
+            "tokenIds": [
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132
+            ],
+            "tokens": [
+                "Ein",
+                "Sprecher",
+                "von",
+                "Tesla",
+                "teilte",
+                "mit",
+                ":",
+                "\"",
+                "jeder",
+                "bei",
+                "Tesla",
+                "Grohmann",
+                "Automation",
+                "soll",
+                "fair",
+                "und",
+                "wettbewerbsfähig",
+                "über",
+                "dem",
+                "Branchenniveau",
+                "bezahlt",
+                "wird",
+                "\"",
+                ",",
+                "hierzu",
+                "wolle",
+                "man",
+                "auch",
+                "Aktien",
+                "an",
+                "die",
+                "Belegschaft",
+                "ausgeben",
+                "."
+            ]
+        },
+        {
+            "begin": 133,
+            "charBegin": 809,
+            "charEnd": 903,
+            "end": 148,
+            "id": 8,
+            "text": "Das Unternehmen Grohmann Automation solle in Zukunft nur noch für die Firma Tesla produzieren. ",
+            "tokenIds": [
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147
+            ],
+            "tokens": [
+                "Das",
+                "Unternehmen",
+                "Grohmann",
+                "Automation",
+                "solle",
+                "in",
+                "Zukunft",
+                "nur",
+                "noch",
+                "für",
+                "die",
+                "Firma",
+                "Tesla",
+                "produzieren",
+                "."
+            ]
+        },
+        {
+            "begin": 148,
+            "charBegin": 904,
+            "charEnd": 973,
+            "end": 157,
+            "id": 9,
+            "text": "Die Geschäftsverbindungen zu anderen Kunden werden daher eingestellt. ",
+            "tokenIds": [
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156
+            ],
+            "tokens": [
+                "Die",
+                "Geschäftsverbindungen",
+                "zu",
+                "anderen",
+                "Kunden",
+                "werden",
+                "daher",
+                "eingestellt",
+                "."
+            ]
+        },
+        {
+            "begin": 157,
+            "charBegin": 976,
+            "charEnd": 1065,
+            "end": 172,
+            "id": 10,
+            "text": "Gerade noch dabei den Markt der Pkw umzukrempeln, sollen jetzt auch Nutzfahrzeuge folgen. ",
+            "tokenIds": [
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171
+            ],
+            "tokens": [
+                "Gerade",
+                "noch",
+                "dabei",
+                "den",
+                "Markt",
+                "der",
+                "Pkw",
+                "umzukrempeln",
+                ",",
+                "sollen",
+                "jetzt",
+                "auch",
+                "Nutzfahrzeuge",
+                "folgen",
+                "."
+            ]
+        },
+        {
+            "begin": 172,
+            "charBegin": 1066,
+            "charEnd": 1205,
+            "end": 198,
+            "id": 11,
+            "text": "Elon Musk, der Milliardär hinter der Firma, kündigte einen Pick-up-Truck an, der in den nächsten 18 bis 24 Monaten vorgestellt werden soll. ",
+            "tokenIds": [
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197
+            ],
+            "tokens": [
+                "Elon",
+                "Musk",
+                ",",
+                "der",
+                "Milliardär",
+                "hinter",
+                "der",
+                "Firma",
+                ",",
+                "kündigte",
+                "einen",
+                "Pick-up-Truck",
+                "an",
+                ",",
+                "der",
+                "in",
+                "den",
+                "nächsten",
+                "18",
+                "bis",
+                "24",
+                "Monaten",
+                "vorgestellt",
+                "werden",
+                "soll",
+                "."
+            ]
+        },
+        {
+            "begin": 198,
+            "charBegin": 1206,
+            "charEnd": 1287,
+            "end": 211,
+            "id": 12,
+            "text": "In der Zukunft wolle man auch Busse und Lastwagen mit Elektroantrieb produzieren.",
+            "tokenIds": [
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210
+            ],
+            "tokens": [
+                "In",
+                "der",
+                "Zukunft",
+                "wolle",
+                "man",
+                "auch",
+                "Busse",
+                "und",
+                "Lastwagen",
+                "mit",
+                "Elektroantrieb",
+                "produzieren",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Vor",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 11,
+            "id": 1,
+            "sentence": 1,
+            "text": "einigen",
+            "word": 2
+        },
+        {
+            "charBegin": 12,
+            "charEnd": 19,
+            "id": 2,
+            "sentence": 1,
+            "text": "Monaten",
+            "word": 3
+        },
+        {
+            "charBegin": 20,
+            "charEnd": 25,
+            "id": 3,
+            "sentence": 1,
+            "text": "hatte",
+            "word": 4
+        },
+        {
+            "charBegin": 26,
+            "charEnd": 31,
+            "id": 4,
+            "sentence": 1,
+            "text": "Tesla",
+            "word": 5
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 35,
+            "id": 5,
+            "sentence": 1,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 41,
+            "id": 6,
+            "sentence": 1,
+            "text": "Firma",
+            "word": 7
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 50,
+            "id": 7,
+            "sentence": 1,
+            "text": "Grohmann",
+            "word": 8
+        },
+        {
+            "charBegin": 51,
+            "charEnd": 61,
+            "id": 8,
+            "sentence": 1,
+            "text": "Automation",
+            "word": 9
+        },
+        {
+            "charBegin": 62,
+            "charEnd": 64,
+            "id": 9,
+            "sentence": 1,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 68,
+            "id": 10,
+            "sentence": 1,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 69,
+            "charEnd": 74,
+            "id": 11,
+            "sentence": 1,
+            "text": "Stadt",
+            "word": 12
+        },
+        {
+            "charBegin": 75,
+            "charEnd": 79,
+            "id": 12,
+            "sentence": 1,
+            "text": "Prüm",
+            "word": 13
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 82,
+            "id": 13,
+            "sentence": 1,
+            "text": "in",
+            "word": 14
+        },
+        {
+            "charBegin": 83,
+            "charEnd": 98,
+            "id": 14,
+            "sentence": 1,
+            "text": "Rheinland-Pfalz",
+            "word": 15
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 109,
+            "id": 15,
+            "sentence": 1,
+            "text": "übernommen",
+            "word": 16
+        },
+        {
+            "charBegin": 109,
+            "charEnd": 110,
+            "id": 16,
+            "sentence": 1,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 111,
+            "charEnd": 116,
+            "id": 17,
+            "sentence": 2,
+            "text": "Jetzt",
+            "word": 1
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 122,
+            "id": 18,
+            "sentence": 2,
+            "text": "droht",
+            "word": 2
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 126,
+            "id": 19,
+            "sentence": 2,
+            "text": "ein",
+            "word": 3
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 133,
+            "id": 20,
+            "sentence": 2,
+            "text": "Streik",
+            "word": 4
+        },
+        {
+            "charBegin": 133,
+            "charEnd": 134,
+            "id": 21,
+            "sentence": 2,
+            "text": ".",
+            "word": 5
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 138,
+            "id": 22,
+            "sentence": 3,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 139,
+            "charEnd": 143,
+            "id": 23,
+            "sentence": 3,
+            "text": "Lohn",
+            "word": 2
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 147,
+            "id": 24,
+            "sentence": 3,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 148,
+            "charEnd": 156,
+            "id": 25,
+            "sentence": 3,
+            "text": "Arbeiter",
+            "word": 4
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 162,
+            "id": 26,
+            "sentence": 3,
+            "text": "liege",
+            "word": 5
+        },
+        {
+            "charBegin": 163,
+            "charEnd": 170,
+            "id": 27,
+            "sentence": 3,
+            "text": "derzeit",
+            "word": 6
+        },
+        {
+            "charBegin": 171,
+            "charEnd": 173,
+            "id": 28,
+            "sentence": 3,
+            "text": "25",
+            "word": 7
+        },
+        {
+            "charBegin": 174,
+            "charEnd": 177,
+            "id": 29,
+            "sentence": 3,
+            "text": "bis",
+            "word": 8
+        },
+        {
+            "charBegin": 178,
+            "charEnd": 180,
+            "id": 30,
+            "sentence": 3,
+            "text": "30",
+            "word": 9
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 188,
+            "id": 31,
+            "sentence": 3,
+            "text": "Prozent",
+            "word": 10
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 194,
+            "id": 32,
+            "sentence": 3,
+            "text": "unter",
+            "word": 11
+        },
+        {
+            "charBegin": 195,
+            "charEnd": 198,
+            "id": 33,
+            "sentence": 3,
+            "text": "dem",
+            "word": 12
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 208,
+            "id": 34,
+            "sentence": 3,
+            "text": "Tariflohn",
+            "word": 13
+        },
+        {
+            "charBegin": 208,
+            "charEnd": 209,
+            "id": 35,
+            "sentence": 3,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 213,
+            "id": 36,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 216,
+            "id": 37,
+            "sentence": 4,
+            "text": "IG",
+            "word": 2
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 223,
+            "id": 38,
+            "sentence": 4,
+            "text": "Metall",
+            "word": 3
+        },
+        {
+            "charBegin": 224,
+            "charEnd": 228,
+            "id": 39,
+            "sentence": 4,
+            "text": "will",
+            "word": 4
+        },
+        {
+            "charBegin": 229,
+            "charEnd": 234,
+            "id": 40,
+            "sentence": 4,
+            "text": "neben",
+            "word": 5
+        },
+        {
+            "charBegin": 235,
+            "charEnd": 240,
+            "id": 41,
+            "sentence": 4,
+            "text": "einer",
+            "word": 6
+        },
+        {
+            "charBegin": 241,
+            "charEnd": 261,
+            "id": 42,
+            "sentence": 4,
+            "text": "Arbeitsplatzgarantie",
+            "word": 7
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 265,
+            "id": 43,
+            "sentence": 4,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 275,
+            "id": 44,
+            "sentence": 4,
+            "text": "Übernahme",
+            "word": 9
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 279,
+            "id": 45,
+            "sentence": 4,
+            "text": "des",
+            "word": 10
+        },
+        {
+            "charBegin": 280,
+            "charEnd": 294,
+            "id": 46,
+            "sentence": 4,
+            "text": "Tarifvertrages",
+            "word": 11
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 298,
+            "id": 47,
+            "sentence": 4,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 299,
+            "charEnd": 314,
+            "id": 48,
+            "sentence": 4,
+            "text": "Metallindustrie",
+            "word": 13
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 315,
+            "id": 49,
+            "sentence": 4,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 316,
+            "charEnd": 321,
+            "id": 50,
+            "sentence": 5,
+            "text": "Tesla",
+            "word": 1
+        },
+        {
+            "charBegin": 322,
+            "charEnd": 328,
+            "id": 51,
+            "sentence": 5,
+            "text": "bietet",
+            "word": 2
+        },
+        {
+            "charBegin": 329,
+            "charEnd": 331,
+            "id": 52,
+            "sentence": 5,
+            "text": "an",
+            "word": 3
+        },
+        {
+            "charBegin": 332,
+            "charEnd": 335,
+            "id": 53,
+            "sentence": 5,
+            "text": "den",
+            "word": 4
+        },
+        {
+            "charBegin": 336,
+            "charEnd": 340,
+            "id": 54,
+            "sentence": 5,
+            "text": "Lohn",
+            "word": 5
+        },
+        {
+            "charBegin": 341,
+            "charEnd": 346,
+            "id": 55,
+            "sentence": 5,
+            "text": "aller",
+            "word": 6
+        },
+        {
+            "charBegin": 347,
+            "charEnd": 358,
+            "id": 56,
+            "sentence": 5,
+            "text": "Mitarbeiter",
+            "word": 7
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 361,
+            "id": 57,
+            "sentence": 5,
+            "text": "um",
+            "word": 8
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 365,
+            "id": 58,
+            "sentence": 5,
+            "text": "150",
+            "word": 9
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 370,
+            "id": 59,
+            "sentence": 5,
+            "text": "Euro",
+            "word": 10
+        },
+        {
+            "charBegin": 371,
+            "charEnd": 380,
+            "id": 60,
+            "sentence": 5,
+            "text": "monatlich",
+            "word": 11
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 383,
+            "id": 61,
+            "sentence": 5,
+            "text": "zu",
+            "word": 12
+        },
+        {
+            "charBegin": 384,
+            "charEnd": 391,
+            "id": 62,
+            "sentence": 5,
+            "text": "erhöhen",
+            "word": 13
+        },
+        {
+            "charBegin": 391,
+            "charEnd": 392,
+            "id": 63,
+            "sentence": 5,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 402,
+            "id": 64,
+            "sentence": 6,
+            "text": "Patrick",
+            "word": 1
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 408,
+            "id": 65,
+            "sentence": 6,
+            "text": "Georg",
+            "word": 2
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 412,
+            "id": 66,
+            "sentence": 6,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 416,
+            "id": 67,
+            "sentence": 6,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 417,
+            "charEnd": 419,
+            "id": 68,
+            "sentence": 6,
+            "text": "IG",
+            "word": 5
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 426,
+            "id": 69,
+            "sentence": 6,
+            "text": "Metall",
+            "word": 6
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 432,
+            "id": 70,
+            "sentence": 6,
+            "text": "Trier",
+            "word": 7
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 438,
+            "id": 71,
+            "sentence": 6,
+            "text": "sagte",
+            "word": 8
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 439,
+            "id": 72,
+            "sentence": 6,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 442,
+            "id": 73,
+            "sentence": 6,
+            "text": "es",
+            "word": 10
+        },
+        {
+            "charBegin": 443,
+            "charEnd": 448,
+            "id": 74,
+            "sentence": 6,
+            "text": "werde",
+            "word": 11
+        },
+        {
+            "charBegin": 449,
+            "charEnd": 456,
+            "id": 75,
+            "sentence": 6,
+            "text": "nächste",
+            "word": 12
+        },
+        {
+            "charBegin": 457,
+            "charEnd": 462,
+            "id": 76,
+            "sentence": 6,
+            "text": "Woche",
+            "word": 13
+        },
+        {
+            "charBegin": 463,
+            "charEnd": 470,
+            "id": 77,
+            "sentence": 6,
+            "text": "geprüft",
+            "word": 14
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 473,
+            "id": 78,
+            "sentence": 6,
+            "text": "ob",
+            "word": 15
+        },
+        {
+            "charBegin": 474,
+            "charEnd": 481,
+            "id": 79,
+            "sentence": 6,
+            "text": "Streiks",
+            "word": 16
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 489,
+            "id": 80,
+            "sentence": 6,
+            "text": "möglich",
+            "word": 17
+        },
+        {
+            "charBegin": 490,
+            "charEnd": 494,
+            "id": 81,
+            "sentence": 6,
+            "text": "sind",
+            "word": 18
+        },
+        {
+            "charBegin": 494,
+            "charEnd": 495,
+            "id": 82,
+            "sentence": 6,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 496,
+            "charEnd": 499,
+            "id": 83,
+            "sentence": 7,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 512,
+            "id": 84,
+            "sentence": 7,
+            "text": "Arbeitskampf",
+            "word": 2
+        },
+        {
+            "charBegin": 513,
+            "charEnd": 518,
+            "id": 85,
+            "sentence": 7,
+            "text": "hätte",
+            "word": 3
+        },
+        {
+            "charBegin": 519,
+            "charEnd": 529,
+            "id": 86,
+            "sentence": 7,
+            "text": "vermutlich",
+            "word": 4
+        },
+        {
+            "charBegin": 530,
+            "charEnd": 538,
+            "id": 87,
+            "sentence": 7,
+            "text": "negative",
+            "word": 5
+        },
+        {
+            "charBegin": 539,
+            "charEnd": 551,
+            "id": 88,
+            "sentence": 7,
+            "text": "Auswirkungen",
+            "word": 6
+        },
+        {
+            "charBegin": 552,
+            "charEnd": 555,
+            "id": 89,
+            "sentence": 7,
+            "text": "auf",
+            "word": 7
+        },
+        {
+            "charBegin": 556,
+            "charEnd": 559,
+            "id": 90,
+            "sentence": 7,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 560,
+            "charEnd": 563,
+            "id": 91,
+            "sentence": 7,
+            "text": "für",
+            "word": 9
+        },
+        {
+            "charBegin": 564,
+            "charEnd": 566,
+            "id": 92,
+            "sentence": 7,
+            "text": "ab",
+            "word": 10
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 571,
+            "id": 93,
+            "sentence": 7,
+            "text": "Juli",
+            "word": 11
+        },
+        {
+            "charBegin": 572,
+            "charEnd": 580,
+            "id": 94,
+            "sentence": 7,
+            "text": "geplante",
+            "word": 12
+        },
+        {
+            "charBegin": 581,
+            "charEnd": 593,
+            "id": 95,
+            "sentence": 7,
+            "text": "Auslieferung",
+            "word": 13
+        },
+        {
+            "charBegin": 594,
+            "charEnd": 597,
+            "id": 96,
+            "sentence": 7,
+            "text": "des",
+            "word": 14
+        },
+        {
+            "charBegin": 598,
+            "charEnd": 605,
+            "id": 97,
+            "sentence": 7,
+            "text": "Modells",
+            "word": 15
+        },
+        {
+            "charBegin": 606,
+            "charEnd": 608,
+            "id": 98,
+            "sentence": 7,
+            "text": "3.",
+            "word": 16
+        },
+        {
+            "charBegin": 609,
+            "charEnd": 612,
+            "id": 99,
+            "sentence": 8,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 613,
+            "charEnd": 621,
+            "id": 100,
+            "sentence": 8,
+            "text": "Sprecher",
+            "word": 2
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 625,
+            "id": 101,
+            "sentence": 8,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 631,
+            "id": 102,
+            "sentence": 8,
+            "text": "Tesla",
+            "word": 4
+        },
+        {
+            "charBegin": 632,
+            "charEnd": 638,
+            "id": 103,
+            "sentence": 8,
+            "text": "teilte",
+            "word": 5
+        },
+        {
+            "charBegin": 639,
+            "charEnd": 642,
+            "id": 104,
+            "sentence": 8,
+            "text": "mit",
+            "word": 6
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 643,
+            "id": 105,
+            "sentence": 8,
+            "text": ":",
+            "word": 7
+        },
+        {
+            "charBegin": 644,
+            "charEnd": 645,
+            "id": 106,
+            "sentence": 8,
+            "text": "\"",
+            "word": 8
+        },
+        {
+            "charBegin": 645,
+            "charEnd": 650,
+            "id": 107,
+            "sentence": 8,
+            "text": "jeder",
+            "word": 9
+        },
+        {
+            "charBegin": 651,
+            "charEnd": 654,
+            "id": 108,
+            "sentence": 8,
+            "text": "bei",
+            "word": 10
+        },
+        {
+            "charBegin": 655,
+            "charEnd": 660,
+            "id": 109,
+            "sentence": 8,
+            "text": "Tesla",
+            "word": 11
+        },
+        {
+            "charBegin": 661,
+            "charEnd": 669,
+            "id": 110,
+            "sentence": 8,
+            "text": "Grohmann",
+            "word": 12
+        },
+        {
+            "charBegin": 670,
+            "charEnd": 680,
+            "id": 111,
+            "sentence": 8,
+            "text": "Automation",
+            "word": 13
+        },
+        {
+            "charBegin": 681,
+            "charEnd": 685,
+            "id": 112,
+            "sentence": 8,
+            "text": "soll",
+            "word": 14
+        },
+        {
+            "charBegin": 686,
+            "charEnd": 690,
+            "id": 113,
+            "sentence": 8,
+            "text": "fair",
+            "word": 15
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 694,
+            "id": 114,
+            "sentence": 8,
+            "text": "und",
+            "word": 16
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 711,
+            "id": 115,
+            "sentence": 8,
+            "text": "wettbewerbsfähig",
+            "word": 17
+        },
+        {
+            "charBegin": 712,
+            "charEnd": 716,
+            "id": 116,
+            "sentence": 8,
+            "text": "über",
+            "word": 18
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 720,
+            "id": 117,
+            "sentence": 8,
+            "text": "dem",
+            "word": 19
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 735,
+            "id": 118,
+            "sentence": 8,
+            "text": "Branchenniveau",
+            "word": 20
+        },
+        {
+            "charBegin": 736,
+            "charEnd": 743,
+            "id": 119,
+            "sentence": 8,
+            "text": "bezahlt",
+            "word": 21
+        },
+        {
+            "charBegin": 744,
+            "charEnd": 748,
+            "id": 120,
+            "sentence": 8,
+            "text": "wird",
+            "word": 22
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 749,
+            "id": 121,
+            "sentence": 8,
+            "text": "\"",
+            "word": 23
+        },
+        {
+            "charBegin": 749,
+            "charEnd": 750,
+            "id": 122,
+            "sentence": 8,
+            "text": ",",
+            "word": 24
+        },
+        {
+            "charBegin": 751,
+            "charEnd": 757,
+            "id": 123,
+            "sentence": 8,
+            "text": "hierzu",
+            "word": 25
+        },
+        {
+            "charBegin": 758,
+            "charEnd": 763,
+            "id": 124,
+            "sentence": 8,
+            "text": "wolle",
+            "word": 26
+        },
+        {
+            "charBegin": 764,
+            "charEnd": 767,
+            "id": 125,
+            "sentence": 8,
+            "text": "man",
+            "word": 27
+        },
+        {
+            "charBegin": 768,
+            "charEnd": 772,
+            "id": 126,
+            "sentence": 8,
+            "text": "auch",
+            "word": 28
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 779,
+            "id": 127,
+            "sentence": 8,
+            "text": "Aktien",
+            "word": 29
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 782,
+            "id": 128,
+            "sentence": 8,
+            "text": "an",
+            "word": 30
+        },
+        {
+            "charBegin": 783,
+            "charEnd": 786,
+            "id": 129,
+            "sentence": 8,
+            "text": "die",
+            "word": 31
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 798,
+            "id": 130,
+            "sentence": 8,
+            "text": "Belegschaft",
+            "word": 32
+        },
+        {
+            "charBegin": 799,
+            "charEnd": 807,
+            "id": 131,
+            "sentence": 8,
+            "text": "ausgeben",
+            "word": 33
+        },
+        {
+            "charBegin": 807,
+            "charEnd": 808,
+            "id": 132,
+            "sentence": 8,
+            "text": ".",
+            "word": 34
+        },
+        {
+            "charBegin": 809,
+            "charEnd": 812,
+            "id": 133,
+            "sentence": 9,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 813,
+            "charEnd": 824,
+            "id": 134,
+            "sentence": 9,
+            "text": "Unternehmen",
+            "word": 2
+        },
+        {
+            "charBegin": 825,
+            "charEnd": 833,
+            "id": 135,
+            "sentence": 9,
+            "text": "Grohmann",
+            "word": 3
+        },
+        {
+            "charBegin": 834,
+            "charEnd": 844,
+            "id": 136,
+            "sentence": 9,
+            "text": "Automation",
+            "word": 4
+        },
+        {
+            "charBegin": 845,
+            "charEnd": 850,
+            "id": 137,
+            "sentence": 9,
+            "text": "solle",
+            "word": 5
+        },
+        {
+            "charBegin": 851,
+            "charEnd": 853,
+            "id": 138,
+            "sentence": 9,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 854,
+            "charEnd": 861,
+            "id": 139,
+            "sentence": 9,
+            "text": "Zukunft",
+            "word": 7
+        },
+        {
+            "charBegin": 862,
+            "charEnd": 865,
+            "id": 140,
+            "sentence": 9,
+            "text": "nur",
+            "word": 8
+        },
+        {
+            "charBegin": 866,
+            "charEnd": 870,
+            "id": 141,
+            "sentence": 9,
+            "text": "noch",
+            "word": 9
+        },
+        {
+            "charBegin": 871,
+            "charEnd": 874,
+            "id": 142,
+            "sentence": 9,
+            "text": "für",
+            "word": 10
+        },
+        {
+            "charBegin": 875,
+            "charEnd": 878,
+            "id": 143,
+            "sentence": 9,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 879,
+            "charEnd": 884,
+            "id": 144,
+            "sentence": 9,
+            "text": "Firma",
+            "word": 12
+        },
+        {
+            "charBegin": 885,
+            "charEnd": 890,
+            "id": 145,
+            "sentence": 9,
+            "text": "Tesla",
+            "word": 13
+        },
+        {
+            "charBegin": 891,
+            "charEnd": 902,
+            "id": 146,
+            "sentence": 9,
+            "text": "produzieren",
+            "word": 14
+        },
+        {
+            "charBegin": 902,
+            "charEnd": 903,
+            "id": 147,
+            "sentence": 9,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 907,
+            "id": 148,
+            "sentence": 10,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 908,
+            "charEnd": 929,
+            "id": 149,
+            "sentence": 10,
+            "text": "Geschäftsverbindungen",
+            "word": 2
+        },
+        {
+            "charBegin": 930,
+            "charEnd": 932,
+            "id": 150,
+            "sentence": 10,
+            "text": "zu",
+            "word": 3
+        },
+        {
+            "charBegin": 933,
+            "charEnd": 940,
+            "id": 151,
+            "sentence": 10,
+            "text": "anderen",
+            "word": 4
+        },
+        {
+            "charBegin": 941,
+            "charEnd": 947,
+            "id": 152,
+            "sentence": 10,
+            "text": "Kunden",
+            "word": 5
+        },
+        {
+            "charBegin": 948,
+            "charEnd": 954,
+            "id": 153,
+            "sentence": 10,
+            "text": "werden",
+            "word": 6
+        },
+        {
+            "charBegin": 955,
+            "charEnd": 960,
+            "id": 154,
+            "sentence": 10,
+            "text": "daher",
+            "word": 7
+        },
+        {
+            "charBegin": 961,
+            "charEnd": 972,
+            "id": 155,
+            "sentence": 10,
+            "text": "eingestellt",
+            "word": 8
+        },
+        {
+            "charBegin": 972,
+            "charEnd": 973,
+            "id": 156,
+            "sentence": 10,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 976,
+            "charEnd": 982,
+            "id": 157,
+            "sentence": 11,
+            "text": "Gerade",
+            "word": 1
+        },
+        {
+            "charBegin": 983,
+            "charEnd": 987,
+            "id": 158,
+            "sentence": 11,
+            "text": "noch",
+            "word": 2
+        },
+        {
+            "charBegin": 988,
+            "charEnd": 993,
+            "id": 159,
+            "sentence": 11,
+            "text": "dabei",
+            "word": 3
+        },
+        {
+            "charBegin": 994,
+            "charEnd": 997,
+            "id": 160,
+            "sentence": 11,
+            "text": "den",
+            "word": 4
+        },
+        {
+            "charBegin": 998,
+            "charEnd": 1003,
+            "id": 161,
+            "sentence": 11,
+            "text": "Markt",
+            "word": 5
+        },
+        {
+            "charBegin": 1004,
+            "charEnd": 1007,
+            "id": 162,
+            "sentence": 11,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 1008,
+            "charEnd": 1011,
+            "id": 163,
+            "sentence": 11,
+            "text": "Pkw",
+            "word": 7
+        },
+        {
+            "charBegin": 1012,
+            "charEnd": 1024,
+            "id": 164,
+            "sentence": 11,
+            "text": "umzukrempeln",
+            "word": 8
+        },
+        {
+            "charBegin": 1024,
+            "charEnd": 1025,
+            "id": 165,
+            "sentence": 11,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 1026,
+            "charEnd": 1032,
+            "id": 166,
+            "sentence": 11,
+            "text": "sollen",
+            "word": 10
+        },
+        {
+            "charBegin": 1033,
+            "charEnd": 1038,
+            "id": 167,
+            "sentence": 11,
+            "text": "jetzt",
+            "word": 11
+        },
+        {
+            "charBegin": 1039,
+            "charEnd": 1043,
+            "id": 168,
+            "sentence": 11,
+            "text": "auch",
+            "word": 12
+        },
+        {
+            "charBegin": 1044,
+            "charEnd": 1057,
+            "id": 169,
+            "sentence": 11,
+            "text": "Nutzfahrzeuge",
+            "word": 13
+        },
+        {
+            "charBegin": 1058,
+            "charEnd": 1064,
+            "id": 170,
+            "sentence": 11,
+            "text": "folgen",
+            "word": 14
+        },
+        {
+            "charBegin": 1064,
+            "charEnd": 1065,
+            "id": 171,
+            "sentence": 11,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 1066,
+            "charEnd": 1070,
+            "id": 172,
+            "sentence": 12,
+            "text": "Elon",
+            "word": 1
+        },
+        {
+            "charBegin": 1071,
+            "charEnd": 1075,
+            "id": 173,
+            "sentence": 12,
+            "text": "Musk",
+            "word": 2
+        },
+        {
+            "charBegin": 1075,
+            "charEnd": 1076,
+            "id": 174,
+            "sentence": 12,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 1077,
+            "charEnd": 1080,
+            "id": 175,
+            "sentence": 12,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 1081,
+            "charEnd": 1091,
+            "id": 176,
+            "sentence": 12,
+            "text": "Milliardär",
+            "word": 5
+        },
+        {
+            "charBegin": 1092,
+            "charEnd": 1098,
+            "id": 177,
+            "sentence": 12,
+            "text": "hinter",
+            "word": 6
+        },
+        {
+            "charBegin": 1099,
+            "charEnd": 1102,
+            "id": 178,
+            "sentence": 12,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 1103,
+            "charEnd": 1108,
+            "id": 179,
+            "sentence": 12,
+            "text": "Firma",
+            "word": 8
+        },
+        {
+            "charBegin": 1108,
+            "charEnd": 1109,
+            "id": 180,
+            "sentence": 12,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 1110,
+            "charEnd": 1118,
+            "id": 181,
+            "sentence": 12,
+            "text": "kündigte",
+            "word": 10
+        },
+        {
+            "charBegin": 1119,
+            "charEnd": 1124,
+            "id": 182,
+            "sentence": 12,
+            "text": "einen",
+            "word": 11
+        },
+        {
+            "charBegin": 1125,
+            "charEnd": 1138,
+            "id": 183,
+            "sentence": 12,
+            "text": "Pick-up-Truck",
+            "word": 12
+        },
+        {
+            "charBegin": 1139,
+            "charEnd": 1141,
+            "id": 184,
+            "sentence": 12,
+            "text": "an",
+            "word": 13
+        },
+        {
+            "charBegin": 1141,
+            "charEnd": 1142,
+            "id": 185,
+            "sentence": 12,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 1143,
+            "charEnd": 1146,
+            "id": 186,
+            "sentence": 12,
+            "text": "der",
+            "word": 15
+        },
+        {
+            "charBegin": 1147,
+            "charEnd": 1149,
+            "id": 187,
+            "sentence": 12,
+            "text": "in",
+            "word": 16
+        },
+        {
+            "charBegin": 1150,
+            "charEnd": 1153,
+            "id": 188,
+            "sentence": 12,
+            "text": "den",
+            "word": 17
+        },
+        {
+            "charBegin": 1154,
+            "charEnd": 1162,
+            "id": 189,
+            "sentence": 12,
+            "text": "nächsten",
+            "word": 18
+        },
+        {
+            "charBegin": 1163,
+            "charEnd": 1165,
+            "id": 190,
+            "sentence": 12,
+            "text": "18",
+            "word": 19
+        },
+        {
+            "charBegin": 1166,
+            "charEnd": 1169,
+            "id": 191,
+            "sentence": 12,
+            "text": "bis",
+            "word": 20
+        },
+        {
+            "charBegin": 1170,
+            "charEnd": 1172,
+            "id": 192,
+            "sentence": 12,
+            "text": "24",
+            "word": 21
+        },
+        {
+            "charBegin": 1173,
+            "charEnd": 1180,
+            "id": 193,
+            "sentence": 12,
+            "text": "Monaten",
+            "word": 22
+        },
+        {
+            "charBegin": 1181,
+            "charEnd": 1192,
+            "id": 194,
+            "sentence": 12,
+            "text": "vorgestellt",
+            "word": 23
+        },
+        {
+            "charBegin": 1193,
+            "charEnd": 1199,
+            "id": 195,
+            "sentence": 12,
+            "text": "werden",
+            "word": 24
+        },
+        {
+            "charBegin": 1200,
+            "charEnd": 1204,
+            "id": 196,
+            "sentence": 12,
+            "text": "soll",
+            "word": 25
+        },
+        {
+            "charBegin": 1204,
+            "charEnd": 1205,
+            "id": 197,
+            "sentence": 12,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 1206,
+            "charEnd": 1208,
+            "id": 198,
+            "sentence": 13,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 1209,
+            "charEnd": 1212,
+            "id": 199,
+            "sentence": 13,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 1213,
+            "charEnd": 1220,
+            "id": 200,
+            "sentence": 13,
+            "text": "Zukunft",
+            "word": 3
+        },
+        {
+            "charBegin": 1221,
+            "charEnd": 1226,
+            "id": 201,
+            "sentence": 13,
+            "text": "wolle",
+            "word": 4
+        },
+        {
+            "charBegin": 1227,
+            "charEnd": 1230,
+            "id": 202,
+            "sentence": 13,
+            "text": "man",
+            "word": 5
+        },
+        {
+            "charBegin": 1231,
+            "charEnd": 1235,
+            "id": 203,
+            "sentence": 13,
+            "text": "auch",
+            "word": 6
+        },
+        {
+            "charBegin": 1236,
+            "charEnd": 1241,
+            "id": 204,
+            "sentence": 13,
+            "text": "Busse",
+            "word": 7
+        },
+        {
+            "charBegin": 1242,
+            "charEnd": 1245,
+            "id": 205,
+            "sentence": 13,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 1246,
+            "charEnd": 1255,
+            "id": 206,
+            "sentence": 13,
+            "text": "Lastwagen",
+            "word": 9
+        },
+        {
+            "charBegin": 1256,
+            "charEnd": 1259,
+            "id": 207,
+            "sentence": 13,
+            "text": "mit",
+            "word": 10
+        },
+        {
+            "charBegin": 1260,
+            "charEnd": 1274,
+            "id": 208,
+            "sentence": 13,
+            "text": "Elektroantrieb",
+            "word": 11
+        },
+        {
+            "charBegin": 1275,
+            "charEnd": 1286,
+            "id": 209,
+            "sentence": 13,
+            "text": "produzieren",
+            "word": 12
+        },
+        {
+            "charBegin": 1286,
+            "charEnd": 1287,
+            "id": 210,
+            "sentence": 13,
+            "text": ".",
+            "word": 13
+        }
+    ]
+}

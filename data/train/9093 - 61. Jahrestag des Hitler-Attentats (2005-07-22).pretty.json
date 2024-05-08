@@ -1,0 +1,2308 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 116,
+                        "charBegin": 821,
+                        "charEnd": 828,
+                        "end": 117
+                    }
+                ],
+                "text": "betonte",
+                "tokenIds": [
+                    116
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 115,
+                        "charBegin": 819,
+                        "charEnd": 835,
+                        "end": 118
+                    }
+                ],
+                "text": ", betonte Struck",
+                "tokenIds": [
+                    115,
+                    116,
+                    117
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 96,
+                        "charBegin": 684,
+                        "charEnd": 819,
+                        "end": 115
+                    }
+                ],
+                "text": "„Ziele des militärischen Widerstands sind nach wie vor verpflichtend und daher eine der entscheidenden Traditionslinien der Bundeswehr“",
+                "tokenIds": [
+                    96,
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 117,
+                        "charBegin": 829,
+                        "charEnd": 835,
+                        "end": 118
+                    }
+                ],
+                "text": "Struck",
+                "tokenIds": [
+                    117
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "9093 - 61. Jahrestag des Hitler-Attentats (2005-07-22)",
+    "originalText": "Am vorgestrigen Mittwoch jährte sich zum einundsechzigsten Mal der Anschlag der Verschwörergruppe um Oberst Graf Schenk von Stauffenberg auf Adolf Hitler.\n\nVerteidigungsminister Peter Struck, Bundeskanzler Gerhard Schröder und Bundespräsident Horst Köhler gedachten im Rahmen einer offiziellen Gedenkveranstaltung in Form einer Parade im Beisein von anderen Mitgliedern der Bundesregierung und Vertretern der Bundeswehr des versuchten Attentats auf Adolf Hitler. Ort der Zeremonie war der Berliner Bendlerblock, die Stelle, an der man die Verschwörergruppe um Oberst Graf Schenk von Stauffenberg – genauso wie viele andere Widerstandskämpfer des Dritten Reiches – hingerichtet hatte. „Ziele des militärischen Widerstands sind nach wie vor verpflichtend und daher eine der entscheidenden Traditionslinien der Bundeswehr“, betonte Struck.Gleichzeitig legten im Rahmen dieser Zeremonie 500 Bundeswehrrekruten ihr Gelöbnis ab. Unter den zweitausend geladenen Gästen befand sich auch Norwegens Ministerpräsident Kjell Magne Bondevik. Die Veranstaltung wurde wie in in den Jahren zuvor von mehreren Demonstranten begleitet, die gegen die Zeremonie auf dem Gelände des Bendlerblocks protestieren wollten. \n\nAm 20. Juli 1944 hatte eine Verschwörergruppe um Stauffenberg im Führerhauptquartier „Wolfsschanze“ versucht, mittels einer Bombe Adolf Hitler zu töten. Auf Grund mehrerer Zufälle misslang das Attentat. Die Verschwörer wurden daraufhin hingerichtet.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 154,
+            "end": 22,
+            "id": 0,
+            "text": "Am vorgestrigen Mittwoch jährte sich zum einundsechzigsten Mal der Anschlag der Verschwörergruppe um Oberst Graf Schenk von Stauffenberg auf Adolf Hitler.",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Am",
+                "vorgestrigen",
+                "Mittwoch",
+                "jährte",
+                "sich",
+                "zum",
+                "einundsechzigsten",
+                "Mal",
+                "der",
+                "Anschlag",
+                "der",
+                "Verschwörergruppe",
+                "um",
+                "Oberst",
+                "Graf",
+                "Schenk",
+                "von",
+                "Stauffenberg",
+                "auf",
+                "Adolf",
+                "Hitler",
+                "."
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 156,
+            "charEnd": 462,
+            "end": 61,
+            "id": 1,
+            "text": "Verteidigungsminister Peter Struck, Bundeskanzler Gerhard Schröder und Bundespräsident Horst Köhler gedachten im Rahmen einer offiziellen Gedenkveranstaltung in Form einer Parade im Beisein von anderen Mitgliedern der Bundesregierung und Vertretern der Bundeswehr des versuchten Attentats auf Adolf Hitler. ",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60
+            ],
+            "tokens": [
+                "Verteidigungsminister",
+                "Peter",
+                "Struck",
+                ",",
+                "Bundeskanzler",
+                "Gerhard",
+                "Schröder",
+                "und",
+                "Bundespräsident",
+                "Horst",
+                "Köhler",
+                "gedachten",
+                "im",
+                "Rahmen",
+                "einer",
+                "offiziellen",
+                "Gedenkveranstaltung",
+                "in",
+                "Form",
+                "einer",
+                "Parade",
+                "im",
+                "Beisein",
+                "von",
+                "anderen",
+                "Mitgliedern",
+                "der",
+                "Bundesregierung",
+                "und",
+                "Vertretern",
+                "der",
+                "Bundeswehr",
+                "des",
+                "versuchten",
+                "Attentats",
+                "auf",
+                "Adolf",
+                "Hitler",
+                "."
+            ]
+        },
+        {
+            "begin": 61,
+            "charBegin": 463,
+            "charEnd": 683,
+            "end": 96,
+            "id": 2,
+            "text": "Ort der Zeremonie war der Berliner Bendlerblock, die Stelle, an der man die Verschwörergruppe um Oberst Graf Schenk von Stauffenberg – genauso wie viele andere Widerstandskämpfer des Dritten Reiches – hingerichtet hatte. ",
+            "tokenIds": [
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95
+            ],
+            "tokens": [
+                "Ort",
+                "der",
+                "Zeremonie",
+                "war",
+                "der",
+                "Berliner",
+                "Bendlerblock",
+                ",",
+                "die",
+                "Stelle",
+                ",",
+                "an",
+                "der",
+                "man",
+                "die",
+                "Verschwörergruppe",
+                "um",
+                "Oberst",
+                "Graf",
+                "Schenk",
+                "von",
+                "Stauffenberg",
+                "–",
+                "genauso",
+                "wie",
+                "viele",
+                "andere",
+                "Widerstandskämpfer",
+                "des",
+                "Dritten",
+                "Reiches",
+                "–",
+                "hingerichtet",
+                "hatte",
+                "."
+            ]
+        },
+        {
+            "begin": 96,
+            "charBegin": 684,
+            "charEnd": 836,
+            "end": 119,
+            "id": 3,
+            "text": "„Ziele des militärischen Widerstands sind nach wie vor verpflichtend und daher eine der entscheidenden Traditionslinien der Bundeswehr“, betonte Struck.",
+            "tokenIds": [
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118
+            ],
+            "tokens": [
+                "„",
+                "Ziele",
+                "des",
+                "militärischen",
+                "Widerstands",
+                "sind",
+                "nach",
+                "wie",
+                "vor",
+                "verpflichtend",
+                "und",
+                "daher",
+                "eine",
+                "der",
+                "entscheidenden",
+                "Traditionslinien",
+                "der",
+                "Bundeswehr",
+                "“",
+                ",",
+                "betonte",
+                "Struck",
+                "."
+            ]
+        },
+        {
+            "begin": 119,
+            "charBegin": 836,
+            "charEnd": 922,
+            "end": 131,
+            "id": 4,
+            "text": "Gleichzeitig legten im Rahmen dieser Zeremonie 500 Bundeswehrrekruten ihr Gelöbnis ab. ",
+            "tokenIds": [
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130
+            ],
+            "tokens": [
+                "Gleichzeitig",
+                "legten",
+                "im",
+                "Rahmen",
+                "dieser",
+                "Zeremonie",
+                "500",
+                "Bundeswehrrekruten",
+                "ihr",
+                "Gelöbnis",
+                "ab",
+                "."
+            ]
+        },
+        {
+            "begin": 131,
+            "charBegin": 923,
+            "charEnd": 1028,
+            "end": 145,
+            "id": 5,
+            "text": "Unter den zweitausend geladenen Gästen befand sich auch Norwegens Ministerpräsident Kjell Magne Bondevik. ",
+            "tokenIds": [
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144
+            ],
+            "tokens": [
+                "Unter",
+                "den",
+                "zweitausend",
+                "geladenen",
+                "Gästen",
+                "befand",
+                "sich",
+                "auch",
+                "Norwegens",
+                "Ministerpräsident",
+                "Kjell",
+                "Magne",
+                "Bondevik",
+                "."
+            ]
+        },
+        {
+            "begin": 145,
+            "charBegin": 1029,
+            "charEnd": 1197,
+            "end": 171,
+            "id": 6,
+            "text": "Die Veranstaltung wurde wie in in den Jahren zuvor von mehreren Demonstranten begleitet, die gegen die Zeremonie auf dem Gelände des Bendlerblocks protestieren wollten. ",
+            "tokenIds": [
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170
+            ],
+            "tokens": [
+                "Die",
+                "Veranstaltung",
+                "wurde",
+                "wie",
+                "in",
+                "in",
+                "den",
+                "Jahren",
+                "zuvor",
+                "von",
+                "mehreren",
+                "Demonstranten",
+                "begleitet",
+                ",",
+                "die",
+                "gegen",
+                "die",
+                "Zeremonie",
+                "auf",
+                "dem",
+                "Gelände",
+                "des",
+                "Bendlerblocks",
+                "protestieren",
+                "wollten",
+                "."
+            ]
+        },
+        {
+            "begin": 171,
+            "charBegin": 1200,
+            "charEnd": 1352,
+            "end": 195,
+            "id": 7,
+            "text": "Am 20. Juli 1944 hatte eine Verschwörergruppe um Stauffenberg im Führerhauptquartier „Wolfsschanze“ versucht, mittels einer Bombe Adolf Hitler zu töten. ",
+            "tokenIds": [
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194
+            ],
+            "tokens": [
+                "Am",
+                "20.",
+                "Juli",
+                "1944",
+                "hatte",
+                "eine",
+                "Verschwörergruppe",
+                "um",
+                "Stauffenberg",
+                "im",
+                "Führerhauptquartier",
+                "„",
+                "Wolfsschanze",
+                "“",
+                "versucht",
+                ",",
+                "mittels",
+                "einer",
+                "Bombe",
+                "Adolf",
+                "Hitler",
+                "zu",
+                "töten",
+                "."
+            ]
+        },
+        {
+            "begin": 195,
+            "charBegin": 1353,
+            "charEnd": 1402,
+            "end": 203,
+            "id": 8,
+            "text": "Auf Grund mehrerer Zufälle misslang das Attentat. ",
+            "tokenIds": [
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202
+            ],
+            "tokens": [
+                "Auf",
+                "Grund",
+                "mehrerer",
+                "Zufälle",
+                "misslang",
+                "das",
+                "Attentat",
+                "."
+            ]
+        },
+        {
+            "begin": 203,
+            "charBegin": 1403,
+            "charEnd": 1449,
+            "end": 209,
+            "id": 9,
+            "text": "Die Verschwörer wurden daraufhin hingerichtet.",
+            "tokenIds": [
+                203,
+                204,
+                205,
+                206,
+                207,
+                208
+            ],
+            "tokens": [
+                "Die",
+                "Verschwörer",
+                "wurden",
+                "daraufhin",
+                "hingerichtet",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 15,
+            "id": 1,
+            "sentence": 1,
+            "text": "vorgestrigen",
+            "word": 2
+        },
+        {
+            "charBegin": 16,
+            "charEnd": 24,
+            "id": 2,
+            "sentence": 1,
+            "text": "Mittwoch",
+            "word": 3
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 31,
+            "id": 3,
+            "sentence": 1,
+            "text": "jährte",
+            "word": 4
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 36,
+            "id": 4,
+            "sentence": 1,
+            "text": "sich",
+            "word": 5
+        },
+        {
+            "charBegin": 37,
+            "charEnd": 40,
+            "id": 5,
+            "sentence": 1,
+            "text": "zum",
+            "word": 6
+        },
+        {
+            "charBegin": 41,
+            "charEnd": 58,
+            "id": 6,
+            "sentence": 1,
+            "text": "einundsechzigsten",
+            "word": 7
+        },
+        {
+            "charBegin": 59,
+            "charEnd": 62,
+            "id": 7,
+            "sentence": 1,
+            "text": "Mal",
+            "word": 8
+        },
+        {
+            "charBegin": 63,
+            "charEnd": 66,
+            "id": 8,
+            "sentence": 1,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 67,
+            "charEnd": 75,
+            "id": 9,
+            "sentence": 1,
+            "text": "Anschlag",
+            "word": 10
+        },
+        {
+            "charBegin": 76,
+            "charEnd": 79,
+            "id": 10,
+            "sentence": 1,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 97,
+            "id": 11,
+            "sentence": 1,
+            "text": "Verschwörergruppe",
+            "word": 12
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 100,
+            "id": 12,
+            "sentence": 1,
+            "text": "um",
+            "word": 13
+        },
+        {
+            "charBegin": 101,
+            "charEnd": 107,
+            "id": 13,
+            "sentence": 1,
+            "text": "Oberst",
+            "word": 14
+        },
+        {
+            "charBegin": 108,
+            "charEnd": 112,
+            "id": 14,
+            "sentence": 1,
+            "text": "Graf",
+            "word": 15
+        },
+        {
+            "charBegin": 113,
+            "charEnd": 119,
+            "id": 15,
+            "sentence": 1,
+            "text": "Schenk",
+            "word": 16
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 123,
+            "id": 16,
+            "sentence": 1,
+            "text": "von",
+            "word": 17
+        },
+        {
+            "charBegin": 124,
+            "charEnd": 136,
+            "id": 17,
+            "sentence": 1,
+            "text": "Stauffenberg",
+            "word": 18
+        },
+        {
+            "charBegin": 137,
+            "charEnd": 140,
+            "id": 18,
+            "sentence": 1,
+            "text": "auf",
+            "word": 19
+        },
+        {
+            "charBegin": 141,
+            "charEnd": 146,
+            "id": 19,
+            "sentence": 1,
+            "text": "Adolf",
+            "word": 20
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 153,
+            "id": 20,
+            "sentence": 1,
+            "text": "Hitler",
+            "word": 21
+        },
+        {
+            "charBegin": 153,
+            "charEnd": 154,
+            "id": 21,
+            "sentence": 1,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 177,
+            "id": 22,
+            "sentence": 2,
+            "text": "Verteidigungsminister",
+            "word": 1
+        },
+        {
+            "charBegin": 178,
+            "charEnd": 183,
+            "id": 23,
+            "sentence": 2,
+            "text": "Peter",
+            "word": 2
+        },
+        {
+            "charBegin": 184,
+            "charEnd": 190,
+            "id": 24,
+            "sentence": 2,
+            "text": "Struck",
+            "word": 3
+        },
+        {
+            "charBegin": 190,
+            "charEnd": 191,
+            "id": 25,
+            "sentence": 2,
+            "text": ",",
+            "word": 4
+        },
+        {
+            "charBegin": 192,
+            "charEnd": 205,
+            "id": 26,
+            "sentence": 2,
+            "text": "Bundeskanzler",
+            "word": 5
+        },
+        {
+            "charBegin": 206,
+            "charEnd": 213,
+            "id": 27,
+            "sentence": 2,
+            "text": "Gerhard",
+            "word": 6
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 222,
+            "id": 28,
+            "sentence": 2,
+            "text": "Schröder",
+            "word": 7
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 226,
+            "id": 29,
+            "sentence": 2,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 242,
+            "id": 30,
+            "sentence": 2,
+            "text": "Bundespräsident",
+            "word": 9
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 248,
+            "id": 31,
+            "sentence": 2,
+            "text": "Horst",
+            "word": 10
+        },
+        {
+            "charBegin": 249,
+            "charEnd": 255,
+            "id": 32,
+            "sentence": 2,
+            "text": "Köhler",
+            "word": 11
+        },
+        {
+            "charBegin": 256,
+            "charEnd": 265,
+            "id": 33,
+            "sentence": 2,
+            "text": "gedachten",
+            "word": 12
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 268,
+            "id": 34,
+            "sentence": 2,
+            "text": "im",
+            "word": 13
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 275,
+            "id": 35,
+            "sentence": 2,
+            "text": "Rahmen",
+            "word": 14
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 281,
+            "id": 36,
+            "sentence": 2,
+            "text": "einer",
+            "word": 15
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 293,
+            "id": 37,
+            "sentence": 2,
+            "text": "offiziellen",
+            "word": 16
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 313,
+            "id": 38,
+            "sentence": 2,
+            "text": "Gedenkveranstaltung",
+            "word": 17
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 316,
+            "id": 39,
+            "sentence": 2,
+            "text": "in",
+            "word": 18
+        },
+        {
+            "charBegin": 317,
+            "charEnd": 321,
+            "id": 40,
+            "sentence": 2,
+            "text": "Form",
+            "word": 19
+        },
+        {
+            "charBegin": 322,
+            "charEnd": 327,
+            "id": 41,
+            "sentence": 2,
+            "text": "einer",
+            "word": 20
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 334,
+            "id": 42,
+            "sentence": 2,
+            "text": "Parade",
+            "word": 21
+        },
+        {
+            "charBegin": 335,
+            "charEnd": 337,
+            "id": 43,
+            "sentence": 2,
+            "text": "im",
+            "word": 22
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 345,
+            "id": 44,
+            "sentence": 2,
+            "text": "Beisein",
+            "word": 23
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 349,
+            "id": 45,
+            "sentence": 2,
+            "text": "von",
+            "word": 24
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 357,
+            "id": 46,
+            "sentence": 2,
+            "text": "anderen",
+            "word": 25
+        },
+        {
+            "charBegin": 358,
+            "charEnd": 369,
+            "id": 47,
+            "sentence": 2,
+            "text": "Mitgliedern",
+            "word": 26
+        },
+        {
+            "charBegin": 370,
+            "charEnd": 373,
+            "id": 48,
+            "sentence": 2,
+            "text": "der",
+            "word": 27
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 389,
+            "id": 49,
+            "sentence": 2,
+            "text": "Bundesregierung",
+            "word": 28
+        },
+        {
+            "charBegin": 390,
+            "charEnd": 393,
+            "id": 50,
+            "sentence": 2,
+            "text": "und",
+            "word": 29
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 404,
+            "id": 51,
+            "sentence": 2,
+            "text": "Vertretern",
+            "word": 30
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 408,
+            "id": 52,
+            "sentence": 2,
+            "text": "der",
+            "word": 31
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 419,
+            "id": 53,
+            "sentence": 2,
+            "text": "Bundeswehr",
+            "word": 32
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 423,
+            "id": 54,
+            "sentence": 2,
+            "text": "des",
+            "word": 33
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 434,
+            "id": 55,
+            "sentence": 2,
+            "text": "versuchten",
+            "word": 34
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 444,
+            "id": 56,
+            "sentence": 2,
+            "text": "Attentats",
+            "word": 35
+        },
+        {
+            "charBegin": 445,
+            "charEnd": 448,
+            "id": 57,
+            "sentence": 2,
+            "text": "auf",
+            "word": 36
+        },
+        {
+            "charBegin": 449,
+            "charEnd": 454,
+            "id": 58,
+            "sentence": 2,
+            "text": "Adolf",
+            "word": 37
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 461,
+            "id": 59,
+            "sentence": 2,
+            "text": "Hitler",
+            "word": 38
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 462,
+            "id": 60,
+            "sentence": 2,
+            "text": ".",
+            "word": 39
+        },
+        {
+            "charBegin": 463,
+            "charEnd": 466,
+            "id": 61,
+            "sentence": 3,
+            "text": "Ort",
+            "word": 1
+        },
+        {
+            "charBegin": 467,
+            "charEnd": 470,
+            "id": 62,
+            "sentence": 3,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 480,
+            "id": 63,
+            "sentence": 3,
+            "text": "Zeremonie",
+            "word": 3
+        },
+        {
+            "charBegin": 481,
+            "charEnd": 484,
+            "id": 64,
+            "sentence": 3,
+            "text": "war",
+            "word": 4
+        },
+        {
+            "charBegin": 485,
+            "charEnd": 488,
+            "id": 65,
+            "sentence": 3,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 489,
+            "charEnd": 497,
+            "id": 66,
+            "sentence": 3,
+            "text": "Berliner",
+            "word": 6
+        },
+        {
+            "charBegin": 498,
+            "charEnd": 510,
+            "id": 67,
+            "sentence": 3,
+            "text": "Bendlerblock",
+            "word": 7
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 511,
+            "id": 68,
+            "sentence": 3,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 515,
+            "id": 69,
+            "sentence": 3,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 516,
+            "charEnd": 522,
+            "id": 70,
+            "sentence": 3,
+            "text": "Stelle",
+            "word": 10
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 523,
+            "id": 71,
+            "sentence": 3,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 524,
+            "charEnd": 526,
+            "id": 72,
+            "sentence": 3,
+            "text": "an",
+            "word": 12
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 530,
+            "id": 73,
+            "sentence": 3,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 531,
+            "charEnd": 534,
+            "id": 74,
+            "sentence": 3,
+            "text": "man",
+            "word": 14
+        },
+        {
+            "charBegin": 535,
+            "charEnd": 538,
+            "id": 75,
+            "sentence": 3,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 539,
+            "charEnd": 556,
+            "id": 76,
+            "sentence": 3,
+            "text": "Verschwörergruppe",
+            "word": 16
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 559,
+            "id": 77,
+            "sentence": 3,
+            "text": "um",
+            "word": 17
+        },
+        {
+            "charBegin": 560,
+            "charEnd": 566,
+            "id": 78,
+            "sentence": 3,
+            "text": "Oberst",
+            "word": 18
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 571,
+            "id": 79,
+            "sentence": 3,
+            "text": "Graf",
+            "word": 19
+        },
+        {
+            "charBegin": 572,
+            "charEnd": 578,
+            "id": 80,
+            "sentence": 3,
+            "text": "Schenk",
+            "word": 20
+        },
+        {
+            "charBegin": 579,
+            "charEnd": 582,
+            "id": 81,
+            "sentence": 3,
+            "text": "von",
+            "word": 21
+        },
+        {
+            "charBegin": 583,
+            "charEnd": 595,
+            "id": 82,
+            "sentence": 3,
+            "text": "Stauffenberg",
+            "word": 22
+        },
+        {
+            "charBegin": 596,
+            "charEnd": 597,
+            "id": 83,
+            "sentence": 3,
+            "text": "–",
+            "word": 23
+        },
+        {
+            "charBegin": 598,
+            "charEnd": 605,
+            "id": 84,
+            "sentence": 3,
+            "text": "genauso",
+            "word": 24
+        },
+        {
+            "charBegin": 606,
+            "charEnd": 609,
+            "id": 85,
+            "sentence": 3,
+            "text": "wie",
+            "word": 25
+        },
+        {
+            "charBegin": 610,
+            "charEnd": 615,
+            "id": 86,
+            "sentence": 3,
+            "text": "viele",
+            "word": 26
+        },
+        {
+            "charBegin": 616,
+            "charEnd": 622,
+            "id": 87,
+            "sentence": 3,
+            "text": "andere",
+            "word": 27
+        },
+        {
+            "charBegin": 623,
+            "charEnd": 641,
+            "id": 88,
+            "sentence": 3,
+            "text": "Widerstandskämpfer",
+            "word": 28
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 645,
+            "id": 89,
+            "sentence": 3,
+            "text": "des",
+            "word": 29
+        },
+        {
+            "charBegin": 646,
+            "charEnd": 653,
+            "id": 90,
+            "sentence": 3,
+            "text": "Dritten",
+            "word": 30
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 661,
+            "id": 91,
+            "sentence": 3,
+            "text": "Reiches",
+            "word": 31
+        },
+        {
+            "charBegin": 662,
+            "charEnd": 663,
+            "id": 92,
+            "sentence": 3,
+            "text": "–",
+            "word": 32
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 676,
+            "id": 93,
+            "sentence": 3,
+            "text": "hingerichtet",
+            "word": 33
+        },
+        {
+            "charBegin": 677,
+            "charEnd": 682,
+            "id": 94,
+            "sentence": 3,
+            "text": "hatte",
+            "word": 34
+        },
+        {
+            "charBegin": 682,
+            "charEnd": 683,
+            "id": 95,
+            "sentence": 3,
+            "text": ".",
+            "word": 35
+        },
+        {
+            "charBegin": 684,
+            "charEnd": 685,
+            "id": 96,
+            "sentence": 4,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 685,
+            "charEnd": 690,
+            "id": 97,
+            "sentence": 4,
+            "text": "Ziele",
+            "word": 2
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 694,
+            "id": 98,
+            "sentence": 4,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 708,
+            "id": 99,
+            "sentence": 4,
+            "text": "militärischen",
+            "word": 4
+        },
+        {
+            "charBegin": 709,
+            "charEnd": 720,
+            "id": 100,
+            "sentence": 4,
+            "text": "Widerstands",
+            "word": 5
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 725,
+            "id": 101,
+            "sentence": 4,
+            "text": "sind",
+            "word": 6
+        },
+        {
+            "charBegin": 726,
+            "charEnd": 730,
+            "id": 102,
+            "sentence": 4,
+            "text": "nach",
+            "word": 7
+        },
+        {
+            "charBegin": 731,
+            "charEnd": 734,
+            "id": 103,
+            "sentence": 4,
+            "text": "wie",
+            "word": 8
+        },
+        {
+            "charBegin": 735,
+            "charEnd": 738,
+            "id": 104,
+            "sentence": 4,
+            "text": "vor",
+            "word": 9
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 752,
+            "id": 105,
+            "sentence": 4,
+            "text": "verpflichtend",
+            "word": 10
+        },
+        {
+            "charBegin": 753,
+            "charEnd": 756,
+            "id": 106,
+            "sentence": 4,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 762,
+            "id": 107,
+            "sentence": 4,
+            "text": "daher",
+            "word": 12
+        },
+        {
+            "charBegin": 763,
+            "charEnd": 767,
+            "id": 108,
+            "sentence": 4,
+            "text": "eine",
+            "word": 13
+        },
+        {
+            "charBegin": 768,
+            "charEnd": 771,
+            "id": 109,
+            "sentence": 4,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 772,
+            "charEnd": 786,
+            "id": 110,
+            "sentence": 4,
+            "text": "entscheidenden",
+            "word": 15
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 803,
+            "id": 111,
+            "sentence": 4,
+            "text": "Traditionslinien",
+            "word": 16
+        },
+        {
+            "charBegin": 804,
+            "charEnd": 807,
+            "id": 112,
+            "sentence": 4,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 808,
+            "charEnd": 818,
+            "id": 113,
+            "sentence": 4,
+            "text": "Bundeswehr",
+            "word": 18
+        },
+        {
+            "charBegin": 818,
+            "charEnd": 819,
+            "id": 114,
+            "sentence": 4,
+            "text": "“",
+            "word": 19
+        },
+        {
+            "charBegin": 819,
+            "charEnd": 820,
+            "id": 115,
+            "sentence": 4,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 821,
+            "charEnd": 828,
+            "id": 116,
+            "sentence": 4,
+            "text": "betonte",
+            "word": 21
+        },
+        {
+            "charBegin": 829,
+            "charEnd": 835,
+            "id": 117,
+            "sentence": 4,
+            "text": "Struck",
+            "word": 22
+        },
+        {
+            "charBegin": 835,
+            "charEnd": 836,
+            "id": 118,
+            "sentence": 4,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 836,
+            "charEnd": 848,
+            "id": 119,
+            "sentence": 5,
+            "text": "Gleichzeitig",
+            "word": 1
+        },
+        {
+            "charBegin": 849,
+            "charEnd": 855,
+            "id": 120,
+            "sentence": 5,
+            "text": "legten",
+            "word": 2
+        },
+        {
+            "charBegin": 856,
+            "charEnd": 858,
+            "id": 121,
+            "sentence": 5,
+            "text": "im",
+            "word": 3
+        },
+        {
+            "charBegin": 859,
+            "charEnd": 865,
+            "id": 122,
+            "sentence": 5,
+            "text": "Rahmen",
+            "word": 4
+        },
+        {
+            "charBegin": 866,
+            "charEnd": 872,
+            "id": 123,
+            "sentence": 5,
+            "text": "dieser",
+            "word": 5
+        },
+        {
+            "charBegin": 873,
+            "charEnd": 882,
+            "id": 124,
+            "sentence": 5,
+            "text": "Zeremonie",
+            "word": 6
+        },
+        {
+            "charBegin": 883,
+            "charEnd": 886,
+            "id": 125,
+            "sentence": 5,
+            "text": "500",
+            "word": 7
+        },
+        {
+            "charBegin": 887,
+            "charEnd": 905,
+            "id": 126,
+            "sentence": 5,
+            "text": "Bundeswehrrekruten",
+            "word": 8
+        },
+        {
+            "charBegin": 906,
+            "charEnd": 909,
+            "id": 127,
+            "sentence": 5,
+            "text": "ihr",
+            "word": 9
+        },
+        {
+            "charBegin": 910,
+            "charEnd": 918,
+            "id": 128,
+            "sentence": 5,
+            "text": "Gelöbnis",
+            "word": 10
+        },
+        {
+            "charBegin": 919,
+            "charEnd": 921,
+            "id": 129,
+            "sentence": 5,
+            "text": "ab",
+            "word": 11
+        },
+        {
+            "charBegin": 921,
+            "charEnd": 922,
+            "id": 130,
+            "sentence": 5,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 923,
+            "charEnd": 928,
+            "id": 131,
+            "sentence": 6,
+            "text": "Unter",
+            "word": 1
+        },
+        {
+            "charBegin": 929,
+            "charEnd": 932,
+            "id": 132,
+            "sentence": 6,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 933,
+            "charEnd": 944,
+            "id": 133,
+            "sentence": 6,
+            "text": "zweitausend",
+            "word": 3
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 954,
+            "id": 134,
+            "sentence": 6,
+            "text": "geladenen",
+            "word": 4
+        },
+        {
+            "charBegin": 955,
+            "charEnd": 961,
+            "id": 135,
+            "sentence": 6,
+            "text": "Gästen",
+            "word": 5
+        },
+        {
+            "charBegin": 962,
+            "charEnd": 968,
+            "id": 136,
+            "sentence": 6,
+            "text": "befand",
+            "word": 6
+        },
+        {
+            "charBegin": 969,
+            "charEnd": 973,
+            "id": 137,
+            "sentence": 6,
+            "text": "sich",
+            "word": 7
+        },
+        {
+            "charBegin": 974,
+            "charEnd": 978,
+            "id": 138,
+            "sentence": 6,
+            "text": "auch",
+            "word": 8
+        },
+        {
+            "charBegin": 979,
+            "charEnd": 988,
+            "id": 139,
+            "sentence": 6,
+            "text": "Norwegens",
+            "word": 9
+        },
+        {
+            "charBegin": 989,
+            "charEnd": 1006,
+            "id": 140,
+            "sentence": 6,
+            "text": "Ministerpräsident",
+            "word": 10
+        },
+        {
+            "charBegin": 1007,
+            "charEnd": 1012,
+            "id": 141,
+            "sentence": 6,
+            "text": "Kjell",
+            "word": 11
+        },
+        {
+            "charBegin": 1013,
+            "charEnd": 1018,
+            "id": 142,
+            "sentence": 6,
+            "text": "Magne",
+            "word": 12
+        },
+        {
+            "charBegin": 1019,
+            "charEnd": 1027,
+            "id": 143,
+            "sentence": 6,
+            "text": "Bondevik",
+            "word": 13
+        },
+        {
+            "charBegin": 1027,
+            "charEnd": 1028,
+            "id": 144,
+            "sentence": 6,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1029,
+            "charEnd": 1032,
+            "id": 145,
+            "sentence": 7,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1033,
+            "charEnd": 1046,
+            "id": 146,
+            "sentence": 7,
+            "text": "Veranstaltung",
+            "word": 2
+        },
+        {
+            "charBegin": 1047,
+            "charEnd": 1052,
+            "id": 147,
+            "sentence": 7,
+            "text": "wurde",
+            "word": 3
+        },
+        {
+            "charBegin": 1053,
+            "charEnd": 1056,
+            "id": 148,
+            "sentence": 7,
+            "text": "wie",
+            "word": 4
+        },
+        {
+            "charBegin": 1057,
+            "charEnd": 1059,
+            "id": 149,
+            "sentence": 7,
+            "text": "in",
+            "word": 5
+        },
+        {
+            "charBegin": 1060,
+            "charEnd": 1062,
+            "id": 150,
+            "sentence": 7,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 1063,
+            "charEnd": 1066,
+            "id": 151,
+            "sentence": 7,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 1067,
+            "charEnd": 1073,
+            "id": 152,
+            "sentence": 7,
+            "text": "Jahren",
+            "word": 8
+        },
+        {
+            "charBegin": 1074,
+            "charEnd": 1079,
+            "id": 153,
+            "sentence": 7,
+            "text": "zuvor",
+            "word": 9
+        },
+        {
+            "charBegin": 1080,
+            "charEnd": 1083,
+            "id": 154,
+            "sentence": 7,
+            "text": "von",
+            "word": 10
+        },
+        {
+            "charBegin": 1084,
+            "charEnd": 1092,
+            "id": 155,
+            "sentence": 7,
+            "text": "mehreren",
+            "word": 11
+        },
+        {
+            "charBegin": 1093,
+            "charEnd": 1106,
+            "id": 156,
+            "sentence": 7,
+            "text": "Demonstranten",
+            "word": 12
+        },
+        {
+            "charBegin": 1107,
+            "charEnd": 1116,
+            "id": 157,
+            "sentence": 7,
+            "text": "begleitet",
+            "word": 13
+        },
+        {
+            "charBegin": 1116,
+            "charEnd": 1117,
+            "id": 158,
+            "sentence": 7,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 1118,
+            "charEnd": 1121,
+            "id": 159,
+            "sentence": 7,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 1122,
+            "charEnd": 1127,
+            "id": 160,
+            "sentence": 7,
+            "text": "gegen",
+            "word": 16
+        },
+        {
+            "charBegin": 1128,
+            "charEnd": 1131,
+            "id": 161,
+            "sentence": 7,
+            "text": "die",
+            "word": 17
+        },
+        {
+            "charBegin": 1132,
+            "charEnd": 1141,
+            "id": 162,
+            "sentence": 7,
+            "text": "Zeremonie",
+            "word": 18
+        },
+        {
+            "charBegin": 1142,
+            "charEnd": 1145,
+            "id": 163,
+            "sentence": 7,
+            "text": "auf",
+            "word": 19
+        },
+        {
+            "charBegin": 1146,
+            "charEnd": 1149,
+            "id": 164,
+            "sentence": 7,
+            "text": "dem",
+            "word": 20
+        },
+        {
+            "charBegin": 1150,
+            "charEnd": 1157,
+            "id": 165,
+            "sentence": 7,
+            "text": "Gelände",
+            "word": 21
+        },
+        {
+            "charBegin": 1158,
+            "charEnd": 1161,
+            "id": 166,
+            "sentence": 7,
+            "text": "des",
+            "word": 22
+        },
+        {
+            "charBegin": 1162,
+            "charEnd": 1175,
+            "id": 167,
+            "sentence": 7,
+            "text": "Bendlerblocks",
+            "word": 23
+        },
+        {
+            "charBegin": 1176,
+            "charEnd": 1188,
+            "id": 168,
+            "sentence": 7,
+            "text": "protestieren",
+            "word": 24
+        },
+        {
+            "charBegin": 1189,
+            "charEnd": 1196,
+            "id": 169,
+            "sentence": 7,
+            "text": "wollten",
+            "word": 25
+        },
+        {
+            "charBegin": 1196,
+            "charEnd": 1197,
+            "id": 170,
+            "sentence": 7,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 1200,
+            "charEnd": 1202,
+            "id": 171,
+            "sentence": 8,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 1203,
+            "charEnd": 1206,
+            "id": 172,
+            "sentence": 8,
+            "text": "20.",
+            "word": 2
+        },
+        {
+            "charBegin": 1207,
+            "charEnd": 1211,
+            "id": 173,
+            "sentence": 8,
+            "text": "Juli",
+            "word": 3
+        },
+        {
+            "charBegin": 1212,
+            "charEnd": 1216,
+            "id": 174,
+            "sentence": 8,
+            "text": "1944",
+            "word": 4
+        },
+        {
+            "charBegin": 1217,
+            "charEnd": 1222,
+            "id": 175,
+            "sentence": 8,
+            "text": "hatte",
+            "word": 5
+        },
+        {
+            "charBegin": 1223,
+            "charEnd": 1227,
+            "id": 176,
+            "sentence": 8,
+            "text": "eine",
+            "word": 6
+        },
+        {
+            "charBegin": 1228,
+            "charEnd": 1245,
+            "id": 177,
+            "sentence": 8,
+            "text": "Verschwörergruppe",
+            "word": 7
+        },
+        {
+            "charBegin": 1246,
+            "charEnd": 1248,
+            "id": 178,
+            "sentence": 8,
+            "text": "um",
+            "word": 8
+        },
+        {
+            "charBegin": 1249,
+            "charEnd": 1261,
+            "id": 179,
+            "sentence": 8,
+            "text": "Stauffenberg",
+            "word": 9
+        },
+        {
+            "charBegin": 1262,
+            "charEnd": 1264,
+            "id": 180,
+            "sentence": 8,
+            "text": "im",
+            "word": 10
+        },
+        {
+            "charBegin": 1265,
+            "charEnd": 1284,
+            "id": 181,
+            "sentence": 8,
+            "text": "Führerhauptquartier",
+            "word": 11
+        },
+        {
+            "charBegin": 1285,
+            "charEnd": 1286,
+            "id": 182,
+            "sentence": 8,
+            "text": "„",
+            "word": 12
+        },
+        {
+            "charBegin": 1286,
+            "charEnd": 1298,
+            "id": 183,
+            "sentence": 8,
+            "text": "Wolfsschanze",
+            "word": 13
+        },
+        {
+            "charBegin": 1298,
+            "charEnd": 1299,
+            "id": 184,
+            "sentence": 8,
+            "text": "“",
+            "word": 14
+        },
+        {
+            "charBegin": 1300,
+            "charEnd": 1308,
+            "id": 185,
+            "sentence": 8,
+            "text": "versucht",
+            "word": 15
+        },
+        {
+            "charBegin": 1308,
+            "charEnd": 1309,
+            "id": 186,
+            "sentence": 8,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 1310,
+            "charEnd": 1317,
+            "id": 187,
+            "sentence": 8,
+            "text": "mittels",
+            "word": 17
+        },
+        {
+            "charBegin": 1318,
+            "charEnd": 1323,
+            "id": 188,
+            "sentence": 8,
+            "text": "einer",
+            "word": 18
+        },
+        {
+            "charBegin": 1324,
+            "charEnd": 1329,
+            "id": 189,
+            "sentence": 8,
+            "text": "Bombe",
+            "word": 19
+        },
+        {
+            "charBegin": 1330,
+            "charEnd": 1335,
+            "id": 190,
+            "sentence": 8,
+            "text": "Adolf",
+            "word": 20
+        },
+        {
+            "charBegin": 1336,
+            "charEnd": 1342,
+            "id": 191,
+            "sentence": 8,
+            "text": "Hitler",
+            "word": 21
+        },
+        {
+            "charBegin": 1343,
+            "charEnd": 1345,
+            "id": 192,
+            "sentence": 8,
+            "text": "zu",
+            "word": 22
+        },
+        {
+            "charBegin": 1346,
+            "charEnd": 1351,
+            "id": 193,
+            "sentence": 8,
+            "text": "töten",
+            "word": 23
+        },
+        {
+            "charBegin": 1351,
+            "charEnd": 1352,
+            "id": 194,
+            "sentence": 8,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 1353,
+            "charEnd": 1356,
+            "id": 195,
+            "sentence": 9,
+            "text": "Auf",
+            "word": 1
+        },
+        {
+            "charBegin": 1357,
+            "charEnd": 1362,
+            "id": 196,
+            "sentence": 9,
+            "text": "Grund",
+            "word": 2
+        },
+        {
+            "charBegin": 1363,
+            "charEnd": 1371,
+            "id": 197,
+            "sentence": 9,
+            "text": "mehrerer",
+            "word": 3
+        },
+        {
+            "charBegin": 1372,
+            "charEnd": 1379,
+            "id": 198,
+            "sentence": 9,
+            "text": "Zufälle",
+            "word": 4
+        },
+        {
+            "charBegin": 1380,
+            "charEnd": 1388,
+            "id": 199,
+            "sentence": 9,
+            "text": "misslang",
+            "word": 5
+        },
+        {
+            "charBegin": 1389,
+            "charEnd": 1392,
+            "id": 200,
+            "sentence": 9,
+            "text": "das",
+            "word": 6
+        },
+        {
+            "charBegin": 1393,
+            "charEnd": 1401,
+            "id": 201,
+            "sentence": 9,
+            "text": "Attentat",
+            "word": 7
+        },
+        {
+            "charBegin": 1401,
+            "charEnd": 1402,
+            "id": 202,
+            "sentence": 9,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 1403,
+            "charEnd": 1406,
+            "id": 203,
+            "sentence": 10,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1407,
+            "charEnd": 1418,
+            "id": 204,
+            "sentence": 10,
+            "text": "Verschwörer",
+            "word": 2
+        },
+        {
+            "charBegin": 1419,
+            "charEnd": 1425,
+            "id": 205,
+            "sentence": 10,
+            "text": "wurden",
+            "word": 3
+        },
+        {
+            "charBegin": 1426,
+            "charEnd": 1435,
+            "id": 206,
+            "sentence": 10,
+            "text": "daraufhin",
+            "word": 4
+        },
+        {
+            "charBegin": 1436,
+            "charEnd": 1448,
+            "id": 207,
+            "sentence": 10,
+            "text": "hingerichtet",
+            "word": 5
+        },
+        {
+            "charBegin": 1448,
+            "charEnd": 1449,
+            "id": 208,
+            "sentence": 10,
+            "text": ".",
+            "word": 6
+        }
+    ]
+}

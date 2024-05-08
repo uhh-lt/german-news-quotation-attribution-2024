@@ -1,0 +1,1270 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 78,
+                        "charBegin": 488,
+                        "charEnd": 496,
+                        "end": 79
+                    }
+                ],
+                "text": "Anwohner",
+                "tokenIds": [
+                    78
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 77,
+                        "charBegin": 481,
+                        "charEnd": 487,
+                        "end": 78
+                    },
+                    {
+                        "begin": 79,
+                        "charBegin": 497,
+                        "charEnd": 509,
+                        "end": 80
+                    }
+                ],
+                "text": "wurden aufgefordert",
+                "tokenIds": [
+                    77,
+                    79
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 73,
+                        "charBegin": 441,
+                        "charEnd": 509,
+                        "end": 80
+                    }
+                ],
+                "text": "Aufgrund einer starken Rauchentwicklung wurden Anwohner aufgefordert",
+                "tokenIds": [
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 80,
+                        "charBegin": 510,
+                        "charEnd": 549,
+                        "end": 86
+                    }
+                ],
+                "text": "Türen und Fenster geschlossen zu halten",
+                "tokenIds": [
+                    80,
+                    81,
+                    82,
+                    83,
+                    84,
+                    85
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 87,
+                        "charBegin": 551,
+                        "charEnd": 555,
+                        "end": 88
+                    }
+                ],
+                "text": "Laut",
+                "tokenIds": [
+                    87
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 87,
+                        "charBegin": 551,
+                        "charEnd": 577,
+                        "end": 91
+                    }
+                ],
+                "text": "Laut Angaben der Feuerwehr",
+                "tokenIds": [
+                    87,
+                    88,
+                    89,
+                    90
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 91,
+                        "charBegin": 578,
+                        "charEnd": 648,
+                        "end": 101
+                    }
+                ],
+                "text": "habe jedoch keine Gefährdung für die Gesundheit der Anwohner bestanden",
+                "tokenIds": [
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 88,
+                        "charBegin": 556,
+                        "charEnd": 577,
+                        "end": 91
+                    }
+                ],
+                "text": "Angaben der Feuerwehr",
+                "tokenIds": [
+                    88,
+                    89,
+                    90
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "53754 - Großbrand zerstört Möbellager in Hermeskeil (2008-10-27)",
+    "originalText": "Aus bislang ungeklärten Gründen kam es in der Nacht zu Sonntag in einer ehemaligen Möbelfabrik in Hermeskeil (Kreis Trier-Saarburg) zu einem Brandausbruch. Die rund 200 mal 20 Meter große, leerstehende Fabrikhalle brannte dabei völlig aus. Rund 180 Feuerwehrleute und 40 Kräfte des Technischen Hilfswerks waren zum Teil mit Radladern im Einsatz, um das Feuer zu löschen. Der Sachschaden wird auf eine deutlich sechsstellige Höhe geschätzt.\n\nAufgrund einer starken Rauchentwicklung wurden Anwohner aufgefordert Türen und Fenster geschlossen zu halten. Laut Angaben der Feuerwehr habe jedoch keine Gefährdung für die Gesundheit der Anwohner bestanden.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 155,
+            "end": 25,
+            "id": 0,
+            "text": "Aus bislang ungeklärten Gründen kam es in der Nacht zu Sonntag in einer ehemaligen Möbelfabrik in Hermeskeil (Kreis Trier-Saarburg) zu einem Brandausbruch. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24
+            ],
+            "tokens": [
+                "Aus",
+                "bislang",
+                "ungeklärten",
+                "Gründen",
+                "kam",
+                "es",
+                "in",
+                "der",
+                "Nacht",
+                "zu",
+                "Sonntag",
+                "in",
+                "einer",
+                "ehemaligen",
+                "Möbelfabrik",
+                "in",
+                "Hermeskeil",
+                "(",
+                "Kreis",
+                "Trier-Saarburg",
+                ")",
+                "zu",
+                "einem",
+                "Brandausbruch",
+                "."
+            ]
+        },
+        {
+            "begin": 25,
+            "charBegin": 156,
+            "charEnd": 239,
+            "end": 40,
+            "id": 1,
+            "text": "Die rund 200 mal 20 Meter große, leerstehende Fabrikhalle brannte dabei völlig aus. ",
+            "tokenIds": [
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39
+            ],
+            "tokens": [
+                "Die",
+                "rund",
+                "200",
+                "mal",
+                "20",
+                "Meter",
+                "große",
+                ",",
+                "leerstehende",
+                "Fabrikhalle",
+                "brannte",
+                "dabei",
+                "völlig",
+                "aus",
+                "."
+            ]
+        },
+        {
+            "begin": 40,
+            "charBegin": 240,
+            "charEnd": 370,
+            "end": 63,
+            "id": 2,
+            "text": "Rund 180 Feuerwehrleute und 40 Kräfte des Technischen Hilfswerks waren zum Teil mit Radladern im Einsatz, um das Feuer zu löschen. ",
+            "tokenIds": [
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62
+            ],
+            "tokens": [
+                "Rund",
+                "180",
+                "Feuerwehrleute",
+                "und",
+                "40",
+                "Kräfte",
+                "des",
+                "Technischen",
+                "Hilfswerks",
+                "waren",
+                "zum",
+                "Teil",
+                "mit",
+                "Radladern",
+                "im",
+                "Einsatz",
+                ",",
+                "um",
+                "das",
+                "Feuer",
+                "zu",
+                "löschen",
+                "."
+            ]
+        },
+        {
+            "begin": 63,
+            "charBegin": 371,
+            "charEnd": 439,
+            "end": 73,
+            "id": 3,
+            "text": "Der Sachschaden wird auf eine deutlich sechsstellige Höhe geschätzt.",
+            "tokenIds": [
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72
+            ],
+            "tokens": [
+                "Der",
+                "Sachschaden",
+                "wird",
+                "auf",
+                "eine",
+                "deutlich",
+                "sechsstellige",
+                "Höhe",
+                "geschätzt",
+                "."
+            ]
+        },
+        {
+            "begin": 73,
+            "charBegin": 441,
+            "charEnd": 550,
+            "end": 87,
+            "id": 4,
+            "text": "Aufgrund einer starken Rauchentwicklung wurden Anwohner aufgefordert Türen und Fenster geschlossen zu halten. ",
+            "tokenIds": [
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+            ],
+            "tokens": [
+                "Aufgrund",
+                "einer",
+                "starken",
+                "Rauchentwicklung",
+                "wurden",
+                "Anwohner",
+                "aufgefordert",
+                "Türen",
+                "und",
+                "Fenster",
+                "geschlossen",
+                "zu",
+                "halten",
+                "."
+            ]
+        },
+        {
+            "begin": 87,
+            "charBegin": 551,
+            "charEnd": 649,
+            "end": 102,
+            "id": 5,
+            "text": "Laut Angaben der Feuerwehr habe jedoch keine Gefährdung für die Gesundheit der Anwohner bestanden.",
+            "tokenIds": [
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101
+            ],
+            "tokens": [
+                "Laut",
+                "Angaben",
+                "der",
+                "Feuerwehr",
+                "habe",
+                "jedoch",
+                "keine",
+                "Gefährdung",
+                "für",
+                "die",
+                "Gesundheit",
+                "der",
+                "Anwohner",
+                "bestanden",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Aus",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 11,
+            "id": 1,
+            "sentence": 1,
+            "text": "bislang",
+            "word": 2
+        },
+        {
+            "charBegin": 12,
+            "charEnd": 23,
+            "id": 2,
+            "sentence": 1,
+            "text": "ungeklärten",
+            "word": 3
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 31,
+            "id": 3,
+            "sentence": 1,
+            "text": "Gründen",
+            "word": 4
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 35,
+            "id": 4,
+            "sentence": 1,
+            "text": "kam",
+            "word": 5
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 38,
+            "id": 5,
+            "sentence": 1,
+            "text": "es",
+            "word": 6
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 41,
+            "id": 6,
+            "sentence": 1,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 45,
+            "id": 7,
+            "sentence": 1,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 46,
+            "charEnd": 51,
+            "id": 8,
+            "sentence": 1,
+            "text": "Nacht",
+            "word": 9
+        },
+        {
+            "charBegin": 52,
+            "charEnd": 54,
+            "id": 9,
+            "sentence": 1,
+            "text": "zu",
+            "word": 10
+        },
+        {
+            "charBegin": 55,
+            "charEnd": 62,
+            "id": 10,
+            "sentence": 1,
+            "text": "Sonntag",
+            "word": 11
+        },
+        {
+            "charBegin": 63,
+            "charEnd": 65,
+            "id": 11,
+            "sentence": 1,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 66,
+            "charEnd": 71,
+            "id": 12,
+            "sentence": 1,
+            "text": "einer",
+            "word": 13
+        },
+        {
+            "charBegin": 72,
+            "charEnd": 82,
+            "id": 13,
+            "sentence": 1,
+            "text": "ehemaligen",
+            "word": 14
+        },
+        {
+            "charBegin": 83,
+            "charEnd": 94,
+            "id": 14,
+            "sentence": 1,
+            "text": "Möbelfabrik",
+            "word": 15
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 97,
+            "id": 15,
+            "sentence": 1,
+            "text": "in",
+            "word": 16
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 108,
+            "id": 16,
+            "sentence": 1,
+            "text": "Hermeskeil",
+            "word": 17
+        },
+        {
+            "charBegin": 109,
+            "charEnd": 110,
+            "id": 17,
+            "sentence": 1,
+            "text": "(",
+            "word": 18
+        },
+        {
+            "charBegin": 110,
+            "charEnd": 115,
+            "id": 18,
+            "sentence": 1,
+            "text": "Kreis",
+            "word": 19
+        },
+        {
+            "charBegin": 116,
+            "charEnd": 130,
+            "id": 19,
+            "sentence": 1,
+            "text": "Trier-Saarburg",
+            "word": 20
+        },
+        {
+            "charBegin": 130,
+            "charEnd": 131,
+            "id": 20,
+            "sentence": 1,
+            "text": ")",
+            "word": 21
+        },
+        {
+            "charBegin": 132,
+            "charEnd": 134,
+            "id": 21,
+            "sentence": 1,
+            "text": "zu",
+            "word": 22
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 140,
+            "id": 22,
+            "sentence": 1,
+            "text": "einem",
+            "word": 23
+        },
+        {
+            "charBegin": 141,
+            "charEnd": 154,
+            "id": 23,
+            "sentence": 1,
+            "text": "Brandausbruch",
+            "word": 24
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 155,
+            "id": 24,
+            "sentence": 1,
+            "text": ".",
+            "word": 25
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 159,
+            "id": 25,
+            "sentence": 2,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 164,
+            "id": 26,
+            "sentence": 2,
+            "text": "rund",
+            "word": 2
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 168,
+            "id": 27,
+            "sentence": 2,
+            "text": "200",
+            "word": 3
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 172,
+            "id": 28,
+            "sentence": 2,
+            "text": "mal",
+            "word": 4
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 175,
+            "id": 29,
+            "sentence": 2,
+            "text": "20",
+            "word": 5
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 181,
+            "id": 30,
+            "sentence": 2,
+            "text": "Meter",
+            "word": 6
+        },
+        {
+            "charBegin": 182,
+            "charEnd": 187,
+            "id": 31,
+            "sentence": 2,
+            "text": "große",
+            "word": 7
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 188,
+            "id": 32,
+            "sentence": 2,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 201,
+            "id": 33,
+            "sentence": 2,
+            "text": "leerstehende",
+            "word": 9
+        },
+        {
+            "charBegin": 202,
+            "charEnd": 213,
+            "id": 34,
+            "sentence": 2,
+            "text": "Fabrikhalle",
+            "word": 10
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 221,
+            "id": 35,
+            "sentence": 2,
+            "text": "brannte",
+            "word": 11
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 227,
+            "id": 36,
+            "sentence": 2,
+            "text": "dabei",
+            "word": 12
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 234,
+            "id": 37,
+            "sentence": 2,
+            "text": "völlig",
+            "word": 13
+        },
+        {
+            "charBegin": 235,
+            "charEnd": 238,
+            "id": 38,
+            "sentence": 2,
+            "text": "aus",
+            "word": 14
+        },
+        {
+            "charBegin": 238,
+            "charEnd": 239,
+            "id": 39,
+            "sentence": 2,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 244,
+            "id": 40,
+            "sentence": 3,
+            "text": "Rund",
+            "word": 1
+        },
+        {
+            "charBegin": 245,
+            "charEnd": 248,
+            "id": 41,
+            "sentence": 3,
+            "text": "180",
+            "word": 2
+        },
+        {
+            "charBegin": 249,
+            "charEnd": 263,
+            "id": 42,
+            "sentence": 3,
+            "text": "Feuerwehrleute",
+            "word": 3
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 267,
+            "id": 43,
+            "sentence": 3,
+            "text": "und",
+            "word": 4
+        },
+        {
+            "charBegin": 268,
+            "charEnd": 270,
+            "id": 44,
+            "sentence": 3,
+            "text": "40",
+            "word": 5
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 277,
+            "id": 45,
+            "sentence": 3,
+            "text": "Kräfte",
+            "word": 6
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 281,
+            "id": 46,
+            "sentence": 3,
+            "text": "des",
+            "word": 7
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 293,
+            "id": 47,
+            "sentence": 3,
+            "text": "Technischen",
+            "word": 8
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 304,
+            "id": 48,
+            "sentence": 3,
+            "text": "Hilfswerks",
+            "word": 9
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 310,
+            "id": 49,
+            "sentence": 3,
+            "text": "waren",
+            "word": 10
+        },
+        {
+            "charBegin": 311,
+            "charEnd": 314,
+            "id": 50,
+            "sentence": 3,
+            "text": "zum",
+            "word": 11
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 319,
+            "id": 51,
+            "sentence": 3,
+            "text": "Teil",
+            "word": 12
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 323,
+            "id": 52,
+            "sentence": 3,
+            "text": "mit",
+            "word": 13
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 333,
+            "id": 53,
+            "sentence": 3,
+            "text": "Radladern",
+            "word": 14
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 336,
+            "id": 54,
+            "sentence": 3,
+            "text": "im",
+            "word": 15
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 344,
+            "id": 55,
+            "sentence": 3,
+            "text": "Einsatz",
+            "word": 16
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 345,
+            "id": 56,
+            "sentence": 3,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 348,
+            "id": 57,
+            "sentence": 3,
+            "text": "um",
+            "word": 18
+        },
+        {
+            "charBegin": 349,
+            "charEnd": 352,
+            "id": 58,
+            "sentence": 3,
+            "text": "das",
+            "word": 19
+        },
+        {
+            "charBegin": 353,
+            "charEnd": 358,
+            "id": 59,
+            "sentence": 3,
+            "text": "Feuer",
+            "word": 20
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 361,
+            "id": 60,
+            "sentence": 3,
+            "text": "zu",
+            "word": 21
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 369,
+            "id": 61,
+            "sentence": 3,
+            "text": "löschen",
+            "word": 22
+        },
+        {
+            "charBegin": 369,
+            "charEnd": 370,
+            "id": 62,
+            "sentence": 3,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 371,
+            "charEnd": 374,
+            "id": 63,
+            "sentence": 4,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 375,
+            "charEnd": 386,
+            "id": 64,
+            "sentence": 4,
+            "text": "Sachschaden",
+            "word": 2
+        },
+        {
+            "charBegin": 387,
+            "charEnd": 391,
+            "id": 65,
+            "sentence": 4,
+            "text": "wird",
+            "word": 3
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 395,
+            "id": 66,
+            "sentence": 4,
+            "text": "auf",
+            "word": 4
+        },
+        {
+            "charBegin": 396,
+            "charEnd": 400,
+            "id": 67,
+            "sentence": 4,
+            "text": "eine",
+            "word": 5
+        },
+        {
+            "charBegin": 401,
+            "charEnd": 409,
+            "id": 68,
+            "sentence": 4,
+            "text": "deutlich",
+            "word": 6
+        },
+        {
+            "charBegin": 410,
+            "charEnd": 423,
+            "id": 69,
+            "sentence": 4,
+            "text": "sechsstellige",
+            "word": 7
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 428,
+            "id": 70,
+            "sentence": 4,
+            "text": "Höhe",
+            "word": 8
+        },
+        {
+            "charBegin": 429,
+            "charEnd": 438,
+            "id": 71,
+            "sentence": 4,
+            "text": "geschätzt",
+            "word": 9
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 439,
+            "id": 72,
+            "sentence": 4,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 441,
+            "charEnd": 449,
+            "id": 73,
+            "sentence": 5,
+            "text": "Aufgrund",
+            "word": 1
+        },
+        {
+            "charBegin": 450,
+            "charEnd": 455,
+            "id": 74,
+            "sentence": 5,
+            "text": "einer",
+            "word": 2
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 463,
+            "id": 75,
+            "sentence": 5,
+            "text": "starken",
+            "word": 3
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 480,
+            "id": 76,
+            "sentence": 5,
+            "text": "Rauchentwicklung",
+            "word": 4
+        },
+        {
+            "charBegin": 481,
+            "charEnd": 487,
+            "id": 77,
+            "sentence": 5,
+            "text": "wurden",
+            "word": 5
+        },
+        {
+            "charBegin": 488,
+            "charEnd": 496,
+            "id": 78,
+            "sentence": 5,
+            "text": "Anwohner",
+            "word": 6
+        },
+        {
+            "charBegin": 497,
+            "charEnd": 509,
+            "id": 79,
+            "sentence": 5,
+            "text": "aufgefordert",
+            "word": 7
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 515,
+            "id": 80,
+            "sentence": 5,
+            "text": "Türen",
+            "word": 8
+        },
+        {
+            "charBegin": 516,
+            "charEnd": 519,
+            "id": 81,
+            "sentence": 5,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 520,
+            "charEnd": 527,
+            "id": 82,
+            "sentence": 5,
+            "text": "Fenster",
+            "word": 10
+        },
+        {
+            "charBegin": 528,
+            "charEnd": 539,
+            "id": 83,
+            "sentence": 5,
+            "text": "geschlossen",
+            "word": 11
+        },
+        {
+            "charBegin": 540,
+            "charEnd": 542,
+            "id": 84,
+            "sentence": 5,
+            "text": "zu",
+            "word": 12
+        },
+        {
+            "charBegin": 543,
+            "charEnd": 549,
+            "id": 85,
+            "sentence": 5,
+            "text": "halten",
+            "word": 13
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 550,
+            "id": 86,
+            "sentence": 5,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 551,
+            "charEnd": 555,
+            "id": 87,
+            "sentence": 6,
+            "text": "Laut",
+            "word": 1
+        },
+        {
+            "charBegin": 556,
+            "charEnd": 563,
+            "id": 88,
+            "sentence": 6,
+            "text": "Angaben",
+            "word": 2
+        },
+        {
+            "charBegin": 564,
+            "charEnd": 567,
+            "id": 89,
+            "sentence": 6,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 568,
+            "charEnd": 577,
+            "id": 90,
+            "sentence": 6,
+            "text": "Feuerwehr",
+            "word": 4
+        },
+        {
+            "charBegin": 578,
+            "charEnd": 582,
+            "id": 91,
+            "sentence": 6,
+            "text": "habe",
+            "word": 5
+        },
+        {
+            "charBegin": 583,
+            "charEnd": 589,
+            "id": 92,
+            "sentence": 6,
+            "text": "jedoch",
+            "word": 6
+        },
+        {
+            "charBegin": 590,
+            "charEnd": 595,
+            "id": 93,
+            "sentence": 6,
+            "text": "keine",
+            "word": 7
+        },
+        {
+            "charBegin": 596,
+            "charEnd": 606,
+            "id": 94,
+            "sentence": 6,
+            "text": "Gefährdung",
+            "word": 8
+        },
+        {
+            "charBegin": 607,
+            "charEnd": 610,
+            "id": 95,
+            "sentence": 6,
+            "text": "für",
+            "word": 9
+        },
+        {
+            "charBegin": 611,
+            "charEnd": 614,
+            "id": 96,
+            "sentence": 6,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 625,
+            "id": 97,
+            "sentence": 6,
+            "text": "Gesundheit",
+            "word": 11
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 629,
+            "id": 98,
+            "sentence": 6,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 630,
+            "charEnd": 638,
+            "id": 99,
+            "sentence": 6,
+            "text": "Anwohner",
+            "word": 13
+        },
+        {
+            "charBegin": 639,
+            "charEnd": 648,
+            "id": 100,
+            "sentence": 6,
+            "text": "bestanden",
+            "word": 14
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 649,
+            "id": 101,
+            "sentence": 6,
+            "text": ".",
+            "word": 15
+        }
+    ]
+}

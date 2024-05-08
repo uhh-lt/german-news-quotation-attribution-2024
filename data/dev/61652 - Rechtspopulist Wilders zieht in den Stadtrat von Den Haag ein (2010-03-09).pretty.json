@@ -1,0 +1,1992 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 6,
+                        "charBegin": 54,
+                        "charEnd": 58,
+                        "end": 7
+                    }
+                ],
+                "text": "nach",
+                "tokenIds": [
+                    6
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 6,
+                        "charBegin": 54,
+                        "charEnd": 102,
+                        "end": 14
+                    }
+                ],
+                "text": "nach Aussage einer Sprecherin der Stadt Den Haag",
+                "tokenIds": [
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 53,
+                        "end": 6
+                    },
+                    {
+                        "begin": 14,
+                        "charBegin": 103,
+                        "charEnd": 152,
+                        "end": 20
+                    }
+                ],
+                "text": "Der rechtspopulistische Politiker Geert Wilders zieht als Abgeordneter ins kommunale Stadtparlament ein",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 7,
+                        "charBegin": 59,
+                        "charEnd": 102,
+                        "end": 14
+                    }
+                ],
+                "text": "Aussage einer Sprecherin der Stadt Den Haag",
+                "tokenIds": [
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "61652 - Rechtspopulist Wilders zieht in den Stadtrat von Den Haag ein (2010-03-09)",
+    "originalText": "Der rechtspopulistische Politiker Geert Wilders zieht nach Aussage einer Sprecherin der Stadt Den Haag als Abgeordneter ins kommunale Stadtparlament ein. \n\nDie „Partij voor de Vrijheid“ (PVV) (Partei für die Freiheit), der Wilders vorsteht, erzielte bei der Kommunalwahl in Den Haag Anfang März einen Stimmenanteil von fast 17 Prozent. Wilders war von seiner Partei auf einem der vorderen Listenplätze aufgestellt worden. \n\nAußer in Den Haag war die PVV allerdings nur noch in Almere, einer in der Nähe von Amsterdam gelegenen Stadt mit 187.000 Einwohnern, angetreten. In dieser Stadt wurde die PVV, die zum ersten Mal bei einer Kommunalwahl kandidiert hatte, auf Anhieb stärkste politische Kraft.\n\nDie nächste politische Bewährungsprobe, die für die Weichenstellung innerhalb der Niederlande von Bedeutung ist, ist die Parlamentswahl im Juni, bei der die PVV ebenfalls ihre Kandidatur angekündigt hat. Die Parlamentswahl war nötig geworden, weil die Mitte-Links-Regierung unter Jan-Peter Balkenende am 20. Februar 2010 an der Haltung zu dem Militäreinsatz in Afghanistan auseinandergebrochen war.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 153,
+            "end": 21,
+            "id": 0,
+            "text": "Der rechtspopulistische Politiker Geert Wilders zieht nach Aussage einer Sprecherin der Stadt Den Haag als Abgeordneter ins kommunale Stadtparlament ein. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "Der",
+                "rechtspopulistische",
+                "Politiker",
+                "Geert",
+                "Wilders",
+                "zieht",
+                "nach",
+                "Aussage",
+                "einer",
+                "Sprecherin",
+                "der",
+                "Stadt",
+                "Den",
+                "Haag",
+                "als",
+                "Abgeordneter",
+                "ins",
+                "kommunale",
+                "Stadtparlament",
+                "ein",
+                "."
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 156,
+            "charEnd": 335,
+            "end": 58,
+            "id": 1,
+            "text": "Die „Partij voor de Vrijheid“ (PVV) (Partei für die Freiheit), der Wilders vorsteht, erzielte bei der Kommunalwahl in Den Haag Anfang März einen Stimmenanteil von fast 17 Prozent. ",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57
+            ],
+            "tokens": [
+                "Die",
+                "„",
+                "Partij",
+                "voor",
+                "de",
+                "Vrijheid",
+                "“",
+                "(",
+                "PVV",
+                ")",
+                "(",
+                "Partei",
+                "für",
+                "die",
+                "Freiheit",
+                ")",
+                ",",
+                "der",
+                "Wilders",
+                "vorsteht",
+                ",",
+                "erzielte",
+                "bei",
+                "der",
+                "Kommunalwahl",
+                "in",
+                "Den",
+                "Haag",
+                "Anfang",
+                "März",
+                "einen",
+                "Stimmenanteil",
+                "von",
+                "fast",
+                "17",
+                "Prozent",
+                "."
+            ]
+        },
+        {
+            "begin": 58,
+            "charBegin": 336,
+            "charEnd": 421,
+            "end": 71,
+            "id": 2,
+            "text": "Wilders war von seiner Partei auf einem der vorderen Listenplätze aufgestellt worden. ",
+            "tokenIds": [
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70
+            ],
+            "tokens": [
+                "Wilders",
+                "war",
+                "von",
+                "seiner",
+                "Partei",
+                "auf",
+                "einem",
+                "der",
+                "vorderen",
+                "Listenplätze",
+                "aufgestellt",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "begin": 71,
+            "charBegin": 424,
+            "charEnd": 568,
+            "end": 98,
+            "id": 3,
+            "text": "Außer in Den Haag war die PVV allerdings nur noch in Almere, einer in der Nähe von Amsterdam gelegenen Stadt mit 187.000 Einwohnern, angetreten. ",
+            "tokenIds": [
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97
+            ],
+            "tokens": [
+                "Außer",
+                "in",
+                "Den",
+                "Haag",
+                "war",
+                "die",
+                "PVV",
+                "allerdings",
+                "nur",
+                "noch",
+                "in",
+                "Almere",
+                ",",
+                "einer",
+                "in",
+                "der",
+                "Nähe",
+                "von",
+                "Amsterdam",
+                "gelegenen",
+                "Stadt",
+                "mit",
+                "187.000",
+                "Einwohnern",
+                ",",
+                "angetreten",
+                "."
+            ]
+        },
+        {
+            "begin": 98,
+            "charBegin": 569,
+            "charEnd": 697,
+            "end": 121,
+            "id": 4,
+            "text": "In dieser Stadt wurde die PVV, die zum ersten Mal bei einer Kommunalwahl kandidiert hatte, auf Anhieb stärkste politische Kraft.",
+            "tokenIds": [
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ],
+            "tokens": [
+                "In",
+                "dieser",
+                "Stadt",
+                "wurde",
+                "die",
+                "PVV",
+                ",",
+                "die",
+                "zum",
+                "ersten",
+                "Mal",
+                "bei",
+                "einer",
+                "Kommunalwahl",
+                "kandidiert",
+                "hatte",
+                ",",
+                "auf",
+                "Anhieb",
+                "stärkste",
+                "politische",
+                "Kraft",
+                "."
+            ]
+        },
+        {
+            "begin": 121,
+            "charBegin": 699,
+            "charEnd": 902,
+            "end": 153,
+            "id": 5,
+            "text": "Die nächste politische Bewährungsprobe, die für die Weichenstellung innerhalb der Niederlande von Bedeutung ist, ist die Parlamentswahl im Juni, bei der die PVV ebenfalls ihre Kandidatur angekündigt hat. ",
+            "tokenIds": [
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152
+            ],
+            "tokens": [
+                "Die",
+                "nächste",
+                "politische",
+                "Bewährungsprobe",
+                ",",
+                "die",
+                "für",
+                "die",
+                "Weichenstellung",
+                "innerhalb",
+                "der",
+                "Niederlande",
+                "von",
+                "Bedeutung",
+                "ist",
+                ",",
+                "ist",
+                "die",
+                "Parlamentswahl",
+                "im",
+                "Juni",
+                ",",
+                "bei",
+                "der",
+                "die",
+                "PVV",
+                "ebenfalls",
+                "ihre",
+                "Kandidatur",
+                "angekündigt",
+                "hat",
+                "."
+            ]
+        },
+        {
+            "begin": 153,
+            "charBegin": 903,
+            "charEnd": 1097,
+            "end": 180,
+            "id": 6,
+            "text": "Die Parlamentswahl war nötig geworden, weil die Mitte-Links-Regierung unter Jan-Peter Balkenende am 20. Februar 2010 an der Haltung zu dem Militäreinsatz in Afghanistan auseinandergebrochen war.",
+            "tokenIds": [
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179
+            ],
+            "tokens": [
+                "Die",
+                "Parlamentswahl",
+                "war",
+                "nötig",
+                "geworden",
+                ",",
+                "weil",
+                "die",
+                "Mitte-Links-Regierung",
+                "unter",
+                "Jan-Peter",
+                "Balkenende",
+                "am",
+                "20.",
+                "Februar",
+                "2010",
+                "an",
+                "der",
+                "Haltung",
+                "zu",
+                "dem",
+                "Militäreinsatz",
+                "in",
+                "Afghanistan",
+                "auseinandergebrochen",
+                "war",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 23,
+            "id": 1,
+            "sentence": 1,
+            "text": "rechtspopulistische",
+            "word": 2
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 33,
+            "id": 2,
+            "sentence": 1,
+            "text": "Politiker",
+            "word": 3
+        },
+        {
+            "charBegin": 34,
+            "charEnd": 39,
+            "id": 3,
+            "sentence": 1,
+            "text": "Geert",
+            "word": 4
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 47,
+            "id": 4,
+            "sentence": 1,
+            "text": "Wilders",
+            "word": 5
+        },
+        {
+            "charBegin": 48,
+            "charEnd": 53,
+            "id": 5,
+            "sentence": 1,
+            "text": "zieht",
+            "word": 6
+        },
+        {
+            "charBegin": 54,
+            "charEnd": 58,
+            "id": 6,
+            "sentence": 1,
+            "text": "nach",
+            "word": 7
+        },
+        {
+            "charBegin": 59,
+            "charEnd": 66,
+            "id": 7,
+            "sentence": 1,
+            "text": "Aussage",
+            "word": 8
+        },
+        {
+            "charBegin": 67,
+            "charEnd": 72,
+            "id": 8,
+            "sentence": 1,
+            "text": "einer",
+            "word": 9
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 83,
+            "id": 9,
+            "sentence": 1,
+            "text": "Sprecherin",
+            "word": 10
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 87,
+            "id": 10,
+            "sentence": 1,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 88,
+            "charEnd": 93,
+            "id": 11,
+            "sentence": 1,
+            "text": "Stadt",
+            "word": 12
+        },
+        {
+            "charBegin": 94,
+            "charEnd": 97,
+            "id": 12,
+            "sentence": 1,
+            "text": "Den",
+            "word": 13
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 102,
+            "id": 13,
+            "sentence": 1,
+            "text": "Haag",
+            "word": 14
+        },
+        {
+            "charBegin": 103,
+            "charEnd": 106,
+            "id": 14,
+            "sentence": 1,
+            "text": "als",
+            "word": 15
+        },
+        {
+            "charBegin": 107,
+            "charEnd": 119,
+            "id": 15,
+            "sentence": 1,
+            "text": "Abgeordneter",
+            "word": 16
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 123,
+            "id": 16,
+            "sentence": 1,
+            "text": "ins",
+            "word": 17
+        },
+        {
+            "charBegin": 124,
+            "charEnd": 133,
+            "id": 17,
+            "sentence": 1,
+            "text": "kommunale",
+            "word": 18
+        },
+        {
+            "charBegin": 134,
+            "charEnd": 148,
+            "id": 18,
+            "sentence": 1,
+            "text": "Stadtparlament",
+            "word": 19
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 152,
+            "id": 19,
+            "sentence": 1,
+            "text": "ein",
+            "word": 20
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 153,
+            "id": 20,
+            "sentence": 1,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 159,
+            "id": 21,
+            "sentence": 2,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 161,
+            "id": 22,
+            "sentence": 2,
+            "text": "„",
+            "word": 2
+        },
+        {
+            "charBegin": 161,
+            "charEnd": 167,
+            "id": 23,
+            "sentence": 2,
+            "text": "Partij",
+            "word": 3
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 172,
+            "id": 24,
+            "sentence": 2,
+            "text": "voor",
+            "word": 4
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 175,
+            "id": 25,
+            "sentence": 2,
+            "text": "de",
+            "word": 5
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 184,
+            "id": 26,
+            "sentence": 2,
+            "text": "Vrijheid",
+            "word": 6
+        },
+        {
+            "charBegin": 184,
+            "charEnd": 185,
+            "id": 27,
+            "sentence": 2,
+            "text": "“",
+            "word": 7
+        },
+        {
+            "charBegin": 186,
+            "charEnd": 187,
+            "id": 28,
+            "sentence": 2,
+            "text": "(",
+            "word": 8
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 190,
+            "id": 29,
+            "sentence": 2,
+            "text": "PVV",
+            "word": 9
+        },
+        {
+            "charBegin": 190,
+            "charEnd": 191,
+            "id": 30,
+            "sentence": 2,
+            "text": ")",
+            "word": 10
+        },
+        {
+            "charBegin": 192,
+            "charEnd": 193,
+            "id": 31,
+            "sentence": 2,
+            "text": "(",
+            "word": 11
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 199,
+            "id": 32,
+            "sentence": 2,
+            "text": "Partei",
+            "word": 12
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 203,
+            "id": 33,
+            "sentence": 2,
+            "text": "für",
+            "word": 13
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 207,
+            "id": 34,
+            "sentence": 2,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 208,
+            "charEnd": 216,
+            "id": 35,
+            "sentence": 2,
+            "text": "Freiheit",
+            "word": 15
+        },
+        {
+            "charBegin": 216,
+            "charEnd": 217,
+            "id": 36,
+            "sentence": 2,
+            "text": ")",
+            "word": 16
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 218,
+            "id": 37,
+            "sentence": 2,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 219,
+            "charEnd": 222,
+            "id": 38,
+            "sentence": 2,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 230,
+            "id": 39,
+            "sentence": 2,
+            "text": "Wilders",
+            "word": 19
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 239,
+            "id": 40,
+            "sentence": 2,
+            "text": "vorsteht",
+            "word": 20
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 240,
+            "id": 41,
+            "sentence": 2,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 241,
+            "charEnd": 249,
+            "id": 42,
+            "sentence": 2,
+            "text": "erzielte",
+            "word": 22
+        },
+        {
+            "charBegin": 250,
+            "charEnd": 253,
+            "id": 43,
+            "sentence": 2,
+            "text": "bei",
+            "word": 23
+        },
+        {
+            "charBegin": 254,
+            "charEnd": 257,
+            "id": 44,
+            "sentence": 2,
+            "text": "der",
+            "word": 24
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 270,
+            "id": 45,
+            "sentence": 2,
+            "text": "Kommunalwahl",
+            "word": 25
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 273,
+            "id": 46,
+            "sentence": 2,
+            "text": "in",
+            "word": 26
+        },
+        {
+            "charBegin": 274,
+            "charEnd": 277,
+            "id": 47,
+            "sentence": 2,
+            "text": "Den",
+            "word": 27
+        },
+        {
+            "charBegin": 278,
+            "charEnd": 282,
+            "id": 48,
+            "sentence": 2,
+            "text": "Haag",
+            "word": 28
+        },
+        {
+            "charBegin": 283,
+            "charEnd": 289,
+            "id": 49,
+            "sentence": 2,
+            "text": "Anfang",
+            "word": 29
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 294,
+            "id": 50,
+            "sentence": 2,
+            "text": "März",
+            "word": 30
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 300,
+            "id": 51,
+            "sentence": 2,
+            "text": "einen",
+            "word": 31
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 314,
+            "id": 52,
+            "sentence": 2,
+            "text": "Stimmenanteil",
+            "word": 32
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 318,
+            "id": 53,
+            "sentence": 2,
+            "text": "von",
+            "word": 33
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 323,
+            "id": 54,
+            "sentence": 2,
+            "text": "fast",
+            "word": 34
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 326,
+            "id": 55,
+            "sentence": 2,
+            "text": "17",
+            "word": 35
+        },
+        {
+            "charBegin": 327,
+            "charEnd": 334,
+            "id": 56,
+            "sentence": 2,
+            "text": "Prozent",
+            "word": 36
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 335,
+            "id": 57,
+            "sentence": 2,
+            "text": ".",
+            "word": 37
+        },
+        {
+            "charBegin": 336,
+            "charEnd": 343,
+            "id": 58,
+            "sentence": 3,
+            "text": "Wilders",
+            "word": 1
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 347,
+            "id": 59,
+            "sentence": 3,
+            "text": "war",
+            "word": 2
+        },
+        {
+            "charBegin": 348,
+            "charEnd": 351,
+            "id": 60,
+            "sentence": 3,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 352,
+            "charEnd": 358,
+            "id": 61,
+            "sentence": 3,
+            "text": "seiner",
+            "word": 4
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 365,
+            "id": 62,
+            "sentence": 3,
+            "text": "Partei",
+            "word": 5
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 369,
+            "id": 63,
+            "sentence": 3,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 370,
+            "charEnd": 375,
+            "id": 64,
+            "sentence": 3,
+            "text": "einem",
+            "word": 7
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 379,
+            "id": 65,
+            "sentence": 3,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 380,
+            "charEnd": 388,
+            "id": 66,
+            "sentence": 3,
+            "text": "vorderen",
+            "word": 9
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 401,
+            "id": 67,
+            "sentence": 3,
+            "text": "Listenplätze",
+            "word": 10
+        },
+        {
+            "charBegin": 402,
+            "charEnd": 413,
+            "id": 68,
+            "sentence": 3,
+            "text": "aufgestellt",
+            "word": 11
+        },
+        {
+            "charBegin": 414,
+            "charEnd": 420,
+            "id": 69,
+            "sentence": 3,
+            "text": "worden",
+            "word": 12
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 421,
+            "id": 70,
+            "sentence": 3,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 429,
+            "id": 71,
+            "sentence": 4,
+            "text": "Außer",
+            "word": 1
+        },
+        {
+            "charBegin": 430,
+            "charEnd": 432,
+            "id": 72,
+            "sentence": 4,
+            "text": "in",
+            "word": 2
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 436,
+            "id": 73,
+            "sentence": 4,
+            "text": "Den",
+            "word": 3
+        },
+        {
+            "charBegin": 437,
+            "charEnd": 441,
+            "id": 74,
+            "sentence": 4,
+            "text": "Haag",
+            "word": 4
+        },
+        {
+            "charBegin": 442,
+            "charEnd": 445,
+            "id": 75,
+            "sentence": 4,
+            "text": "war",
+            "word": 5
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 449,
+            "id": 76,
+            "sentence": 4,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 450,
+            "charEnd": 453,
+            "id": 77,
+            "sentence": 4,
+            "text": "PVV",
+            "word": 7
+        },
+        {
+            "charBegin": 454,
+            "charEnd": 464,
+            "id": 78,
+            "sentence": 4,
+            "text": "allerdings",
+            "word": 8
+        },
+        {
+            "charBegin": 465,
+            "charEnd": 468,
+            "id": 79,
+            "sentence": 4,
+            "text": "nur",
+            "word": 9
+        },
+        {
+            "charBegin": 469,
+            "charEnd": 473,
+            "id": 80,
+            "sentence": 4,
+            "text": "noch",
+            "word": 10
+        },
+        {
+            "charBegin": 474,
+            "charEnd": 476,
+            "id": 81,
+            "sentence": 4,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 483,
+            "id": 82,
+            "sentence": 4,
+            "text": "Almere",
+            "word": 12
+        },
+        {
+            "charBegin": 483,
+            "charEnd": 484,
+            "id": 83,
+            "sentence": 4,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 485,
+            "charEnd": 490,
+            "id": 84,
+            "sentence": 4,
+            "text": "einer",
+            "word": 14
+        },
+        {
+            "charBegin": 491,
+            "charEnd": 493,
+            "id": 85,
+            "sentence": 4,
+            "text": "in",
+            "word": 15
+        },
+        {
+            "charBegin": 494,
+            "charEnd": 497,
+            "id": 86,
+            "sentence": 4,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 498,
+            "charEnd": 502,
+            "id": 87,
+            "sentence": 4,
+            "text": "Nähe",
+            "word": 17
+        },
+        {
+            "charBegin": 503,
+            "charEnd": 506,
+            "id": 88,
+            "sentence": 4,
+            "text": "von",
+            "word": 18
+        },
+        {
+            "charBegin": 507,
+            "charEnd": 516,
+            "id": 89,
+            "sentence": 4,
+            "text": "Amsterdam",
+            "word": 19
+        },
+        {
+            "charBegin": 517,
+            "charEnd": 526,
+            "id": 90,
+            "sentence": 4,
+            "text": "gelegenen",
+            "word": 20
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 532,
+            "id": 91,
+            "sentence": 4,
+            "text": "Stadt",
+            "word": 21
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 536,
+            "id": 92,
+            "sentence": 4,
+            "text": "mit",
+            "word": 22
+        },
+        {
+            "charBegin": 537,
+            "charEnd": 544,
+            "id": 93,
+            "sentence": 4,
+            "text": "187.000",
+            "word": 23
+        },
+        {
+            "charBegin": 545,
+            "charEnd": 555,
+            "id": 94,
+            "sentence": 4,
+            "text": "Einwohnern",
+            "word": 24
+        },
+        {
+            "charBegin": 555,
+            "charEnd": 556,
+            "id": 95,
+            "sentence": 4,
+            "text": ",",
+            "word": 25
+        },
+        {
+            "charBegin": 557,
+            "charEnd": 567,
+            "id": 96,
+            "sentence": 4,
+            "text": "angetreten",
+            "word": 26
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 568,
+            "id": 97,
+            "sentence": 4,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 571,
+            "id": 98,
+            "sentence": 5,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 572,
+            "charEnd": 578,
+            "id": 99,
+            "sentence": 5,
+            "text": "dieser",
+            "word": 2
+        },
+        {
+            "charBegin": 579,
+            "charEnd": 584,
+            "id": 100,
+            "sentence": 5,
+            "text": "Stadt",
+            "word": 3
+        },
+        {
+            "charBegin": 585,
+            "charEnd": 590,
+            "id": 101,
+            "sentence": 5,
+            "text": "wurde",
+            "word": 4
+        },
+        {
+            "charBegin": 591,
+            "charEnd": 594,
+            "id": 102,
+            "sentence": 5,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 595,
+            "charEnd": 598,
+            "id": 103,
+            "sentence": 5,
+            "text": "PVV",
+            "word": 6
+        },
+        {
+            "charBegin": 598,
+            "charEnd": 599,
+            "id": 104,
+            "sentence": 5,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 600,
+            "charEnd": 603,
+            "id": 105,
+            "sentence": 5,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 604,
+            "charEnd": 607,
+            "id": 106,
+            "sentence": 5,
+            "text": "zum",
+            "word": 9
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 614,
+            "id": 107,
+            "sentence": 5,
+            "text": "ersten",
+            "word": 10
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 618,
+            "id": 108,
+            "sentence": 5,
+            "text": "Mal",
+            "word": 11
+        },
+        {
+            "charBegin": 619,
+            "charEnd": 622,
+            "id": 109,
+            "sentence": 5,
+            "text": "bei",
+            "word": 12
+        },
+        {
+            "charBegin": 623,
+            "charEnd": 628,
+            "id": 110,
+            "sentence": 5,
+            "text": "einer",
+            "word": 13
+        },
+        {
+            "charBegin": 629,
+            "charEnd": 641,
+            "id": 111,
+            "sentence": 5,
+            "text": "Kommunalwahl",
+            "word": 14
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 652,
+            "id": 112,
+            "sentence": 5,
+            "text": "kandidiert",
+            "word": 15
+        },
+        {
+            "charBegin": 653,
+            "charEnd": 658,
+            "id": 113,
+            "sentence": 5,
+            "text": "hatte",
+            "word": 16
+        },
+        {
+            "charBegin": 658,
+            "charEnd": 659,
+            "id": 114,
+            "sentence": 5,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 660,
+            "charEnd": 663,
+            "id": 115,
+            "sentence": 5,
+            "text": "auf",
+            "word": 18
+        },
+        {
+            "charBegin": 664,
+            "charEnd": 670,
+            "id": 116,
+            "sentence": 5,
+            "text": "Anhieb",
+            "word": 19
+        },
+        {
+            "charBegin": 671,
+            "charEnd": 679,
+            "id": 117,
+            "sentence": 5,
+            "text": "stärkste",
+            "word": 20
+        },
+        {
+            "charBegin": 680,
+            "charEnd": 690,
+            "id": 118,
+            "sentence": 5,
+            "text": "politische",
+            "word": 21
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 696,
+            "id": 119,
+            "sentence": 5,
+            "text": "Kraft",
+            "word": 22
+        },
+        {
+            "charBegin": 696,
+            "charEnd": 697,
+            "id": 120,
+            "sentence": 5,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 702,
+            "id": 121,
+            "sentence": 6,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 710,
+            "id": 122,
+            "sentence": 6,
+            "text": "nächste",
+            "word": 2
+        },
+        {
+            "charBegin": 711,
+            "charEnd": 721,
+            "id": 123,
+            "sentence": 6,
+            "text": "politische",
+            "word": 3
+        },
+        {
+            "charBegin": 722,
+            "charEnd": 737,
+            "id": 124,
+            "sentence": 6,
+            "text": "Bewährungsprobe",
+            "word": 4
+        },
+        {
+            "charBegin": 737,
+            "charEnd": 738,
+            "id": 125,
+            "sentence": 6,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 742,
+            "id": 126,
+            "sentence": 6,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 743,
+            "charEnd": 746,
+            "id": 127,
+            "sentence": 6,
+            "text": "für",
+            "word": 7
+        },
+        {
+            "charBegin": 747,
+            "charEnd": 750,
+            "id": 128,
+            "sentence": 6,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 751,
+            "charEnd": 766,
+            "id": 129,
+            "sentence": 6,
+            "text": "Weichenstellung",
+            "word": 9
+        },
+        {
+            "charBegin": 767,
+            "charEnd": 776,
+            "id": 130,
+            "sentence": 6,
+            "text": "innerhalb",
+            "word": 10
+        },
+        {
+            "charBegin": 777,
+            "charEnd": 780,
+            "id": 131,
+            "sentence": 6,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 781,
+            "charEnd": 792,
+            "id": 132,
+            "sentence": 6,
+            "text": "Niederlande",
+            "word": 12
+        },
+        {
+            "charBegin": 793,
+            "charEnd": 796,
+            "id": 133,
+            "sentence": 6,
+            "text": "von",
+            "word": 13
+        },
+        {
+            "charBegin": 797,
+            "charEnd": 806,
+            "id": 134,
+            "sentence": 6,
+            "text": "Bedeutung",
+            "word": 14
+        },
+        {
+            "charBegin": 807,
+            "charEnd": 810,
+            "id": 135,
+            "sentence": 6,
+            "text": "ist",
+            "word": 15
+        },
+        {
+            "charBegin": 810,
+            "charEnd": 811,
+            "id": 136,
+            "sentence": 6,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 812,
+            "charEnd": 815,
+            "id": 137,
+            "sentence": 6,
+            "text": "ist",
+            "word": 17
+        },
+        {
+            "charBegin": 816,
+            "charEnd": 819,
+            "id": 138,
+            "sentence": 6,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 820,
+            "charEnd": 834,
+            "id": 139,
+            "sentence": 6,
+            "text": "Parlamentswahl",
+            "word": 19
+        },
+        {
+            "charBegin": 835,
+            "charEnd": 837,
+            "id": 140,
+            "sentence": 6,
+            "text": "im",
+            "word": 20
+        },
+        {
+            "charBegin": 838,
+            "charEnd": 842,
+            "id": 141,
+            "sentence": 6,
+            "text": "Juni",
+            "word": 21
+        },
+        {
+            "charBegin": 842,
+            "charEnd": 843,
+            "id": 142,
+            "sentence": 6,
+            "text": ",",
+            "word": 22
+        },
+        {
+            "charBegin": 844,
+            "charEnd": 847,
+            "id": 143,
+            "sentence": 6,
+            "text": "bei",
+            "word": 23
+        },
+        {
+            "charBegin": 848,
+            "charEnd": 851,
+            "id": 144,
+            "sentence": 6,
+            "text": "der",
+            "word": 24
+        },
+        {
+            "charBegin": 852,
+            "charEnd": 855,
+            "id": 145,
+            "sentence": 6,
+            "text": "die",
+            "word": 25
+        },
+        {
+            "charBegin": 856,
+            "charEnd": 859,
+            "id": 146,
+            "sentence": 6,
+            "text": "PVV",
+            "word": 26
+        },
+        {
+            "charBegin": 860,
+            "charEnd": 869,
+            "id": 147,
+            "sentence": 6,
+            "text": "ebenfalls",
+            "word": 27
+        },
+        {
+            "charBegin": 870,
+            "charEnd": 874,
+            "id": 148,
+            "sentence": 6,
+            "text": "ihre",
+            "word": 28
+        },
+        {
+            "charBegin": 875,
+            "charEnd": 885,
+            "id": 149,
+            "sentence": 6,
+            "text": "Kandidatur",
+            "word": 29
+        },
+        {
+            "charBegin": 886,
+            "charEnd": 897,
+            "id": 150,
+            "sentence": 6,
+            "text": "angekündigt",
+            "word": 30
+        },
+        {
+            "charBegin": 898,
+            "charEnd": 901,
+            "id": 151,
+            "sentence": 6,
+            "text": "hat",
+            "word": 31
+        },
+        {
+            "charBegin": 901,
+            "charEnd": 902,
+            "id": 152,
+            "sentence": 6,
+            "text": ".",
+            "word": 32
+        },
+        {
+            "charBegin": 903,
+            "charEnd": 906,
+            "id": 153,
+            "sentence": 7,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 907,
+            "charEnd": 921,
+            "id": 154,
+            "sentence": 7,
+            "text": "Parlamentswahl",
+            "word": 2
+        },
+        {
+            "charBegin": 922,
+            "charEnd": 925,
+            "id": 155,
+            "sentence": 7,
+            "text": "war",
+            "word": 3
+        },
+        {
+            "charBegin": 926,
+            "charEnd": 931,
+            "id": 156,
+            "sentence": 7,
+            "text": "nötig",
+            "word": 4
+        },
+        {
+            "charBegin": 932,
+            "charEnd": 940,
+            "id": 157,
+            "sentence": 7,
+            "text": "geworden",
+            "word": 5
+        },
+        {
+            "charBegin": 940,
+            "charEnd": 941,
+            "id": 158,
+            "sentence": 7,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 942,
+            "charEnd": 946,
+            "id": 159,
+            "sentence": 7,
+            "text": "weil",
+            "word": 7
+        },
+        {
+            "charBegin": 947,
+            "charEnd": 950,
+            "id": 160,
+            "sentence": 7,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 951,
+            "charEnd": 972,
+            "id": 161,
+            "sentence": 7,
+            "text": "Mitte-Links-Regierung",
+            "word": 9
+        },
+        {
+            "charBegin": 973,
+            "charEnd": 978,
+            "id": 162,
+            "sentence": 7,
+            "text": "unter",
+            "word": 10
+        },
+        {
+            "charBegin": 979,
+            "charEnd": 988,
+            "id": 163,
+            "sentence": 7,
+            "text": "Jan-Peter",
+            "word": 11
+        },
+        {
+            "charBegin": 989,
+            "charEnd": 999,
+            "id": 164,
+            "sentence": 7,
+            "text": "Balkenende",
+            "word": 12
+        },
+        {
+            "charBegin": 1000,
+            "charEnd": 1002,
+            "id": 165,
+            "sentence": 7,
+            "text": "am",
+            "word": 13
+        },
+        {
+            "charBegin": 1003,
+            "charEnd": 1006,
+            "id": 166,
+            "sentence": 7,
+            "text": "20.",
+            "word": 14
+        },
+        {
+            "charBegin": 1007,
+            "charEnd": 1014,
+            "id": 167,
+            "sentence": 7,
+            "text": "Februar",
+            "word": 15
+        },
+        {
+            "charBegin": 1015,
+            "charEnd": 1019,
+            "id": 168,
+            "sentence": 7,
+            "text": "2010",
+            "word": 16
+        },
+        {
+            "charBegin": 1020,
+            "charEnd": 1022,
+            "id": 169,
+            "sentence": 7,
+            "text": "an",
+            "word": 17
+        },
+        {
+            "charBegin": 1023,
+            "charEnd": 1026,
+            "id": 170,
+            "sentence": 7,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 1027,
+            "charEnd": 1034,
+            "id": 171,
+            "sentence": 7,
+            "text": "Haltung",
+            "word": 19
+        },
+        {
+            "charBegin": 1035,
+            "charEnd": 1037,
+            "id": 172,
+            "sentence": 7,
+            "text": "zu",
+            "word": 20
+        },
+        {
+            "charBegin": 1038,
+            "charEnd": 1041,
+            "id": 173,
+            "sentence": 7,
+            "text": "dem",
+            "word": 21
+        },
+        {
+            "charBegin": 1042,
+            "charEnd": 1056,
+            "id": 174,
+            "sentence": 7,
+            "text": "Militäreinsatz",
+            "word": 22
+        },
+        {
+            "charBegin": 1057,
+            "charEnd": 1059,
+            "id": 175,
+            "sentence": 7,
+            "text": "in",
+            "word": 23
+        },
+        {
+            "charBegin": 1060,
+            "charEnd": 1071,
+            "id": 176,
+            "sentence": 7,
+            "text": "Afghanistan",
+            "word": 24
+        },
+        {
+            "charBegin": 1072,
+            "charEnd": 1092,
+            "id": 177,
+            "sentence": 7,
+            "text": "auseinandergebrochen",
+            "word": 25
+        },
+        {
+            "charBegin": 1093,
+            "charEnd": 1096,
+            "id": 178,
+            "sentence": 7,
+            "text": "war",
+            "word": 26
+        },
+        {
+            "charBegin": 1096,
+            "charEnd": 1097,
+            "id": 179,
+            "sentence": 7,
+            "text": ".",
+            "word": 27
+        }
+    ]
+}

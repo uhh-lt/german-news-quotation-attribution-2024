@@ -1,0 +1,1479 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 50,
+                        "charBegin": 305,
+                        "charEnd": 313,
+                        "end": 52
+                    }
+                ],
+                "text": "dem Mann",
+                "tokenIds": [
+                    50,
+                    51
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 49,
+                        "charBegin": 297,
+                        "charEnd": 304,
+                        "end": 50
+                    },
+                    {
+                        "begin": 52,
+                        "charBegin": 314,
+                        "charEnd": 316,
+                        "end": 53
+                    }
+                ],
+                "text": "drohten an",
+                "tokenIds": [
+                    49,
+                    52
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 43,
+                        "charBegin": 263,
+                        "charEnd": 317,
+                        "end": 54
+                    }
+                ],
+                "text": "Diese baten ihn um Zigaretten und drohten dem Mann an,",
+                "tokenIds": [
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 54,
+                        "charBegin": 318,
+                        "charEnd": 398,
+                        "end": 65
+                    }
+                ],
+                "text": "ihn zu durchsuchen und im Falle des Auffindens von Zigaretten zusammenzuschlagen",
+                "tokenIds": [
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 43,
+                        "charBegin": 263,
+                        "charEnd": 268,
+                        "end": 44
+                    }
+                ],
+                "text": "Diese",
+                "tokenIds": [
+                    43
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "38177 - Kreis Kusel: Um Zigaretten gebeten und verprügelt (2007-02-14)",
+    "originalText": "Eine Serie von Raubüberfällen, die in letzter Zeit in der Kaiserslauterer Innenstadt stattfand, hat nun womöglich auch auf den nahen Landkreis Kusel übergeschlagen. Dort wurde in der Nacht zum Samstag gegen 1:30 Uhr ein Passant von vier Unbekannten angesprochen. Diese baten ihn um Zigaretten und drohten dem Mann an, ihn zu durchsuchen und im Falle des Auffindens von Zigaretten zusammenzuschlagen. Infolge dieser Drohung reichte der Mann den Unbekannten Zigaretten, welche ihm umgehend entwendet wurden. Drei der Männer prügelten anschließend auf ihn ein. Aufgrund seiner erheblichen Verletzungen im Augen- und Kieferbereich sowie einer Fraktur des Nasenbeines musste der Mann stationär im Krankenhaus aufgenommen werden.\n\nDie Polizei verfolgt aktuell bestehende Hinweise auf die Täter und bittet um weitere Hinweise.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 164,
+            "end": 26,
+            "id": 0,
+            "text": "Eine Serie von Raubüberfällen, die in letzter Zeit in der Kaiserslauterer Innenstadt stattfand, hat nun womöglich auch auf den nahen Landkreis Kusel übergeschlagen. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "tokens": [
+                "Eine",
+                "Serie",
+                "von",
+                "Raubüberfällen",
+                ",",
+                "die",
+                "in",
+                "letzter",
+                "Zeit",
+                "in",
+                "der",
+                "Kaiserslauterer",
+                "Innenstadt",
+                "stattfand",
+                ",",
+                "hat",
+                "nun",
+                "womöglich",
+                "auch",
+                "auf",
+                "den",
+                "nahen",
+                "Landkreis",
+                "Kusel",
+                "übergeschlagen",
+                "."
+            ]
+        },
+        {
+            "begin": 26,
+            "charBegin": 165,
+            "charEnd": 262,
+            "end": 43,
+            "id": 1,
+            "text": "Dort wurde in der Nacht zum Samstag gegen 1:30 Uhr ein Passant von vier Unbekannten angesprochen. ",
+            "tokenIds": [
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42
+            ],
+            "tokens": [
+                "Dort",
+                "wurde",
+                "in",
+                "der",
+                "Nacht",
+                "zum",
+                "Samstag",
+                "gegen",
+                "1:30",
+                "Uhr",
+                "ein",
+                "Passant",
+                "von",
+                "vier",
+                "Unbekannten",
+                "angesprochen",
+                "."
+            ]
+        },
+        {
+            "begin": 43,
+            "charBegin": 263,
+            "charEnd": 399,
+            "end": 66,
+            "id": 2,
+            "text": "Diese baten ihn um Zigaretten und drohten dem Mann an, ihn zu durchsuchen und im Falle des Auffindens von Zigaretten zusammenzuschlagen. ",
+            "tokenIds": [
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65
+            ],
+            "tokens": [
+                "Diese",
+                "baten",
+                "ihn",
+                "um",
+                "Zigaretten",
+                "und",
+                "drohten",
+                "dem",
+                "Mann",
+                "an",
+                ",",
+                "ihn",
+                "zu",
+                "durchsuchen",
+                "und",
+                "im",
+                "Falle",
+                "des",
+                "Auffindens",
+                "von",
+                "Zigaretten",
+                "zusammenzuschlagen",
+                "."
+            ]
+        },
+        {
+            "begin": 66,
+            "charBegin": 400,
+            "charEnd": 505,
+            "end": 82,
+            "id": 3,
+            "text": "Infolge dieser Drohung reichte der Mann den Unbekannten Zigaretten, welche ihm umgehend entwendet wurden. ",
+            "tokenIds": [
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81
+            ],
+            "tokens": [
+                "Infolge",
+                "dieser",
+                "Drohung",
+                "reichte",
+                "der",
+                "Mann",
+                "den",
+                "Unbekannten",
+                "Zigaretten",
+                ",",
+                "welche",
+                "ihm",
+                "umgehend",
+                "entwendet",
+                "wurden",
+                "."
+            ]
+        },
+        {
+            "begin": 82,
+            "charBegin": 506,
+            "charEnd": 557,
+            "end": 91,
+            "id": 4,
+            "text": "Drei der Männer prügelten anschließend auf ihn ein. ",
+            "tokenIds": [
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90
+            ],
+            "tokens": [
+                "Drei",
+                "der",
+                "Männer",
+                "prügelten",
+                "anschließend",
+                "auf",
+                "ihn",
+                "ein",
+                "."
+            ]
+        },
+        {
+            "begin": 91,
+            "charBegin": 558,
+            "charEnd": 723,
+            "end": 113,
+            "id": 5,
+            "text": "Aufgrund seiner erheblichen Verletzungen im Augen- und Kieferbereich sowie einer Fraktur des Nasenbeines musste der Mann stationär im Krankenhaus aufgenommen werden.",
+            "tokenIds": [
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112
+            ],
+            "tokens": [
+                "Aufgrund",
+                "seiner",
+                "erheblichen",
+                "Verletzungen",
+                "im",
+                "Augen-",
+                "und",
+                "Kieferbereich",
+                "sowie",
+                "einer",
+                "Fraktur",
+                "des",
+                "Nasenbeines",
+                "musste",
+                "der",
+                "Mann",
+                "stationär",
+                "im",
+                "Krankenhaus",
+                "aufgenommen",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 113,
+            "charBegin": 725,
+            "charEnd": 819,
+            "end": 128,
+            "id": 6,
+            "text": "Die Polizei verfolgt aktuell bestehende Hinweise auf die Täter und bittet um weitere Hinweise.",
+            "tokenIds": [
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127
+            ],
+            "tokens": [
+                "Die",
+                "Polizei",
+                "verfolgt",
+                "aktuell",
+                "bestehende",
+                "Hinweise",
+                "auf",
+                "die",
+                "Täter",
+                "und",
+                "bittet",
+                "um",
+                "weitere",
+                "Hinweise",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 4,
+            "id": 0,
+            "sentence": 1,
+            "text": "Eine",
+            "word": 1
+        },
+        {
+            "charBegin": 5,
+            "charEnd": 10,
+            "id": 1,
+            "sentence": 1,
+            "text": "Serie",
+            "word": 2
+        },
+        {
+            "charBegin": 11,
+            "charEnd": 14,
+            "id": 2,
+            "sentence": 1,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 15,
+            "charEnd": 29,
+            "id": 3,
+            "sentence": 1,
+            "text": "Raubüberfällen",
+            "word": 4
+        },
+        {
+            "charBegin": 29,
+            "charEnd": 30,
+            "id": 4,
+            "sentence": 1,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 31,
+            "charEnd": 34,
+            "id": 5,
+            "sentence": 1,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 35,
+            "charEnd": 37,
+            "id": 6,
+            "sentence": 1,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 38,
+            "charEnd": 45,
+            "id": 7,
+            "sentence": 1,
+            "text": "letzter",
+            "word": 8
+        },
+        {
+            "charBegin": 46,
+            "charEnd": 50,
+            "id": 8,
+            "sentence": 1,
+            "text": "Zeit",
+            "word": 9
+        },
+        {
+            "charBegin": 51,
+            "charEnd": 53,
+            "id": 9,
+            "sentence": 1,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 54,
+            "charEnd": 57,
+            "id": 10,
+            "sentence": 1,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 73,
+            "id": 11,
+            "sentence": 1,
+            "text": "Kaiserslauterer",
+            "word": 12
+        },
+        {
+            "charBegin": 74,
+            "charEnd": 84,
+            "id": 12,
+            "sentence": 1,
+            "text": "Innenstadt",
+            "word": 13
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 94,
+            "id": 13,
+            "sentence": 1,
+            "text": "stattfand",
+            "word": 14
+        },
+        {
+            "charBegin": 94,
+            "charEnd": 95,
+            "id": 14,
+            "sentence": 1,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 96,
+            "charEnd": 99,
+            "id": 15,
+            "sentence": 1,
+            "text": "hat",
+            "word": 16
+        },
+        {
+            "charBegin": 100,
+            "charEnd": 103,
+            "id": 16,
+            "sentence": 1,
+            "text": "nun",
+            "word": 17
+        },
+        {
+            "charBegin": 104,
+            "charEnd": 113,
+            "id": 17,
+            "sentence": 1,
+            "text": "womöglich",
+            "word": 18
+        },
+        {
+            "charBegin": 114,
+            "charEnd": 118,
+            "id": 18,
+            "sentence": 1,
+            "text": "auch",
+            "word": 19
+        },
+        {
+            "charBegin": 119,
+            "charEnd": 122,
+            "id": 19,
+            "sentence": 1,
+            "text": "auf",
+            "word": 20
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 126,
+            "id": 20,
+            "sentence": 1,
+            "text": "den",
+            "word": 21
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 132,
+            "id": 21,
+            "sentence": 1,
+            "text": "nahen",
+            "word": 22
+        },
+        {
+            "charBegin": 133,
+            "charEnd": 142,
+            "id": 22,
+            "sentence": 1,
+            "text": "Landkreis",
+            "word": 23
+        },
+        {
+            "charBegin": 143,
+            "charEnd": 148,
+            "id": 23,
+            "sentence": 1,
+            "text": "Kusel",
+            "word": 24
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 163,
+            "id": 24,
+            "sentence": 1,
+            "text": "übergeschlagen",
+            "word": 25
+        },
+        {
+            "charBegin": 163,
+            "charEnd": 164,
+            "id": 25,
+            "sentence": 1,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 169,
+            "id": 26,
+            "sentence": 2,
+            "text": "Dort",
+            "word": 1
+        },
+        {
+            "charBegin": 170,
+            "charEnd": 175,
+            "id": 27,
+            "sentence": 2,
+            "text": "wurde",
+            "word": 2
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 178,
+            "id": 28,
+            "sentence": 2,
+            "text": "in",
+            "word": 3
+        },
+        {
+            "charBegin": 179,
+            "charEnd": 182,
+            "id": 29,
+            "sentence": 2,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 188,
+            "id": 30,
+            "sentence": 2,
+            "text": "Nacht",
+            "word": 5
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 192,
+            "id": 31,
+            "sentence": 2,
+            "text": "zum",
+            "word": 6
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 200,
+            "id": 32,
+            "sentence": 2,
+            "text": "Samstag",
+            "word": 7
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 206,
+            "id": 33,
+            "sentence": 2,
+            "text": "gegen",
+            "word": 8
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 211,
+            "id": 34,
+            "sentence": 2,
+            "text": "1:30",
+            "word": 9
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 215,
+            "id": 35,
+            "sentence": 2,
+            "text": "Uhr",
+            "word": 10
+        },
+        {
+            "charBegin": 216,
+            "charEnd": 219,
+            "id": 36,
+            "sentence": 2,
+            "text": "ein",
+            "word": 11
+        },
+        {
+            "charBegin": 220,
+            "charEnd": 227,
+            "id": 37,
+            "sentence": 2,
+            "text": "Passant",
+            "word": 12
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 231,
+            "id": 38,
+            "sentence": 2,
+            "text": "von",
+            "word": 13
+        },
+        {
+            "charBegin": 232,
+            "charEnd": 236,
+            "id": 39,
+            "sentence": 2,
+            "text": "vier",
+            "word": 14
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 248,
+            "id": 40,
+            "sentence": 2,
+            "text": "Unbekannten",
+            "word": 15
+        },
+        {
+            "charBegin": 249,
+            "charEnd": 261,
+            "id": 41,
+            "sentence": 2,
+            "text": "angesprochen",
+            "word": 16
+        },
+        {
+            "charBegin": 261,
+            "charEnd": 262,
+            "id": 42,
+            "sentence": 2,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 268,
+            "id": 43,
+            "sentence": 3,
+            "text": "Diese",
+            "word": 1
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 274,
+            "id": 44,
+            "sentence": 3,
+            "text": "baten",
+            "word": 2
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 278,
+            "id": 45,
+            "sentence": 3,
+            "text": "ihn",
+            "word": 3
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 281,
+            "id": 46,
+            "sentence": 3,
+            "text": "um",
+            "word": 4
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 292,
+            "id": 47,
+            "sentence": 3,
+            "text": "Zigaretten",
+            "word": 5
+        },
+        {
+            "charBegin": 293,
+            "charEnd": 296,
+            "id": 48,
+            "sentence": 3,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 297,
+            "charEnd": 304,
+            "id": 49,
+            "sentence": 3,
+            "text": "drohten",
+            "word": 7
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 308,
+            "id": 50,
+            "sentence": 3,
+            "text": "dem",
+            "word": 8
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 313,
+            "id": 51,
+            "sentence": 3,
+            "text": "Mann",
+            "word": 9
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 316,
+            "id": 52,
+            "sentence": 3,
+            "text": "an",
+            "word": 10
+        },
+        {
+            "charBegin": 316,
+            "charEnd": 317,
+            "id": 53,
+            "sentence": 3,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 318,
+            "charEnd": 321,
+            "id": 54,
+            "sentence": 3,
+            "text": "ihn",
+            "word": 12
+        },
+        {
+            "charBegin": 322,
+            "charEnd": 324,
+            "id": 55,
+            "sentence": 3,
+            "text": "zu",
+            "word": 13
+        },
+        {
+            "charBegin": 325,
+            "charEnd": 336,
+            "id": 56,
+            "sentence": 3,
+            "text": "durchsuchen",
+            "word": 14
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 340,
+            "id": 57,
+            "sentence": 3,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 341,
+            "charEnd": 343,
+            "id": 58,
+            "sentence": 3,
+            "text": "im",
+            "word": 16
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 349,
+            "id": 59,
+            "sentence": 3,
+            "text": "Falle",
+            "word": 17
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 353,
+            "id": 60,
+            "sentence": 3,
+            "text": "des",
+            "word": 18
+        },
+        {
+            "charBegin": 354,
+            "charEnd": 364,
+            "id": 61,
+            "sentence": 3,
+            "text": "Auffindens",
+            "word": 19
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 368,
+            "id": 62,
+            "sentence": 3,
+            "text": "von",
+            "word": 20
+        },
+        {
+            "charBegin": 369,
+            "charEnd": 379,
+            "id": 63,
+            "sentence": 3,
+            "text": "Zigaretten",
+            "word": 21
+        },
+        {
+            "charBegin": 380,
+            "charEnd": 398,
+            "id": 64,
+            "sentence": 3,
+            "text": "zusammenzuschlagen",
+            "word": 22
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 399,
+            "id": 65,
+            "sentence": 3,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 400,
+            "charEnd": 407,
+            "id": 66,
+            "sentence": 4,
+            "text": "Infolge",
+            "word": 1
+        },
+        {
+            "charBegin": 408,
+            "charEnd": 414,
+            "id": 67,
+            "sentence": 4,
+            "text": "dieser",
+            "word": 2
+        },
+        {
+            "charBegin": 415,
+            "charEnd": 422,
+            "id": 68,
+            "sentence": 4,
+            "text": "Drohung",
+            "word": 3
+        },
+        {
+            "charBegin": 423,
+            "charEnd": 430,
+            "id": 69,
+            "sentence": 4,
+            "text": "reichte",
+            "word": 4
+        },
+        {
+            "charBegin": 431,
+            "charEnd": 434,
+            "id": 70,
+            "sentence": 4,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 439,
+            "id": 71,
+            "sentence": 4,
+            "text": "Mann",
+            "word": 6
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 443,
+            "id": 72,
+            "sentence": 4,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 455,
+            "id": 73,
+            "sentence": 4,
+            "text": "Unbekannten",
+            "word": 8
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 466,
+            "id": 74,
+            "sentence": 4,
+            "text": "Zigaretten",
+            "word": 9
+        },
+        {
+            "charBegin": 466,
+            "charEnd": 467,
+            "id": 75,
+            "sentence": 4,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 468,
+            "charEnd": 474,
+            "id": 76,
+            "sentence": 4,
+            "text": "welche",
+            "word": 11
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 478,
+            "id": 77,
+            "sentence": 4,
+            "text": "ihm",
+            "word": 12
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 487,
+            "id": 78,
+            "sentence": 4,
+            "text": "umgehend",
+            "word": 13
+        },
+        {
+            "charBegin": 488,
+            "charEnd": 497,
+            "id": 79,
+            "sentence": 4,
+            "text": "entwendet",
+            "word": 14
+        },
+        {
+            "charBegin": 498,
+            "charEnd": 504,
+            "id": 80,
+            "sentence": 4,
+            "text": "wurden",
+            "word": 15
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 505,
+            "id": 81,
+            "sentence": 4,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 510,
+            "id": 82,
+            "sentence": 5,
+            "text": "Drei",
+            "word": 1
+        },
+        {
+            "charBegin": 511,
+            "charEnd": 514,
+            "id": 83,
+            "sentence": 5,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 515,
+            "charEnd": 521,
+            "id": 84,
+            "sentence": 5,
+            "text": "Männer",
+            "word": 3
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 531,
+            "id": 85,
+            "sentence": 5,
+            "text": "prügelten",
+            "word": 4
+        },
+        {
+            "charBegin": 532,
+            "charEnd": 544,
+            "id": 86,
+            "sentence": 5,
+            "text": "anschließend",
+            "word": 5
+        },
+        {
+            "charBegin": 545,
+            "charEnd": 548,
+            "id": 87,
+            "sentence": 5,
+            "text": "auf",
+            "word": 6
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 552,
+            "id": 88,
+            "sentence": 5,
+            "text": "ihn",
+            "word": 7
+        },
+        {
+            "charBegin": 553,
+            "charEnd": 556,
+            "id": 89,
+            "sentence": 5,
+            "text": "ein",
+            "word": 8
+        },
+        {
+            "charBegin": 556,
+            "charEnd": 557,
+            "id": 90,
+            "sentence": 5,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 566,
+            "id": 91,
+            "sentence": 6,
+            "text": "Aufgrund",
+            "word": 1
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 573,
+            "id": 92,
+            "sentence": 6,
+            "text": "seiner",
+            "word": 2
+        },
+        {
+            "charBegin": 574,
+            "charEnd": 585,
+            "id": 93,
+            "sentence": 6,
+            "text": "erheblichen",
+            "word": 3
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 598,
+            "id": 94,
+            "sentence": 6,
+            "text": "Verletzungen",
+            "word": 4
+        },
+        {
+            "charBegin": 599,
+            "charEnd": 601,
+            "id": 95,
+            "sentence": 6,
+            "text": "im",
+            "word": 5
+        },
+        {
+            "charBegin": 602,
+            "charEnd": 608,
+            "id": 96,
+            "sentence": 6,
+            "text": "Augen-",
+            "word": 6
+        },
+        {
+            "charBegin": 609,
+            "charEnd": 612,
+            "id": 97,
+            "sentence": 6,
+            "text": "und",
+            "word": 7
+        },
+        {
+            "charBegin": 613,
+            "charEnd": 626,
+            "id": 98,
+            "sentence": 6,
+            "text": "Kieferbereich",
+            "word": 8
+        },
+        {
+            "charBegin": 627,
+            "charEnd": 632,
+            "id": 99,
+            "sentence": 6,
+            "text": "sowie",
+            "word": 9
+        },
+        {
+            "charBegin": 633,
+            "charEnd": 638,
+            "id": 100,
+            "sentence": 6,
+            "text": "einer",
+            "word": 10
+        },
+        {
+            "charBegin": 639,
+            "charEnd": 646,
+            "id": 101,
+            "sentence": 6,
+            "text": "Fraktur",
+            "word": 11
+        },
+        {
+            "charBegin": 647,
+            "charEnd": 650,
+            "id": 102,
+            "sentence": 6,
+            "text": "des",
+            "word": 12
+        },
+        {
+            "charBegin": 651,
+            "charEnd": 662,
+            "id": 103,
+            "sentence": 6,
+            "text": "Nasenbeines",
+            "word": 13
+        },
+        {
+            "charBegin": 663,
+            "charEnd": 669,
+            "id": 104,
+            "sentence": 6,
+            "text": "musste",
+            "word": 14
+        },
+        {
+            "charBegin": 670,
+            "charEnd": 673,
+            "id": 105,
+            "sentence": 6,
+            "text": "der",
+            "word": 15
+        },
+        {
+            "charBegin": 674,
+            "charEnd": 678,
+            "id": 106,
+            "sentence": 6,
+            "text": "Mann",
+            "word": 16
+        },
+        {
+            "charBegin": 679,
+            "charEnd": 688,
+            "id": 107,
+            "sentence": 6,
+            "text": "stationär",
+            "word": 17
+        },
+        {
+            "charBegin": 689,
+            "charEnd": 691,
+            "id": 108,
+            "sentence": 6,
+            "text": "im",
+            "word": 18
+        },
+        {
+            "charBegin": 692,
+            "charEnd": 703,
+            "id": 109,
+            "sentence": 6,
+            "text": "Krankenhaus",
+            "word": 19
+        },
+        {
+            "charBegin": 704,
+            "charEnd": 715,
+            "id": 110,
+            "sentence": 6,
+            "text": "aufgenommen",
+            "word": 20
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 722,
+            "id": 111,
+            "sentence": 6,
+            "text": "werden",
+            "word": 21
+        },
+        {
+            "charBegin": 722,
+            "charEnd": 723,
+            "id": 112,
+            "sentence": 6,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 725,
+            "charEnd": 728,
+            "id": 113,
+            "sentence": 7,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 729,
+            "charEnd": 736,
+            "id": 114,
+            "sentence": 7,
+            "text": "Polizei",
+            "word": 2
+        },
+        {
+            "charBegin": 737,
+            "charEnd": 745,
+            "id": 115,
+            "sentence": 7,
+            "text": "verfolgt",
+            "word": 3
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 753,
+            "id": 116,
+            "sentence": 7,
+            "text": "aktuell",
+            "word": 4
+        },
+        {
+            "charBegin": 754,
+            "charEnd": 764,
+            "id": 117,
+            "sentence": 7,
+            "text": "bestehende",
+            "word": 5
+        },
+        {
+            "charBegin": 765,
+            "charEnd": 773,
+            "id": 118,
+            "sentence": 7,
+            "text": "Hinweise",
+            "word": 6
+        },
+        {
+            "charBegin": 774,
+            "charEnd": 777,
+            "id": 119,
+            "sentence": 7,
+            "text": "auf",
+            "word": 7
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 781,
+            "id": 120,
+            "sentence": 7,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 782,
+            "charEnd": 787,
+            "id": 121,
+            "sentence": 7,
+            "text": "Täter",
+            "word": 9
+        },
+        {
+            "charBegin": 788,
+            "charEnd": 791,
+            "id": 122,
+            "sentence": 7,
+            "text": "und",
+            "word": 10
+        },
+        {
+            "charBegin": 792,
+            "charEnd": 798,
+            "id": 123,
+            "sentence": 7,
+            "text": "bittet",
+            "word": 11
+        },
+        {
+            "charBegin": 799,
+            "charEnd": 801,
+            "id": 124,
+            "sentence": 7,
+            "text": "um",
+            "word": 12
+        },
+        {
+            "charBegin": 802,
+            "charEnd": 809,
+            "id": 125,
+            "sentence": 7,
+            "text": "weitere",
+            "word": 13
+        },
+        {
+            "charBegin": 810,
+            "charEnd": 818,
+            "id": 126,
+            "sentence": 7,
+            "text": "Hinweise",
+            "word": 14
+        },
+        {
+            "charBegin": 818,
+            "charEnd": 819,
+            "id": 127,
+            "sentence": 7,
+            "text": ".",
+            "word": 15
+        }
+    ]
+}

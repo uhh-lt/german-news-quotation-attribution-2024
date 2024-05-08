@@ -1,0 +1,5983 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 37,
+                        "charBegin": 271,
+                        "charEnd": 274,
+                        "end": 38
+                    },
+                    {
+                        "begin": 43,
+                        "charBegin": 303,
+                        "charEnd": 320,
+                        "end": 45
+                    }
+                ],
+                "text": "als bezeichnet worden",
+                "tokenIds": [
+                    37,
+                    43,
+                    44
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 26,
+                        "charBegin": 198,
+                        "charEnd": 274,
+                        "end": 38
+                    },
+                    {
+                        "begin": 43,
+                        "charBegin": 303,
+                        "charEnd": 320,
+                        "end": 45
+                    }
+                ],
+                "text": "In den Medien war der Großauftrag aus dem Pentagon überschwenglich schon als bezeichnet worden",
+                "tokenIds": [
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37,
+                    43,
+                    44
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 38,
+                        "charBegin": 275,
+                        "charEnd": 302,
+                        "end": 43
+                    }
+                ],
+                "text": "„Geschäft des Jahrhunderts“",
+                "tokenIds": [
+                    38,
+                    39,
+                    40,
+                    41,
+                    42
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 27,
+                        "charBegin": 201,
+                        "charEnd": 211,
+                        "end": 29
+                    }
+                ],
+                "text": "den Medien",
+                "tokenIds": [
+                    27,
+                    28
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 119,
+                        "charBegin": 767,
+                        "charEnd": 771,
+                        "end": 120
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    119
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 119,
+                        "charBegin": 767,
+                        "charEnd": 831,
+                        "end": 125
+                    }
+                ],
+                "text": "Nach Einschätzung des Airbus-Vorstandsvorsitzenden Thomas Enders",
+                "tokenIds": [
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 125,
+                        "charBegin": 832,
+                        "charEnd": 956,
+                        "end": 144
+                    }
+                ],
+                "text": "wurden die Bedingungen nun jedoch so geändert, dass sie genau auf das Angebot des US-Konkurrenten Boeing zugeschnitten waren",
+                "tokenIds": [
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141,
+                    142,
+                    143
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 120,
+                        "charBegin": 772,
+                        "charEnd": 831,
+                        "end": 125
+                    }
+                ],
+                "text": "Einschätzung des Airbus-Vorstandsvorsitzenden Thomas Enders",
+                "tokenIds": [
+                    120,
+                    121,
+                    122,
+                    123,
+                    124
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 145,
+                        "charBegin": 958,
+                        "charEnd": 962,
+                        "end": 146
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    145
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 145,
+                        "charBegin": 958,
+                        "charEnd": 993,
+                        "end": 149
+                    }
+                ],
+                "text": "Nach bisher unbestätigten Berichten",
+                "tokenIds": [
+                    145,
+                    146,
+                    147,
+                    148
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 149,
+                        "charBegin": 994,
+                        "charEnd": 1147,
+                        "end": 172
+                    }
+                ],
+                "text": "wurde der Firma Boeing außerdem Einsicht in das Angebot von EADS und seines US-Partners Northrop Grumman gewährt und konnte sein Angebot darauf abstimmen",
+                "tokenIds": [
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    162,
+                    163,
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    169,
+                    170,
+                    171
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 146,
+                        "charBegin": 963,
+                        "charEnd": 993,
+                        "end": 149
+                    }
+                ],
+                "text": "bisher unbestätigten Berichten",
+                "tokenIds": [
+                    146,
+                    147,
+                    148
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 175,
+                        "charBegin": 1162,
+                        "charEnd": 1165,
+                        "end": 176
+                    },
+                    {
+                        "begin": 193,
+                        "charBegin": 1273,
+                        "charEnd": 1298,
+                        "end": 197
+                    }
+                ],
+                "text": "zog mit der Begründung zurück",
+                "tokenIds": [
+                    175,
+                    193,
+                    194,
+                    195,
+                    196
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 173,
+                        "charBegin": 1150,
+                        "charEnd": 1299,
+                        "end": 198
+                    }
+                ],
+                "text": "Am Dienstag zog der US-Partner von EADS, Northrop Grumman, der als Generalunternehmer fungierte, das Angebot beim Pentagon mit der Begründung zurück,",
+                "tokenIds": [
+                    173,
+                    174,
+                    175,
+                    176,
+                    177,
+                    178,
+                    179,
+                    180,
+                    181,
+                    182,
+                    183,
+                    184,
+                    185,
+                    186,
+                    187,
+                    188,
+                    189,
+                    190,
+                    191,
+                    192,
+                    193,
+                    194,
+                    195,
+                    196,
+                    197
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 198,
+                        "charBegin": 1300,
+                        "charEnd": 1359,
+                        "end": 206
+                    }
+                ],
+                "text": "dieses habe die Ausschreibung voll auf Boeing zugeschnitten",
+                "tokenIds": [
+                    198,
+                    199,
+                    200,
+                    201,
+                    202,
+                    203,
+                    204,
+                    205
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 176,
+                        "charBegin": 1166,
+                        "charEnd": 1207,
+                        "end": 183
+                    }
+                ],
+                "text": "der US-Partner von EADS, Northrop Grumman",
+                "tokenIds": [
+                    176,
+                    177,
+                    178,
+                    179,
+                    180,
+                    181,
+                    182
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 210,
+                        "charBegin": 1400,
+                        "charEnd": 1412,
+                        "end": 212
+                    },
+                    {
+                        "begin": 214,
+                        "charBegin": 1433,
+                        "charEnd": 1450,
+                        "end": 218
+                    }
+                ],
+                "text": "schloss sich mit den Worten an",
+                "tokenIds": [
+                    210,
+                    211,
+                    214,
+                    215,
+                    216,
+                    217
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 207,
+                        "charBegin": 1361,
+                        "charEnd": 1451,
+                        "end": 219
+                    }
+                ],
+                "text": "Der Airbus-Vorstandsvorsitzende Enders schloss sich dieser Einschätzung mit den Worten an:",
+                "tokenIds": [
+                    207,
+                    208,
+                    209,
+                    210,
+                    211,
+                    212,
+                    213,
+                    214,
+                    215,
+                    216,
+                    217,
+                    218
+                ]
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 219,
+                        "charBegin": 1452,
+                        "charEnd": 1662,
+                        "end": 258
+                    }
+                ],
+                "text": "„Wenn unser Partner Northrop Grumman überzeugt ist, dass wir in dem derzeitigen Umfeld keine Chance haben zu gewinnen - egal wie gut unser Angebot ist -, dann kann ich mich dieser Einschätzung nur anschließen.“",
+                "tokenIds": [
+                    219,
+                    220,
+                    221,
+                    222,
+                    223,
+                    224,
+                    225,
+                    226,
+                    227,
+                    228,
+                    229,
+                    230,
+                    231,
+                    232,
+                    233,
+                    234,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241,
+                    242,
+                    243,
+                    244,
+                    245,
+                    246,
+                    247,
+                    248,
+                    249,
+                    250,
+                    251,
+                    252,
+                    253,
+                    254,
+                    255,
+                    256,
+                    257
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 207,
+                        "charBegin": 1361,
+                        "charEnd": 1399,
+                        "end": 210
+                    }
+                ],
+                "text": "Der Airbus-Vorstandsvorsitzende Enders",
+                "tokenIds": [
+                    207,
+                    208,
+                    209
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 265,
+                        "charBegin": 1715,
+                        "charEnd": 1719,
+                        "end": 266
+                    }
+                ],
+                "text": "nach",
+                "tokenIds": [
+                    265
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 265,
+                        "charBegin": 1715,
+                        "charEnd": 1753,
+                        "end": 269
+                    }
+                ],
+                "text": "nach Einschätzung von Marktbeobachtern",
+                "tokenIds": [
+                    265,
+                    266,
+                    267,
+                    268
+                ]
+            },
+            "hasNested": false,
+            "id": 5,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 258,
+                        "charBegin": 1664,
+                        "charEnd": 1714,
+                        "end": 265
+                    },
+                    {
+                        "begin": 269,
+                        "charBegin": 1754,
+                        "charEnd": 1770,
+                        "end": 271
+                    }
+                ],
+                "text": "Für EADS bedeutet der Verlust dieses Großauftrages einen Tiefschlag",
+                "tokenIds": [
+                    258,
+                    259,
+                    260,
+                    261,
+                    262,
+                    263,
+                    264,
+                    269,
+                    270
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 266,
+                        "charBegin": 1720,
+                        "charEnd": 1753,
+                        "end": 269
+                    }
+                ],
+                "text": "Einschätzung von Marktbeobachtern",
+                "tokenIds": [
+                    266,
+                    267,
+                    268
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 275,
+                        "charBegin": 1813,
+                        "charEnd": 1825,
+                        "end": 276
+                    },
+                    {
+                        "begin": 280,
+                        "charBegin": 1860,
+                        "charEnd": 1874,
+                        "end": 283
+                    }
+                ],
+                "text": "kommentierte mit den Worten",
+                "tokenIds": [
+                    275,
+                    280,
+                    281,
+                    282
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 272,
+                        "charBegin": 1772,
+                        "charEnd": 1875,
+                        "end": 284
+                    }
+                ],
+                "text": "EADS-Vorstandsvorsitzender Louis Gallois kommentierte das Ende des Tankflugzeugprojekts mit den Worten:",
+                "tokenIds": [
+                    272,
+                    273,
+                    274,
+                    275,
+                    276,
+                    277,
+                    278,
+                    279,
+                    280,
+                    281,
+                    282,
+                    283
+                ]
+            },
+            "hasNested": false,
+            "id": 6,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 284,
+                        "charBegin": 1876,
+                        "charEnd": 2083,
+                        "end": 320
+                    }
+                ],
+                "text": "„Fest steht nur, dass die Amerikaner nun zum ersten Mal seit Jahrzehnten nicht das beste Verteidigungsmaterial haben werden, denn alle wissen, dass der A330 das modernere und leistungsfähigere Flugzeug ist.“",
+                "tokenIds": [
+                    284,
+                    285,
+                    286,
+                    287,
+                    288,
+                    289,
+                    290,
+                    291,
+                    292,
+                    293,
+                    294,
+                    295,
+                    296,
+                    297,
+                    298,
+                    299,
+                    300,
+                    301,
+                    302,
+                    303,
+                    304,
+                    305,
+                    306,
+                    307,
+                    308,
+                    309,
+                    310,
+                    311,
+                    312,
+                    313,
+                    314,
+                    315,
+                    316,
+                    317,
+                    318,
+                    319
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 272,
+                        "charBegin": 1772,
+                        "charEnd": 1812,
+                        "end": 275
+                    }
+                ],
+                "text": "EADS-Vorstandsvorsitzender Louis Gallois",
+                "tokenIds": [
+                    272,
+                    273,
+                    274
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 421,
+                        "charBegin": 2745,
+                        "charEnd": 2753,
+                        "end": 422
+                    },
+                    {
+                        "begin": 423,
+                        "charBegin": 2763,
+                        "charEnd": 2770,
+                        "end": 424
+                    }
+                ],
+                "text": "äußerten Zweifel",
+                "tokenIds": [
+                    421,
+                    423
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 418,
+                        "charBegin": 2711,
+                        "charEnd": 2771,
+                        "end": 425
+                    }
+                ],
+                "text": "EU-Kommission und Bundesregierung äußerten indessen Zweifel,",
+                "tokenIds": [
+                    418,
+                    419,
+                    420,
+                    421,
+                    422,
+                    423,
+                    424
+                ]
+            },
+            "hasNested": false,
+            "id": 7,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 425,
+                        "charBegin": 2772,
+                        "charEnd": 2887,
+                        "end": 442
+                    }
+                ],
+                "text": "ob bei der Vergabe von Aufträgen im Rüstungsbereich der Vereinigten Staaten alles mit rechten Dingen zugegangen sei",
+                "tokenIds": [
+                    425,
+                    426,
+                    427,
+                    428,
+                    429,
+                    430,
+                    431,
+                    432,
+                    433,
+                    434,
+                    435,
+                    436,
+                    437,
+                    438,
+                    439,
+                    440,
+                    441
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 418,
+                        "charBegin": 2711,
+                        "charEnd": 2744,
+                        "end": 421
+                    }
+                ],
+                "text": "EU-Kommission und Bundesregierung",
+                "tokenIds": [
+                    418,
+                    419,
+                    420
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 452,
+                        "charBegin": 2949,
+                        "charEnd": 2956,
+                        "end": 454
+                    }
+                ],
+                "text": "den USA",
+                "tokenIds": [
+                    452,
+                    453
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 451,
+                        "charBegin": 2944,
+                        "charEnd": 2948,
+                        "end": 452
+                    },
+                    {
+                        "begin": 454,
+                        "charBegin": 2957,
+                        "charEnd": 2960,
+                        "end": 455
+                    }
+                ],
+                "text": "warf vor",
+                "tokenIds": [
+                    451,
+                    454
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 443,
+                        "charBegin": 2889,
+                        "charEnd": 2961,
+                        "end": 456
+                    }
+                ],
+                "text": "Der deutsche Wirtschaftsminister Rainer Brüderle (FDP) warf den USA vor,",
+                "tokenIds": [
+                    443,
+                    444,
+                    445,
+                    446,
+                    447,
+                    448,
+                    449,
+                    450,
+                    451,
+                    452,
+                    453,
+                    454,
+                    455
+                ]
+            },
+            "hasNested": false,
+            "id": 8,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 456,
+                        "charBegin": 2962,
+                        "charEnd": 3004,
+                        "end": 462
+                    }
+                ],
+                "text": "den Konkurrenten Boeing bevorzugt zu haben",
+                "tokenIds": [
+                    456,
+                    457,
+                    458,
+                    459,
+                    460,
+                    461
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 443,
+                        "charBegin": 2889,
+                        "charEnd": 2943,
+                        "end": 451
+                    }
+                ],
+                "text": "Der deutsche Wirtschaftsminister Rainer Brüderle (FDP)",
+                "tokenIds": [
+                    443,
+                    444,
+                    445,
+                    446,
+                    447,
+                    448,
+                    449,
+                    450
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "61671 - EADS verliert Milliardenauftrag für US-Luftwaffe (2010-03-09)",
+    "originalText": "Der europäische Rüstungs- und Raumfahrtkonzern EADS und sein US-Partner Northrop Grumman zogen am Donnerstag ihr Angebot für den Bau von Tankflugzeugen für das US-Verteidigungsministerium zurück. \n\nIn den Medien war der Großauftrag aus dem Pentagon überschwenglich schon als „Geschäft des Jahrhunderts“ bezeichnet worden. Es ging um den Bau von 179 Tankflugzeugen mit einem Gesamtvolumen von rund 35 Milliarden US-Dollar. Vor fast genau zwei Jahren schien EADS den Deal schon in der Tasche zu haben (Wikinews berichtete). Doch dann kam alles anders. Der US-Flugzeugbauer Boeing betrieb intensive Lobbyarbeit. Der Rechnungshof des US-Kongresses erklärte die Ausschreibung daraufhin für fehlerhaft, der Auftrag wurde neu ausgeschrieben. Das Rennen schien wieder offen. Nach Einschätzung des Airbus-Vorstandsvorsitzenden Thomas Enders wurden die Bedingungen nun jedoch so geändert, dass sie genau auf das Angebot des US-Konkurrenten Boeing zugeschnitten waren. Nach bisher unbestätigten Berichten wurde der Firma Boeing außerdem Einsicht in das Angebot von EADS und seines US-Partners Northrop Grumman gewährt und konnte sein Angebot darauf abstimmen.\n\nAm Dienstag zog der US-Partner von EADS, Northrop Grumman, der als Generalunternehmer fungierte, das Angebot beim Pentagon mit der Begründung zurück, dieses habe die Ausschreibung voll auf Boeing zugeschnitten. Der Airbus-Vorstandsvorsitzende Enders schloss sich dieser Einschätzung mit den Worten an: „Wenn unser Partner Northrop Grumman überzeugt ist, dass wir in dem derzeitigen Umfeld keine Chance haben zu gewinnen - egal wie gut unser Angebot ist -, dann kann ich mich dieser Einschätzung nur anschließen.“\n\nFür EADS bedeutet der Verlust dieses Großauftrages nach Einschätzung von Marktbeobachtern einen Tiefschlag. EADS-Vorstandsvorsitzender Louis Gallois kommentierte das Ende des Tankflugzeugprojekts mit den Worten: „Fest steht nur, dass die Amerikaner nun zum ersten Mal seit Jahrzehnten nicht das beste Verteidigungsmaterial haben werden, denn alle wissen, dass der A330 das modernere und leistungsfähigere Flugzeug ist.“\n\nDie Börsianer zeigten sich enttäuscht. Die EADS-Aktie verlor in Paris und Frankfurt um rund fünf Prozent. Im Gegenzug profitierte Boeing von der neuen Situation, die Boeing-Aktie gewann ein Prozent.\n\nDen Großauftrag aus den USA hätte der Konzern EADS gut gebrauchen können. Unter anderem wegen der Finanzierungsprobleme beim Militärtransporter A400M verbuchte der Konzern für das abgelaufene Geschäftsjahr einen Nettoverlust von 763 Millionen Euro. Ein Jahr zuvor konnte EADS noch einen Gewinn von 1,572 Milliarden Euro verbuchen. Aber auch die Mehrkosten beim Bau des Großraumflugzeugs A380 machten dem Konzern zu schaffen.\n\nEU-Kommission und Bundesregierung äußerten indessen Zweifel, ob bei der Vergabe von Aufträgen im Rüstungsbereich der Vereinigten Staaten alles mit rechten Dingen zugegangen sei. Der deutsche Wirtschaftsminister Rainer Brüderle (FDP) warf den USA vor, den Konkurrenten Boeing bevorzugt zu haben. Brüderle sieht die Gefahr der Einschränkung des freien Wettbewerbs.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 195,
+            "end": 26,
+            "id": 0,
+            "text": "Der europäische Rüstungs- und Raumfahrtkonzern EADS und sein US-Partner Northrop Grumman zogen am Donnerstag ihr Angebot für den Bau von Tankflugzeugen für das US-Verteidigungsministerium zurück. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "tokens": [
+                "Der",
+                "europäische",
+                "Rüstungs-",
+                "und",
+                "Raumfahrtkonzern",
+                "EADS",
+                "und",
+                "sein",
+                "US-Partner",
+                "Northrop",
+                "Grumman",
+                "zogen",
+                "am",
+                "Donnerstag",
+                "ihr",
+                "Angebot",
+                "für",
+                "den",
+                "Bau",
+                "von",
+                "Tankflugzeugen",
+                "für",
+                "das",
+                "US-Verteidigungsministerium",
+                "zurück",
+                "."
+            ]
+        },
+        {
+            "begin": 26,
+            "charBegin": 198,
+            "charEnd": 321,
+            "end": 46,
+            "id": 1,
+            "text": "In den Medien war der Großauftrag aus dem Pentagon überschwenglich schon als „Geschäft des Jahrhunderts“ bezeichnet worden. ",
+            "tokenIds": [
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45
+            ],
+            "tokens": [
+                "In",
+                "den",
+                "Medien",
+                "war",
+                "der",
+                "Großauftrag",
+                "aus",
+                "dem",
+                "Pentagon",
+                "überschwenglich",
+                "schon",
+                "als",
+                "„",
+                "Geschäft",
+                "des",
+                "Jahrhunderts",
+                "“",
+                "bezeichnet",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "begin": 46,
+            "charBegin": 322,
+            "charEnd": 421,
+            "end": 63,
+            "id": 2,
+            "text": "Es ging um den Bau von 179 Tankflugzeugen mit einem Gesamtvolumen von rund 35 Milliarden US-Dollar. ",
+            "tokenIds": [
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62
+            ],
+            "tokens": [
+                "Es",
+                "ging",
+                "um",
+                "den",
+                "Bau",
+                "von",
+                "179",
+                "Tankflugzeugen",
+                "mit",
+                "einem",
+                "Gesamtvolumen",
+                "von",
+                "rund",
+                "35",
+                "Milliarden",
+                "US-Dollar",
+                "."
+            ]
+        },
+        {
+            "begin": 63,
+            "charBegin": 422,
+            "charEnd": 521,
+            "end": 83,
+            "id": 3,
+            "text": "Vor fast genau zwei Jahren schien EADS den Deal schon in der Tasche zu haben (Wikinews berichtete). ",
+            "tokenIds": [
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82
+            ],
+            "tokens": [
+                "Vor",
+                "fast",
+                "genau",
+                "zwei",
+                "Jahren",
+                "schien",
+                "EADS",
+                "den",
+                "Deal",
+                "schon",
+                "in",
+                "der",
+                "Tasche",
+                "zu",
+                "haben",
+                "(",
+                "Wikinews",
+                "berichtete",
+                ")",
+                "."
+            ]
+        },
+        {
+            "begin": 83,
+            "charBegin": 522,
+            "charEnd": 549,
+            "end": 89,
+            "id": 4,
+            "text": "Doch dann kam alles anders. ",
+            "tokenIds": [
+                83,
+                84,
+                85,
+                86,
+                87,
+                88
+            ],
+            "tokens": [
+                "Doch",
+                "dann",
+                "kam",
+                "alles",
+                "anders",
+                "."
+            ]
+        },
+        {
+            "begin": 89,
+            "charBegin": 550,
+            "charEnd": 608,
+            "end": 96,
+            "id": 5,
+            "text": "Der US-Flugzeugbauer Boeing betrieb intensive Lobbyarbeit. ",
+            "tokenIds": [
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95
+            ],
+            "tokens": [
+                "Der",
+                "US-Flugzeugbauer",
+                "Boeing",
+                "betrieb",
+                "intensive",
+                "Lobbyarbeit",
+                "."
+            ]
+        },
+        {
+            "begin": 96,
+            "charBegin": 609,
+            "charEnd": 734,
+            "end": 113,
+            "id": 6,
+            "text": "Der Rechnungshof des US-Kongresses erklärte die Ausschreibung daraufhin für fehlerhaft, der Auftrag wurde neu ausgeschrieben. ",
+            "tokenIds": [
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112
+            ],
+            "tokens": [
+                "Der",
+                "Rechnungshof",
+                "des",
+                "US-Kongresses",
+                "erklärte",
+                "die",
+                "Ausschreibung",
+                "daraufhin",
+                "für",
+                "fehlerhaft",
+                ",",
+                "der",
+                "Auftrag",
+                "wurde",
+                "neu",
+                "ausgeschrieben",
+                "."
+            ]
+        },
+        {
+            "begin": 113,
+            "charBegin": 735,
+            "charEnd": 766,
+            "end": 119,
+            "id": 7,
+            "text": "Das Rennen schien wieder offen. ",
+            "tokenIds": [
+                113,
+                114,
+                115,
+                116,
+                117,
+                118
+            ],
+            "tokens": [
+                "Das",
+                "Rennen",
+                "schien",
+                "wieder",
+                "offen",
+                "."
+            ]
+        },
+        {
+            "begin": 119,
+            "charBegin": 767,
+            "charEnd": 957,
+            "end": 145,
+            "id": 8,
+            "text": "Nach Einschätzung des Airbus-Vorstandsvorsitzenden Thomas Enders wurden die Bedingungen nun jedoch so geändert, dass sie genau auf das Angebot des US-Konkurrenten Boeing zugeschnitten waren. ",
+            "tokenIds": [
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144
+            ],
+            "tokens": [
+                "Nach",
+                "Einschätzung",
+                "des",
+                "Airbus-Vorstandsvorsitzenden",
+                "Thomas",
+                "Enders",
+                "wurden",
+                "die",
+                "Bedingungen",
+                "nun",
+                "jedoch",
+                "so",
+                "geändert",
+                ",",
+                "dass",
+                "sie",
+                "genau",
+                "auf",
+                "das",
+                "Angebot",
+                "des",
+                "US-Konkurrenten",
+                "Boeing",
+                "zugeschnitten",
+                "waren",
+                "."
+            ]
+        },
+        {
+            "begin": 145,
+            "charBegin": 958,
+            "charEnd": 1148,
+            "end": 173,
+            "id": 9,
+            "text": "Nach bisher unbestätigten Berichten wurde der Firma Boeing außerdem Einsicht in das Angebot von EADS und seines US-Partners Northrop Grumman gewährt und konnte sein Angebot darauf abstimmen.",
+            "tokenIds": [
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172
+            ],
+            "tokens": [
+                "Nach",
+                "bisher",
+                "unbestätigten",
+                "Berichten",
+                "wurde",
+                "der",
+                "Firma",
+                "Boeing",
+                "außerdem",
+                "Einsicht",
+                "in",
+                "das",
+                "Angebot",
+                "von",
+                "EADS",
+                "und",
+                "seines",
+                "US-Partners",
+                "Northrop",
+                "Grumman",
+                "gewährt",
+                "und",
+                "konnte",
+                "sein",
+                "Angebot",
+                "darauf",
+                "abstimmen",
+                "."
+            ]
+        },
+        {
+            "begin": 173,
+            "charBegin": 1150,
+            "charEnd": 1360,
+            "end": 207,
+            "id": 10,
+            "text": "Am Dienstag zog der US-Partner von EADS, Northrop Grumman, der als Generalunternehmer fungierte, das Angebot beim Pentagon mit der Begründung zurück, dieses habe die Ausschreibung voll auf Boeing zugeschnitten. ",
+            "tokenIds": [
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ],
+            "tokens": [
+                "Am",
+                "Dienstag",
+                "zog",
+                "der",
+                "US-Partner",
+                "von",
+                "EADS",
+                ",",
+                "Northrop",
+                "Grumman",
+                ",",
+                "der",
+                "als",
+                "Generalunternehmer",
+                "fungierte",
+                ",",
+                "das",
+                "Angebot",
+                "beim",
+                "Pentagon",
+                "mit",
+                "der",
+                "Begründung",
+                "zurück",
+                ",",
+                "dieses",
+                "habe",
+                "die",
+                "Ausschreibung",
+                "voll",
+                "auf",
+                "Boeing",
+                "zugeschnitten",
+                "."
+            ]
+        },
+        {
+            "begin": 207,
+            "charBegin": 1361,
+            "charEnd": 1662,
+            "end": 258,
+            "id": 11,
+            "text": "Der Airbus-Vorstandsvorsitzende Enders schloss sich dieser Einschätzung mit den Worten an: „Wenn unser Partner Northrop Grumman überzeugt ist, dass wir in dem derzeitigen Umfeld keine Chance haben zu gewinnen - egal wie gut unser Angebot ist -, dann kann ich mich dieser Einschätzung nur anschließen.“",
+            "tokenIds": [
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255,
+                256,
+                257
+            ],
+            "tokens": [
+                "Der",
+                "Airbus-Vorstandsvorsitzende",
+                "Enders",
+                "schloss",
+                "sich",
+                "dieser",
+                "Einschätzung",
+                "mit",
+                "den",
+                "Worten",
+                "an",
+                ":",
+                "„",
+                "Wenn",
+                "unser",
+                "Partner",
+                "Northrop",
+                "Grumman",
+                "überzeugt",
+                "ist",
+                ",",
+                "dass",
+                "wir",
+                "in",
+                "dem",
+                "derzeitigen",
+                "Umfeld",
+                "keine",
+                "Chance",
+                "haben",
+                "zu",
+                "gewinnen",
+                "-",
+                "egal",
+                "wie",
+                "gut",
+                "unser",
+                "Angebot",
+                "ist",
+                "-",
+                ",",
+                "dann",
+                "kann",
+                "ich",
+                "mich",
+                "dieser",
+                "Einschätzung",
+                "nur",
+                "anschließen",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "begin": 258,
+            "charBegin": 1664,
+            "charEnd": 1771,
+            "end": 272,
+            "id": 12,
+            "text": "Für EADS bedeutet der Verlust dieses Großauftrages nach Einschätzung von Marktbeobachtern einen Tiefschlag. ",
+            "tokenIds": [
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271
+            ],
+            "tokens": [
+                "Für",
+                "EADS",
+                "bedeutet",
+                "der",
+                "Verlust",
+                "dieses",
+                "Großauftrages",
+                "nach",
+                "Einschätzung",
+                "von",
+                "Marktbeobachtern",
+                "einen",
+                "Tiefschlag",
+                "."
+            ]
+        },
+        {
+            "begin": 272,
+            "charBegin": 1772,
+            "charEnd": 2083,
+            "end": 320,
+            "id": 13,
+            "text": "EADS-Vorstandsvorsitzender Louis Gallois kommentierte das Ende des Tankflugzeugprojekts mit den Worten: „Fest steht nur, dass die Amerikaner nun zum ersten Mal seit Jahrzehnten nicht das beste Verteidigungsmaterial haben werden, denn alle wissen, dass der A330 das modernere und leistungsfähigere Flugzeug ist.“",
+            "tokenIds": [
+                272,
+                273,
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292,
+                293,
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306,
+                307,
+                308,
+                309,
+                310,
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319
+            ],
+            "tokens": [
+                "EADS-Vorstandsvorsitzender",
+                "Louis",
+                "Gallois",
+                "kommentierte",
+                "das",
+                "Ende",
+                "des",
+                "Tankflugzeugprojekts",
+                "mit",
+                "den",
+                "Worten",
+                ":",
+                "„",
+                "Fest",
+                "steht",
+                "nur",
+                ",",
+                "dass",
+                "die",
+                "Amerikaner",
+                "nun",
+                "zum",
+                "ersten",
+                "Mal",
+                "seit",
+                "Jahrzehnten",
+                "nicht",
+                "das",
+                "beste",
+                "Verteidigungsmaterial",
+                "haben",
+                "werden",
+                ",",
+                "denn",
+                "alle",
+                "wissen",
+                ",",
+                "dass",
+                "der",
+                "A330",
+                "das",
+                "modernere",
+                "und",
+                "leistungsfähigere",
+                "Flugzeug",
+                "ist",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "begin": 320,
+            "charBegin": 2085,
+            "charEnd": 2123,
+            "end": 326,
+            "id": 14,
+            "text": "Die Börsianer zeigten sich enttäuscht. ",
+            "tokenIds": [
+                320,
+                321,
+                322,
+                323,
+                324,
+                325
+            ],
+            "tokens": [
+                "Die",
+                "Börsianer",
+                "zeigten",
+                "sich",
+                "enttäuscht",
+                "."
+            ]
+        },
+        {
+            "begin": 326,
+            "charBegin": 2124,
+            "charEnd": 2190,
+            "end": 338,
+            "id": 15,
+            "text": "Die EADS-Aktie verlor in Paris und Frankfurt um rund fünf Prozent. ",
+            "tokenIds": [
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332,
+                333,
+                334,
+                335,
+                336,
+                337
+            ],
+            "tokens": [
+                "Die",
+                "EADS-Aktie",
+                "verlor",
+                "in",
+                "Paris",
+                "und",
+                "Frankfurt",
+                "um",
+                "rund",
+                "fünf",
+                "Prozent",
+                "."
+            ]
+        },
+        {
+            "begin": 338,
+            "charBegin": 2191,
+            "charEnd": 2283,
+            "end": 353,
+            "id": 16,
+            "text": "Im Gegenzug profitierte Boeing von der neuen Situation, die Boeing-Aktie gewann ein Prozent.",
+            "tokenIds": [
+                338,
+                339,
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346,
+                347,
+                348,
+                349,
+                350,
+                351,
+                352
+            ],
+            "tokens": [
+                "Im",
+                "Gegenzug",
+                "profitierte",
+                "Boeing",
+                "von",
+                "der",
+                "neuen",
+                "Situation",
+                ",",
+                "die",
+                "Boeing-Aktie",
+                "gewann",
+                "ein",
+                "Prozent",
+                "."
+            ]
+        },
+        {
+            "begin": 353,
+            "charBegin": 2285,
+            "charEnd": 2358,
+            "end": 366,
+            "id": 17,
+            "text": "Den Großauftrag aus den USA hätte der Konzern EADS gut gebrauchen können. ",
+            "tokenIds": [
+                353,
+                354,
+                355,
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365
+            ],
+            "tokens": [
+                "Den",
+                "Großauftrag",
+                "aus",
+                "den",
+                "USA",
+                "hätte",
+                "der",
+                "Konzern",
+                "EADS",
+                "gut",
+                "gebrauchen",
+                "können",
+                "."
+            ]
+        },
+        {
+            "begin": 366,
+            "charBegin": 2359,
+            "charEnd": 2533,
+            "end": 389,
+            "id": 18,
+            "text": "Unter anderem wegen der Finanzierungsprobleme beim Militärtransporter A400M verbuchte der Konzern für das abgelaufene Geschäftsjahr einen Nettoverlust von 763 Millionen Euro. ",
+            "tokenIds": [
+                366,
+                367,
+                368,
+                369,
+                370,
+                371,
+                372,
+                373,
+                374,
+                375,
+                376,
+                377,
+                378,
+                379,
+                380,
+                381,
+                382,
+                383,
+                384,
+                385,
+                386,
+                387,
+                388
+            ],
+            "tokens": [
+                "Unter",
+                "anderem",
+                "wegen",
+                "der",
+                "Finanzierungsprobleme",
+                "beim",
+                "Militärtransporter",
+                "A400",
+                "M",
+                "verbuchte",
+                "der",
+                "Konzern",
+                "für",
+                "das",
+                "abgelaufene",
+                "Geschäftsjahr",
+                "einen",
+                "Nettoverlust",
+                "von",
+                "763",
+                "Millionen",
+                "Euro",
+                "."
+            ]
+        },
+        {
+            "begin": 389,
+            "charBegin": 2534,
+            "charEnd": 2615,
+            "end": 403,
+            "id": 19,
+            "text": "Ein Jahr zuvor konnte EADS noch einen Gewinn von 1,572 Milliarden Euro verbuchen. ",
+            "tokenIds": [
+                389,
+                390,
+                391,
+                392,
+                393,
+                394,
+                395,
+                396,
+                397,
+                398,
+                399,
+                400,
+                401,
+                402
+            ],
+            "tokens": [
+                "Ein",
+                "Jahr",
+                "zuvor",
+                "konnte",
+                "EADS",
+                "noch",
+                "einen",
+                "Gewinn",
+                "von",
+                "1,572",
+                "Milliarden",
+                "Euro",
+                "verbuchen",
+                "."
+            ]
+        },
+        {
+            "begin": 403,
+            "charBegin": 2616,
+            "charEnd": 2709,
+            "end": 418,
+            "id": 20,
+            "text": "Aber auch die Mehrkosten beim Bau des Großraumflugzeugs A380 machten dem Konzern zu schaffen.",
+            "tokenIds": [
+                403,
+                404,
+                405,
+                406,
+                407,
+                408,
+                409,
+                410,
+                411,
+                412,
+                413,
+                414,
+                415,
+                416,
+                417
+            ],
+            "tokens": [
+                "Aber",
+                "auch",
+                "die",
+                "Mehrkosten",
+                "beim",
+                "Bau",
+                "des",
+                "Großraumflugzeugs",
+                "A380",
+                "machten",
+                "dem",
+                "Konzern",
+                "zu",
+                "schaffen",
+                "."
+            ]
+        },
+        {
+            "begin": 418,
+            "charBegin": 2711,
+            "charEnd": 2888,
+            "end": 443,
+            "id": 21,
+            "text": "EU-Kommission und Bundesregierung äußerten indessen Zweifel, ob bei der Vergabe von Aufträgen im Rüstungsbereich der Vereinigten Staaten alles mit rechten Dingen zugegangen sei. ",
+            "tokenIds": [
+                418,
+                419,
+                420,
+                421,
+                422,
+                423,
+                424,
+                425,
+                426,
+                427,
+                428,
+                429,
+                430,
+                431,
+                432,
+                433,
+                434,
+                435,
+                436,
+                437,
+                438,
+                439,
+                440,
+                441,
+                442
+            ],
+            "tokens": [
+                "EU-Kommission",
+                "und",
+                "Bundesregierung",
+                "äußerten",
+                "indessen",
+                "Zweifel",
+                ",",
+                "ob",
+                "bei",
+                "der",
+                "Vergabe",
+                "von",
+                "Aufträgen",
+                "im",
+                "Rüstungsbereich",
+                "der",
+                "Vereinigten",
+                "Staaten",
+                "alles",
+                "mit",
+                "rechten",
+                "Dingen",
+                "zugegangen",
+                "sei",
+                "."
+            ]
+        },
+        {
+            "begin": 443,
+            "charBegin": 2889,
+            "charEnd": 3005,
+            "end": 463,
+            "id": 22,
+            "text": "Der deutsche Wirtschaftsminister Rainer Brüderle (FDP) warf den USA vor, den Konkurrenten Boeing bevorzugt zu haben. ",
+            "tokenIds": [
+                443,
+                444,
+                445,
+                446,
+                447,
+                448,
+                449,
+                450,
+                451,
+                452,
+                453,
+                454,
+                455,
+                456,
+                457,
+                458,
+                459,
+                460,
+                461,
+                462
+            ],
+            "tokens": [
+                "Der",
+                "deutsche",
+                "Wirtschaftsminister",
+                "Rainer",
+                "Brüderle",
+                "(",
+                "FDP",
+                ")",
+                "warf",
+                "den",
+                "USA",
+                "vor",
+                ",",
+                "den",
+                "Konkurrenten",
+                "Boeing",
+                "bevorzugt",
+                "zu",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "begin": 463,
+            "charBegin": 3006,
+            "charEnd": 3073,
+            "end": 473,
+            "id": 23,
+            "text": "Brüderle sieht die Gefahr der Einschränkung des freien Wettbewerbs.",
+            "tokenIds": [
+                463,
+                464,
+                465,
+                466,
+                467,
+                468,
+                469,
+                470,
+                471,
+                472
+            ],
+            "tokens": [
+                "Brüderle",
+                "sieht",
+                "die",
+                "Gefahr",
+                "der",
+                "Einschränkung",
+                "des",
+                "freien",
+                "Wettbewerbs",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 15,
+            "id": 1,
+            "sentence": 1,
+            "text": "europäische",
+            "word": 2
+        },
+        {
+            "charBegin": 16,
+            "charEnd": 25,
+            "id": 2,
+            "sentence": 1,
+            "text": "Rüstungs-",
+            "word": 3
+        },
+        {
+            "charBegin": 26,
+            "charEnd": 29,
+            "id": 3,
+            "sentence": 1,
+            "text": "und",
+            "word": 4
+        },
+        {
+            "charBegin": 30,
+            "charEnd": 46,
+            "id": 4,
+            "sentence": 1,
+            "text": "Raumfahrtkonzern",
+            "word": 5
+        },
+        {
+            "charBegin": 47,
+            "charEnd": 51,
+            "id": 5,
+            "sentence": 1,
+            "text": "EADS",
+            "word": 6
+        },
+        {
+            "charBegin": 52,
+            "charEnd": 55,
+            "id": 6,
+            "sentence": 1,
+            "text": "und",
+            "word": 7
+        },
+        {
+            "charBegin": 56,
+            "charEnd": 60,
+            "id": 7,
+            "sentence": 1,
+            "text": "sein",
+            "word": 8
+        },
+        {
+            "charBegin": 61,
+            "charEnd": 71,
+            "id": 8,
+            "sentence": 1,
+            "text": "US-Partner",
+            "word": 9
+        },
+        {
+            "charBegin": 72,
+            "charEnd": 80,
+            "id": 9,
+            "sentence": 1,
+            "text": "Northrop",
+            "word": 10
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 88,
+            "id": 10,
+            "sentence": 1,
+            "text": "Grumman",
+            "word": 11
+        },
+        {
+            "charBegin": 89,
+            "charEnd": 94,
+            "id": 11,
+            "sentence": 1,
+            "text": "zogen",
+            "word": 12
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 97,
+            "id": 12,
+            "sentence": 1,
+            "text": "am",
+            "word": 13
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 108,
+            "id": 13,
+            "sentence": 1,
+            "text": "Donnerstag",
+            "word": 14
+        },
+        {
+            "charBegin": 109,
+            "charEnd": 112,
+            "id": 14,
+            "sentence": 1,
+            "text": "ihr",
+            "word": 15
+        },
+        {
+            "charBegin": 113,
+            "charEnd": 120,
+            "id": 15,
+            "sentence": 1,
+            "text": "Angebot",
+            "word": 16
+        },
+        {
+            "charBegin": 121,
+            "charEnd": 124,
+            "id": 16,
+            "sentence": 1,
+            "text": "für",
+            "word": 17
+        },
+        {
+            "charBegin": 125,
+            "charEnd": 128,
+            "id": 17,
+            "sentence": 1,
+            "text": "den",
+            "word": 18
+        },
+        {
+            "charBegin": 129,
+            "charEnd": 132,
+            "id": 18,
+            "sentence": 1,
+            "text": "Bau",
+            "word": 19
+        },
+        {
+            "charBegin": 133,
+            "charEnd": 136,
+            "id": 19,
+            "sentence": 1,
+            "text": "von",
+            "word": 20
+        },
+        {
+            "charBegin": 137,
+            "charEnd": 151,
+            "id": 20,
+            "sentence": 1,
+            "text": "Tankflugzeugen",
+            "word": 21
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 155,
+            "id": 21,
+            "sentence": 1,
+            "text": "für",
+            "word": 22
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 159,
+            "id": 22,
+            "sentence": 1,
+            "text": "das",
+            "word": 23
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 187,
+            "id": 23,
+            "sentence": 1,
+            "text": "US-Verteidigungsministerium",
+            "word": 24
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 194,
+            "id": 24,
+            "sentence": 1,
+            "text": "zurück",
+            "word": 25
+        },
+        {
+            "charBegin": 194,
+            "charEnd": 195,
+            "id": 25,
+            "sentence": 1,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 198,
+            "charEnd": 200,
+            "id": 26,
+            "sentence": 2,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 204,
+            "id": 27,
+            "sentence": 2,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 205,
+            "charEnd": 211,
+            "id": 28,
+            "sentence": 2,
+            "text": "Medien",
+            "word": 3
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 215,
+            "id": 29,
+            "sentence": 2,
+            "text": "war",
+            "word": 4
+        },
+        {
+            "charBegin": 216,
+            "charEnd": 219,
+            "id": 30,
+            "sentence": 2,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 220,
+            "charEnd": 231,
+            "id": 31,
+            "sentence": 2,
+            "text": "Großauftrag",
+            "word": 6
+        },
+        {
+            "charBegin": 232,
+            "charEnd": 235,
+            "id": 32,
+            "sentence": 2,
+            "text": "aus",
+            "word": 7
+        },
+        {
+            "charBegin": 236,
+            "charEnd": 239,
+            "id": 33,
+            "sentence": 2,
+            "text": "dem",
+            "word": 8
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 248,
+            "id": 34,
+            "sentence": 2,
+            "text": "Pentagon",
+            "word": 9
+        },
+        {
+            "charBegin": 249,
+            "charEnd": 264,
+            "id": 35,
+            "sentence": 2,
+            "text": "überschwenglich",
+            "word": 10
+        },
+        {
+            "charBegin": 265,
+            "charEnd": 270,
+            "id": 36,
+            "sentence": 2,
+            "text": "schon",
+            "word": 11
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 274,
+            "id": 37,
+            "sentence": 2,
+            "text": "als",
+            "word": 12
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 276,
+            "id": 38,
+            "sentence": 2,
+            "text": "„",
+            "word": 13
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 284,
+            "id": 39,
+            "sentence": 2,
+            "text": "Geschäft",
+            "word": 14
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 288,
+            "id": 40,
+            "sentence": 2,
+            "text": "des",
+            "word": 15
+        },
+        {
+            "charBegin": 289,
+            "charEnd": 301,
+            "id": 41,
+            "sentence": 2,
+            "text": "Jahrhunderts",
+            "word": 16
+        },
+        {
+            "charBegin": 301,
+            "charEnd": 302,
+            "id": 42,
+            "sentence": 2,
+            "text": "“",
+            "word": 17
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 313,
+            "id": 43,
+            "sentence": 2,
+            "text": "bezeichnet",
+            "word": 18
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 320,
+            "id": 44,
+            "sentence": 2,
+            "text": "worden",
+            "word": 19
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 321,
+            "id": 45,
+            "sentence": 2,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 322,
+            "charEnd": 324,
+            "id": 46,
+            "sentence": 3,
+            "text": "Es",
+            "word": 1
+        },
+        {
+            "charBegin": 325,
+            "charEnd": 329,
+            "id": 47,
+            "sentence": 3,
+            "text": "ging",
+            "word": 2
+        },
+        {
+            "charBegin": 330,
+            "charEnd": 332,
+            "id": 48,
+            "sentence": 3,
+            "text": "um",
+            "word": 3
+        },
+        {
+            "charBegin": 333,
+            "charEnd": 336,
+            "id": 49,
+            "sentence": 3,
+            "text": "den",
+            "word": 4
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 340,
+            "id": 50,
+            "sentence": 3,
+            "text": "Bau",
+            "word": 5
+        },
+        {
+            "charBegin": 341,
+            "charEnd": 344,
+            "id": 51,
+            "sentence": 3,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 345,
+            "charEnd": 348,
+            "id": 52,
+            "sentence": 3,
+            "text": "179",
+            "word": 7
+        },
+        {
+            "charBegin": 349,
+            "charEnd": 363,
+            "id": 53,
+            "sentence": 3,
+            "text": "Tankflugzeugen",
+            "word": 8
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 367,
+            "id": 54,
+            "sentence": 3,
+            "text": "mit",
+            "word": 9
+        },
+        {
+            "charBegin": 368,
+            "charEnd": 373,
+            "id": 55,
+            "sentence": 3,
+            "text": "einem",
+            "word": 10
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 387,
+            "id": 56,
+            "sentence": 3,
+            "text": "Gesamtvolumen",
+            "word": 11
+        },
+        {
+            "charBegin": 388,
+            "charEnd": 391,
+            "id": 57,
+            "sentence": 3,
+            "text": "von",
+            "word": 12
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 396,
+            "id": 58,
+            "sentence": 3,
+            "text": "rund",
+            "word": 13
+        },
+        {
+            "charBegin": 397,
+            "charEnd": 399,
+            "id": 59,
+            "sentence": 3,
+            "text": "35",
+            "word": 14
+        },
+        {
+            "charBegin": 400,
+            "charEnd": 410,
+            "id": 60,
+            "sentence": 3,
+            "text": "Milliarden",
+            "word": 15
+        },
+        {
+            "charBegin": 411,
+            "charEnd": 420,
+            "id": 61,
+            "sentence": 3,
+            "text": "US-Dollar",
+            "word": 16
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 421,
+            "id": 62,
+            "sentence": 3,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 425,
+            "id": 63,
+            "sentence": 4,
+            "text": "Vor",
+            "word": 1
+        },
+        {
+            "charBegin": 426,
+            "charEnd": 430,
+            "id": 64,
+            "sentence": 4,
+            "text": "fast",
+            "word": 2
+        },
+        {
+            "charBegin": 431,
+            "charEnd": 436,
+            "id": 65,
+            "sentence": 4,
+            "text": "genau",
+            "word": 3
+        },
+        {
+            "charBegin": 437,
+            "charEnd": 441,
+            "id": 66,
+            "sentence": 4,
+            "text": "zwei",
+            "word": 4
+        },
+        {
+            "charBegin": 442,
+            "charEnd": 448,
+            "id": 67,
+            "sentence": 4,
+            "text": "Jahren",
+            "word": 5
+        },
+        {
+            "charBegin": 449,
+            "charEnd": 455,
+            "id": 68,
+            "sentence": 4,
+            "text": "schien",
+            "word": 6
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 460,
+            "id": 69,
+            "sentence": 4,
+            "text": "EADS",
+            "word": 7
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 464,
+            "id": 70,
+            "sentence": 4,
+            "text": "den",
+            "word": 8
+        },
+        {
+            "charBegin": 465,
+            "charEnd": 469,
+            "id": 71,
+            "sentence": 4,
+            "text": "Deal",
+            "word": 9
+        },
+        {
+            "charBegin": 470,
+            "charEnd": 475,
+            "id": 72,
+            "sentence": 4,
+            "text": "schon",
+            "word": 10
+        },
+        {
+            "charBegin": 476,
+            "charEnd": 478,
+            "id": 73,
+            "sentence": 4,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 482,
+            "id": 74,
+            "sentence": 4,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 483,
+            "charEnd": 489,
+            "id": 75,
+            "sentence": 4,
+            "text": "Tasche",
+            "word": 13
+        },
+        {
+            "charBegin": 490,
+            "charEnd": 492,
+            "id": 76,
+            "sentence": 4,
+            "text": "zu",
+            "word": 14
+        },
+        {
+            "charBegin": 493,
+            "charEnd": 498,
+            "id": 77,
+            "sentence": 4,
+            "text": "haben",
+            "word": 15
+        },
+        {
+            "charBegin": 499,
+            "charEnd": 500,
+            "id": 78,
+            "sentence": 4,
+            "text": "(",
+            "word": 16
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 508,
+            "id": 79,
+            "sentence": 4,
+            "text": "Wikinews",
+            "word": 17
+        },
+        {
+            "charBegin": 509,
+            "charEnd": 519,
+            "id": 80,
+            "sentence": 4,
+            "text": "berichtete",
+            "word": 18
+        },
+        {
+            "charBegin": 519,
+            "charEnd": 520,
+            "id": 81,
+            "sentence": 4,
+            "text": ")",
+            "word": 19
+        },
+        {
+            "charBegin": 520,
+            "charEnd": 521,
+            "id": 82,
+            "sentence": 4,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 526,
+            "id": 83,
+            "sentence": 5,
+            "text": "Doch",
+            "word": 1
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 531,
+            "id": 84,
+            "sentence": 5,
+            "text": "dann",
+            "word": 2
+        },
+        {
+            "charBegin": 532,
+            "charEnd": 535,
+            "id": 85,
+            "sentence": 5,
+            "text": "kam",
+            "word": 3
+        },
+        {
+            "charBegin": 536,
+            "charEnd": 541,
+            "id": 86,
+            "sentence": 5,
+            "text": "alles",
+            "word": 4
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 548,
+            "id": 87,
+            "sentence": 5,
+            "text": "anders",
+            "word": 5
+        },
+        {
+            "charBegin": 548,
+            "charEnd": 549,
+            "id": 88,
+            "sentence": 5,
+            "text": ".",
+            "word": 6
+        },
+        {
+            "charBegin": 550,
+            "charEnd": 553,
+            "id": 89,
+            "sentence": 6,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 554,
+            "charEnd": 570,
+            "id": 90,
+            "sentence": 6,
+            "text": "US-Flugzeugbauer",
+            "word": 2
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 577,
+            "id": 91,
+            "sentence": 6,
+            "text": "Boeing",
+            "word": 3
+        },
+        {
+            "charBegin": 578,
+            "charEnd": 585,
+            "id": 92,
+            "sentence": 6,
+            "text": "betrieb",
+            "word": 4
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 595,
+            "id": 93,
+            "sentence": 6,
+            "text": "intensive",
+            "word": 5
+        },
+        {
+            "charBegin": 596,
+            "charEnd": 607,
+            "id": 94,
+            "sentence": 6,
+            "text": "Lobbyarbeit",
+            "word": 6
+        },
+        {
+            "charBegin": 607,
+            "charEnd": 608,
+            "id": 95,
+            "sentence": 6,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 609,
+            "charEnd": 612,
+            "id": 96,
+            "sentence": 7,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 613,
+            "charEnd": 625,
+            "id": 97,
+            "sentence": 7,
+            "text": "Rechnungshof",
+            "word": 2
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 629,
+            "id": 98,
+            "sentence": 7,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 630,
+            "charEnd": 643,
+            "id": 99,
+            "sentence": 7,
+            "text": "US-Kongresses",
+            "word": 4
+        },
+        {
+            "charBegin": 644,
+            "charEnd": 652,
+            "id": 100,
+            "sentence": 7,
+            "text": "erklärte",
+            "word": 5
+        },
+        {
+            "charBegin": 653,
+            "charEnd": 656,
+            "id": 101,
+            "sentence": 7,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 657,
+            "charEnd": 670,
+            "id": 102,
+            "sentence": 7,
+            "text": "Ausschreibung",
+            "word": 7
+        },
+        {
+            "charBegin": 671,
+            "charEnd": 680,
+            "id": 103,
+            "sentence": 7,
+            "text": "daraufhin",
+            "word": 8
+        },
+        {
+            "charBegin": 681,
+            "charEnd": 684,
+            "id": 104,
+            "sentence": 7,
+            "text": "für",
+            "word": 9
+        },
+        {
+            "charBegin": 685,
+            "charEnd": 695,
+            "id": 105,
+            "sentence": 7,
+            "text": "fehlerhaft",
+            "word": 10
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 696,
+            "id": 106,
+            "sentence": 7,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 697,
+            "charEnd": 700,
+            "id": 107,
+            "sentence": 7,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 701,
+            "charEnd": 708,
+            "id": 108,
+            "sentence": 7,
+            "text": "Auftrag",
+            "word": 13
+        },
+        {
+            "charBegin": 709,
+            "charEnd": 714,
+            "id": 109,
+            "sentence": 7,
+            "text": "wurde",
+            "word": 14
+        },
+        {
+            "charBegin": 715,
+            "charEnd": 718,
+            "id": 110,
+            "sentence": 7,
+            "text": "neu",
+            "word": 15
+        },
+        {
+            "charBegin": 719,
+            "charEnd": 733,
+            "id": 111,
+            "sentence": 7,
+            "text": "ausgeschrieben",
+            "word": 16
+        },
+        {
+            "charBegin": 733,
+            "charEnd": 734,
+            "id": 112,
+            "sentence": 7,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 735,
+            "charEnd": 738,
+            "id": 113,
+            "sentence": 8,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 739,
+            "charEnd": 745,
+            "id": 114,
+            "sentence": 8,
+            "text": "Rennen",
+            "word": 2
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 752,
+            "id": 115,
+            "sentence": 8,
+            "text": "schien",
+            "word": 3
+        },
+        {
+            "charBegin": 753,
+            "charEnd": 759,
+            "id": 116,
+            "sentence": 8,
+            "text": "wieder",
+            "word": 4
+        },
+        {
+            "charBegin": 760,
+            "charEnd": 765,
+            "id": 117,
+            "sentence": 8,
+            "text": "offen",
+            "word": 5
+        },
+        {
+            "charBegin": 765,
+            "charEnd": 766,
+            "id": 118,
+            "sentence": 8,
+            "text": ".",
+            "word": 6
+        },
+        {
+            "charBegin": 767,
+            "charEnd": 771,
+            "id": 119,
+            "sentence": 9,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 772,
+            "charEnd": 784,
+            "id": 120,
+            "sentence": 9,
+            "text": "Einschätzung",
+            "word": 2
+        },
+        {
+            "charBegin": 785,
+            "charEnd": 788,
+            "id": 121,
+            "sentence": 9,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 789,
+            "charEnd": 817,
+            "id": 122,
+            "sentence": 9,
+            "text": "Airbus-Vorstandsvorsitzenden",
+            "word": 4
+        },
+        {
+            "charBegin": 818,
+            "charEnd": 824,
+            "id": 123,
+            "sentence": 9,
+            "text": "Thomas",
+            "word": 5
+        },
+        {
+            "charBegin": 825,
+            "charEnd": 831,
+            "id": 124,
+            "sentence": 9,
+            "text": "Enders",
+            "word": 6
+        },
+        {
+            "charBegin": 832,
+            "charEnd": 838,
+            "id": 125,
+            "sentence": 9,
+            "text": "wurden",
+            "word": 7
+        },
+        {
+            "charBegin": 839,
+            "charEnd": 842,
+            "id": 126,
+            "sentence": 9,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 843,
+            "charEnd": 854,
+            "id": 127,
+            "sentence": 9,
+            "text": "Bedingungen",
+            "word": 9
+        },
+        {
+            "charBegin": 855,
+            "charEnd": 858,
+            "id": 128,
+            "sentence": 9,
+            "text": "nun",
+            "word": 10
+        },
+        {
+            "charBegin": 859,
+            "charEnd": 865,
+            "id": 129,
+            "sentence": 9,
+            "text": "jedoch",
+            "word": 11
+        },
+        {
+            "charBegin": 866,
+            "charEnd": 868,
+            "id": 130,
+            "sentence": 9,
+            "text": "so",
+            "word": 12
+        },
+        {
+            "charBegin": 869,
+            "charEnd": 877,
+            "id": 131,
+            "sentence": 9,
+            "text": "geändert",
+            "word": 13
+        },
+        {
+            "charBegin": 877,
+            "charEnd": 878,
+            "id": 132,
+            "sentence": 9,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 879,
+            "charEnd": 883,
+            "id": 133,
+            "sentence": 9,
+            "text": "dass",
+            "word": 15
+        },
+        {
+            "charBegin": 884,
+            "charEnd": 887,
+            "id": 134,
+            "sentence": 9,
+            "text": "sie",
+            "word": 16
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 893,
+            "id": 135,
+            "sentence": 9,
+            "text": "genau",
+            "word": 17
+        },
+        {
+            "charBegin": 894,
+            "charEnd": 897,
+            "id": 136,
+            "sentence": 9,
+            "text": "auf",
+            "word": 18
+        },
+        {
+            "charBegin": 898,
+            "charEnd": 901,
+            "id": 137,
+            "sentence": 9,
+            "text": "das",
+            "word": 19
+        },
+        {
+            "charBegin": 902,
+            "charEnd": 909,
+            "id": 138,
+            "sentence": 9,
+            "text": "Angebot",
+            "word": 20
+        },
+        {
+            "charBegin": 910,
+            "charEnd": 913,
+            "id": 139,
+            "sentence": 9,
+            "text": "des",
+            "word": 21
+        },
+        {
+            "charBegin": 914,
+            "charEnd": 929,
+            "id": 140,
+            "sentence": 9,
+            "text": "US-Konkurrenten",
+            "word": 22
+        },
+        {
+            "charBegin": 930,
+            "charEnd": 936,
+            "id": 141,
+            "sentence": 9,
+            "text": "Boeing",
+            "word": 23
+        },
+        {
+            "charBegin": 937,
+            "charEnd": 950,
+            "id": 142,
+            "sentence": 9,
+            "text": "zugeschnitten",
+            "word": 24
+        },
+        {
+            "charBegin": 951,
+            "charEnd": 956,
+            "id": 143,
+            "sentence": 9,
+            "text": "waren",
+            "word": 25
+        },
+        {
+            "charBegin": 956,
+            "charEnd": 957,
+            "id": 144,
+            "sentence": 9,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 958,
+            "charEnd": 962,
+            "id": 145,
+            "sentence": 10,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 963,
+            "charEnd": 969,
+            "id": 146,
+            "sentence": 10,
+            "text": "bisher",
+            "word": 2
+        },
+        {
+            "charBegin": 970,
+            "charEnd": 983,
+            "id": 147,
+            "sentence": 10,
+            "text": "unbestätigten",
+            "word": 3
+        },
+        {
+            "charBegin": 984,
+            "charEnd": 993,
+            "id": 148,
+            "sentence": 10,
+            "text": "Berichten",
+            "word": 4
+        },
+        {
+            "charBegin": 994,
+            "charEnd": 999,
+            "id": 149,
+            "sentence": 10,
+            "text": "wurde",
+            "word": 5
+        },
+        {
+            "charBegin": 1000,
+            "charEnd": 1003,
+            "id": 150,
+            "sentence": 10,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 1004,
+            "charEnd": 1009,
+            "id": 151,
+            "sentence": 10,
+            "text": "Firma",
+            "word": 7
+        },
+        {
+            "charBegin": 1010,
+            "charEnd": 1016,
+            "id": 152,
+            "sentence": 10,
+            "text": "Boeing",
+            "word": 8
+        },
+        {
+            "charBegin": 1017,
+            "charEnd": 1025,
+            "id": 153,
+            "sentence": 10,
+            "text": "außerdem",
+            "word": 9
+        },
+        {
+            "charBegin": 1026,
+            "charEnd": 1034,
+            "id": 154,
+            "sentence": 10,
+            "text": "Einsicht",
+            "word": 10
+        },
+        {
+            "charBegin": 1035,
+            "charEnd": 1037,
+            "id": 155,
+            "sentence": 10,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 1038,
+            "charEnd": 1041,
+            "id": 156,
+            "sentence": 10,
+            "text": "das",
+            "word": 12
+        },
+        {
+            "charBegin": 1042,
+            "charEnd": 1049,
+            "id": 157,
+            "sentence": 10,
+            "text": "Angebot",
+            "word": 13
+        },
+        {
+            "charBegin": 1050,
+            "charEnd": 1053,
+            "id": 158,
+            "sentence": 10,
+            "text": "von",
+            "word": 14
+        },
+        {
+            "charBegin": 1054,
+            "charEnd": 1058,
+            "id": 159,
+            "sentence": 10,
+            "text": "EADS",
+            "word": 15
+        },
+        {
+            "charBegin": 1059,
+            "charEnd": 1062,
+            "id": 160,
+            "sentence": 10,
+            "text": "und",
+            "word": 16
+        },
+        {
+            "charBegin": 1063,
+            "charEnd": 1069,
+            "id": 161,
+            "sentence": 10,
+            "text": "seines",
+            "word": 17
+        },
+        {
+            "charBegin": 1070,
+            "charEnd": 1081,
+            "id": 162,
+            "sentence": 10,
+            "text": "US-Partners",
+            "word": 18
+        },
+        {
+            "charBegin": 1082,
+            "charEnd": 1090,
+            "id": 163,
+            "sentence": 10,
+            "text": "Northrop",
+            "word": 19
+        },
+        {
+            "charBegin": 1091,
+            "charEnd": 1098,
+            "id": 164,
+            "sentence": 10,
+            "text": "Grumman",
+            "word": 20
+        },
+        {
+            "charBegin": 1099,
+            "charEnd": 1106,
+            "id": 165,
+            "sentence": 10,
+            "text": "gewährt",
+            "word": 21
+        },
+        {
+            "charBegin": 1107,
+            "charEnd": 1110,
+            "id": 166,
+            "sentence": 10,
+            "text": "und",
+            "word": 22
+        },
+        {
+            "charBegin": 1111,
+            "charEnd": 1117,
+            "id": 167,
+            "sentence": 10,
+            "text": "konnte",
+            "word": 23
+        },
+        {
+            "charBegin": 1118,
+            "charEnd": 1122,
+            "id": 168,
+            "sentence": 10,
+            "text": "sein",
+            "word": 24
+        },
+        {
+            "charBegin": 1123,
+            "charEnd": 1130,
+            "id": 169,
+            "sentence": 10,
+            "text": "Angebot",
+            "word": 25
+        },
+        {
+            "charBegin": 1131,
+            "charEnd": 1137,
+            "id": 170,
+            "sentence": 10,
+            "text": "darauf",
+            "word": 26
+        },
+        {
+            "charBegin": 1138,
+            "charEnd": 1147,
+            "id": 171,
+            "sentence": 10,
+            "text": "abstimmen",
+            "word": 27
+        },
+        {
+            "charBegin": 1147,
+            "charEnd": 1148,
+            "id": 172,
+            "sentence": 10,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 1150,
+            "charEnd": 1152,
+            "id": 173,
+            "sentence": 11,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 1153,
+            "charEnd": 1161,
+            "id": 174,
+            "sentence": 11,
+            "text": "Dienstag",
+            "word": 2
+        },
+        {
+            "charBegin": 1162,
+            "charEnd": 1165,
+            "id": 175,
+            "sentence": 11,
+            "text": "zog",
+            "word": 3
+        },
+        {
+            "charBegin": 1166,
+            "charEnd": 1169,
+            "id": 176,
+            "sentence": 11,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 1170,
+            "charEnd": 1180,
+            "id": 177,
+            "sentence": 11,
+            "text": "US-Partner",
+            "word": 5
+        },
+        {
+            "charBegin": 1181,
+            "charEnd": 1184,
+            "id": 178,
+            "sentence": 11,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 1185,
+            "charEnd": 1189,
+            "id": 179,
+            "sentence": 11,
+            "text": "EADS",
+            "word": 7
+        },
+        {
+            "charBegin": 1189,
+            "charEnd": 1190,
+            "id": 180,
+            "sentence": 11,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 1191,
+            "charEnd": 1199,
+            "id": 181,
+            "sentence": 11,
+            "text": "Northrop",
+            "word": 9
+        },
+        {
+            "charBegin": 1200,
+            "charEnd": 1207,
+            "id": 182,
+            "sentence": 11,
+            "text": "Grumman",
+            "word": 10
+        },
+        {
+            "charBegin": 1207,
+            "charEnd": 1208,
+            "id": 183,
+            "sentence": 11,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1209,
+            "charEnd": 1212,
+            "id": 184,
+            "sentence": 11,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 1213,
+            "charEnd": 1216,
+            "id": 185,
+            "sentence": 11,
+            "text": "als",
+            "word": 13
+        },
+        {
+            "charBegin": 1217,
+            "charEnd": 1235,
+            "id": 186,
+            "sentence": 11,
+            "text": "Generalunternehmer",
+            "word": 14
+        },
+        {
+            "charBegin": 1236,
+            "charEnd": 1245,
+            "id": 187,
+            "sentence": 11,
+            "text": "fungierte",
+            "word": 15
+        },
+        {
+            "charBegin": 1245,
+            "charEnd": 1246,
+            "id": 188,
+            "sentence": 11,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 1247,
+            "charEnd": 1250,
+            "id": 189,
+            "sentence": 11,
+            "text": "das",
+            "word": 17
+        },
+        {
+            "charBegin": 1251,
+            "charEnd": 1258,
+            "id": 190,
+            "sentence": 11,
+            "text": "Angebot",
+            "word": 18
+        },
+        {
+            "charBegin": 1259,
+            "charEnd": 1263,
+            "id": 191,
+            "sentence": 11,
+            "text": "beim",
+            "word": 19
+        },
+        {
+            "charBegin": 1264,
+            "charEnd": 1272,
+            "id": 192,
+            "sentence": 11,
+            "text": "Pentagon",
+            "word": 20
+        },
+        {
+            "charBegin": 1273,
+            "charEnd": 1276,
+            "id": 193,
+            "sentence": 11,
+            "text": "mit",
+            "word": 21
+        },
+        {
+            "charBegin": 1277,
+            "charEnd": 1280,
+            "id": 194,
+            "sentence": 11,
+            "text": "der",
+            "word": 22
+        },
+        {
+            "charBegin": 1281,
+            "charEnd": 1291,
+            "id": 195,
+            "sentence": 11,
+            "text": "Begründung",
+            "word": 23
+        },
+        {
+            "charBegin": 1292,
+            "charEnd": 1298,
+            "id": 196,
+            "sentence": 11,
+            "text": "zurück",
+            "word": 24
+        },
+        {
+            "charBegin": 1298,
+            "charEnd": 1299,
+            "id": 197,
+            "sentence": 11,
+            "text": ",",
+            "word": 25
+        },
+        {
+            "charBegin": 1300,
+            "charEnd": 1306,
+            "id": 198,
+            "sentence": 11,
+            "text": "dieses",
+            "word": 26
+        },
+        {
+            "charBegin": 1307,
+            "charEnd": 1311,
+            "id": 199,
+            "sentence": 11,
+            "text": "habe",
+            "word": 27
+        },
+        {
+            "charBegin": 1312,
+            "charEnd": 1315,
+            "id": 200,
+            "sentence": 11,
+            "text": "die",
+            "word": 28
+        },
+        {
+            "charBegin": 1316,
+            "charEnd": 1329,
+            "id": 201,
+            "sentence": 11,
+            "text": "Ausschreibung",
+            "word": 29
+        },
+        {
+            "charBegin": 1330,
+            "charEnd": 1334,
+            "id": 202,
+            "sentence": 11,
+            "text": "voll",
+            "word": 30
+        },
+        {
+            "charBegin": 1335,
+            "charEnd": 1338,
+            "id": 203,
+            "sentence": 11,
+            "text": "auf",
+            "word": 31
+        },
+        {
+            "charBegin": 1339,
+            "charEnd": 1345,
+            "id": 204,
+            "sentence": 11,
+            "text": "Boeing",
+            "word": 32
+        },
+        {
+            "charBegin": 1346,
+            "charEnd": 1359,
+            "id": 205,
+            "sentence": 11,
+            "text": "zugeschnitten",
+            "word": 33
+        },
+        {
+            "charBegin": 1359,
+            "charEnd": 1360,
+            "id": 206,
+            "sentence": 11,
+            "text": ".",
+            "word": 34
+        },
+        {
+            "charBegin": 1361,
+            "charEnd": 1364,
+            "id": 207,
+            "sentence": 12,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1365,
+            "charEnd": 1392,
+            "id": 208,
+            "sentence": 12,
+            "text": "Airbus-Vorstandsvorsitzende",
+            "word": 2
+        },
+        {
+            "charBegin": 1393,
+            "charEnd": 1399,
+            "id": 209,
+            "sentence": 12,
+            "text": "Enders",
+            "word": 3
+        },
+        {
+            "charBegin": 1400,
+            "charEnd": 1407,
+            "id": 210,
+            "sentence": 12,
+            "text": "schloss",
+            "word": 4
+        },
+        {
+            "charBegin": 1408,
+            "charEnd": 1412,
+            "id": 211,
+            "sentence": 12,
+            "text": "sich",
+            "word": 5
+        },
+        {
+            "charBegin": 1413,
+            "charEnd": 1419,
+            "id": 212,
+            "sentence": 12,
+            "text": "dieser",
+            "word": 6
+        },
+        {
+            "charBegin": 1420,
+            "charEnd": 1432,
+            "id": 213,
+            "sentence": 12,
+            "text": "Einschätzung",
+            "word": 7
+        },
+        {
+            "charBegin": 1433,
+            "charEnd": 1436,
+            "id": 214,
+            "sentence": 12,
+            "text": "mit",
+            "word": 8
+        },
+        {
+            "charBegin": 1437,
+            "charEnd": 1440,
+            "id": 215,
+            "sentence": 12,
+            "text": "den",
+            "word": 9
+        },
+        {
+            "charBegin": 1441,
+            "charEnd": 1447,
+            "id": 216,
+            "sentence": 12,
+            "text": "Worten",
+            "word": 10
+        },
+        {
+            "charBegin": 1448,
+            "charEnd": 1450,
+            "id": 217,
+            "sentence": 12,
+            "text": "an",
+            "word": 11
+        },
+        {
+            "charBegin": 1450,
+            "charEnd": 1451,
+            "id": 218,
+            "sentence": 12,
+            "text": ":",
+            "word": 12
+        },
+        {
+            "charBegin": 1452,
+            "charEnd": 1453,
+            "id": 219,
+            "sentence": 12,
+            "text": "„",
+            "word": 13
+        },
+        {
+            "charBegin": 1453,
+            "charEnd": 1457,
+            "id": 220,
+            "sentence": 12,
+            "text": "Wenn",
+            "word": 14
+        },
+        {
+            "charBegin": 1458,
+            "charEnd": 1463,
+            "id": 221,
+            "sentence": 12,
+            "text": "unser",
+            "word": 15
+        },
+        {
+            "charBegin": 1464,
+            "charEnd": 1471,
+            "id": 222,
+            "sentence": 12,
+            "text": "Partner",
+            "word": 16
+        },
+        {
+            "charBegin": 1472,
+            "charEnd": 1480,
+            "id": 223,
+            "sentence": 12,
+            "text": "Northrop",
+            "word": 17
+        },
+        {
+            "charBegin": 1481,
+            "charEnd": 1488,
+            "id": 224,
+            "sentence": 12,
+            "text": "Grumman",
+            "word": 18
+        },
+        {
+            "charBegin": 1489,
+            "charEnd": 1498,
+            "id": 225,
+            "sentence": 12,
+            "text": "überzeugt",
+            "word": 19
+        },
+        {
+            "charBegin": 1499,
+            "charEnd": 1502,
+            "id": 226,
+            "sentence": 12,
+            "text": "ist",
+            "word": 20
+        },
+        {
+            "charBegin": 1502,
+            "charEnd": 1503,
+            "id": 227,
+            "sentence": 12,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 1504,
+            "charEnd": 1508,
+            "id": 228,
+            "sentence": 12,
+            "text": "dass",
+            "word": 22
+        },
+        {
+            "charBegin": 1509,
+            "charEnd": 1512,
+            "id": 229,
+            "sentence": 12,
+            "text": "wir",
+            "word": 23
+        },
+        {
+            "charBegin": 1513,
+            "charEnd": 1515,
+            "id": 230,
+            "sentence": 12,
+            "text": "in",
+            "word": 24
+        },
+        {
+            "charBegin": 1516,
+            "charEnd": 1519,
+            "id": 231,
+            "sentence": 12,
+            "text": "dem",
+            "word": 25
+        },
+        {
+            "charBegin": 1520,
+            "charEnd": 1531,
+            "id": 232,
+            "sentence": 12,
+            "text": "derzeitigen",
+            "word": 26
+        },
+        {
+            "charBegin": 1532,
+            "charEnd": 1538,
+            "id": 233,
+            "sentence": 12,
+            "text": "Umfeld",
+            "word": 27
+        },
+        {
+            "charBegin": 1539,
+            "charEnd": 1544,
+            "id": 234,
+            "sentence": 12,
+            "text": "keine",
+            "word": 28
+        },
+        {
+            "charBegin": 1545,
+            "charEnd": 1551,
+            "id": 235,
+            "sentence": 12,
+            "text": "Chance",
+            "word": 29
+        },
+        {
+            "charBegin": 1552,
+            "charEnd": 1557,
+            "id": 236,
+            "sentence": 12,
+            "text": "haben",
+            "word": 30
+        },
+        {
+            "charBegin": 1558,
+            "charEnd": 1560,
+            "id": 237,
+            "sentence": 12,
+            "text": "zu",
+            "word": 31
+        },
+        {
+            "charBegin": 1561,
+            "charEnd": 1569,
+            "id": 238,
+            "sentence": 12,
+            "text": "gewinnen",
+            "word": 32
+        },
+        {
+            "charBegin": 1570,
+            "charEnd": 1571,
+            "id": 239,
+            "sentence": 12,
+            "text": "-",
+            "word": 33
+        },
+        {
+            "charBegin": 1572,
+            "charEnd": 1576,
+            "id": 240,
+            "sentence": 12,
+            "text": "egal",
+            "word": 34
+        },
+        {
+            "charBegin": 1577,
+            "charEnd": 1580,
+            "id": 241,
+            "sentence": 12,
+            "text": "wie",
+            "word": 35
+        },
+        {
+            "charBegin": 1581,
+            "charEnd": 1584,
+            "id": 242,
+            "sentence": 12,
+            "text": "gut",
+            "word": 36
+        },
+        {
+            "charBegin": 1585,
+            "charEnd": 1590,
+            "id": 243,
+            "sentence": 12,
+            "text": "unser",
+            "word": 37
+        },
+        {
+            "charBegin": 1591,
+            "charEnd": 1598,
+            "id": 244,
+            "sentence": 12,
+            "text": "Angebot",
+            "word": 38
+        },
+        {
+            "charBegin": 1599,
+            "charEnd": 1602,
+            "id": 245,
+            "sentence": 12,
+            "text": "ist",
+            "word": 39
+        },
+        {
+            "charBegin": 1603,
+            "charEnd": 1604,
+            "id": 246,
+            "sentence": 12,
+            "text": "-",
+            "word": 40
+        },
+        {
+            "charBegin": 1604,
+            "charEnd": 1605,
+            "id": 247,
+            "sentence": 12,
+            "text": ",",
+            "word": 41
+        },
+        {
+            "charBegin": 1606,
+            "charEnd": 1610,
+            "id": 248,
+            "sentence": 12,
+            "text": "dann",
+            "word": 42
+        },
+        {
+            "charBegin": 1611,
+            "charEnd": 1615,
+            "id": 249,
+            "sentence": 12,
+            "text": "kann",
+            "word": 43
+        },
+        {
+            "charBegin": 1616,
+            "charEnd": 1619,
+            "id": 250,
+            "sentence": 12,
+            "text": "ich",
+            "word": 44
+        },
+        {
+            "charBegin": 1620,
+            "charEnd": 1624,
+            "id": 251,
+            "sentence": 12,
+            "text": "mich",
+            "word": 45
+        },
+        {
+            "charBegin": 1625,
+            "charEnd": 1631,
+            "id": 252,
+            "sentence": 12,
+            "text": "dieser",
+            "word": 46
+        },
+        {
+            "charBegin": 1632,
+            "charEnd": 1644,
+            "id": 253,
+            "sentence": 12,
+            "text": "Einschätzung",
+            "word": 47
+        },
+        {
+            "charBegin": 1645,
+            "charEnd": 1648,
+            "id": 254,
+            "sentence": 12,
+            "text": "nur",
+            "word": 48
+        },
+        {
+            "charBegin": 1649,
+            "charEnd": 1660,
+            "id": 255,
+            "sentence": 12,
+            "text": "anschließen",
+            "word": 49
+        },
+        {
+            "charBegin": 1660,
+            "charEnd": 1661,
+            "id": 256,
+            "sentence": 12,
+            "text": ".",
+            "word": 50
+        },
+        {
+            "charBegin": 1661,
+            "charEnd": 1662,
+            "id": 257,
+            "sentence": 12,
+            "text": "“",
+            "word": 51
+        },
+        {
+            "charBegin": 1664,
+            "charEnd": 1667,
+            "id": 258,
+            "sentence": 13,
+            "text": "Für",
+            "word": 1
+        },
+        {
+            "charBegin": 1668,
+            "charEnd": 1672,
+            "id": 259,
+            "sentence": 13,
+            "text": "EADS",
+            "word": 2
+        },
+        {
+            "charBegin": 1673,
+            "charEnd": 1681,
+            "id": 260,
+            "sentence": 13,
+            "text": "bedeutet",
+            "word": 3
+        },
+        {
+            "charBegin": 1682,
+            "charEnd": 1685,
+            "id": 261,
+            "sentence": 13,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 1686,
+            "charEnd": 1693,
+            "id": 262,
+            "sentence": 13,
+            "text": "Verlust",
+            "word": 5
+        },
+        {
+            "charBegin": 1694,
+            "charEnd": 1700,
+            "id": 263,
+            "sentence": 13,
+            "text": "dieses",
+            "word": 6
+        },
+        {
+            "charBegin": 1701,
+            "charEnd": 1714,
+            "id": 264,
+            "sentence": 13,
+            "text": "Großauftrages",
+            "word": 7
+        },
+        {
+            "charBegin": 1715,
+            "charEnd": 1719,
+            "id": 265,
+            "sentence": 13,
+            "text": "nach",
+            "word": 8
+        },
+        {
+            "charBegin": 1720,
+            "charEnd": 1732,
+            "id": 266,
+            "sentence": 13,
+            "text": "Einschätzung",
+            "word": 9
+        },
+        {
+            "charBegin": 1733,
+            "charEnd": 1736,
+            "id": 267,
+            "sentence": 13,
+            "text": "von",
+            "word": 10
+        },
+        {
+            "charBegin": 1737,
+            "charEnd": 1753,
+            "id": 268,
+            "sentence": 13,
+            "text": "Marktbeobachtern",
+            "word": 11
+        },
+        {
+            "charBegin": 1754,
+            "charEnd": 1759,
+            "id": 269,
+            "sentence": 13,
+            "text": "einen",
+            "word": 12
+        },
+        {
+            "charBegin": 1760,
+            "charEnd": 1770,
+            "id": 270,
+            "sentence": 13,
+            "text": "Tiefschlag",
+            "word": 13
+        },
+        {
+            "charBegin": 1770,
+            "charEnd": 1771,
+            "id": 271,
+            "sentence": 13,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1772,
+            "charEnd": 1798,
+            "id": 272,
+            "sentence": 14,
+            "text": "EADS-Vorstandsvorsitzender",
+            "word": 1
+        },
+        {
+            "charBegin": 1799,
+            "charEnd": 1804,
+            "id": 273,
+            "sentence": 14,
+            "text": "Louis",
+            "word": 2
+        },
+        {
+            "charBegin": 1805,
+            "charEnd": 1812,
+            "id": 274,
+            "sentence": 14,
+            "text": "Gallois",
+            "word": 3
+        },
+        {
+            "charBegin": 1813,
+            "charEnd": 1825,
+            "id": 275,
+            "sentence": 14,
+            "text": "kommentierte",
+            "word": 4
+        },
+        {
+            "charBegin": 1826,
+            "charEnd": 1829,
+            "id": 276,
+            "sentence": 14,
+            "text": "das",
+            "word": 5
+        },
+        {
+            "charBegin": 1830,
+            "charEnd": 1834,
+            "id": 277,
+            "sentence": 14,
+            "text": "Ende",
+            "word": 6
+        },
+        {
+            "charBegin": 1835,
+            "charEnd": 1838,
+            "id": 278,
+            "sentence": 14,
+            "text": "des",
+            "word": 7
+        },
+        {
+            "charBegin": 1839,
+            "charEnd": 1859,
+            "id": 279,
+            "sentence": 14,
+            "text": "Tankflugzeugprojekts",
+            "word": 8
+        },
+        {
+            "charBegin": 1860,
+            "charEnd": 1863,
+            "id": 280,
+            "sentence": 14,
+            "text": "mit",
+            "word": 9
+        },
+        {
+            "charBegin": 1864,
+            "charEnd": 1867,
+            "id": 281,
+            "sentence": 14,
+            "text": "den",
+            "word": 10
+        },
+        {
+            "charBegin": 1868,
+            "charEnd": 1874,
+            "id": 282,
+            "sentence": 14,
+            "text": "Worten",
+            "word": 11
+        },
+        {
+            "charBegin": 1874,
+            "charEnd": 1875,
+            "id": 283,
+            "sentence": 14,
+            "text": ":",
+            "word": 12
+        },
+        {
+            "charBegin": 1876,
+            "charEnd": 1877,
+            "id": 284,
+            "sentence": 14,
+            "text": "„",
+            "word": 13
+        },
+        {
+            "charBegin": 1877,
+            "charEnd": 1881,
+            "id": 285,
+            "sentence": 14,
+            "text": "Fest",
+            "word": 14
+        },
+        {
+            "charBegin": 1882,
+            "charEnd": 1887,
+            "id": 286,
+            "sentence": 14,
+            "text": "steht",
+            "word": 15
+        },
+        {
+            "charBegin": 1888,
+            "charEnd": 1891,
+            "id": 287,
+            "sentence": 14,
+            "text": "nur",
+            "word": 16
+        },
+        {
+            "charBegin": 1891,
+            "charEnd": 1892,
+            "id": 288,
+            "sentence": 14,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 1893,
+            "charEnd": 1897,
+            "id": 289,
+            "sentence": 14,
+            "text": "dass",
+            "word": 18
+        },
+        {
+            "charBegin": 1898,
+            "charEnd": 1901,
+            "id": 290,
+            "sentence": 14,
+            "text": "die",
+            "word": 19
+        },
+        {
+            "charBegin": 1902,
+            "charEnd": 1912,
+            "id": 291,
+            "sentence": 14,
+            "text": "Amerikaner",
+            "word": 20
+        },
+        {
+            "charBegin": 1913,
+            "charEnd": 1916,
+            "id": 292,
+            "sentence": 14,
+            "text": "nun",
+            "word": 21
+        },
+        {
+            "charBegin": 1917,
+            "charEnd": 1920,
+            "id": 293,
+            "sentence": 14,
+            "text": "zum",
+            "word": 22
+        },
+        {
+            "charBegin": 1921,
+            "charEnd": 1927,
+            "id": 294,
+            "sentence": 14,
+            "text": "ersten",
+            "word": 23
+        },
+        {
+            "charBegin": 1928,
+            "charEnd": 1931,
+            "id": 295,
+            "sentence": 14,
+            "text": "Mal",
+            "word": 24
+        },
+        {
+            "charBegin": 1932,
+            "charEnd": 1936,
+            "id": 296,
+            "sentence": 14,
+            "text": "seit",
+            "word": 25
+        },
+        {
+            "charBegin": 1937,
+            "charEnd": 1948,
+            "id": 297,
+            "sentence": 14,
+            "text": "Jahrzehnten",
+            "word": 26
+        },
+        {
+            "charBegin": 1949,
+            "charEnd": 1954,
+            "id": 298,
+            "sentence": 14,
+            "text": "nicht",
+            "word": 27
+        },
+        {
+            "charBegin": 1955,
+            "charEnd": 1958,
+            "id": 299,
+            "sentence": 14,
+            "text": "das",
+            "word": 28
+        },
+        {
+            "charBegin": 1959,
+            "charEnd": 1964,
+            "id": 300,
+            "sentence": 14,
+            "text": "beste",
+            "word": 29
+        },
+        {
+            "charBegin": 1965,
+            "charEnd": 1986,
+            "id": 301,
+            "sentence": 14,
+            "text": "Verteidigungsmaterial",
+            "word": 30
+        },
+        {
+            "charBegin": 1987,
+            "charEnd": 1992,
+            "id": 302,
+            "sentence": 14,
+            "text": "haben",
+            "word": 31
+        },
+        {
+            "charBegin": 1993,
+            "charEnd": 1999,
+            "id": 303,
+            "sentence": 14,
+            "text": "werden",
+            "word": 32
+        },
+        {
+            "charBegin": 1999,
+            "charEnd": 2000,
+            "id": 304,
+            "sentence": 14,
+            "text": ",",
+            "word": 33
+        },
+        {
+            "charBegin": 2001,
+            "charEnd": 2005,
+            "id": 305,
+            "sentence": 14,
+            "text": "denn",
+            "word": 34
+        },
+        {
+            "charBegin": 2006,
+            "charEnd": 2010,
+            "id": 306,
+            "sentence": 14,
+            "text": "alle",
+            "word": 35
+        },
+        {
+            "charBegin": 2011,
+            "charEnd": 2017,
+            "id": 307,
+            "sentence": 14,
+            "text": "wissen",
+            "word": 36
+        },
+        {
+            "charBegin": 2017,
+            "charEnd": 2018,
+            "id": 308,
+            "sentence": 14,
+            "text": ",",
+            "word": 37
+        },
+        {
+            "charBegin": 2019,
+            "charEnd": 2023,
+            "id": 309,
+            "sentence": 14,
+            "text": "dass",
+            "word": 38
+        },
+        {
+            "charBegin": 2024,
+            "charEnd": 2027,
+            "id": 310,
+            "sentence": 14,
+            "text": "der",
+            "word": 39
+        },
+        {
+            "charBegin": 2028,
+            "charEnd": 2032,
+            "id": 311,
+            "sentence": 14,
+            "text": "A330",
+            "word": 40
+        },
+        {
+            "charBegin": 2033,
+            "charEnd": 2036,
+            "id": 312,
+            "sentence": 14,
+            "text": "das",
+            "word": 41
+        },
+        {
+            "charBegin": 2037,
+            "charEnd": 2046,
+            "id": 313,
+            "sentence": 14,
+            "text": "modernere",
+            "word": 42
+        },
+        {
+            "charBegin": 2047,
+            "charEnd": 2050,
+            "id": 314,
+            "sentence": 14,
+            "text": "und",
+            "word": 43
+        },
+        {
+            "charBegin": 2051,
+            "charEnd": 2068,
+            "id": 315,
+            "sentence": 14,
+            "text": "leistungsfähigere",
+            "word": 44
+        },
+        {
+            "charBegin": 2069,
+            "charEnd": 2077,
+            "id": 316,
+            "sentence": 14,
+            "text": "Flugzeug",
+            "word": 45
+        },
+        {
+            "charBegin": 2078,
+            "charEnd": 2081,
+            "id": 317,
+            "sentence": 14,
+            "text": "ist",
+            "word": 46
+        },
+        {
+            "charBegin": 2081,
+            "charEnd": 2082,
+            "id": 318,
+            "sentence": 14,
+            "text": ".",
+            "word": 47
+        },
+        {
+            "charBegin": 2082,
+            "charEnd": 2083,
+            "id": 319,
+            "sentence": 14,
+            "text": "“",
+            "word": 48
+        },
+        {
+            "charBegin": 2085,
+            "charEnd": 2088,
+            "id": 320,
+            "sentence": 15,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 2089,
+            "charEnd": 2098,
+            "id": 321,
+            "sentence": 15,
+            "text": "Börsianer",
+            "word": 2
+        },
+        {
+            "charBegin": 2099,
+            "charEnd": 2106,
+            "id": 322,
+            "sentence": 15,
+            "text": "zeigten",
+            "word": 3
+        },
+        {
+            "charBegin": 2107,
+            "charEnd": 2111,
+            "id": 323,
+            "sentence": 15,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 2112,
+            "charEnd": 2122,
+            "id": 324,
+            "sentence": 15,
+            "text": "enttäuscht",
+            "word": 5
+        },
+        {
+            "charBegin": 2122,
+            "charEnd": 2123,
+            "id": 325,
+            "sentence": 15,
+            "text": ".",
+            "word": 6
+        },
+        {
+            "charBegin": 2124,
+            "charEnd": 2127,
+            "id": 326,
+            "sentence": 16,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 2128,
+            "charEnd": 2138,
+            "id": 327,
+            "sentence": 16,
+            "text": "EADS-Aktie",
+            "word": 2
+        },
+        {
+            "charBegin": 2139,
+            "charEnd": 2145,
+            "id": 328,
+            "sentence": 16,
+            "text": "verlor",
+            "word": 3
+        },
+        {
+            "charBegin": 2146,
+            "charEnd": 2148,
+            "id": 329,
+            "sentence": 16,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 2149,
+            "charEnd": 2154,
+            "id": 330,
+            "sentence": 16,
+            "text": "Paris",
+            "word": 5
+        },
+        {
+            "charBegin": 2155,
+            "charEnd": 2158,
+            "id": 331,
+            "sentence": 16,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 2159,
+            "charEnd": 2168,
+            "id": 332,
+            "sentence": 16,
+            "text": "Frankfurt",
+            "word": 7
+        },
+        {
+            "charBegin": 2169,
+            "charEnd": 2171,
+            "id": 333,
+            "sentence": 16,
+            "text": "um",
+            "word": 8
+        },
+        {
+            "charBegin": 2172,
+            "charEnd": 2176,
+            "id": 334,
+            "sentence": 16,
+            "text": "rund",
+            "word": 9
+        },
+        {
+            "charBegin": 2177,
+            "charEnd": 2181,
+            "id": 335,
+            "sentence": 16,
+            "text": "fünf",
+            "word": 10
+        },
+        {
+            "charBegin": 2182,
+            "charEnd": 2189,
+            "id": 336,
+            "sentence": 16,
+            "text": "Prozent",
+            "word": 11
+        },
+        {
+            "charBegin": 2189,
+            "charEnd": 2190,
+            "id": 337,
+            "sentence": 16,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 2191,
+            "charEnd": 2193,
+            "id": 338,
+            "sentence": 17,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 2194,
+            "charEnd": 2202,
+            "id": 339,
+            "sentence": 17,
+            "text": "Gegenzug",
+            "word": 2
+        },
+        {
+            "charBegin": 2203,
+            "charEnd": 2214,
+            "id": 340,
+            "sentence": 17,
+            "text": "profitierte",
+            "word": 3
+        },
+        {
+            "charBegin": 2215,
+            "charEnd": 2221,
+            "id": 341,
+            "sentence": 17,
+            "text": "Boeing",
+            "word": 4
+        },
+        {
+            "charBegin": 2222,
+            "charEnd": 2225,
+            "id": 342,
+            "sentence": 17,
+            "text": "von",
+            "word": 5
+        },
+        {
+            "charBegin": 2226,
+            "charEnd": 2229,
+            "id": 343,
+            "sentence": 17,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 2230,
+            "charEnd": 2235,
+            "id": 344,
+            "sentence": 17,
+            "text": "neuen",
+            "word": 7
+        },
+        {
+            "charBegin": 2236,
+            "charEnd": 2245,
+            "id": 345,
+            "sentence": 17,
+            "text": "Situation",
+            "word": 8
+        },
+        {
+            "charBegin": 2245,
+            "charEnd": 2246,
+            "id": 346,
+            "sentence": 17,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 2247,
+            "charEnd": 2250,
+            "id": 347,
+            "sentence": 17,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 2251,
+            "charEnd": 2263,
+            "id": 348,
+            "sentence": 17,
+            "text": "Boeing-Aktie",
+            "word": 11
+        },
+        {
+            "charBegin": 2264,
+            "charEnd": 2270,
+            "id": 349,
+            "sentence": 17,
+            "text": "gewann",
+            "word": 12
+        },
+        {
+            "charBegin": 2271,
+            "charEnd": 2274,
+            "id": 350,
+            "sentence": 17,
+            "text": "ein",
+            "word": 13
+        },
+        {
+            "charBegin": 2275,
+            "charEnd": 2282,
+            "id": 351,
+            "sentence": 17,
+            "text": "Prozent",
+            "word": 14
+        },
+        {
+            "charBegin": 2282,
+            "charEnd": 2283,
+            "id": 352,
+            "sentence": 17,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 2285,
+            "charEnd": 2288,
+            "id": 353,
+            "sentence": 18,
+            "text": "Den",
+            "word": 1
+        },
+        {
+            "charBegin": 2289,
+            "charEnd": 2300,
+            "id": 354,
+            "sentence": 18,
+            "text": "Großauftrag",
+            "word": 2
+        },
+        {
+            "charBegin": 2301,
+            "charEnd": 2304,
+            "id": 355,
+            "sentence": 18,
+            "text": "aus",
+            "word": 3
+        },
+        {
+            "charBegin": 2305,
+            "charEnd": 2308,
+            "id": 356,
+            "sentence": 18,
+            "text": "den",
+            "word": 4
+        },
+        {
+            "charBegin": 2309,
+            "charEnd": 2312,
+            "id": 357,
+            "sentence": 18,
+            "text": "USA",
+            "word": 5
+        },
+        {
+            "charBegin": 2313,
+            "charEnd": 2318,
+            "id": 358,
+            "sentence": 18,
+            "text": "hätte",
+            "word": 6
+        },
+        {
+            "charBegin": 2319,
+            "charEnd": 2322,
+            "id": 359,
+            "sentence": 18,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 2323,
+            "charEnd": 2330,
+            "id": 360,
+            "sentence": 18,
+            "text": "Konzern",
+            "word": 8
+        },
+        {
+            "charBegin": 2331,
+            "charEnd": 2335,
+            "id": 361,
+            "sentence": 18,
+            "text": "EADS",
+            "word": 9
+        },
+        {
+            "charBegin": 2336,
+            "charEnd": 2339,
+            "id": 362,
+            "sentence": 18,
+            "text": "gut",
+            "word": 10
+        },
+        {
+            "charBegin": 2340,
+            "charEnd": 2350,
+            "id": 363,
+            "sentence": 18,
+            "text": "gebrauchen",
+            "word": 11
+        },
+        {
+            "charBegin": 2351,
+            "charEnd": 2357,
+            "id": 364,
+            "sentence": 18,
+            "text": "können",
+            "word": 12
+        },
+        {
+            "charBegin": 2357,
+            "charEnd": 2358,
+            "id": 365,
+            "sentence": 18,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 2359,
+            "charEnd": 2364,
+            "id": 366,
+            "sentence": 19,
+            "text": "Unter",
+            "word": 1
+        },
+        {
+            "charBegin": 2365,
+            "charEnd": 2372,
+            "id": 367,
+            "sentence": 19,
+            "text": "anderem",
+            "word": 2
+        },
+        {
+            "charBegin": 2373,
+            "charEnd": 2378,
+            "id": 368,
+            "sentence": 19,
+            "text": "wegen",
+            "word": 3
+        },
+        {
+            "charBegin": 2379,
+            "charEnd": 2382,
+            "id": 369,
+            "sentence": 19,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 2383,
+            "charEnd": 2404,
+            "id": 370,
+            "sentence": 19,
+            "text": "Finanzierungsprobleme",
+            "word": 5
+        },
+        {
+            "charBegin": 2405,
+            "charEnd": 2409,
+            "id": 371,
+            "sentence": 19,
+            "text": "beim",
+            "word": 6
+        },
+        {
+            "charBegin": 2410,
+            "charEnd": 2428,
+            "id": 372,
+            "sentence": 19,
+            "text": "Militärtransporter",
+            "word": 7
+        },
+        {
+            "charBegin": 2429,
+            "charEnd": 2433,
+            "id": 373,
+            "sentence": 19,
+            "text": "A400",
+            "word": 8
+        },
+        {
+            "charBegin": 2433,
+            "charEnd": 2434,
+            "id": 374,
+            "sentence": 19,
+            "text": "M",
+            "word": 9
+        },
+        {
+            "charBegin": 2435,
+            "charEnd": 2444,
+            "id": 375,
+            "sentence": 19,
+            "text": "verbuchte",
+            "word": 10
+        },
+        {
+            "charBegin": 2445,
+            "charEnd": 2448,
+            "id": 376,
+            "sentence": 19,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 2449,
+            "charEnd": 2456,
+            "id": 377,
+            "sentence": 19,
+            "text": "Konzern",
+            "word": 12
+        },
+        {
+            "charBegin": 2457,
+            "charEnd": 2460,
+            "id": 378,
+            "sentence": 19,
+            "text": "für",
+            "word": 13
+        },
+        {
+            "charBegin": 2461,
+            "charEnd": 2464,
+            "id": 379,
+            "sentence": 19,
+            "text": "das",
+            "word": 14
+        },
+        {
+            "charBegin": 2465,
+            "charEnd": 2476,
+            "id": 380,
+            "sentence": 19,
+            "text": "abgelaufene",
+            "word": 15
+        },
+        {
+            "charBegin": 2477,
+            "charEnd": 2490,
+            "id": 381,
+            "sentence": 19,
+            "text": "Geschäftsjahr",
+            "word": 16
+        },
+        {
+            "charBegin": 2491,
+            "charEnd": 2496,
+            "id": 382,
+            "sentence": 19,
+            "text": "einen",
+            "word": 17
+        },
+        {
+            "charBegin": 2497,
+            "charEnd": 2509,
+            "id": 383,
+            "sentence": 19,
+            "text": "Nettoverlust",
+            "word": 18
+        },
+        {
+            "charBegin": 2510,
+            "charEnd": 2513,
+            "id": 384,
+            "sentence": 19,
+            "text": "von",
+            "word": 19
+        },
+        {
+            "charBegin": 2514,
+            "charEnd": 2517,
+            "id": 385,
+            "sentence": 19,
+            "text": "763",
+            "word": 20
+        },
+        {
+            "charBegin": 2518,
+            "charEnd": 2527,
+            "id": 386,
+            "sentence": 19,
+            "text": "Millionen",
+            "word": 21
+        },
+        {
+            "charBegin": 2528,
+            "charEnd": 2532,
+            "id": 387,
+            "sentence": 19,
+            "text": "Euro",
+            "word": 22
+        },
+        {
+            "charBegin": 2532,
+            "charEnd": 2533,
+            "id": 388,
+            "sentence": 19,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 2534,
+            "charEnd": 2537,
+            "id": 389,
+            "sentence": 20,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 2538,
+            "charEnd": 2542,
+            "id": 390,
+            "sentence": 20,
+            "text": "Jahr",
+            "word": 2
+        },
+        {
+            "charBegin": 2543,
+            "charEnd": 2548,
+            "id": 391,
+            "sentence": 20,
+            "text": "zuvor",
+            "word": 3
+        },
+        {
+            "charBegin": 2549,
+            "charEnd": 2555,
+            "id": 392,
+            "sentence": 20,
+            "text": "konnte",
+            "word": 4
+        },
+        {
+            "charBegin": 2556,
+            "charEnd": 2560,
+            "id": 393,
+            "sentence": 20,
+            "text": "EADS",
+            "word": 5
+        },
+        {
+            "charBegin": 2561,
+            "charEnd": 2565,
+            "id": 394,
+            "sentence": 20,
+            "text": "noch",
+            "word": 6
+        },
+        {
+            "charBegin": 2566,
+            "charEnd": 2571,
+            "id": 395,
+            "sentence": 20,
+            "text": "einen",
+            "word": 7
+        },
+        {
+            "charBegin": 2572,
+            "charEnd": 2578,
+            "id": 396,
+            "sentence": 20,
+            "text": "Gewinn",
+            "word": 8
+        },
+        {
+            "charBegin": 2579,
+            "charEnd": 2582,
+            "id": 397,
+            "sentence": 20,
+            "text": "von",
+            "word": 9
+        },
+        {
+            "charBegin": 2583,
+            "charEnd": 2588,
+            "id": 398,
+            "sentence": 20,
+            "text": "1,572",
+            "word": 10
+        },
+        {
+            "charBegin": 2589,
+            "charEnd": 2599,
+            "id": 399,
+            "sentence": 20,
+            "text": "Milliarden",
+            "word": 11
+        },
+        {
+            "charBegin": 2600,
+            "charEnd": 2604,
+            "id": 400,
+            "sentence": 20,
+            "text": "Euro",
+            "word": 12
+        },
+        {
+            "charBegin": 2605,
+            "charEnd": 2614,
+            "id": 401,
+            "sentence": 20,
+            "text": "verbuchen",
+            "word": 13
+        },
+        {
+            "charBegin": 2614,
+            "charEnd": 2615,
+            "id": 402,
+            "sentence": 20,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 2616,
+            "charEnd": 2620,
+            "id": 403,
+            "sentence": 21,
+            "text": "Aber",
+            "word": 1
+        },
+        {
+            "charBegin": 2621,
+            "charEnd": 2625,
+            "id": 404,
+            "sentence": 21,
+            "text": "auch",
+            "word": 2
+        },
+        {
+            "charBegin": 2626,
+            "charEnd": 2629,
+            "id": 405,
+            "sentence": 21,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 2630,
+            "charEnd": 2640,
+            "id": 406,
+            "sentence": 21,
+            "text": "Mehrkosten",
+            "word": 4
+        },
+        {
+            "charBegin": 2641,
+            "charEnd": 2645,
+            "id": 407,
+            "sentence": 21,
+            "text": "beim",
+            "word": 5
+        },
+        {
+            "charBegin": 2646,
+            "charEnd": 2649,
+            "id": 408,
+            "sentence": 21,
+            "text": "Bau",
+            "word": 6
+        },
+        {
+            "charBegin": 2650,
+            "charEnd": 2653,
+            "id": 409,
+            "sentence": 21,
+            "text": "des",
+            "word": 7
+        },
+        {
+            "charBegin": 2654,
+            "charEnd": 2671,
+            "id": 410,
+            "sentence": 21,
+            "text": "Großraumflugzeugs",
+            "word": 8
+        },
+        {
+            "charBegin": 2672,
+            "charEnd": 2676,
+            "id": 411,
+            "sentence": 21,
+            "text": "A380",
+            "word": 9
+        },
+        {
+            "charBegin": 2677,
+            "charEnd": 2684,
+            "id": 412,
+            "sentence": 21,
+            "text": "machten",
+            "word": 10
+        },
+        {
+            "charBegin": 2685,
+            "charEnd": 2688,
+            "id": 413,
+            "sentence": 21,
+            "text": "dem",
+            "word": 11
+        },
+        {
+            "charBegin": 2689,
+            "charEnd": 2696,
+            "id": 414,
+            "sentence": 21,
+            "text": "Konzern",
+            "word": 12
+        },
+        {
+            "charBegin": 2697,
+            "charEnd": 2699,
+            "id": 415,
+            "sentence": 21,
+            "text": "zu",
+            "word": 13
+        },
+        {
+            "charBegin": 2700,
+            "charEnd": 2708,
+            "id": 416,
+            "sentence": 21,
+            "text": "schaffen",
+            "word": 14
+        },
+        {
+            "charBegin": 2708,
+            "charEnd": 2709,
+            "id": 417,
+            "sentence": 21,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 2711,
+            "charEnd": 2724,
+            "id": 418,
+            "sentence": 22,
+            "text": "EU-Kommission",
+            "word": 1
+        },
+        {
+            "charBegin": 2725,
+            "charEnd": 2728,
+            "id": 419,
+            "sentence": 22,
+            "text": "und",
+            "word": 2
+        },
+        {
+            "charBegin": 2729,
+            "charEnd": 2744,
+            "id": 420,
+            "sentence": 22,
+            "text": "Bundesregierung",
+            "word": 3
+        },
+        {
+            "charBegin": 2745,
+            "charEnd": 2753,
+            "id": 421,
+            "sentence": 22,
+            "text": "äußerten",
+            "word": 4
+        },
+        {
+            "charBegin": 2754,
+            "charEnd": 2762,
+            "id": 422,
+            "sentence": 22,
+            "text": "indessen",
+            "word": 5
+        },
+        {
+            "charBegin": 2763,
+            "charEnd": 2770,
+            "id": 423,
+            "sentence": 22,
+            "text": "Zweifel",
+            "word": 6
+        },
+        {
+            "charBegin": 2770,
+            "charEnd": 2771,
+            "id": 424,
+            "sentence": 22,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 2772,
+            "charEnd": 2774,
+            "id": 425,
+            "sentence": 22,
+            "text": "ob",
+            "word": 8
+        },
+        {
+            "charBegin": 2775,
+            "charEnd": 2778,
+            "id": 426,
+            "sentence": 22,
+            "text": "bei",
+            "word": 9
+        },
+        {
+            "charBegin": 2779,
+            "charEnd": 2782,
+            "id": 427,
+            "sentence": 22,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 2783,
+            "charEnd": 2790,
+            "id": 428,
+            "sentence": 22,
+            "text": "Vergabe",
+            "word": 11
+        },
+        {
+            "charBegin": 2791,
+            "charEnd": 2794,
+            "id": 429,
+            "sentence": 22,
+            "text": "von",
+            "word": 12
+        },
+        {
+            "charBegin": 2795,
+            "charEnd": 2804,
+            "id": 430,
+            "sentence": 22,
+            "text": "Aufträgen",
+            "word": 13
+        },
+        {
+            "charBegin": 2805,
+            "charEnd": 2807,
+            "id": 431,
+            "sentence": 22,
+            "text": "im",
+            "word": 14
+        },
+        {
+            "charBegin": 2808,
+            "charEnd": 2823,
+            "id": 432,
+            "sentence": 22,
+            "text": "Rüstungsbereich",
+            "word": 15
+        },
+        {
+            "charBegin": 2824,
+            "charEnd": 2827,
+            "id": 433,
+            "sentence": 22,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 2828,
+            "charEnd": 2839,
+            "id": 434,
+            "sentence": 22,
+            "text": "Vereinigten",
+            "word": 17
+        },
+        {
+            "charBegin": 2840,
+            "charEnd": 2847,
+            "id": 435,
+            "sentence": 22,
+            "text": "Staaten",
+            "word": 18
+        },
+        {
+            "charBegin": 2848,
+            "charEnd": 2853,
+            "id": 436,
+            "sentence": 22,
+            "text": "alles",
+            "word": 19
+        },
+        {
+            "charBegin": 2854,
+            "charEnd": 2857,
+            "id": 437,
+            "sentence": 22,
+            "text": "mit",
+            "word": 20
+        },
+        {
+            "charBegin": 2858,
+            "charEnd": 2865,
+            "id": 438,
+            "sentence": 22,
+            "text": "rechten",
+            "word": 21
+        },
+        {
+            "charBegin": 2866,
+            "charEnd": 2872,
+            "id": 439,
+            "sentence": 22,
+            "text": "Dingen",
+            "word": 22
+        },
+        {
+            "charBegin": 2873,
+            "charEnd": 2883,
+            "id": 440,
+            "sentence": 22,
+            "text": "zugegangen",
+            "word": 23
+        },
+        {
+            "charBegin": 2884,
+            "charEnd": 2887,
+            "id": 441,
+            "sentence": 22,
+            "text": "sei",
+            "word": 24
+        },
+        {
+            "charBegin": 2887,
+            "charEnd": 2888,
+            "id": 442,
+            "sentence": 22,
+            "text": ".",
+            "word": 25
+        },
+        {
+            "charBegin": 2889,
+            "charEnd": 2892,
+            "id": 443,
+            "sentence": 23,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 2893,
+            "charEnd": 2901,
+            "id": 444,
+            "sentence": 23,
+            "text": "deutsche",
+            "word": 2
+        },
+        {
+            "charBegin": 2902,
+            "charEnd": 2921,
+            "id": 445,
+            "sentence": 23,
+            "text": "Wirtschaftsminister",
+            "word": 3
+        },
+        {
+            "charBegin": 2922,
+            "charEnd": 2928,
+            "id": 446,
+            "sentence": 23,
+            "text": "Rainer",
+            "word": 4
+        },
+        {
+            "charBegin": 2929,
+            "charEnd": 2937,
+            "id": 447,
+            "sentence": 23,
+            "text": "Brüderle",
+            "word": 5
+        },
+        {
+            "charBegin": 2938,
+            "charEnd": 2939,
+            "id": 448,
+            "sentence": 23,
+            "text": "(",
+            "word": 6
+        },
+        {
+            "charBegin": 2939,
+            "charEnd": 2942,
+            "id": 449,
+            "sentence": 23,
+            "text": "FDP",
+            "word": 7
+        },
+        {
+            "charBegin": 2942,
+            "charEnd": 2943,
+            "id": 450,
+            "sentence": 23,
+            "text": ")",
+            "word": 8
+        },
+        {
+            "charBegin": 2944,
+            "charEnd": 2948,
+            "id": 451,
+            "sentence": 23,
+            "text": "warf",
+            "word": 9
+        },
+        {
+            "charBegin": 2949,
+            "charEnd": 2952,
+            "id": 452,
+            "sentence": 23,
+            "text": "den",
+            "word": 10
+        },
+        {
+            "charBegin": 2953,
+            "charEnd": 2956,
+            "id": 453,
+            "sentence": 23,
+            "text": "USA",
+            "word": 11
+        },
+        {
+            "charBegin": 2957,
+            "charEnd": 2960,
+            "id": 454,
+            "sentence": 23,
+            "text": "vor",
+            "word": 12
+        },
+        {
+            "charBegin": 2960,
+            "charEnd": 2961,
+            "id": 455,
+            "sentence": 23,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 2962,
+            "charEnd": 2965,
+            "id": 456,
+            "sentence": 23,
+            "text": "den",
+            "word": 14
+        },
+        {
+            "charBegin": 2966,
+            "charEnd": 2978,
+            "id": 457,
+            "sentence": 23,
+            "text": "Konkurrenten",
+            "word": 15
+        },
+        {
+            "charBegin": 2979,
+            "charEnd": 2985,
+            "id": 458,
+            "sentence": 23,
+            "text": "Boeing",
+            "word": 16
+        },
+        {
+            "charBegin": 2986,
+            "charEnd": 2995,
+            "id": 459,
+            "sentence": 23,
+            "text": "bevorzugt",
+            "word": 17
+        },
+        {
+            "charBegin": 2996,
+            "charEnd": 2998,
+            "id": 460,
+            "sentence": 23,
+            "text": "zu",
+            "word": 18
+        },
+        {
+            "charBegin": 2999,
+            "charEnd": 3004,
+            "id": 461,
+            "sentence": 23,
+            "text": "haben",
+            "word": 19
+        },
+        {
+            "charBegin": 3004,
+            "charEnd": 3005,
+            "id": 462,
+            "sentence": 23,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 3006,
+            "charEnd": 3014,
+            "id": 463,
+            "sentence": 24,
+            "text": "Brüderle",
+            "word": 1
+        },
+        {
+            "charBegin": 3015,
+            "charEnd": 3020,
+            "id": 464,
+            "sentence": 24,
+            "text": "sieht",
+            "word": 2
+        },
+        {
+            "charBegin": 3021,
+            "charEnd": 3024,
+            "id": 465,
+            "sentence": 24,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 3025,
+            "charEnd": 3031,
+            "id": 466,
+            "sentence": 24,
+            "text": "Gefahr",
+            "word": 4
+        },
+        {
+            "charBegin": 3032,
+            "charEnd": 3035,
+            "id": 467,
+            "sentence": 24,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 3036,
+            "charEnd": 3049,
+            "id": 468,
+            "sentence": 24,
+            "text": "Einschränkung",
+            "word": 6
+        },
+        {
+            "charBegin": 3050,
+            "charEnd": 3053,
+            "id": 469,
+            "sentence": 24,
+            "text": "des",
+            "word": 7
+        },
+        {
+            "charBegin": 3054,
+            "charEnd": 3060,
+            "id": 470,
+            "sentence": 24,
+            "text": "freien",
+            "word": 8
+        },
+        {
+            "charBegin": 3061,
+            "charEnd": 3072,
+            "id": 471,
+            "sentence": 24,
+            "text": "Wettbewerbs",
+            "word": 9
+        },
+        {
+            "charBegin": 3072,
+            "charEnd": 3073,
+            "id": 472,
+            "sentence": 24,
+            "text": ".",
+            "word": 10
+        }
+    ]
+}

@@ -1,0 +1,1706 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 94,
+                        "charBegin": 609,
+                        "charEnd": 624,
+                        "end": 96
+                    }
+                ],
+                "text": "hat entschieden",
+                "tokenIds": [
+                    94,
+                    95
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 90,
+                        "charBegin": 575,
+                        "charEnd": 625,
+                        "end": 97
+                    }
+                ],
+                "text": "Das Bau- und Transportministerium hat entschieden,",
+                "tokenIds": [
+                    90,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 97,
+                        "charBegin": 626,
+                        "charEnd": 656,
+                        "end": 102
+                    }
+                ],
+                "text": "eHomes die Lizenz zu entziehen",
+                "tokenIds": [
+                    97,
+                    98,
+                    99,
+                    100,
+                    101
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 90,
+                        "charBegin": 575,
+                        "charEnd": 608,
+                        "end": 94
+                    }
+                ],
+                "text": "Das Bau- und Transportministerium",
+                "tokenIds": [
+                    90,
+                    91,
+                    92,
+                    93
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "16470 - Japan: Daten über Erdbeben-Sicherheit gefälscht und nicht geprüft (2005-11-29)",
+    "originalText": "Ein Bauskandal, der nach bisherigen Erkenntnissen etwa 30 Hotels und Wohnanlagen betrifft, ist in Japan bekannt geworden. Daten zur Erdbeben-Sicherheit der Gebäude wurden gefälscht und bei der Bauabnahme nicht kontrolliert. Die betroffenen Gebäude sind mittlerweile evakuiert worden.\n\nIm Mittelpunkt steht neben dem Architekten Hidetsugu Aneha, der die meisten dieser Gebäude geplant hat und die Daten gefälscht haben soll, auch eHomes Inc., ein privates Prüfinstitut, das nach bisherigen Erkenntnissen 28 Gebäude, die nicht erdbebensicher sind, ohne Prüfung abgenommen hat. Das Bau- und Transportministerium hat entschieden, eHomes die Lizenz zu entziehen.\n\nEinzelfälle wurden auch beim „Higashi Nihon Jutaku Hyoka Center“ und bei der Japan ERI Co., dem größten Prüfinstitut des Landes, bekannt. Mit einer 100 Mann starken Task Force sollen nun alle 48 Firmen, die staatlich anerkannt Gebäude abnehmen dürfen, systematisch überprüft werden.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 121,
+            "end": 20,
+            "id": 0,
+            "text": "Ein Bauskandal, der nach bisherigen Erkenntnissen etwa 30 Hotels und Wohnanlagen betrifft, ist in Japan bekannt geworden. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "tokens": [
+                "Ein",
+                "Bauskandal",
+                ",",
+                "der",
+                "nach",
+                "bisherigen",
+                "Erkenntnissen",
+                "etwa",
+                "30",
+                "Hotels",
+                "und",
+                "Wohnanlagen",
+                "betrifft",
+                ",",
+                "ist",
+                "in",
+                "Japan",
+                "bekannt",
+                "geworden",
+                "."
+            ]
+        },
+        {
+            "begin": 20,
+            "charBegin": 122,
+            "charEnd": 223,
+            "end": 34,
+            "id": 1,
+            "text": "Daten zur Erdbeben-Sicherheit der Gebäude wurden gefälscht und bei der Bauabnahme nicht kontrolliert. ",
+            "tokenIds": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33
+            ],
+            "tokens": [
+                "Daten",
+                "zur",
+                "Erdbeben-Sicherheit",
+                "der",
+                "Gebäude",
+                "wurden",
+                "gefälscht",
+                "und",
+                "bei",
+                "der",
+                "Bauabnahme",
+                "nicht",
+                "kontrolliert",
+                "."
+            ]
+        },
+        {
+            "begin": 34,
+            "charBegin": 224,
+            "charEnd": 283,
+            "end": 42,
+            "id": 2,
+            "text": "Die betroffenen Gebäude sind mittlerweile evakuiert worden.",
+            "tokenIds": [
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41
+            ],
+            "tokens": [
+                "Die",
+                "betroffenen",
+                "Gebäude",
+                "sind",
+                "mittlerweile",
+                "evakuiert",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "begin": 42,
+            "charBegin": 285,
+            "charEnd": 574,
+            "end": 90,
+            "id": 3,
+            "text": "Im Mittelpunkt steht neben dem Architekten Hidetsugu Aneha, der die meisten dieser Gebäude geplant hat und die Daten gefälscht haben soll, auch eHomes Inc., ein privates Prüfinstitut, das nach bisherigen Erkenntnissen 28 Gebäude, die nicht erdbebensicher sind, ohne Prüfung abgenommen hat. ",
+            "tokenIds": [
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89
+            ],
+            "tokens": [
+                "Im",
+                "Mittelpunkt",
+                "steht",
+                "neben",
+                "dem",
+                "Architekten",
+                "Hidetsugu",
+                "Aneha",
+                ",",
+                "der",
+                "die",
+                "meisten",
+                "dieser",
+                "Gebäude",
+                "geplant",
+                "hat",
+                "und",
+                "die",
+                "Daten",
+                "gefälscht",
+                "haben",
+                "soll",
+                ",",
+                "auch",
+                "eHomes",
+                "Inc.",
+                ",",
+                "ein",
+                "privates",
+                "Prüfinstitut",
+                ",",
+                "das",
+                "nach",
+                "bisherigen",
+                "Erkenntnissen",
+                "28",
+                "Gebäude",
+                ",",
+                "die",
+                "nicht",
+                "erdbebensicher",
+                "sind",
+                ",",
+                "ohne",
+                "Prüfung",
+                "abgenommen",
+                "hat",
+                "."
+            ]
+        },
+        {
+            "begin": 90,
+            "charBegin": 575,
+            "charEnd": 657,
+            "end": 103,
+            "id": 4,
+            "text": "Das Bau- und Transportministerium hat entschieden, eHomes die Lizenz zu entziehen.",
+            "tokenIds": [
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102
+            ],
+            "tokens": [
+                "Das",
+                "Bau-",
+                "und",
+                "Transportministerium",
+                "hat",
+                "entschieden",
+                ",",
+                "eHomes",
+                "die",
+                "Lizenz",
+                "zu",
+                "entziehen",
+                "."
+            ]
+        },
+        {
+            "begin": 103,
+            "charBegin": 659,
+            "charEnd": 796,
+            "end": 129,
+            "id": 5,
+            "text": "Einzelfälle wurden auch beim „Higashi Nihon Jutaku Hyoka Center“ und bei der Japan ERI Co., dem größten Prüfinstitut des Landes, bekannt. ",
+            "tokenIds": [
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128
+            ],
+            "tokens": [
+                "Einzelfälle",
+                "wurden",
+                "auch",
+                "beim",
+                "„",
+                "Higashi",
+                "Nihon",
+                "Jutaku",
+                "Hyoka",
+                "Center",
+                "“",
+                "und",
+                "bei",
+                "der",
+                "Japan",
+                "ERI",
+                "Co.",
+                ",",
+                "dem",
+                "größten",
+                "Prüfinstitut",
+                "des",
+                "Landes",
+                ",",
+                "bekannt",
+                "."
+            ]
+        },
+        {
+            "begin": 129,
+            "charBegin": 797,
+            "charEnd": 941,
+            "end": 153,
+            "id": 6,
+            "text": "Mit einer 100 Mann starken Task Force sollen nun alle 48 Firmen, die staatlich anerkannt Gebäude abnehmen dürfen, systematisch überprüft werden.",
+            "tokenIds": [
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152
+            ],
+            "tokens": [
+                "Mit",
+                "einer",
+                "100",
+                "Mann",
+                "starken",
+                "Task",
+                "Force",
+                "sollen",
+                "nun",
+                "alle",
+                "48",
+                "Firmen",
+                ",",
+                "die",
+                "staatlich",
+                "anerkannt",
+                "Gebäude",
+                "abnehmen",
+                "dürfen",
+                ",",
+                "systematisch",
+                "überprüft",
+                "werden",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 14,
+            "id": 1,
+            "sentence": 1,
+            "text": "Bauskandal",
+            "word": 2
+        },
+        {
+            "charBegin": 14,
+            "charEnd": 15,
+            "id": 2,
+            "sentence": 1,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 16,
+            "charEnd": 19,
+            "id": 3,
+            "sentence": 1,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 20,
+            "charEnd": 24,
+            "id": 4,
+            "sentence": 1,
+            "text": "nach",
+            "word": 5
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 35,
+            "id": 5,
+            "sentence": 1,
+            "text": "bisherigen",
+            "word": 6
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 49,
+            "id": 6,
+            "sentence": 1,
+            "text": "Erkenntnissen",
+            "word": 7
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 54,
+            "id": 7,
+            "sentence": 1,
+            "text": "etwa",
+            "word": 8
+        },
+        {
+            "charBegin": 55,
+            "charEnd": 57,
+            "id": 8,
+            "sentence": 1,
+            "text": "30",
+            "word": 9
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 64,
+            "id": 9,
+            "sentence": 1,
+            "text": "Hotels",
+            "word": 10
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 68,
+            "id": 10,
+            "sentence": 1,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 69,
+            "charEnd": 80,
+            "id": 11,
+            "sentence": 1,
+            "text": "Wohnanlagen",
+            "word": 12
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 89,
+            "id": 12,
+            "sentence": 1,
+            "text": "betrifft",
+            "word": 13
+        },
+        {
+            "charBegin": 89,
+            "charEnd": 90,
+            "id": 13,
+            "sentence": 1,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 94,
+            "id": 14,
+            "sentence": 1,
+            "text": "ist",
+            "word": 15
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 97,
+            "id": 15,
+            "sentence": 1,
+            "text": "in",
+            "word": 16
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 103,
+            "id": 16,
+            "sentence": 1,
+            "text": "Japan",
+            "word": 17
+        },
+        {
+            "charBegin": 104,
+            "charEnd": 111,
+            "id": 17,
+            "sentence": 1,
+            "text": "bekannt",
+            "word": 18
+        },
+        {
+            "charBegin": 112,
+            "charEnd": 120,
+            "id": 18,
+            "sentence": 1,
+            "text": "geworden",
+            "word": 19
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 121,
+            "id": 19,
+            "sentence": 1,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 127,
+            "id": 20,
+            "sentence": 2,
+            "text": "Daten",
+            "word": 1
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 131,
+            "id": 21,
+            "sentence": 2,
+            "text": "zur",
+            "word": 2
+        },
+        {
+            "charBegin": 132,
+            "charEnd": 151,
+            "id": 22,
+            "sentence": 2,
+            "text": "Erdbeben-Sicherheit",
+            "word": 3
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 155,
+            "id": 23,
+            "sentence": 2,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 163,
+            "id": 24,
+            "sentence": 2,
+            "text": "Gebäude",
+            "word": 5
+        },
+        {
+            "charBegin": 164,
+            "charEnd": 170,
+            "id": 25,
+            "sentence": 2,
+            "text": "wurden",
+            "word": 6
+        },
+        {
+            "charBegin": 171,
+            "charEnd": 180,
+            "id": 26,
+            "sentence": 2,
+            "text": "gefälscht",
+            "word": 7
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 184,
+            "id": 27,
+            "sentence": 2,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 188,
+            "id": 28,
+            "sentence": 2,
+            "text": "bei",
+            "word": 9
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 192,
+            "id": 29,
+            "sentence": 2,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 203,
+            "id": 30,
+            "sentence": 2,
+            "text": "Bauabnahme",
+            "word": 11
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 209,
+            "id": 31,
+            "sentence": 2,
+            "text": "nicht",
+            "word": 12
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 222,
+            "id": 32,
+            "sentence": 2,
+            "text": "kontrolliert",
+            "word": 13
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 223,
+            "id": 33,
+            "sentence": 2,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 224,
+            "charEnd": 227,
+            "id": 34,
+            "sentence": 3,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 239,
+            "id": 35,
+            "sentence": 3,
+            "text": "betroffenen",
+            "word": 2
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 247,
+            "id": 36,
+            "sentence": 3,
+            "text": "Gebäude",
+            "word": 3
+        },
+        {
+            "charBegin": 248,
+            "charEnd": 252,
+            "id": 37,
+            "sentence": 3,
+            "text": "sind",
+            "word": 4
+        },
+        {
+            "charBegin": 253,
+            "charEnd": 265,
+            "id": 38,
+            "sentence": 3,
+            "text": "mittlerweile",
+            "word": 5
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 275,
+            "id": 39,
+            "sentence": 3,
+            "text": "evakuiert",
+            "word": 6
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 282,
+            "id": 40,
+            "sentence": 3,
+            "text": "worden",
+            "word": 7
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 283,
+            "id": 41,
+            "sentence": 3,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 287,
+            "id": 42,
+            "sentence": 4,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 299,
+            "id": 43,
+            "sentence": 4,
+            "text": "Mittelpunkt",
+            "word": 2
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 305,
+            "id": 44,
+            "sentence": 4,
+            "text": "steht",
+            "word": 3
+        },
+        {
+            "charBegin": 306,
+            "charEnd": 311,
+            "id": 45,
+            "sentence": 4,
+            "text": "neben",
+            "word": 4
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 315,
+            "id": 46,
+            "sentence": 4,
+            "text": "dem",
+            "word": 5
+        },
+        {
+            "charBegin": 316,
+            "charEnd": 327,
+            "id": 47,
+            "sentence": 4,
+            "text": "Architekten",
+            "word": 6
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 337,
+            "id": 48,
+            "sentence": 4,
+            "text": "Hidetsugu",
+            "word": 7
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 343,
+            "id": 49,
+            "sentence": 4,
+            "text": "Aneha",
+            "word": 8
+        },
+        {
+            "charBegin": 343,
+            "charEnd": 344,
+            "id": 50,
+            "sentence": 4,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 345,
+            "charEnd": 348,
+            "id": 51,
+            "sentence": 4,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 349,
+            "charEnd": 352,
+            "id": 52,
+            "sentence": 4,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 353,
+            "charEnd": 360,
+            "id": 53,
+            "sentence": 4,
+            "text": "meisten",
+            "word": 12
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 367,
+            "id": 54,
+            "sentence": 4,
+            "text": "dieser",
+            "word": 13
+        },
+        {
+            "charBegin": 368,
+            "charEnd": 375,
+            "id": 55,
+            "sentence": 4,
+            "text": "Gebäude",
+            "word": 14
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 383,
+            "id": 56,
+            "sentence": 4,
+            "text": "geplant",
+            "word": 15
+        },
+        {
+            "charBegin": 384,
+            "charEnd": 387,
+            "id": 57,
+            "sentence": 4,
+            "text": "hat",
+            "word": 16
+        },
+        {
+            "charBegin": 388,
+            "charEnd": 391,
+            "id": 58,
+            "sentence": 4,
+            "text": "und",
+            "word": 17
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 395,
+            "id": 59,
+            "sentence": 4,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 396,
+            "charEnd": 401,
+            "id": 60,
+            "sentence": 4,
+            "text": "Daten",
+            "word": 19
+        },
+        {
+            "charBegin": 402,
+            "charEnd": 411,
+            "id": 61,
+            "sentence": 4,
+            "text": "gefälscht",
+            "word": 20
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 417,
+            "id": 62,
+            "sentence": 4,
+            "text": "haben",
+            "word": 21
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 422,
+            "id": 63,
+            "sentence": 4,
+            "text": "soll",
+            "word": 22
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 423,
+            "id": 64,
+            "sentence": 4,
+            "text": ",",
+            "word": 23
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 428,
+            "id": 65,
+            "sentence": 4,
+            "text": "auch",
+            "word": 24
+        },
+        {
+            "charBegin": 429,
+            "charEnd": 435,
+            "id": 66,
+            "sentence": 4,
+            "text": "eHomes",
+            "word": 25
+        },
+        {
+            "charBegin": 436,
+            "charEnd": 440,
+            "id": 67,
+            "sentence": 4,
+            "text": "Inc.",
+            "word": 26
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 441,
+            "id": 68,
+            "sentence": 4,
+            "text": ",",
+            "word": 27
+        },
+        {
+            "charBegin": 442,
+            "charEnd": 445,
+            "id": 69,
+            "sentence": 4,
+            "text": "ein",
+            "word": 28
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 454,
+            "id": 70,
+            "sentence": 4,
+            "text": "privates",
+            "word": 29
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 467,
+            "id": 71,
+            "sentence": 4,
+            "text": "Prüfinstitut",
+            "word": 30
+        },
+        {
+            "charBegin": 467,
+            "charEnd": 468,
+            "id": 72,
+            "sentence": 4,
+            "text": ",",
+            "word": 31
+        },
+        {
+            "charBegin": 469,
+            "charEnd": 472,
+            "id": 73,
+            "sentence": 4,
+            "text": "das",
+            "word": 32
+        },
+        {
+            "charBegin": 473,
+            "charEnd": 477,
+            "id": 74,
+            "sentence": 4,
+            "text": "nach",
+            "word": 33
+        },
+        {
+            "charBegin": 478,
+            "charEnd": 488,
+            "id": 75,
+            "sentence": 4,
+            "text": "bisherigen",
+            "word": 34
+        },
+        {
+            "charBegin": 489,
+            "charEnd": 502,
+            "id": 76,
+            "sentence": 4,
+            "text": "Erkenntnissen",
+            "word": 35
+        },
+        {
+            "charBegin": 503,
+            "charEnd": 505,
+            "id": 77,
+            "sentence": 4,
+            "text": "28",
+            "word": 36
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 513,
+            "id": 78,
+            "sentence": 4,
+            "text": "Gebäude",
+            "word": 37
+        },
+        {
+            "charBegin": 513,
+            "charEnd": 514,
+            "id": 79,
+            "sentence": 4,
+            "text": ",",
+            "word": 38
+        },
+        {
+            "charBegin": 515,
+            "charEnd": 518,
+            "id": 80,
+            "sentence": 4,
+            "text": "die",
+            "word": 39
+        },
+        {
+            "charBegin": 519,
+            "charEnd": 524,
+            "id": 81,
+            "sentence": 4,
+            "text": "nicht",
+            "word": 40
+        },
+        {
+            "charBegin": 525,
+            "charEnd": 539,
+            "id": 82,
+            "sentence": 4,
+            "text": "erdbebensicher",
+            "word": 41
+        },
+        {
+            "charBegin": 540,
+            "charEnd": 544,
+            "id": 83,
+            "sentence": 4,
+            "text": "sind",
+            "word": 42
+        },
+        {
+            "charBegin": 544,
+            "charEnd": 545,
+            "id": 84,
+            "sentence": 4,
+            "text": ",",
+            "word": 43
+        },
+        {
+            "charBegin": 546,
+            "charEnd": 550,
+            "id": 85,
+            "sentence": 4,
+            "text": "ohne",
+            "word": 44
+        },
+        {
+            "charBegin": 551,
+            "charEnd": 558,
+            "id": 86,
+            "sentence": 4,
+            "text": "Prüfung",
+            "word": 45
+        },
+        {
+            "charBegin": 559,
+            "charEnd": 569,
+            "id": 87,
+            "sentence": 4,
+            "text": "abgenommen",
+            "word": 46
+        },
+        {
+            "charBegin": 570,
+            "charEnd": 573,
+            "id": 88,
+            "sentence": 4,
+            "text": "hat",
+            "word": 47
+        },
+        {
+            "charBegin": 573,
+            "charEnd": 574,
+            "id": 89,
+            "sentence": 4,
+            "text": ".",
+            "word": 48
+        },
+        {
+            "charBegin": 575,
+            "charEnd": 578,
+            "id": 90,
+            "sentence": 5,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 579,
+            "charEnd": 583,
+            "id": 91,
+            "sentence": 5,
+            "text": "Bau-",
+            "word": 2
+        },
+        {
+            "charBegin": 584,
+            "charEnd": 587,
+            "id": 92,
+            "sentence": 5,
+            "text": "und",
+            "word": 3
+        },
+        {
+            "charBegin": 588,
+            "charEnd": 608,
+            "id": 93,
+            "sentence": 5,
+            "text": "Transportministerium",
+            "word": 4
+        },
+        {
+            "charBegin": 609,
+            "charEnd": 612,
+            "id": 94,
+            "sentence": 5,
+            "text": "hat",
+            "word": 5
+        },
+        {
+            "charBegin": 613,
+            "charEnd": 624,
+            "id": 95,
+            "sentence": 5,
+            "text": "entschieden",
+            "word": 6
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 625,
+            "id": 96,
+            "sentence": 5,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 632,
+            "id": 97,
+            "sentence": 5,
+            "text": "eHomes",
+            "word": 8
+        },
+        {
+            "charBegin": 633,
+            "charEnd": 636,
+            "id": 98,
+            "sentence": 5,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 637,
+            "charEnd": 643,
+            "id": 99,
+            "sentence": 5,
+            "text": "Lizenz",
+            "word": 10
+        },
+        {
+            "charBegin": 644,
+            "charEnd": 646,
+            "id": 100,
+            "sentence": 5,
+            "text": "zu",
+            "word": 11
+        },
+        {
+            "charBegin": 647,
+            "charEnd": 656,
+            "id": 101,
+            "sentence": 5,
+            "text": "entziehen",
+            "word": 12
+        },
+        {
+            "charBegin": 656,
+            "charEnd": 657,
+            "id": 102,
+            "sentence": 5,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 659,
+            "charEnd": 670,
+            "id": 103,
+            "sentence": 6,
+            "text": "Einzelfälle",
+            "word": 1
+        },
+        {
+            "charBegin": 671,
+            "charEnd": 677,
+            "id": 104,
+            "sentence": 6,
+            "text": "wurden",
+            "word": 2
+        },
+        {
+            "charBegin": 678,
+            "charEnd": 682,
+            "id": 105,
+            "sentence": 6,
+            "text": "auch",
+            "word": 3
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 687,
+            "id": 106,
+            "sentence": 6,
+            "text": "beim",
+            "word": 4
+        },
+        {
+            "charBegin": 688,
+            "charEnd": 689,
+            "id": 107,
+            "sentence": 6,
+            "text": "„",
+            "word": 5
+        },
+        {
+            "charBegin": 689,
+            "charEnd": 696,
+            "id": 108,
+            "sentence": 6,
+            "text": "Higashi",
+            "word": 6
+        },
+        {
+            "charBegin": 697,
+            "charEnd": 702,
+            "id": 109,
+            "sentence": 6,
+            "text": "Nihon",
+            "word": 7
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 709,
+            "id": 110,
+            "sentence": 6,
+            "text": "Jutaku",
+            "word": 8
+        },
+        {
+            "charBegin": 710,
+            "charEnd": 715,
+            "id": 111,
+            "sentence": 6,
+            "text": "Hyoka",
+            "word": 9
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 722,
+            "id": 112,
+            "sentence": 6,
+            "text": "Center",
+            "word": 10
+        },
+        {
+            "charBegin": 722,
+            "charEnd": 723,
+            "id": 113,
+            "sentence": 6,
+            "text": "“",
+            "word": 11
+        },
+        {
+            "charBegin": 724,
+            "charEnd": 727,
+            "id": 114,
+            "sentence": 6,
+            "text": "und",
+            "word": 12
+        },
+        {
+            "charBegin": 728,
+            "charEnd": 731,
+            "id": 115,
+            "sentence": 6,
+            "text": "bei",
+            "word": 13
+        },
+        {
+            "charBegin": 732,
+            "charEnd": 735,
+            "id": 116,
+            "sentence": 6,
+            "text": "der",
+            "word": 14
+        },
+        {
+            "charBegin": 736,
+            "charEnd": 741,
+            "id": 117,
+            "sentence": 6,
+            "text": "Japan",
+            "word": 15
+        },
+        {
+            "charBegin": 742,
+            "charEnd": 745,
+            "id": 118,
+            "sentence": 6,
+            "text": "ERI",
+            "word": 16
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 749,
+            "id": 119,
+            "sentence": 6,
+            "text": "Co.",
+            "word": 17
+        },
+        {
+            "charBegin": 749,
+            "charEnd": 750,
+            "id": 120,
+            "sentence": 6,
+            "text": ",",
+            "word": 18
+        },
+        {
+            "charBegin": 751,
+            "charEnd": 754,
+            "id": 121,
+            "sentence": 6,
+            "text": "dem",
+            "word": 19
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 762,
+            "id": 122,
+            "sentence": 6,
+            "text": "größten",
+            "word": 20
+        },
+        {
+            "charBegin": 763,
+            "charEnd": 775,
+            "id": 123,
+            "sentence": 6,
+            "text": "Prüfinstitut",
+            "word": 21
+        },
+        {
+            "charBegin": 776,
+            "charEnd": 779,
+            "id": 124,
+            "sentence": 6,
+            "text": "des",
+            "word": 22
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 786,
+            "id": 125,
+            "sentence": 6,
+            "text": "Landes",
+            "word": 23
+        },
+        {
+            "charBegin": 786,
+            "charEnd": 787,
+            "id": 126,
+            "sentence": 6,
+            "text": ",",
+            "word": 24
+        },
+        {
+            "charBegin": 788,
+            "charEnd": 795,
+            "id": 127,
+            "sentence": 6,
+            "text": "bekannt",
+            "word": 25
+        },
+        {
+            "charBegin": 795,
+            "charEnd": 796,
+            "id": 128,
+            "sentence": 6,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 797,
+            "charEnd": 800,
+            "id": 129,
+            "sentence": 7,
+            "text": "Mit",
+            "word": 1
+        },
+        {
+            "charBegin": 801,
+            "charEnd": 806,
+            "id": 130,
+            "sentence": 7,
+            "text": "einer",
+            "word": 2
+        },
+        {
+            "charBegin": 807,
+            "charEnd": 810,
+            "id": 131,
+            "sentence": 7,
+            "text": "100",
+            "word": 3
+        },
+        {
+            "charBegin": 811,
+            "charEnd": 815,
+            "id": 132,
+            "sentence": 7,
+            "text": "Mann",
+            "word": 4
+        },
+        {
+            "charBegin": 816,
+            "charEnd": 823,
+            "id": 133,
+            "sentence": 7,
+            "text": "starken",
+            "word": 5
+        },
+        {
+            "charBegin": 824,
+            "charEnd": 828,
+            "id": 134,
+            "sentence": 7,
+            "text": "Task",
+            "word": 6
+        },
+        {
+            "charBegin": 829,
+            "charEnd": 834,
+            "id": 135,
+            "sentence": 7,
+            "text": "Force",
+            "word": 7
+        },
+        {
+            "charBegin": 835,
+            "charEnd": 841,
+            "id": 136,
+            "sentence": 7,
+            "text": "sollen",
+            "word": 8
+        },
+        {
+            "charBegin": 842,
+            "charEnd": 845,
+            "id": 137,
+            "sentence": 7,
+            "text": "nun",
+            "word": 9
+        },
+        {
+            "charBegin": 846,
+            "charEnd": 850,
+            "id": 138,
+            "sentence": 7,
+            "text": "alle",
+            "word": 10
+        },
+        {
+            "charBegin": 851,
+            "charEnd": 853,
+            "id": 139,
+            "sentence": 7,
+            "text": "48",
+            "word": 11
+        },
+        {
+            "charBegin": 854,
+            "charEnd": 860,
+            "id": 140,
+            "sentence": 7,
+            "text": "Firmen",
+            "word": 12
+        },
+        {
+            "charBegin": 860,
+            "charEnd": 861,
+            "id": 141,
+            "sentence": 7,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 862,
+            "charEnd": 865,
+            "id": 142,
+            "sentence": 7,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 866,
+            "charEnd": 875,
+            "id": 143,
+            "sentence": 7,
+            "text": "staatlich",
+            "word": 15
+        },
+        {
+            "charBegin": 876,
+            "charEnd": 885,
+            "id": 144,
+            "sentence": 7,
+            "text": "anerkannt",
+            "word": 16
+        },
+        {
+            "charBegin": 886,
+            "charEnd": 893,
+            "id": 145,
+            "sentence": 7,
+            "text": "Gebäude",
+            "word": 17
+        },
+        {
+            "charBegin": 894,
+            "charEnd": 902,
+            "id": 146,
+            "sentence": 7,
+            "text": "abnehmen",
+            "word": 18
+        },
+        {
+            "charBegin": 903,
+            "charEnd": 909,
+            "id": 147,
+            "sentence": 7,
+            "text": "dürfen",
+            "word": 19
+        },
+        {
+            "charBegin": 909,
+            "charEnd": 910,
+            "id": 148,
+            "sentence": 7,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 911,
+            "charEnd": 923,
+            "id": 149,
+            "sentence": 7,
+            "text": "systematisch",
+            "word": 21
+        },
+        {
+            "charBegin": 924,
+            "charEnd": 933,
+            "id": 150,
+            "sentence": 7,
+            "text": "überprüft",
+            "word": 22
+        },
+        {
+            "charBegin": 934,
+            "charEnd": 940,
+            "id": 151,
+            "sentence": 7,
+            "text": "werden",
+            "word": 23
+        },
+        {
+            "charBegin": 940,
+            "charEnd": 941,
+            "id": 152,
+            "sentence": 7,
+            "text": ".",
+            "word": 24
+        }
+    ]
+}

@@ -1,0 +1,1535 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 66,
+                        "charBegin": 434,
+                        "charEnd": 438,
+                        "end": 67
+                    }
+                ],
+                "text": "laut",
+                "tokenIds": [
+                    66
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 66,
+                        "charBegin": 434,
+                        "charEnd": 454,
+                        "end": 68
+                    }
+                ],
+                "text": "laut Medienberichten",
+                "tokenIds": [
+                    66,
+                    67
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 62,
+                        "charBegin": 405,
+                        "charEnd": 433,
+                        "end": 66
+                    },
+                    {
+                        "begin": 68,
+                        "charBegin": 455,
+                        "charEnd": 529,
+                        "end": 79
+                    }
+                ],
+                "text": "Seit vergangenem Montag sind mindestens vierzig Menschen getötet und mehr als 100 Autos zerstört worden",
+                "tokenIds": [
+                    62,
+                    63,
+                    64,
+                    65,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 67,
+                        "charBegin": 439,
+                        "charEnd": 454,
+                        "end": 68
+                    }
+                ],
+                "text": "Medienberichten",
+                "tokenIds": [
+                    67
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "64840 - Drogenbandenbekämpfung: Polizei stürmt Armenviertel von Rio de Janeiro (2010-11-27)",
+    "originalText": "Die Polizei von Rio de Janeiro hat das dortige Armenviertel Vila Cruzeiro mit Hilfe von Hubschraubern und Panzern gestürmt. In dem Viertel hielten sich etwa 200 Mitglieder der Drogenbande Comando Vermelho auf, die daraufhin in das benachbarte Armenviertel Alemão flohen. Polizisten und Bandenmitglieder beschossen sich dabei heftig. Nun durchsuchen die Einsatzkräfte die Wohnungen nach Drogen und Waffen. Seit vergangenem Montag sind laut Medienberichten mindestens vierzig Menschen getötet und mehr als 100 Autos zerstört worden. Einen Tag zuvor hatten Mitglieder der Drogenbande Polizeiwachen gestürmt und Verkehrsstaus verursacht, bei welchen sie Fahrzeuge überfielen, ausraubten und in Brand steckten. Ob weitere Stürmungen von Armenvierteln durchgeführt werden, ist noch unklar. In Brasilien sollen im Jahr 2014 die Fußball-Weltmeisterschaft und im Jahr 2016 die Olympischen Sommerspiele stattfinden.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 123,
+            "end": 20,
+            "id": 0,
+            "text": "Die Polizei von Rio de Janeiro hat das dortige Armenviertel Vila Cruzeiro mit Hilfe von Hubschraubern und Panzern gestürmt. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "tokens": [
+                "Die",
+                "Polizei",
+                "von",
+                "Rio",
+                "de",
+                "Janeiro",
+                "hat",
+                "das",
+                "dortige",
+                "Armenviertel",
+                "Vila",
+                "Cruzeiro",
+                "mit",
+                "Hilfe",
+                "von",
+                "Hubschraubern",
+                "und",
+                "Panzern",
+                "gestürmt",
+                "."
+            ]
+        },
+        {
+            "begin": 20,
+            "charBegin": 124,
+            "charEnd": 270,
+            "end": 43,
+            "id": 1,
+            "text": "In dem Viertel hielten sich etwa 200 Mitglieder der Drogenbande Comando Vermelho auf, die daraufhin in das benachbarte Armenviertel Alemão flohen. ",
+            "tokenIds": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42
+            ],
+            "tokens": [
+                "In",
+                "dem",
+                "Viertel",
+                "hielten",
+                "sich",
+                "etwa",
+                "200",
+                "Mitglieder",
+                "der",
+                "Drogenbande",
+                "Comando",
+                "Vermelho",
+                "auf",
+                ",",
+                "die",
+                "daraufhin",
+                "in",
+                "das",
+                "benachbarte",
+                "Armenviertel",
+                "Alemão",
+                "flohen",
+                "."
+            ]
+        },
+        {
+            "begin": 43,
+            "charBegin": 271,
+            "charEnd": 332,
+            "end": 51,
+            "id": 2,
+            "text": "Polizisten und Bandenmitglieder beschossen sich dabei heftig. ",
+            "tokenIds": [
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50
+            ],
+            "tokens": [
+                "Polizisten",
+                "und",
+                "Bandenmitglieder",
+                "beschossen",
+                "sich",
+                "dabei",
+                "heftig",
+                "."
+            ]
+        },
+        {
+            "begin": 51,
+            "charBegin": 333,
+            "charEnd": 404,
+            "end": 62,
+            "id": 3,
+            "text": "Nun durchsuchen die Einsatzkräfte die Wohnungen nach Drogen und Waffen. ",
+            "tokenIds": [
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "tokens": [
+                "Nun",
+                "durchsuchen",
+                "die",
+                "Einsatzkräfte",
+                "die",
+                "Wohnungen",
+                "nach",
+                "Drogen",
+                "und",
+                "Waffen",
+                "."
+            ]
+        },
+        {
+            "begin": 62,
+            "charBegin": 405,
+            "charEnd": 530,
+            "end": 80,
+            "id": 4,
+            "text": "Seit vergangenem Montag sind laut Medienberichten mindestens vierzig Menschen getötet und mehr als 100 Autos zerstört worden. ",
+            "tokenIds": [
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79
+            ],
+            "tokens": [
+                "Seit",
+                "vergangenem",
+                "Montag",
+                "sind",
+                "laut",
+                "Medienberichten",
+                "mindestens",
+                "vierzig",
+                "Menschen",
+                "getötet",
+                "und",
+                "mehr",
+                "als",
+                "100",
+                "Autos",
+                "zerstört",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "begin": 80,
+            "charBegin": 531,
+            "charEnd": 705,
+            "end": 105,
+            "id": 5,
+            "text": "Einen Tag zuvor hatten Mitglieder der Drogenbande Polizeiwachen gestürmt und Verkehrsstaus verursacht, bei welchen sie Fahrzeuge überfielen, ausraubten und in Brand steckten. ",
+            "tokenIds": [
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104
+            ],
+            "tokens": [
+                "Einen",
+                "Tag",
+                "zuvor",
+                "hatten",
+                "Mitglieder",
+                "der",
+                "Drogenbande",
+                "Polizeiwachen",
+                "gestürmt",
+                "und",
+                "Verkehrsstaus",
+                "verursacht",
+                ",",
+                "bei",
+                "welchen",
+                "sie",
+                "Fahrzeuge",
+                "überfielen",
+                ",",
+                "ausraubten",
+                "und",
+                "in",
+                "Brand",
+                "steckten",
+                "."
+            ]
+        },
+        {
+            "begin": 105,
+            "charBegin": 706,
+            "charEnd": 783,
+            "end": 117,
+            "id": 6,
+            "text": "Ob weitere Stürmungen von Armenvierteln durchgeführt werden, ist noch unklar. ",
+            "tokenIds": [
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116
+            ],
+            "tokens": [
+                "Ob",
+                "weitere",
+                "Stürmungen",
+                "von",
+                "Armenvierteln",
+                "durchgeführt",
+                "werden",
+                ",",
+                "ist",
+                "noch",
+                "unklar",
+                "."
+            ]
+        },
+        {
+            "begin": 117,
+            "charBegin": 784,
+            "charEnd": 905,
+            "end": 134,
+            "id": 7,
+            "text": "In Brasilien sollen im Jahr 2014 die Fußball-Weltmeisterschaft und im Jahr 2016 die Olympischen Sommerspiele stattfinden.",
+            "tokenIds": [
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133
+            ],
+            "tokens": [
+                "In",
+                "Brasilien",
+                "sollen",
+                "im",
+                "Jahr",
+                "2014",
+                "die",
+                "Fußball-Weltmeisterschaft",
+                "und",
+                "im",
+                "Jahr",
+                "2016",
+                "die",
+                "Olympischen",
+                "Sommerspiele",
+                "stattfinden",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 11,
+            "id": 1,
+            "sentence": 1,
+            "text": "Polizei",
+            "word": 2
+        },
+        {
+            "charBegin": 12,
+            "charEnd": 15,
+            "id": 2,
+            "sentence": 1,
+            "text": "von",
+            "word": 3
+        },
+        {
+            "charBegin": 16,
+            "charEnd": 19,
+            "id": 3,
+            "sentence": 1,
+            "text": "Rio",
+            "word": 4
+        },
+        {
+            "charBegin": 20,
+            "charEnd": 22,
+            "id": 4,
+            "sentence": 1,
+            "text": "de",
+            "word": 5
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 30,
+            "id": 5,
+            "sentence": 1,
+            "text": "Janeiro",
+            "word": 6
+        },
+        {
+            "charBegin": 31,
+            "charEnd": 34,
+            "id": 6,
+            "sentence": 1,
+            "text": "hat",
+            "word": 7
+        },
+        {
+            "charBegin": 35,
+            "charEnd": 38,
+            "id": 7,
+            "sentence": 1,
+            "text": "das",
+            "word": 8
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 46,
+            "id": 8,
+            "sentence": 1,
+            "text": "dortige",
+            "word": 9
+        },
+        {
+            "charBegin": 47,
+            "charEnd": 59,
+            "id": 9,
+            "sentence": 1,
+            "text": "Armenviertel",
+            "word": 10
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 64,
+            "id": 10,
+            "sentence": 1,
+            "text": "Vila",
+            "word": 11
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 73,
+            "id": 11,
+            "sentence": 1,
+            "text": "Cruzeiro",
+            "word": 12
+        },
+        {
+            "charBegin": 74,
+            "charEnd": 77,
+            "id": 12,
+            "sentence": 1,
+            "text": "mit",
+            "word": 13
+        },
+        {
+            "charBegin": 78,
+            "charEnd": 83,
+            "id": 13,
+            "sentence": 1,
+            "text": "Hilfe",
+            "word": 14
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 87,
+            "id": 14,
+            "sentence": 1,
+            "text": "von",
+            "word": 15
+        },
+        {
+            "charBegin": 88,
+            "charEnd": 101,
+            "id": 15,
+            "sentence": 1,
+            "text": "Hubschraubern",
+            "word": 16
+        },
+        {
+            "charBegin": 102,
+            "charEnd": 105,
+            "id": 16,
+            "sentence": 1,
+            "text": "und",
+            "word": 17
+        },
+        {
+            "charBegin": 106,
+            "charEnd": 113,
+            "id": 17,
+            "sentence": 1,
+            "text": "Panzern",
+            "word": 18
+        },
+        {
+            "charBegin": 114,
+            "charEnd": 122,
+            "id": 18,
+            "sentence": 1,
+            "text": "gestürmt",
+            "word": 19
+        },
+        {
+            "charBegin": 122,
+            "charEnd": 123,
+            "id": 19,
+            "sentence": 1,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 124,
+            "charEnd": 126,
+            "id": 20,
+            "sentence": 2,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 130,
+            "id": 21,
+            "sentence": 2,
+            "text": "dem",
+            "word": 2
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 138,
+            "id": 22,
+            "sentence": 2,
+            "text": "Viertel",
+            "word": 3
+        },
+        {
+            "charBegin": 139,
+            "charEnd": 146,
+            "id": 23,
+            "sentence": 2,
+            "text": "hielten",
+            "word": 4
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 151,
+            "id": 24,
+            "sentence": 2,
+            "text": "sich",
+            "word": 5
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 156,
+            "id": 25,
+            "sentence": 2,
+            "text": "etwa",
+            "word": 6
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 160,
+            "id": 26,
+            "sentence": 2,
+            "text": "200",
+            "word": 7
+        },
+        {
+            "charBegin": 161,
+            "charEnd": 171,
+            "id": 27,
+            "sentence": 2,
+            "text": "Mitglieder",
+            "word": 8
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 175,
+            "id": 28,
+            "sentence": 2,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 187,
+            "id": 29,
+            "sentence": 2,
+            "text": "Drogenbande",
+            "word": 10
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 195,
+            "id": 30,
+            "sentence": 2,
+            "text": "Comando",
+            "word": 11
+        },
+        {
+            "charBegin": 196,
+            "charEnd": 204,
+            "id": 31,
+            "sentence": 2,
+            "text": "Vermelho",
+            "word": 12
+        },
+        {
+            "charBegin": 205,
+            "charEnd": 208,
+            "id": 32,
+            "sentence": 2,
+            "text": "auf",
+            "word": 13
+        },
+        {
+            "charBegin": 208,
+            "charEnd": 209,
+            "id": 33,
+            "sentence": 2,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 213,
+            "id": 34,
+            "sentence": 2,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 223,
+            "id": 35,
+            "sentence": 2,
+            "text": "daraufhin",
+            "word": 16
+        },
+        {
+            "charBegin": 224,
+            "charEnd": 226,
+            "id": 36,
+            "sentence": 2,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 230,
+            "id": 37,
+            "sentence": 2,
+            "text": "das",
+            "word": 18
+        },
+        {
+            "charBegin": 231,
+            "charEnd": 242,
+            "id": 38,
+            "sentence": 2,
+            "text": "benachbarte",
+            "word": 19
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 255,
+            "id": 39,
+            "sentence": 2,
+            "text": "Armenviertel",
+            "word": 20
+        },
+        {
+            "charBegin": 256,
+            "charEnd": 262,
+            "id": 40,
+            "sentence": 2,
+            "text": "Alemão",
+            "word": 21
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 269,
+            "id": 41,
+            "sentence": 2,
+            "text": "flohen",
+            "word": 22
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 270,
+            "id": 42,
+            "sentence": 2,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 281,
+            "id": 43,
+            "sentence": 3,
+            "text": "Polizisten",
+            "word": 1
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 285,
+            "id": 44,
+            "sentence": 3,
+            "text": "und",
+            "word": 2
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 302,
+            "id": 45,
+            "sentence": 3,
+            "text": "Bandenmitglieder",
+            "word": 3
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 313,
+            "id": 46,
+            "sentence": 3,
+            "text": "beschossen",
+            "word": 4
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 318,
+            "id": 47,
+            "sentence": 3,
+            "text": "sich",
+            "word": 5
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 324,
+            "id": 48,
+            "sentence": 3,
+            "text": "dabei",
+            "word": 6
+        },
+        {
+            "charBegin": 325,
+            "charEnd": 331,
+            "id": 49,
+            "sentence": 3,
+            "text": "heftig",
+            "word": 7
+        },
+        {
+            "charBegin": 331,
+            "charEnd": 332,
+            "id": 50,
+            "sentence": 3,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 333,
+            "charEnd": 336,
+            "id": 51,
+            "sentence": 4,
+            "text": "Nun",
+            "word": 1
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 348,
+            "id": 52,
+            "sentence": 4,
+            "text": "durchsuchen",
+            "word": 2
+        },
+        {
+            "charBegin": 349,
+            "charEnd": 352,
+            "id": 53,
+            "sentence": 4,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 353,
+            "charEnd": 366,
+            "id": 54,
+            "sentence": 4,
+            "text": "Einsatzkräfte",
+            "word": 4
+        },
+        {
+            "charBegin": 367,
+            "charEnd": 370,
+            "id": 55,
+            "sentence": 4,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 371,
+            "charEnd": 380,
+            "id": 56,
+            "sentence": 4,
+            "text": "Wohnungen",
+            "word": 6
+        },
+        {
+            "charBegin": 381,
+            "charEnd": 385,
+            "id": 57,
+            "sentence": 4,
+            "text": "nach",
+            "word": 7
+        },
+        {
+            "charBegin": 386,
+            "charEnd": 392,
+            "id": 58,
+            "sentence": 4,
+            "text": "Drogen",
+            "word": 8
+        },
+        {
+            "charBegin": 393,
+            "charEnd": 396,
+            "id": 59,
+            "sentence": 4,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 397,
+            "charEnd": 403,
+            "id": 60,
+            "sentence": 4,
+            "text": "Waffen",
+            "word": 10
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 404,
+            "id": 61,
+            "sentence": 4,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 409,
+            "id": 62,
+            "sentence": 5,
+            "text": "Seit",
+            "word": 1
+        },
+        {
+            "charBegin": 410,
+            "charEnd": 421,
+            "id": 63,
+            "sentence": 5,
+            "text": "vergangenem",
+            "word": 2
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 428,
+            "id": 64,
+            "sentence": 5,
+            "text": "Montag",
+            "word": 3
+        },
+        {
+            "charBegin": 429,
+            "charEnd": 433,
+            "id": 65,
+            "sentence": 5,
+            "text": "sind",
+            "word": 4
+        },
+        {
+            "charBegin": 434,
+            "charEnd": 438,
+            "id": 66,
+            "sentence": 5,
+            "text": "laut",
+            "word": 5
+        },
+        {
+            "charBegin": 439,
+            "charEnd": 454,
+            "id": 67,
+            "sentence": 5,
+            "text": "Medienberichten",
+            "word": 6
+        },
+        {
+            "charBegin": 455,
+            "charEnd": 465,
+            "id": 68,
+            "sentence": 5,
+            "text": "mindestens",
+            "word": 7
+        },
+        {
+            "charBegin": 466,
+            "charEnd": 473,
+            "id": 69,
+            "sentence": 5,
+            "text": "vierzig",
+            "word": 8
+        },
+        {
+            "charBegin": 474,
+            "charEnd": 482,
+            "id": 70,
+            "sentence": 5,
+            "text": "Menschen",
+            "word": 9
+        },
+        {
+            "charBegin": 483,
+            "charEnd": 490,
+            "id": 71,
+            "sentence": 5,
+            "text": "getötet",
+            "word": 10
+        },
+        {
+            "charBegin": 491,
+            "charEnd": 494,
+            "id": 72,
+            "sentence": 5,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 495,
+            "charEnd": 499,
+            "id": 73,
+            "sentence": 5,
+            "text": "mehr",
+            "word": 12
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 503,
+            "id": 74,
+            "sentence": 5,
+            "text": "als",
+            "word": 13
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 507,
+            "id": 75,
+            "sentence": 5,
+            "text": "100",
+            "word": 14
+        },
+        {
+            "charBegin": 508,
+            "charEnd": 513,
+            "id": 76,
+            "sentence": 5,
+            "text": "Autos",
+            "word": 15
+        },
+        {
+            "charBegin": 514,
+            "charEnd": 522,
+            "id": 77,
+            "sentence": 5,
+            "text": "zerstört",
+            "word": 16
+        },
+        {
+            "charBegin": 523,
+            "charEnd": 529,
+            "id": 78,
+            "sentence": 5,
+            "text": "worden",
+            "word": 17
+        },
+        {
+            "charBegin": 529,
+            "charEnd": 530,
+            "id": 79,
+            "sentence": 5,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 531,
+            "charEnd": 536,
+            "id": 80,
+            "sentence": 6,
+            "text": "Einen",
+            "word": 1
+        },
+        {
+            "charBegin": 537,
+            "charEnd": 540,
+            "id": 81,
+            "sentence": 6,
+            "text": "Tag",
+            "word": 2
+        },
+        {
+            "charBegin": 541,
+            "charEnd": 546,
+            "id": 82,
+            "sentence": 6,
+            "text": "zuvor",
+            "word": 3
+        },
+        {
+            "charBegin": 547,
+            "charEnd": 553,
+            "id": 83,
+            "sentence": 6,
+            "text": "hatten",
+            "word": 4
+        },
+        {
+            "charBegin": 554,
+            "charEnd": 564,
+            "id": 84,
+            "sentence": 6,
+            "text": "Mitglieder",
+            "word": 5
+        },
+        {
+            "charBegin": 565,
+            "charEnd": 568,
+            "id": 85,
+            "sentence": 6,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 580,
+            "id": 86,
+            "sentence": 6,
+            "text": "Drogenbande",
+            "word": 7
+        },
+        {
+            "charBegin": 581,
+            "charEnd": 594,
+            "id": 87,
+            "sentence": 6,
+            "text": "Polizeiwachen",
+            "word": 8
+        },
+        {
+            "charBegin": 595,
+            "charEnd": 603,
+            "id": 88,
+            "sentence": 6,
+            "text": "gestürmt",
+            "word": 9
+        },
+        {
+            "charBegin": 604,
+            "charEnd": 607,
+            "id": 89,
+            "sentence": 6,
+            "text": "und",
+            "word": 10
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 621,
+            "id": 90,
+            "sentence": 6,
+            "text": "Verkehrsstaus",
+            "word": 11
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 632,
+            "id": 91,
+            "sentence": 6,
+            "text": "verursacht",
+            "word": 12
+        },
+        {
+            "charBegin": 632,
+            "charEnd": 633,
+            "id": 92,
+            "sentence": 6,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 634,
+            "charEnd": 637,
+            "id": 93,
+            "sentence": 6,
+            "text": "bei",
+            "word": 14
+        },
+        {
+            "charBegin": 638,
+            "charEnd": 645,
+            "id": 94,
+            "sentence": 6,
+            "text": "welchen",
+            "word": 15
+        },
+        {
+            "charBegin": 646,
+            "charEnd": 649,
+            "id": 95,
+            "sentence": 6,
+            "text": "sie",
+            "word": 16
+        },
+        {
+            "charBegin": 650,
+            "charEnd": 659,
+            "id": 96,
+            "sentence": 6,
+            "text": "Fahrzeuge",
+            "word": 17
+        },
+        {
+            "charBegin": 660,
+            "charEnd": 670,
+            "id": 97,
+            "sentence": 6,
+            "text": "überfielen",
+            "word": 18
+        },
+        {
+            "charBegin": 670,
+            "charEnd": 671,
+            "id": 98,
+            "sentence": 6,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 672,
+            "charEnd": 682,
+            "id": 99,
+            "sentence": 6,
+            "text": "ausraubten",
+            "word": 20
+        },
+        {
+            "charBegin": 683,
+            "charEnd": 686,
+            "id": 100,
+            "sentence": 6,
+            "text": "und",
+            "word": 21
+        },
+        {
+            "charBegin": 687,
+            "charEnd": 689,
+            "id": 101,
+            "sentence": 6,
+            "text": "in",
+            "word": 22
+        },
+        {
+            "charBegin": 690,
+            "charEnd": 695,
+            "id": 102,
+            "sentence": 6,
+            "text": "Brand",
+            "word": 23
+        },
+        {
+            "charBegin": 696,
+            "charEnd": 704,
+            "id": 103,
+            "sentence": 6,
+            "text": "steckten",
+            "word": 24
+        },
+        {
+            "charBegin": 704,
+            "charEnd": 705,
+            "id": 104,
+            "sentence": 6,
+            "text": ".",
+            "word": 25
+        },
+        {
+            "charBegin": 706,
+            "charEnd": 708,
+            "id": 105,
+            "sentence": 7,
+            "text": "Ob",
+            "word": 1
+        },
+        {
+            "charBegin": 709,
+            "charEnd": 716,
+            "id": 106,
+            "sentence": 7,
+            "text": "weitere",
+            "word": 2
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 727,
+            "id": 107,
+            "sentence": 7,
+            "text": "Stürmungen",
+            "word": 3
+        },
+        {
+            "charBegin": 728,
+            "charEnd": 731,
+            "id": 108,
+            "sentence": 7,
+            "text": "von",
+            "word": 4
+        },
+        {
+            "charBegin": 732,
+            "charEnd": 745,
+            "id": 109,
+            "sentence": 7,
+            "text": "Armenvierteln",
+            "word": 5
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 758,
+            "id": 110,
+            "sentence": 7,
+            "text": "durchgeführt",
+            "word": 6
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 765,
+            "id": 111,
+            "sentence": 7,
+            "text": "werden",
+            "word": 7
+        },
+        {
+            "charBegin": 765,
+            "charEnd": 766,
+            "id": 112,
+            "sentence": 7,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 767,
+            "charEnd": 770,
+            "id": 113,
+            "sentence": 7,
+            "text": "ist",
+            "word": 9
+        },
+        {
+            "charBegin": 771,
+            "charEnd": 775,
+            "id": 114,
+            "sentence": 7,
+            "text": "noch",
+            "word": 10
+        },
+        {
+            "charBegin": 776,
+            "charEnd": 782,
+            "id": 115,
+            "sentence": 7,
+            "text": "unklar",
+            "word": 11
+        },
+        {
+            "charBegin": 782,
+            "charEnd": 783,
+            "id": 116,
+            "sentence": 7,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 784,
+            "charEnd": 786,
+            "id": 117,
+            "sentence": 8,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 796,
+            "id": 118,
+            "sentence": 8,
+            "text": "Brasilien",
+            "word": 2
+        },
+        {
+            "charBegin": 797,
+            "charEnd": 803,
+            "id": 119,
+            "sentence": 8,
+            "text": "sollen",
+            "word": 3
+        },
+        {
+            "charBegin": 804,
+            "charEnd": 806,
+            "id": 120,
+            "sentence": 8,
+            "text": "im",
+            "word": 4
+        },
+        {
+            "charBegin": 807,
+            "charEnd": 811,
+            "id": 121,
+            "sentence": 8,
+            "text": "Jahr",
+            "word": 5
+        },
+        {
+            "charBegin": 812,
+            "charEnd": 816,
+            "id": 122,
+            "sentence": 8,
+            "text": "2014",
+            "word": 6
+        },
+        {
+            "charBegin": 817,
+            "charEnd": 820,
+            "id": 123,
+            "sentence": 8,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 821,
+            "charEnd": 846,
+            "id": 124,
+            "sentence": 8,
+            "text": "Fußball-Weltmeisterschaft",
+            "word": 8
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 850,
+            "id": 125,
+            "sentence": 8,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 851,
+            "charEnd": 853,
+            "id": 126,
+            "sentence": 8,
+            "text": "im",
+            "word": 10
+        },
+        {
+            "charBegin": 854,
+            "charEnd": 858,
+            "id": 127,
+            "sentence": 8,
+            "text": "Jahr",
+            "word": 11
+        },
+        {
+            "charBegin": 859,
+            "charEnd": 863,
+            "id": 128,
+            "sentence": 8,
+            "text": "2016",
+            "word": 12
+        },
+        {
+            "charBegin": 864,
+            "charEnd": 867,
+            "id": 129,
+            "sentence": 8,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 868,
+            "charEnd": 879,
+            "id": 130,
+            "sentence": 8,
+            "text": "Olympischen",
+            "word": 14
+        },
+        {
+            "charBegin": 880,
+            "charEnd": 892,
+            "id": 131,
+            "sentence": 8,
+            "text": "Sommerspiele",
+            "word": 15
+        },
+        {
+            "charBegin": 893,
+            "charEnd": 904,
+            "id": 132,
+            "sentence": 8,
+            "text": "stattfinden",
+            "word": 16
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 905,
+            "id": 133,
+            "sentence": 8,
+            "text": ".",
+            "word": 17
+        }
+    ]
+}

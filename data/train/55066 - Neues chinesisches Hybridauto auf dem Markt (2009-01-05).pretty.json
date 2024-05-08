@@ -1,0 +1,2488 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 195,
+                        "charBegin": 1130,
+                        "charEnd": 1220,
+                        "end": 206
+                    }
+                ],
+                "text": "Problematisch sei im Binnenmarkt noch die unterentwickelte Infrastruktur für Elektroautos.",
+                "tokenIds": [
+                    195,
+                    196,
+                    197,
+                    198,
+                    199,
+                    200,
+                    201,
+                    202,
+                    203,
+                    204,
+                    205
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 182,
+                        "charBegin": 1060,
+                        "charEnd": 1063,
+                        "end": 183
+                    }
+                ],
+                "text": "BYD",
+                "tokenIds": [
+                    182
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        }
+    ],
+    "documentName": "55066 - Neues chinesisches Hybridauto auf dem Markt (2009-01-05)",
+    "originalText": "In zwölf großen Städten Chinas begann Mitte Dezember 2008 die Serienproduktion und die Vermarktung eines Hybridautos eines landeseigenen Unternehmens. Dabei handelt es sich um das Modell „F3 DM“ von der Firma „Build Your Dreams“, besser bekannt unter dem Kürzel BYD. \n\nAn der Firma ist auch der US-amerikanische Investor Warren Buffet zu 9,9 Prozent beteiligt. Die chinesische Firma produziert bereits die Limousine F3, die im Land in ihrem Segment Marktführer ist. BYD, das seit 2003 Autos herstellt, gilt zudem als Spezialist für elektrische Komponenten und Batterien.\n\nIn reinem Batteriebetrieb hat das Fahrzeug eine Reichweite von 100, nach anderen Angaben 110 Kilometern. An einem normalen Stromanschluss dauert der Aufladevorgang acht, nach anderen Angaben neun Stunden. Das Modell kostet 149.800 Yuan (zirka 16.000 Euro). Der Verkauf in Europa soll 2010 starten, der in den Vereinigten Staaten im Jahr 2011. Erste Kunden sind die Verwaltung von Shenzhen und die China Construction Bank. Beide Verträge sehen den Verkauf von 50 Fahrzeugen vor. 2009 will BYD 180.000 Autos verkaufen, 2010 sollen es dann 350.000 Stück sein.\n\nProblematisch sei im Binnenmarkt noch die unterentwickelte Infrastruktur für Elektroautos. Kaum ein Wohngebäude in China hat einen Parkplatz, so dass das Wiederaufladen über Nacht besonders schwierig ist.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 150,
+            "end": 20,
+            "id": 0,
+            "text": "In zwölf großen Städten Chinas begann Mitte Dezember 2008 die Serienproduktion und die Vermarktung eines Hybridautos eines landeseigenen Unternehmens. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "tokens": [
+                "In",
+                "zwölf",
+                "großen",
+                "Städten",
+                "Chinas",
+                "begann",
+                "Mitte",
+                "Dezember",
+                "2008",
+                "die",
+                "Serienproduktion",
+                "und",
+                "die",
+                "Vermarktung",
+                "eines",
+                "Hybridautos",
+                "eines",
+                "landeseigenen",
+                "Unternehmens",
+                "."
+            ]
+        },
+        {
+            "begin": 20,
+            "charBegin": 151,
+            "charEnd": 266,
+            "end": 47,
+            "id": 1,
+            "text": "Dabei handelt es sich um das Modell „F3 DM“ von der Firma „Build Your Dreams“, besser bekannt unter dem Kürzel BYD. ",
+            "tokenIds": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46
+            ],
+            "tokens": [
+                "Dabei",
+                "handelt",
+                "es",
+                "sich",
+                "um",
+                "das",
+                "Modell",
+                "„",
+                "F3",
+                "DM",
+                "“",
+                "von",
+                "der",
+                "Firma",
+                "„",
+                "Build",
+                "Your",
+                "Dreams",
+                "“",
+                ",",
+                "besser",
+                "bekannt",
+                "unter",
+                "dem",
+                "Kürzel",
+                "BYD",
+                "."
+            ]
+        },
+        {
+            "begin": 47,
+            "charBegin": 269,
+            "charEnd": 360,
+            "end": 62,
+            "id": 2,
+            "text": "An der Firma ist auch der US-amerikanische Investor Warren Buffet zu 9,9 Prozent beteiligt. ",
+            "tokenIds": [
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "tokens": [
+                "An",
+                "der",
+                "Firma",
+                "ist",
+                "auch",
+                "der",
+                "US-amerikanische",
+                "Investor",
+                "Warren",
+                "Buffet",
+                "zu",
+                "9,9",
+                "Prozent",
+                "beteiligt",
+                "."
+            ]
+        },
+        {
+            "begin": 62,
+            "charBegin": 361,
+            "charEnd": 465,
+            "end": 80,
+            "id": 3,
+            "text": "Die chinesische Firma produziert bereits die Limousine F3, die im Land in ihrem Segment Marktführer ist. ",
+            "tokenIds": [
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79
+            ],
+            "tokens": [
+                "Die",
+                "chinesische",
+                "Firma",
+                "produziert",
+                "bereits",
+                "die",
+                "Limousine",
+                "F3",
+                ",",
+                "die",
+                "im",
+                "Land",
+                "in",
+                "ihrem",
+                "Segment",
+                "Marktführer",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "begin": 80,
+            "charBegin": 466,
+            "charEnd": 570,
+            "end": 98,
+            "id": 4,
+            "text": "BYD, das seit 2003 Autos herstellt, gilt zudem als Spezialist für elektrische Komponenten und Batterien.",
+            "tokenIds": [
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97
+            ],
+            "tokens": [
+                "BYD",
+                ",",
+                "das",
+                "seit",
+                "2003",
+                "Autos",
+                "herstellt",
+                ",",
+                "gilt",
+                "zudem",
+                "als",
+                "Spezialist",
+                "für",
+                "elektrische",
+                "Komponenten",
+                "und",
+                "Batterien",
+                "."
+            ]
+        },
+        {
+            "begin": 98,
+            "charBegin": 572,
+            "charEnd": 676,
+            "end": 115,
+            "id": 5,
+            "text": "In reinem Batteriebetrieb hat das Fahrzeug eine Reichweite von 100, nach anderen Angaben 110 Kilometern. ",
+            "tokenIds": [
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114
+            ],
+            "tokens": [
+                "In",
+                "reinem",
+                "Batteriebetrieb",
+                "hat",
+                "das",
+                "Fahrzeug",
+                "eine",
+                "Reichweite",
+                "von",
+                "100",
+                ",",
+                "nach",
+                "anderen",
+                "Angaben",
+                "110",
+                "Kilometern",
+                "."
+            ]
+        },
+        {
+            "begin": 115,
+            "charBegin": 677,
+            "charEnd": 776,
+            "end": 130,
+            "id": 6,
+            "text": "An einem normalen Stromanschluss dauert der Aufladevorgang acht, nach anderen Angaben neun Stunden. ",
+            "tokenIds": [
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129
+            ],
+            "tokens": [
+                "An",
+                "einem",
+                "normalen",
+                "Stromanschluss",
+                "dauert",
+                "der",
+                "Aufladevorgang",
+                "acht",
+                ",",
+                "nach",
+                "anderen",
+                "Angaben",
+                "neun",
+                "Stunden",
+                "."
+            ]
+        },
+        {
+            "begin": 130,
+            "charBegin": 777,
+            "charEnd": 828,
+            "end": 141,
+            "id": 7,
+            "text": "Das Modell kostet 149.800 Yuan (zirka 16.000 Euro). ",
+            "tokenIds": [
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140
+            ],
+            "tokens": [
+                "Das",
+                "Modell",
+                "kostet",
+                "149.800",
+                "Yuan",
+                "(",
+                "zirka",
+                "16.000",
+                "Euro",
+                ")",
+                "."
+            ]
+        },
+        {
+            "begin": 141,
+            "charBegin": 829,
+            "charEnd": 914,
+            "end": 157,
+            "id": 8,
+            "text": "Der Verkauf in Europa soll 2010 starten, der in den Vereinigten Staaten im Jahr 2011. ",
+            "tokenIds": [
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156
+            ],
+            "tokens": [
+                "Der",
+                "Verkauf",
+                "in",
+                "Europa",
+                "soll",
+                "2010",
+                "starten",
+                ",",
+                "der",
+                "in",
+                "den",
+                "Vereinigten",
+                "Staaten",
+                "im",
+                "Jahr",
+                "2011."
+            ]
+        },
+        {
+            "begin": 157,
+            "charBegin": 915,
+            "charEnd": 993,
+            "end": 170,
+            "id": 9,
+            "text": "Erste Kunden sind die Verwaltung von Shenzhen und die China Construction Bank. ",
+            "tokenIds": [
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169
+            ],
+            "tokens": [
+                "Erste",
+                "Kunden",
+                "sind",
+                "die",
+                "Verwaltung",
+                "von",
+                "Shenzhen",
+                "und",
+                "die",
+                "China",
+                "Construction",
+                "Bank",
+                "."
+            ]
+        },
+        {
+            "begin": 170,
+            "charBegin": 994,
+            "charEnd": 1049,
+            "end": 180,
+            "id": 10,
+            "text": "Beide Verträge sehen den Verkauf von 50 Fahrzeugen vor. ",
+            "tokenIds": [
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179
+            ],
+            "tokens": [
+                "Beide",
+                "Verträge",
+                "sehen",
+                "den",
+                "Verkauf",
+                "von",
+                "50",
+                "Fahrzeugen",
+                "vor",
+                "."
+            ]
+        },
+        {
+            "begin": 180,
+            "charBegin": 1050,
+            "charEnd": 1128,
+            "end": 195,
+            "id": 11,
+            "text": "2009 will BYD 180.000 Autos verkaufen, 2010 sollen es dann 350.000 Stück sein.",
+            "tokenIds": [
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194
+            ],
+            "tokens": [
+                "2009",
+                "will",
+                "BYD",
+                "180.000",
+                "Autos",
+                "verkaufen",
+                ",",
+                "2010",
+                "sollen",
+                "es",
+                "dann",
+                "350.000",
+                "Stück",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "begin": 195,
+            "charBegin": 1130,
+            "charEnd": 1220,
+            "end": 206,
+            "id": 12,
+            "text": "Problematisch sei im Binnenmarkt noch die unterentwickelte Infrastruktur für Elektroautos. ",
+            "tokenIds": [
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205
+            ],
+            "tokens": [
+                "Problematisch",
+                "sei",
+                "im",
+                "Binnenmarkt",
+                "noch",
+                "die",
+                "unterentwickelte",
+                "Infrastruktur",
+                "für",
+                "Elektroautos",
+                "."
+            ]
+        },
+        {
+            "begin": 206,
+            "charBegin": 1221,
+            "charEnd": 1334,
+            "end": 225,
+            "id": 13,
+            "text": "Kaum ein Wohngebäude in China hat einen Parkplatz, so dass das Wiederaufladen über Nacht besonders schwierig ist.",
+            "tokenIds": [
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224
+            ],
+            "tokens": [
+                "Kaum",
+                "ein",
+                "Wohngebäude",
+                "in",
+                "China",
+                "hat",
+                "einen",
+                "Parkplatz",
+                ",",
+                "so",
+                "dass",
+                "das",
+                "Wiederaufladen",
+                "über",
+                "Nacht",
+                "besonders",
+                "schwierig",
+                "ist",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 8,
+            "id": 1,
+            "sentence": 1,
+            "text": "zwölf",
+            "word": 2
+        },
+        {
+            "charBegin": 9,
+            "charEnd": 15,
+            "id": 2,
+            "sentence": 1,
+            "text": "großen",
+            "word": 3
+        },
+        {
+            "charBegin": 16,
+            "charEnd": 23,
+            "id": 3,
+            "sentence": 1,
+            "text": "Städten",
+            "word": 4
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 30,
+            "id": 4,
+            "sentence": 1,
+            "text": "Chinas",
+            "word": 5
+        },
+        {
+            "charBegin": 31,
+            "charEnd": 37,
+            "id": 5,
+            "sentence": 1,
+            "text": "begann",
+            "word": 6
+        },
+        {
+            "charBegin": 38,
+            "charEnd": 43,
+            "id": 6,
+            "sentence": 1,
+            "text": "Mitte",
+            "word": 7
+        },
+        {
+            "charBegin": 44,
+            "charEnd": 52,
+            "id": 7,
+            "sentence": 1,
+            "text": "Dezember",
+            "word": 8
+        },
+        {
+            "charBegin": 53,
+            "charEnd": 57,
+            "id": 8,
+            "sentence": 1,
+            "text": "2008",
+            "word": 9
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 61,
+            "id": 9,
+            "sentence": 1,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 62,
+            "charEnd": 78,
+            "id": 10,
+            "sentence": 1,
+            "text": "Serienproduktion",
+            "word": 11
+        },
+        {
+            "charBegin": 79,
+            "charEnd": 82,
+            "id": 11,
+            "sentence": 1,
+            "text": "und",
+            "word": 12
+        },
+        {
+            "charBegin": 83,
+            "charEnd": 86,
+            "id": 12,
+            "sentence": 1,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 87,
+            "charEnd": 98,
+            "id": 13,
+            "sentence": 1,
+            "text": "Vermarktung",
+            "word": 14
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 104,
+            "id": 14,
+            "sentence": 1,
+            "text": "eines",
+            "word": 15
+        },
+        {
+            "charBegin": 105,
+            "charEnd": 116,
+            "id": 15,
+            "sentence": 1,
+            "text": "Hybridautos",
+            "word": 16
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 122,
+            "id": 16,
+            "sentence": 1,
+            "text": "eines",
+            "word": 17
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 136,
+            "id": 17,
+            "sentence": 1,
+            "text": "landeseigenen",
+            "word": 18
+        },
+        {
+            "charBegin": 137,
+            "charEnd": 149,
+            "id": 18,
+            "sentence": 1,
+            "text": "Unternehmens",
+            "word": 19
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 150,
+            "id": 19,
+            "sentence": 1,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 151,
+            "charEnd": 156,
+            "id": 20,
+            "sentence": 2,
+            "text": "Dabei",
+            "word": 1
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 164,
+            "id": 21,
+            "sentence": 2,
+            "text": "handelt",
+            "word": 2
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 167,
+            "id": 22,
+            "sentence": 2,
+            "text": "es",
+            "word": 3
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 172,
+            "id": 23,
+            "sentence": 2,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 175,
+            "id": 24,
+            "sentence": 2,
+            "text": "um",
+            "word": 5
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 179,
+            "id": 25,
+            "sentence": 2,
+            "text": "das",
+            "word": 6
+        },
+        {
+            "charBegin": 180,
+            "charEnd": 186,
+            "id": 26,
+            "sentence": 2,
+            "text": "Modell",
+            "word": 7
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 188,
+            "id": 27,
+            "sentence": 2,
+            "text": "„",
+            "word": 8
+        },
+        {
+            "charBegin": 188,
+            "charEnd": 190,
+            "id": 28,
+            "sentence": 2,
+            "text": "F3",
+            "word": 9
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 193,
+            "id": 29,
+            "sentence": 2,
+            "text": "DM",
+            "word": 10
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 194,
+            "id": 30,
+            "sentence": 2,
+            "text": "“",
+            "word": 11
+        },
+        {
+            "charBegin": 195,
+            "charEnd": 198,
+            "id": 31,
+            "sentence": 2,
+            "text": "von",
+            "word": 12
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 202,
+            "id": 32,
+            "sentence": 2,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 208,
+            "id": 33,
+            "sentence": 2,
+            "text": "Firma",
+            "word": 14
+        },
+        {
+            "charBegin": 209,
+            "charEnd": 210,
+            "id": 34,
+            "sentence": 2,
+            "text": "„",
+            "word": 15
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 215,
+            "id": 35,
+            "sentence": 2,
+            "text": "Build",
+            "word": 16
+        },
+        {
+            "charBegin": 216,
+            "charEnd": 220,
+            "id": 36,
+            "sentence": 2,
+            "text": "Your",
+            "word": 17
+        },
+        {
+            "charBegin": 221,
+            "charEnd": 227,
+            "id": 37,
+            "sentence": 2,
+            "text": "Dreams",
+            "word": 18
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 228,
+            "id": 38,
+            "sentence": 2,
+            "text": "“",
+            "word": 19
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 229,
+            "id": 39,
+            "sentence": 2,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 230,
+            "charEnd": 236,
+            "id": 40,
+            "sentence": 2,
+            "text": "besser",
+            "word": 21
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 244,
+            "id": 41,
+            "sentence": 2,
+            "text": "bekannt",
+            "word": 22
+        },
+        {
+            "charBegin": 245,
+            "charEnd": 250,
+            "id": 42,
+            "sentence": 2,
+            "text": "unter",
+            "word": 23
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 254,
+            "id": 43,
+            "sentence": 2,
+            "text": "dem",
+            "word": 24
+        },
+        {
+            "charBegin": 255,
+            "charEnd": 261,
+            "id": 44,
+            "sentence": 2,
+            "text": "Kürzel",
+            "word": 25
+        },
+        {
+            "charBegin": 262,
+            "charEnd": 265,
+            "id": 45,
+            "sentence": 2,
+            "text": "BYD",
+            "word": 26
+        },
+        {
+            "charBegin": 265,
+            "charEnd": 266,
+            "id": 46,
+            "sentence": 2,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 271,
+            "id": 47,
+            "sentence": 3,
+            "text": "An",
+            "word": 1
+        },
+        {
+            "charBegin": 272,
+            "charEnd": 275,
+            "id": 48,
+            "sentence": 3,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 281,
+            "id": 49,
+            "sentence": 3,
+            "text": "Firma",
+            "word": 3
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 285,
+            "id": 50,
+            "sentence": 3,
+            "text": "ist",
+            "word": 4
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 290,
+            "id": 51,
+            "sentence": 3,
+            "text": "auch",
+            "word": 5
+        },
+        {
+            "charBegin": 291,
+            "charEnd": 294,
+            "id": 52,
+            "sentence": 3,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 311,
+            "id": 53,
+            "sentence": 3,
+            "text": "US-amerikanische",
+            "word": 7
+        },
+        {
+            "charBegin": 312,
+            "charEnd": 320,
+            "id": 54,
+            "sentence": 3,
+            "text": "Investor",
+            "word": 8
+        },
+        {
+            "charBegin": 321,
+            "charEnd": 327,
+            "id": 55,
+            "sentence": 3,
+            "text": "Warren",
+            "word": 9
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 334,
+            "id": 56,
+            "sentence": 3,
+            "text": "Buffet",
+            "word": 10
+        },
+        {
+            "charBegin": 335,
+            "charEnd": 337,
+            "id": 57,
+            "sentence": 3,
+            "text": "zu",
+            "word": 11
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 341,
+            "id": 58,
+            "sentence": 3,
+            "text": "9,9",
+            "word": 12
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 349,
+            "id": 59,
+            "sentence": 3,
+            "text": "Prozent",
+            "word": 13
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 359,
+            "id": 60,
+            "sentence": 3,
+            "text": "beteiligt",
+            "word": 14
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 360,
+            "id": 61,
+            "sentence": 3,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 364,
+            "id": 62,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 376,
+            "id": 63,
+            "sentence": 4,
+            "text": "chinesische",
+            "word": 2
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 382,
+            "id": 64,
+            "sentence": 4,
+            "text": "Firma",
+            "word": 3
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 393,
+            "id": 65,
+            "sentence": 4,
+            "text": "produziert",
+            "word": 4
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 401,
+            "id": 66,
+            "sentence": 4,
+            "text": "bereits",
+            "word": 5
+        },
+        {
+            "charBegin": 402,
+            "charEnd": 405,
+            "id": 67,
+            "sentence": 4,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 406,
+            "charEnd": 415,
+            "id": 68,
+            "sentence": 4,
+            "text": "Limousine",
+            "word": 7
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 418,
+            "id": 69,
+            "sentence": 4,
+            "text": "F3",
+            "word": 8
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 419,
+            "id": 70,
+            "sentence": 4,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 423,
+            "id": 71,
+            "sentence": 4,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 426,
+            "id": 72,
+            "sentence": 4,
+            "text": "im",
+            "word": 11
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 431,
+            "id": 73,
+            "sentence": 4,
+            "text": "Land",
+            "word": 12
+        },
+        {
+            "charBegin": 432,
+            "charEnd": 434,
+            "id": 74,
+            "sentence": 4,
+            "text": "in",
+            "word": 13
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 440,
+            "id": 75,
+            "sentence": 4,
+            "text": "ihrem",
+            "word": 14
+        },
+        {
+            "charBegin": 441,
+            "charEnd": 448,
+            "id": 76,
+            "sentence": 4,
+            "text": "Segment",
+            "word": 15
+        },
+        {
+            "charBegin": 449,
+            "charEnd": 460,
+            "id": 77,
+            "sentence": 4,
+            "text": "Marktführer",
+            "word": 16
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 464,
+            "id": 78,
+            "sentence": 4,
+            "text": "ist",
+            "word": 17
+        },
+        {
+            "charBegin": 464,
+            "charEnd": 465,
+            "id": 79,
+            "sentence": 4,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 466,
+            "charEnd": 469,
+            "id": 80,
+            "sentence": 5,
+            "text": "BYD",
+            "word": 1
+        },
+        {
+            "charBegin": 469,
+            "charEnd": 470,
+            "id": 81,
+            "sentence": 5,
+            "text": ",",
+            "word": 2
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 474,
+            "id": 82,
+            "sentence": 5,
+            "text": "das",
+            "word": 3
+        },
+        {
+            "charBegin": 475,
+            "charEnd": 479,
+            "id": 83,
+            "sentence": 5,
+            "text": "seit",
+            "word": 4
+        },
+        {
+            "charBegin": 480,
+            "charEnd": 484,
+            "id": 84,
+            "sentence": 5,
+            "text": "2003",
+            "word": 5
+        },
+        {
+            "charBegin": 485,
+            "charEnd": 490,
+            "id": 85,
+            "sentence": 5,
+            "text": "Autos",
+            "word": 6
+        },
+        {
+            "charBegin": 491,
+            "charEnd": 500,
+            "id": 86,
+            "sentence": 5,
+            "text": "herstellt",
+            "word": 7
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 501,
+            "id": 87,
+            "sentence": 5,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 502,
+            "charEnd": 506,
+            "id": 88,
+            "sentence": 5,
+            "text": "gilt",
+            "word": 9
+        },
+        {
+            "charBegin": 507,
+            "charEnd": 512,
+            "id": 89,
+            "sentence": 5,
+            "text": "zudem",
+            "word": 10
+        },
+        {
+            "charBegin": 513,
+            "charEnd": 516,
+            "id": 90,
+            "sentence": 5,
+            "text": "als",
+            "word": 11
+        },
+        {
+            "charBegin": 517,
+            "charEnd": 527,
+            "id": 91,
+            "sentence": 5,
+            "text": "Spezialist",
+            "word": 12
+        },
+        {
+            "charBegin": 528,
+            "charEnd": 531,
+            "id": 92,
+            "sentence": 5,
+            "text": "für",
+            "word": 13
+        },
+        {
+            "charBegin": 532,
+            "charEnd": 543,
+            "id": 93,
+            "sentence": 5,
+            "text": "elektrische",
+            "word": 14
+        },
+        {
+            "charBegin": 544,
+            "charEnd": 555,
+            "id": 94,
+            "sentence": 5,
+            "text": "Komponenten",
+            "word": 15
+        },
+        {
+            "charBegin": 556,
+            "charEnd": 559,
+            "id": 95,
+            "sentence": 5,
+            "text": "und",
+            "word": 16
+        },
+        {
+            "charBegin": 560,
+            "charEnd": 569,
+            "id": 96,
+            "sentence": 5,
+            "text": "Batterien",
+            "word": 17
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 570,
+            "id": 97,
+            "sentence": 5,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 572,
+            "charEnd": 574,
+            "id": 98,
+            "sentence": 6,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 575,
+            "charEnd": 581,
+            "id": 99,
+            "sentence": 6,
+            "text": "reinem",
+            "word": 2
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 597,
+            "id": 100,
+            "sentence": 6,
+            "text": "Batteriebetrieb",
+            "word": 3
+        },
+        {
+            "charBegin": 598,
+            "charEnd": 601,
+            "id": 101,
+            "sentence": 6,
+            "text": "hat",
+            "word": 4
+        },
+        {
+            "charBegin": 602,
+            "charEnd": 605,
+            "id": 102,
+            "sentence": 6,
+            "text": "das",
+            "word": 5
+        },
+        {
+            "charBegin": 606,
+            "charEnd": 614,
+            "id": 103,
+            "sentence": 6,
+            "text": "Fahrzeug",
+            "word": 6
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 619,
+            "id": 104,
+            "sentence": 6,
+            "text": "eine",
+            "word": 7
+        },
+        {
+            "charBegin": 620,
+            "charEnd": 630,
+            "id": 105,
+            "sentence": 6,
+            "text": "Reichweite",
+            "word": 8
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 634,
+            "id": 106,
+            "sentence": 6,
+            "text": "von",
+            "word": 9
+        },
+        {
+            "charBegin": 635,
+            "charEnd": 638,
+            "id": 107,
+            "sentence": 6,
+            "text": "100",
+            "word": 10
+        },
+        {
+            "charBegin": 638,
+            "charEnd": 639,
+            "id": 108,
+            "sentence": 6,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 640,
+            "charEnd": 644,
+            "id": 109,
+            "sentence": 6,
+            "text": "nach",
+            "word": 12
+        },
+        {
+            "charBegin": 645,
+            "charEnd": 652,
+            "id": 110,
+            "sentence": 6,
+            "text": "anderen",
+            "word": 13
+        },
+        {
+            "charBegin": 653,
+            "charEnd": 660,
+            "id": 111,
+            "sentence": 6,
+            "text": "Angaben",
+            "word": 14
+        },
+        {
+            "charBegin": 661,
+            "charEnd": 664,
+            "id": 112,
+            "sentence": 6,
+            "text": "110",
+            "word": 15
+        },
+        {
+            "charBegin": 665,
+            "charEnd": 675,
+            "id": 113,
+            "sentence": 6,
+            "text": "Kilometern",
+            "word": 16
+        },
+        {
+            "charBegin": 675,
+            "charEnd": 676,
+            "id": 114,
+            "sentence": 6,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 677,
+            "charEnd": 679,
+            "id": 115,
+            "sentence": 7,
+            "text": "An",
+            "word": 1
+        },
+        {
+            "charBegin": 680,
+            "charEnd": 685,
+            "id": 116,
+            "sentence": 7,
+            "text": "einem",
+            "word": 2
+        },
+        {
+            "charBegin": 686,
+            "charEnd": 694,
+            "id": 117,
+            "sentence": 7,
+            "text": "normalen",
+            "word": 3
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 709,
+            "id": 118,
+            "sentence": 7,
+            "text": "Stromanschluss",
+            "word": 4
+        },
+        {
+            "charBegin": 710,
+            "charEnd": 716,
+            "id": 119,
+            "sentence": 7,
+            "text": "dauert",
+            "word": 5
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 720,
+            "id": 120,
+            "sentence": 7,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 721,
+            "charEnd": 735,
+            "id": 121,
+            "sentence": 7,
+            "text": "Aufladevorgang",
+            "word": 7
+        },
+        {
+            "charBegin": 736,
+            "charEnd": 740,
+            "id": 122,
+            "sentence": 7,
+            "text": "acht",
+            "word": 8
+        },
+        {
+            "charBegin": 740,
+            "charEnd": 741,
+            "id": 123,
+            "sentence": 7,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 742,
+            "charEnd": 746,
+            "id": 124,
+            "sentence": 7,
+            "text": "nach",
+            "word": 10
+        },
+        {
+            "charBegin": 747,
+            "charEnd": 754,
+            "id": 125,
+            "sentence": 7,
+            "text": "anderen",
+            "word": 11
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 762,
+            "id": 126,
+            "sentence": 7,
+            "text": "Angaben",
+            "word": 12
+        },
+        {
+            "charBegin": 763,
+            "charEnd": 767,
+            "id": 127,
+            "sentence": 7,
+            "text": "neun",
+            "word": 13
+        },
+        {
+            "charBegin": 768,
+            "charEnd": 775,
+            "id": 128,
+            "sentence": 7,
+            "text": "Stunden",
+            "word": 14
+        },
+        {
+            "charBegin": 775,
+            "charEnd": 776,
+            "id": 129,
+            "sentence": 7,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 777,
+            "charEnd": 780,
+            "id": 130,
+            "sentence": 8,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 781,
+            "charEnd": 787,
+            "id": 131,
+            "sentence": 8,
+            "text": "Modell",
+            "word": 2
+        },
+        {
+            "charBegin": 788,
+            "charEnd": 794,
+            "id": 132,
+            "sentence": 8,
+            "text": "kostet",
+            "word": 3
+        },
+        {
+            "charBegin": 795,
+            "charEnd": 802,
+            "id": 133,
+            "sentence": 8,
+            "text": "149.800",
+            "word": 4
+        },
+        {
+            "charBegin": 803,
+            "charEnd": 807,
+            "id": 134,
+            "sentence": 8,
+            "text": "Yuan",
+            "word": 5
+        },
+        {
+            "charBegin": 808,
+            "charEnd": 809,
+            "id": 135,
+            "sentence": 8,
+            "text": "(",
+            "word": 6
+        },
+        {
+            "charBegin": 809,
+            "charEnd": 814,
+            "id": 136,
+            "sentence": 8,
+            "text": "zirka",
+            "word": 7
+        },
+        {
+            "charBegin": 815,
+            "charEnd": 821,
+            "id": 137,
+            "sentence": 8,
+            "text": "16.000",
+            "word": 8
+        },
+        {
+            "charBegin": 822,
+            "charEnd": 826,
+            "id": 138,
+            "sentence": 8,
+            "text": "Euro",
+            "word": 9
+        },
+        {
+            "charBegin": 826,
+            "charEnd": 827,
+            "id": 139,
+            "sentence": 8,
+            "text": ")",
+            "word": 10
+        },
+        {
+            "charBegin": 827,
+            "charEnd": 828,
+            "id": 140,
+            "sentence": 8,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 829,
+            "charEnd": 832,
+            "id": 141,
+            "sentence": 9,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 833,
+            "charEnd": 840,
+            "id": 142,
+            "sentence": 9,
+            "text": "Verkauf",
+            "word": 2
+        },
+        {
+            "charBegin": 841,
+            "charEnd": 843,
+            "id": 143,
+            "sentence": 9,
+            "text": "in",
+            "word": 3
+        },
+        {
+            "charBegin": 844,
+            "charEnd": 850,
+            "id": 144,
+            "sentence": 9,
+            "text": "Europa",
+            "word": 4
+        },
+        {
+            "charBegin": 851,
+            "charEnd": 855,
+            "id": 145,
+            "sentence": 9,
+            "text": "soll",
+            "word": 5
+        },
+        {
+            "charBegin": 856,
+            "charEnd": 860,
+            "id": 146,
+            "sentence": 9,
+            "text": "2010",
+            "word": 6
+        },
+        {
+            "charBegin": 861,
+            "charEnd": 868,
+            "id": 147,
+            "sentence": 9,
+            "text": "starten",
+            "word": 7
+        },
+        {
+            "charBegin": 868,
+            "charEnd": 869,
+            "id": 148,
+            "sentence": 9,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 870,
+            "charEnd": 873,
+            "id": 149,
+            "sentence": 9,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 874,
+            "charEnd": 876,
+            "id": 150,
+            "sentence": 9,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 877,
+            "charEnd": 880,
+            "id": 151,
+            "sentence": 9,
+            "text": "den",
+            "word": 11
+        },
+        {
+            "charBegin": 881,
+            "charEnd": 892,
+            "id": 152,
+            "sentence": 9,
+            "text": "Vereinigten",
+            "word": 12
+        },
+        {
+            "charBegin": 893,
+            "charEnd": 900,
+            "id": 153,
+            "sentence": 9,
+            "text": "Staaten",
+            "word": 13
+        },
+        {
+            "charBegin": 901,
+            "charEnd": 903,
+            "id": 154,
+            "sentence": 9,
+            "text": "im",
+            "word": 14
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 908,
+            "id": 155,
+            "sentence": 9,
+            "text": "Jahr",
+            "word": 15
+        },
+        {
+            "charBegin": 909,
+            "charEnd": 914,
+            "id": 156,
+            "sentence": 9,
+            "text": "2011.",
+            "word": 16
+        },
+        {
+            "charBegin": 915,
+            "charEnd": 920,
+            "id": 157,
+            "sentence": 10,
+            "text": "Erste",
+            "word": 1
+        },
+        {
+            "charBegin": 921,
+            "charEnd": 927,
+            "id": 158,
+            "sentence": 10,
+            "text": "Kunden",
+            "word": 2
+        },
+        {
+            "charBegin": 928,
+            "charEnd": 932,
+            "id": 159,
+            "sentence": 10,
+            "text": "sind",
+            "word": 3
+        },
+        {
+            "charBegin": 933,
+            "charEnd": 936,
+            "id": 160,
+            "sentence": 10,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 937,
+            "charEnd": 947,
+            "id": 161,
+            "sentence": 10,
+            "text": "Verwaltung",
+            "word": 5
+        },
+        {
+            "charBegin": 948,
+            "charEnd": 951,
+            "id": 162,
+            "sentence": 10,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 952,
+            "charEnd": 960,
+            "id": 163,
+            "sentence": 10,
+            "text": "Shenzhen",
+            "word": 7
+        },
+        {
+            "charBegin": 961,
+            "charEnd": 964,
+            "id": 164,
+            "sentence": 10,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 965,
+            "charEnd": 968,
+            "id": 165,
+            "sentence": 10,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 969,
+            "charEnd": 974,
+            "id": 166,
+            "sentence": 10,
+            "text": "China",
+            "word": 10
+        },
+        {
+            "charBegin": 975,
+            "charEnd": 987,
+            "id": 167,
+            "sentence": 10,
+            "text": "Construction",
+            "word": 11
+        },
+        {
+            "charBegin": 988,
+            "charEnd": 992,
+            "id": 168,
+            "sentence": 10,
+            "text": "Bank",
+            "word": 12
+        },
+        {
+            "charBegin": 992,
+            "charEnd": 993,
+            "id": 169,
+            "sentence": 10,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 994,
+            "charEnd": 999,
+            "id": 170,
+            "sentence": 11,
+            "text": "Beide",
+            "word": 1
+        },
+        {
+            "charBegin": 1000,
+            "charEnd": 1008,
+            "id": 171,
+            "sentence": 11,
+            "text": "Verträge",
+            "word": 2
+        },
+        {
+            "charBegin": 1009,
+            "charEnd": 1014,
+            "id": 172,
+            "sentence": 11,
+            "text": "sehen",
+            "word": 3
+        },
+        {
+            "charBegin": 1015,
+            "charEnd": 1018,
+            "id": 173,
+            "sentence": 11,
+            "text": "den",
+            "word": 4
+        },
+        {
+            "charBegin": 1019,
+            "charEnd": 1026,
+            "id": 174,
+            "sentence": 11,
+            "text": "Verkauf",
+            "word": 5
+        },
+        {
+            "charBegin": 1027,
+            "charEnd": 1030,
+            "id": 175,
+            "sentence": 11,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 1031,
+            "charEnd": 1033,
+            "id": 176,
+            "sentence": 11,
+            "text": "50",
+            "word": 7
+        },
+        {
+            "charBegin": 1034,
+            "charEnd": 1044,
+            "id": 177,
+            "sentence": 11,
+            "text": "Fahrzeugen",
+            "word": 8
+        },
+        {
+            "charBegin": 1045,
+            "charEnd": 1048,
+            "id": 178,
+            "sentence": 11,
+            "text": "vor",
+            "word": 9
+        },
+        {
+            "charBegin": 1048,
+            "charEnd": 1049,
+            "id": 179,
+            "sentence": 11,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 1050,
+            "charEnd": 1054,
+            "id": 180,
+            "sentence": 12,
+            "text": "2009",
+            "word": 1
+        },
+        {
+            "charBegin": 1055,
+            "charEnd": 1059,
+            "id": 181,
+            "sentence": 12,
+            "text": "will",
+            "word": 2
+        },
+        {
+            "charBegin": 1060,
+            "charEnd": 1063,
+            "id": 182,
+            "sentence": 12,
+            "text": "BYD",
+            "word": 3
+        },
+        {
+            "charBegin": 1064,
+            "charEnd": 1071,
+            "id": 183,
+            "sentence": 12,
+            "text": "180.000",
+            "word": 4
+        },
+        {
+            "charBegin": 1072,
+            "charEnd": 1077,
+            "id": 184,
+            "sentence": 12,
+            "text": "Autos",
+            "word": 5
+        },
+        {
+            "charBegin": 1078,
+            "charEnd": 1087,
+            "id": 185,
+            "sentence": 12,
+            "text": "verkaufen",
+            "word": 6
+        },
+        {
+            "charBegin": 1087,
+            "charEnd": 1088,
+            "id": 186,
+            "sentence": 12,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 1089,
+            "charEnd": 1093,
+            "id": 187,
+            "sentence": 12,
+            "text": "2010",
+            "word": 8
+        },
+        {
+            "charBegin": 1094,
+            "charEnd": 1100,
+            "id": 188,
+            "sentence": 12,
+            "text": "sollen",
+            "word": 9
+        },
+        {
+            "charBegin": 1101,
+            "charEnd": 1103,
+            "id": 189,
+            "sentence": 12,
+            "text": "es",
+            "word": 10
+        },
+        {
+            "charBegin": 1104,
+            "charEnd": 1108,
+            "id": 190,
+            "sentence": 12,
+            "text": "dann",
+            "word": 11
+        },
+        {
+            "charBegin": 1109,
+            "charEnd": 1116,
+            "id": 191,
+            "sentence": 12,
+            "text": "350.000",
+            "word": 12
+        },
+        {
+            "charBegin": 1117,
+            "charEnd": 1122,
+            "id": 192,
+            "sentence": 12,
+            "text": "Stück",
+            "word": 13
+        },
+        {
+            "charBegin": 1123,
+            "charEnd": 1127,
+            "id": 193,
+            "sentence": 12,
+            "text": "sein",
+            "word": 14
+        },
+        {
+            "charBegin": 1127,
+            "charEnd": 1128,
+            "id": 194,
+            "sentence": 12,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 1130,
+            "charEnd": 1143,
+            "id": 195,
+            "sentence": 13,
+            "text": "Problematisch",
+            "word": 1
+        },
+        {
+            "charBegin": 1144,
+            "charEnd": 1147,
+            "id": 196,
+            "sentence": 13,
+            "text": "sei",
+            "word": 2
+        },
+        {
+            "charBegin": 1148,
+            "charEnd": 1150,
+            "id": 197,
+            "sentence": 13,
+            "text": "im",
+            "word": 3
+        },
+        {
+            "charBegin": 1151,
+            "charEnd": 1162,
+            "id": 198,
+            "sentence": 13,
+            "text": "Binnenmarkt",
+            "word": 4
+        },
+        {
+            "charBegin": 1163,
+            "charEnd": 1167,
+            "id": 199,
+            "sentence": 13,
+            "text": "noch",
+            "word": 5
+        },
+        {
+            "charBegin": 1168,
+            "charEnd": 1171,
+            "id": 200,
+            "sentence": 13,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 1172,
+            "charEnd": 1188,
+            "id": 201,
+            "sentence": 13,
+            "text": "unterentwickelte",
+            "word": 7
+        },
+        {
+            "charBegin": 1189,
+            "charEnd": 1202,
+            "id": 202,
+            "sentence": 13,
+            "text": "Infrastruktur",
+            "word": 8
+        },
+        {
+            "charBegin": 1203,
+            "charEnd": 1206,
+            "id": 203,
+            "sentence": 13,
+            "text": "für",
+            "word": 9
+        },
+        {
+            "charBegin": 1207,
+            "charEnd": 1219,
+            "id": 204,
+            "sentence": 13,
+            "text": "Elektroautos",
+            "word": 10
+        },
+        {
+            "charBegin": 1219,
+            "charEnd": 1220,
+            "id": 205,
+            "sentence": 13,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 1221,
+            "charEnd": 1225,
+            "id": 206,
+            "sentence": 14,
+            "text": "Kaum",
+            "word": 1
+        },
+        {
+            "charBegin": 1226,
+            "charEnd": 1229,
+            "id": 207,
+            "sentence": 14,
+            "text": "ein",
+            "word": 2
+        },
+        {
+            "charBegin": 1230,
+            "charEnd": 1241,
+            "id": 208,
+            "sentence": 14,
+            "text": "Wohngebäude",
+            "word": 3
+        },
+        {
+            "charBegin": 1242,
+            "charEnd": 1244,
+            "id": 209,
+            "sentence": 14,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 1245,
+            "charEnd": 1250,
+            "id": 210,
+            "sentence": 14,
+            "text": "China",
+            "word": 5
+        },
+        {
+            "charBegin": 1251,
+            "charEnd": 1254,
+            "id": 211,
+            "sentence": 14,
+            "text": "hat",
+            "word": 6
+        },
+        {
+            "charBegin": 1255,
+            "charEnd": 1260,
+            "id": 212,
+            "sentence": 14,
+            "text": "einen",
+            "word": 7
+        },
+        {
+            "charBegin": 1261,
+            "charEnd": 1270,
+            "id": 213,
+            "sentence": 14,
+            "text": "Parkplatz",
+            "word": 8
+        },
+        {
+            "charBegin": 1270,
+            "charEnd": 1271,
+            "id": 214,
+            "sentence": 14,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 1272,
+            "charEnd": 1274,
+            "id": 215,
+            "sentence": 14,
+            "text": "so",
+            "word": 10
+        },
+        {
+            "charBegin": 1275,
+            "charEnd": 1279,
+            "id": 216,
+            "sentence": 14,
+            "text": "dass",
+            "word": 11
+        },
+        {
+            "charBegin": 1280,
+            "charEnd": 1283,
+            "id": 217,
+            "sentence": 14,
+            "text": "das",
+            "word": 12
+        },
+        {
+            "charBegin": 1284,
+            "charEnd": 1298,
+            "id": 218,
+            "sentence": 14,
+            "text": "Wiederaufladen",
+            "word": 13
+        },
+        {
+            "charBegin": 1299,
+            "charEnd": 1303,
+            "id": 219,
+            "sentence": 14,
+            "text": "über",
+            "word": 14
+        },
+        {
+            "charBegin": 1304,
+            "charEnd": 1309,
+            "id": 220,
+            "sentence": 14,
+            "text": "Nacht",
+            "word": 15
+        },
+        {
+            "charBegin": 1310,
+            "charEnd": 1319,
+            "id": 221,
+            "sentence": 14,
+            "text": "besonders",
+            "word": 16
+        },
+        {
+            "charBegin": 1320,
+            "charEnd": 1329,
+            "id": 222,
+            "sentence": 14,
+            "text": "schwierig",
+            "word": 17
+        },
+        {
+            "charBegin": 1330,
+            "charEnd": 1333,
+            "id": 223,
+            "sentence": 14,
+            "text": "ist",
+            "word": 18
+        },
+        {
+            "charBegin": 1333,
+            "charEnd": 1334,
+            "id": 224,
+            "sentence": 14,
+            "text": ".",
+            "word": 19
+        }
+    ]
+}

@@ -1,0 +1,2839 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 57,
+                        "charBegin": 341,
+                        "charEnd": 350,
+                        "end": 58
+                    }
+                ],
+                "text": "verlangte",
+                "tokenIds": [
+                    57
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 49,
+                        "charBegin": 298,
+                        "charEnd": 351,
+                        "end": 59
+                    }
+                ],
+                "text": "Der Mann hinterließ einen Zettel in dem er verlangte,",
+                "tokenIds": [
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 59,
+                        "charBegin": 352,
+                        "charEnd": 411,
+                        "end": 67
+                    }
+                ],
+                "text": "dass weder Polizei noch Presse eingeschaltet werden sollten",
+                "tokenIds": [
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 56,
+                        "charBegin": 338,
+                        "charEnd": 340,
+                        "end": 57
+                    }
+                ],
+                "text": "er",
+                "tokenIds": [
+                    56
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 68,
+                        "charBegin": 413,
+                        "charEnd": 447,
+                        "end": 74
+                    }
+                ],
+                "text": "Außerdem forderte er ein Lösegeld.",
+                "tokenIds": [
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 70,
+                        "charBegin": 431,
+                        "charEnd": 433,
+                        "end": 71
+                    }
+                ],
+                "text": "er",
+                "tokenIds": [
+                    70
+                ]
+            },
+            "type": "Reported"
+        }
+    ],
+    "documentName": "66171 - Brandenburg: Entführung einer Vierjährigen (2011-02-11)",
+    "originalText": "Am Donnerstag, dem 10. Februar 2011 wurde in Kleinmachnow ein vierjähriges Mädchen entführt. Gegen 8:09 Uhr wollte eine 41-jährige Steuerberaterin ihre Tochter in den Kindergarten bringen, als plötzlich ein maskierter, mit einer Sichel bewaffneter Mann vor ihr stand, der ihr ihre Tochter entriss. Der Mann hinterließ einen Zettel in dem er verlangte, dass weder Polizei noch Presse eingeschaltet werden sollten. Außerdem forderte er ein Lösegeld. Mit dem Kind stieg der Mann in einen roten Renault Clio, der ein gestohlenes tschechisches Diplomatenkennzeichen trug. Der Täter wollte sich um 18.45 Uhr wieder melden.\n\nNachdem die Steuerberaterin die Polizei informiert hatte, wurde eine 400-köpfige Sonderkommission eingerichtet, um das Mädchen zu retten und den Täter festzunehmen. Nach einem Telefonkontakt mit dem Täter wurde Lösegeld in der Nähe von Fürstenwalde übergeben. Gegen 21.28 Uhr wurde die Vierjährige in der Nähe ihres Wohnhauses von Nachbarn entdeckt.\n\nDer Täter flüchtete mit einer Geschwindigkeit von 80 Kilometern pro Stunde auf dem Standstreifen über die BAB 12 zurück nach Kleinmachnow. Die Beamten des Sondereinsatzkommandos nahmen den Täter fest, nachdem klar war, dass sich das Mädchen in Sicherheit befand. Im Auto fanden die Mitglieder der Sonderkommission das Lösegeld und die Tatwaffe. Die Medien wurden von der Polizei erst nach der Festnahme des Mannes informiert.\n\nDer Täter wird sich wegen erpresserischen Menschenraubs (§ 239a Strafgesetzbuch) verantworten müssen. Ihm droht eine Freiheitsstrafe von mindestens fünf Jahren.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 92,
+            "end": 15,
+            "id": 0,
+            "text": "Am Donnerstag, dem 10. Februar 2011 wurde in Kleinmachnow ein vierjähriges Mädchen entführt. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "tokens": [
+                "Am",
+                "Donnerstag",
+                ",",
+                "dem",
+                "10.",
+                "Februar",
+                "2011",
+                "wurde",
+                "in",
+                "Kleinmachnow",
+                "ein",
+                "vierjähriges",
+                "Mädchen",
+                "entführt",
+                "."
+            ]
+        },
+        {
+            "begin": 15,
+            "charBegin": 93,
+            "charEnd": 297,
+            "end": 49,
+            "id": 1,
+            "text": "Gegen 8:09 Uhr wollte eine 41-jährige Steuerberaterin ihre Tochter in den Kindergarten bringen, als plötzlich ein maskierter, mit einer Sichel bewaffneter Mann vor ihr stand, der ihr ihre Tochter entriss. ",
+            "tokenIds": [
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48
+            ],
+            "tokens": [
+                "Gegen",
+                "8:09",
+                "Uhr",
+                "wollte",
+                "eine",
+                "41-jährige",
+                "Steuerberaterin",
+                "ihre",
+                "Tochter",
+                "in",
+                "den",
+                "Kindergarten",
+                "bringen",
+                ",",
+                "als",
+                "plötzlich",
+                "ein",
+                "maskierter",
+                ",",
+                "mit",
+                "einer",
+                "Sichel",
+                "bewaffneter",
+                "Mann",
+                "vor",
+                "ihr",
+                "stand",
+                ",",
+                "der",
+                "ihr",
+                "ihre",
+                "Tochter",
+                "entriss",
+                "."
+            ]
+        },
+        {
+            "begin": 49,
+            "charBegin": 298,
+            "charEnd": 412,
+            "end": 68,
+            "id": 2,
+            "text": "Der Mann hinterließ einen Zettel in dem er verlangte, dass weder Polizei noch Presse eingeschaltet werden sollten. ",
+            "tokenIds": [
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67
+            ],
+            "tokens": [
+                "Der",
+                "Mann",
+                "hinterließ",
+                "einen",
+                "Zettel",
+                "in",
+                "dem",
+                "er",
+                "verlangte",
+                ",",
+                "dass",
+                "weder",
+                "Polizei",
+                "noch",
+                "Presse",
+                "eingeschaltet",
+                "werden",
+                "sollten",
+                "."
+            ]
+        },
+        {
+            "begin": 68,
+            "charBegin": 413,
+            "charEnd": 447,
+            "end": 74,
+            "id": 3,
+            "text": "Außerdem forderte er ein Lösegeld. ",
+            "tokenIds": [
+                68,
+                69,
+                70,
+                71,
+                72,
+                73
+            ],
+            "tokens": [
+                "Außerdem",
+                "forderte",
+                "er",
+                "ein",
+                "Lösegeld",
+                "."
+            ]
+        },
+        {
+            "begin": 74,
+            "charBegin": 448,
+            "charEnd": 566,
+            "end": 93,
+            "id": 4,
+            "text": "Mit dem Kind stieg der Mann in einen roten Renault Clio, der ein gestohlenes tschechisches Diplomatenkennzeichen trug. ",
+            "tokenIds": [
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92
+            ],
+            "tokens": [
+                "Mit",
+                "dem",
+                "Kind",
+                "stieg",
+                "der",
+                "Mann",
+                "in",
+                "einen",
+                "roten",
+                "Renault",
+                "Clio",
+                ",",
+                "der",
+                "ein",
+                "gestohlenes",
+                "tschechisches",
+                "Diplomatenkennzeichen",
+                "trug",
+                "."
+            ]
+        },
+        {
+            "begin": 93,
+            "charBegin": 567,
+            "charEnd": 616,
+            "end": 103,
+            "id": 5,
+            "text": "Der Täter wollte sich um 18.45 Uhr wieder melden.",
+            "tokenIds": [
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102
+            ],
+            "tokens": [
+                "Der",
+                "Täter",
+                "wollte",
+                "sich",
+                "um",
+                "18.45",
+                "Uhr",
+                "wieder",
+                "melden",
+                "."
+            ]
+        },
+        {
+            "begin": 103,
+            "charBegin": 618,
+            "charEnd": 782,
+            "end": 127,
+            "id": 6,
+            "text": "Nachdem die Steuerberaterin die Polizei informiert hatte, wurde eine 400-köpfige Sonderkommission eingerichtet, um das Mädchen zu retten und den Täter festzunehmen. ",
+            "tokenIds": [
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126
+            ],
+            "tokens": [
+                "Nachdem",
+                "die",
+                "Steuerberaterin",
+                "die",
+                "Polizei",
+                "informiert",
+                "hatte",
+                ",",
+                "wurde",
+                "eine",
+                "400-köpfige",
+                "Sonderkommission",
+                "eingerichtet",
+                ",",
+                "um",
+                "das",
+                "Mädchen",
+                "zu",
+                "retten",
+                "und",
+                "den",
+                "Täter",
+                "festzunehmen",
+                "."
+            ]
+        },
+        {
+            "begin": 127,
+            "charBegin": 783,
+            "charEnd": 877,
+            "end": 142,
+            "id": 7,
+            "text": "Nach einem Telefonkontakt mit dem Täter wurde Lösegeld in der Nähe von Fürstenwalde übergeben. ",
+            "tokenIds": [
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141
+            ],
+            "tokens": [
+                "Nach",
+                "einem",
+                "Telefonkontakt",
+                "mit",
+                "dem",
+                "Täter",
+                "wurde",
+                "Lösegeld",
+                "in",
+                "der",
+                "Nähe",
+                "von",
+                "Fürstenwalde",
+                "übergeben",
+                "."
+            ]
+        },
+        {
+            "begin": 142,
+            "charBegin": 878,
+            "charEnd": 967,
+            "end": 157,
+            "id": 8,
+            "text": "Gegen 21.28 Uhr wurde die Vierjährige in der Nähe ihres Wohnhauses von Nachbarn entdeckt.",
+            "tokenIds": [
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156
+            ],
+            "tokens": [
+                "Gegen",
+                "21.28",
+                "Uhr",
+                "wurde",
+                "die",
+                "Vierjährige",
+                "in",
+                "der",
+                "Nähe",
+                "ihres",
+                "Wohnhauses",
+                "von",
+                "Nachbarn",
+                "entdeckt",
+                "."
+            ]
+        },
+        {
+            "begin": 157,
+            "charBegin": 969,
+            "charEnd": 1107,
+            "end": 179,
+            "id": 9,
+            "text": "Der Täter flüchtete mit einer Geschwindigkeit von 80 Kilometern pro Stunde auf dem Standstreifen über die BAB 12 zurück nach Kleinmachnow. ",
+            "tokenIds": [
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178
+            ],
+            "tokens": [
+                "Der",
+                "Täter",
+                "flüchtete",
+                "mit",
+                "einer",
+                "Geschwindigkeit",
+                "von",
+                "80",
+                "Kilometern",
+                "pro",
+                "Stunde",
+                "auf",
+                "dem",
+                "Standstreifen",
+                "über",
+                "die",
+                "BAB",
+                "12",
+                "zurück",
+                "nach",
+                "Kleinmachnow",
+                "."
+            ]
+        },
+        {
+            "begin": 179,
+            "charBegin": 1108,
+            "charEnd": 1231,
+            "end": 200,
+            "id": 10,
+            "text": "Die Beamten des Sondereinsatzkommandos nahmen den Täter fest, nachdem klar war, dass sich das Mädchen in Sicherheit befand. ",
+            "tokenIds": [
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199
+            ],
+            "tokens": [
+                "Die",
+                "Beamten",
+                "des",
+                "Sondereinsatzkommandos",
+                "nahmen",
+                "den",
+                "Täter",
+                "fest",
+                ",",
+                "nachdem",
+                "klar",
+                "war",
+                ",",
+                "dass",
+                "sich",
+                "das",
+                "Mädchen",
+                "in",
+                "Sicherheit",
+                "befand",
+                "."
+            ]
+        },
+        {
+            "begin": 200,
+            "charBegin": 1232,
+            "charEnd": 1313,
+            "end": 213,
+            "id": 11,
+            "text": "Im Auto fanden die Mitglieder der Sonderkommission das Lösegeld und die Tatwaffe. ",
+            "tokenIds": [
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212
+            ],
+            "tokens": [
+                "Im",
+                "Auto",
+                "fanden",
+                "die",
+                "Mitglieder",
+                "der",
+                "Sonderkommission",
+                "das",
+                "Lösegeld",
+                "und",
+                "die",
+                "Tatwaffe",
+                "."
+            ]
+        },
+        {
+            "begin": 213,
+            "charBegin": 1314,
+            "charEnd": 1394,
+            "end": 227,
+            "id": 12,
+            "text": "Die Medien wurden von der Polizei erst nach der Festnahme des Mannes informiert.",
+            "tokenIds": [
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226
+            ],
+            "tokens": [
+                "Die",
+                "Medien",
+                "wurden",
+                "von",
+                "der",
+                "Polizei",
+                "erst",
+                "nach",
+                "der",
+                "Festnahme",
+                "des",
+                "Mannes",
+                "informiert",
+                "."
+            ]
+        },
+        {
+            "begin": 227,
+            "charBegin": 1396,
+            "charEnd": 1497,
+            "end": 242,
+            "id": 13,
+            "text": "Der Täter wird sich wegen erpresserischen Menschenraubs (§ 239a Strafgesetzbuch) verantworten müssen. ",
+            "tokenIds": [
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241
+            ],
+            "tokens": [
+                "Der",
+                "Täter",
+                "wird",
+                "sich",
+                "wegen",
+                "erpresserischen",
+                "Menschenraubs",
+                "(",
+                "§",
+                "239a",
+                "Strafgesetzbuch",
+                ")",
+                "verantworten",
+                "müssen",
+                "."
+            ]
+        },
+        {
+            "begin": 242,
+            "charBegin": 1498,
+            "charEnd": 1556,
+            "end": 251,
+            "id": 14,
+            "text": "Ihm droht eine Freiheitsstrafe von mindestens fünf Jahren.",
+            "tokenIds": [
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250
+            ],
+            "tokens": [
+                "Ihm",
+                "droht",
+                "eine",
+                "Freiheitsstrafe",
+                "von",
+                "mindestens",
+                "fünf",
+                "Jahren",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 13,
+            "id": 1,
+            "sentence": 1,
+            "text": "Donnerstag",
+            "word": 2
+        },
+        {
+            "charBegin": 13,
+            "charEnd": 14,
+            "id": 2,
+            "sentence": 1,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 15,
+            "charEnd": 18,
+            "id": 3,
+            "sentence": 1,
+            "text": "dem",
+            "word": 4
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 22,
+            "id": 4,
+            "sentence": 1,
+            "text": "10.",
+            "word": 5
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 30,
+            "id": 5,
+            "sentence": 1,
+            "text": "Februar",
+            "word": 6
+        },
+        {
+            "charBegin": 31,
+            "charEnd": 35,
+            "id": 6,
+            "sentence": 1,
+            "text": "2011",
+            "word": 7
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 41,
+            "id": 7,
+            "sentence": 1,
+            "text": "wurde",
+            "word": 8
+        },
+        {
+            "charBegin": 42,
+            "charEnd": 44,
+            "id": 8,
+            "sentence": 1,
+            "text": "in",
+            "word": 9
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 57,
+            "id": 9,
+            "sentence": 1,
+            "text": "Kleinmachnow",
+            "word": 10
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 61,
+            "id": 10,
+            "sentence": 1,
+            "text": "ein",
+            "word": 11
+        },
+        {
+            "charBegin": 62,
+            "charEnd": 74,
+            "id": 11,
+            "sentence": 1,
+            "text": "vierjähriges",
+            "word": 12
+        },
+        {
+            "charBegin": 75,
+            "charEnd": 82,
+            "id": 12,
+            "sentence": 1,
+            "text": "Mädchen",
+            "word": 13
+        },
+        {
+            "charBegin": 83,
+            "charEnd": 91,
+            "id": 13,
+            "sentence": 1,
+            "text": "entführt",
+            "word": 14
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 92,
+            "id": 14,
+            "sentence": 1,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 93,
+            "charEnd": 98,
+            "id": 15,
+            "sentence": 2,
+            "text": "Gegen",
+            "word": 1
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 103,
+            "id": 16,
+            "sentence": 2,
+            "text": "8:09",
+            "word": 2
+        },
+        {
+            "charBegin": 104,
+            "charEnd": 107,
+            "id": 17,
+            "sentence": 2,
+            "text": "Uhr",
+            "word": 3
+        },
+        {
+            "charBegin": 108,
+            "charEnd": 114,
+            "id": 18,
+            "sentence": 2,
+            "text": "wollte",
+            "word": 4
+        },
+        {
+            "charBegin": 115,
+            "charEnd": 119,
+            "id": 19,
+            "sentence": 2,
+            "text": "eine",
+            "word": 5
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 130,
+            "id": 20,
+            "sentence": 2,
+            "text": "41-jährige",
+            "word": 6
+        },
+        {
+            "charBegin": 131,
+            "charEnd": 146,
+            "id": 21,
+            "sentence": 2,
+            "text": "Steuerberaterin",
+            "word": 7
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 151,
+            "id": 22,
+            "sentence": 2,
+            "text": "ihre",
+            "word": 8
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 159,
+            "id": 23,
+            "sentence": 2,
+            "text": "Tochter",
+            "word": 9
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 162,
+            "id": 24,
+            "sentence": 2,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 163,
+            "charEnd": 166,
+            "id": 25,
+            "sentence": 2,
+            "text": "den",
+            "word": 11
+        },
+        {
+            "charBegin": 167,
+            "charEnd": 179,
+            "id": 26,
+            "sentence": 2,
+            "text": "Kindergarten",
+            "word": 12
+        },
+        {
+            "charBegin": 180,
+            "charEnd": 187,
+            "id": 27,
+            "sentence": 2,
+            "text": "bringen",
+            "word": 13
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 188,
+            "id": 28,
+            "sentence": 2,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 189,
+            "charEnd": 192,
+            "id": 29,
+            "sentence": 2,
+            "text": "als",
+            "word": 15
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 202,
+            "id": 30,
+            "sentence": 2,
+            "text": "plötzlich",
+            "word": 16
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 206,
+            "id": 31,
+            "sentence": 2,
+            "text": "ein",
+            "word": 17
+        },
+        {
+            "charBegin": 207,
+            "charEnd": 217,
+            "id": 32,
+            "sentence": 2,
+            "text": "maskierter",
+            "word": 18
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 218,
+            "id": 33,
+            "sentence": 2,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 219,
+            "charEnd": 222,
+            "id": 34,
+            "sentence": 2,
+            "text": "mit",
+            "word": 20
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 228,
+            "id": 35,
+            "sentence": 2,
+            "text": "einer",
+            "word": 21
+        },
+        {
+            "charBegin": 229,
+            "charEnd": 235,
+            "id": 36,
+            "sentence": 2,
+            "text": "Sichel",
+            "word": 22
+        },
+        {
+            "charBegin": 236,
+            "charEnd": 247,
+            "id": 37,
+            "sentence": 2,
+            "text": "bewaffneter",
+            "word": 23
+        },
+        {
+            "charBegin": 248,
+            "charEnd": 252,
+            "id": 38,
+            "sentence": 2,
+            "text": "Mann",
+            "word": 24
+        },
+        {
+            "charBegin": 253,
+            "charEnd": 256,
+            "id": 39,
+            "sentence": 2,
+            "text": "vor",
+            "word": 25
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 260,
+            "id": 40,
+            "sentence": 2,
+            "text": "ihr",
+            "word": 26
+        },
+        {
+            "charBegin": 261,
+            "charEnd": 266,
+            "id": 41,
+            "sentence": 2,
+            "text": "stand",
+            "word": 27
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 267,
+            "id": 42,
+            "sentence": 2,
+            "text": ",",
+            "word": 28
+        },
+        {
+            "charBegin": 268,
+            "charEnd": 271,
+            "id": 43,
+            "sentence": 2,
+            "text": "der",
+            "word": 29
+        },
+        {
+            "charBegin": 272,
+            "charEnd": 275,
+            "id": 44,
+            "sentence": 2,
+            "text": "ihr",
+            "word": 30
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 280,
+            "id": 45,
+            "sentence": 2,
+            "text": "ihre",
+            "word": 31
+        },
+        {
+            "charBegin": 281,
+            "charEnd": 288,
+            "id": 46,
+            "sentence": 2,
+            "text": "Tochter",
+            "word": 32
+        },
+        {
+            "charBegin": 289,
+            "charEnd": 296,
+            "id": 47,
+            "sentence": 2,
+            "text": "entriss",
+            "word": 33
+        },
+        {
+            "charBegin": 296,
+            "charEnd": 297,
+            "id": 48,
+            "sentence": 2,
+            "text": ".",
+            "word": 34
+        },
+        {
+            "charBegin": 298,
+            "charEnd": 301,
+            "id": 49,
+            "sentence": 3,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 302,
+            "charEnd": 306,
+            "id": 50,
+            "sentence": 3,
+            "text": "Mann",
+            "word": 2
+        },
+        {
+            "charBegin": 307,
+            "charEnd": 317,
+            "id": 51,
+            "sentence": 3,
+            "text": "hinterließ",
+            "word": 3
+        },
+        {
+            "charBegin": 318,
+            "charEnd": 323,
+            "id": 52,
+            "sentence": 3,
+            "text": "einen",
+            "word": 4
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 330,
+            "id": 53,
+            "sentence": 3,
+            "text": "Zettel",
+            "word": 5
+        },
+        {
+            "charBegin": 331,
+            "charEnd": 333,
+            "id": 54,
+            "sentence": 3,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 337,
+            "id": 55,
+            "sentence": 3,
+            "text": "dem",
+            "word": 7
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 340,
+            "id": 56,
+            "sentence": 3,
+            "text": "er",
+            "word": 8
+        },
+        {
+            "charBegin": 341,
+            "charEnd": 350,
+            "id": 57,
+            "sentence": 3,
+            "text": "verlangte",
+            "word": 9
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 351,
+            "id": 58,
+            "sentence": 3,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 352,
+            "charEnd": 356,
+            "id": 59,
+            "sentence": 3,
+            "text": "dass",
+            "word": 11
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 362,
+            "id": 60,
+            "sentence": 3,
+            "text": "weder",
+            "word": 12
+        },
+        {
+            "charBegin": 363,
+            "charEnd": 370,
+            "id": 61,
+            "sentence": 3,
+            "text": "Polizei",
+            "word": 13
+        },
+        {
+            "charBegin": 371,
+            "charEnd": 375,
+            "id": 62,
+            "sentence": 3,
+            "text": "noch",
+            "word": 14
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 382,
+            "id": 63,
+            "sentence": 3,
+            "text": "Presse",
+            "word": 15
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 396,
+            "id": 64,
+            "sentence": 3,
+            "text": "eingeschaltet",
+            "word": 16
+        },
+        {
+            "charBegin": 397,
+            "charEnd": 403,
+            "id": 65,
+            "sentence": 3,
+            "text": "werden",
+            "word": 17
+        },
+        {
+            "charBegin": 404,
+            "charEnd": 411,
+            "id": 66,
+            "sentence": 3,
+            "text": "sollten",
+            "word": 18
+        },
+        {
+            "charBegin": 411,
+            "charEnd": 412,
+            "id": 67,
+            "sentence": 3,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 421,
+            "id": 68,
+            "sentence": 4,
+            "text": "Außerdem",
+            "word": 1
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 430,
+            "id": 69,
+            "sentence": 4,
+            "text": "forderte",
+            "word": 2
+        },
+        {
+            "charBegin": 431,
+            "charEnd": 433,
+            "id": 70,
+            "sentence": 4,
+            "text": "er",
+            "word": 3
+        },
+        {
+            "charBegin": 434,
+            "charEnd": 437,
+            "id": 71,
+            "sentence": 4,
+            "text": "ein",
+            "word": 4
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 446,
+            "id": 72,
+            "sentence": 4,
+            "text": "Lösegeld",
+            "word": 5
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 447,
+            "id": 73,
+            "sentence": 4,
+            "text": ".",
+            "word": 6
+        },
+        {
+            "charBegin": 448,
+            "charEnd": 451,
+            "id": 74,
+            "sentence": 5,
+            "text": "Mit",
+            "word": 1
+        },
+        {
+            "charBegin": 452,
+            "charEnd": 455,
+            "id": 75,
+            "sentence": 5,
+            "text": "dem",
+            "word": 2
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 460,
+            "id": 76,
+            "sentence": 5,
+            "text": "Kind",
+            "word": 3
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 466,
+            "id": 77,
+            "sentence": 5,
+            "text": "stieg",
+            "word": 4
+        },
+        {
+            "charBegin": 467,
+            "charEnd": 470,
+            "id": 78,
+            "sentence": 5,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 475,
+            "id": 79,
+            "sentence": 5,
+            "text": "Mann",
+            "word": 6
+        },
+        {
+            "charBegin": 476,
+            "charEnd": 478,
+            "id": 80,
+            "sentence": 5,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 484,
+            "id": 81,
+            "sentence": 5,
+            "text": "einen",
+            "word": 8
+        },
+        {
+            "charBegin": 485,
+            "charEnd": 490,
+            "id": 82,
+            "sentence": 5,
+            "text": "roten",
+            "word": 9
+        },
+        {
+            "charBegin": 491,
+            "charEnd": 498,
+            "id": 83,
+            "sentence": 5,
+            "text": "Renault",
+            "word": 10
+        },
+        {
+            "charBegin": 499,
+            "charEnd": 503,
+            "id": 84,
+            "sentence": 5,
+            "text": "Clio",
+            "word": 11
+        },
+        {
+            "charBegin": 503,
+            "charEnd": 504,
+            "id": 85,
+            "sentence": 5,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 505,
+            "charEnd": 508,
+            "id": 86,
+            "sentence": 5,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 509,
+            "charEnd": 512,
+            "id": 87,
+            "sentence": 5,
+            "text": "ein",
+            "word": 14
+        },
+        {
+            "charBegin": 513,
+            "charEnd": 524,
+            "id": 88,
+            "sentence": 5,
+            "text": "gestohlenes",
+            "word": 15
+        },
+        {
+            "charBegin": 525,
+            "charEnd": 538,
+            "id": 89,
+            "sentence": 5,
+            "text": "tschechisches",
+            "word": 16
+        },
+        {
+            "charBegin": 539,
+            "charEnd": 560,
+            "id": 90,
+            "sentence": 5,
+            "text": "Diplomatenkennzeichen",
+            "word": 17
+        },
+        {
+            "charBegin": 561,
+            "charEnd": 565,
+            "id": 91,
+            "sentence": 5,
+            "text": "trug",
+            "word": 18
+        },
+        {
+            "charBegin": 565,
+            "charEnd": 566,
+            "id": 92,
+            "sentence": 5,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 567,
+            "charEnd": 570,
+            "id": 93,
+            "sentence": 6,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 576,
+            "id": 94,
+            "sentence": 6,
+            "text": "Täter",
+            "word": 2
+        },
+        {
+            "charBegin": 577,
+            "charEnd": 583,
+            "id": 95,
+            "sentence": 6,
+            "text": "wollte",
+            "word": 3
+        },
+        {
+            "charBegin": 584,
+            "charEnd": 588,
+            "id": 96,
+            "sentence": 6,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 589,
+            "charEnd": 591,
+            "id": 97,
+            "sentence": 6,
+            "text": "um",
+            "word": 5
+        },
+        {
+            "charBegin": 592,
+            "charEnd": 597,
+            "id": 98,
+            "sentence": 6,
+            "text": "18.45",
+            "word": 6
+        },
+        {
+            "charBegin": 598,
+            "charEnd": 601,
+            "id": 99,
+            "sentence": 6,
+            "text": "Uhr",
+            "word": 7
+        },
+        {
+            "charBegin": 602,
+            "charEnd": 608,
+            "id": 100,
+            "sentence": 6,
+            "text": "wieder",
+            "word": 8
+        },
+        {
+            "charBegin": 609,
+            "charEnd": 615,
+            "id": 101,
+            "sentence": 6,
+            "text": "melden",
+            "word": 9
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 616,
+            "id": 102,
+            "sentence": 6,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 618,
+            "charEnd": 625,
+            "id": 103,
+            "sentence": 7,
+            "text": "Nachdem",
+            "word": 1
+        },
+        {
+            "charBegin": 626,
+            "charEnd": 629,
+            "id": 104,
+            "sentence": 7,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 630,
+            "charEnd": 645,
+            "id": 105,
+            "sentence": 7,
+            "text": "Steuerberaterin",
+            "word": 3
+        },
+        {
+            "charBegin": 646,
+            "charEnd": 649,
+            "id": 106,
+            "sentence": 7,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 650,
+            "charEnd": 657,
+            "id": 107,
+            "sentence": 7,
+            "text": "Polizei",
+            "word": 5
+        },
+        {
+            "charBegin": 658,
+            "charEnd": 668,
+            "id": 108,
+            "sentence": 7,
+            "text": "informiert",
+            "word": 6
+        },
+        {
+            "charBegin": 669,
+            "charEnd": 674,
+            "id": 109,
+            "sentence": 7,
+            "text": "hatte",
+            "word": 7
+        },
+        {
+            "charBegin": 674,
+            "charEnd": 675,
+            "id": 110,
+            "sentence": 7,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 676,
+            "charEnd": 681,
+            "id": 111,
+            "sentence": 7,
+            "text": "wurde",
+            "word": 9
+        },
+        {
+            "charBegin": 682,
+            "charEnd": 686,
+            "id": 112,
+            "sentence": 7,
+            "text": "eine",
+            "word": 10
+        },
+        {
+            "charBegin": 687,
+            "charEnd": 698,
+            "id": 113,
+            "sentence": 7,
+            "text": "400-köpfige",
+            "word": 11
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 715,
+            "id": 114,
+            "sentence": 7,
+            "text": "Sonderkommission",
+            "word": 12
+        },
+        {
+            "charBegin": 716,
+            "charEnd": 728,
+            "id": 115,
+            "sentence": 7,
+            "text": "eingerichtet",
+            "word": 13
+        },
+        {
+            "charBegin": 728,
+            "charEnd": 729,
+            "id": 116,
+            "sentence": 7,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 730,
+            "charEnd": 732,
+            "id": 117,
+            "sentence": 7,
+            "text": "um",
+            "word": 15
+        },
+        {
+            "charBegin": 733,
+            "charEnd": 736,
+            "id": 118,
+            "sentence": 7,
+            "text": "das",
+            "word": 16
+        },
+        {
+            "charBegin": 737,
+            "charEnd": 744,
+            "id": 119,
+            "sentence": 7,
+            "text": "Mädchen",
+            "word": 17
+        },
+        {
+            "charBegin": 745,
+            "charEnd": 747,
+            "id": 120,
+            "sentence": 7,
+            "text": "zu",
+            "word": 18
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 754,
+            "id": 121,
+            "sentence": 7,
+            "text": "retten",
+            "word": 19
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 758,
+            "id": 122,
+            "sentence": 7,
+            "text": "und",
+            "word": 20
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 762,
+            "id": 123,
+            "sentence": 7,
+            "text": "den",
+            "word": 21
+        },
+        {
+            "charBegin": 763,
+            "charEnd": 768,
+            "id": 124,
+            "sentence": 7,
+            "text": "Täter",
+            "word": 22
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 781,
+            "id": 125,
+            "sentence": 7,
+            "text": "festzunehmen",
+            "word": 23
+        },
+        {
+            "charBegin": 781,
+            "charEnd": 782,
+            "id": 126,
+            "sentence": 7,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 783,
+            "charEnd": 787,
+            "id": 127,
+            "sentence": 8,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 788,
+            "charEnd": 793,
+            "id": 128,
+            "sentence": 8,
+            "text": "einem",
+            "word": 2
+        },
+        {
+            "charBegin": 794,
+            "charEnd": 808,
+            "id": 129,
+            "sentence": 8,
+            "text": "Telefonkontakt",
+            "word": 3
+        },
+        {
+            "charBegin": 809,
+            "charEnd": 812,
+            "id": 130,
+            "sentence": 8,
+            "text": "mit",
+            "word": 4
+        },
+        {
+            "charBegin": 813,
+            "charEnd": 816,
+            "id": 131,
+            "sentence": 8,
+            "text": "dem",
+            "word": 5
+        },
+        {
+            "charBegin": 817,
+            "charEnd": 822,
+            "id": 132,
+            "sentence": 8,
+            "text": "Täter",
+            "word": 6
+        },
+        {
+            "charBegin": 823,
+            "charEnd": 828,
+            "id": 133,
+            "sentence": 8,
+            "text": "wurde",
+            "word": 7
+        },
+        {
+            "charBegin": 829,
+            "charEnd": 837,
+            "id": 134,
+            "sentence": 8,
+            "text": "Lösegeld",
+            "word": 8
+        },
+        {
+            "charBegin": 838,
+            "charEnd": 840,
+            "id": 135,
+            "sentence": 8,
+            "text": "in",
+            "word": 9
+        },
+        {
+            "charBegin": 841,
+            "charEnd": 844,
+            "id": 136,
+            "sentence": 8,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 845,
+            "charEnd": 849,
+            "id": 137,
+            "sentence": 8,
+            "text": "Nähe",
+            "word": 11
+        },
+        {
+            "charBegin": 850,
+            "charEnd": 853,
+            "id": 138,
+            "sentence": 8,
+            "text": "von",
+            "word": 12
+        },
+        {
+            "charBegin": 854,
+            "charEnd": 866,
+            "id": 139,
+            "sentence": 8,
+            "text": "Fürstenwalde",
+            "word": 13
+        },
+        {
+            "charBegin": 867,
+            "charEnd": 876,
+            "id": 140,
+            "sentence": 8,
+            "text": "übergeben",
+            "word": 14
+        },
+        {
+            "charBegin": 876,
+            "charEnd": 877,
+            "id": 141,
+            "sentence": 8,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 878,
+            "charEnd": 883,
+            "id": 142,
+            "sentence": 9,
+            "text": "Gegen",
+            "word": 1
+        },
+        {
+            "charBegin": 884,
+            "charEnd": 889,
+            "id": 143,
+            "sentence": 9,
+            "text": "21.28",
+            "word": 2
+        },
+        {
+            "charBegin": 890,
+            "charEnd": 893,
+            "id": 144,
+            "sentence": 9,
+            "text": "Uhr",
+            "word": 3
+        },
+        {
+            "charBegin": 894,
+            "charEnd": 899,
+            "id": 145,
+            "sentence": 9,
+            "text": "wurde",
+            "word": 4
+        },
+        {
+            "charBegin": 900,
+            "charEnd": 903,
+            "id": 146,
+            "sentence": 9,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 915,
+            "id": 147,
+            "sentence": 9,
+            "text": "Vierjährige",
+            "word": 6
+        },
+        {
+            "charBegin": 916,
+            "charEnd": 918,
+            "id": 148,
+            "sentence": 9,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 919,
+            "charEnd": 922,
+            "id": 149,
+            "sentence": 9,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 923,
+            "charEnd": 927,
+            "id": 150,
+            "sentence": 9,
+            "text": "Nähe",
+            "word": 9
+        },
+        {
+            "charBegin": 928,
+            "charEnd": 933,
+            "id": 151,
+            "sentence": 9,
+            "text": "ihres",
+            "word": 10
+        },
+        {
+            "charBegin": 934,
+            "charEnd": 944,
+            "id": 152,
+            "sentence": 9,
+            "text": "Wohnhauses",
+            "word": 11
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 948,
+            "id": 153,
+            "sentence": 9,
+            "text": "von",
+            "word": 12
+        },
+        {
+            "charBegin": 949,
+            "charEnd": 957,
+            "id": 154,
+            "sentence": 9,
+            "text": "Nachbarn",
+            "word": 13
+        },
+        {
+            "charBegin": 958,
+            "charEnd": 966,
+            "id": 155,
+            "sentence": 9,
+            "text": "entdeckt",
+            "word": 14
+        },
+        {
+            "charBegin": 966,
+            "charEnd": 967,
+            "id": 156,
+            "sentence": 9,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 969,
+            "charEnd": 972,
+            "id": 157,
+            "sentence": 10,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 973,
+            "charEnd": 978,
+            "id": 158,
+            "sentence": 10,
+            "text": "Täter",
+            "word": 2
+        },
+        {
+            "charBegin": 979,
+            "charEnd": 988,
+            "id": 159,
+            "sentence": 10,
+            "text": "flüchtete",
+            "word": 3
+        },
+        {
+            "charBegin": 989,
+            "charEnd": 992,
+            "id": 160,
+            "sentence": 10,
+            "text": "mit",
+            "word": 4
+        },
+        {
+            "charBegin": 993,
+            "charEnd": 998,
+            "id": 161,
+            "sentence": 10,
+            "text": "einer",
+            "word": 5
+        },
+        {
+            "charBegin": 999,
+            "charEnd": 1014,
+            "id": 162,
+            "sentence": 10,
+            "text": "Geschwindigkeit",
+            "word": 6
+        },
+        {
+            "charBegin": 1015,
+            "charEnd": 1018,
+            "id": 163,
+            "sentence": 10,
+            "text": "von",
+            "word": 7
+        },
+        {
+            "charBegin": 1019,
+            "charEnd": 1021,
+            "id": 164,
+            "sentence": 10,
+            "text": "80",
+            "word": 8
+        },
+        {
+            "charBegin": 1022,
+            "charEnd": 1032,
+            "id": 165,
+            "sentence": 10,
+            "text": "Kilometern",
+            "word": 9
+        },
+        {
+            "charBegin": 1033,
+            "charEnd": 1036,
+            "id": 166,
+            "sentence": 10,
+            "text": "pro",
+            "word": 10
+        },
+        {
+            "charBegin": 1037,
+            "charEnd": 1043,
+            "id": 167,
+            "sentence": 10,
+            "text": "Stunde",
+            "word": 11
+        },
+        {
+            "charBegin": 1044,
+            "charEnd": 1047,
+            "id": 168,
+            "sentence": 10,
+            "text": "auf",
+            "word": 12
+        },
+        {
+            "charBegin": 1048,
+            "charEnd": 1051,
+            "id": 169,
+            "sentence": 10,
+            "text": "dem",
+            "word": 13
+        },
+        {
+            "charBegin": 1052,
+            "charEnd": 1065,
+            "id": 170,
+            "sentence": 10,
+            "text": "Standstreifen",
+            "word": 14
+        },
+        {
+            "charBegin": 1066,
+            "charEnd": 1070,
+            "id": 171,
+            "sentence": 10,
+            "text": "über",
+            "word": 15
+        },
+        {
+            "charBegin": 1071,
+            "charEnd": 1074,
+            "id": 172,
+            "sentence": 10,
+            "text": "die",
+            "word": 16
+        },
+        {
+            "charBegin": 1075,
+            "charEnd": 1078,
+            "id": 173,
+            "sentence": 10,
+            "text": "BAB",
+            "word": 17
+        },
+        {
+            "charBegin": 1079,
+            "charEnd": 1081,
+            "id": 174,
+            "sentence": 10,
+            "text": "12",
+            "word": 18
+        },
+        {
+            "charBegin": 1082,
+            "charEnd": 1088,
+            "id": 175,
+            "sentence": 10,
+            "text": "zurück",
+            "word": 19
+        },
+        {
+            "charBegin": 1089,
+            "charEnd": 1093,
+            "id": 176,
+            "sentence": 10,
+            "text": "nach",
+            "word": 20
+        },
+        {
+            "charBegin": 1094,
+            "charEnd": 1106,
+            "id": 177,
+            "sentence": 10,
+            "text": "Kleinmachnow",
+            "word": 21
+        },
+        {
+            "charBegin": 1106,
+            "charEnd": 1107,
+            "id": 178,
+            "sentence": 10,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 1108,
+            "charEnd": 1111,
+            "id": 179,
+            "sentence": 11,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1112,
+            "charEnd": 1119,
+            "id": 180,
+            "sentence": 11,
+            "text": "Beamten",
+            "word": 2
+        },
+        {
+            "charBegin": 1120,
+            "charEnd": 1123,
+            "id": 181,
+            "sentence": 11,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 1124,
+            "charEnd": 1146,
+            "id": 182,
+            "sentence": 11,
+            "text": "Sondereinsatzkommandos",
+            "word": 4
+        },
+        {
+            "charBegin": 1147,
+            "charEnd": 1153,
+            "id": 183,
+            "sentence": 11,
+            "text": "nahmen",
+            "word": 5
+        },
+        {
+            "charBegin": 1154,
+            "charEnd": 1157,
+            "id": 184,
+            "sentence": 11,
+            "text": "den",
+            "word": 6
+        },
+        {
+            "charBegin": 1158,
+            "charEnd": 1163,
+            "id": 185,
+            "sentence": 11,
+            "text": "Täter",
+            "word": 7
+        },
+        {
+            "charBegin": 1164,
+            "charEnd": 1168,
+            "id": 186,
+            "sentence": 11,
+            "text": "fest",
+            "word": 8
+        },
+        {
+            "charBegin": 1168,
+            "charEnd": 1169,
+            "id": 187,
+            "sentence": 11,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 1170,
+            "charEnd": 1177,
+            "id": 188,
+            "sentence": 11,
+            "text": "nachdem",
+            "word": 10
+        },
+        {
+            "charBegin": 1178,
+            "charEnd": 1182,
+            "id": 189,
+            "sentence": 11,
+            "text": "klar",
+            "word": 11
+        },
+        {
+            "charBegin": 1183,
+            "charEnd": 1186,
+            "id": 190,
+            "sentence": 11,
+            "text": "war",
+            "word": 12
+        },
+        {
+            "charBegin": 1186,
+            "charEnd": 1187,
+            "id": 191,
+            "sentence": 11,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 1188,
+            "charEnd": 1192,
+            "id": 192,
+            "sentence": 11,
+            "text": "dass",
+            "word": 14
+        },
+        {
+            "charBegin": 1193,
+            "charEnd": 1197,
+            "id": 193,
+            "sentence": 11,
+            "text": "sich",
+            "word": 15
+        },
+        {
+            "charBegin": 1198,
+            "charEnd": 1201,
+            "id": 194,
+            "sentence": 11,
+            "text": "das",
+            "word": 16
+        },
+        {
+            "charBegin": 1202,
+            "charEnd": 1209,
+            "id": 195,
+            "sentence": 11,
+            "text": "Mädchen",
+            "word": 17
+        },
+        {
+            "charBegin": 1210,
+            "charEnd": 1212,
+            "id": 196,
+            "sentence": 11,
+            "text": "in",
+            "word": 18
+        },
+        {
+            "charBegin": 1213,
+            "charEnd": 1223,
+            "id": 197,
+            "sentence": 11,
+            "text": "Sicherheit",
+            "word": 19
+        },
+        {
+            "charBegin": 1224,
+            "charEnd": 1230,
+            "id": 198,
+            "sentence": 11,
+            "text": "befand",
+            "word": 20
+        },
+        {
+            "charBegin": 1230,
+            "charEnd": 1231,
+            "id": 199,
+            "sentence": 11,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 1232,
+            "charEnd": 1234,
+            "id": 200,
+            "sentence": 12,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 1235,
+            "charEnd": 1239,
+            "id": 201,
+            "sentence": 12,
+            "text": "Auto",
+            "word": 2
+        },
+        {
+            "charBegin": 1240,
+            "charEnd": 1246,
+            "id": 202,
+            "sentence": 12,
+            "text": "fanden",
+            "word": 3
+        },
+        {
+            "charBegin": 1247,
+            "charEnd": 1250,
+            "id": 203,
+            "sentence": 12,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 1251,
+            "charEnd": 1261,
+            "id": 204,
+            "sentence": 12,
+            "text": "Mitglieder",
+            "word": 5
+        },
+        {
+            "charBegin": 1262,
+            "charEnd": 1265,
+            "id": 205,
+            "sentence": 12,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 1266,
+            "charEnd": 1282,
+            "id": 206,
+            "sentence": 12,
+            "text": "Sonderkommission",
+            "word": 7
+        },
+        {
+            "charBegin": 1283,
+            "charEnd": 1286,
+            "id": 207,
+            "sentence": 12,
+            "text": "das",
+            "word": 8
+        },
+        {
+            "charBegin": 1287,
+            "charEnd": 1295,
+            "id": 208,
+            "sentence": 12,
+            "text": "Lösegeld",
+            "word": 9
+        },
+        {
+            "charBegin": 1296,
+            "charEnd": 1299,
+            "id": 209,
+            "sentence": 12,
+            "text": "und",
+            "word": 10
+        },
+        {
+            "charBegin": 1300,
+            "charEnd": 1303,
+            "id": 210,
+            "sentence": 12,
+            "text": "die",
+            "word": 11
+        },
+        {
+            "charBegin": 1304,
+            "charEnd": 1312,
+            "id": 211,
+            "sentence": 12,
+            "text": "Tatwaffe",
+            "word": 12
+        },
+        {
+            "charBegin": 1312,
+            "charEnd": 1313,
+            "id": 212,
+            "sentence": 12,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 1314,
+            "charEnd": 1317,
+            "id": 213,
+            "sentence": 13,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1318,
+            "charEnd": 1324,
+            "id": 214,
+            "sentence": 13,
+            "text": "Medien",
+            "word": 2
+        },
+        {
+            "charBegin": 1325,
+            "charEnd": 1331,
+            "id": 215,
+            "sentence": 13,
+            "text": "wurden",
+            "word": 3
+        },
+        {
+            "charBegin": 1332,
+            "charEnd": 1335,
+            "id": 216,
+            "sentence": 13,
+            "text": "von",
+            "word": 4
+        },
+        {
+            "charBegin": 1336,
+            "charEnd": 1339,
+            "id": 217,
+            "sentence": 13,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 1340,
+            "charEnd": 1347,
+            "id": 218,
+            "sentence": 13,
+            "text": "Polizei",
+            "word": 6
+        },
+        {
+            "charBegin": 1348,
+            "charEnd": 1352,
+            "id": 219,
+            "sentence": 13,
+            "text": "erst",
+            "word": 7
+        },
+        {
+            "charBegin": 1353,
+            "charEnd": 1357,
+            "id": 220,
+            "sentence": 13,
+            "text": "nach",
+            "word": 8
+        },
+        {
+            "charBegin": 1358,
+            "charEnd": 1361,
+            "id": 221,
+            "sentence": 13,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 1362,
+            "charEnd": 1371,
+            "id": 222,
+            "sentence": 13,
+            "text": "Festnahme",
+            "word": 10
+        },
+        {
+            "charBegin": 1372,
+            "charEnd": 1375,
+            "id": 223,
+            "sentence": 13,
+            "text": "des",
+            "word": 11
+        },
+        {
+            "charBegin": 1376,
+            "charEnd": 1382,
+            "id": 224,
+            "sentence": 13,
+            "text": "Mannes",
+            "word": 12
+        },
+        {
+            "charBegin": 1383,
+            "charEnd": 1393,
+            "id": 225,
+            "sentence": 13,
+            "text": "informiert",
+            "word": 13
+        },
+        {
+            "charBegin": 1393,
+            "charEnd": 1394,
+            "id": 226,
+            "sentence": 13,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1396,
+            "charEnd": 1399,
+            "id": 227,
+            "sentence": 14,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1400,
+            "charEnd": 1405,
+            "id": 228,
+            "sentence": 14,
+            "text": "Täter",
+            "word": 2
+        },
+        {
+            "charBegin": 1406,
+            "charEnd": 1410,
+            "id": 229,
+            "sentence": 14,
+            "text": "wird",
+            "word": 3
+        },
+        {
+            "charBegin": 1411,
+            "charEnd": 1415,
+            "id": 230,
+            "sentence": 14,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 1416,
+            "charEnd": 1421,
+            "id": 231,
+            "sentence": 14,
+            "text": "wegen",
+            "word": 5
+        },
+        {
+            "charBegin": 1422,
+            "charEnd": 1437,
+            "id": 232,
+            "sentence": 14,
+            "text": "erpresserischen",
+            "word": 6
+        },
+        {
+            "charBegin": 1438,
+            "charEnd": 1451,
+            "id": 233,
+            "sentence": 14,
+            "text": "Menschenraubs",
+            "word": 7
+        },
+        {
+            "charBegin": 1452,
+            "charEnd": 1453,
+            "id": 234,
+            "sentence": 14,
+            "text": "(",
+            "word": 8
+        },
+        {
+            "charBegin": 1453,
+            "charEnd": 1454,
+            "id": 235,
+            "sentence": 14,
+            "text": "§",
+            "word": 9
+        },
+        {
+            "charBegin": 1455,
+            "charEnd": 1459,
+            "id": 236,
+            "sentence": 14,
+            "text": "239a",
+            "word": 10
+        },
+        {
+            "charBegin": 1460,
+            "charEnd": 1475,
+            "id": 237,
+            "sentence": 14,
+            "text": "Strafgesetzbuch",
+            "word": 11
+        },
+        {
+            "charBegin": 1475,
+            "charEnd": 1476,
+            "id": 238,
+            "sentence": 14,
+            "text": ")",
+            "word": 12
+        },
+        {
+            "charBegin": 1477,
+            "charEnd": 1489,
+            "id": 239,
+            "sentence": 14,
+            "text": "verantworten",
+            "word": 13
+        },
+        {
+            "charBegin": 1490,
+            "charEnd": 1496,
+            "id": 240,
+            "sentence": 14,
+            "text": "müssen",
+            "word": 14
+        },
+        {
+            "charBegin": 1496,
+            "charEnd": 1497,
+            "id": 241,
+            "sentence": 14,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 1498,
+            "charEnd": 1501,
+            "id": 242,
+            "sentence": 15,
+            "text": "Ihm",
+            "word": 1
+        },
+        {
+            "charBegin": 1502,
+            "charEnd": 1507,
+            "id": 243,
+            "sentence": 15,
+            "text": "droht",
+            "word": 2
+        },
+        {
+            "charBegin": 1508,
+            "charEnd": 1512,
+            "id": 244,
+            "sentence": 15,
+            "text": "eine",
+            "word": 3
+        },
+        {
+            "charBegin": 1513,
+            "charEnd": 1528,
+            "id": 245,
+            "sentence": 15,
+            "text": "Freiheitsstrafe",
+            "word": 4
+        },
+        {
+            "charBegin": 1529,
+            "charEnd": 1532,
+            "id": 246,
+            "sentence": 15,
+            "text": "von",
+            "word": 5
+        },
+        {
+            "charBegin": 1533,
+            "charEnd": 1543,
+            "id": 247,
+            "sentence": 15,
+            "text": "mindestens",
+            "word": 6
+        },
+        {
+            "charBegin": 1544,
+            "charEnd": 1548,
+            "id": 248,
+            "sentence": 15,
+            "text": "fünf",
+            "word": 7
+        },
+        {
+            "charBegin": 1549,
+            "charEnd": 1555,
+            "id": 249,
+            "sentence": 15,
+            "text": "Jahren",
+            "word": 8
+        },
+        {
+            "charBegin": 1555,
+            "charEnd": 1556,
+            "id": 250,
+            "sentence": 15,
+            "text": ".",
+            "word": 9
+        }
+    ]
+}

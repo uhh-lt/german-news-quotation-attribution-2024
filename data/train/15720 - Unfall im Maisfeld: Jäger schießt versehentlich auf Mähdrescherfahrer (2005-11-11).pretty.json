@@ -1,0 +1,1829 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 80,
+                        "charBegin": 470,
+                        "charEnd": 479,
+                        "end": 82
+                    }
+                ],
+                "text": "sagte aus",
+                "tokenIds": [
+                    80,
+                    81
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 79,
+                        "charBegin": 467,
+                        "charEnd": 480,
+                        "end": 83
+                    }
+                ],
+                "text": "Er sagte aus:",
+                "tokenIds": [
+                    79,
+                    80,
+                    81,
+                    82
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 83,
+                        "charBegin": 481,
+                        "charEnd": 586,
+                        "end": 101
+                    }
+                ],
+                "text": "„Plötzlich zersprang die Frontscheibe meines Mähdreschers, und ich spürte einen starken Schmerz im Knie.“",
+                "tokenIds": [
+                    83,
+                    84,
+                    85,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    98,
+                    99,
+                    100
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 79,
+                        "charBegin": 467,
+                        "charEnd": 469,
+                        "end": 80
+                    }
+                ],
+                "text": "Er",
+                "tokenIds": [
+                    79
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "15720 - Unfall im Maisfeld: Jäger schießt versehentlich auf Mähdrescherfahrer (2005-11-11)",
+    "originalText": "Ein Jäger aus der Region Halle (Saale) muss sich demnächst wegen fahrlässiger Körperverletzung vor Gericht verantworten. \n\nAm Freitag, den 4. November waren mehrere Jäger auf einer Fuchsjagd zwischen den Orten Görzig und Glauzig unterwegs. In einem Maisfeld wollten sie einen Fuchs erlegen. Dabei wurde ein 39-jähriger Landwirt von einer Kugel getroffen. Er war gerade mit dem Mähdrescher bei der Ernte des Maisfeldes unterwegs, als die Kugel in sein Knie einschlug. Er sagte aus: „Plötzlich zersprang die Frontscheibe meines Mähdreschers, und ich spürte einen starken Schmerz im Knie.“ Weitere Informationen konnte er der Polizei nicht geben. Er musste zur stationären Behandlung ins Krankenhaus nach Halle gebracht werden. Dort wurde die Kugel operativ aus seinem Knie entfernt. \n\nDer Ermittlungen der Kriminalpolizei sind sind noch am gleichen Tag angelaufen. Der Jäger aus der Gruppe, der den Schuss abgab, ist der Polizei namentlich bekannt.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 120,
+            "end": 19,
+            "id": 0,
+            "text": "Ein Jäger aus der Region Halle (Saale) muss sich demnächst wegen fahrlässiger Körperverletzung vor Gericht verantworten. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "tokens": [
+                "Ein",
+                "Jäger",
+                "aus",
+                "der",
+                "Region",
+                "Halle",
+                "(",
+                "Saale",
+                ")",
+                "muss",
+                "sich",
+                "demnächst",
+                "wegen",
+                "fahrlässiger",
+                "Körperverletzung",
+                "vor",
+                "Gericht",
+                "verantworten",
+                "."
+            ]
+        },
+        {
+            "begin": 19,
+            "charBegin": 123,
+            "charEnd": 239,
+            "end": 39,
+            "id": 1,
+            "text": "Am Freitag, den 4. November waren mehrere Jäger auf einer Fuchsjagd zwischen den Orten Görzig und Glauzig unterwegs. ",
+            "tokenIds": [
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38
+            ],
+            "tokens": [
+                "Am",
+                "Freitag",
+                ",",
+                "den",
+                "4.",
+                "November",
+                "waren",
+                "mehrere",
+                "Jäger",
+                "auf",
+                "einer",
+                "Fuchsjagd",
+                "zwischen",
+                "den",
+                "Orten",
+                "Görzig",
+                "und",
+                "Glauzig",
+                "unterwegs",
+                "."
+            ]
+        },
+        {
+            "begin": 39,
+            "charBegin": 240,
+            "charEnd": 290,
+            "end": 48,
+            "id": 2,
+            "text": "In einem Maisfeld wollten sie einen Fuchs erlegen. ",
+            "tokenIds": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47
+            ],
+            "tokens": [
+                "In",
+                "einem",
+                "Maisfeld",
+                "wollten",
+                "sie",
+                "einen",
+                "Fuchs",
+                "erlegen",
+                "."
+            ]
+        },
+        {
+            "begin": 48,
+            "charBegin": 291,
+            "charEnd": 354,
+            "end": 58,
+            "id": 3,
+            "text": "Dabei wurde ein 39-jähriger Landwirt von einer Kugel getroffen. ",
+            "tokenIds": [
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57
+            ],
+            "tokens": [
+                "Dabei",
+                "wurde",
+                "ein",
+                "39-jähriger",
+                "Landwirt",
+                "von",
+                "einer",
+                "Kugel",
+                "getroffen",
+                "."
+            ]
+        },
+        {
+            "begin": 58,
+            "charBegin": 355,
+            "charEnd": 466,
+            "end": 79,
+            "id": 4,
+            "text": "Er war gerade mit dem Mähdrescher bei der Ernte des Maisfeldes unterwegs, als die Kugel in sein Knie einschlug. ",
+            "tokenIds": [
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78
+            ],
+            "tokens": [
+                "Er",
+                "war",
+                "gerade",
+                "mit",
+                "dem",
+                "Mähdrescher",
+                "bei",
+                "der",
+                "Ernte",
+                "des",
+                "Maisfeldes",
+                "unterwegs",
+                ",",
+                "als",
+                "die",
+                "Kugel",
+                "in",
+                "sein",
+                "Knie",
+                "einschlug",
+                "."
+            ]
+        },
+        {
+            "begin": 79,
+            "charBegin": 467,
+            "charEnd": 643,
+            "end": 110,
+            "id": 5,
+            "text": "Er sagte aus: „Plötzlich zersprang die Frontscheibe meines Mähdreschers, und ich spürte einen starken Schmerz im Knie.“ Weitere Informationen konnte er der Polizei nicht geben. ",
+            "tokenIds": [
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109
+            ],
+            "tokens": [
+                "Er",
+                "sagte",
+                "aus",
+                ":",
+                "„",
+                "Plötzlich",
+                "zersprang",
+                "die",
+                "Frontscheibe",
+                "meines",
+                "Mähdreschers",
+                ",",
+                "und",
+                "ich",
+                "spürte",
+                "einen",
+                "starken",
+                "Schmerz",
+                "im",
+                "Knie",
+                ".",
+                "“",
+                "Weitere",
+                "Informationen",
+                "konnte",
+                "er",
+                "der",
+                "Polizei",
+                "nicht",
+                "geben",
+                "."
+            ]
+        },
+        {
+            "begin": 110,
+            "charBegin": 644,
+            "charEnd": 724,
+            "end": 122,
+            "id": 6,
+            "text": "Er musste zur stationären Behandlung ins Krankenhaus nach Halle gebracht werden. ",
+            "tokenIds": [
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121
+            ],
+            "tokens": [
+                "Er",
+                "musste",
+                "zur",
+                "stationären",
+                "Behandlung",
+                "ins",
+                "Krankenhaus",
+                "nach",
+                "Halle",
+                "gebracht",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 122,
+            "charBegin": 725,
+            "charEnd": 780,
+            "end": 132,
+            "id": 7,
+            "text": "Dort wurde die Kugel operativ aus seinem Knie entfernt. ",
+            "tokenIds": [
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131
+            ],
+            "tokens": [
+                "Dort",
+                "wurde",
+                "die",
+                "Kugel",
+                "operativ",
+                "aus",
+                "seinem",
+                "Knie",
+                "entfernt",
+                "."
+            ]
+        },
+        {
+            "begin": 132,
+            "charBegin": 783,
+            "charEnd": 862,
+            "end": 144,
+            "id": 8,
+            "text": "Der Ermittlungen der Kriminalpolizei sind sind noch am gleichen Tag angelaufen. ",
+            "tokenIds": [
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143
+            ],
+            "tokens": [
+                "Der",
+                "Ermittlungen",
+                "der",
+                "Kriminalpolizei",
+                "sind",
+                "sind",
+                "noch",
+                "am",
+                "gleichen",
+                "Tag",
+                "angelaufen",
+                "."
+            ]
+        },
+        {
+            "begin": 144,
+            "charBegin": 863,
+            "charEnd": 946,
+            "end": 161,
+            "id": 9,
+            "text": "Der Jäger aus der Gruppe, der den Schuss abgab, ist der Polizei namentlich bekannt.",
+            "tokenIds": [
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160
+            ],
+            "tokens": [
+                "Der",
+                "Jäger",
+                "aus",
+                "der",
+                "Gruppe",
+                ",",
+                "der",
+                "den",
+                "Schuss",
+                "abgab",
+                ",",
+                "ist",
+                "der",
+                "Polizei",
+                "namentlich",
+                "bekannt",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 9,
+            "id": 1,
+            "sentence": 1,
+            "text": "Jäger",
+            "word": 2
+        },
+        {
+            "charBegin": 10,
+            "charEnd": 13,
+            "id": 2,
+            "sentence": 1,
+            "text": "aus",
+            "word": 3
+        },
+        {
+            "charBegin": 14,
+            "charEnd": 17,
+            "id": 3,
+            "sentence": 1,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 18,
+            "charEnd": 24,
+            "id": 4,
+            "sentence": 1,
+            "text": "Region",
+            "word": 5
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 30,
+            "id": 5,
+            "sentence": 1,
+            "text": "Halle",
+            "word": 6
+        },
+        {
+            "charBegin": 31,
+            "charEnd": 32,
+            "id": 6,
+            "sentence": 1,
+            "text": "(",
+            "word": 7
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 37,
+            "id": 7,
+            "sentence": 1,
+            "text": "Saale",
+            "word": 8
+        },
+        {
+            "charBegin": 37,
+            "charEnd": 38,
+            "id": 8,
+            "sentence": 1,
+            "text": ")",
+            "word": 9
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 43,
+            "id": 9,
+            "sentence": 1,
+            "text": "muss",
+            "word": 10
+        },
+        {
+            "charBegin": 44,
+            "charEnd": 48,
+            "id": 10,
+            "sentence": 1,
+            "text": "sich",
+            "word": 11
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 58,
+            "id": 11,
+            "sentence": 1,
+            "text": "demnächst",
+            "word": 12
+        },
+        {
+            "charBegin": 59,
+            "charEnd": 64,
+            "id": 12,
+            "sentence": 1,
+            "text": "wegen",
+            "word": 13
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 77,
+            "id": 13,
+            "sentence": 1,
+            "text": "fahrlässiger",
+            "word": 14
+        },
+        {
+            "charBegin": 78,
+            "charEnd": 94,
+            "id": 14,
+            "sentence": 1,
+            "text": "Körperverletzung",
+            "word": 15
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 98,
+            "id": 15,
+            "sentence": 1,
+            "text": "vor",
+            "word": 16
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 106,
+            "id": 16,
+            "sentence": 1,
+            "text": "Gericht",
+            "word": 17
+        },
+        {
+            "charBegin": 107,
+            "charEnd": 119,
+            "id": 17,
+            "sentence": 1,
+            "text": "verantworten",
+            "word": 18
+        },
+        {
+            "charBegin": 119,
+            "charEnd": 120,
+            "id": 18,
+            "sentence": 1,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 125,
+            "id": 19,
+            "sentence": 2,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 126,
+            "charEnd": 133,
+            "id": 20,
+            "sentence": 2,
+            "text": "Freitag",
+            "word": 2
+        },
+        {
+            "charBegin": 133,
+            "charEnd": 134,
+            "id": 21,
+            "sentence": 2,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 138,
+            "id": 22,
+            "sentence": 2,
+            "text": "den",
+            "word": 4
+        },
+        {
+            "charBegin": 139,
+            "charEnd": 141,
+            "id": 23,
+            "sentence": 2,
+            "text": "4.",
+            "word": 5
+        },
+        {
+            "charBegin": 142,
+            "charEnd": 150,
+            "id": 24,
+            "sentence": 2,
+            "text": "November",
+            "word": 6
+        },
+        {
+            "charBegin": 151,
+            "charEnd": 156,
+            "id": 25,
+            "sentence": 2,
+            "text": "waren",
+            "word": 7
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 164,
+            "id": 26,
+            "sentence": 2,
+            "text": "mehrere",
+            "word": 8
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 170,
+            "id": 27,
+            "sentence": 2,
+            "text": "Jäger",
+            "word": 9
+        },
+        {
+            "charBegin": 171,
+            "charEnd": 174,
+            "id": 28,
+            "sentence": 2,
+            "text": "auf",
+            "word": 10
+        },
+        {
+            "charBegin": 175,
+            "charEnd": 180,
+            "id": 29,
+            "sentence": 2,
+            "text": "einer",
+            "word": 11
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 190,
+            "id": 30,
+            "sentence": 2,
+            "text": "Fuchsjagd",
+            "word": 12
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 199,
+            "id": 31,
+            "sentence": 2,
+            "text": "zwischen",
+            "word": 13
+        },
+        {
+            "charBegin": 200,
+            "charEnd": 203,
+            "id": 32,
+            "sentence": 2,
+            "text": "den",
+            "word": 14
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 209,
+            "id": 33,
+            "sentence": 2,
+            "text": "Orten",
+            "word": 15
+        },
+        {
+            "charBegin": 210,
+            "charEnd": 216,
+            "id": 34,
+            "sentence": 2,
+            "text": "Görzig",
+            "word": 16
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 220,
+            "id": 35,
+            "sentence": 2,
+            "text": "und",
+            "word": 17
+        },
+        {
+            "charBegin": 221,
+            "charEnd": 228,
+            "id": 36,
+            "sentence": 2,
+            "text": "Glauzig",
+            "word": 18
+        },
+        {
+            "charBegin": 229,
+            "charEnd": 238,
+            "id": 37,
+            "sentence": 2,
+            "text": "unterwegs",
+            "word": 19
+        },
+        {
+            "charBegin": 238,
+            "charEnd": 239,
+            "id": 38,
+            "sentence": 2,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 242,
+            "id": 39,
+            "sentence": 3,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 248,
+            "id": 40,
+            "sentence": 3,
+            "text": "einem",
+            "word": 2
+        },
+        {
+            "charBegin": 249,
+            "charEnd": 257,
+            "id": 41,
+            "sentence": 3,
+            "text": "Maisfeld",
+            "word": 3
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 265,
+            "id": 42,
+            "sentence": 3,
+            "text": "wollten",
+            "word": 4
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 269,
+            "id": 43,
+            "sentence": 3,
+            "text": "sie",
+            "word": 5
+        },
+        {
+            "charBegin": 270,
+            "charEnd": 275,
+            "id": 44,
+            "sentence": 3,
+            "text": "einen",
+            "word": 6
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 281,
+            "id": 45,
+            "sentence": 3,
+            "text": "Fuchs",
+            "word": 7
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 289,
+            "id": 46,
+            "sentence": 3,
+            "text": "erlegen",
+            "word": 8
+        },
+        {
+            "charBegin": 289,
+            "charEnd": 290,
+            "id": 47,
+            "sentence": 3,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 291,
+            "charEnd": 296,
+            "id": 48,
+            "sentence": 4,
+            "text": "Dabei",
+            "word": 1
+        },
+        {
+            "charBegin": 297,
+            "charEnd": 302,
+            "id": 49,
+            "sentence": 4,
+            "text": "wurde",
+            "word": 2
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 306,
+            "id": 50,
+            "sentence": 4,
+            "text": "ein",
+            "word": 3
+        },
+        {
+            "charBegin": 307,
+            "charEnd": 318,
+            "id": 51,
+            "sentence": 4,
+            "text": "39-jähriger",
+            "word": 4
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 327,
+            "id": 52,
+            "sentence": 4,
+            "text": "Landwirt",
+            "word": 5
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 331,
+            "id": 53,
+            "sentence": 4,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 332,
+            "charEnd": 337,
+            "id": 54,
+            "sentence": 4,
+            "text": "einer",
+            "word": 7
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 343,
+            "id": 55,
+            "sentence": 4,
+            "text": "Kugel",
+            "word": 8
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 353,
+            "id": 56,
+            "sentence": 4,
+            "text": "getroffen",
+            "word": 9
+        },
+        {
+            "charBegin": 353,
+            "charEnd": 354,
+            "id": 57,
+            "sentence": 4,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 355,
+            "charEnd": 357,
+            "id": 58,
+            "sentence": 5,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 358,
+            "charEnd": 361,
+            "id": 59,
+            "sentence": 5,
+            "text": "war",
+            "word": 2
+        },
+        {
+            "charBegin": 362,
+            "charEnd": 368,
+            "id": 60,
+            "sentence": 5,
+            "text": "gerade",
+            "word": 3
+        },
+        {
+            "charBegin": 369,
+            "charEnd": 372,
+            "id": 61,
+            "sentence": 5,
+            "text": "mit",
+            "word": 4
+        },
+        {
+            "charBegin": 373,
+            "charEnd": 376,
+            "id": 62,
+            "sentence": 5,
+            "text": "dem",
+            "word": 5
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 388,
+            "id": 63,
+            "sentence": 5,
+            "text": "Mähdrescher",
+            "word": 6
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 392,
+            "id": 64,
+            "sentence": 5,
+            "text": "bei",
+            "word": 7
+        },
+        {
+            "charBegin": 393,
+            "charEnd": 396,
+            "id": 65,
+            "sentence": 5,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 397,
+            "charEnd": 402,
+            "id": 66,
+            "sentence": 5,
+            "text": "Ernte",
+            "word": 9
+        },
+        {
+            "charBegin": 403,
+            "charEnd": 406,
+            "id": 67,
+            "sentence": 5,
+            "text": "des",
+            "word": 10
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 417,
+            "id": 68,
+            "sentence": 5,
+            "text": "Maisfeldes",
+            "word": 11
+        },
+        {
+            "charBegin": 418,
+            "charEnd": 427,
+            "id": 69,
+            "sentence": 5,
+            "text": "unterwegs",
+            "word": 12
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 428,
+            "id": 70,
+            "sentence": 5,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 429,
+            "charEnd": 432,
+            "id": 71,
+            "sentence": 5,
+            "text": "als",
+            "word": 14
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 436,
+            "id": 72,
+            "sentence": 5,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 437,
+            "charEnd": 442,
+            "id": 73,
+            "sentence": 5,
+            "text": "Kugel",
+            "word": 16
+        },
+        {
+            "charBegin": 443,
+            "charEnd": 445,
+            "id": 74,
+            "sentence": 5,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 450,
+            "id": 75,
+            "sentence": 5,
+            "text": "sein",
+            "word": 18
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 455,
+            "id": 76,
+            "sentence": 5,
+            "text": "Knie",
+            "word": 19
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 465,
+            "id": 77,
+            "sentence": 5,
+            "text": "einschlug",
+            "word": 20
+        },
+        {
+            "charBegin": 465,
+            "charEnd": 466,
+            "id": 78,
+            "sentence": 5,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 467,
+            "charEnd": 469,
+            "id": 79,
+            "sentence": 6,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 470,
+            "charEnd": 475,
+            "id": 80,
+            "sentence": 6,
+            "text": "sagte",
+            "word": 2
+        },
+        {
+            "charBegin": 476,
+            "charEnd": 479,
+            "id": 81,
+            "sentence": 6,
+            "text": "aus",
+            "word": 3
+        },
+        {
+            "charBegin": 479,
+            "charEnd": 480,
+            "id": 82,
+            "sentence": 6,
+            "text": ":",
+            "word": 4
+        },
+        {
+            "charBegin": 481,
+            "charEnd": 482,
+            "id": 83,
+            "sentence": 6,
+            "text": "„",
+            "word": 5
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 491,
+            "id": 84,
+            "sentence": 6,
+            "text": "Plötzlich",
+            "word": 6
+        },
+        {
+            "charBegin": 492,
+            "charEnd": 501,
+            "id": 85,
+            "sentence": 6,
+            "text": "zersprang",
+            "word": 7
+        },
+        {
+            "charBegin": 502,
+            "charEnd": 505,
+            "id": 86,
+            "sentence": 6,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 518,
+            "id": 87,
+            "sentence": 6,
+            "text": "Frontscheibe",
+            "word": 9
+        },
+        {
+            "charBegin": 519,
+            "charEnd": 525,
+            "id": 88,
+            "sentence": 6,
+            "text": "meines",
+            "word": 10
+        },
+        {
+            "charBegin": 526,
+            "charEnd": 538,
+            "id": 89,
+            "sentence": 6,
+            "text": "Mähdreschers",
+            "word": 11
+        },
+        {
+            "charBegin": 538,
+            "charEnd": 539,
+            "id": 90,
+            "sentence": 6,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 540,
+            "charEnd": 543,
+            "id": 91,
+            "sentence": 6,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 544,
+            "charEnd": 547,
+            "id": 92,
+            "sentence": 6,
+            "text": "ich",
+            "word": 14
+        },
+        {
+            "charBegin": 548,
+            "charEnd": 554,
+            "id": 93,
+            "sentence": 6,
+            "text": "spürte",
+            "word": 15
+        },
+        {
+            "charBegin": 555,
+            "charEnd": 560,
+            "id": 94,
+            "sentence": 6,
+            "text": "einen",
+            "word": 16
+        },
+        {
+            "charBegin": 561,
+            "charEnd": 568,
+            "id": 95,
+            "sentence": 6,
+            "text": "starken",
+            "word": 17
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 576,
+            "id": 96,
+            "sentence": 6,
+            "text": "Schmerz",
+            "word": 18
+        },
+        {
+            "charBegin": 577,
+            "charEnd": 579,
+            "id": 97,
+            "sentence": 6,
+            "text": "im",
+            "word": 19
+        },
+        {
+            "charBegin": 580,
+            "charEnd": 584,
+            "id": 98,
+            "sentence": 6,
+            "text": "Knie",
+            "word": 20
+        },
+        {
+            "charBegin": 584,
+            "charEnd": 585,
+            "id": 99,
+            "sentence": 6,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 585,
+            "charEnd": 586,
+            "id": 100,
+            "sentence": 6,
+            "text": "“",
+            "word": 22
+        },
+        {
+            "charBegin": 587,
+            "charEnd": 594,
+            "id": 101,
+            "sentence": 6,
+            "text": "Weitere",
+            "word": 23
+        },
+        {
+            "charBegin": 595,
+            "charEnd": 608,
+            "id": 102,
+            "sentence": 6,
+            "text": "Informationen",
+            "word": 24
+        },
+        {
+            "charBegin": 609,
+            "charEnd": 615,
+            "id": 103,
+            "sentence": 6,
+            "text": "konnte",
+            "word": 25
+        },
+        {
+            "charBegin": 616,
+            "charEnd": 618,
+            "id": 104,
+            "sentence": 6,
+            "text": "er",
+            "word": 26
+        },
+        {
+            "charBegin": 619,
+            "charEnd": 622,
+            "id": 105,
+            "sentence": 6,
+            "text": "der",
+            "word": 27
+        },
+        {
+            "charBegin": 623,
+            "charEnd": 630,
+            "id": 106,
+            "sentence": 6,
+            "text": "Polizei",
+            "word": 28
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 636,
+            "id": 107,
+            "sentence": 6,
+            "text": "nicht",
+            "word": 29
+        },
+        {
+            "charBegin": 637,
+            "charEnd": 642,
+            "id": 108,
+            "sentence": 6,
+            "text": "geben",
+            "word": 30
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 643,
+            "id": 109,
+            "sentence": 6,
+            "text": ".",
+            "word": 31
+        },
+        {
+            "charBegin": 644,
+            "charEnd": 646,
+            "id": 110,
+            "sentence": 7,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 647,
+            "charEnd": 653,
+            "id": 111,
+            "sentence": 7,
+            "text": "musste",
+            "word": 2
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 657,
+            "id": 112,
+            "sentence": 7,
+            "text": "zur",
+            "word": 3
+        },
+        {
+            "charBegin": 658,
+            "charEnd": 669,
+            "id": 113,
+            "sentence": 7,
+            "text": "stationären",
+            "word": 4
+        },
+        {
+            "charBegin": 670,
+            "charEnd": 680,
+            "id": 114,
+            "sentence": 7,
+            "text": "Behandlung",
+            "word": 5
+        },
+        {
+            "charBegin": 681,
+            "charEnd": 684,
+            "id": 115,
+            "sentence": 7,
+            "text": "ins",
+            "word": 6
+        },
+        {
+            "charBegin": 685,
+            "charEnd": 696,
+            "id": 116,
+            "sentence": 7,
+            "text": "Krankenhaus",
+            "word": 7
+        },
+        {
+            "charBegin": 697,
+            "charEnd": 701,
+            "id": 117,
+            "sentence": 7,
+            "text": "nach",
+            "word": 8
+        },
+        {
+            "charBegin": 702,
+            "charEnd": 707,
+            "id": 118,
+            "sentence": 7,
+            "text": "Halle",
+            "word": 9
+        },
+        {
+            "charBegin": 708,
+            "charEnd": 716,
+            "id": 119,
+            "sentence": 7,
+            "text": "gebracht",
+            "word": 10
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 723,
+            "id": 120,
+            "sentence": 7,
+            "text": "werden",
+            "word": 11
+        },
+        {
+            "charBegin": 723,
+            "charEnd": 724,
+            "id": 121,
+            "sentence": 7,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 725,
+            "charEnd": 729,
+            "id": 122,
+            "sentence": 8,
+            "text": "Dort",
+            "word": 1
+        },
+        {
+            "charBegin": 730,
+            "charEnd": 735,
+            "id": 123,
+            "sentence": 8,
+            "text": "wurde",
+            "word": 2
+        },
+        {
+            "charBegin": 736,
+            "charEnd": 739,
+            "id": 124,
+            "sentence": 8,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 740,
+            "charEnd": 745,
+            "id": 125,
+            "sentence": 8,
+            "text": "Kugel",
+            "word": 4
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 754,
+            "id": 126,
+            "sentence": 8,
+            "text": "operativ",
+            "word": 5
+        },
+        {
+            "charBegin": 755,
+            "charEnd": 758,
+            "id": 127,
+            "sentence": 8,
+            "text": "aus",
+            "word": 6
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 765,
+            "id": 128,
+            "sentence": 8,
+            "text": "seinem",
+            "word": 7
+        },
+        {
+            "charBegin": 766,
+            "charEnd": 770,
+            "id": 129,
+            "sentence": 8,
+            "text": "Knie",
+            "word": 8
+        },
+        {
+            "charBegin": 771,
+            "charEnd": 779,
+            "id": 130,
+            "sentence": 8,
+            "text": "entfernt",
+            "word": 9
+        },
+        {
+            "charBegin": 779,
+            "charEnd": 780,
+            "id": 131,
+            "sentence": 8,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 783,
+            "charEnd": 786,
+            "id": 132,
+            "sentence": 9,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 799,
+            "id": 133,
+            "sentence": 9,
+            "text": "Ermittlungen",
+            "word": 2
+        },
+        {
+            "charBegin": 800,
+            "charEnd": 803,
+            "id": 134,
+            "sentence": 9,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 804,
+            "charEnd": 819,
+            "id": 135,
+            "sentence": 9,
+            "text": "Kriminalpolizei",
+            "word": 4
+        },
+        {
+            "charBegin": 820,
+            "charEnd": 824,
+            "id": 136,
+            "sentence": 9,
+            "text": "sind",
+            "word": 5
+        },
+        {
+            "charBegin": 825,
+            "charEnd": 829,
+            "id": 137,
+            "sentence": 9,
+            "text": "sind",
+            "word": 6
+        },
+        {
+            "charBegin": 830,
+            "charEnd": 834,
+            "id": 138,
+            "sentence": 9,
+            "text": "noch",
+            "word": 7
+        },
+        {
+            "charBegin": 835,
+            "charEnd": 837,
+            "id": 139,
+            "sentence": 9,
+            "text": "am",
+            "word": 8
+        },
+        {
+            "charBegin": 838,
+            "charEnd": 846,
+            "id": 140,
+            "sentence": 9,
+            "text": "gleichen",
+            "word": 9
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 850,
+            "id": 141,
+            "sentence": 9,
+            "text": "Tag",
+            "word": 10
+        },
+        {
+            "charBegin": 851,
+            "charEnd": 861,
+            "id": 142,
+            "sentence": 9,
+            "text": "angelaufen",
+            "word": 11
+        },
+        {
+            "charBegin": 861,
+            "charEnd": 862,
+            "id": 143,
+            "sentence": 9,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 863,
+            "charEnd": 866,
+            "id": 144,
+            "sentence": 10,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 867,
+            "charEnd": 872,
+            "id": 145,
+            "sentence": 10,
+            "text": "Jäger",
+            "word": 2
+        },
+        {
+            "charBegin": 873,
+            "charEnd": 876,
+            "id": 146,
+            "sentence": 10,
+            "text": "aus",
+            "word": 3
+        },
+        {
+            "charBegin": 877,
+            "charEnd": 880,
+            "id": 147,
+            "sentence": 10,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 881,
+            "charEnd": 887,
+            "id": 148,
+            "sentence": 10,
+            "text": "Gruppe",
+            "word": 5
+        },
+        {
+            "charBegin": 887,
+            "charEnd": 888,
+            "id": 149,
+            "sentence": 10,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 889,
+            "charEnd": 892,
+            "id": 150,
+            "sentence": 10,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 893,
+            "charEnd": 896,
+            "id": 151,
+            "sentence": 10,
+            "text": "den",
+            "word": 8
+        },
+        {
+            "charBegin": 897,
+            "charEnd": 903,
+            "id": 152,
+            "sentence": 10,
+            "text": "Schuss",
+            "word": 9
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 909,
+            "id": 153,
+            "sentence": 10,
+            "text": "abgab",
+            "word": 10
+        },
+        {
+            "charBegin": 909,
+            "charEnd": 910,
+            "id": 154,
+            "sentence": 10,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 911,
+            "charEnd": 914,
+            "id": 155,
+            "sentence": 10,
+            "text": "ist",
+            "word": 12
+        },
+        {
+            "charBegin": 915,
+            "charEnd": 918,
+            "id": 156,
+            "sentence": 10,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 919,
+            "charEnd": 926,
+            "id": 157,
+            "sentence": 10,
+            "text": "Polizei",
+            "word": 14
+        },
+        {
+            "charBegin": 927,
+            "charEnd": 937,
+            "id": 158,
+            "sentence": 10,
+            "text": "namentlich",
+            "word": 15
+        },
+        {
+            "charBegin": 938,
+            "charEnd": 945,
+            "id": 159,
+            "sentence": 10,
+            "text": "bekannt",
+            "word": 16
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 946,
+            "id": 160,
+            "sentence": 10,
+            "text": ".",
+            "word": 17
+        }
+    ]
+}

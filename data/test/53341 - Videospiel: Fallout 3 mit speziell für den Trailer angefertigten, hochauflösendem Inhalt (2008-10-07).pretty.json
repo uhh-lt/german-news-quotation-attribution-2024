@@ -1,0 +1,6663 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 140,
+                        "charBegin": 877,
+                        "charEnd": 1042,
+                        "end": 163
+                    }
+                ],
+                "text": "Ein Vertreter des fiktiven Atomschutzbunker-Herstellers „Vault-Tec“ propagiert in dem Teil die Vorzüge dieser Habitate für den imminent drohenden atomaren Ernstfall.",
+                "tokenIds": [
+                    140,
+                    141,
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148,
+                    149,
+                    150,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    162
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 140,
+                        "charBegin": 877,
+                        "charEnd": 944,
+                        "end": 148
+                    }
+                ],
+                "text": "Ein Vertreter des fiktiven Atomschutzbunker-Herstellers „Vault-Tec“",
+                "tokenIds": [
+                    140,
+                    141,
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 274,
+                        "charBegin": 1765,
+                        "charEnd": 1782,
+                        "end": 276
+                    }
+                ],
+                "text": "Integriert wurden",
+                "tokenIds": [
+                    274,
+                    275
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 274,
+                        "charBegin": 1765,
+                        "charEnd": 1847,
+                        "end": 284
+                    }
+                ],
+                "text": "Integriert wurden auch für amerikanische Lehrvideos typische schriftliche Zusätze,",
+                "tokenIds": [
+                    274,
+                    275,
+                    276,
+                    277,
+                    278,
+                    279,
+                    280,
+                    281,
+                    282,
+                    283
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 284,
+                        "charBegin": 1848,
+                        "charEnd": 1974,
+                        "end": 305
+                    }
+                ],
+                "text": "dass es sich bei dem im Hintergrund im Fenster zu sehenden Atomblitz und der Atompilzwolke nicht um eine echte Zündung handele",
+                "tokenIds": [
+                    284,
+                    285,
+                    286,
+                    287,
+                    288,
+                    289,
+                    290,
+                    291,
+                    292,
+                    293,
+                    294,
+                    295,
+                    296,
+                    297,
+                    298,
+                    299,
+                    300,
+                    301,
+                    302,
+                    303,
+                    304
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 281,
+                        "charBegin": 1826,
+                        "charEnd": 1846,
+                        "end": 283
+                    }
+                ],
+                "text": "schriftliche Zusätze",
+                "tokenIds": [
+                    281,
+                    282
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 408,
+                        "charBegin": 2606,
+                        "charEnd": 2610,
+                        "end": 409
+                    }
+                ],
+                "text": "laut",
+                "tokenIds": [
+                    408
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 408,
+                        "charBegin": 2606,
+                        "charEnd": 2628,
+                        "end": 410
+                    }
+                ],
+                "text": "laut Entwickleraussage",
+                "tokenIds": [
+                    408,
+                    409
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 406,
+                        "charBegin": 2597,
+                        "charEnd": 2605,
+                        "end": 408
+                    },
+                    {
+                        "begin": 410,
+                        "charBegin": 2629,
+                        "charEnd": 2696,
+                        "end": 421
+                    }
+                ],
+                "text": "Es wurde jedoch nicht darüber diskutiert, ob dieser im Spiel integriert wird",
+                "tokenIds": [
+                    406,
+                    407,
+                    410,
+                    411,
+                    412,
+                    413,
+                    414,
+                    415,
+                    416,
+                    417,
+                    418,
+                    419,
+                    420
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 409,
+                        "charBegin": 2611,
+                        "charEnd": 2628,
+                        "end": 410
+                    }
+                ],
+                "text": "Entwickleraussage",
+                "tokenIds": [
+                    409
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "53341 - Videospiel: Fallout 3 mit speziell für den Trailer angefertigten, hochauflösendem Inhalt (2008-10-07)",
+    "originalText": "Die Computerspielreihe „Fallout“ – bekannt für ihre düstere Zukunftsvision nach einem Atomkrieg, für ihre Handlungsfreiheit und schwarzen Humor – wird am 31. Oktober 2008 europaweit mit dem neuen dritten Teil im Laden erhältlich sein. Im Vorfeld wurden dazu bereits zwei Trailer veröffentlicht.\n\nDer erste Teaser-Trailer zeigte einen hochaufgelösten, aber kurzen Ausblick eines zerstörten Washington D.C. als Hauptstadt der nicht mehr existenten Vereinigten Staaten. All dieses wurde in Spielgrafik gerendert. Der Trailer-Ausschnitt wurde mit dem Song „I don't want to set the World on fire“ untermalt und schließt mit der aus den bisherigen Spielen bekannten Aussage „WAR, War never changes“.\n\nDer zweite Trailer wurde im Stil einer 1950-er-Jahre Werbung gehalten: In ihm wird eine für damalige Verhältnisse klassische, aber überspitzte Familiensituation am Esstisch gezeigt. Ein Vertreter des fiktiven Atomschutzbunker-Herstellers „Vault-Tec“ propagiert in dem Teil die Vorzüge dieser Habitate für den imminent drohenden atomaren Ernstfall. Dieser Trailer ist ebenfalls hochauflösend und wurde im Breitbildformat produziert, zeigt jedoch den Vault-Tec-Anteil mit realen Schauspielern im 4:3-Bildformat, wie es zu dieser Zeit für das Kino und aufkommende Fernsehen Standard war.\n\nDie Berücksichtigung damaliger Technik und Integration in das Spielgeschehen durch eine Art Retrosetting ist ebenso ersichtlich wie auch die Anspielung auf alles zum Atomkrieg Passende: Sei es direkt durch einen kurzen Blick auf die Zeitung mit dem Hinweis auf die für die Hintergrundgeschichte wichtige Invasion Chinas in Alaska oder durch die Zurschaustellung von Nahrungsmitteln mit Namen wie „Sugar Bombs“, deren Logo eine Bombe in Form der ersten, amerikanischen Atombomben ist. Integriert wurden auch für amerikanische Lehrvideos typische schriftliche Zusätze, dass es sich bei dem im Hintergrund im Fenster zu sehenden Atomblitz und der Atompilzwolke nicht um eine echte Zündung handele. Auch kurze Zeichentricksequenzen mit der Werbefigur der Firma, dem „Vault-Boy“, sind vorhanden.\nNach der „Werbesequenz“ zoomt das Bild aus einem alten Röhrenfernseher und verbreitert sich auf das tatsächlich genutzte Breitbild des Videos. Es zeigt danach Spielszenen direkt in der Spielegrafik.\n\nVideospiele werden immer häufiger mit hochauflösenden Videos beworben, die sich aber meistens aus Spielszenen zusammensetzen und auch direkt aus dem Spiel entnommen wurden.\n\nFür „Fallout 3“ erstellte die Entwickler Bethesda Game Studios extra für die Werbung diese Szenen. Der Teaser-Trailer ist zwar in Spielgrafik gemacht. Es wurde laut Entwickleraussage jedoch nicht darüber diskutiert, ob dieser im Spiel integriert wird. Der zweite Trailer mit realen Schauspielern ist nur für Werbezwecke erstellt worden und wird im Spiel nicht auftauchen. Es ist das erste Mal, dass so ein Aufwand im Spielebereich für die Werbung getätigt wurde. Beide Trailer sind auf der Herstellerseite als 720p29.96 als Download verfügbar.\n\nDas Spiel an sich liefert hochauflösende Grafiken, allerdings wurden noch keine Mindestanforderungen veröffentlicht, die ein System haben muss, auf dem das Spiel läuft. \n\nNähere Angaben zur maximalen Auflösung und zur Audiowiedergabe des Spieles sind noch nicht verfügbar und werden noch veröffentlicht. Für die Spielgrafik-Engine wird eine veränderte Version der Engine verwendet, die zuvor in „The Elder Scrolls IV: Oblivion“, ebenfalls einem Bethesda-Spiel, zum Einsatz kam. In diesem wurden bereits Auflösungen bis 1920*1080, was HDTV-konform ist, im echten Widescreen unterstützt. Im Widescreen-Modus (16:9) ist sogar etwas mehr in der Horizontalen zu erkennen, was bei anderen Spielen nicht möglich ist, da bei denen das 4:3-Bild nur mit optischen Tricks auf das Verhältnis 16:9 angepasst wird.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 145,
+            "end": 22,
+            "id": 0,
+            "text": "Die Computerspielreihe „Fallout“ – bekannt für ihre düstere Zukunftsvision nach einem Atomkrieg, für ihre Handlungsfreiheit und schwarzen Humor – ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Die",
+                "Computerspielreihe",
+                "„",
+                "Fallout",
+                "“",
+                "–",
+                "bekannt",
+                "für",
+                "ihre",
+                "düstere",
+                "Zukunftsvision",
+                "nach",
+                "einem",
+                "Atomkrieg",
+                ",",
+                "für",
+                "ihre",
+                "Handlungsfreiheit",
+                "und",
+                "schwarzen",
+                "Humor",
+                "–"
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 146,
+            "charEnd": 234,
+            "end": 38,
+            "id": 1,
+            "text": "wird am 31. Oktober 2008 europaweit mit dem neuen dritten Teil im Laden erhältlich sein. ",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37
+            ],
+            "tokens": [
+                "wird",
+                "am",
+                "31.",
+                "Oktober",
+                "2008",
+                "europaweit",
+                "mit",
+                "dem",
+                "neuen",
+                "dritten",
+                "Teil",
+                "im",
+                "Laden",
+                "erhältlich",
+                "sein",
+                "."
+            ]
+        },
+        {
+            "begin": 38,
+            "charBegin": 235,
+            "charEnd": 294,
+            "end": 47,
+            "id": 2,
+            "text": "Im Vorfeld wurden dazu bereits zwei Trailer veröffentlicht.",
+            "tokenIds": [
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46
+            ],
+            "tokens": [
+                "Im",
+                "Vorfeld",
+                "wurden",
+                "dazu",
+                "bereits",
+                "zwei",
+                "Trailer",
+                "veröffentlicht",
+                "."
+            ]
+        },
+        {
+            "begin": 47,
+            "charBegin": 296,
+            "charEnd": 466,
+            "end": 70,
+            "id": 3,
+            "text": "Der erste Teaser-Trailer zeigte einen hochaufgelösten, aber kurzen Ausblick eines zerstörten Washington D.C. als Hauptstadt der nicht mehr existenten Vereinigten Staaten. ",
+            "tokenIds": [
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69
+            ],
+            "tokens": [
+                "Der",
+                "erste",
+                "Teaser-Trailer",
+                "zeigte",
+                "einen",
+                "hochaufgelösten",
+                ",",
+                "aber",
+                "kurzen",
+                "Ausblick",
+                "eines",
+                "zerstörten",
+                "Washington",
+                "D.C.",
+                "als",
+                "Hauptstadt",
+                "der",
+                "nicht",
+                "mehr",
+                "existenten",
+                "Vereinigten",
+                "Staaten",
+                "."
+            ]
+        },
+        {
+            "begin": 70,
+            "charBegin": 467,
+            "charEnd": 509,
+            "end": 77,
+            "id": 4,
+            "text": "All dieses wurde in Spielgrafik gerendert. ",
+            "tokenIds": [
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76
+            ],
+            "tokens": [
+                "All",
+                "dieses",
+                "wurde",
+                "in",
+                "Spielgrafik",
+                "gerendert",
+                "."
+            ]
+        },
+        {
+            "begin": 77,
+            "charBegin": 510,
+            "charEnd": 693,
+            "end": 113,
+            "id": 5,
+            "text": "Der Trailer-Ausschnitt wurde mit dem Song „I don't want to set the World on fire“ untermalt und schließt mit der aus den bisherigen Spielen bekannten Aussage „WAR, War never changes“.",
+            "tokenIds": [
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112
+            ],
+            "tokens": [
+                "Der",
+                "Trailer-Ausschnitt",
+                "wurde",
+                "mit",
+                "dem",
+                "Song",
+                "„",
+                "I",
+                "don't",
+                "want",
+                "to",
+                "set",
+                "the",
+                "World",
+                "on",
+                "fire",
+                "“",
+                "untermalt",
+                "und",
+                "schließt",
+                "mit",
+                "der",
+                "aus",
+                "den",
+                "bisherigen",
+                "Spielen",
+                "bekannten",
+                "Aussage",
+                "„",
+                "WAR",
+                ",",
+                "War",
+                "never",
+                "changes",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 113,
+            "charBegin": 695,
+            "charEnd": 765,
+            "end": 124,
+            "id": 6,
+            "text": "Der zweite Trailer wurde im Stil einer 1950-er-Jahre Werbung gehalten: ",
+            "tokenIds": [
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123
+            ],
+            "tokens": [
+                "Der",
+                "zweite",
+                "Trailer",
+                "wurde",
+                "im",
+                "Stil",
+                "einer",
+                "1950-er-Jahre",
+                "Werbung",
+                "gehalten",
+                ":"
+            ]
+        },
+        {
+            "begin": 124,
+            "charBegin": 766,
+            "charEnd": 876,
+            "end": 140,
+            "id": 7,
+            "text": "In ihm wird eine für damalige Verhältnisse klassische, aber überspitzte Familiensituation am Esstisch gezeigt. ",
+            "tokenIds": [
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139
+            ],
+            "tokens": [
+                "In",
+                "ihm",
+                "wird",
+                "eine",
+                "für",
+                "damalige",
+                "Verhältnisse",
+                "klassische",
+                ",",
+                "aber",
+                "überspitzte",
+                "Familiensituation",
+                "am",
+                "Esstisch",
+                "gezeigt",
+                "."
+            ]
+        },
+        {
+            "begin": 140,
+            "charBegin": 877,
+            "charEnd": 1042,
+            "end": 163,
+            "id": 8,
+            "text": "Ein Vertreter des fiktiven Atomschutzbunker-Herstellers „Vault-Tec“ propagiert in dem Teil die Vorzüge dieser Habitate für den imminent drohenden atomaren Ernstfall. ",
+            "tokenIds": [
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162
+            ],
+            "tokens": [
+                "Ein",
+                "Vertreter",
+                "des",
+                "fiktiven",
+                "Atomschutzbunker-Herstellers",
+                "„",
+                "Vault-Tec",
+                "“",
+                "propagiert",
+                "in",
+                "dem",
+                "Teil",
+                "die",
+                "Vorzüge",
+                "dieser",
+                "Habitate",
+                "für",
+                "den",
+                "imminent",
+                "drohenden",
+                "atomaren",
+                "Ernstfall",
+                "."
+            ]
+        },
+        {
+            "begin": 163,
+            "charBegin": 1043,
+            "charEnd": 1279,
+            "end": 198,
+            "id": 9,
+            "text": "Dieser Trailer ist ebenfalls hochauflösend und wurde im Breitbildformat produziert, zeigt jedoch den Vault-Tec-Anteil mit realen Schauspielern im 4:3-Bildformat, wie es zu dieser Zeit für das Kino und aufkommende Fernsehen Standard war.",
+            "tokenIds": [
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197
+            ],
+            "tokens": [
+                "Dieser",
+                "Trailer",
+                "ist",
+                "ebenfalls",
+                "hochauflösend",
+                "und",
+                "wurde",
+                "im",
+                "Breitbildformat",
+                "produziert",
+                ",",
+                "zeigt",
+                "jedoch",
+                "den",
+                "Vault-Tec-Anteil",
+                "mit",
+                "realen",
+                "Schauspielern",
+                "im",
+                "4:3-Bildformat",
+                ",",
+                "wie",
+                "es",
+                "zu",
+                "dieser",
+                "Zeit",
+                "für",
+                "das",
+                "Kino",
+                "und",
+                "aufkommende",
+                "Fernsehen",
+                "Standard",
+                "war",
+                "."
+            ]
+        },
+        {
+            "begin": 198,
+            "charBegin": 1281,
+            "charEnd": 1466,
+            "end": 224,
+            "id": 10,
+            "text": "Die Berücksichtigung damaliger Technik und Integration in das Spielgeschehen durch eine Art Retrosetting ist ebenso ersichtlich wie auch die Anspielung auf alles zum Atomkrieg Passende: ",
+            "tokenIds": [
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223
+            ],
+            "tokens": [
+                "Die",
+                "Berücksichtigung",
+                "damaliger",
+                "Technik",
+                "und",
+                "Integration",
+                "in",
+                "das",
+                "Spielgeschehen",
+                "durch",
+                "eine",
+                "Art",
+                "Retrosetting",
+                "ist",
+                "ebenso",
+                "ersichtlich",
+                "wie",
+                "auch",
+                "die",
+                "Anspielung",
+                "auf",
+                "alles",
+                "zum",
+                "Atomkrieg",
+                "Passende",
+                ":"
+            ]
+        },
+        {
+            "begin": 224,
+            "charBegin": 1467,
+            "charEnd": 1764,
+            "end": 274,
+            "id": 11,
+            "text": "Sei es direkt durch einen kurzen Blick auf die Zeitung mit dem Hinweis auf die für die Hintergrundgeschichte wichtige Invasion Chinas in Alaska oder durch die Zurschaustellung von Nahrungsmitteln mit Namen wie „Sugar Bombs“, deren Logo eine Bombe in Form der ersten, amerikanischen Atombomben ist. ",
+            "tokenIds": [
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273
+            ],
+            "tokens": [
+                "Sei",
+                "es",
+                "direkt",
+                "durch",
+                "einen",
+                "kurzen",
+                "Blick",
+                "auf",
+                "die",
+                "Zeitung",
+                "mit",
+                "dem",
+                "Hinweis",
+                "auf",
+                "die",
+                "für",
+                "die",
+                "Hintergrundgeschichte",
+                "wichtige",
+                "Invasion",
+                "Chinas",
+                "in",
+                "Alaska",
+                "oder",
+                "durch",
+                "die",
+                "Zurschaustellung",
+                "von",
+                "Nahrungsmitteln",
+                "mit",
+                "Namen",
+                "wie",
+                "„",
+                "Sugar",
+                "Bombs",
+                "“",
+                ",",
+                "deren",
+                "Logo",
+                "eine",
+                "Bombe",
+                "in",
+                "Form",
+                "der",
+                "ersten",
+                ",",
+                "amerikanischen",
+                "Atombomben",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "begin": 274,
+            "charBegin": 1765,
+            "charEnd": 1975,
+            "end": 306,
+            "id": 12,
+            "text": "Integriert wurden auch für amerikanische Lehrvideos typische schriftliche Zusätze, dass es sich bei dem im Hintergrund im Fenster zu sehenden Atomblitz und der Atompilzwolke nicht um eine echte Zündung handele. ",
+            "tokenIds": [
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292,
+                293,
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305
+            ],
+            "tokens": [
+                "Integriert",
+                "wurden",
+                "auch",
+                "für",
+                "amerikanische",
+                "Lehrvideos",
+                "typische",
+                "schriftliche",
+                "Zusätze",
+                ",",
+                "dass",
+                "es",
+                "sich",
+                "bei",
+                "dem",
+                "im",
+                "Hintergrund",
+                "im",
+                "Fenster",
+                "zu",
+                "sehenden",
+                "Atomblitz",
+                "und",
+                "der",
+                "Atompilzwolke",
+                "nicht",
+                "um",
+                "eine",
+                "echte",
+                "Zündung",
+                "handele",
+                "."
+            ]
+        },
+        {
+            "begin": 306,
+            "charBegin": 1976,
+            "charEnd": 2071,
+            "end": 323,
+            "id": 13,
+            "text": "Auch kurze Zeichentricksequenzen mit der Werbefigur der Firma, dem „Vault-Boy“, sind vorhanden.",
+            "tokenIds": [
+                306,
+                307,
+                308,
+                309,
+                310,
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322
+            ],
+            "tokens": [
+                "Auch",
+                "kurze",
+                "Zeichentricksequenzen",
+                "mit",
+                "der",
+                "Werbefigur",
+                "der",
+                "Firma",
+                ",",
+                "dem",
+                "„",
+                "Vault-Boy",
+                "“",
+                ",",
+                "sind",
+                "vorhanden",
+                "."
+            ]
+        },
+        {
+            "begin": 323,
+            "charBegin": 2072,
+            "charEnd": 2214,
+            "end": 346,
+            "id": 14,
+            "text": "Nach der „Werbesequenz“ zoomt das Bild aus einem alten Röhrenfernseher und verbreitert sich auf das tatsächlich genutzte Breitbild des Videos. ",
+            "tokenIds": [
+                323,
+                324,
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332,
+                333,
+                334,
+                335,
+                336,
+                337,
+                338,
+                339,
+                340,
+                341,
+                342,
+                343,
+                344,
+                345
+            ],
+            "tokens": [
+                "Nach",
+                "der",
+                "„",
+                "Werbesequenz",
+                "“",
+                "zoomt",
+                "das",
+                "Bild",
+                "aus",
+                "einem",
+                "alten",
+                "Röhrenfernseher",
+                "und",
+                "verbreitert",
+                "sich",
+                "auf",
+                "das",
+                "tatsächlich",
+                "genutzte",
+                "Breitbild",
+                "des",
+                "Videos",
+                "."
+            ]
+        },
+        {
+            "begin": 346,
+            "charBegin": 2215,
+            "charEnd": 2270,
+            "end": 355,
+            "id": 15,
+            "text": "Es zeigt danach Spielszenen direkt in der Spielegrafik.",
+            "tokenIds": [
+                346,
+                347,
+                348,
+                349,
+                350,
+                351,
+                352,
+                353,
+                354
+            ],
+            "tokens": [
+                "Es",
+                "zeigt",
+                "danach",
+                "Spielszenen",
+                "direkt",
+                "in",
+                "der",
+                "Spielegrafik",
+                "."
+            ]
+        },
+        {
+            "begin": 355,
+            "charBegin": 2272,
+            "charEnd": 2444,
+            "end": 380,
+            "id": 16,
+            "text": "Videospiele werden immer häufiger mit hochauflösenden Videos beworben, die sich aber meistens aus Spielszenen zusammensetzen und auch direkt aus dem Spiel entnommen wurden.",
+            "tokenIds": [
+                355,
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365,
+                366,
+                367,
+                368,
+                369,
+                370,
+                371,
+                372,
+                373,
+                374,
+                375,
+                376,
+                377,
+                378,
+                379
+            ],
+            "tokens": [
+                "Videospiele",
+                "werden",
+                "immer",
+                "häufiger",
+                "mit",
+                "hochauflösenden",
+                "Videos",
+                "beworben",
+                ",",
+                "die",
+                "sich",
+                "aber",
+                "meistens",
+                "aus",
+                "Spielszenen",
+                "zusammensetzen",
+                "und",
+                "auch",
+                "direkt",
+                "aus",
+                "dem",
+                "Spiel",
+                "entnommen",
+                "wurden",
+                "."
+            ]
+        },
+        {
+            "begin": 380,
+            "charBegin": 2446,
+            "charEnd": 2544,
+            "end": 398,
+            "id": 17,
+            "text": "Für „Fallout 3“ erstellte die Entwickler Bethesda Game Studios extra für die Werbung diese Szenen. ",
+            "tokenIds": [
+                380,
+                381,
+                382,
+                383,
+                384,
+                385,
+                386,
+                387,
+                388,
+                389,
+                390,
+                391,
+                392,
+                393,
+                394,
+                395,
+                396,
+                397
+            ],
+            "tokens": [
+                "Für",
+                "„",
+                "Fallout",
+                "3",
+                "“",
+                "erstellte",
+                "die",
+                "Entwickler",
+                "Bethesda",
+                "Game",
+                "Studios",
+                "extra",
+                "für",
+                "die",
+                "Werbung",
+                "diese",
+                "Szenen",
+                "."
+            ]
+        },
+        {
+            "begin": 398,
+            "charBegin": 2545,
+            "charEnd": 2596,
+            "end": 406,
+            "id": 18,
+            "text": "Der Teaser-Trailer ist zwar in Spielgrafik gemacht. ",
+            "tokenIds": [
+                398,
+                399,
+                400,
+                401,
+                402,
+                403,
+                404,
+                405
+            ],
+            "tokens": [
+                "Der",
+                "Teaser-Trailer",
+                "ist",
+                "zwar",
+                "in",
+                "Spielgrafik",
+                "gemacht",
+                "."
+            ]
+        },
+        {
+            "begin": 406,
+            "charBegin": 2597,
+            "charEnd": 2697,
+            "end": 422,
+            "id": 19,
+            "text": "Es wurde laut Entwickleraussage jedoch nicht darüber diskutiert, ob dieser im Spiel integriert wird. ",
+            "tokenIds": [
+                406,
+                407,
+                408,
+                409,
+                410,
+                411,
+                412,
+                413,
+                414,
+                415,
+                416,
+                417,
+                418,
+                419,
+                420,
+                421
+            ],
+            "tokens": [
+                "Es",
+                "wurde",
+                "laut",
+                "Entwickleraussage",
+                "jedoch",
+                "nicht",
+                "darüber",
+                "diskutiert",
+                ",",
+                "ob",
+                "dieser",
+                "im",
+                "Spiel",
+                "integriert",
+                "wird",
+                "."
+            ]
+        },
+        {
+            "begin": 422,
+            "charBegin": 2698,
+            "charEnd": 2817,
+            "end": 441,
+            "id": 20,
+            "text": "Der zweite Trailer mit realen Schauspielern ist nur für Werbezwecke erstellt worden und wird im Spiel nicht auftauchen. ",
+            "tokenIds": [
+                422,
+                423,
+                424,
+                425,
+                426,
+                427,
+                428,
+                429,
+                430,
+                431,
+                432,
+                433,
+                434,
+                435,
+                436,
+                437,
+                438,
+                439,
+                440
+            ],
+            "tokens": [
+                "Der",
+                "zweite",
+                "Trailer",
+                "mit",
+                "realen",
+                "Schauspielern",
+                "ist",
+                "nur",
+                "für",
+                "Werbezwecke",
+                "erstellt",
+                "worden",
+                "und",
+                "wird",
+                "im",
+                "Spiel",
+                "nicht",
+                "auftauchen",
+                "."
+            ]
+        },
+        {
+            "begin": 441,
+            "charBegin": 2818,
+            "charEnd": 2908,
+            "end": 459,
+            "id": 21,
+            "text": "Es ist das erste Mal, dass so ein Aufwand im Spielebereich für die Werbung getätigt wurde. ",
+            "tokenIds": [
+                441,
+                442,
+                443,
+                444,
+                445,
+                446,
+                447,
+                448,
+                449,
+                450,
+                451,
+                452,
+                453,
+                454,
+                455,
+                456,
+                457,
+                458
+            ],
+            "tokens": [
+                "Es",
+                "ist",
+                "das",
+                "erste",
+                "Mal",
+                ",",
+                "dass",
+                "so",
+                "ein",
+                "Aufwand",
+                "im",
+                "Spielebereich",
+                "für",
+                "die",
+                "Werbung",
+                "getätigt",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "begin": 459,
+            "charBegin": 2909,
+            "charEnd": 2989,
+            "end": 471,
+            "id": 22,
+            "text": "Beide Trailer sind auf der Herstellerseite als 720p29.96 als Download verfügbar.",
+            "tokenIds": [
+                459,
+                460,
+                461,
+                462,
+                463,
+                464,
+                465,
+                466,
+                467,
+                468,
+                469,
+                470
+            ],
+            "tokens": [
+                "Beide",
+                "Trailer",
+                "sind",
+                "auf",
+                "der",
+                "Herstellerseite",
+                "als",
+                "720p29.96",
+                "als",
+                "Download",
+                "verfügbar",
+                "."
+            ]
+        },
+        {
+            "begin": 471,
+            "charBegin": 2991,
+            "charEnd": 3159,
+            "end": 498,
+            "id": 23,
+            "text": "Das Spiel an sich liefert hochauflösende Grafiken, allerdings wurden noch keine Mindestanforderungen veröffentlicht, die ein System haben muss, auf dem das Spiel läuft. ",
+            "tokenIds": [
+                471,
+                472,
+                473,
+                474,
+                475,
+                476,
+                477,
+                478,
+                479,
+                480,
+                481,
+                482,
+                483,
+                484,
+                485,
+                486,
+                487,
+                488,
+                489,
+                490,
+                491,
+                492,
+                493,
+                494,
+                495,
+                496,
+                497
+            ],
+            "tokens": [
+                "Das",
+                "Spiel",
+                "an",
+                "sich",
+                "liefert",
+                "hochauflösende",
+                "Grafiken",
+                ",",
+                "allerdings",
+                "wurden",
+                "noch",
+                "keine",
+                "Mindestanforderungen",
+                "veröffentlicht",
+                ",",
+                "die",
+                "ein",
+                "System",
+                "haben",
+                "muss",
+                ",",
+                "auf",
+                "dem",
+                "das",
+                "Spiel",
+                "läuft",
+                "."
+            ]
+        },
+        {
+            "begin": 498,
+            "charBegin": 3162,
+            "charEnd": 3168,
+            "end": 499,
+            "id": 24,
+            "text": "Nähere ",
+            "tokenIds": [
+                498
+            ],
+            "tokens": [
+                "Nähere"
+            ]
+        },
+        {
+            "begin": 499,
+            "charBegin": 3169,
+            "charEnd": 3294,
+            "end": 517,
+            "id": 25,
+            "text": "Angaben zur maximalen Auflösung und zur Audiowiedergabe des Spieles sind noch nicht verfügbar und werden noch veröffentlicht. ",
+            "tokenIds": [
+                499,
+                500,
+                501,
+                502,
+                503,
+                504,
+                505,
+                506,
+                507,
+                508,
+                509,
+                510,
+                511,
+                512,
+                513,
+                514,
+                515,
+                516
+            ],
+            "tokens": [
+                "Angaben",
+                "zur",
+                "maximalen",
+                "Auflösung",
+                "und",
+                "zur",
+                "Audiowiedergabe",
+                "des",
+                "Spieles",
+                "sind",
+                "noch",
+                "nicht",
+                "verfügbar",
+                "und",
+                "werden",
+                "noch",
+                "veröffentlicht",
+                "."
+            ]
+        },
+        {
+            "begin": 517,
+            "charBegin": 3295,
+            "charEnd": 3468,
+            "end": 548,
+            "id": 26,
+            "text": "Für die Spielgrafik-Engine wird eine veränderte Version der Engine verwendet, die zuvor in „The Elder Scrolls IV: Oblivion“, ebenfalls einem Bethesda-Spiel, zum Einsatz kam. ",
+            "tokenIds": [
+                517,
+                518,
+                519,
+                520,
+                521,
+                522,
+                523,
+                524,
+                525,
+                526,
+                527,
+                528,
+                529,
+                530,
+                531,
+                532,
+                533,
+                534,
+                535,
+                536,
+                537,
+                538,
+                539,
+                540,
+                541,
+                542,
+                543,
+                544,
+                545,
+                546,
+                547
+            ],
+            "tokens": [
+                "Für",
+                "die",
+                "Spielgrafik-Engine",
+                "wird",
+                "eine",
+                "veränderte",
+                "Version",
+                "der",
+                "Engine",
+                "verwendet",
+                ",",
+                "die",
+                "zuvor",
+                "in",
+                "„",
+                "The",
+                "Elder",
+                "Scrolls",
+                "IV",
+                ":",
+                "Oblivion",
+                "“",
+                ",",
+                "ebenfalls",
+                "einem",
+                "Bethesda-Spiel",
+                ",",
+                "zum",
+                "Einsatz",
+                "kam",
+                "."
+            ]
+        },
+        {
+            "begin": 548,
+            "charBegin": 3469,
+            "charEnd": 3576,
+            "end": 565,
+            "id": 27,
+            "text": "In diesem wurden bereits Auflösungen bis 1920*1080, was HDTV-konform ist, im echten Widescreen unterstützt. ",
+            "tokenIds": [
+                548,
+                549,
+                550,
+                551,
+                552,
+                553,
+                554,
+                555,
+                556,
+                557,
+                558,
+                559,
+                560,
+                561,
+                562,
+                563,
+                564
+            ],
+            "tokens": [
+                "In",
+                "diesem",
+                "wurden",
+                "bereits",
+                "Auflösungen",
+                "bis",
+                "1920*1080",
+                ",",
+                "was",
+                "HDTV-konform",
+                "ist",
+                ",",
+                "im",
+                "echten",
+                "Widescreen",
+                "unterstützt",
+                "."
+            ]
+        },
+        {
+            "begin": 565,
+            "charBegin": 3577,
+            "charEnd": 3791,
+            "end": 604,
+            "id": 28,
+            "text": "Im Widescreen-Modus (16:9) ist sogar etwas mehr in der Horizontalen zu erkennen, was bei anderen Spielen nicht möglich ist, da bei denen das 4:3-Bild nur mit optischen Tricks auf das Verhältnis 16:9 angepasst wird.",
+            "tokenIds": [
+                565,
+                566,
+                567,
+                568,
+                569,
+                570,
+                571,
+                572,
+                573,
+                574,
+                575,
+                576,
+                577,
+                578,
+                579,
+                580,
+                581,
+                582,
+                583,
+                584,
+                585,
+                586,
+                587,
+                588,
+                589,
+                590,
+                591,
+                592,
+                593,
+                594,
+                595,
+                596,
+                597,
+                598,
+                599,
+                600,
+                601,
+                602,
+                603
+            ],
+            "tokens": [
+                "Im",
+                "Widescreen-Modus",
+                "(",
+                "16:9",
+                ")",
+                "ist",
+                "sogar",
+                "etwas",
+                "mehr",
+                "in",
+                "der",
+                "Horizontalen",
+                "zu",
+                "erkennen",
+                ",",
+                "was",
+                "bei",
+                "anderen",
+                "Spielen",
+                "nicht",
+                "möglich",
+                "ist",
+                ",",
+                "da",
+                "bei",
+                "denen",
+                "das",
+                "4:3-Bild",
+                "nur",
+                "mit",
+                "optischen",
+                "Tricks",
+                "auf",
+                "das",
+                "Verhältnis",
+                "16:9",
+                "angepasst",
+                "wird",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 22,
+            "id": 1,
+            "sentence": 1,
+            "text": "Computerspielreihe",
+            "word": 2
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 24,
+            "id": 2,
+            "sentence": 1,
+            "text": "„",
+            "word": 3
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 31,
+            "id": 3,
+            "sentence": 1,
+            "text": "Fallout",
+            "word": 4
+        },
+        {
+            "charBegin": 31,
+            "charEnd": 32,
+            "id": 4,
+            "sentence": 1,
+            "text": "“",
+            "word": 5
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 34,
+            "id": 5,
+            "sentence": 1,
+            "text": "–",
+            "word": 6
+        },
+        {
+            "charBegin": 35,
+            "charEnd": 42,
+            "id": 6,
+            "sentence": 1,
+            "text": "bekannt",
+            "word": 7
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 46,
+            "id": 7,
+            "sentence": 1,
+            "text": "für",
+            "word": 8
+        },
+        {
+            "charBegin": 47,
+            "charEnd": 51,
+            "id": 8,
+            "sentence": 1,
+            "text": "ihre",
+            "word": 9
+        },
+        {
+            "charBegin": 52,
+            "charEnd": 59,
+            "id": 9,
+            "sentence": 1,
+            "text": "düstere",
+            "word": 10
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 74,
+            "id": 10,
+            "sentence": 1,
+            "text": "Zukunftsvision",
+            "word": 11
+        },
+        {
+            "charBegin": 75,
+            "charEnd": 79,
+            "id": 11,
+            "sentence": 1,
+            "text": "nach",
+            "word": 12
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 85,
+            "id": 12,
+            "sentence": 1,
+            "text": "einem",
+            "word": 13
+        },
+        {
+            "charBegin": 86,
+            "charEnd": 95,
+            "id": 13,
+            "sentence": 1,
+            "text": "Atomkrieg",
+            "word": 14
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 96,
+            "id": 14,
+            "sentence": 1,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 97,
+            "charEnd": 100,
+            "id": 15,
+            "sentence": 1,
+            "text": "für",
+            "word": 16
+        },
+        {
+            "charBegin": 101,
+            "charEnd": 105,
+            "id": 16,
+            "sentence": 1,
+            "text": "ihre",
+            "word": 17
+        },
+        {
+            "charBegin": 106,
+            "charEnd": 123,
+            "id": 17,
+            "sentence": 1,
+            "text": "Handlungsfreiheit",
+            "word": 18
+        },
+        {
+            "charBegin": 124,
+            "charEnd": 127,
+            "id": 18,
+            "sentence": 1,
+            "text": "und",
+            "word": 19
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 137,
+            "id": 19,
+            "sentence": 1,
+            "text": "schwarzen",
+            "word": 20
+        },
+        {
+            "charBegin": 138,
+            "charEnd": 143,
+            "id": 20,
+            "sentence": 1,
+            "text": "Humor",
+            "word": 21
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 145,
+            "id": 21,
+            "sentence": 1,
+            "text": "–",
+            "word": 22
+        },
+        {
+            "charBegin": 146,
+            "charEnd": 150,
+            "id": 22,
+            "sentence": 2,
+            "text": "wird",
+            "word": 1
+        },
+        {
+            "charBegin": 151,
+            "charEnd": 153,
+            "id": 23,
+            "sentence": 2,
+            "text": "am",
+            "word": 2
+        },
+        {
+            "charBegin": 154,
+            "charEnd": 157,
+            "id": 24,
+            "sentence": 2,
+            "text": "31.",
+            "word": 3
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 165,
+            "id": 25,
+            "sentence": 2,
+            "text": "Oktober",
+            "word": 4
+        },
+        {
+            "charBegin": 166,
+            "charEnd": 170,
+            "id": 26,
+            "sentence": 2,
+            "text": "2008",
+            "word": 5
+        },
+        {
+            "charBegin": 171,
+            "charEnd": 181,
+            "id": 27,
+            "sentence": 2,
+            "text": "europaweit",
+            "word": 6
+        },
+        {
+            "charBegin": 182,
+            "charEnd": 185,
+            "id": 28,
+            "sentence": 2,
+            "text": "mit",
+            "word": 7
+        },
+        {
+            "charBegin": 186,
+            "charEnd": 189,
+            "id": 29,
+            "sentence": 2,
+            "text": "dem",
+            "word": 8
+        },
+        {
+            "charBegin": 190,
+            "charEnd": 195,
+            "id": 30,
+            "sentence": 2,
+            "text": "neuen",
+            "word": 9
+        },
+        {
+            "charBegin": 196,
+            "charEnd": 203,
+            "id": 31,
+            "sentence": 2,
+            "text": "dritten",
+            "word": 10
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 208,
+            "id": 32,
+            "sentence": 2,
+            "text": "Teil",
+            "word": 11
+        },
+        {
+            "charBegin": 209,
+            "charEnd": 211,
+            "id": 33,
+            "sentence": 2,
+            "text": "im",
+            "word": 12
+        },
+        {
+            "charBegin": 212,
+            "charEnd": 217,
+            "id": 34,
+            "sentence": 2,
+            "text": "Laden",
+            "word": 13
+        },
+        {
+            "charBegin": 218,
+            "charEnd": 228,
+            "id": 35,
+            "sentence": 2,
+            "text": "erhältlich",
+            "word": 14
+        },
+        {
+            "charBegin": 229,
+            "charEnd": 233,
+            "id": 36,
+            "sentence": 2,
+            "text": "sein",
+            "word": 15
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 234,
+            "id": 37,
+            "sentence": 2,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 235,
+            "charEnd": 237,
+            "id": 38,
+            "sentence": 3,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 238,
+            "charEnd": 245,
+            "id": 39,
+            "sentence": 3,
+            "text": "Vorfeld",
+            "word": 2
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 252,
+            "id": 40,
+            "sentence": 3,
+            "text": "wurden",
+            "word": 3
+        },
+        {
+            "charBegin": 253,
+            "charEnd": 257,
+            "id": 41,
+            "sentence": 3,
+            "text": "dazu",
+            "word": 4
+        },
+        {
+            "charBegin": 258,
+            "charEnd": 265,
+            "id": 42,
+            "sentence": 3,
+            "text": "bereits",
+            "word": 5
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 270,
+            "id": 43,
+            "sentence": 3,
+            "text": "zwei",
+            "word": 6
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 278,
+            "id": 44,
+            "sentence": 3,
+            "text": "Trailer",
+            "word": 7
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 293,
+            "id": 45,
+            "sentence": 3,
+            "text": "veröffentlicht",
+            "word": 8
+        },
+        {
+            "charBegin": 293,
+            "charEnd": 294,
+            "id": 46,
+            "sentence": 3,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 296,
+            "charEnd": 299,
+            "id": 47,
+            "sentence": 4,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 305,
+            "id": 48,
+            "sentence": 4,
+            "text": "erste",
+            "word": 2
+        },
+        {
+            "charBegin": 306,
+            "charEnd": 320,
+            "id": 49,
+            "sentence": 4,
+            "text": "Teaser-Trailer",
+            "word": 3
+        },
+        {
+            "charBegin": 321,
+            "charEnd": 327,
+            "id": 50,
+            "sentence": 4,
+            "text": "zeigte",
+            "word": 4
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 333,
+            "id": 51,
+            "sentence": 4,
+            "text": "einen",
+            "word": 5
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 349,
+            "id": 52,
+            "sentence": 4,
+            "text": "hochaufgelösten",
+            "word": 6
+        },
+        {
+            "charBegin": 349,
+            "charEnd": 350,
+            "id": 53,
+            "sentence": 4,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 351,
+            "charEnd": 355,
+            "id": 54,
+            "sentence": 4,
+            "text": "aber",
+            "word": 8
+        },
+        {
+            "charBegin": 356,
+            "charEnd": 362,
+            "id": 55,
+            "sentence": 4,
+            "text": "kurzen",
+            "word": 9
+        },
+        {
+            "charBegin": 363,
+            "charEnd": 371,
+            "id": 56,
+            "sentence": 4,
+            "text": "Ausblick",
+            "word": 10
+        },
+        {
+            "charBegin": 372,
+            "charEnd": 377,
+            "id": 57,
+            "sentence": 4,
+            "text": "eines",
+            "word": 11
+        },
+        {
+            "charBegin": 378,
+            "charEnd": 388,
+            "id": 58,
+            "sentence": 4,
+            "text": "zerstörten",
+            "word": 12
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 399,
+            "id": 59,
+            "sentence": 4,
+            "text": "Washington",
+            "word": 13
+        },
+        {
+            "charBegin": 400,
+            "charEnd": 404,
+            "id": 60,
+            "sentence": 4,
+            "text": "D.C.",
+            "word": 14
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 408,
+            "id": 61,
+            "sentence": 4,
+            "text": "als",
+            "word": 15
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 419,
+            "id": 62,
+            "sentence": 4,
+            "text": "Hauptstadt",
+            "word": 16
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 423,
+            "id": 63,
+            "sentence": 4,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 424,
+            "charEnd": 429,
+            "id": 64,
+            "sentence": 4,
+            "text": "nicht",
+            "word": 18
+        },
+        {
+            "charBegin": 430,
+            "charEnd": 434,
+            "id": 65,
+            "sentence": 4,
+            "text": "mehr",
+            "word": 19
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 445,
+            "id": 66,
+            "sentence": 4,
+            "text": "existenten",
+            "word": 20
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 457,
+            "id": 67,
+            "sentence": 4,
+            "text": "Vereinigten",
+            "word": 21
+        },
+        {
+            "charBegin": 458,
+            "charEnd": 465,
+            "id": 68,
+            "sentence": 4,
+            "text": "Staaten",
+            "word": 22
+        },
+        {
+            "charBegin": 465,
+            "charEnd": 466,
+            "id": 69,
+            "sentence": 4,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 467,
+            "charEnd": 470,
+            "id": 70,
+            "sentence": 5,
+            "text": "All",
+            "word": 1
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 477,
+            "id": 71,
+            "sentence": 5,
+            "text": "dieses",
+            "word": 2
+        },
+        {
+            "charBegin": 478,
+            "charEnd": 483,
+            "id": 72,
+            "sentence": 5,
+            "text": "wurde",
+            "word": 3
+        },
+        {
+            "charBegin": 484,
+            "charEnd": 486,
+            "id": 73,
+            "sentence": 5,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 487,
+            "charEnd": 498,
+            "id": 74,
+            "sentence": 5,
+            "text": "Spielgrafik",
+            "word": 5
+        },
+        {
+            "charBegin": 499,
+            "charEnd": 508,
+            "id": 75,
+            "sentence": 5,
+            "text": "gerendert",
+            "word": 6
+        },
+        {
+            "charBegin": 508,
+            "charEnd": 509,
+            "id": 76,
+            "sentence": 5,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 510,
+            "charEnd": 513,
+            "id": 77,
+            "sentence": 6,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 514,
+            "charEnd": 532,
+            "id": 78,
+            "sentence": 6,
+            "text": "Trailer-Ausschnitt",
+            "word": 2
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 538,
+            "id": 79,
+            "sentence": 6,
+            "text": "wurde",
+            "word": 3
+        },
+        {
+            "charBegin": 539,
+            "charEnd": 542,
+            "id": 80,
+            "sentence": 6,
+            "text": "mit",
+            "word": 4
+        },
+        {
+            "charBegin": 543,
+            "charEnd": 546,
+            "id": 81,
+            "sentence": 6,
+            "text": "dem",
+            "word": 5
+        },
+        {
+            "charBegin": 547,
+            "charEnd": 551,
+            "id": 82,
+            "sentence": 6,
+            "text": "Song",
+            "word": 6
+        },
+        {
+            "charBegin": 552,
+            "charEnd": 553,
+            "id": 83,
+            "sentence": 6,
+            "text": "„",
+            "word": 7
+        },
+        {
+            "charBegin": 553,
+            "charEnd": 554,
+            "id": 84,
+            "sentence": 6,
+            "text": "I",
+            "word": 8
+        },
+        {
+            "charBegin": 555,
+            "charEnd": 560,
+            "id": 85,
+            "sentence": 6,
+            "text": "don't",
+            "word": 9
+        },
+        {
+            "charBegin": 561,
+            "charEnd": 565,
+            "id": 86,
+            "sentence": 6,
+            "text": "want",
+            "word": 10
+        },
+        {
+            "charBegin": 566,
+            "charEnd": 568,
+            "id": 87,
+            "sentence": 6,
+            "text": "to",
+            "word": 11
+        },
+        {
+            "charBegin": 569,
+            "charEnd": 572,
+            "id": 88,
+            "sentence": 6,
+            "text": "set",
+            "word": 12
+        },
+        {
+            "charBegin": 573,
+            "charEnd": 576,
+            "id": 89,
+            "sentence": 6,
+            "text": "the",
+            "word": 13
+        },
+        {
+            "charBegin": 577,
+            "charEnd": 582,
+            "id": 90,
+            "sentence": 6,
+            "text": "World",
+            "word": 14
+        },
+        {
+            "charBegin": 583,
+            "charEnd": 585,
+            "id": 91,
+            "sentence": 6,
+            "text": "on",
+            "word": 15
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 590,
+            "id": 92,
+            "sentence": 6,
+            "text": "fire",
+            "word": 16
+        },
+        {
+            "charBegin": 590,
+            "charEnd": 591,
+            "id": 93,
+            "sentence": 6,
+            "text": "“",
+            "word": 17
+        },
+        {
+            "charBegin": 592,
+            "charEnd": 601,
+            "id": 94,
+            "sentence": 6,
+            "text": "untermalt",
+            "word": 18
+        },
+        {
+            "charBegin": 602,
+            "charEnd": 605,
+            "id": 95,
+            "sentence": 6,
+            "text": "und",
+            "word": 19
+        },
+        {
+            "charBegin": 606,
+            "charEnd": 614,
+            "id": 96,
+            "sentence": 6,
+            "text": "schließt",
+            "word": 20
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 618,
+            "id": 97,
+            "sentence": 6,
+            "text": "mit",
+            "word": 21
+        },
+        {
+            "charBegin": 619,
+            "charEnd": 622,
+            "id": 98,
+            "sentence": 6,
+            "text": "der",
+            "word": 22
+        },
+        {
+            "charBegin": 623,
+            "charEnd": 626,
+            "id": 99,
+            "sentence": 6,
+            "text": "aus",
+            "word": 23
+        },
+        {
+            "charBegin": 627,
+            "charEnd": 630,
+            "id": 100,
+            "sentence": 6,
+            "text": "den",
+            "word": 24
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 641,
+            "id": 101,
+            "sentence": 6,
+            "text": "bisherigen",
+            "word": 25
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 649,
+            "id": 102,
+            "sentence": 6,
+            "text": "Spielen",
+            "word": 26
+        },
+        {
+            "charBegin": 650,
+            "charEnd": 659,
+            "id": 103,
+            "sentence": 6,
+            "text": "bekannten",
+            "word": 27
+        },
+        {
+            "charBegin": 660,
+            "charEnd": 667,
+            "id": 104,
+            "sentence": 6,
+            "text": "Aussage",
+            "word": 28
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 669,
+            "id": 105,
+            "sentence": 6,
+            "text": "„",
+            "word": 29
+        },
+        {
+            "charBegin": 669,
+            "charEnd": 672,
+            "id": 106,
+            "sentence": 6,
+            "text": "WAR",
+            "word": 30
+        },
+        {
+            "charBegin": 672,
+            "charEnd": 673,
+            "id": 107,
+            "sentence": 6,
+            "text": ",",
+            "word": 31
+        },
+        {
+            "charBegin": 674,
+            "charEnd": 677,
+            "id": 108,
+            "sentence": 6,
+            "text": "War",
+            "word": 32
+        },
+        {
+            "charBegin": 678,
+            "charEnd": 683,
+            "id": 109,
+            "sentence": 6,
+            "text": "never",
+            "word": 33
+        },
+        {
+            "charBegin": 684,
+            "charEnd": 691,
+            "id": 110,
+            "sentence": 6,
+            "text": "changes",
+            "word": 34
+        },
+        {
+            "charBegin": 691,
+            "charEnd": 692,
+            "id": 111,
+            "sentence": 6,
+            "text": "“",
+            "word": 35
+        },
+        {
+            "charBegin": 692,
+            "charEnd": 693,
+            "id": 112,
+            "sentence": 6,
+            "text": ".",
+            "word": 36
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 698,
+            "id": 113,
+            "sentence": 7,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 705,
+            "id": 114,
+            "sentence": 7,
+            "text": "zweite",
+            "word": 2
+        },
+        {
+            "charBegin": 706,
+            "charEnd": 713,
+            "id": 115,
+            "sentence": 7,
+            "text": "Trailer",
+            "word": 3
+        },
+        {
+            "charBegin": 714,
+            "charEnd": 719,
+            "id": 116,
+            "sentence": 7,
+            "text": "wurde",
+            "word": 4
+        },
+        {
+            "charBegin": 720,
+            "charEnd": 722,
+            "id": 117,
+            "sentence": 7,
+            "text": "im",
+            "word": 5
+        },
+        {
+            "charBegin": 723,
+            "charEnd": 727,
+            "id": 118,
+            "sentence": 7,
+            "text": "Stil",
+            "word": 6
+        },
+        {
+            "charBegin": 728,
+            "charEnd": 733,
+            "id": 119,
+            "sentence": 7,
+            "text": "einer",
+            "word": 7
+        },
+        {
+            "charBegin": 734,
+            "charEnd": 747,
+            "id": 120,
+            "sentence": 7,
+            "text": "1950-er-Jahre",
+            "word": 8
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 755,
+            "id": 121,
+            "sentence": 7,
+            "text": "Werbung",
+            "word": 9
+        },
+        {
+            "charBegin": 756,
+            "charEnd": 764,
+            "id": 122,
+            "sentence": 7,
+            "text": "gehalten",
+            "word": 10
+        },
+        {
+            "charBegin": 764,
+            "charEnd": 765,
+            "id": 123,
+            "sentence": 7,
+            "text": ":",
+            "word": 11
+        },
+        {
+            "charBegin": 766,
+            "charEnd": 768,
+            "id": 124,
+            "sentence": 8,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 772,
+            "id": 125,
+            "sentence": 8,
+            "text": "ihm",
+            "word": 2
+        },
+        {
+            "charBegin": 773,
+            "charEnd": 777,
+            "id": 126,
+            "sentence": 8,
+            "text": "wird",
+            "word": 3
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 782,
+            "id": 127,
+            "sentence": 8,
+            "text": "eine",
+            "word": 4
+        },
+        {
+            "charBegin": 783,
+            "charEnd": 786,
+            "id": 128,
+            "sentence": 8,
+            "text": "für",
+            "word": 5
+        },
+        {
+            "charBegin": 787,
+            "charEnd": 795,
+            "id": 129,
+            "sentence": 8,
+            "text": "damalige",
+            "word": 6
+        },
+        {
+            "charBegin": 796,
+            "charEnd": 808,
+            "id": 130,
+            "sentence": 8,
+            "text": "Verhältnisse",
+            "word": 7
+        },
+        {
+            "charBegin": 809,
+            "charEnd": 819,
+            "id": 131,
+            "sentence": 8,
+            "text": "klassische",
+            "word": 8
+        },
+        {
+            "charBegin": 819,
+            "charEnd": 820,
+            "id": 132,
+            "sentence": 8,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 821,
+            "charEnd": 825,
+            "id": 133,
+            "sentence": 8,
+            "text": "aber",
+            "word": 10
+        },
+        {
+            "charBegin": 826,
+            "charEnd": 837,
+            "id": 134,
+            "sentence": 8,
+            "text": "überspitzte",
+            "word": 11
+        },
+        {
+            "charBegin": 838,
+            "charEnd": 855,
+            "id": 135,
+            "sentence": 8,
+            "text": "Familiensituation",
+            "word": 12
+        },
+        {
+            "charBegin": 856,
+            "charEnd": 858,
+            "id": 136,
+            "sentence": 8,
+            "text": "am",
+            "word": 13
+        },
+        {
+            "charBegin": 859,
+            "charEnd": 867,
+            "id": 137,
+            "sentence": 8,
+            "text": "Esstisch",
+            "word": 14
+        },
+        {
+            "charBegin": 868,
+            "charEnd": 875,
+            "id": 138,
+            "sentence": 8,
+            "text": "gezeigt",
+            "word": 15
+        },
+        {
+            "charBegin": 875,
+            "charEnd": 876,
+            "id": 139,
+            "sentence": 8,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 877,
+            "charEnd": 880,
+            "id": 140,
+            "sentence": 9,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 881,
+            "charEnd": 890,
+            "id": 141,
+            "sentence": 9,
+            "text": "Vertreter",
+            "word": 2
+        },
+        {
+            "charBegin": 891,
+            "charEnd": 894,
+            "id": 142,
+            "sentence": 9,
+            "text": "des",
+            "word": 3
+        },
+        {
+            "charBegin": 895,
+            "charEnd": 903,
+            "id": 143,
+            "sentence": 9,
+            "text": "fiktiven",
+            "word": 4
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 932,
+            "id": 144,
+            "sentence": 9,
+            "text": "Atomschutzbunker-Herstellers",
+            "word": 5
+        },
+        {
+            "charBegin": 933,
+            "charEnd": 934,
+            "id": 145,
+            "sentence": 9,
+            "text": "„",
+            "word": 6
+        },
+        {
+            "charBegin": 934,
+            "charEnd": 943,
+            "id": 146,
+            "sentence": 9,
+            "text": "Vault-Tec",
+            "word": 7
+        },
+        {
+            "charBegin": 943,
+            "charEnd": 944,
+            "id": 147,
+            "sentence": 9,
+            "text": "“",
+            "word": 8
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 955,
+            "id": 148,
+            "sentence": 9,
+            "text": "propagiert",
+            "word": 9
+        },
+        {
+            "charBegin": 956,
+            "charEnd": 958,
+            "id": 149,
+            "sentence": 9,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 959,
+            "charEnd": 962,
+            "id": 150,
+            "sentence": 9,
+            "text": "dem",
+            "word": 11
+        },
+        {
+            "charBegin": 963,
+            "charEnd": 967,
+            "id": 151,
+            "sentence": 9,
+            "text": "Teil",
+            "word": 12
+        },
+        {
+            "charBegin": 968,
+            "charEnd": 971,
+            "id": 152,
+            "sentence": 9,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 972,
+            "charEnd": 979,
+            "id": 153,
+            "sentence": 9,
+            "text": "Vorzüge",
+            "word": 14
+        },
+        {
+            "charBegin": 980,
+            "charEnd": 986,
+            "id": 154,
+            "sentence": 9,
+            "text": "dieser",
+            "word": 15
+        },
+        {
+            "charBegin": 987,
+            "charEnd": 995,
+            "id": 155,
+            "sentence": 9,
+            "text": "Habitate",
+            "word": 16
+        },
+        {
+            "charBegin": 996,
+            "charEnd": 999,
+            "id": 156,
+            "sentence": 9,
+            "text": "für",
+            "word": 17
+        },
+        {
+            "charBegin": 1000,
+            "charEnd": 1003,
+            "id": 157,
+            "sentence": 9,
+            "text": "den",
+            "word": 18
+        },
+        {
+            "charBegin": 1004,
+            "charEnd": 1012,
+            "id": 158,
+            "sentence": 9,
+            "text": "imminent",
+            "word": 19
+        },
+        {
+            "charBegin": 1013,
+            "charEnd": 1022,
+            "id": 159,
+            "sentence": 9,
+            "text": "drohenden",
+            "word": 20
+        },
+        {
+            "charBegin": 1023,
+            "charEnd": 1031,
+            "id": 160,
+            "sentence": 9,
+            "text": "atomaren",
+            "word": 21
+        },
+        {
+            "charBegin": 1032,
+            "charEnd": 1041,
+            "id": 161,
+            "sentence": 9,
+            "text": "Ernstfall",
+            "word": 22
+        },
+        {
+            "charBegin": 1041,
+            "charEnd": 1042,
+            "id": 162,
+            "sentence": 9,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 1043,
+            "charEnd": 1049,
+            "id": 163,
+            "sentence": 10,
+            "text": "Dieser",
+            "word": 1
+        },
+        {
+            "charBegin": 1050,
+            "charEnd": 1057,
+            "id": 164,
+            "sentence": 10,
+            "text": "Trailer",
+            "word": 2
+        },
+        {
+            "charBegin": 1058,
+            "charEnd": 1061,
+            "id": 165,
+            "sentence": 10,
+            "text": "ist",
+            "word": 3
+        },
+        {
+            "charBegin": 1062,
+            "charEnd": 1071,
+            "id": 166,
+            "sentence": 10,
+            "text": "ebenfalls",
+            "word": 4
+        },
+        {
+            "charBegin": 1072,
+            "charEnd": 1085,
+            "id": 167,
+            "sentence": 10,
+            "text": "hochauflösend",
+            "word": 5
+        },
+        {
+            "charBegin": 1086,
+            "charEnd": 1089,
+            "id": 168,
+            "sentence": 10,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 1090,
+            "charEnd": 1095,
+            "id": 169,
+            "sentence": 10,
+            "text": "wurde",
+            "word": 7
+        },
+        {
+            "charBegin": 1096,
+            "charEnd": 1098,
+            "id": 170,
+            "sentence": 10,
+            "text": "im",
+            "word": 8
+        },
+        {
+            "charBegin": 1099,
+            "charEnd": 1114,
+            "id": 171,
+            "sentence": 10,
+            "text": "Breitbildformat",
+            "word": 9
+        },
+        {
+            "charBegin": 1115,
+            "charEnd": 1125,
+            "id": 172,
+            "sentence": 10,
+            "text": "produziert",
+            "word": 10
+        },
+        {
+            "charBegin": 1125,
+            "charEnd": 1126,
+            "id": 173,
+            "sentence": 10,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1127,
+            "charEnd": 1132,
+            "id": 174,
+            "sentence": 10,
+            "text": "zeigt",
+            "word": 12
+        },
+        {
+            "charBegin": 1133,
+            "charEnd": 1139,
+            "id": 175,
+            "sentence": 10,
+            "text": "jedoch",
+            "word": 13
+        },
+        {
+            "charBegin": 1140,
+            "charEnd": 1143,
+            "id": 176,
+            "sentence": 10,
+            "text": "den",
+            "word": 14
+        },
+        {
+            "charBegin": 1144,
+            "charEnd": 1160,
+            "id": 177,
+            "sentence": 10,
+            "text": "Vault-Tec-Anteil",
+            "word": 15
+        },
+        {
+            "charBegin": 1161,
+            "charEnd": 1164,
+            "id": 178,
+            "sentence": 10,
+            "text": "mit",
+            "word": 16
+        },
+        {
+            "charBegin": 1165,
+            "charEnd": 1171,
+            "id": 179,
+            "sentence": 10,
+            "text": "realen",
+            "word": 17
+        },
+        {
+            "charBegin": 1172,
+            "charEnd": 1185,
+            "id": 180,
+            "sentence": 10,
+            "text": "Schauspielern",
+            "word": 18
+        },
+        {
+            "charBegin": 1186,
+            "charEnd": 1188,
+            "id": 181,
+            "sentence": 10,
+            "text": "im",
+            "word": 19
+        },
+        {
+            "charBegin": 1189,
+            "charEnd": 1203,
+            "id": 182,
+            "sentence": 10,
+            "text": "4:3-Bildformat",
+            "word": 20
+        },
+        {
+            "charBegin": 1203,
+            "charEnd": 1204,
+            "id": 183,
+            "sentence": 10,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 1205,
+            "charEnd": 1208,
+            "id": 184,
+            "sentence": 10,
+            "text": "wie",
+            "word": 22
+        },
+        {
+            "charBegin": 1209,
+            "charEnd": 1211,
+            "id": 185,
+            "sentence": 10,
+            "text": "es",
+            "word": 23
+        },
+        {
+            "charBegin": 1212,
+            "charEnd": 1214,
+            "id": 186,
+            "sentence": 10,
+            "text": "zu",
+            "word": 24
+        },
+        {
+            "charBegin": 1215,
+            "charEnd": 1221,
+            "id": 187,
+            "sentence": 10,
+            "text": "dieser",
+            "word": 25
+        },
+        {
+            "charBegin": 1222,
+            "charEnd": 1226,
+            "id": 188,
+            "sentence": 10,
+            "text": "Zeit",
+            "word": 26
+        },
+        {
+            "charBegin": 1227,
+            "charEnd": 1230,
+            "id": 189,
+            "sentence": 10,
+            "text": "für",
+            "word": 27
+        },
+        {
+            "charBegin": 1231,
+            "charEnd": 1234,
+            "id": 190,
+            "sentence": 10,
+            "text": "das",
+            "word": 28
+        },
+        {
+            "charBegin": 1235,
+            "charEnd": 1239,
+            "id": 191,
+            "sentence": 10,
+            "text": "Kino",
+            "word": 29
+        },
+        {
+            "charBegin": 1240,
+            "charEnd": 1243,
+            "id": 192,
+            "sentence": 10,
+            "text": "und",
+            "word": 30
+        },
+        {
+            "charBegin": 1244,
+            "charEnd": 1255,
+            "id": 193,
+            "sentence": 10,
+            "text": "aufkommende",
+            "word": 31
+        },
+        {
+            "charBegin": 1256,
+            "charEnd": 1265,
+            "id": 194,
+            "sentence": 10,
+            "text": "Fernsehen",
+            "word": 32
+        },
+        {
+            "charBegin": 1266,
+            "charEnd": 1274,
+            "id": 195,
+            "sentence": 10,
+            "text": "Standard",
+            "word": 33
+        },
+        {
+            "charBegin": 1275,
+            "charEnd": 1278,
+            "id": 196,
+            "sentence": 10,
+            "text": "war",
+            "word": 34
+        },
+        {
+            "charBegin": 1278,
+            "charEnd": 1279,
+            "id": 197,
+            "sentence": 10,
+            "text": ".",
+            "word": 35
+        },
+        {
+            "charBegin": 1281,
+            "charEnd": 1284,
+            "id": 198,
+            "sentence": 11,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1285,
+            "charEnd": 1301,
+            "id": 199,
+            "sentence": 11,
+            "text": "Berücksichtigung",
+            "word": 2
+        },
+        {
+            "charBegin": 1302,
+            "charEnd": 1311,
+            "id": 200,
+            "sentence": 11,
+            "text": "damaliger",
+            "word": 3
+        },
+        {
+            "charBegin": 1312,
+            "charEnd": 1319,
+            "id": 201,
+            "sentence": 11,
+            "text": "Technik",
+            "word": 4
+        },
+        {
+            "charBegin": 1320,
+            "charEnd": 1323,
+            "id": 202,
+            "sentence": 11,
+            "text": "und",
+            "word": 5
+        },
+        {
+            "charBegin": 1324,
+            "charEnd": 1335,
+            "id": 203,
+            "sentence": 11,
+            "text": "Integration",
+            "word": 6
+        },
+        {
+            "charBegin": 1336,
+            "charEnd": 1338,
+            "id": 204,
+            "sentence": 11,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 1339,
+            "charEnd": 1342,
+            "id": 205,
+            "sentence": 11,
+            "text": "das",
+            "word": 8
+        },
+        {
+            "charBegin": 1343,
+            "charEnd": 1357,
+            "id": 206,
+            "sentence": 11,
+            "text": "Spielgeschehen",
+            "word": 9
+        },
+        {
+            "charBegin": 1358,
+            "charEnd": 1363,
+            "id": 207,
+            "sentence": 11,
+            "text": "durch",
+            "word": 10
+        },
+        {
+            "charBegin": 1364,
+            "charEnd": 1368,
+            "id": 208,
+            "sentence": 11,
+            "text": "eine",
+            "word": 11
+        },
+        {
+            "charBegin": 1369,
+            "charEnd": 1372,
+            "id": 209,
+            "sentence": 11,
+            "text": "Art",
+            "word": 12
+        },
+        {
+            "charBegin": 1373,
+            "charEnd": 1385,
+            "id": 210,
+            "sentence": 11,
+            "text": "Retrosetting",
+            "word": 13
+        },
+        {
+            "charBegin": 1386,
+            "charEnd": 1389,
+            "id": 211,
+            "sentence": 11,
+            "text": "ist",
+            "word": 14
+        },
+        {
+            "charBegin": 1390,
+            "charEnd": 1396,
+            "id": 212,
+            "sentence": 11,
+            "text": "ebenso",
+            "word": 15
+        },
+        {
+            "charBegin": 1397,
+            "charEnd": 1408,
+            "id": 213,
+            "sentence": 11,
+            "text": "ersichtlich",
+            "word": 16
+        },
+        {
+            "charBegin": 1409,
+            "charEnd": 1412,
+            "id": 214,
+            "sentence": 11,
+            "text": "wie",
+            "word": 17
+        },
+        {
+            "charBegin": 1413,
+            "charEnd": 1417,
+            "id": 215,
+            "sentence": 11,
+            "text": "auch",
+            "word": 18
+        },
+        {
+            "charBegin": 1418,
+            "charEnd": 1421,
+            "id": 216,
+            "sentence": 11,
+            "text": "die",
+            "word": 19
+        },
+        {
+            "charBegin": 1422,
+            "charEnd": 1432,
+            "id": 217,
+            "sentence": 11,
+            "text": "Anspielung",
+            "word": 20
+        },
+        {
+            "charBegin": 1433,
+            "charEnd": 1436,
+            "id": 218,
+            "sentence": 11,
+            "text": "auf",
+            "word": 21
+        },
+        {
+            "charBegin": 1437,
+            "charEnd": 1442,
+            "id": 219,
+            "sentence": 11,
+            "text": "alles",
+            "word": 22
+        },
+        {
+            "charBegin": 1443,
+            "charEnd": 1446,
+            "id": 220,
+            "sentence": 11,
+            "text": "zum",
+            "word": 23
+        },
+        {
+            "charBegin": 1447,
+            "charEnd": 1456,
+            "id": 221,
+            "sentence": 11,
+            "text": "Atomkrieg",
+            "word": 24
+        },
+        {
+            "charBegin": 1457,
+            "charEnd": 1465,
+            "id": 222,
+            "sentence": 11,
+            "text": "Passende",
+            "word": 25
+        },
+        {
+            "charBegin": 1465,
+            "charEnd": 1466,
+            "id": 223,
+            "sentence": 11,
+            "text": ":",
+            "word": 26
+        },
+        {
+            "charBegin": 1467,
+            "charEnd": 1470,
+            "id": 224,
+            "sentence": 12,
+            "text": "Sei",
+            "word": 1
+        },
+        {
+            "charBegin": 1471,
+            "charEnd": 1473,
+            "id": 225,
+            "sentence": 12,
+            "text": "es",
+            "word": 2
+        },
+        {
+            "charBegin": 1474,
+            "charEnd": 1480,
+            "id": 226,
+            "sentence": 12,
+            "text": "direkt",
+            "word": 3
+        },
+        {
+            "charBegin": 1481,
+            "charEnd": 1486,
+            "id": 227,
+            "sentence": 12,
+            "text": "durch",
+            "word": 4
+        },
+        {
+            "charBegin": 1487,
+            "charEnd": 1492,
+            "id": 228,
+            "sentence": 12,
+            "text": "einen",
+            "word": 5
+        },
+        {
+            "charBegin": 1493,
+            "charEnd": 1499,
+            "id": 229,
+            "sentence": 12,
+            "text": "kurzen",
+            "word": 6
+        },
+        {
+            "charBegin": 1500,
+            "charEnd": 1505,
+            "id": 230,
+            "sentence": 12,
+            "text": "Blick",
+            "word": 7
+        },
+        {
+            "charBegin": 1506,
+            "charEnd": 1509,
+            "id": 231,
+            "sentence": 12,
+            "text": "auf",
+            "word": 8
+        },
+        {
+            "charBegin": 1510,
+            "charEnd": 1513,
+            "id": 232,
+            "sentence": 12,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 1514,
+            "charEnd": 1521,
+            "id": 233,
+            "sentence": 12,
+            "text": "Zeitung",
+            "word": 10
+        },
+        {
+            "charBegin": 1522,
+            "charEnd": 1525,
+            "id": 234,
+            "sentence": 12,
+            "text": "mit",
+            "word": 11
+        },
+        {
+            "charBegin": 1526,
+            "charEnd": 1529,
+            "id": 235,
+            "sentence": 12,
+            "text": "dem",
+            "word": 12
+        },
+        {
+            "charBegin": 1530,
+            "charEnd": 1537,
+            "id": 236,
+            "sentence": 12,
+            "text": "Hinweis",
+            "word": 13
+        },
+        {
+            "charBegin": 1538,
+            "charEnd": 1541,
+            "id": 237,
+            "sentence": 12,
+            "text": "auf",
+            "word": 14
+        },
+        {
+            "charBegin": 1542,
+            "charEnd": 1545,
+            "id": 238,
+            "sentence": 12,
+            "text": "die",
+            "word": 15
+        },
+        {
+            "charBegin": 1546,
+            "charEnd": 1549,
+            "id": 239,
+            "sentence": 12,
+            "text": "für",
+            "word": 16
+        },
+        {
+            "charBegin": 1550,
+            "charEnd": 1553,
+            "id": 240,
+            "sentence": 12,
+            "text": "die",
+            "word": 17
+        },
+        {
+            "charBegin": 1554,
+            "charEnd": 1575,
+            "id": 241,
+            "sentence": 12,
+            "text": "Hintergrundgeschichte",
+            "word": 18
+        },
+        {
+            "charBegin": 1576,
+            "charEnd": 1584,
+            "id": 242,
+            "sentence": 12,
+            "text": "wichtige",
+            "word": 19
+        },
+        {
+            "charBegin": 1585,
+            "charEnd": 1593,
+            "id": 243,
+            "sentence": 12,
+            "text": "Invasion",
+            "word": 20
+        },
+        {
+            "charBegin": 1594,
+            "charEnd": 1600,
+            "id": 244,
+            "sentence": 12,
+            "text": "Chinas",
+            "word": 21
+        },
+        {
+            "charBegin": 1601,
+            "charEnd": 1603,
+            "id": 245,
+            "sentence": 12,
+            "text": "in",
+            "word": 22
+        },
+        {
+            "charBegin": 1604,
+            "charEnd": 1610,
+            "id": 246,
+            "sentence": 12,
+            "text": "Alaska",
+            "word": 23
+        },
+        {
+            "charBegin": 1611,
+            "charEnd": 1615,
+            "id": 247,
+            "sentence": 12,
+            "text": "oder",
+            "word": 24
+        },
+        {
+            "charBegin": 1616,
+            "charEnd": 1621,
+            "id": 248,
+            "sentence": 12,
+            "text": "durch",
+            "word": 25
+        },
+        {
+            "charBegin": 1622,
+            "charEnd": 1625,
+            "id": 249,
+            "sentence": 12,
+            "text": "die",
+            "word": 26
+        },
+        {
+            "charBegin": 1626,
+            "charEnd": 1642,
+            "id": 250,
+            "sentence": 12,
+            "text": "Zurschaustellung",
+            "word": 27
+        },
+        {
+            "charBegin": 1643,
+            "charEnd": 1646,
+            "id": 251,
+            "sentence": 12,
+            "text": "von",
+            "word": 28
+        },
+        {
+            "charBegin": 1647,
+            "charEnd": 1662,
+            "id": 252,
+            "sentence": 12,
+            "text": "Nahrungsmitteln",
+            "word": 29
+        },
+        {
+            "charBegin": 1663,
+            "charEnd": 1666,
+            "id": 253,
+            "sentence": 12,
+            "text": "mit",
+            "word": 30
+        },
+        {
+            "charBegin": 1667,
+            "charEnd": 1672,
+            "id": 254,
+            "sentence": 12,
+            "text": "Namen",
+            "word": 31
+        },
+        {
+            "charBegin": 1673,
+            "charEnd": 1676,
+            "id": 255,
+            "sentence": 12,
+            "text": "wie",
+            "word": 32
+        },
+        {
+            "charBegin": 1677,
+            "charEnd": 1678,
+            "id": 256,
+            "sentence": 12,
+            "text": "„",
+            "word": 33
+        },
+        {
+            "charBegin": 1678,
+            "charEnd": 1683,
+            "id": 257,
+            "sentence": 12,
+            "text": "Sugar",
+            "word": 34
+        },
+        {
+            "charBegin": 1684,
+            "charEnd": 1689,
+            "id": 258,
+            "sentence": 12,
+            "text": "Bombs",
+            "word": 35
+        },
+        {
+            "charBegin": 1689,
+            "charEnd": 1690,
+            "id": 259,
+            "sentence": 12,
+            "text": "“",
+            "word": 36
+        },
+        {
+            "charBegin": 1690,
+            "charEnd": 1691,
+            "id": 260,
+            "sentence": 12,
+            "text": ",",
+            "word": 37
+        },
+        {
+            "charBegin": 1692,
+            "charEnd": 1697,
+            "id": 261,
+            "sentence": 12,
+            "text": "deren",
+            "word": 38
+        },
+        {
+            "charBegin": 1698,
+            "charEnd": 1702,
+            "id": 262,
+            "sentence": 12,
+            "text": "Logo",
+            "word": 39
+        },
+        {
+            "charBegin": 1703,
+            "charEnd": 1707,
+            "id": 263,
+            "sentence": 12,
+            "text": "eine",
+            "word": 40
+        },
+        {
+            "charBegin": 1708,
+            "charEnd": 1713,
+            "id": 264,
+            "sentence": 12,
+            "text": "Bombe",
+            "word": 41
+        },
+        {
+            "charBegin": 1714,
+            "charEnd": 1716,
+            "id": 265,
+            "sentence": 12,
+            "text": "in",
+            "word": 42
+        },
+        {
+            "charBegin": 1717,
+            "charEnd": 1721,
+            "id": 266,
+            "sentence": 12,
+            "text": "Form",
+            "word": 43
+        },
+        {
+            "charBegin": 1722,
+            "charEnd": 1725,
+            "id": 267,
+            "sentence": 12,
+            "text": "der",
+            "word": 44
+        },
+        {
+            "charBegin": 1726,
+            "charEnd": 1732,
+            "id": 268,
+            "sentence": 12,
+            "text": "ersten",
+            "word": 45
+        },
+        {
+            "charBegin": 1732,
+            "charEnd": 1733,
+            "id": 269,
+            "sentence": 12,
+            "text": ",",
+            "word": 46
+        },
+        {
+            "charBegin": 1734,
+            "charEnd": 1748,
+            "id": 270,
+            "sentence": 12,
+            "text": "amerikanischen",
+            "word": 47
+        },
+        {
+            "charBegin": 1749,
+            "charEnd": 1759,
+            "id": 271,
+            "sentence": 12,
+            "text": "Atombomben",
+            "word": 48
+        },
+        {
+            "charBegin": 1760,
+            "charEnd": 1763,
+            "id": 272,
+            "sentence": 12,
+            "text": "ist",
+            "word": 49
+        },
+        {
+            "charBegin": 1763,
+            "charEnd": 1764,
+            "id": 273,
+            "sentence": 12,
+            "text": ".",
+            "word": 50
+        },
+        {
+            "charBegin": 1765,
+            "charEnd": 1775,
+            "id": 274,
+            "sentence": 13,
+            "text": "Integriert",
+            "word": 1
+        },
+        {
+            "charBegin": 1776,
+            "charEnd": 1782,
+            "id": 275,
+            "sentence": 13,
+            "text": "wurden",
+            "word": 2
+        },
+        {
+            "charBegin": 1783,
+            "charEnd": 1787,
+            "id": 276,
+            "sentence": 13,
+            "text": "auch",
+            "word": 3
+        },
+        {
+            "charBegin": 1788,
+            "charEnd": 1791,
+            "id": 277,
+            "sentence": 13,
+            "text": "für",
+            "word": 4
+        },
+        {
+            "charBegin": 1792,
+            "charEnd": 1805,
+            "id": 278,
+            "sentence": 13,
+            "text": "amerikanische",
+            "word": 5
+        },
+        {
+            "charBegin": 1806,
+            "charEnd": 1816,
+            "id": 279,
+            "sentence": 13,
+            "text": "Lehrvideos",
+            "word": 6
+        },
+        {
+            "charBegin": 1817,
+            "charEnd": 1825,
+            "id": 280,
+            "sentence": 13,
+            "text": "typische",
+            "word": 7
+        },
+        {
+            "charBegin": 1826,
+            "charEnd": 1838,
+            "id": 281,
+            "sentence": 13,
+            "text": "schriftliche",
+            "word": 8
+        },
+        {
+            "charBegin": 1839,
+            "charEnd": 1846,
+            "id": 282,
+            "sentence": 13,
+            "text": "Zusätze",
+            "word": 9
+        },
+        {
+            "charBegin": 1846,
+            "charEnd": 1847,
+            "id": 283,
+            "sentence": 13,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 1848,
+            "charEnd": 1852,
+            "id": 284,
+            "sentence": 13,
+            "text": "dass",
+            "word": 11
+        },
+        {
+            "charBegin": 1853,
+            "charEnd": 1855,
+            "id": 285,
+            "sentence": 13,
+            "text": "es",
+            "word": 12
+        },
+        {
+            "charBegin": 1856,
+            "charEnd": 1860,
+            "id": 286,
+            "sentence": 13,
+            "text": "sich",
+            "word": 13
+        },
+        {
+            "charBegin": 1861,
+            "charEnd": 1864,
+            "id": 287,
+            "sentence": 13,
+            "text": "bei",
+            "word": 14
+        },
+        {
+            "charBegin": 1865,
+            "charEnd": 1868,
+            "id": 288,
+            "sentence": 13,
+            "text": "dem",
+            "word": 15
+        },
+        {
+            "charBegin": 1869,
+            "charEnd": 1871,
+            "id": 289,
+            "sentence": 13,
+            "text": "im",
+            "word": 16
+        },
+        {
+            "charBegin": 1872,
+            "charEnd": 1883,
+            "id": 290,
+            "sentence": 13,
+            "text": "Hintergrund",
+            "word": 17
+        },
+        {
+            "charBegin": 1884,
+            "charEnd": 1886,
+            "id": 291,
+            "sentence": 13,
+            "text": "im",
+            "word": 18
+        },
+        {
+            "charBegin": 1887,
+            "charEnd": 1894,
+            "id": 292,
+            "sentence": 13,
+            "text": "Fenster",
+            "word": 19
+        },
+        {
+            "charBegin": 1895,
+            "charEnd": 1897,
+            "id": 293,
+            "sentence": 13,
+            "text": "zu",
+            "word": 20
+        },
+        {
+            "charBegin": 1898,
+            "charEnd": 1906,
+            "id": 294,
+            "sentence": 13,
+            "text": "sehenden",
+            "word": 21
+        },
+        {
+            "charBegin": 1907,
+            "charEnd": 1916,
+            "id": 295,
+            "sentence": 13,
+            "text": "Atomblitz",
+            "word": 22
+        },
+        {
+            "charBegin": 1917,
+            "charEnd": 1920,
+            "id": 296,
+            "sentence": 13,
+            "text": "und",
+            "word": 23
+        },
+        {
+            "charBegin": 1921,
+            "charEnd": 1924,
+            "id": 297,
+            "sentence": 13,
+            "text": "der",
+            "word": 24
+        },
+        {
+            "charBegin": 1925,
+            "charEnd": 1938,
+            "id": 298,
+            "sentence": 13,
+            "text": "Atompilzwolke",
+            "word": 25
+        },
+        {
+            "charBegin": 1939,
+            "charEnd": 1944,
+            "id": 299,
+            "sentence": 13,
+            "text": "nicht",
+            "word": 26
+        },
+        {
+            "charBegin": 1945,
+            "charEnd": 1947,
+            "id": 300,
+            "sentence": 13,
+            "text": "um",
+            "word": 27
+        },
+        {
+            "charBegin": 1948,
+            "charEnd": 1952,
+            "id": 301,
+            "sentence": 13,
+            "text": "eine",
+            "word": 28
+        },
+        {
+            "charBegin": 1953,
+            "charEnd": 1958,
+            "id": 302,
+            "sentence": 13,
+            "text": "echte",
+            "word": 29
+        },
+        {
+            "charBegin": 1959,
+            "charEnd": 1966,
+            "id": 303,
+            "sentence": 13,
+            "text": "Zündung",
+            "word": 30
+        },
+        {
+            "charBegin": 1967,
+            "charEnd": 1974,
+            "id": 304,
+            "sentence": 13,
+            "text": "handele",
+            "word": 31
+        },
+        {
+            "charBegin": 1974,
+            "charEnd": 1975,
+            "id": 305,
+            "sentence": 13,
+            "text": ".",
+            "word": 32
+        },
+        {
+            "charBegin": 1976,
+            "charEnd": 1980,
+            "id": 306,
+            "sentence": 14,
+            "text": "Auch",
+            "word": 1
+        },
+        {
+            "charBegin": 1981,
+            "charEnd": 1986,
+            "id": 307,
+            "sentence": 14,
+            "text": "kurze",
+            "word": 2
+        },
+        {
+            "charBegin": 1987,
+            "charEnd": 2008,
+            "id": 308,
+            "sentence": 14,
+            "text": "Zeichentricksequenzen",
+            "word": 3
+        },
+        {
+            "charBegin": 2009,
+            "charEnd": 2012,
+            "id": 309,
+            "sentence": 14,
+            "text": "mit",
+            "word": 4
+        },
+        {
+            "charBegin": 2013,
+            "charEnd": 2016,
+            "id": 310,
+            "sentence": 14,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 2017,
+            "charEnd": 2027,
+            "id": 311,
+            "sentence": 14,
+            "text": "Werbefigur",
+            "word": 6
+        },
+        {
+            "charBegin": 2028,
+            "charEnd": 2031,
+            "id": 312,
+            "sentence": 14,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 2032,
+            "charEnd": 2037,
+            "id": 313,
+            "sentence": 14,
+            "text": "Firma",
+            "word": 8
+        },
+        {
+            "charBegin": 2037,
+            "charEnd": 2038,
+            "id": 314,
+            "sentence": 14,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 2039,
+            "charEnd": 2042,
+            "id": 315,
+            "sentence": 14,
+            "text": "dem",
+            "word": 10
+        },
+        {
+            "charBegin": 2043,
+            "charEnd": 2044,
+            "id": 316,
+            "sentence": 14,
+            "text": "„",
+            "word": 11
+        },
+        {
+            "charBegin": 2044,
+            "charEnd": 2053,
+            "id": 317,
+            "sentence": 14,
+            "text": "Vault-Boy",
+            "word": 12
+        },
+        {
+            "charBegin": 2053,
+            "charEnd": 2054,
+            "id": 318,
+            "sentence": 14,
+            "text": "“",
+            "word": 13
+        },
+        {
+            "charBegin": 2054,
+            "charEnd": 2055,
+            "id": 319,
+            "sentence": 14,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 2056,
+            "charEnd": 2060,
+            "id": 320,
+            "sentence": 14,
+            "text": "sind",
+            "word": 15
+        },
+        {
+            "charBegin": 2061,
+            "charEnd": 2070,
+            "id": 321,
+            "sentence": 14,
+            "text": "vorhanden",
+            "word": 16
+        },
+        {
+            "charBegin": 2070,
+            "charEnd": 2071,
+            "id": 322,
+            "sentence": 14,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 2072,
+            "charEnd": 2076,
+            "id": 323,
+            "sentence": 15,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 2077,
+            "charEnd": 2080,
+            "id": 324,
+            "sentence": 15,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 2081,
+            "charEnd": 2082,
+            "id": 325,
+            "sentence": 15,
+            "text": "„",
+            "word": 3
+        },
+        {
+            "charBegin": 2082,
+            "charEnd": 2094,
+            "id": 326,
+            "sentence": 15,
+            "text": "Werbesequenz",
+            "word": 4
+        },
+        {
+            "charBegin": 2094,
+            "charEnd": 2095,
+            "id": 327,
+            "sentence": 15,
+            "text": "“",
+            "word": 5
+        },
+        {
+            "charBegin": 2096,
+            "charEnd": 2101,
+            "id": 328,
+            "sentence": 15,
+            "text": "zoomt",
+            "word": 6
+        },
+        {
+            "charBegin": 2102,
+            "charEnd": 2105,
+            "id": 329,
+            "sentence": 15,
+            "text": "das",
+            "word": 7
+        },
+        {
+            "charBegin": 2106,
+            "charEnd": 2110,
+            "id": 330,
+            "sentence": 15,
+            "text": "Bild",
+            "word": 8
+        },
+        {
+            "charBegin": 2111,
+            "charEnd": 2114,
+            "id": 331,
+            "sentence": 15,
+            "text": "aus",
+            "word": 9
+        },
+        {
+            "charBegin": 2115,
+            "charEnd": 2120,
+            "id": 332,
+            "sentence": 15,
+            "text": "einem",
+            "word": 10
+        },
+        {
+            "charBegin": 2121,
+            "charEnd": 2126,
+            "id": 333,
+            "sentence": 15,
+            "text": "alten",
+            "word": 11
+        },
+        {
+            "charBegin": 2127,
+            "charEnd": 2142,
+            "id": 334,
+            "sentence": 15,
+            "text": "Röhrenfernseher",
+            "word": 12
+        },
+        {
+            "charBegin": 2143,
+            "charEnd": 2146,
+            "id": 335,
+            "sentence": 15,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 2147,
+            "charEnd": 2158,
+            "id": 336,
+            "sentence": 15,
+            "text": "verbreitert",
+            "word": 14
+        },
+        {
+            "charBegin": 2159,
+            "charEnd": 2163,
+            "id": 337,
+            "sentence": 15,
+            "text": "sich",
+            "word": 15
+        },
+        {
+            "charBegin": 2164,
+            "charEnd": 2167,
+            "id": 338,
+            "sentence": 15,
+            "text": "auf",
+            "word": 16
+        },
+        {
+            "charBegin": 2168,
+            "charEnd": 2171,
+            "id": 339,
+            "sentence": 15,
+            "text": "das",
+            "word": 17
+        },
+        {
+            "charBegin": 2172,
+            "charEnd": 2183,
+            "id": 340,
+            "sentence": 15,
+            "text": "tatsächlich",
+            "word": 18
+        },
+        {
+            "charBegin": 2184,
+            "charEnd": 2192,
+            "id": 341,
+            "sentence": 15,
+            "text": "genutzte",
+            "word": 19
+        },
+        {
+            "charBegin": 2193,
+            "charEnd": 2202,
+            "id": 342,
+            "sentence": 15,
+            "text": "Breitbild",
+            "word": 20
+        },
+        {
+            "charBegin": 2203,
+            "charEnd": 2206,
+            "id": 343,
+            "sentence": 15,
+            "text": "des",
+            "word": 21
+        },
+        {
+            "charBegin": 2207,
+            "charEnd": 2213,
+            "id": 344,
+            "sentence": 15,
+            "text": "Videos",
+            "word": 22
+        },
+        {
+            "charBegin": 2213,
+            "charEnd": 2214,
+            "id": 345,
+            "sentence": 15,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 2215,
+            "charEnd": 2217,
+            "id": 346,
+            "sentence": 16,
+            "text": "Es",
+            "word": 1
+        },
+        {
+            "charBegin": 2218,
+            "charEnd": 2223,
+            "id": 347,
+            "sentence": 16,
+            "text": "zeigt",
+            "word": 2
+        },
+        {
+            "charBegin": 2224,
+            "charEnd": 2230,
+            "id": 348,
+            "sentence": 16,
+            "text": "danach",
+            "word": 3
+        },
+        {
+            "charBegin": 2231,
+            "charEnd": 2242,
+            "id": 349,
+            "sentence": 16,
+            "text": "Spielszenen",
+            "word": 4
+        },
+        {
+            "charBegin": 2243,
+            "charEnd": 2249,
+            "id": 350,
+            "sentence": 16,
+            "text": "direkt",
+            "word": 5
+        },
+        {
+            "charBegin": 2250,
+            "charEnd": 2252,
+            "id": 351,
+            "sentence": 16,
+            "text": "in",
+            "word": 6
+        },
+        {
+            "charBegin": 2253,
+            "charEnd": 2256,
+            "id": 352,
+            "sentence": 16,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 2257,
+            "charEnd": 2269,
+            "id": 353,
+            "sentence": 16,
+            "text": "Spielegrafik",
+            "word": 8
+        },
+        {
+            "charBegin": 2269,
+            "charEnd": 2270,
+            "id": 354,
+            "sentence": 16,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 2272,
+            "charEnd": 2283,
+            "id": 355,
+            "sentence": 17,
+            "text": "Videospiele",
+            "word": 1
+        },
+        {
+            "charBegin": 2284,
+            "charEnd": 2290,
+            "id": 356,
+            "sentence": 17,
+            "text": "werden",
+            "word": 2
+        },
+        {
+            "charBegin": 2291,
+            "charEnd": 2296,
+            "id": 357,
+            "sentence": 17,
+            "text": "immer",
+            "word": 3
+        },
+        {
+            "charBegin": 2297,
+            "charEnd": 2305,
+            "id": 358,
+            "sentence": 17,
+            "text": "häufiger",
+            "word": 4
+        },
+        {
+            "charBegin": 2306,
+            "charEnd": 2309,
+            "id": 359,
+            "sentence": 17,
+            "text": "mit",
+            "word": 5
+        },
+        {
+            "charBegin": 2310,
+            "charEnd": 2325,
+            "id": 360,
+            "sentence": 17,
+            "text": "hochauflösenden",
+            "word": 6
+        },
+        {
+            "charBegin": 2326,
+            "charEnd": 2332,
+            "id": 361,
+            "sentence": 17,
+            "text": "Videos",
+            "word": 7
+        },
+        {
+            "charBegin": 2333,
+            "charEnd": 2341,
+            "id": 362,
+            "sentence": 17,
+            "text": "beworben",
+            "word": 8
+        },
+        {
+            "charBegin": 2341,
+            "charEnd": 2342,
+            "id": 363,
+            "sentence": 17,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 2343,
+            "charEnd": 2346,
+            "id": 364,
+            "sentence": 17,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 2347,
+            "charEnd": 2351,
+            "id": 365,
+            "sentence": 17,
+            "text": "sich",
+            "word": 11
+        },
+        {
+            "charBegin": 2352,
+            "charEnd": 2356,
+            "id": 366,
+            "sentence": 17,
+            "text": "aber",
+            "word": 12
+        },
+        {
+            "charBegin": 2357,
+            "charEnd": 2365,
+            "id": 367,
+            "sentence": 17,
+            "text": "meistens",
+            "word": 13
+        },
+        {
+            "charBegin": 2366,
+            "charEnd": 2369,
+            "id": 368,
+            "sentence": 17,
+            "text": "aus",
+            "word": 14
+        },
+        {
+            "charBegin": 2370,
+            "charEnd": 2381,
+            "id": 369,
+            "sentence": 17,
+            "text": "Spielszenen",
+            "word": 15
+        },
+        {
+            "charBegin": 2382,
+            "charEnd": 2396,
+            "id": 370,
+            "sentence": 17,
+            "text": "zusammensetzen",
+            "word": 16
+        },
+        {
+            "charBegin": 2397,
+            "charEnd": 2400,
+            "id": 371,
+            "sentence": 17,
+            "text": "und",
+            "word": 17
+        },
+        {
+            "charBegin": 2401,
+            "charEnd": 2405,
+            "id": 372,
+            "sentence": 17,
+            "text": "auch",
+            "word": 18
+        },
+        {
+            "charBegin": 2406,
+            "charEnd": 2412,
+            "id": 373,
+            "sentence": 17,
+            "text": "direkt",
+            "word": 19
+        },
+        {
+            "charBegin": 2413,
+            "charEnd": 2416,
+            "id": 374,
+            "sentence": 17,
+            "text": "aus",
+            "word": 20
+        },
+        {
+            "charBegin": 2417,
+            "charEnd": 2420,
+            "id": 375,
+            "sentence": 17,
+            "text": "dem",
+            "word": 21
+        },
+        {
+            "charBegin": 2421,
+            "charEnd": 2426,
+            "id": 376,
+            "sentence": 17,
+            "text": "Spiel",
+            "word": 22
+        },
+        {
+            "charBegin": 2427,
+            "charEnd": 2436,
+            "id": 377,
+            "sentence": 17,
+            "text": "entnommen",
+            "word": 23
+        },
+        {
+            "charBegin": 2437,
+            "charEnd": 2443,
+            "id": 378,
+            "sentence": 17,
+            "text": "wurden",
+            "word": 24
+        },
+        {
+            "charBegin": 2443,
+            "charEnd": 2444,
+            "id": 379,
+            "sentence": 17,
+            "text": ".",
+            "word": 25
+        },
+        {
+            "charBegin": 2446,
+            "charEnd": 2449,
+            "id": 380,
+            "sentence": 18,
+            "text": "Für",
+            "word": 1
+        },
+        {
+            "charBegin": 2450,
+            "charEnd": 2451,
+            "id": 381,
+            "sentence": 18,
+            "text": "„",
+            "word": 2
+        },
+        {
+            "charBegin": 2451,
+            "charEnd": 2458,
+            "id": 382,
+            "sentence": 18,
+            "text": "Fallout",
+            "word": 3
+        },
+        {
+            "charBegin": 2459,
+            "charEnd": 2460,
+            "id": 383,
+            "sentence": 18,
+            "text": "3",
+            "word": 4
+        },
+        {
+            "charBegin": 2460,
+            "charEnd": 2461,
+            "id": 384,
+            "sentence": 18,
+            "text": "“",
+            "word": 5
+        },
+        {
+            "charBegin": 2462,
+            "charEnd": 2471,
+            "id": 385,
+            "sentence": 18,
+            "text": "erstellte",
+            "word": 6
+        },
+        {
+            "charBegin": 2472,
+            "charEnd": 2475,
+            "id": 386,
+            "sentence": 18,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 2476,
+            "charEnd": 2486,
+            "id": 387,
+            "sentence": 18,
+            "text": "Entwickler",
+            "word": 8
+        },
+        {
+            "charBegin": 2487,
+            "charEnd": 2495,
+            "id": 388,
+            "sentence": 18,
+            "text": "Bethesda",
+            "word": 9
+        },
+        {
+            "charBegin": 2496,
+            "charEnd": 2500,
+            "id": 389,
+            "sentence": 18,
+            "text": "Game",
+            "word": 10
+        },
+        {
+            "charBegin": 2501,
+            "charEnd": 2508,
+            "id": 390,
+            "sentence": 18,
+            "text": "Studios",
+            "word": 11
+        },
+        {
+            "charBegin": 2509,
+            "charEnd": 2514,
+            "id": 391,
+            "sentence": 18,
+            "text": "extra",
+            "word": 12
+        },
+        {
+            "charBegin": 2515,
+            "charEnd": 2518,
+            "id": 392,
+            "sentence": 18,
+            "text": "für",
+            "word": 13
+        },
+        {
+            "charBegin": 2519,
+            "charEnd": 2522,
+            "id": 393,
+            "sentence": 18,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 2523,
+            "charEnd": 2530,
+            "id": 394,
+            "sentence": 18,
+            "text": "Werbung",
+            "word": 15
+        },
+        {
+            "charBegin": 2531,
+            "charEnd": 2536,
+            "id": 395,
+            "sentence": 18,
+            "text": "diese",
+            "word": 16
+        },
+        {
+            "charBegin": 2537,
+            "charEnd": 2543,
+            "id": 396,
+            "sentence": 18,
+            "text": "Szenen",
+            "word": 17
+        },
+        {
+            "charBegin": 2543,
+            "charEnd": 2544,
+            "id": 397,
+            "sentence": 18,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 2545,
+            "charEnd": 2548,
+            "id": 398,
+            "sentence": 19,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 2549,
+            "charEnd": 2563,
+            "id": 399,
+            "sentence": 19,
+            "text": "Teaser-Trailer",
+            "word": 2
+        },
+        {
+            "charBegin": 2564,
+            "charEnd": 2567,
+            "id": 400,
+            "sentence": 19,
+            "text": "ist",
+            "word": 3
+        },
+        {
+            "charBegin": 2568,
+            "charEnd": 2572,
+            "id": 401,
+            "sentence": 19,
+            "text": "zwar",
+            "word": 4
+        },
+        {
+            "charBegin": 2573,
+            "charEnd": 2575,
+            "id": 402,
+            "sentence": 19,
+            "text": "in",
+            "word": 5
+        },
+        {
+            "charBegin": 2576,
+            "charEnd": 2587,
+            "id": 403,
+            "sentence": 19,
+            "text": "Spielgrafik",
+            "word": 6
+        },
+        {
+            "charBegin": 2588,
+            "charEnd": 2595,
+            "id": 404,
+            "sentence": 19,
+            "text": "gemacht",
+            "word": 7
+        },
+        {
+            "charBegin": 2595,
+            "charEnd": 2596,
+            "id": 405,
+            "sentence": 19,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 2597,
+            "charEnd": 2599,
+            "id": 406,
+            "sentence": 20,
+            "text": "Es",
+            "word": 1
+        },
+        {
+            "charBegin": 2600,
+            "charEnd": 2605,
+            "id": 407,
+            "sentence": 20,
+            "text": "wurde",
+            "word": 2
+        },
+        {
+            "charBegin": 2606,
+            "charEnd": 2610,
+            "id": 408,
+            "sentence": 20,
+            "text": "laut",
+            "word": 3
+        },
+        {
+            "charBegin": 2611,
+            "charEnd": 2628,
+            "id": 409,
+            "sentence": 20,
+            "text": "Entwickleraussage",
+            "word": 4
+        },
+        {
+            "charBegin": 2629,
+            "charEnd": 2635,
+            "id": 410,
+            "sentence": 20,
+            "text": "jedoch",
+            "word": 5
+        },
+        {
+            "charBegin": 2636,
+            "charEnd": 2641,
+            "id": 411,
+            "sentence": 20,
+            "text": "nicht",
+            "word": 6
+        },
+        {
+            "charBegin": 2642,
+            "charEnd": 2649,
+            "id": 412,
+            "sentence": 20,
+            "text": "darüber",
+            "word": 7
+        },
+        {
+            "charBegin": 2650,
+            "charEnd": 2660,
+            "id": 413,
+            "sentence": 20,
+            "text": "diskutiert",
+            "word": 8
+        },
+        {
+            "charBegin": 2660,
+            "charEnd": 2661,
+            "id": 414,
+            "sentence": 20,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 2662,
+            "charEnd": 2664,
+            "id": 415,
+            "sentence": 20,
+            "text": "ob",
+            "word": 10
+        },
+        {
+            "charBegin": 2665,
+            "charEnd": 2671,
+            "id": 416,
+            "sentence": 20,
+            "text": "dieser",
+            "word": 11
+        },
+        {
+            "charBegin": 2672,
+            "charEnd": 2674,
+            "id": 417,
+            "sentence": 20,
+            "text": "im",
+            "word": 12
+        },
+        {
+            "charBegin": 2675,
+            "charEnd": 2680,
+            "id": 418,
+            "sentence": 20,
+            "text": "Spiel",
+            "word": 13
+        },
+        {
+            "charBegin": 2681,
+            "charEnd": 2691,
+            "id": 419,
+            "sentence": 20,
+            "text": "integriert",
+            "word": 14
+        },
+        {
+            "charBegin": 2692,
+            "charEnd": 2696,
+            "id": 420,
+            "sentence": 20,
+            "text": "wird",
+            "word": 15
+        },
+        {
+            "charBegin": 2696,
+            "charEnd": 2697,
+            "id": 421,
+            "sentence": 20,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 2698,
+            "charEnd": 2701,
+            "id": 422,
+            "sentence": 21,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 2702,
+            "charEnd": 2708,
+            "id": 423,
+            "sentence": 21,
+            "text": "zweite",
+            "word": 2
+        },
+        {
+            "charBegin": 2709,
+            "charEnd": 2716,
+            "id": 424,
+            "sentence": 21,
+            "text": "Trailer",
+            "word": 3
+        },
+        {
+            "charBegin": 2717,
+            "charEnd": 2720,
+            "id": 425,
+            "sentence": 21,
+            "text": "mit",
+            "word": 4
+        },
+        {
+            "charBegin": 2721,
+            "charEnd": 2727,
+            "id": 426,
+            "sentence": 21,
+            "text": "realen",
+            "word": 5
+        },
+        {
+            "charBegin": 2728,
+            "charEnd": 2741,
+            "id": 427,
+            "sentence": 21,
+            "text": "Schauspielern",
+            "word": 6
+        },
+        {
+            "charBegin": 2742,
+            "charEnd": 2745,
+            "id": 428,
+            "sentence": 21,
+            "text": "ist",
+            "word": 7
+        },
+        {
+            "charBegin": 2746,
+            "charEnd": 2749,
+            "id": 429,
+            "sentence": 21,
+            "text": "nur",
+            "word": 8
+        },
+        {
+            "charBegin": 2750,
+            "charEnd": 2753,
+            "id": 430,
+            "sentence": 21,
+            "text": "für",
+            "word": 9
+        },
+        {
+            "charBegin": 2754,
+            "charEnd": 2765,
+            "id": 431,
+            "sentence": 21,
+            "text": "Werbezwecke",
+            "word": 10
+        },
+        {
+            "charBegin": 2766,
+            "charEnd": 2774,
+            "id": 432,
+            "sentence": 21,
+            "text": "erstellt",
+            "word": 11
+        },
+        {
+            "charBegin": 2775,
+            "charEnd": 2781,
+            "id": 433,
+            "sentence": 21,
+            "text": "worden",
+            "word": 12
+        },
+        {
+            "charBegin": 2782,
+            "charEnd": 2785,
+            "id": 434,
+            "sentence": 21,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 2786,
+            "charEnd": 2790,
+            "id": 435,
+            "sentence": 21,
+            "text": "wird",
+            "word": 14
+        },
+        {
+            "charBegin": 2791,
+            "charEnd": 2793,
+            "id": 436,
+            "sentence": 21,
+            "text": "im",
+            "word": 15
+        },
+        {
+            "charBegin": 2794,
+            "charEnd": 2799,
+            "id": 437,
+            "sentence": 21,
+            "text": "Spiel",
+            "word": 16
+        },
+        {
+            "charBegin": 2800,
+            "charEnd": 2805,
+            "id": 438,
+            "sentence": 21,
+            "text": "nicht",
+            "word": 17
+        },
+        {
+            "charBegin": 2806,
+            "charEnd": 2816,
+            "id": 439,
+            "sentence": 21,
+            "text": "auftauchen",
+            "word": 18
+        },
+        {
+            "charBegin": 2816,
+            "charEnd": 2817,
+            "id": 440,
+            "sentence": 21,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 2818,
+            "charEnd": 2820,
+            "id": 441,
+            "sentence": 22,
+            "text": "Es",
+            "word": 1
+        },
+        {
+            "charBegin": 2821,
+            "charEnd": 2824,
+            "id": 442,
+            "sentence": 22,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 2825,
+            "charEnd": 2828,
+            "id": 443,
+            "sentence": 22,
+            "text": "das",
+            "word": 3
+        },
+        {
+            "charBegin": 2829,
+            "charEnd": 2834,
+            "id": 444,
+            "sentence": 22,
+            "text": "erste",
+            "word": 4
+        },
+        {
+            "charBegin": 2835,
+            "charEnd": 2838,
+            "id": 445,
+            "sentence": 22,
+            "text": "Mal",
+            "word": 5
+        },
+        {
+            "charBegin": 2838,
+            "charEnd": 2839,
+            "id": 446,
+            "sentence": 22,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 2840,
+            "charEnd": 2844,
+            "id": 447,
+            "sentence": 22,
+            "text": "dass",
+            "word": 7
+        },
+        {
+            "charBegin": 2845,
+            "charEnd": 2847,
+            "id": 448,
+            "sentence": 22,
+            "text": "so",
+            "word": 8
+        },
+        {
+            "charBegin": 2848,
+            "charEnd": 2851,
+            "id": 449,
+            "sentence": 22,
+            "text": "ein",
+            "word": 9
+        },
+        {
+            "charBegin": 2852,
+            "charEnd": 2859,
+            "id": 450,
+            "sentence": 22,
+            "text": "Aufwand",
+            "word": 10
+        },
+        {
+            "charBegin": 2860,
+            "charEnd": 2862,
+            "id": 451,
+            "sentence": 22,
+            "text": "im",
+            "word": 11
+        },
+        {
+            "charBegin": 2863,
+            "charEnd": 2876,
+            "id": 452,
+            "sentence": 22,
+            "text": "Spielebereich",
+            "word": 12
+        },
+        {
+            "charBegin": 2877,
+            "charEnd": 2880,
+            "id": 453,
+            "sentence": 22,
+            "text": "für",
+            "word": 13
+        },
+        {
+            "charBegin": 2881,
+            "charEnd": 2884,
+            "id": 454,
+            "sentence": 22,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 2885,
+            "charEnd": 2892,
+            "id": 455,
+            "sentence": 22,
+            "text": "Werbung",
+            "word": 15
+        },
+        {
+            "charBegin": 2893,
+            "charEnd": 2901,
+            "id": 456,
+            "sentence": 22,
+            "text": "getätigt",
+            "word": 16
+        },
+        {
+            "charBegin": 2902,
+            "charEnd": 2907,
+            "id": 457,
+            "sentence": 22,
+            "text": "wurde",
+            "word": 17
+        },
+        {
+            "charBegin": 2907,
+            "charEnd": 2908,
+            "id": 458,
+            "sentence": 22,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 2909,
+            "charEnd": 2914,
+            "id": 459,
+            "sentence": 23,
+            "text": "Beide",
+            "word": 1
+        },
+        {
+            "charBegin": 2915,
+            "charEnd": 2922,
+            "id": 460,
+            "sentence": 23,
+            "text": "Trailer",
+            "word": 2
+        },
+        {
+            "charBegin": 2923,
+            "charEnd": 2927,
+            "id": 461,
+            "sentence": 23,
+            "text": "sind",
+            "word": 3
+        },
+        {
+            "charBegin": 2928,
+            "charEnd": 2931,
+            "id": 462,
+            "sentence": 23,
+            "text": "auf",
+            "word": 4
+        },
+        {
+            "charBegin": 2932,
+            "charEnd": 2935,
+            "id": 463,
+            "sentence": 23,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 2936,
+            "charEnd": 2951,
+            "id": 464,
+            "sentence": 23,
+            "text": "Herstellerseite",
+            "word": 6
+        },
+        {
+            "charBegin": 2952,
+            "charEnd": 2955,
+            "id": 465,
+            "sentence": 23,
+            "text": "als",
+            "word": 7
+        },
+        {
+            "charBegin": 2956,
+            "charEnd": 2965,
+            "id": 466,
+            "sentence": 23,
+            "text": "720p29.96",
+            "word": 8
+        },
+        {
+            "charBegin": 2966,
+            "charEnd": 2969,
+            "id": 467,
+            "sentence": 23,
+            "text": "als",
+            "word": 9
+        },
+        {
+            "charBegin": 2970,
+            "charEnd": 2978,
+            "id": 468,
+            "sentence": 23,
+            "text": "Download",
+            "word": 10
+        },
+        {
+            "charBegin": 2979,
+            "charEnd": 2988,
+            "id": 469,
+            "sentence": 23,
+            "text": "verfügbar",
+            "word": 11
+        },
+        {
+            "charBegin": 2988,
+            "charEnd": 2989,
+            "id": 470,
+            "sentence": 23,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 2991,
+            "charEnd": 2994,
+            "id": 471,
+            "sentence": 24,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 2995,
+            "charEnd": 3000,
+            "id": 472,
+            "sentence": 24,
+            "text": "Spiel",
+            "word": 2
+        },
+        {
+            "charBegin": 3001,
+            "charEnd": 3003,
+            "id": 473,
+            "sentence": 24,
+            "text": "an",
+            "word": 3
+        },
+        {
+            "charBegin": 3004,
+            "charEnd": 3008,
+            "id": 474,
+            "sentence": 24,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 3009,
+            "charEnd": 3016,
+            "id": 475,
+            "sentence": 24,
+            "text": "liefert",
+            "word": 5
+        },
+        {
+            "charBegin": 3017,
+            "charEnd": 3031,
+            "id": 476,
+            "sentence": 24,
+            "text": "hochauflösende",
+            "word": 6
+        },
+        {
+            "charBegin": 3032,
+            "charEnd": 3040,
+            "id": 477,
+            "sentence": 24,
+            "text": "Grafiken",
+            "word": 7
+        },
+        {
+            "charBegin": 3040,
+            "charEnd": 3041,
+            "id": 478,
+            "sentence": 24,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 3042,
+            "charEnd": 3052,
+            "id": 479,
+            "sentence": 24,
+            "text": "allerdings",
+            "word": 9
+        },
+        {
+            "charBegin": 3053,
+            "charEnd": 3059,
+            "id": 480,
+            "sentence": 24,
+            "text": "wurden",
+            "word": 10
+        },
+        {
+            "charBegin": 3060,
+            "charEnd": 3064,
+            "id": 481,
+            "sentence": 24,
+            "text": "noch",
+            "word": 11
+        },
+        {
+            "charBegin": 3065,
+            "charEnd": 3070,
+            "id": 482,
+            "sentence": 24,
+            "text": "keine",
+            "word": 12
+        },
+        {
+            "charBegin": 3071,
+            "charEnd": 3091,
+            "id": 483,
+            "sentence": 24,
+            "text": "Mindestanforderungen",
+            "word": 13
+        },
+        {
+            "charBegin": 3092,
+            "charEnd": 3106,
+            "id": 484,
+            "sentence": 24,
+            "text": "veröffentlicht",
+            "word": 14
+        },
+        {
+            "charBegin": 3106,
+            "charEnd": 3107,
+            "id": 485,
+            "sentence": 24,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 3108,
+            "charEnd": 3111,
+            "id": 486,
+            "sentence": 24,
+            "text": "die",
+            "word": 16
+        },
+        {
+            "charBegin": 3112,
+            "charEnd": 3115,
+            "id": 487,
+            "sentence": 24,
+            "text": "ein",
+            "word": 17
+        },
+        {
+            "charBegin": 3116,
+            "charEnd": 3122,
+            "id": 488,
+            "sentence": 24,
+            "text": "System",
+            "word": 18
+        },
+        {
+            "charBegin": 3123,
+            "charEnd": 3128,
+            "id": 489,
+            "sentence": 24,
+            "text": "haben",
+            "word": 19
+        },
+        {
+            "charBegin": 3129,
+            "charEnd": 3133,
+            "id": 490,
+            "sentence": 24,
+            "text": "muss",
+            "word": 20
+        },
+        {
+            "charBegin": 3133,
+            "charEnd": 3134,
+            "id": 491,
+            "sentence": 24,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 3135,
+            "charEnd": 3138,
+            "id": 492,
+            "sentence": 24,
+            "text": "auf",
+            "word": 22
+        },
+        {
+            "charBegin": 3139,
+            "charEnd": 3142,
+            "id": 493,
+            "sentence": 24,
+            "text": "dem",
+            "word": 23
+        },
+        {
+            "charBegin": 3143,
+            "charEnd": 3146,
+            "id": 494,
+            "sentence": 24,
+            "text": "das",
+            "word": 24
+        },
+        {
+            "charBegin": 3147,
+            "charEnd": 3152,
+            "id": 495,
+            "sentence": 24,
+            "text": "Spiel",
+            "word": 25
+        },
+        {
+            "charBegin": 3153,
+            "charEnd": 3158,
+            "id": 496,
+            "sentence": 24,
+            "text": "läuft",
+            "word": 26
+        },
+        {
+            "charBegin": 3158,
+            "charEnd": 3159,
+            "id": 497,
+            "sentence": 24,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 3162,
+            "charEnd": 3168,
+            "id": 498,
+            "sentence": 25,
+            "text": "Nähere",
+            "word": 1
+        },
+        {
+            "charBegin": 3169,
+            "charEnd": 3176,
+            "id": 499,
+            "sentence": 26,
+            "text": "Angaben",
+            "word": 1
+        },
+        {
+            "charBegin": 3177,
+            "charEnd": 3180,
+            "id": 500,
+            "sentence": 26,
+            "text": "zur",
+            "word": 2
+        },
+        {
+            "charBegin": 3181,
+            "charEnd": 3190,
+            "id": 501,
+            "sentence": 26,
+            "text": "maximalen",
+            "word": 3
+        },
+        {
+            "charBegin": 3191,
+            "charEnd": 3200,
+            "id": 502,
+            "sentence": 26,
+            "text": "Auflösung",
+            "word": 4
+        },
+        {
+            "charBegin": 3201,
+            "charEnd": 3204,
+            "id": 503,
+            "sentence": 26,
+            "text": "und",
+            "word": 5
+        },
+        {
+            "charBegin": 3205,
+            "charEnd": 3208,
+            "id": 504,
+            "sentence": 26,
+            "text": "zur",
+            "word": 6
+        },
+        {
+            "charBegin": 3209,
+            "charEnd": 3224,
+            "id": 505,
+            "sentence": 26,
+            "text": "Audiowiedergabe",
+            "word": 7
+        },
+        {
+            "charBegin": 3225,
+            "charEnd": 3228,
+            "id": 506,
+            "sentence": 26,
+            "text": "des",
+            "word": 8
+        },
+        {
+            "charBegin": 3229,
+            "charEnd": 3236,
+            "id": 507,
+            "sentence": 26,
+            "text": "Spieles",
+            "word": 9
+        },
+        {
+            "charBegin": 3237,
+            "charEnd": 3241,
+            "id": 508,
+            "sentence": 26,
+            "text": "sind",
+            "word": 10
+        },
+        {
+            "charBegin": 3242,
+            "charEnd": 3246,
+            "id": 509,
+            "sentence": 26,
+            "text": "noch",
+            "word": 11
+        },
+        {
+            "charBegin": 3247,
+            "charEnd": 3252,
+            "id": 510,
+            "sentence": 26,
+            "text": "nicht",
+            "word": 12
+        },
+        {
+            "charBegin": 3253,
+            "charEnd": 3262,
+            "id": 511,
+            "sentence": 26,
+            "text": "verfügbar",
+            "word": 13
+        },
+        {
+            "charBegin": 3263,
+            "charEnd": 3266,
+            "id": 512,
+            "sentence": 26,
+            "text": "und",
+            "word": 14
+        },
+        {
+            "charBegin": 3267,
+            "charEnd": 3273,
+            "id": 513,
+            "sentence": 26,
+            "text": "werden",
+            "word": 15
+        },
+        {
+            "charBegin": 3274,
+            "charEnd": 3278,
+            "id": 514,
+            "sentence": 26,
+            "text": "noch",
+            "word": 16
+        },
+        {
+            "charBegin": 3279,
+            "charEnd": 3293,
+            "id": 515,
+            "sentence": 26,
+            "text": "veröffentlicht",
+            "word": 17
+        },
+        {
+            "charBegin": 3293,
+            "charEnd": 3294,
+            "id": 516,
+            "sentence": 26,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 3295,
+            "charEnd": 3298,
+            "id": 517,
+            "sentence": 27,
+            "text": "Für",
+            "word": 1
+        },
+        {
+            "charBegin": 3299,
+            "charEnd": 3302,
+            "id": 518,
+            "sentence": 27,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 3303,
+            "charEnd": 3321,
+            "id": 519,
+            "sentence": 27,
+            "text": "Spielgrafik-Engine",
+            "word": 3
+        },
+        {
+            "charBegin": 3322,
+            "charEnd": 3326,
+            "id": 520,
+            "sentence": 27,
+            "text": "wird",
+            "word": 4
+        },
+        {
+            "charBegin": 3327,
+            "charEnd": 3331,
+            "id": 521,
+            "sentence": 27,
+            "text": "eine",
+            "word": 5
+        },
+        {
+            "charBegin": 3332,
+            "charEnd": 3342,
+            "id": 522,
+            "sentence": 27,
+            "text": "veränderte",
+            "word": 6
+        },
+        {
+            "charBegin": 3343,
+            "charEnd": 3350,
+            "id": 523,
+            "sentence": 27,
+            "text": "Version",
+            "word": 7
+        },
+        {
+            "charBegin": 3351,
+            "charEnd": 3354,
+            "id": 524,
+            "sentence": 27,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 3355,
+            "charEnd": 3361,
+            "id": 525,
+            "sentence": 27,
+            "text": "Engine",
+            "word": 9
+        },
+        {
+            "charBegin": 3362,
+            "charEnd": 3371,
+            "id": 526,
+            "sentence": 27,
+            "text": "verwendet",
+            "word": 10
+        },
+        {
+            "charBegin": 3371,
+            "charEnd": 3372,
+            "id": 527,
+            "sentence": 27,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 3373,
+            "charEnd": 3376,
+            "id": 528,
+            "sentence": 27,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 3377,
+            "charEnd": 3382,
+            "id": 529,
+            "sentence": 27,
+            "text": "zuvor",
+            "word": 13
+        },
+        {
+            "charBegin": 3383,
+            "charEnd": 3385,
+            "id": 530,
+            "sentence": 27,
+            "text": "in",
+            "word": 14
+        },
+        {
+            "charBegin": 3386,
+            "charEnd": 3387,
+            "id": 531,
+            "sentence": 27,
+            "text": "„",
+            "word": 15
+        },
+        {
+            "charBegin": 3387,
+            "charEnd": 3390,
+            "id": 532,
+            "sentence": 27,
+            "text": "The",
+            "word": 16
+        },
+        {
+            "charBegin": 3391,
+            "charEnd": 3396,
+            "id": 533,
+            "sentence": 27,
+            "text": "Elder",
+            "word": 17
+        },
+        {
+            "charBegin": 3397,
+            "charEnd": 3404,
+            "id": 534,
+            "sentence": 27,
+            "text": "Scrolls",
+            "word": 18
+        },
+        {
+            "charBegin": 3405,
+            "charEnd": 3407,
+            "id": 535,
+            "sentence": 27,
+            "text": "IV",
+            "word": 19
+        },
+        {
+            "charBegin": 3407,
+            "charEnd": 3408,
+            "id": 536,
+            "sentence": 27,
+            "text": ":",
+            "word": 20
+        },
+        {
+            "charBegin": 3409,
+            "charEnd": 3417,
+            "id": 537,
+            "sentence": 27,
+            "text": "Oblivion",
+            "word": 21
+        },
+        {
+            "charBegin": 3417,
+            "charEnd": 3418,
+            "id": 538,
+            "sentence": 27,
+            "text": "“",
+            "word": 22
+        },
+        {
+            "charBegin": 3418,
+            "charEnd": 3419,
+            "id": 539,
+            "sentence": 27,
+            "text": ",",
+            "word": 23
+        },
+        {
+            "charBegin": 3420,
+            "charEnd": 3429,
+            "id": 540,
+            "sentence": 27,
+            "text": "ebenfalls",
+            "word": 24
+        },
+        {
+            "charBegin": 3430,
+            "charEnd": 3435,
+            "id": 541,
+            "sentence": 27,
+            "text": "einem",
+            "word": 25
+        },
+        {
+            "charBegin": 3436,
+            "charEnd": 3450,
+            "id": 542,
+            "sentence": 27,
+            "text": "Bethesda-Spiel",
+            "word": 26
+        },
+        {
+            "charBegin": 3450,
+            "charEnd": 3451,
+            "id": 543,
+            "sentence": 27,
+            "text": ",",
+            "word": 27
+        },
+        {
+            "charBegin": 3452,
+            "charEnd": 3455,
+            "id": 544,
+            "sentence": 27,
+            "text": "zum",
+            "word": 28
+        },
+        {
+            "charBegin": 3456,
+            "charEnd": 3463,
+            "id": 545,
+            "sentence": 27,
+            "text": "Einsatz",
+            "word": 29
+        },
+        {
+            "charBegin": 3464,
+            "charEnd": 3467,
+            "id": 546,
+            "sentence": 27,
+            "text": "kam",
+            "word": 30
+        },
+        {
+            "charBegin": 3467,
+            "charEnd": 3468,
+            "id": 547,
+            "sentence": 27,
+            "text": ".",
+            "word": 31
+        },
+        {
+            "charBegin": 3469,
+            "charEnd": 3471,
+            "id": 548,
+            "sentence": 28,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 3472,
+            "charEnd": 3478,
+            "id": 549,
+            "sentence": 28,
+            "text": "diesem",
+            "word": 2
+        },
+        {
+            "charBegin": 3479,
+            "charEnd": 3485,
+            "id": 550,
+            "sentence": 28,
+            "text": "wurden",
+            "word": 3
+        },
+        {
+            "charBegin": 3486,
+            "charEnd": 3493,
+            "id": 551,
+            "sentence": 28,
+            "text": "bereits",
+            "word": 4
+        },
+        {
+            "charBegin": 3494,
+            "charEnd": 3505,
+            "id": 552,
+            "sentence": 28,
+            "text": "Auflösungen",
+            "word": 5
+        },
+        {
+            "charBegin": 3506,
+            "charEnd": 3509,
+            "id": 553,
+            "sentence": 28,
+            "text": "bis",
+            "word": 6
+        },
+        {
+            "charBegin": 3510,
+            "charEnd": 3519,
+            "id": 554,
+            "sentence": 28,
+            "text": "1920*1080",
+            "word": 7
+        },
+        {
+            "charBegin": 3519,
+            "charEnd": 3520,
+            "id": 555,
+            "sentence": 28,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 3521,
+            "charEnd": 3524,
+            "id": 556,
+            "sentence": 28,
+            "text": "was",
+            "word": 9
+        },
+        {
+            "charBegin": 3525,
+            "charEnd": 3537,
+            "id": 557,
+            "sentence": 28,
+            "text": "HDTV-konform",
+            "word": 10
+        },
+        {
+            "charBegin": 3538,
+            "charEnd": 3541,
+            "id": 558,
+            "sentence": 28,
+            "text": "ist",
+            "word": 11
+        },
+        {
+            "charBegin": 3541,
+            "charEnd": 3542,
+            "id": 559,
+            "sentence": 28,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 3543,
+            "charEnd": 3545,
+            "id": 560,
+            "sentence": 28,
+            "text": "im",
+            "word": 13
+        },
+        {
+            "charBegin": 3546,
+            "charEnd": 3552,
+            "id": 561,
+            "sentence": 28,
+            "text": "echten",
+            "word": 14
+        },
+        {
+            "charBegin": 3553,
+            "charEnd": 3563,
+            "id": 562,
+            "sentence": 28,
+            "text": "Widescreen",
+            "word": 15
+        },
+        {
+            "charBegin": 3564,
+            "charEnd": 3575,
+            "id": 563,
+            "sentence": 28,
+            "text": "unterstützt",
+            "word": 16
+        },
+        {
+            "charBegin": 3575,
+            "charEnd": 3576,
+            "id": 564,
+            "sentence": 28,
+            "text": ".",
+            "word": 17
+        },
+        {
+            "charBegin": 3577,
+            "charEnd": 3579,
+            "id": 565,
+            "sentence": 29,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 3580,
+            "charEnd": 3596,
+            "id": 566,
+            "sentence": 29,
+            "text": "Widescreen-Modus",
+            "word": 2
+        },
+        {
+            "charBegin": 3597,
+            "charEnd": 3598,
+            "id": 567,
+            "sentence": 29,
+            "text": "(",
+            "word": 3
+        },
+        {
+            "charBegin": 3598,
+            "charEnd": 3602,
+            "id": 568,
+            "sentence": 29,
+            "text": "16:9",
+            "word": 4
+        },
+        {
+            "charBegin": 3602,
+            "charEnd": 3603,
+            "id": 569,
+            "sentence": 29,
+            "text": ")",
+            "word": 5
+        },
+        {
+            "charBegin": 3604,
+            "charEnd": 3607,
+            "id": 570,
+            "sentence": 29,
+            "text": "ist",
+            "word": 6
+        },
+        {
+            "charBegin": 3608,
+            "charEnd": 3613,
+            "id": 571,
+            "sentence": 29,
+            "text": "sogar",
+            "word": 7
+        },
+        {
+            "charBegin": 3614,
+            "charEnd": 3619,
+            "id": 572,
+            "sentence": 29,
+            "text": "etwas",
+            "word": 8
+        },
+        {
+            "charBegin": 3620,
+            "charEnd": 3624,
+            "id": 573,
+            "sentence": 29,
+            "text": "mehr",
+            "word": 9
+        },
+        {
+            "charBegin": 3625,
+            "charEnd": 3627,
+            "id": 574,
+            "sentence": 29,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 3628,
+            "charEnd": 3631,
+            "id": 575,
+            "sentence": 29,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 3632,
+            "charEnd": 3644,
+            "id": 576,
+            "sentence": 29,
+            "text": "Horizontalen",
+            "word": 12
+        },
+        {
+            "charBegin": 3645,
+            "charEnd": 3647,
+            "id": 577,
+            "sentence": 29,
+            "text": "zu",
+            "word": 13
+        },
+        {
+            "charBegin": 3648,
+            "charEnd": 3656,
+            "id": 578,
+            "sentence": 29,
+            "text": "erkennen",
+            "word": 14
+        },
+        {
+            "charBegin": 3656,
+            "charEnd": 3657,
+            "id": 579,
+            "sentence": 29,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 3658,
+            "charEnd": 3661,
+            "id": 580,
+            "sentence": 29,
+            "text": "was",
+            "word": 16
+        },
+        {
+            "charBegin": 3662,
+            "charEnd": 3665,
+            "id": 581,
+            "sentence": 29,
+            "text": "bei",
+            "word": 17
+        },
+        {
+            "charBegin": 3666,
+            "charEnd": 3673,
+            "id": 582,
+            "sentence": 29,
+            "text": "anderen",
+            "word": 18
+        },
+        {
+            "charBegin": 3674,
+            "charEnd": 3681,
+            "id": 583,
+            "sentence": 29,
+            "text": "Spielen",
+            "word": 19
+        },
+        {
+            "charBegin": 3682,
+            "charEnd": 3687,
+            "id": 584,
+            "sentence": 29,
+            "text": "nicht",
+            "word": 20
+        },
+        {
+            "charBegin": 3688,
+            "charEnd": 3695,
+            "id": 585,
+            "sentence": 29,
+            "text": "möglich",
+            "word": 21
+        },
+        {
+            "charBegin": 3696,
+            "charEnd": 3699,
+            "id": 586,
+            "sentence": 29,
+            "text": "ist",
+            "word": 22
+        },
+        {
+            "charBegin": 3699,
+            "charEnd": 3700,
+            "id": 587,
+            "sentence": 29,
+            "text": ",",
+            "word": 23
+        },
+        {
+            "charBegin": 3701,
+            "charEnd": 3703,
+            "id": 588,
+            "sentence": 29,
+            "text": "da",
+            "word": 24
+        },
+        {
+            "charBegin": 3704,
+            "charEnd": 3707,
+            "id": 589,
+            "sentence": 29,
+            "text": "bei",
+            "word": 25
+        },
+        {
+            "charBegin": 3708,
+            "charEnd": 3713,
+            "id": 590,
+            "sentence": 29,
+            "text": "denen",
+            "word": 26
+        },
+        {
+            "charBegin": 3714,
+            "charEnd": 3717,
+            "id": 591,
+            "sentence": 29,
+            "text": "das",
+            "word": 27
+        },
+        {
+            "charBegin": 3718,
+            "charEnd": 3726,
+            "id": 592,
+            "sentence": 29,
+            "text": "4:3-Bild",
+            "word": 28
+        },
+        {
+            "charBegin": 3727,
+            "charEnd": 3730,
+            "id": 593,
+            "sentence": 29,
+            "text": "nur",
+            "word": 29
+        },
+        {
+            "charBegin": 3731,
+            "charEnd": 3734,
+            "id": 594,
+            "sentence": 29,
+            "text": "mit",
+            "word": 30
+        },
+        {
+            "charBegin": 3735,
+            "charEnd": 3744,
+            "id": 595,
+            "sentence": 29,
+            "text": "optischen",
+            "word": 31
+        },
+        {
+            "charBegin": 3745,
+            "charEnd": 3751,
+            "id": 596,
+            "sentence": 29,
+            "text": "Tricks",
+            "word": 32
+        },
+        {
+            "charBegin": 3752,
+            "charEnd": 3755,
+            "id": 597,
+            "sentence": 29,
+            "text": "auf",
+            "word": 33
+        },
+        {
+            "charBegin": 3756,
+            "charEnd": 3759,
+            "id": 598,
+            "sentence": 29,
+            "text": "das",
+            "word": 34
+        },
+        {
+            "charBegin": 3760,
+            "charEnd": 3770,
+            "id": 599,
+            "sentence": 29,
+            "text": "Verhältnis",
+            "word": 35
+        },
+        {
+            "charBegin": 3771,
+            "charEnd": 3775,
+            "id": 600,
+            "sentence": 29,
+            "text": "16:9",
+            "word": 36
+        },
+        {
+            "charBegin": 3776,
+            "charEnd": 3785,
+            "id": 601,
+            "sentence": 29,
+            "text": "angepasst",
+            "word": 37
+        },
+        {
+            "charBegin": 3786,
+            "charEnd": 3790,
+            "id": 602,
+            "sentence": 29,
+            "text": "wird",
+            "word": 38
+        },
+        {
+            "charBegin": 3790,
+            "charEnd": 3791,
+            "id": 603,
+            "sentence": 29,
+            "text": ".",
+            "word": 39
+        }
+    ]
+}

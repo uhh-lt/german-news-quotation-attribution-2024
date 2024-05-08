@@ -1,0 +1,917 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 30,
+                        "charBegin": 167,
+                        "charEnd": 172,
+                        "end": 31
+                    },
+                    {
+                        "begin": 36,
+                        "charBegin": 209,
+                        "charEnd": 218,
+                        "end": 37
+                    }
+                ],
+                "text": "haben bestätigt",
+                "tokenIds": [
+                    30,
+                    36
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 26,
+                        "charBegin": 136,
+                        "charEnd": 219,
+                        "end": 38
+                    }
+                ],
+                "text": "Experten der polnischen Marine haben das Wrack untersucht und vorgestern bestätigt,",
+                "tokenIds": [
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 38,
+                        "charBegin": 220,
+                        "charEnd": 293,
+                        "end": 51
+                    }
+                ],
+                "text": "dass es sich mit großer Wahrscheinlichkeit um die „Graf Zeppelin“ handele",
+                "tokenIds": [
+                    38,
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45,
+                    46,
+                    47,
+                    48,
+                    49,
+                    50
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 26,
+                        "charBegin": 136,
+                        "charEnd": 166,
+                        "end": 30
+                    }
+                ],
+                "text": "Experten der polnischen Marine",
+                "tokenIds": [
+                    26,
+                    27,
+                    28,
+                    29
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "30570 - Echtheit des Wracks von „Graf Zeppelin“ bestätigt (2006-07-28)",
+    "originalText": "Jetzt ist es sicher: Das Schiffswrack, das in der Ostsee entdeckt wurde, ist tatsächlich das Wrack des Flugzeugträgers „Graf Zeppelin“. Experten der polnischen Marine haben das Wrack untersucht und vorgestern bestätigt, dass es sich mit großer Wahrscheinlichkeit um die „Graf Zeppelin“ handele. Die Spezialisten, die mit einem Echolot das Wrack vermaßen und auch ein Unterwasserfahrzeug einsetzten, waren mit dem Spezialschiff „Arctowski“ unterwegs.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 135,
+            "end": 26,
+            "id": 0,
+            "text": "Jetzt ist es sicher: Das Schiffswrack, das in der Ostsee entdeckt wurde, ist tatsächlich das Wrack des Flugzeugträgers „Graf Zeppelin“. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "tokens": [
+                "Jetzt",
+                "ist",
+                "es",
+                "sicher",
+                ":",
+                "Das",
+                "Schiffswrack",
+                ",",
+                "das",
+                "in",
+                "der",
+                "Ostsee",
+                "entdeckt",
+                "wurde",
+                ",",
+                "ist",
+                "tatsächlich",
+                "das",
+                "Wrack",
+                "des",
+                "Flugzeugträgers",
+                "„",
+                "Graf",
+                "Zeppelin",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 26,
+            "charBegin": 136,
+            "charEnd": 294,
+            "end": 52,
+            "id": 1,
+            "text": "Experten der polnischen Marine haben das Wrack untersucht und vorgestern bestätigt, dass es sich mit großer Wahrscheinlichkeit um die „Graf Zeppelin“ handele. ",
+            "tokenIds": [
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51
+            ],
+            "tokens": [
+                "Experten",
+                "der",
+                "polnischen",
+                "Marine",
+                "haben",
+                "das",
+                "Wrack",
+                "untersucht",
+                "und",
+                "vorgestern",
+                "bestätigt",
+                ",",
+                "dass",
+                "es",
+                "sich",
+                "mit",
+                "großer",
+                "Wahrscheinlichkeit",
+                "um",
+                "die",
+                "„",
+                "Graf",
+                "Zeppelin",
+                "“",
+                "handele",
+                "."
+            ]
+        },
+        {
+            "begin": 52,
+            "charBegin": 295,
+            "charEnd": 449,
+            "end": 77,
+            "id": 2,
+            "text": "Die Spezialisten, die mit einem Echolot das Wrack vermaßen und auch ein Unterwasserfahrzeug einsetzten, waren mit dem Spezialschiff „Arctowski“ unterwegs.",
+            "tokenIds": [
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76
+            ],
+            "tokens": [
+                "Die",
+                "Spezialisten",
+                ",",
+                "die",
+                "mit",
+                "einem",
+                "Echolot",
+                "das",
+                "Wrack",
+                "vermaßen",
+                "und",
+                "auch",
+                "ein",
+                "Unterwasserfahrzeug",
+                "einsetzten",
+                ",",
+                "waren",
+                "mit",
+                "dem",
+                "Spezialschiff",
+                "„",
+                "Arctowski",
+                "“",
+                "unterwegs",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 5,
+            "id": 0,
+            "sentence": 1,
+            "text": "Jetzt",
+            "word": 1
+        },
+        {
+            "charBegin": 6,
+            "charEnd": 9,
+            "id": 1,
+            "sentence": 1,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 10,
+            "charEnd": 12,
+            "id": 2,
+            "sentence": 1,
+            "text": "es",
+            "word": 3
+        },
+        {
+            "charBegin": 13,
+            "charEnd": 19,
+            "id": 3,
+            "sentence": 1,
+            "text": "sicher",
+            "word": 4
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 20,
+            "id": 4,
+            "sentence": 1,
+            "text": ":",
+            "word": 5
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 24,
+            "id": 5,
+            "sentence": 1,
+            "text": "Das",
+            "word": 6
+        },
+        {
+            "charBegin": 25,
+            "charEnd": 37,
+            "id": 6,
+            "sentence": 1,
+            "text": "Schiffswrack",
+            "word": 7
+        },
+        {
+            "charBegin": 37,
+            "charEnd": 38,
+            "id": 7,
+            "sentence": 1,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 39,
+            "charEnd": 42,
+            "id": 8,
+            "sentence": 1,
+            "text": "das",
+            "word": 9
+        },
+        {
+            "charBegin": 43,
+            "charEnd": 45,
+            "id": 9,
+            "sentence": 1,
+            "text": "in",
+            "word": 10
+        },
+        {
+            "charBegin": 46,
+            "charEnd": 49,
+            "id": 10,
+            "sentence": 1,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 56,
+            "id": 11,
+            "sentence": 1,
+            "text": "Ostsee",
+            "word": 12
+        },
+        {
+            "charBegin": 57,
+            "charEnd": 65,
+            "id": 12,
+            "sentence": 1,
+            "text": "entdeckt",
+            "word": 13
+        },
+        {
+            "charBegin": 66,
+            "charEnd": 71,
+            "id": 13,
+            "sentence": 1,
+            "text": "wurde",
+            "word": 14
+        },
+        {
+            "charBegin": 71,
+            "charEnd": 72,
+            "id": 14,
+            "sentence": 1,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 76,
+            "id": 15,
+            "sentence": 1,
+            "text": "ist",
+            "word": 16
+        },
+        {
+            "charBegin": 77,
+            "charEnd": 88,
+            "id": 16,
+            "sentence": 1,
+            "text": "tatsächlich",
+            "word": 17
+        },
+        {
+            "charBegin": 89,
+            "charEnd": 92,
+            "id": 17,
+            "sentence": 1,
+            "text": "das",
+            "word": 18
+        },
+        {
+            "charBegin": 93,
+            "charEnd": 98,
+            "id": 18,
+            "sentence": 1,
+            "text": "Wrack",
+            "word": 19
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 102,
+            "id": 19,
+            "sentence": 1,
+            "text": "des",
+            "word": 20
+        },
+        {
+            "charBegin": 103,
+            "charEnd": 118,
+            "id": 20,
+            "sentence": 1,
+            "text": "Flugzeugträgers",
+            "word": 21
+        },
+        {
+            "charBegin": 119,
+            "charEnd": 120,
+            "id": 21,
+            "sentence": 1,
+            "text": "„",
+            "word": 22
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 124,
+            "id": 22,
+            "sentence": 1,
+            "text": "Graf",
+            "word": 23
+        },
+        {
+            "charBegin": 125,
+            "charEnd": 133,
+            "id": 23,
+            "sentence": 1,
+            "text": "Zeppelin",
+            "word": 24
+        },
+        {
+            "charBegin": 133,
+            "charEnd": 134,
+            "id": 24,
+            "sentence": 1,
+            "text": "“",
+            "word": 25
+        },
+        {
+            "charBegin": 134,
+            "charEnd": 135,
+            "id": 25,
+            "sentence": 1,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 136,
+            "charEnd": 144,
+            "id": 26,
+            "sentence": 2,
+            "text": "Experten",
+            "word": 1
+        },
+        {
+            "charBegin": 145,
+            "charEnd": 148,
+            "id": 27,
+            "sentence": 2,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 159,
+            "id": 28,
+            "sentence": 2,
+            "text": "polnischen",
+            "word": 3
+        },
+        {
+            "charBegin": 160,
+            "charEnd": 166,
+            "id": 29,
+            "sentence": 2,
+            "text": "Marine",
+            "word": 4
+        },
+        {
+            "charBegin": 167,
+            "charEnd": 172,
+            "id": 30,
+            "sentence": 2,
+            "text": "haben",
+            "word": 5
+        },
+        {
+            "charBegin": 173,
+            "charEnd": 176,
+            "id": 31,
+            "sentence": 2,
+            "text": "das",
+            "word": 6
+        },
+        {
+            "charBegin": 177,
+            "charEnd": 182,
+            "id": 32,
+            "sentence": 2,
+            "text": "Wrack",
+            "word": 7
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 193,
+            "id": 33,
+            "sentence": 2,
+            "text": "untersucht",
+            "word": 8
+        },
+        {
+            "charBegin": 194,
+            "charEnd": 197,
+            "id": 34,
+            "sentence": 2,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 198,
+            "charEnd": 208,
+            "id": 35,
+            "sentence": 2,
+            "text": "vorgestern",
+            "word": 10
+        },
+        {
+            "charBegin": 209,
+            "charEnd": 218,
+            "id": 36,
+            "sentence": 2,
+            "text": "bestätigt",
+            "word": 11
+        },
+        {
+            "charBegin": 218,
+            "charEnd": 219,
+            "id": 37,
+            "sentence": 2,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 220,
+            "charEnd": 224,
+            "id": 38,
+            "sentence": 2,
+            "text": "dass",
+            "word": 13
+        },
+        {
+            "charBegin": 225,
+            "charEnd": 227,
+            "id": 39,
+            "sentence": 2,
+            "text": "es",
+            "word": 14
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 232,
+            "id": 40,
+            "sentence": 2,
+            "text": "sich",
+            "word": 15
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 236,
+            "id": 41,
+            "sentence": 2,
+            "text": "mit",
+            "word": 16
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 243,
+            "id": 42,
+            "sentence": 2,
+            "text": "großer",
+            "word": 17
+        },
+        {
+            "charBegin": 244,
+            "charEnd": 262,
+            "id": 43,
+            "sentence": 2,
+            "text": "Wahrscheinlichkeit",
+            "word": 18
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 265,
+            "id": 44,
+            "sentence": 2,
+            "text": "um",
+            "word": 19
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 269,
+            "id": 45,
+            "sentence": 2,
+            "text": "die",
+            "word": 20
+        },
+        {
+            "charBegin": 270,
+            "charEnd": 271,
+            "id": 46,
+            "sentence": 2,
+            "text": "„",
+            "word": 21
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 275,
+            "id": 47,
+            "sentence": 2,
+            "text": "Graf",
+            "word": 22
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 284,
+            "id": 48,
+            "sentence": 2,
+            "text": "Zeppelin",
+            "word": 23
+        },
+        {
+            "charBegin": 284,
+            "charEnd": 285,
+            "id": 49,
+            "sentence": 2,
+            "text": "“",
+            "word": 24
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 293,
+            "id": 50,
+            "sentence": 2,
+            "text": "handele",
+            "word": 25
+        },
+        {
+            "charBegin": 293,
+            "charEnd": 294,
+            "id": 51,
+            "sentence": 2,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 298,
+            "id": 52,
+            "sentence": 3,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 299,
+            "charEnd": 311,
+            "id": 53,
+            "sentence": 3,
+            "text": "Spezialisten",
+            "word": 2
+        },
+        {
+            "charBegin": 311,
+            "charEnd": 312,
+            "id": 54,
+            "sentence": 3,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 313,
+            "charEnd": 316,
+            "id": 55,
+            "sentence": 3,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 317,
+            "charEnd": 320,
+            "id": 56,
+            "sentence": 3,
+            "text": "mit",
+            "word": 5
+        },
+        {
+            "charBegin": 321,
+            "charEnd": 326,
+            "id": 57,
+            "sentence": 3,
+            "text": "einem",
+            "word": 6
+        },
+        {
+            "charBegin": 327,
+            "charEnd": 334,
+            "id": 58,
+            "sentence": 3,
+            "text": "Echolot",
+            "word": 7
+        },
+        {
+            "charBegin": 335,
+            "charEnd": 338,
+            "id": 59,
+            "sentence": 3,
+            "text": "das",
+            "word": 8
+        },
+        {
+            "charBegin": 339,
+            "charEnd": 344,
+            "id": 60,
+            "sentence": 3,
+            "text": "Wrack",
+            "word": 9
+        },
+        {
+            "charBegin": 345,
+            "charEnd": 353,
+            "id": 61,
+            "sentence": 3,
+            "text": "vermaßen",
+            "word": 10
+        },
+        {
+            "charBegin": 354,
+            "charEnd": 357,
+            "id": 62,
+            "sentence": 3,
+            "text": "und",
+            "word": 11
+        },
+        {
+            "charBegin": 358,
+            "charEnd": 362,
+            "id": 63,
+            "sentence": 3,
+            "text": "auch",
+            "word": 12
+        },
+        {
+            "charBegin": 363,
+            "charEnd": 366,
+            "id": 64,
+            "sentence": 3,
+            "text": "ein",
+            "word": 13
+        },
+        {
+            "charBegin": 367,
+            "charEnd": 386,
+            "id": 65,
+            "sentence": 3,
+            "text": "Unterwasserfahrzeug",
+            "word": 14
+        },
+        {
+            "charBegin": 387,
+            "charEnd": 397,
+            "id": 66,
+            "sentence": 3,
+            "text": "einsetzten",
+            "word": 15
+        },
+        {
+            "charBegin": 397,
+            "charEnd": 398,
+            "id": 67,
+            "sentence": 3,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 404,
+            "id": 68,
+            "sentence": 3,
+            "text": "waren",
+            "word": 17
+        },
+        {
+            "charBegin": 405,
+            "charEnd": 408,
+            "id": 69,
+            "sentence": 3,
+            "text": "mit",
+            "word": 18
+        },
+        {
+            "charBegin": 409,
+            "charEnd": 412,
+            "id": 70,
+            "sentence": 3,
+            "text": "dem",
+            "word": 19
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 426,
+            "id": 71,
+            "sentence": 3,
+            "text": "Spezialschiff",
+            "word": 20
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 428,
+            "id": 72,
+            "sentence": 3,
+            "text": "„",
+            "word": 21
+        },
+        {
+            "charBegin": 428,
+            "charEnd": 437,
+            "id": 73,
+            "sentence": 3,
+            "text": "Arctowski",
+            "word": 22
+        },
+        {
+            "charBegin": 437,
+            "charEnd": 438,
+            "id": 74,
+            "sentence": 3,
+            "text": "“",
+            "word": 23
+        },
+        {
+            "charBegin": 439,
+            "charEnd": 448,
+            "id": 75,
+            "sentence": 3,
+            "text": "unterwegs",
+            "word": 24
+        },
+        {
+            "charBegin": 448,
+            "charEnd": 449,
+            "id": 76,
+            "sentence": 3,
+            "text": ".",
+            "word": 25
+        }
+    ]
+}

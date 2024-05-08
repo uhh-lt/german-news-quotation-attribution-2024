@@ -1,0 +1,6467 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 63,
+                        "charBegin": 396,
+                        "charEnd": 479,
+                        "end": 74
+                    }
+                ],
+                "text": "Die Unruhestifter sollen Personen erstochen und Polizeiautos in Brand gesetzt haben",
+                "tokenIds": [
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 77,
+                        "charBegin": 492,
+                        "charEnd": 506,
+                        "end": 79
+                    }
+                ],
+                "text": "ersten Angaben",
+                "tokenIds": [
+                    77,
+                    78
+                ]
+            },
+            "type": "FreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 76,
+                        "charBegin": 487,
+                        "charEnd": 491,
+                        "end": 77
+                    }
+                ],
+                "text": "nach",
+                "tokenIds": [
+                    76
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 74,
+                        "charBegin": 480,
+                        "charEnd": 506,
+                        "end": 79
+                    },
+                    {
+                        "begin": 86,
+                        "charBegin": 563,
+                        "charEnd": 648,
+                        "end": 99
+                    }
+                ],
+                "text": "und so nach ersten Angaben , bevor die Polizei das Feuer eröffnete und zehn mutmaßliche Angreifer erschossen hat",
+                "tokenIds": [
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93,
+                    94,
+                    95,
+                    96,
+                    97,
+                    98
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 79,
+                        "charBegin": 507,
+                        "charEnd": 563,
+                        "end": 86
+                    }
+                ],
+                "text": "neun Sicherheitsbeamte und acht Zivilisten getötet haben",
+                "tokenIds": [
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84,
+                    85
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 77,
+                        "charBegin": 492,
+                        "charEnd": 506,
+                        "end": 79
+                    }
+                ],
+                "text": "ersten Angaben",
+                "tokenIds": [
+                    77,
+                    78
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 106,
+                        "charBegin": 690,
+                        "charEnd": 698,
+                        "end": 108
+                    }
+                ],
+                "text": "es heißt",
+                "tokenIds": [
+                    106,
+                    107
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 100,
+                        "charBegin": 650,
+                        "charEnd": 703,
+                        "end": 110
+                    }
+                ],
+                "text": "Die Zahlen wurden später präzisiert und es heißt nun,",
+                "tokenIds": [
+                    100,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 110,
+                        "charBegin": 704,
+                        "charEnd": 847,
+                        "end": 132
+                    }
+                ],
+                "text": "dass 22 Zivilisten und 2 Polizisten durch die Demonstranten getötet wurden, während die Polizei 11 Demonstranten tötete und 4 verletzt festnahm",
+                "tokenIds": [
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 174,
+                        "charBegin": 1123,
+                        "charEnd": 1143,
+                        "end": 178
+                    }
+                ],
+                "text": "der Voice of America",
+                "tokenIds": [
+                    174,
+                    175,
+                    176,
+                    177
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 172,
+                        "charBegin": 1107,
+                        "charEnd": 1112,
+                        "end": 173
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    172
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 163,
+                        "charBegin": 1051,
+                        "charEnd": 1144,
+                        "end": 179
+                    }
+                ],
+                "text": "Dolkun Isa, der Sekretär des Weltkongresses der Uiguren sagte gegenüber der Voice of America,",
+                "tokenIds": [
+                    163,
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    169,
+                    170,
+                    171,
+                    172,
+                    173,
+                    174,
+                    175,
+                    176,
+                    177,
+                    178
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 179,
+                        "charBegin": 1145,
+                        "charEnd": 1222,
+                        "end": 192
+                    }
+                ],
+                "text": "es sei schwierig, Informationen darüber zu bestätigen, was genau passiert ist",
+                "tokenIds": [
+                    179,
+                    180,
+                    181,
+                    182,
+                    183,
+                    184,
+                    185,
+                    186,
+                    187,
+                    188,
+                    189,
+                    190,
+                    191
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 163,
+                        "charBegin": 1051,
+                        "charEnd": 1106,
+                        "end": 172
+                    }
+                ],
+                "text": "Dolkun Isa, der Sekretär des Weltkongresses der Uiguren",
+                "tokenIds": [
+                    163,
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    169,
+                    170,
+                    171
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 193,
+                        "charBegin": 1224,
+                        "charEnd": 1336,
+                        "end": 211
+                    }
+                ],
+                "text": "was er auf die massive Polizeipräsenz und die nun vor Ort herrschende Atmosphäre des „Kriegsrechtes“ zurückführt",
+                "tokenIds": [
+                    193,
+                    194,
+                    195,
+                    196,
+                    197,
+                    198,
+                    199,
+                    200,
+                    201,
+                    202,
+                    203,
+                    204,
+                    205,
+                    206,
+                    207,
+                    208,
+                    209,
+                    210
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 194,
+                        "charBegin": 1228,
+                        "charEnd": 1230,
+                        "end": 195
+                    }
+                ],
+                "text": "er",
+                "tokenIds": [
+                    194
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 211,
+                        "charBegin": 1336,
+                        "charEnd": 1372,
+                        "end": 218
+                    }
+                ],
+                "text": ", bestritt jedoch nicht die Annahme,",
+                "tokenIds": [
+                    211,
+                    212,
+                    213,
+                    214,
+                    215,
+                    216,
+                    217
+                ]
+            },
+            "hasNested": false,
+            "id": 5,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 218,
+                        "charBegin": 1373,
+                        "charEnd": 1424,
+                        "end": 224
+                    }
+                ],
+                "text": "dass Uiguren eine Polizeistation angegriffen hätten",
+                "tokenIds": [
+                    218,
+                    219,
+                    220,
+                    221,
+                    222,
+                    223
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 215,
+                        "charBegin": 1360,
+                        "charEnd": 1371,
+                        "end": 217
+                    }
+                ],
+                "text": "die Annahme",
+                "tokenIds": [
+                    215,
+                    216
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 243,
+                        "charBegin": 1534,
+                        "charEnd": 1539,
+                        "end": 244
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    243
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 242,
+                        "charBegin": 1532,
+                        "charEnd": 1542,
+                        "end": 245
+                    }
+                ],
+                "text": ", sagte er",
+                "tokenIds": [
+                    242,
+                    243,
+                    244
+                ]
+            },
+            "hasNested": false,
+            "id": 6,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 225,
+                        "charBegin": 1426,
+                        "charEnd": 1532,
+                        "end": 242
+                    }
+                ],
+                "text": "„Natürlich. Menschen bekommen Rachegedanken. Weil die Polizei das tägliche Leben der Menschen einschränke“",
+                "tokenIds": [
+                    225,
+                    226,
+                    227,
+                    228,
+                    229,
+                    230,
+                    231,
+                    232,
+                    233,
+                    234,
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 244,
+                        "charBegin": 1540,
+                        "charEnd": 1542,
+                        "end": 245
+                    }
+                ],
+                "text": "er",
+                "tokenIds": [
+                    244
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 243,
+                        "charBegin": 1534,
+                        "charEnd": 1539,
+                        "end": 244
+                    }
+                ],
+                "text": "sagte",
+                "tokenIds": [
+                    243
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 242,
+                        "charBegin": 1532,
+                        "charEnd": 1542,
+                        "end": 245
+                    }
+                ],
+                "text": ", sagte er",
+                "tokenIds": [
+                    242,
+                    243,
+                    244
+                ]
+            },
+            "hasNested": false,
+            "id": 7,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 246,
+                        "charBegin": 1544,
+                        "charEnd": 1723,
+                        "end": 278
+                    }
+                ],
+                "text": "„Sie geben ihnen nicht genügend Platz für ein normales Leben. Weil die chinesische Polizei und die chinesische Regierung ständig ihr tägliches Leben stört. Sie haben keinen Raum.“",
+                "tokenIds": [
+                    246,
+                    247,
+                    248,
+                    249,
+                    250,
+                    251,
+                    252,
+                    253,
+                    254,
+                    255,
+                    256,
+                    257,
+                    258,
+                    259,
+                    260,
+                    261,
+                    262,
+                    263,
+                    264,
+                    265,
+                    266,
+                    267,
+                    268,
+                    269,
+                    270,
+                    271,
+                    272,
+                    273,
+                    274,
+                    275,
+                    276,
+                    277
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 244,
+                        "charBegin": 1540,
+                        "charEnd": 1542,
+                        "end": 245
+                    }
+                ],
+                "text": "er",
+                "tokenIds": [
+                    244
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 279,
+                        "charBegin": 1736,
+                        "charEnd": 1740,
+                        "end": 280
+                    }
+                ],
+                "text": "sagt",
+                "tokenIds": [
+                    279
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 278,
+                        "charBegin": 1726,
+                        "charEnd": 1767,
+                        "end": 284
+                    }
+                ],
+                "text": "Offiziell sagt die chinesische Regierung,",
+                "tokenIds": [
+                    278,
+                    279,
+                    280,
+                    281,
+                    282,
+                    283
+                ]
+            },
+            "hasNested": false,
+            "id": 8,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 284,
+                        "charBegin": 1768,
+                        "charEnd": 1813,
+                        "end": 290
+                    }
+                ],
+                "text": "man gebe den Uiguren weitreichende Freiheiten",
+                "tokenIds": [
+                    284,
+                    285,
+                    286,
+                    287,
+                    288,
+                    289
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 293,
+                        "charBegin": 1824,
+                        "charEnd": 1830,
+                        "end": 294
+                    }
+                ],
+                "text": "betont",
+                "tokenIds": [
+                    293
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 291,
+                        "charBegin": 1815,
+                        "charEnd": 1836,
+                        "end": 296
+                    }
+                ],
+                "text": "Aber man betont auch,",
+                "tokenIds": [
+                    291,
+                    292,
+                    293,
+                    294,
+                    295
+                ]
+            },
+            "hasNested": false,
+            "id": 9,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 296,
+                        "charBegin": 1837,
+                        "charEnd": 2039,
+                        "end": 324
+                    }
+                ],
+                "text": "dass China sich mit einer wachsenden Gefahr durch terroristischen und extremistische Separatisten konfrontiert sehe, die einen Staat Ostturkestan gründen wollen und Hilfe aus dem Ausland dabei erhielten",
+                "tokenIds": [
+                    296,
+                    297,
+                    298,
+                    299,
+                    300,
+                    301,
+                    302,
+                    303,
+                    304,
+                    305,
+                    306,
+                    307,
+                    308,
+                    309,
+                    310,
+                    311,
+                    312,
+                    313,
+                    314,
+                    315,
+                    316,
+                    317,
+                    318,
+                    319,
+                    320,
+                    321,
+                    322,
+                    323
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 280,
+                        "charBegin": 1741,
+                        "charEnd": 1766,
+                        "end": 283
+                    }
+                ],
+                "text": "die chinesische Regierung",
+                "tokenIds": [
+                    280,
+                    281,
+                    282
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 10,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 337,
+                        "charBegin": 2121,
+                        "charEnd": 2244,
+                        "end": 356
+                    }
+                ],
+                "text": "China übertreibe die Gefahr, um die starke Präsenz der Polizei und die Überwachung muslimischer Einrichtungen zu begründen.",
+                "tokenIds": [
+                    337,
+                    338,
+                    339,
+                    340,
+                    341,
+                    342,
+                    343,
+                    344,
+                    345,
+                    346,
+                    347,
+                    348,
+                    349,
+                    350,
+                    351,
+                    352,
+                    353,
+                    354,
+                    355
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 325,
+                        "charBegin": 2041,
+                        "charEnd": 2072,
+                        "end": 331
+                    }
+                ],
+                "text": "Im Exil lebende Uiguren wie Isa",
+                "tokenIds": [
+                    325,
+                    326,
+                    327,
+                    328,
+                    329,
+                    330
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 379,
+                        "charBegin": 2399,
+                        "charEnd": 2408,
+                        "end": 380
+                    }
+                ],
+                "text": "berichtet",
+                "tokenIds": [
+                    379
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 375,
+                        "charBegin": 2359,
+                        "charEnd": 2409,
+                        "end": 381
+                    }
+                ],
+                "text": "Die französische Nachrichtenagentur AFP berichtet,",
+                "tokenIds": [
+                    375,
+                    376,
+                    377,
+                    378,
+                    379,
+                    380
+                ]
+            },
+            "hasNested": false,
+            "id": 11,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 381,
+                        "charBegin": 2410,
+                        "charEnd": 2568,
+                        "end": 407
+                    }
+                ],
+                "text": "dass am Sonnabend (29.06) eine große Militärübung in der Hauptstadt der Region Ürümqi stattgefunden habe, bei der große Teile der Innenstadt abgesperrt wurden",
+                "tokenIds": [
+                    381,
+                    382,
+                    383,
+                    384,
+                    385,
+                    386,
+                    387,
+                    388,
+                    389,
+                    390,
+                    391,
+                    392,
+                    393,
+                    394,
+                    395,
+                    396,
+                    397,
+                    398,
+                    399,
+                    400,
+                    401,
+                    402,
+                    403,
+                    404,
+                    405,
+                    406
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 375,
+                        "charBegin": 2359,
+                        "charEnd": 2398,
+                        "end": 379
+                    }
+                ],
+                "text": "Die französische Nachrichtenagentur AFP",
+                "tokenIds": [
+                    375,
+                    376,
+                    377,
+                    378
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 410,
+                        "charBegin": 2592,
+                        "charEnd": 2613,
+                        "end": 413
+                    }
+                ],
+                "text": "haben dazu aufgerufen",
+                "tokenIds": [
+                    410,
+                    411,
+                    412
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 408,
+                        "charBegin": 2570,
+                        "charEnd": 2613,
+                        "end": 413
+                    },
+                    {
+                        "begin": 420,
+                        "charBegin": 2664,
+                        "charEnd": 2680,
+                        "end": 423
+                    }
+                ],
+                "text": "Chinesische Politiker haben dazu aufgerufen und angekündigt,",
+                "tokenIds": [
+                    408,
+                    409,
+                    410,
+                    411,
+                    412,
+                    420,
+                    421,
+                    422
+                ]
+            },
+            "hasNested": false,
+            "id": 12,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 413,
+                        "charBegin": 2614,
+                        "charEnd": 2663,
+                        "end": 420
+                    }
+                ],
+                "text": "die Polizeikontrollen in der Region zu verstärken",
+                "tokenIds": [
+                    413,
+                    414,
+                    415,
+                    416,
+                    417,
+                    418,
+                    419
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 408,
+                        "charBegin": 2570,
+                        "charEnd": 2591,
+                        "end": 410
+                    }
+                ],
+                "text": "Chinesische Politiker",
+                "tokenIds": [
+                    408,
+                    409
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 421,
+                        "charBegin": 2668,
+                        "charEnd": 2679,
+                        "end": 422
+                    }
+                ],
+                "text": "angekündigt",
+                "tokenIds": [
+                    421
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 420,
+                        "charBegin": 2664,
+                        "charEnd": 2680,
+                        "end": 423
+                    },
+                    {
+                        "begin": 408,
+                        "charBegin": 2570,
+                        "charEnd": 2613,
+                        "end": 413
+                    }
+                ],
+                "text": "und angekündigt, Chinesische Politiker haben dazu aufgerufen",
+                "tokenIds": [
+                    420,
+                    421,
+                    422,
+                    408,
+                    409,
+                    410,
+                    411,
+                    412
+                ]
+            },
+            "hasNested": true,
+            "id": 13,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 423,
+                        "charBegin": 2681,
+                        "charEnd": 2746,
+                        "end": 435
+                    }
+                ],
+                "text": "man werde hart gegen den „Terrorismus“ in der Region durchgreifen",
+                "tokenIds": [
+                    423,
+                    424,
+                    425,
+                    426,
+                    427,
+                    428,
+                    429,
+                    430,
+                    431,
+                    432,
+                    433,
+                    434
+                ]
+            },
+            "speaker": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 410,
+                        "charBegin": 2592,
+                        "charEnd": 2613,
+                        "end": 413
+                    },
+                    {
+                        "begin": 421,
+                        "charBegin": 2668,
+                        "charEnd": 2679,
+                        "end": 422
+                    }
+                ],
+                "text": "haben dazu aufgerufen angekündigt",
+                "tokenIds": [
+                    410,
+                    411,
+                    412,
+                    421
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 408,
+                        "charBegin": 2570,
+                        "charEnd": 2613,
+                        "end": 413
+                    },
+                    {
+                        "begin": 420,
+                        "charBegin": 2664,
+                        "charEnd": 2680,
+                        "end": 423
+                    }
+                ],
+                "text": "Chinesische Politiker haben dazu aufgerufen und angekündigt,",
+                "tokenIds": [
+                    408,
+                    409,
+                    410,
+                    411,
+                    412,
+                    420,
+                    421,
+                    422
+                ]
+            },
+            "hasNested": false,
+            "id": 14,
+            "isNested": true,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 428,
+                        "charBegin": 2706,
+                        "charEnd": 2719,
+                        "end": 431
+                    }
+                ],
+                "text": "„Terrorismus“",
+                "tokenIds": [
+                    428,
+                    429,
+                    430
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 408,
+                        "charBegin": 2570,
+                        "charEnd": 2591,
+                        "end": 410
+                    }
+                ],
+                "text": "Chinesische Politiker",
+                "tokenIds": [
+                    408,
+                    409
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "75792 - Unruhen im Westen Chinas: Dutzende Tote (2013-06-30)",
+    "originalText": "Bei Unruhen im chinesischen Uigurischen Autonomen Gebiet Xinjiang wurden am Mittwoch (26.06) insgesamt 35 Personen getötet und vier weitere verletzt. \n\nDie Unruhen sind am Mittwochmorgen ausgebrochen, als ein mit Messern bewaffneter „Mob“ in der Großgemeinde Lukeqin im Kreis Piqan in der Nähe von Turpan im Westen von Xinjiang Polizeistationen, ein Regierungsgebäude und eine Baustelle angriff. Die Unruhestifter sollen Personen erstochen und Polizeiautos in Brand gesetzt haben und so nach ersten Angaben neun Sicherheitsbeamte und acht Zivilisten getötet haben, bevor die Polizei das Feuer eröffnete und zehn mutmaßliche Angreifer erschossen hat. Die Zahlen wurden später präzisiert und es heißt nun, dass 22 Zivilisten und 2 Polizisten durch die Demonstranten getötet wurden, während die Polizei 11 Demonstranten tötete und 4 verletzt festnahm. Über die Ursache der Unruhen herrscht Unklarheit. Westlichen Journalisten war es nicht möglich in die betroffene Ortschaft zu gelangen und die chinesische Regierung hat keine Erklärung dazu abgegeben.\n\nDolkun Isa, der Sekretär des Weltkongresses der Uiguren sagte gegenüber der Voice of America, es sei schwierig, Informationen darüber zu bestätigen, was genau passiert ist, was er auf die massive Polizeipräsenz und die nun vor Ort herrschende Atmosphäre des „Kriegsrechtes“ zurückführt, bestritt jedoch nicht die Annahme, dass Uiguren eine Polizeistation angegriffen hätten. „Natürlich. Menschen bekommen Rachegedanken. Weil die Polizei das tägliche Leben der Menschen einschränke“, sagte er. „Sie geben ihnen nicht genügend Platz für ein normales Leben. Weil die chinesische Polizei und die chinesische Regierung ständig ihr tägliches Leben stört. Sie haben keinen Raum.“ \n\nOffiziell sagt die chinesische Regierung, man gebe den Uiguren weitreichende Freiheiten. Aber man betont auch, dass China sich mit einer wachsenden Gefahr durch terroristischen und extremistische Separatisten konfrontiert sehe, die einen Staat Ostturkestan gründen wollen und Hilfe aus dem Ausland dabei erhielten. Im Exil lebende Uiguren wie Isa weisen die chinesischen Anschuldigungen zurück. China übertreibe die Gefahr, um die starke Präsenz der Polizei und die Überwachung muslimischer Einrichtungen zu begründen.\n\nAm Freitag (28.06.) sollen 100 Personen eine Polizeistation in Hotan im Südosten von Xinjiang angegriffen haben. Die französische Nachrichtenagentur AFP berichtet, dass am Sonnabend (29.06) eine große Militärübung in der Hauptstadt der Region Ürümqi stattgefunden habe, bei der große Teile der Innenstadt abgesperrt wurden. Chinesische Politiker haben dazu aufgerufen die Polizeikontrollen in der Region zu verstärken und angekündigt, man werde hart gegen den „Terrorismus“ in der Region durchgreifen.\n\nDie Zusammenstöße vom Mittwoch waren die blutigsten seit 2009, als bei Auseinandersetzungen zwischen Uiguren und Han-Chinesen sowie staatlichen Sicherheitskräften über 200 Menschen getötet wurden. Im April 2013 wurden bei einer gewaltsamen Auseinandersetzung, die auf eine polizeiliche Hausdurchsuchung folgte, in der Nähe von Kaxgar 21 Menschen getötet.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 149,
+            "end": 23,
+            "id": 0,
+            "text": "Bei Unruhen im chinesischen Uigurischen Autonomen Gebiet Xinjiang wurden am Mittwoch (26.06) insgesamt 35 Personen getötet und vier weitere verletzt. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22
+            ],
+            "tokens": [
+                "Bei",
+                "Unruhen",
+                "im",
+                "chinesischen",
+                "Uigurischen",
+                "Autonomen",
+                "Gebiet",
+                "Xinjiang",
+                "wurden",
+                "am",
+                "Mittwoch",
+                "(",
+                "26.06",
+                ")",
+                "insgesamt",
+                "35",
+                "Personen",
+                "getötet",
+                "und",
+                "vier",
+                "weitere",
+                "verletzt",
+                "."
+            ]
+        },
+        {
+            "begin": 23,
+            "charBegin": 152,
+            "charEnd": 395,
+            "end": 63,
+            "id": 1,
+            "text": "Die Unruhen sind am Mittwochmorgen ausgebrochen, als ein mit Messern bewaffneter „Mob“ in der Großgemeinde Lukeqin im Kreis Piqan in der Nähe von Turpan im Westen von Xinjiang Polizeistationen, ein Regierungsgebäude und eine Baustelle angriff. ",
+            "tokenIds": [
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62
+            ],
+            "tokens": [
+                "Die",
+                "Unruhen",
+                "sind",
+                "am",
+                "Mittwochmorgen",
+                "ausgebrochen",
+                ",",
+                "als",
+                "ein",
+                "mit",
+                "Messern",
+                "bewaffneter",
+                "„",
+                "Mob",
+                "“",
+                "in",
+                "der",
+                "Großgemeinde",
+                "Lukeqin",
+                "im",
+                "Kreis",
+                "Piqan",
+                "in",
+                "der",
+                "Nähe",
+                "von",
+                "Turpan",
+                "im",
+                "Westen",
+                "von",
+                "Xinjiang",
+                "Polizeistationen",
+                ",",
+                "ein",
+                "Regierungsgebäude",
+                "und",
+                "eine",
+                "Baustelle",
+                "angriff",
+                "."
+            ]
+        },
+        {
+            "begin": 63,
+            "charBegin": 396,
+            "charEnd": 649,
+            "end": 100,
+            "id": 2,
+            "text": "Die Unruhestifter sollen Personen erstochen und Polizeiautos in Brand gesetzt haben und so nach ersten Angaben neun Sicherheitsbeamte und acht Zivilisten getötet haben, bevor die Polizei das Feuer eröffnete und zehn mutmaßliche Angreifer erschossen hat. ",
+            "tokenIds": [
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99
+            ],
+            "tokens": [
+                "Die",
+                "Unruhestifter",
+                "sollen",
+                "Personen",
+                "erstochen",
+                "und",
+                "Polizeiautos",
+                "in",
+                "Brand",
+                "gesetzt",
+                "haben",
+                "und",
+                "so",
+                "nach",
+                "ersten",
+                "Angaben",
+                "neun",
+                "Sicherheitsbeamte",
+                "und",
+                "acht",
+                "Zivilisten",
+                "getötet",
+                "haben",
+                ",",
+                "bevor",
+                "die",
+                "Polizei",
+                "das",
+                "Feuer",
+                "eröffnete",
+                "und",
+                "zehn",
+                "mutmaßliche",
+                "Angreifer",
+                "erschossen",
+                "hat",
+                "."
+            ]
+        },
+        {
+            "begin": 100,
+            "charBegin": 650,
+            "charEnd": 848,
+            "end": 133,
+            "id": 3,
+            "text": "Die Zahlen wurden später präzisiert und es heißt nun, dass 22 Zivilisten und 2 Polizisten durch die Demonstranten getötet wurden, während die Polizei 11 Demonstranten tötete und 4 verletzt festnahm. ",
+            "tokenIds": [
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132
+            ],
+            "tokens": [
+                "Die",
+                "Zahlen",
+                "wurden",
+                "später",
+                "präzisiert",
+                "und",
+                "es",
+                "heißt",
+                "nun",
+                ",",
+                "dass",
+                "22",
+                "Zivilisten",
+                "und",
+                "2",
+                "Polizisten",
+                "durch",
+                "die",
+                "Demonstranten",
+                "getötet",
+                "wurden",
+                ",",
+                "während",
+                "die",
+                "Polizei",
+                "11",
+                "Demonstranten",
+                "tötete",
+                "und",
+                "4",
+                "verletzt",
+                "festnahm",
+                "."
+            ]
+        },
+        {
+            "begin": 133,
+            "charBegin": 849,
+            "charEnd": 898,
+            "end": 141,
+            "id": 4,
+            "text": "Über die Ursache der Unruhen herrscht Unklarheit. ",
+            "tokenIds": [
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140
+            ],
+            "tokens": [
+                "Über",
+                "die",
+                "Ursache",
+                "der",
+                "Unruhen",
+                "herrscht",
+                "Unklarheit",
+                "."
+            ]
+        },
+        {
+            "begin": 141,
+            "charBegin": 899,
+            "charEnd": 1049,
+            "end": 163,
+            "id": 5,
+            "text": "Westlichen Journalisten war es nicht möglich in die betroffene Ortschaft zu gelangen und die chinesische Regierung hat keine Erklärung dazu abgegeben.",
+            "tokenIds": [
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162
+            ],
+            "tokens": [
+                "Westlichen",
+                "Journalisten",
+                "war",
+                "es",
+                "nicht",
+                "möglich",
+                "in",
+                "die",
+                "betroffene",
+                "Ortschaft",
+                "zu",
+                "gelangen",
+                "und",
+                "die",
+                "chinesische",
+                "Regierung",
+                "hat",
+                "keine",
+                "Erklärung",
+                "dazu",
+                "abgegeben",
+                "."
+            ]
+        },
+        {
+            "begin": 163,
+            "charBegin": 1051,
+            "charEnd": 1336,
+            "end": 211,
+            "id": 6,
+            "text": "Dolkun Isa, der Sekretär des Weltkongresses der Uiguren sagte gegenüber der Voice of America, es sei schwierig, Informationen darüber zu bestätigen, was genau passiert ist, was er auf die massive Polizeipräsenz und die nun vor Ort herrschende Atmosphäre des „Kriegsrechtes“ zurückführt",
+            "tokenIds": [
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210
+            ],
+            "tokens": [
+                "Dolkun",
+                "Isa",
+                ",",
+                "der",
+                "Sekretär",
+                "des",
+                "Weltkongresses",
+                "der",
+                "Uiguren",
+                "sagte",
+                "gegenüber",
+                "der",
+                "Voice",
+                "of",
+                "America",
+                ",",
+                "es",
+                "sei",
+                "schwierig",
+                ",",
+                "Informationen",
+                "darüber",
+                "zu",
+                "bestätigen",
+                ",",
+                "was",
+                "genau",
+                "passiert",
+                "ist",
+                ",",
+                "was",
+                "er",
+                "auf",
+                "die",
+                "massive",
+                "Polizeipräsenz",
+                "und",
+                "die",
+                "nun",
+                "vor",
+                "Ort",
+                "herrschende",
+                "Atmosphäre",
+                "des",
+                "„",
+                "Kriegsrechtes",
+                "“",
+                "zurückführt"
+            ]
+        },
+        {
+            "begin": 211,
+            "charBegin": 1336,
+            "charEnd": 1425,
+            "end": 225,
+            "id": 7,
+            "text": ", bestritt jedoch nicht die Annahme, dass Uiguren eine Polizeistation angegriffen hätten. ",
+            "tokenIds": [
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224
+            ],
+            "tokens": [
+                ",",
+                "bestritt",
+                "jedoch",
+                "nicht",
+                "die",
+                "Annahme",
+                ",",
+                "dass",
+                "Uiguren",
+                "eine",
+                "Polizeistation",
+                "angegriffen",
+                "hätten",
+                "."
+            ]
+        },
+        {
+            "begin": 225,
+            "charBegin": 1426,
+            "charEnd": 1427,
+            "end": 226,
+            "id": 8,
+            "text": "„",
+            "tokenIds": [
+                225
+            ],
+            "tokens": [
+                "„"
+            ]
+        },
+        {
+            "begin": 226,
+            "charBegin": 1427,
+            "charEnd": 1437,
+            "end": 228,
+            "id": 9,
+            "text": "Natürlich. ",
+            "tokenIds": [
+                226,
+                227
+            ],
+            "tokens": [
+                "Natürlich",
+                "."
+            ]
+        },
+        {
+            "begin": 228,
+            "charBegin": 1438,
+            "charEnd": 1470,
+            "end": 232,
+            "id": 10,
+            "text": "Menschen bekommen Rachegedanken. ",
+            "tokenIds": [
+                228,
+                229,
+                230,
+                231
+            ],
+            "tokens": [
+                "Menschen",
+                "bekommen",
+                "Rachegedanken",
+                "."
+            ]
+        },
+        {
+            "begin": 232,
+            "charBegin": 1471,
+            "charEnd": 1543,
+            "end": 246,
+            "id": 11,
+            "text": "Weil die Polizei das tägliche Leben der Menschen einschränke“, sagte er. ",
+            "tokenIds": [
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245
+            ],
+            "tokens": [
+                "Weil",
+                "die",
+                "Polizei",
+                "das",
+                "tägliche",
+                "Leben",
+                "der",
+                "Menschen",
+                "einschränke",
+                "“",
+                ",",
+                "sagte",
+                "er",
+                "."
+            ]
+        },
+        {
+            "begin": 246,
+            "charBegin": 1544,
+            "charEnd": 1605,
+            "end": 258,
+            "id": 12,
+            "text": "„Sie geben ihnen nicht genügend Platz für ein normales Leben. ",
+            "tokenIds": [
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255,
+                256,
+                257
+            ],
+            "tokens": [
+                "„",
+                "Sie",
+                "geben",
+                "ihnen",
+                "nicht",
+                "genügend",
+                "Platz",
+                "für",
+                "ein",
+                "normales",
+                "Leben",
+                "."
+            ]
+        },
+        {
+            "begin": 258,
+            "charBegin": 1606,
+            "charEnd": 1699,
+            "end": 272,
+            "id": 13,
+            "text": "Weil die chinesische Polizei und die chinesische Regierung ständig ihr tägliches Leben stört. ",
+            "tokenIds": [
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271
+            ],
+            "tokens": [
+                "Weil",
+                "die",
+                "chinesische",
+                "Polizei",
+                "und",
+                "die",
+                "chinesische",
+                "Regierung",
+                "ständig",
+                "ihr",
+                "tägliches",
+                "Leben",
+                "stört",
+                "."
+            ]
+        },
+        {
+            "begin": 272,
+            "charBegin": 1700,
+            "charEnd": 1723,
+            "end": 278,
+            "id": 14,
+            "text": "Sie haben keinen Raum.“ ",
+            "tokenIds": [
+                272,
+                273,
+                274,
+                275,
+                276,
+                277
+            ],
+            "tokens": [
+                "Sie",
+                "haben",
+                "keinen",
+                "Raum",
+                ".",
+                "“"
+            ]
+        },
+        {
+            "begin": 278,
+            "charBegin": 1726,
+            "charEnd": 1814,
+            "end": 291,
+            "id": 15,
+            "text": "Offiziell sagt die chinesische Regierung, man gebe den Uiguren weitreichende Freiheiten. ",
+            "tokenIds": [
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290
+            ],
+            "tokens": [
+                "Offiziell",
+                "sagt",
+                "die",
+                "chinesische",
+                "Regierung",
+                ",",
+                "man",
+                "gebe",
+                "den",
+                "Uiguren",
+                "weitreichende",
+                "Freiheiten",
+                "."
+            ]
+        },
+        {
+            "begin": 291,
+            "charBegin": 1815,
+            "charEnd": 2040,
+            "end": 325,
+            "id": 16,
+            "text": "Aber man betont auch, dass China sich mit einer wachsenden Gefahr durch terroristischen und extremistische Separatisten konfrontiert sehe, die einen Staat Ostturkestan gründen wollen und Hilfe aus dem Ausland dabei erhielten. ",
+            "tokenIds": [
+                291,
+                292,
+                293,
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306,
+                307,
+                308,
+                309,
+                310,
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322,
+                323,
+                324
+            ],
+            "tokens": [
+                "Aber",
+                "man",
+                "betont",
+                "auch",
+                ",",
+                "dass",
+                "China",
+                "sich",
+                "mit",
+                "einer",
+                "wachsenden",
+                "Gefahr",
+                "durch",
+                "terroristischen",
+                "und",
+                "extremistische",
+                "Separatisten",
+                "konfrontiert",
+                "sehe",
+                ",",
+                "die",
+                "einen",
+                "Staat",
+                "Ostturkestan",
+                "gründen",
+                "wollen",
+                "und",
+                "Hilfe",
+                "aus",
+                "dem",
+                "Ausland",
+                "dabei",
+                "erhielten",
+                "."
+            ]
+        },
+        {
+            "begin": 325,
+            "charBegin": 2041,
+            "charEnd": 2120,
+            "end": 337,
+            "id": 17,
+            "text": "Im Exil lebende Uiguren wie Isa weisen die chinesischen Anschuldigungen zurück. ",
+            "tokenIds": [
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332,
+                333,
+                334,
+                335,
+                336
+            ],
+            "tokens": [
+                "Im",
+                "Exil",
+                "lebende",
+                "Uiguren",
+                "wie",
+                "Isa",
+                "weisen",
+                "die",
+                "chinesischen",
+                "Anschuldigungen",
+                "zurück",
+                "."
+            ]
+        },
+        {
+            "begin": 337,
+            "charBegin": 2121,
+            "charEnd": 2244,
+            "end": 356,
+            "id": 18,
+            "text": "China übertreibe die Gefahr, um die starke Präsenz der Polizei und die Überwachung muslimischer Einrichtungen zu begründen.",
+            "tokenIds": [
+                337,
+                338,
+                339,
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346,
+                347,
+                348,
+                349,
+                350,
+                351,
+                352,
+                353,
+                354,
+                355
+            ],
+            "tokens": [
+                "China",
+                "übertreibe",
+                "die",
+                "Gefahr",
+                ",",
+                "um",
+                "die",
+                "starke",
+                "Präsenz",
+                "der",
+                "Polizei",
+                "und",
+                "die",
+                "Überwachung",
+                "muslimischer",
+                "Einrichtungen",
+                "zu",
+                "begründen",
+                "."
+            ]
+        },
+        {
+            "begin": 356,
+            "charBegin": 2246,
+            "charEnd": 2358,
+            "end": 375,
+            "id": 19,
+            "text": "Am Freitag (28.06.) sollen 100 Personen eine Polizeistation in Hotan im Südosten von Xinjiang angegriffen haben. ",
+            "tokenIds": [
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365,
+                366,
+                367,
+                368,
+                369,
+                370,
+                371,
+                372,
+                373,
+                374
+            ],
+            "tokens": [
+                "Am",
+                "Freitag",
+                "(",
+                "28.06.",
+                ")",
+                "sollen",
+                "100",
+                "Personen",
+                "eine",
+                "Polizeistation",
+                "in",
+                "Hotan",
+                "im",
+                "Südosten",
+                "von",
+                "Xinjiang",
+                "angegriffen",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "begin": 375,
+            "charBegin": 2359,
+            "charEnd": 2569,
+            "end": 408,
+            "id": 20,
+            "text": "Die französische Nachrichtenagentur AFP berichtet, dass am Sonnabend (29.06) eine große Militärübung in der Hauptstadt der Region Ürümqi stattgefunden habe, bei der große Teile der Innenstadt abgesperrt wurden. ",
+            "tokenIds": [
+                375,
+                376,
+                377,
+                378,
+                379,
+                380,
+                381,
+                382,
+                383,
+                384,
+                385,
+                386,
+                387,
+                388,
+                389,
+                390,
+                391,
+                392,
+                393,
+                394,
+                395,
+                396,
+                397,
+                398,
+                399,
+                400,
+                401,
+                402,
+                403,
+                404,
+                405,
+                406,
+                407
+            ],
+            "tokens": [
+                "Die",
+                "französische",
+                "Nachrichtenagentur",
+                "AFP",
+                "berichtet",
+                ",",
+                "dass",
+                "am",
+                "Sonnabend",
+                "(",
+                "29.06",
+                ")",
+                "eine",
+                "große",
+                "Militärübung",
+                "in",
+                "der",
+                "Hauptstadt",
+                "der",
+                "Region",
+                "Ürümqi",
+                "stattgefunden",
+                "habe",
+                ",",
+                "bei",
+                "der",
+                "große",
+                "Teile",
+                "der",
+                "Innenstadt",
+                "abgesperrt",
+                "wurden",
+                "."
+            ]
+        },
+        {
+            "begin": 408,
+            "charBegin": 2570,
+            "charEnd": 2747,
+            "end": 436,
+            "id": 21,
+            "text": "Chinesische Politiker haben dazu aufgerufen die Polizeikontrollen in der Region zu verstärken und angekündigt, man werde hart gegen den „Terrorismus“ in der Region durchgreifen.",
+            "tokenIds": [
+                408,
+                409,
+                410,
+                411,
+                412,
+                413,
+                414,
+                415,
+                416,
+                417,
+                418,
+                419,
+                420,
+                421,
+                422,
+                423,
+                424,
+                425,
+                426,
+                427,
+                428,
+                429,
+                430,
+                431,
+                432,
+                433,
+                434,
+                435
+            ],
+            "tokens": [
+                "Chinesische",
+                "Politiker",
+                "haben",
+                "dazu",
+                "aufgerufen",
+                "die",
+                "Polizeikontrollen",
+                "in",
+                "der",
+                "Region",
+                "zu",
+                "verstärken",
+                "und",
+                "angekündigt",
+                ",",
+                "man",
+                "werde",
+                "hart",
+                "gegen",
+                "den",
+                "„",
+                "Terrorismus",
+                "“",
+                "in",
+                "der",
+                "Region",
+                "durchgreifen",
+                "."
+            ]
+        },
+        {
+            "begin": 436,
+            "charBegin": 2749,
+            "charEnd": 2945,
+            "end": 462,
+            "id": 22,
+            "text": "Die Zusammenstöße vom Mittwoch waren die blutigsten seit 2009, als bei Auseinandersetzungen zwischen Uiguren und Han-Chinesen sowie staatlichen Sicherheitskräften über 200 Menschen getötet wurden. ",
+            "tokenIds": [
+                436,
+                437,
+                438,
+                439,
+                440,
+                441,
+                442,
+                443,
+                444,
+                445,
+                446,
+                447,
+                448,
+                449,
+                450,
+                451,
+                452,
+                453,
+                454,
+                455,
+                456,
+                457,
+                458,
+                459,
+                460,
+                461
+            ],
+            "tokens": [
+                "Die",
+                "Zusammenstöße",
+                "vom",
+                "Mittwoch",
+                "waren",
+                "die",
+                "blutigsten",
+                "seit",
+                "2009",
+                ",",
+                "als",
+                "bei",
+                "Auseinandersetzungen",
+                "zwischen",
+                "Uiguren",
+                "und",
+                "Han-Chinesen",
+                "sowie",
+                "staatlichen",
+                "Sicherheitskräften",
+                "über",
+                "200",
+                "Menschen",
+                "getötet",
+                "wurden",
+                "."
+            ]
+        },
+        {
+            "begin": 462,
+            "charBegin": 2946,
+            "charEnd": 3103,
+            "end": 487,
+            "id": 23,
+            "text": "Im April 2013 wurden bei einer gewaltsamen Auseinandersetzung, die auf eine polizeiliche Hausdurchsuchung folgte, in der Nähe von Kaxgar 21 Menschen getötet.",
+            "tokenIds": [
+                462,
+                463,
+                464,
+                465,
+                466,
+                467,
+                468,
+                469,
+                470,
+                471,
+                472,
+                473,
+                474,
+                475,
+                476,
+                477,
+                478,
+                479,
+                480,
+                481,
+                482,
+                483,
+                484,
+                485,
+                486
+            ],
+            "tokens": [
+                "Im",
+                "April",
+                "2013",
+                "wurden",
+                "bei",
+                "einer",
+                "gewaltsamen",
+                "Auseinandersetzung",
+                ",",
+                "die",
+                "auf",
+                "eine",
+                "polizeiliche",
+                "Hausdurchsuchung",
+                "folgte",
+                ",",
+                "in",
+                "der",
+                "Nähe",
+                "von",
+                "Kaxgar",
+                "21",
+                "Menschen",
+                "getötet",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Bei",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 11,
+            "id": 1,
+            "sentence": 1,
+            "text": "Unruhen",
+            "word": 2
+        },
+        {
+            "charBegin": 12,
+            "charEnd": 14,
+            "id": 2,
+            "sentence": 1,
+            "text": "im",
+            "word": 3
+        },
+        {
+            "charBegin": 15,
+            "charEnd": 27,
+            "id": 3,
+            "sentence": 1,
+            "text": "chinesischen",
+            "word": 4
+        },
+        {
+            "charBegin": 28,
+            "charEnd": 39,
+            "id": 4,
+            "sentence": 1,
+            "text": "Uigurischen",
+            "word": 5
+        },
+        {
+            "charBegin": 40,
+            "charEnd": 49,
+            "id": 5,
+            "sentence": 1,
+            "text": "Autonomen",
+            "word": 6
+        },
+        {
+            "charBegin": 50,
+            "charEnd": 56,
+            "id": 6,
+            "sentence": 1,
+            "text": "Gebiet",
+            "word": 7
+        },
+        {
+            "charBegin": 57,
+            "charEnd": 65,
+            "id": 7,
+            "sentence": 1,
+            "text": "Xinjiang",
+            "word": 8
+        },
+        {
+            "charBegin": 66,
+            "charEnd": 72,
+            "id": 8,
+            "sentence": 1,
+            "text": "wurden",
+            "word": 9
+        },
+        {
+            "charBegin": 73,
+            "charEnd": 75,
+            "id": 9,
+            "sentence": 1,
+            "text": "am",
+            "word": 10
+        },
+        {
+            "charBegin": 76,
+            "charEnd": 84,
+            "id": 10,
+            "sentence": 1,
+            "text": "Mittwoch",
+            "word": 11
+        },
+        {
+            "charBegin": 85,
+            "charEnd": 86,
+            "id": 11,
+            "sentence": 1,
+            "text": "(",
+            "word": 12
+        },
+        {
+            "charBegin": 86,
+            "charEnd": 91,
+            "id": 12,
+            "sentence": 1,
+            "text": "26.06",
+            "word": 13
+        },
+        {
+            "charBegin": 91,
+            "charEnd": 92,
+            "id": 13,
+            "sentence": 1,
+            "text": ")",
+            "word": 14
+        },
+        {
+            "charBegin": 93,
+            "charEnd": 102,
+            "id": 14,
+            "sentence": 1,
+            "text": "insgesamt",
+            "word": 15
+        },
+        {
+            "charBegin": 103,
+            "charEnd": 105,
+            "id": 15,
+            "sentence": 1,
+            "text": "35",
+            "word": 16
+        },
+        {
+            "charBegin": 106,
+            "charEnd": 114,
+            "id": 16,
+            "sentence": 1,
+            "text": "Personen",
+            "word": 17
+        },
+        {
+            "charBegin": 115,
+            "charEnd": 122,
+            "id": 17,
+            "sentence": 1,
+            "text": "getötet",
+            "word": 18
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 126,
+            "id": 18,
+            "sentence": 1,
+            "text": "und",
+            "word": 19
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 131,
+            "id": 19,
+            "sentence": 1,
+            "text": "vier",
+            "word": 20
+        },
+        {
+            "charBegin": 132,
+            "charEnd": 139,
+            "id": 20,
+            "sentence": 1,
+            "text": "weitere",
+            "word": 21
+        },
+        {
+            "charBegin": 140,
+            "charEnd": 148,
+            "id": 21,
+            "sentence": 1,
+            "text": "verletzt",
+            "word": 22
+        },
+        {
+            "charBegin": 148,
+            "charEnd": 149,
+            "id": 22,
+            "sentence": 1,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 152,
+            "charEnd": 155,
+            "id": 23,
+            "sentence": 2,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 163,
+            "id": 24,
+            "sentence": 2,
+            "text": "Unruhen",
+            "word": 2
+        },
+        {
+            "charBegin": 164,
+            "charEnd": 168,
+            "id": 25,
+            "sentence": 2,
+            "text": "sind",
+            "word": 3
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 171,
+            "id": 26,
+            "sentence": 2,
+            "text": "am",
+            "word": 4
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 186,
+            "id": 27,
+            "sentence": 2,
+            "text": "Mittwochmorgen",
+            "word": 5
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 199,
+            "id": 28,
+            "sentence": 2,
+            "text": "ausgebrochen",
+            "word": 6
+        },
+        {
+            "charBegin": 199,
+            "charEnd": 200,
+            "id": 29,
+            "sentence": 2,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 204,
+            "id": 30,
+            "sentence": 2,
+            "text": "als",
+            "word": 8
+        },
+        {
+            "charBegin": 205,
+            "charEnd": 208,
+            "id": 31,
+            "sentence": 2,
+            "text": "ein",
+            "word": 9
+        },
+        {
+            "charBegin": 209,
+            "charEnd": 212,
+            "id": 32,
+            "sentence": 2,
+            "text": "mit",
+            "word": 10
+        },
+        {
+            "charBegin": 213,
+            "charEnd": 220,
+            "id": 33,
+            "sentence": 2,
+            "text": "Messern",
+            "word": 11
+        },
+        {
+            "charBegin": 221,
+            "charEnd": 232,
+            "id": 34,
+            "sentence": 2,
+            "text": "bewaffneter",
+            "word": 12
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 234,
+            "id": 35,
+            "sentence": 2,
+            "text": "„",
+            "word": 13
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 237,
+            "id": 36,
+            "sentence": 2,
+            "text": "Mob",
+            "word": 14
+        },
+        {
+            "charBegin": 237,
+            "charEnd": 238,
+            "id": 37,
+            "sentence": 2,
+            "text": "“",
+            "word": 15
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 241,
+            "id": 38,
+            "sentence": 2,
+            "text": "in",
+            "word": 16
+        },
+        {
+            "charBegin": 242,
+            "charEnd": 245,
+            "id": 39,
+            "sentence": 2,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 258,
+            "id": 40,
+            "sentence": 2,
+            "text": "Großgemeinde",
+            "word": 18
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 266,
+            "id": 41,
+            "sentence": 2,
+            "text": "Lukeqin",
+            "word": 19
+        },
+        {
+            "charBegin": 267,
+            "charEnd": 269,
+            "id": 42,
+            "sentence": 2,
+            "text": "im",
+            "word": 20
+        },
+        {
+            "charBegin": 270,
+            "charEnd": 275,
+            "id": 43,
+            "sentence": 2,
+            "text": "Kreis",
+            "word": 21
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 281,
+            "id": 44,
+            "sentence": 2,
+            "text": "Piqan",
+            "word": 22
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 284,
+            "id": 45,
+            "sentence": 2,
+            "text": "in",
+            "word": 23
+        },
+        {
+            "charBegin": 285,
+            "charEnd": 288,
+            "id": 46,
+            "sentence": 2,
+            "text": "der",
+            "word": 24
+        },
+        {
+            "charBegin": 289,
+            "charEnd": 293,
+            "id": 47,
+            "sentence": 2,
+            "text": "Nähe",
+            "word": 25
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 297,
+            "id": 48,
+            "sentence": 2,
+            "text": "von",
+            "word": 26
+        },
+        {
+            "charBegin": 298,
+            "charEnd": 304,
+            "id": 49,
+            "sentence": 2,
+            "text": "Turpan",
+            "word": 27
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 307,
+            "id": 50,
+            "sentence": 2,
+            "text": "im",
+            "word": 28
+        },
+        {
+            "charBegin": 308,
+            "charEnd": 314,
+            "id": 51,
+            "sentence": 2,
+            "text": "Westen",
+            "word": 29
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 318,
+            "id": 52,
+            "sentence": 2,
+            "text": "von",
+            "word": 30
+        },
+        {
+            "charBegin": 319,
+            "charEnd": 327,
+            "id": 53,
+            "sentence": 2,
+            "text": "Xinjiang",
+            "word": 31
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 344,
+            "id": 54,
+            "sentence": 2,
+            "text": "Polizeistationen",
+            "word": 32
+        },
+        {
+            "charBegin": 344,
+            "charEnd": 345,
+            "id": 55,
+            "sentence": 2,
+            "text": ",",
+            "word": 33
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 349,
+            "id": 56,
+            "sentence": 2,
+            "text": "ein",
+            "word": 34
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 367,
+            "id": 57,
+            "sentence": 2,
+            "text": "Regierungsgebäude",
+            "word": 35
+        },
+        {
+            "charBegin": 368,
+            "charEnd": 371,
+            "id": 58,
+            "sentence": 2,
+            "text": "und",
+            "word": 36
+        },
+        {
+            "charBegin": 372,
+            "charEnd": 376,
+            "id": 59,
+            "sentence": 2,
+            "text": "eine",
+            "word": 37
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 386,
+            "id": 60,
+            "sentence": 2,
+            "text": "Baustelle",
+            "word": 38
+        },
+        {
+            "charBegin": 387,
+            "charEnd": 394,
+            "id": 61,
+            "sentence": 2,
+            "text": "angriff",
+            "word": 39
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 395,
+            "id": 62,
+            "sentence": 2,
+            "text": ".",
+            "word": 40
+        },
+        {
+            "charBegin": 396,
+            "charEnd": 399,
+            "id": 63,
+            "sentence": 3,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 400,
+            "charEnd": 413,
+            "id": 64,
+            "sentence": 3,
+            "text": "Unruhestifter",
+            "word": 2
+        },
+        {
+            "charBegin": 414,
+            "charEnd": 420,
+            "id": 65,
+            "sentence": 3,
+            "text": "sollen",
+            "word": 3
+        },
+        {
+            "charBegin": 421,
+            "charEnd": 429,
+            "id": 66,
+            "sentence": 3,
+            "text": "Personen",
+            "word": 4
+        },
+        {
+            "charBegin": 430,
+            "charEnd": 439,
+            "id": 67,
+            "sentence": 3,
+            "text": "erstochen",
+            "word": 5
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 443,
+            "id": 68,
+            "sentence": 3,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 456,
+            "id": 69,
+            "sentence": 3,
+            "text": "Polizeiautos",
+            "word": 7
+        },
+        {
+            "charBegin": 457,
+            "charEnd": 459,
+            "id": 70,
+            "sentence": 3,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 460,
+            "charEnd": 465,
+            "id": 71,
+            "sentence": 3,
+            "text": "Brand",
+            "word": 9
+        },
+        {
+            "charBegin": 466,
+            "charEnd": 473,
+            "id": 72,
+            "sentence": 3,
+            "text": "gesetzt",
+            "word": 10
+        },
+        {
+            "charBegin": 474,
+            "charEnd": 479,
+            "id": 73,
+            "sentence": 3,
+            "text": "haben",
+            "word": 11
+        },
+        {
+            "charBegin": 480,
+            "charEnd": 483,
+            "id": 74,
+            "sentence": 3,
+            "text": "und",
+            "word": 12
+        },
+        {
+            "charBegin": 484,
+            "charEnd": 486,
+            "id": 75,
+            "sentence": 3,
+            "text": "so",
+            "word": 13
+        },
+        {
+            "charBegin": 487,
+            "charEnd": 491,
+            "id": 76,
+            "sentence": 3,
+            "text": "nach",
+            "word": 14
+        },
+        {
+            "charBegin": 492,
+            "charEnd": 498,
+            "id": 77,
+            "sentence": 3,
+            "text": "ersten",
+            "word": 15
+        },
+        {
+            "charBegin": 499,
+            "charEnd": 506,
+            "id": 78,
+            "sentence": 3,
+            "text": "Angaben",
+            "word": 16
+        },
+        {
+            "charBegin": 507,
+            "charEnd": 511,
+            "id": 79,
+            "sentence": 3,
+            "text": "neun",
+            "word": 17
+        },
+        {
+            "charBegin": 512,
+            "charEnd": 529,
+            "id": 80,
+            "sentence": 3,
+            "text": "Sicherheitsbeamte",
+            "word": 18
+        },
+        {
+            "charBegin": 530,
+            "charEnd": 533,
+            "id": 81,
+            "sentence": 3,
+            "text": "und",
+            "word": 19
+        },
+        {
+            "charBegin": 534,
+            "charEnd": 538,
+            "id": 82,
+            "sentence": 3,
+            "text": "acht",
+            "word": 20
+        },
+        {
+            "charBegin": 539,
+            "charEnd": 549,
+            "id": 83,
+            "sentence": 3,
+            "text": "Zivilisten",
+            "word": 21
+        },
+        {
+            "charBegin": 550,
+            "charEnd": 557,
+            "id": 84,
+            "sentence": 3,
+            "text": "getötet",
+            "word": 22
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 563,
+            "id": 85,
+            "sentence": 3,
+            "text": "haben",
+            "word": 23
+        },
+        {
+            "charBegin": 563,
+            "charEnd": 564,
+            "id": 86,
+            "sentence": 3,
+            "text": ",",
+            "word": 24
+        },
+        {
+            "charBegin": 565,
+            "charEnd": 570,
+            "id": 87,
+            "sentence": 3,
+            "text": "bevor",
+            "word": 25
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 574,
+            "id": 88,
+            "sentence": 3,
+            "text": "die",
+            "word": 26
+        },
+        {
+            "charBegin": 575,
+            "charEnd": 582,
+            "id": 89,
+            "sentence": 3,
+            "text": "Polizei",
+            "word": 27
+        },
+        {
+            "charBegin": 583,
+            "charEnd": 586,
+            "id": 90,
+            "sentence": 3,
+            "text": "das",
+            "word": 28
+        },
+        {
+            "charBegin": 587,
+            "charEnd": 592,
+            "id": 91,
+            "sentence": 3,
+            "text": "Feuer",
+            "word": 29
+        },
+        {
+            "charBegin": 593,
+            "charEnd": 602,
+            "id": 92,
+            "sentence": 3,
+            "text": "eröffnete",
+            "word": 30
+        },
+        {
+            "charBegin": 603,
+            "charEnd": 606,
+            "id": 93,
+            "sentence": 3,
+            "text": "und",
+            "word": 31
+        },
+        {
+            "charBegin": 607,
+            "charEnd": 611,
+            "id": 94,
+            "sentence": 3,
+            "text": "zehn",
+            "word": 32
+        },
+        {
+            "charBegin": 612,
+            "charEnd": 623,
+            "id": 95,
+            "sentence": 3,
+            "text": "mutmaßliche",
+            "word": 33
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 633,
+            "id": 96,
+            "sentence": 3,
+            "text": "Angreifer",
+            "word": 34
+        },
+        {
+            "charBegin": 634,
+            "charEnd": 644,
+            "id": 97,
+            "sentence": 3,
+            "text": "erschossen",
+            "word": 35
+        },
+        {
+            "charBegin": 645,
+            "charEnd": 648,
+            "id": 98,
+            "sentence": 3,
+            "text": "hat",
+            "word": 36
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 649,
+            "id": 99,
+            "sentence": 3,
+            "text": ".",
+            "word": 37
+        },
+        {
+            "charBegin": 650,
+            "charEnd": 653,
+            "id": 100,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 654,
+            "charEnd": 660,
+            "id": 101,
+            "sentence": 4,
+            "text": "Zahlen",
+            "word": 2
+        },
+        {
+            "charBegin": 661,
+            "charEnd": 667,
+            "id": 102,
+            "sentence": 4,
+            "text": "wurden",
+            "word": 3
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 674,
+            "id": 103,
+            "sentence": 4,
+            "text": "später",
+            "word": 4
+        },
+        {
+            "charBegin": 675,
+            "charEnd": 685,
+            "id": 104,
+            "sentence": 4,
+            "text": "präzisiert",
+            "word": 5
+        },
+        {
+            "charBegin": 686,
+            "charEnd": 689,
+            "id": 105,
+            "sentence": 4,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 690,
+            "charEnd": 692,
+            "id": 106,
+            "sentence": 4,
+            "text": "es",
+            "word": 7
+        },
+        {
+            "charBegin": 693,
+            "charEnd": 698,
+            "id": 107,
+            "sentence": 4,
+            "text": "heißt",
+            "word": 8
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 702,
+            "id": 108,
+            "sentence": 4,
+            "text": "nun",
+            "word": 9
+        },
+        {
+            "charBegin": 702,
+            "charEnd": 703,
+            "id": 109,
+            "sentence": 4,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 704,
+            "charEnd": 708,
+            "id": 110,
+            "sentence": 4,
+            "text": "dass",
+            "word": 11
+        },
+        {
+            "charBegin": 709,
+            "charEnd": 711,
+            "id": 111,
+            "sentence": 4,
+            "text": "22",
+            "word": 12
+        },
+        {
+            "charBegin": 712,
+            "charEnd": 722,
+            "id": 112,
+            "sentence": 4,
+            "text": "Zivilisten",
+            "word": 13
+        },
+        {
+            "charBegin": 723,
+            "charEnd": 726,
+            "id": 113,
+            "sentence": 4,
+            "text": "und",
+            "word": 14
+        },
+        {
+            "charBegin": 727,
+            "charEnd": 728,
+            "id": 114,
+            "sentence": 4,
+            "text": "2",
+            "word": 15
+        },
+        {
+            "charBegin": 729,
+            "charEnd": 739,
+            "id": 115,
+            "sentence": 4,
+            "text": "Polizisten",
+            "word": 16
+        },
+        {
+            "charBegin": 740,
+            "charEnd": 745,
+            "id": 116,
+            "sentence": 4,
+            "text": "durch",
+            "word": 17
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 749,
+            "id": 117,
+            "sentence": 4,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 750,
+            "charEnd": 763,
+            "id": 118,
+            "sentence": 4,
+            "text": "Demonstranten",
+            "word": 19
+        },
+        {
+            "charBegin": 764,
+            "charEnd": 771,
+            "id": 119,
+            "sentence": 4,
+            "text": "getötet",
+            "word": 20
+        },
+        {
+            "charBegin": 772,
+            "charEnd": 778,
+            "id": 120,
+            "sentence": 4,
+            "text": "wurden",
+            "word": 21
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 779,
+            "id": 121,
+            "sentence": 4,
+            "text": ",",
+            "word": 22
+        },
+        {
+            "charBegin": 780,
+            "charEnd": 787,
+            "id": 122,
+            "sentence": 4,
+            "text": "während",
+            "word": 23
+        },
+        {
+            "charBegin": 788,
+            "charEnd": 791,
+            "id": 123,
+            "sentence": 4,
+            "text": "die",
+            "word": 24
+        },
+        {
+            "charBegin": 792,
+            "charEnd": 799,
+            "id": 124,
+            "sentence": 4,
+            "text": "Polizei",
+            "word": 25
+        },
+        {
+            "charBegin": 800,
+            "charEnd": 802,
+            "id": 125,
+            "sentence": 4,
+            "text": "11",
+            "word": 26
+        },
+        {
+            "charBegin": 803,
+            "charEnd": 816,
+            "id": 126,
+            "sentence": 4,
+            "text": "Demonstranten",
+            "word": 27
+        },
+        {
+            "charBegin": 817,
+            "charEnd": 823,
+            "id": 127,
+            "sentence": 4,
+            "text": "tötete",
+            "word": 28
+        },
+        {
+            "charBegin": 824,
+            "charEnd": 827,
+            "id": 128,
+            "sentence": 4,
+            "text": "und",
+            "word": 29
+        },
+        {
+            "charBegin": 828,
+            "charEnd": 829,
+            "id": 129,
+            "sentence": 4,
+            "text": "4",
+            "word": 30
+        },
+        {
+            "charBegin": 830,
+            "charEnd": 838,
+            "id": 130,
+            "sentence": 4,
+            "text": "verletzt",
+            "word": 31
+        },
+        {
+            "charBegin": 839,
+            "charEnd": 847,
+            "id": 131,
+            "sentence": 4,
+            "text": "festnahm",
+            "word": 32
+        },
+        {
+            "charBegin": 847,
+            "charEnd": 848,
+            "id": 132,
+            "sentence": 4,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 849,
+            "charEnd": 853,
+            "id": 133,
+            "sentence": 5,
+            "text": "Über",
+            "word": 1
+        },
+        {
+            "charBegin": 854,
+            "charEnd": 857,
+            "id": 134,
+            "sentence": 5,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 858,
+            "charEnd": 865,
+            "id": 135,
+            "sentence": 5,
+            "text": "Ursache",
+            "word": 3
+        },
+        {
+            "charBegin": 866,
+            "charEnd": 869,
+            "id": 136,
+            "sentence": 5,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 870,
+            "charEnd": 877,
+            "id": 137,
+            "sentence": 5,
+            "text": "Unruhen",
+            "word": 5
+        },
+        {
+            "charBegin": 878,
+            "charEnd": 886,
+            "id": 138,
+            "sentence": 5,
+            "text": "herrscht",
+            "word": 6
+        },
+        {
+            "charBegin": 887,
+            "charEnd": 897,
+            "id": 139,
+            "sentence": 5,
+            "text": "Unklarheit",
+            "word": 7
+        },
+        {
+            "charBegin": 897,
+            "charEnd": 898,
+            "id": 140,
+            "sentence": 5,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 899,
+            "charEnd": 909,
+            "id": 141,
+            "sentence": 6,
+            "text": "Westlichen",
+            "word": 1
+        },
+        {
+            "charBegin": 910,
+            "charEnd": 922,
+            "id": 142,
+            "sentence": 6,
+            "text": "Journalisten",
+            "word": 2
+        },
+        {
+            "charBegin": 923,
+            "charEnd": 926,
+            "id": 143,
+            "sentence": 6,
+            "text": "war",
+            "word": 3
+        },
+        {
+            "charBegin": 927,
+            "charEnd": 929,
+            "id": 144,
+            "sentence": 6,
+            "text": "es",
+            "word": 4
+        },
+        {
+            "charBegin": 930,
+            "charEnd": 935,
+            "id": 145,
+            "sentence": 6,
+            "text": "nicht",
+            "word": 5
+        },
+        {
+            "charBegin": 936,
+            "charEnd": 943,
+            "id": 146,
+            "sentence": 6,
+            "text": "möglich",
+            "word": 6
+        },
+        {
+            "charBegin": 944,
+            "charEnd": 946,
+            "id": 147,
+            "sentence": 6,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 947,
+            "charEnd": 950,
+            "id": 148,
+            "sentence": 6,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 951,
+            "charEnd": 961,
+            "id": 149,
+            "sentence": 6,
+            "text": "betroffene",
+            "word": 9
+        },
+        {
+            "charBegin": 962,
+            "charEnd": 971,
+            "id": 150,
+            "sentence": 6,
+            "text": "Ortschaft",
+            "word": 10
+        },
+        {
+            "charBegin": 972,
+            "charEnd": 974,
+            "id": 151,
+            "sentence": 6,
+            "text": "zu",
+            "word": 11
+        },
+        {
+            "charBegin": 975,
+            "charEnd": 983,
+            "id": 152,
+            "sentence": 6,
+            "text": "gelangen",
+            "word": 12
+        },
+        {
+            "charBegin": 984,
+            "charEnd": 987,
+            "id": 153,
+            "sentence": 6,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 988,
+            "charEnd": 991,
+            "id": 154,
+            "sentence": 6,
+            "text": "die",
+            "word": 14
+        },
+        {
+            "charBegin": 992,
+            "charEnd": 1003,
+            "id": 155,
+            "sentence": 6,
+            "text": "chinesische",
+            "word": 15
+        },
+        {
+            "charBegin": 1004,
+            "charEnd": 1013,
+            "id": 156,
+            "sentence": 6,
+            "text": "Regierung",
+            "word": 16
+        },
+        {
+            "charBegin": 1014,
+            "charEnd": 1017,
+            "id": 157,
+            "sentence": 6,
+            "text": "hat",
+            "word": 17
+        },
+        {
+            "charBegin": 1018,
+            "charEnd": 1023,
+            "id": 158,
+            "sentence": 6,
+            "text": "keine",
+            "word": 18
+        },
+        {
+            "charBegin": 1024,
+            "charEnd": 1033,
+            "id": 159,
+            "sentence": 6,
+            "text": "Erklärung",
+            "word": 19
+        },
+        {
+            "charBegin": 1034,
+            "charEnd": 1038,
+            "id": 160,
+            "sentence": 6,
+            "text": "dazu",
+            "word": 20
+        },
+        {
+            "charBegin": 1039,
+            "charEnd": 1048,
+            "id": 161,
+            "sentence": 6,
+            "text": "abgegeben",
+            "word": 21
+        },
+        {
+            "charBegin": 1048,
+            "charEnd": 1049,
+            "id": 162,
+            "sentence": 6,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 1051,
+            "charEnd": 1057,
+            "id": 163,
+            "sentence": 7,
+            "text": "Dolkun",
+            "word": 1
+        },
+        {
+            "charBegin": 1058,
+            "charEnd": 1061,
+            "id": 164,
+            "sentence": 7,
+            "text": "Isa",
+            "word": 2
+        },
+        {
+            "charBegin": 1061,
+            "charEnd": 1062,
+            "id": 165,
+            "sentence": 7,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 1063,
+            "charEnd": 1066,
+            "id": 166,
+            "sentence": 7,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 1067,
+            "charEnd": 1075,
+            "id": 167,
+            "sentence": 7,
+            "text": "Sekretär",
+            "word": 5
+        },
+        {
+            "charBegin": 1076,
+            "charEnd": 1079,
+            "id": 168,
+            "sentence": 7,
+            "text": "des",
+            "word": 6
+        },
+        {
+            "charBegin": 1080,
+            "charEnd": 1094,
+            "id": 169,
+            "sentence": 7,
+            "text": "Weltkongresses",
+            "word": 7
+        },
+        {
+            "charBegin": 1095,
+            "charEnd": 1098,
+            "id": 170,
+            "sentence": 7,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 1099,
+            "charEnd": 1106,
+            "id": 171,
+            "sentence": 7,
+            "text": "Uiguren",
+            "word": 9
+        },
+        {
+            "charBegin": 1107,
+            "charEnd": 1112,
+            "id": 172,
+            "sentence": 7,
+            "text": "sagte",
+            "word": 10
+        },
+        {
+            "charBegin": 1113,
+            "charEnd": 1122,
+            "id": 173,
+            "sentence": 7,
+            "text": "gegenüber",
+            "word": 11
+        },
+        {
+            "charBegin": 1123,
+            "charEnd": 1126,
+            "id": 174,
+            "sentence": 7,
+            "text": "der",
+            "word": 12
+        },
+        {
+            "charBegin": 1127,
+            "charEnd": 1132,
+            "id": 175,
+            "sentence": 7,
+            "text": "Voice",
+            "word": 13
+        },
+        {
+            "charBegin": 1133,
+            "charEnd": 1135,
+            "id": 176,
+            "sentence": 7,
+            "text": "of",
+            "word": 14
+        },
+        {
+            "charBegin": 1136,
+            "charEnd": 1143,
+            "id": 177,
+            "sentence": 7,
+            "text": "America",
+            "word": 15
+        },
+        {
+            "charBegin": 1143,
+            "charEnd": 1144,
+            "id": 178,
+            "sentence": 7,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 1145,
+            "charEnd": 1147,
+            "id": 179,
+            "sentence": 7,
+            "text": "es",
+            "word": 17
+        },
+        {
+            "charBegin": 1148,
+            "charEnd": 1151,
+            "id": 180,
+            "sentence": 7,
+            "text": "sei",
+            "word": 18
+        },
+        {
+            "charBegin": 1152,
+            "charEnd": 1161,
+            "id": 181,
+            "sentence": 7,
+            "text": "schwierig",
+            "word": 19
+        },
+        {
+            "charBegin": 1161,
+            "charEnd": 1162,
+            "id": 182,
+            "sentence": 7,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 1163,
+            "charEnd": 1176,
+            "id": 183,
+            "sentence": 7,
+            "text": "Informationen",
+            "word": 21
+        },
+        {
+            "charBegin": 1177,
+            "charEnd": 1184,
+            "id": 184,
+            "sentence": 7,
+            "text": "darüber",
+            "word": 22
+        },
+        {
+            "charBegin": 1185,
+            "charEnd": 1187,
+            "id": 185,
+            "sentence": 7,
+            "text": "zu",
+            "word": 23
+        },
+        {
+            "charBegin": 1188,
+            "charEnd": 1198,
+            "id": 186,
+            "sentence": 7,
+            "text": "bestätigen",
+            "word": 24
+        },
+        {
+            "charBegin": 1198,
+            "charEnd": 1199,
+            "id": 187,
+            "sentence": 7,
+            "text": ",",
+            "word": 25
+        },
+        {
+            "charBegin": 1200,
+            "charEnd": 1203,
+            "id": 188,
+            "sentence": 7,
+            "text": "was",
+            "word": 26
+        },
+        {
+            "charBegin": 1204,
+            "charEnd": 1209,
+            "id": 189,
+            "sentence": 7,
+            "text": "genau",
+            "word": 27
+        },
+        {
+            "charBegin": 1210,
+            "charEnd": 1218,
+            "id": 190,
+            "sentence": 7,
+            "text": "passiert",
+            "word": 28
+        },
+        {
+            "charBegin": 1219,
+            "charEnd": 1222,
+            "id": 191,
+            "sentence": 7,
+            "text": "ist",
+            "word": 29
+        },
+        {
+            "charBegin": 1222,
+            "charEnd": 1223,
+            "id": 192,
+            "sentence": 7,
+            "text": ",",
+            "word": 30
+        },
+        {
+            "charBegin": 1224,
+            "charEnd": 1227,
+            "id": 193,
+            "sentence": 7,
+            "text": "was",
+            "word": 31
+        },
+        {
+            "charBegin": 1228,
+            "charEnd": 1230,
+            "id": 194,
+            "sentence": 7,
+            "text": "er",
+            "word": 32
+        },
+        {
+            "charBegin": 1231,
+            "charEnd": 1234,
+            "id": 195,
+            "sentence": 7,
+            "text": "auf",
+            "word": 33
+        },
+        {
+            "charBegin": 1235,
+            "charEnd": 1238,
+            "id": 196,
+            "sentence": 7,
+            "text": "die",
+            "word": 34
+        },
+        {
+            "charBegin": 1239,
+            "charEnd": 1246,
+            "id": 197,
+            "sentence": 7,
+            "text": "massive",
+            "word": 35
+        },
+        {
+            "charBegin": 1247,
+            "charEnd": 1261,
+            "id": 198,
+            "sentence": 7,
+            "text": "Polizeipräsenz",
+            "word": 36
+        },
+        {
+            "charBegin": 1262,
+            "charEnd": 1265,
+            "id": 199,
+            "sentence": 7,
+            "text": "und",
+            "word": 37
+        },
+        {
+            "charBegin": 1266,
+            "charEnd": 1269,
+            "id": 200,
+            "sentence": 7,
+            "text": "die",
+            "word": 38
+        },
+        {
+            "charBegin": 1270,
+            "charEnd": 1273,
+            "id": 201,
+            "sentence": 7,
+            "text": "nun",
+            "word": 39
+        },
+        {
+            "charBegin": 1274,
+            "charEnd": 1277,
+            "id": 202,
+            "sentence": 7,
+            "text": "vor",
+            "word": 40
+        },
+        {
+            "charBegin": 1278,
+            "charEnd": 1281,
+            "id": 203,
+            "sentence": 7,
+            "text": "Ort",
+            "word": 41
+        },
+        {
+            "charBegin": 1282,
+            "charEnd": 1293,
+            "id": 204,
+            "sentence": 7,
+            "text": "herrschende",
+            "word": 42
+        },
+        {
+            "charBegin": 1294,
+            "charEnd": 1304,
+            "id": 205,
+            "sentence": 7,
+            "text": "Atmosphäre",
+            "word": 43
+        },
+        {
+            "charBegin": 1305,
+            "charEnd": 1308,
+            "id": 206,
+            "sentence": 7,
+            "text": "des",
+            "word": 44
+        },
+        {
+            "charBegin": 1309,
+            "charEnd": 1310,
+            "id": 207,
+            "sentence": 7,
+            "text": "„",
+            "word": 45
+        },
+        {
+            "charBegin": 1310,
+            "charEnd": 1323,
+            "id": 208,
+            "sentence": 7,
+            "text": "Kriegsrechtes",
+            "word": 46
+        },
+        {
+            "charBegin": 1323,
+            "charEnd": 1324,
+            "id": 209,
+            "sentence": 7,
+            "text": "“",
+            "word": 47
+        },
+        {
+            "charBegin": 1325,
+            "charEnd": 1336,
+            "id": 210,
+            "sentence": 7,
+            "text": "zurückführt",
+            "word": 48
+        },
+        {
+            "charBegin": 1336,
+            "charEnd": 1337,
+            "id": 211,
+            "sentence": 8,
+            "text": ",",
+            "word": 1
+        },
+        {
+            "charBegin": 1338,
+            "charEnd": 1346,
+            "id": 212,
+            "sentence": 8,
+            "text": "bestritt",
+            "word": 2
+        },
+        {
+            "charBegin": 1347,
+            "charEnd": 1353,
+            "id": 213,
+            "sentence": 8,
+            "text": "jedoch",
+            "word": 3
+        },
+        {
+            "charBegin": 1354,
+            "charEnd": 1359,
+            "id": 214,
+            "sentence": 8,
+            "text": "nicht",
+            "word": 4
+        },
+        {
+            "charBegin": 1360,
+            "charEnd": 1363,
+            "id": 215,
+            "sentence": 8,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 1364,
+            "charEnd": 1371,
+            "id": 216,
+            "sentence": 8,
+            "text": "Annahme",
+            "word": 6
+        },
+        {
+            "charBegin": 1371,
+            "charEnd": 1372,
+            "id": 217,
+            "sentence": 8,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 1373,
+            "charEnd": 1377,
+            "id": 218,
+            "sentence": 8,
+            "text": "dass",
+            "word": 8
+        },
+        {
+            "charBegin": 1378,
+            "charEnd": 1385,
+            "id": 219,
+            "sentence": 8,
+            "text": "Uiguren",
+            "word": 9
+        },
+        {
+            "charBegin": 1386,
+            "charEnd": 1390,
+            "id": 220,
+            "sentence": 8,
+            "text": "eine",
+            "word": 10
+        },
+        {
+            "charBegin": 1391,
+            "charEnd": 1405,
+            "id": 221,
+            "sentence": 8,
+            "text": "Polizeistation",
+            "word": 11
+        },
+        {
+            "charBegin": 1406,
+            "charEnd": 1417,
+            "id": 222,
+            "sentence": 8,
+            "text": "angegriffen",
+            "word": 12
+        },
+        {
+            "charBegin": 1418,
+            "charEnd": 1424,
+            "id": 223,
+            "sentence": 8,
+            "text": "hätten",
+            "word": 13
+        },
+        {
+            "charBegin": 1424,
+            "charEnd": 1425,
+            "id": 224,
+            "sentence": 8,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1426,
+            "charEnd": 1427,
+            "id": 225,
+            "sentence": 9,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 1427,
+            "charEnd": 1436,
+            "id": 226,
+            "sentence": 10,
+            "text": "Natürlich",
+            "word": 1
+        },
+        {
+            "charBegin": 1436,
+            "charEnd": 1437,
+            "id": 227,
+            "sentence": 10,
+            "text": ".",
+            "word": 2
+        },
+        {
+            "charBegin": 1438,
+            "charEnd": 1446,
+            "id": 228,
+            "sentence": 11,
+            "text": "Menschen",
+            "word": 1
+        },
+        {
+            "charBegin": 1447,
+            "charEnd": 1455,
+            "id": 229,
+            "sentence": 11,
+            "text": "bekommen",
+            "word": 2
+        },
+        {
+            "charBegin": 1456,
+            "charEnd": 1469,
+            "id": 230,
+            "sentence": 11,
+            "text": "Rachegedanken",
+            "word": 3
+        },
+        {
+            "charBegin": 1469,
+            "charEnd": 1470,
+            "id": 231,
+            "sentence": 11,
+            "text": ".",
+            "word": 4
+        },
+        {
+            "charBegin": 1471,
+            "charEnd": 1475,
+            "id": 232,
+            "sentence": 12,
+            "text": "Weil",
+            "word": 1
+        },
+        {
+            "charBegin": 1476,
+            "charEnd": 1479,
+            "id": 233,
+            "sentence": 12,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 1480,
+            "charEnd": 1487,
+            "id": 234,
+            "sentence": 12,
+            "text": "Polizei",
+            "word": 3
+        },
+        {
+            "charBegin": 1488,
+            "charEnd": 1491,
+            "id": 235,
+            "sentence": 12,
+            "text": "das",
+            "word": 4
+        },
+        {
+            "charBegin": 1492,
+            "charEnd": 1500,
+            "id": 236,
+            "sentence": 12,
+            "text": "tägliche",
+            "word": 5
+        },
+        {
+            "charBegin": 1501,
+            "charEnd": 1506,
+            "id": 237,
+            "sentence": 12,
+            "text": "Leben",
+            "word": 6
+        },
+        {
+            "charBegin": 1507,
+            "charEnd": 1510,
+            "id": 238,
+            "sentence": 12,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 1511,
+            "charEnd": 1519,
+            "id": 239,
+            "sentence": 12,
+            "text": "Menschen",
+            "word": 8
+        },
+        {
+            "charBegin": 1520,
+            "charEnd": 1531,
+            "id": 240,
+            "sentence": 12,
+            "text": "einschränke",
+            "word": 9
+        },
+        {
+            "charBegin": 1531,
+            "charEnd": 1532,
+            "id": 241,
+            "sentence": 12,
+            "text": "“",
+            "word": 10
+        },
+        {
+            "charBegin": 1532,
+            "charEnd": 1533,
+            "id": 242,
+            "sentence": 12,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 1534,
+            "charEnd": 1539,
+            "id": 243,
+            "sentence": 12,
+            "text": "sagte",
+            "word": 12
+        },
+        {
+            "charBegin": 1540,
+            "charEnd": 1542,
+            "id": 244,
+            "sentence": 12,
+            "text": "er",
+            "word": 13
+        },
+        {
+            "charBegin": 1542,
+            "charEnd": 1543,
+            "id": 245,
+            "sentence": 12,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1544,
+            "charEnd": 1545,
+            "id": 246,
+            "sentence": 13,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 1545,
+            "charEnd": 1548,
+            "id": 247,
+            "sentence": 13,
+            "text": "Sie",
+            "word": 2
+        },
+        {
+            "charBegin": 1549,
+            "charEnd": 1554,
+            "id": 248,
+            "sentence": 13,
+            "text": "geben",
+            "word": 3
+        },
+        {
+            "charBegin": 1555,
+            "charEnd": 1560,
+            "id": 249,
+            "sentence": 13,
+            "text": "ihnen",
+            "word": 4
+        },
+        {
+            "charBegin": 1561,
+            "charEnd": 1566,
+            "id": 250,
+            "sentence": 13,
+            "text": "nicht",
+            "word": 5
+        },
+        {
+            "charBegin": 1567,
+            "charEnd": 1575,
+            "id": 251,
+            "sentence": 13,
+            "text": "genügend",
+            "word": 6
+        },
+        {
+            "charBegin": 1576,
+            "charEnd": 1581,
+            "id": 252,
+            "sentence": 13,
+            "text": "Platz",
+            "word": 7
+        },
+        {
+            "charBegin": 1582,
+            "charEnd": 1585,
+            "id": 253,
+            "sentence": 13,
+            "text": "für",
+            "word": 8
+        },
+        {
+            "charBegin": 1586,
+            "charEnd": 1589,
+            "id": 254,
+            "sentence": 13,
+            "text": "ein",
+            "word": 9
+        },
+        {
+            "charBegin": 1590,
+            "charEnd": 1598,
+            "id": 255,
+            "sentence": 13,
+            "text": "normales",
+            "word": 10
+        },
+        {
+            "charBegin": 1599,
+            "charEnd": 1604,
+            "id": 256,
+            "sentence": 13,
+            "text": "Leben",
+            "word": 11
+        },
+        {
+            "charBegin": 1604,
+            "charEnd": 1605,
+            "id": 257,
+            "sentence": 13,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 1606,
+            "charEnd": 1610,
+            "id": 258,
+            "sentence": 14,
+            "text": "Weil",
+            "word": 1
+        },
+        {
+            "charBegin": 1611,
+            "charEnd": 1614,
+            "id": 259,
+            "sentence": 14,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 1615,
+            "charEnd": 1626,
+            "id": 260,
+            "sentence": 14,
+            "text": "chinesische",
+            "word": 3
+        },
+        {
+            "charBegin": 1627,
+            "charEnd": 1634,
+            "id": 261,
+            "sentence": 14,
+            "text": "Polizei",
+            "word": 4
+        },
+        {
+            "charBegin": 1635,
+            "charEnd": 1638,
+            "id": 262,
+            "sentence": 14,
+            "text": "und",
+            "word": 5
+        },
+        {
+            "charBegin": 1639,
+            "charEnd": 1642,
+            "id": 263,
+            "sentence": 14,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 1643,
+            "charEnd": 1654,
+            "id": 264,
+            "sentence": 14,
+            "text": "chinesische",
+            "word": 7
+        },
+        {
+            "charBegin": 1655,
+            "charEnd": 1664,
+            "id": 265,
+            "sentence": 14,
+            "text": "Regierung",
+            "word": 8
+        },
+        {
+            "charBegin": 1665,
+            "charEnd": 1672,
+            "id": 266,
+            "sentence": 14,
+            "text": "ständig",
+            "word": 9
+        },
+        {
+            "charBegin": 1673,
+            "charEnd": 1676,
+            "id": 267,
+            "sentence": 14,
+            "text": "ihr",
+            "word": 10
+        },
+        {
+            "charBegin": 1677,
+            "charEnd": 1686,
+            "id": 268,
+            "sentence": 14,
+            "text": "tägliches",
+            "word": 11
+        },
+        {
+            "charBegin": 1687,
+            "charEnd": 1692,
+            "id": 269,
+            "sentence": 14,
+            "text": "Leben",
+            "word": 12
+        },
+        {
+            "charBegin": 1693,
+            "charEnd": 1698,
+            "id": 270,
+            "sentence": 14,
+            "text": "stört",
+            "word": 13
+        },
+        {
+            "charBegin": 1698,
+            "charEnd": 1699,
+            "id": 271,
+            "sentence": 14,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 1700,
+            "charEnd": 1703,
+            "id": 272,
+            "sentence": 15,
+            "text": "Sie",
+            "word": 1
+        },
+        {
+            "charBegin": 1704,
+            "charEnd": 1709,
+            "id": 273,
+            "sentence": 15,
+            "text": "haben",
+            "word": 2
+        },
+        {
+            "charBegin": 1710,
+            "charEnd": 1716,
+            "id": 274,
+            "sentence": 15,
+            "text": "keinen",
+            "word": 3
+        },
+        {
+            "charBegin": 1717,
+            "charEnd": 1721,
+            "id": 275,
+            "sentence": 15,
+            "text": "Raum",
+            "word": 4
+        },
+        {
+            "charBegin": 1721,
+            "charEnd": 1722,
+            "id": 276,
+            "sentence": 15,
+            "text": ".",
+            "word": 5
+        },
+        {
+            "charBegin": 1722,
+            "charEnd": 1723,
+            "id": 277,
+            "sentence": 15,
+            "text": "“",
+            "word": 6
+        },
+        {
+            "charBegin": 1726,
+            "charEnd": 1735,
+            "id": 278,
+            "sentence": 16,
+            "text": "Offiziell",
+            "word": 1
+        },
+        {
+            "charBegin": 1736,
+            "charEnd": 1740,
+            "id": 279,
+            "sentence": 16,
+            "text": "sagt",
+            "word": 2
+        },
+        {
+            "charBegin": 1741,
+            "charEnd": 1744,
+            "id": 280,
+            "sentence": 16,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 1745,
+            "charEnd": 1756,
+            "id": 281,
+            "sentence": 16,
+            "text": "chinesische",
+            "word": 4
+        },
+        {
+            "charBegin": 1757,
+            "charEnd": 1766,
+            "id": 282,
+            "sentence": 16,
+            "text": "Regierung",
+            "word": 5
+        },
+        {
+            "charBegin": 1766,
+            "charEnd": 1767,
+            "id": 283,
+            "sentence": 16,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 1768,
+            "charEnd": 1771,
+            "id": 284,
+            "sentence": 16,
+            "text": "man",
+            "word": 7
+        },
+        {
+            "charBegin": 1772,
+            "charEnd": 1776,
+            "id": 285,
+            "sentence": 16,
+            "text": "gebe",
+            "word": 8
+        },
+        {
+            "charBegin": 1777,
+            "charEnd": 1780,
+            "id": 286,
+            "sentence": 16,
+            "text": "den",
+            "word": 9
+        },
+        {
+            "charBegin": 1781,
+            "charEnd": 1788,
+            "id": 287,
+            "sentence": 16,
+            "text": "Uiguren",
+            "word": 10
+        },
+        {
+            "charBegin": 1789,
+            "charEnd": 1802,
+            "id": 288,
+            "sentence": 16,
+            "text": "weitreichende",
+            "word": 11
+        },
+        {
+            "charBegin": 1803,
+            "charEnd": 1813,
+            "id": 289,
+            "sentence": 16,
+            "text": "Freiheiten",
+            "word": 12
+        },
+        {
+            "charBegin": 1813,
+            "charEnd": 1814,
+            "id": 290,
+            "sentence": 16,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 1815,
+            "charEnd": 1819,
+            "id": 291,
+            "sentence": 17,
+            "text": "Aber",
+            "word": 1
+        },
+        {
+            "charBegin": 1820,
+            "charEnd": 1823,
+            "id": 292,
+            "sentence": 17,
+            "text": "man",
+            "word": 2
+        },
+        {
+            "charBegin": 1824,
+            "charEnd": 1830,
+            "id": 293,
+            "sentence": 17,
+            "text": "betont",
+            "word": 3
+        },
+        {
+            "charBegin": 1831,
+            "charEnd": 1835,
+            "id": 294,
+            "sentence": 17,
+            "text": "auch",
+            "word": 4
+        },
+        {
+            "charBegin": 1835,
+            "charEnd": 1836,
+            "id": 295,
+            "sentence": 17,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 1837,
+            "charEnd": 1841,
+            "id": 296,
+            "sentence": 17,
+            "text": "dass",
+            "word": 6
+        },
+        {
+            "charBegin": 1842,
+            "charEnd": 1847,
+            "id": 297,
+            "sentence": 17,
+            "text": "China",
+            "word": 7
+        },
+        {
+            "charBegin": 1848,
+            "charEnd": 1852,
+            "id": 298,
+            "sentence": 17,
+            "text": "sich",
+            "word": 8
+        },
+        {
+            "charBegin": 1853,
+            "charEnd": 1856,
+            "id": 299,
+            "sentence": 17,
+            "text": "mit",
+            "word": 9
+        },
+        {
+            "charBegin": 1857,
+            "charEnd": 1862,
+            "id": 300,
+            "sentence": 17,
+            "text": "einer",
+            "word": 10
+        },
+        {
+            "charBegin": 1863,
+            "charEnd": 1873,
+            "id": 301,
+            "sentence": 17,
+            "text": "wachsenden",
+            "word": 11
+        },
+        {
+            "charBegin": 1874,
+            "charEnd": 1880,
+            "id": 302,
+            "sentence": 17,
+            "text": "Gefahr",
+            "word": 12
+        },
+        {
+            "charBegin": 1881,
+            "charEnd": 1886,
+            "id": 303,
+            "sentence": 17,
+            "text": "durch",
+            "word": 13
+        },
+        {
+            "charBegin": 1887,
+            "charEnd": 1902,
+            "id": 304,
+            "sentence": 17,
+            "text": "terroristischen",
+            "word": 14
+        },
+        {
+            "charBegin": 1903,
+            "charEnd": 1906,
+            "id": 305,
+            "sentence": 17,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 1907,
+            "charEnd": 1921,
+            "id": 306,
+            "sentence": 17,
+            "text": "extremistische",
+            "word": 16
+        },
+        {
+            "charBegin": 1922,
+            "charEnd": 1934,
+            "id": 307,
+            "sentence": 17,
+            "text": "Separatisten",
+            "word": 17
+        },
+        {
+            "charBegin": 1935,
+            "charEnd": 1947,
+            "id": 308,
+            "sentence": 17,
+            "text": "konfrontiert",
+            "word": 18
+        },
+        {
+            "charBegin": 1948,
+            "charEnd": 1952,
+            "id": 309,
+            "sentence": 17,
+            "text": "sehe",
+            "word": 19
+        },
+        {
+            "charBegin": 1952,
+            "charEnd": 1953,
+            "id": 310,
+            "sentence": 17,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 1954,
+            "charEnd": 1957,
+            "id": 311,
+            "sentence": 17,
+            "text": "die",
+            "word": 21
+        },
+        {
+            "charBegin": 1958,
+            "charEnd": 1963,
+            "id": 312,
+            "sentence": 17,
+            "text": "einen",
+            "word": 22
+        },
+        {
+            "charBegin": 1964,
+            "charEnd": 1969,
+            "id": 313,
+            "sentence": 17,
+            "text": "Staat",
+            "word": 23
+        },
+        {
+            "charBegin": 1970,
+            "charEnd": 1982,
+            "id": 314,
+            "sentence": 17,
+            "text": "Ostturkestan",
+            "word": 24
+        },
+        {
+            "charBegin": 1983,
+            "charEnd": 1990,
+            "id": 315,
+            "sentence": 17,
+            "text": "gründen",
+            "word": 25
+        },
+        {
+            "charBegin": 1991,
+            "charEnd": 1997,
+            "id": 316,
+            "sentence": 17,
+            "text": "wollen",
+            "word": 26
+        },
+        {
+            "charBegin": 1998,
+            "charEnd": 2001,
+            "id": 317,
+            "sentence": 17,
+            "text": "und",
+            "word": 27
+        },
+        {
+            "charBegin": 2002,
+            "charEnd": 2007,
+            "id": 318,
+            "sentence": 17,
+            "text": "Hilfe",
+            "word": 28
+        },
+        {
+            "charBegin": 2008,
+            "charEnd": 2011,
+            "id": 319,
+            "sentence": 17,
+            "text": "aus",
+            "word": 29
+        },
+        {
+            "charBegin": 2012,
+            "charEnd": 2015,
+            "id": 320,
+            "sentence": 17,
+            "text": "dem",
+            "word": 30
+        },
+        {
+            "charBegin": 2016,
+            "charEnd": 2023,
+            "id": 321,
+            "sentence": 17,
+            "text": "Ausland",
+            "word": 31
+        },
+        {
+            "charBegin": 2024,
+            "charEnd": 2029,
+            "id": 322,
+            "sentence": 17,
+            "text": "dabei",
+            "word": 32
+        },
+        {
+            "charBegin": 2030,
+            "charEnd": 2039,
+            "id": 323,
+            "sentence": 17,
+            "text": "erhielten",
+            "word": 33
+        },
+        {
+            "charBegin": 2039,
+            "charEnd": 2040,
+            "id": 324,
+            "sentence": 17,
+            "text": ".",
+            "word": 34
+        },
+        {
+            "charBegin": 2041,
+            "charEnd": 2043,
+            "id": 325,
+            "sentence": 18,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 2044,
+            "charEnd": 2048,
+            "id": 326,
+            "sentence": 18,
+            "text": "Exil",
+            "word": 2
+        },
+        {
+            "charBegin": 2049,
+            "charEnd": 2056,
+            "id": 327,
+            "sentence": 18,
+            "text": "lebende",
+            "word": 3
+        },
+        {
+            "charBegin": 2057,
+            "charEnd": 2064,
+            "id": 328,
+            "sentence": 18,
+            "text": "Uiguren",
+            "word": 4
+        },
+        {
+            "charBegin": 2065,
+            "charEnd": 2068,
+            "id": 329,
+            "sentence": 18,
+            "text": "wie",
+            "word": 5
+        },
+        {
+            "charBegin": 2069,
+            "charEnd": 2072,
+            "id": 330,
+            "sentence": 18,
+            "text": "Isa",
+            "word": 6
+        },
+        {
+            "charBegin": 2073,
+            "charEnd": 2079,
+            "id": 331,
+            "sentence": 18,
+            "text": "weisen",
+            "word": 7
+        },
+        {
+            "charBegin": 2080,
+            "charEnd": 2083,
+            "id": 332,
+            "sentence": 18,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 2084,
+            "charEnd": 2096,
+            "id": 333,
+            "sentence": 18,
+            "text": "chinesischen",
+            "word": 9
+        },
+        {
+            "charBegin": 2097,
+            "charEnd": 2112,
+            "id": 334,
+            "sentence": 18,
+            "text": "Anschuldigungen",
+            "word": 10
+        },
+        {
+            "charBegin": 2113,
+            "charEnd": 2119,
+            "id": 335,
+            "sentence": 18,
+            "text": "zurück",
+            "word": 11
+        },
+        {
+            "charBegin": 2119,
+            "charEnd": 2120,
+            "id": 336,
+            "sentence": 18,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 2121,
+            "charEnd": 2126,
+            "id": 337,
+            "sentence": 19,
+            "text": "China",
+            "word": 1
+        },
+        {
+            "charBegin": 2127,
+            "charEnd": 2137,
+            "id": 338,
+            "sentence": 19,
+            "text": "übertreibe",
+            "word": 2
+        },
+        {
+            "charBegin": 2138,
+            "charEnd": 2141,
+            "id": 339,
+            "sentence": 19,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 2142,
+            "charEnd": 2148,
+            "id": 340,
+            "sentence": 19,
+            "text": "Gefahr",
+            "word": 4
+        },
+        {
+            "charBegin": 2148,
+            "charEnd": 2149,
+            "id": 341,
+            "sentence": 19,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 2150,
+            "charEnd": 2152,
+            "id": 342,
+            "sentence": 19,
+            "text": "um",
+            "word": 6
+        },
+        {
+            "charBegin": 2153,
+            "charEnd": 2156,
+            "id": 343,
+            "sentence": 19,
+            "text": "die",
+            "word": 7
+        },
+        {
+            "charBegin": 2157,
+            "charEnd": 2163,
+            "id": 344,
+            "sentence": 19,
+            "text": "starke",
+            "word": 8
+        },
+        {
+            "charBegin": 2164,
+            "charEnd": 2171,
+            "id": 345,
+            "sentence": 19,
+            "text": "Präsenz",
+            "word": 9
+        },
+        {
+            "charBegin": 2172,
+            "charEnd": 2175,
+            "id": 346,
+            "sentence": 19,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 2176,
+            "charEnd": 2183,
+            "id": 347,
+            "sentence": 19,
+            "text": "Polizei",
+            "word": 11
+        },
+        {
+            "charBegin": 2184,
+            "charEnd": 2187,
+            "id": 348,
+            "sentence": 19,
+            "text": "und",
+            "word": 12
+        },
+        {
+            "charBegin": 2188,
+            "charEnd": 2191,
+            "id": 349,
+            "sentence": 19,
+            "text": "die",
+            "word": 13
+        },
+        {
+            "charBegin": 2192,
+            "charEnd": 2203,
+            "id": 350,
+            "sentence": 19,
+            "text": "Überwachung",
+            "word": 14
+        },
+        {
+            "charBegin": 2204,
+            "charEnd": 2216,
+            "id": 351,
+            "sentence": 19,
+            "text": "muslimischer",
+            "word": 15
+        },
+        {
+            "charBegin": 2217,
+            "charEnd": 2230,
+            "id": 352,
+            "sentence": 19,
+            "text": "Einrichtungen",
+            "word": 16
+        },
+        {
+            "charBegin": 2231,
+            "charEnd": 2233,
+            "id": 353,
+            "sentence": 19,
+            "text": "zu",
+            "word": 17
+        },
+        {
+            "charBegin": 2234,
+            "charEnd": 2243,
+            "id": 354,
+            "sentence": 19,
+            "text": "begründen",
+            "word": 18
+        },
+        {
+            "charBegin": 2243,
+            "charEnd": 2244,
+            "id": 355,
+            "sentence": 19,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 2246,
+            "charEnd": 2248,
+            "id": 356,
+            "sentence": 20,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 2249,
+            "charEnd": 2256,
+            "id": 357,
+            "sentence": 20,
+            "text": "Freitag",
+            "word": 2
+        },
+        {
+            "charBegin": 2257,
+            "charEnd": 2258,
+            "id": 358,
+            "sentence": 20,
+            "text": "(",
+            "word": 3
+        },
+        {
+            "charBegin": 2258,
+            "charEnd": 2264,
+            "id": 359,
+            "sentence": 20,
+            "text": "28.06.",
+            "word": 4
+        },
+        {
+            "charBegin": 2264,
+            "charEnd": 2265,
+            "id": 360,
+            "sentence": 20,
+            "text": ")",
+            "word": 5
+        },
+        {
+            "charBegin": 2266,
+            "charEnd": 2272,
+            "id": 361,
+            "sentence": 20,
+            "text": "sollen",
+            "word": 6
+        },
+        {
+            "charBegin": 2273,
+            "charEnd": 2276,
+            "id": 362,
+            "sentence": 20,
+            "text": "100",
+            "word": 7
+        },
+        {
+            "charBegin": 2277,
+            "charEnd": 2285,
+            "id": 363,
+            "sentence": 20,
+            "text": "Personen",
+            "word": 8
+        },
+        {
+            "charBegin": 2286,
+            "charEnd": 2290,
+            "id": 364,
+            "sentence": 20,
+            "text": "eine",
+            "word": 9
+        },
+        {
+            "charBegin": 2291,
+            "charEnd": 2305,
+            "id": 365,
+            "sentence": 20,
+            "text": "Polizeistation",
+            "word": 10
+        },
+        {
+            "charBegin": 2306,
+            "charEnd": 2308,
+            "id": 366,
+            "sentence": 20,
+            "text": "in",
+            "word": 11
+        },
+        {
+            "charBegin": 2309,
+            "charEnd": 2314,
+            "id": 367,
+            "sentence": 20,
+            "text": "Hotan",
+            "word": 12
+        },
+        {
+            "charBegin": 2315,
+            "charEnd": 2317,
+            "id": 368,
+            "sentence": 20,
+            "text": "im",
+            "word": 13
+        },
+        {
+            "charBegin": 2318,
+            "charEnd": 2326,
+            "id": 369,
+            "sentence": 20,
+            "text": "Südosten",
+            "word": 14
+        },
+        {
+            "charBegin": 2327,
+            "charEnd": 2330,
+            "id": 370,
+            "sentence": 20,
+            "text": "von",
+            "word": 15
+        },
+        {
+            "charBegin": 2331,
+            "charEnd": 2339,
+            "id": 371,
+            "sentence": 20,
+            "text": "Xinjiang",
+            "word": 16
+        },
+        {
+            "charBegin": 2340,
+            "charEnd": 2351,
+            "id": 372,
+            "sentence": 20,
+            "text": "angegriffen",
+            "word": 17
+        },
+        {
+            "charBegin": 2352,
+            "charEnd": 2357,
+            "id": 373,
+            "sentence": 20,
+            "text": "haben",
+            "word": 18
+        },
+        {
+            "charBegin": 2357,
+            "charEnd": 2358,
+            "id": 374,
+            "sentence": 20,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 2359,
+            "charEnd": 2362,
+            "id": 375,
+            "sentence": 21,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 2363,
+            "charEnd": 2375,
+            "id": 376,
+            "sentence": 21,
+            "text": "französische",
+            "word": 2
+        },
+        {
+            "charBegin": 2376,
+            "charEnd": 2394,
+            "id": 377,
+            "sentence": 21,
+            "text": "Nachrichtenagentur",
+            "word": 3
+        },
+        {
+            "charBegin": 2395,
+            "charEnd": 2398,
+            "id": 378,
+            "sentence": 21,
+            "text": "AFP",
+            "word": 4
+        },
+        {
+            "charBegin": 2399,
+            "charEnd": 2408,
+            "id": 379,
+            "sentence": 21,
+            "text": "berichtet",
+            "word": 5
+        },
+        {
+            "charBegin": 2408,
+            "charEnd": 2409,
+            "id": 380,
+            "sentence": 21,
+            "text": ",",
+            "word": 6
+        },
+        {
+            "charBegin": 2410,
+            "charEnd": 2414,
+            "id": 381,
+            "sentence": 21,
+            "text": "dass",
+            "word": 7
+        },
+        {
+            "charBegin": 2415,
+            "charEnd": 2417,
+            "id": 382,
+            "sentence": 21,
+            "text": "am",
+            "word": 8
+        },
+        {
+            "charBegin": 2418,
+            "charEnd": 2427,
+            "id": 383,
+            "sentence": 21,
+            "text": "Sonnabend",
+            "word": 9
+        },
+        {
+            "charBegin": 2428,
+            "charEnd": 2429,
+            "id": 384,
+            "sentence": 21,
+            "text": "(",
+            "word": 10
+        },
+        {
+            "charBegin": 2429,
+            "charEnd": 2434,
+            "id": 385,
+            "sentence": 21,
+            "text": "29.06",
+            "word": 11
+        },
+        {
+            "charBegin": 2434,
+            "charEnd": 2435,
+            "id": 386,
+            "sentence": 21,
+            "text": ")",
+            "word": 12
+        },
+        {
+            "charBegin": 2436,
+            "charEnd": 2440,
+            "id": 387,
+            "sentence": 21,
+            "text": "eine",
+            "word": 13
+        },
+        {
+            "charBegin": 2441,
+            "charEnd": 2446,
+            "id": 388,
+            "sentence": 21,
+            "text": "große",
+            "word": 14
+        },
+        {
+            "charBegin": 2447,
+            "charEnd": 2459,
+            "id": 389,
+            "sentence": 21,
+            "text": "Militärübung",
+            "word": 15
+        },
+        {
+            "charBegin": 2460,
+            "charEnd": 2462,
+            "id": 390,
+            "sentence": 21,
+            "text": "in",
+            "word": 16
+        },
+        {
+            "charBegin": 2463,
+            "charEnd": 2466,
+            "id": 391,
+            "sentence": 21,
+            "text": "der",
+            "word": 17
+        },
+        {
+            "charBegin": 2467,
+            "charEnd": 2477,
+            "id": 392,
+            "sentence": 21,
+            "text": "Hauptstadt",
+            "word": 18
+        },
+        {
+            "charBegin": 2478,
+            "charEnd": 2481,
+            "id": 393,
+            "sentence": 21,
+            "text": "der",
+            "word": 19
+        },
+        {
+            "charBegin": 2482,
+            "charEnd": 2488,
+            "id": 394,
+            "sentence": 21,
+            "text": "Region",
+            "word": 20
+        },
+        {
+            "charBegin": 2489,
+            "charEnd": 2495,
+            "id": 395,
+            "sentence": 21,
+            "text": "Ürümqi",
+            "word": 21
+        },
+        {
+            "charBegin": 2496,
+            "charEnd": 2509,
+            "id": 396,
+            "sentence": 21,
+            "text": "stattgefunden",
+            "word": 22
+        },
+        {
+            "charBegin": 2510,
+            "charEnd": 2514,
+            "id": 397,
+            "sentence": 21,
+            "text": "habe",
+            "word": 23
+        },
+        {
+            "charBegin": 2514,
+            "charEnd": 2515,
+            "id": 398,
+            "sentence": 21,
+            "text": ",",
+            "word": 24
+        },
+        {
+            "charBegin": 2516,
+            "charEnd": 2519,
+            "id": 399,
+            "sentence": 21,
+            "text": "bei",
+            "word": 25
+        },
+        {
+            "charBegin": 2520,
+            "charEnd": 2523,
+            "id": 400,
+            "sentence": 21,
+            "text": "der",
+            "word": 26
+        },
+        {
+            "charBegin": 2524,
+            "charEnd": 2529,
+            "id": 401,
+            "sentence": 21,
+            "text": "große",
+            "word": 27
+        },
+        {
+            "charBegin": 2530,
+            "charEnd": 2535,
+            "id": 402,
+            "sentence": 21,
+            "text": "Teile",
+            "word": 28
+        },
+        {
+            "charBegin": 2536,
+            "charEnd": 2539,
+            "id": 403,
+            "sentence": 21,
+            "text": "der",
+            "word": 29
+        },
+        {
+            "charBegin": 2540,
+            "charEnd": 2550,
+            "id": 404,
+            "sentence": 21,
+            "text": "Innenstadt",
+            "word": 30
+        },
+        {
+            "charBegin": 2551,
+            "charEnd": 2561,
+            "id": 405,
+            "sentence": 21,
+            "text": "abgesperrt",
+            "word": 31
+        },
+        {
+            "charBegin": 2562,
+            "charEnd": 2568,
+            "id": 406,
+            "sentence": 21,
+            "text": "wurden",
+            "word": 32
+        },
+        {
+            "charBegin": 2568,
+            "charEnd": 2569,
+            "id": 407,
+            "sentence": 21,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 2570,
+            "charEnd": 2581,
+            "id": 408,
+            "sentence": 22,
+            "text": "Chinesische",
+            "word": 1
+        },
+        {
+            "charBegin": 2582,
+            "charEnd": 2591,
+            "id": 409,
+            "sentence": 22,
+            "text": "Politiker",
+            "word": 2
+        },
+        {
+            "charBegin": 2592,
+            "charEnd": 2597,
+            "id": 410,
+            "sentence": 22,
+            "text": "haben",
+            "word": 3
+        },
+        {
+            "charBegin": 2598,
+            "charEnd": 2602,
+            "id": 411,
+            "sentence": 22,
+            "text": "dazu",
+            "word": 4
+        },
+        {
+            "charBegin": 2603,
+            "charEnd": 2613,
+            "id": 412,
+            "sentence": 22,
+            "text": "aufgerufen",
+            "word": 5
+        },
+        {
+            "charBegin": 2614,
+            "charEnd": 2617,
+            "id": 413,
+            "sentence": 22,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 2618,
+            "charEnd": 2635,
+            "id": 414,
+            "sentence": 22,
+            "text": "Polizeikontrollen",
+            "word": 7
+        },
+        {
+            "charBegin": 2636,
+            "charEnd": 2638,
+            "id": 415,
+            "sentence": 22,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 2639,
+            "charEnd": 2642,
+            "id": 416,
+            "sentence": 22,
+            "text": "der",
+            "word": 9
+        },
+        {
+            "charBegin": 2643,
+            "charEnd": 2649,
+            "id": 417,
+            "sentence": 22,
+            "text": "Region",
+            "word": 10
+        },
+        {
+            "charBegin": 2650,
+            "charEnd": 2652,
+            "id": 418,
+            "sentence": 22,
+            "text": "zu",
+            "word": 11
+        },
+        {
+            "charBegin": 2653,
+            "charEnd": 2663,
+            "id": 419,
+            "sentence": 22,
+            "text": "verstärken",
+            "word": 12
+        },
+        {
+            "charBegin": 2664,
+            "charEnd": 2667,
+            "id": 420,
+            "sentence": 22,
+            "text": "und",
+            "word": 13
+        },
+        {
+            "charBegin": 2668,
+            "charEnd": 2679,
+            "id": 421,
+            "sentence": 22,
+            "text": "angekündigt",
+            "word": 14
+        },
+        {
+            "charBegin": 2679,
+            "charEnd": 2680,
+            "id": 422,
+            "sentence": 22,
+            "text": ",",
+            "word": 15
+        },
+        {
+            "charBegin": 2681,
+            "charEnd": 2684,
+            "id": 423,
+            "sentence": 22,
+            "text": "man",
+            "word": 16
+        },
+        {
+            "charBegin": 2685,
+            "charEnd": 2690,
+            "id": 424,
+            "sentence": 22,
+            "text": "werde",
+            "word": 17
+        },
+        {
+            "charBegin": 2691,
+            "charEnd": 2695,
+            "id": 425,
+            "sentence": 22,
+            "text": "hart",
+            "word": 18
+        },
+        {
+            "charBegin": 2696,
+            "charEnd": 2701,
+            "id": 426,
+            "sentence": 22,
+            "text": "gegen",
+            "word": 19
+        },
+        {
+            "charBegin": 2702,
+            "charEnd": 2705,
+            "id": 427,
+            "sentence": 22,
+            "text": "den",
+            "word": 20
+        },
+        {
+            "charBegin": 2706,
+            "charEnd": 2707,
+            "id": 428,
+            "sentence": 22,
+            "text": "„",
+            "word": 21
+        },
+        {
+            "charBegin": 2707,
+            "charEnd": 2718,
+            "id": 429,
+            "sentence": 22,
+            "text": "Terrorismus",
+            "word": 22
+        },
+        {
+            "charBegin": 2718,
+            "charEnd": 2719,
+            "id": 430,
+            "sentence": 22,
+            "text": "“",
+            "word": 23
+        },
+        {
+            "charBegin": 2720,
+            "charEnd": 2722,
+            "id": 431,
+            "sentence": 22,
+            "text": "in",
+            "word": 24
+        },
+        {
+            "charBegin": 2723,
+            "charEnd": 2726,
+            "id": 432,
+            "sentence": 22,
+            "text": "der",
+            "word": 25
+        },
+        {
+            "charBegin": 2727,
+            "charEnd": 2733,
+            "id": 433,
+            "sentence": 22,
+            "text": "Region",
+            "word": 26
+        },
+        {
+            "charBegin": 2734,
+            "charEnd": 2746,
+            "id": 434,
+            "sentence": 22,
+            "text": "durchgreifen",
+            "word": 27
+        },
+        {
+            "charBegin": 2746,
+            "charEnd": 2747,
+            "id": 435,
+            "sentence": 22,
+            "text": ".",
+            "word": 28
+        },
+        {
+            "charBegin": 2749,
+            "charEnd": 2752,
+            "id": 436,
+            "sentence": 23,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 2753,
+            "charEnd": 2766,
+            "id": 437,
+            "sentence": 23,
+            "text": "Zusammenstöße",
+            "word": 2
+        },
+        {
+            "charBegin": 2767,
+            "charEnd": 2770,
+            "id": 438,
+            "sentence": 23,
+            "text": "vom",
+            "word": 3
+        },
+        {
+            "charBegin": 2771,
+            "charEnd": 2779,
+            "id": 439,
+            "sentence": 23,
+            "text": "Mittwoch",
+            "word": 4
+        },
+        {
+            "charBegin": 2780,
+            "charEnd": 2785,
+            "id": 440,
+            "sentence": 23,
+            "text": "waren",
+            "word": 5
+        },
+        {
+            "charBegin": 2786,
+            "charEnd": 2789,
+            "id": 441,
+            "sentence": 23,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 2790,
+            "charEnd": 2800,
+            "id": 442,
+            "sentence": 23,
+            "text": "blutigsten",
+            "word": 7
+        },
+        {
+            "charBegin": 2801,
+            "charEnd": 2805,
+            "id": 443,
+            "sentence": 23,
+            "text": "seit",
+            "word": 8
+        },
+        {
+            "charBegin": 2806,
+            "charEnd": 2810,
+            "id": 444,
+            "sentence": 23,
+            "text": "2009",
+            "word": 9
+        },
+        {
+            "charBegin": 2810,
+            "charEnd": 2811,
+            "id": 445,
+            "sentence": 23,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 2812,
+            "charEnd": 2815,
+            "id": 446,
+            "sentence": 23,
+            "text": "als",
+            "word": 11
+        },
+        {
+            "charBegin": 2816,
+            "charEnd": 2819,
+            "id": 447,
+            "sentence": 23,
+            "text": "bei",
+            "word": 12
+        },
+        {
+            "charBegin": 2820,
+            "charEnd": 2840,
+            "id": 448,
+            "sentence": 23,
+            "text": "Auseinandersetzungen",
+            "word": 13
+        },
+        {
+            "charBegin": 2841,
+            "charEnd": 2849,
+            "id": 449,
+            "sentence": 23,
+            "text": "zwischen",
+            "word": 14
+        },
+        {
+            "charBegin": 2850,
+            "charEnd": 2857,
+            "id": 450,
+            "sentence": 23,
+            "text": "Uiguren",
+            "word": 15
+        },
+        {
+            "charBegin": 2858,
+            "charEnd": 2861,
+            "id": 451,
+            "sentence": 23,
+            "text": "und",
+            "word": 16
+        },
+        {
+            "charBegin": 2862,
+            "charEnd": 2874,
+            "id": 452,
+            "sentence": 23,
+            "text": "Han-Chinesen",
+            "word": 17
+        },
+        {
+            "charBegin": 2875,
+            "charEnd": 2880,
+            "id": 453,
+            "sentence": 23,
+            "text": "sowie",
+            "word": 18
+        },
+        {
+            "charBegin": 2881,
+            "charEnd": 2892,
+            "id": 454,
+            "sentence": 23,
+            "text": "staatlichen",
+            "word": 19
+        },
+        {
+            "charBegin": 2893,
+            "charEnd": 2911,
+            "id": 455,
+            "sentence": 23,
+            "text": "Sicherheitskräften",
+            "word": 20
+        },
+        {
+            "charBegin": 2912,
+            "charEnd": 2916,
+            "id": 456,
+            "sentence": 23,
+            "text": "über",
+            "word": 21
+        },
+        {
+            "charBegin": 2917,
+            "charEnd": 2920,
+            "id": 457,
+            "sentence": 23,
+            "text": "200",
+            "word": 22
+        },
+        {
+            "charBegin": 2921,
+            "charEnd": 2929,
+            "id": 458,
+            "sentence": 23,
+            "text": "Menschen",
+            "word": 23
+        },
+        {
+            "charBegin": 2930,
+            "charEnd": 2937,
+            "id": 459,
+            "sentence": 23,
+            "text": "getötet",
+            "word": 24
+        },
+        {
+            "charBegin": 2938,
+            "charEnd": 2944,
+            "id": 460,
+            "sentence": 23,
+            "text": "wurden",
+            "word": 25
+        },
+        {
+            "charBegin": 2944,
+            "charEnd": 2945,
+            "id": 461,
+            "sentence": 23,
+            "text": ".",
+            "word": 26
+        },
+        {
+            "charBegin": 2946,
+            "charEnd": 2948,
+            "id": 462,
+            "sentence": 24,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 2949,
+            "charEnd": 2954,
+            "id": 463,
+            "sentence": 24,
+            "text": "April",
+            "word": 2
+        },
+        {
+            "charBegin": 2955,
+            "charEnd": 2959,
+            "id": 464,
+            "sentence": 24,
+            "text": "2013",
+            "word": 3
+        },
+        {
+            "charBegin": 2960,
+            "charEnd": 2966,
+            "id": 465,
+            "sentence": 24,
+            "text": "wurden",
+            "word": 4
+        },
+        {
+            "charBegin": 2967,
+            "charEnd": 2970,
+            "id": 466,
+            "sentence": 24,
+            "text": "bei",
+            "word": 5
+        },
+        {
+            "charBegin": 2971,
+            "charEnd": 2976,
+            "id": 467,
+            "sentence": 24,
+            "text": "einer",
+            "word": 6
+        },
+        {
+            "charBegin": 2977,
+            "charEnd": 2988,
+            "id": 468,
+            "sentence": 24,
+            "text": "gewaltsamen",
+            "word": 7
+        },
+        {
+            "charBegin": 2989,
+            "charEnd": 3007,
+            "id": 469,
+            "sentence": 24,
+            "text": "Auseinandersetzung",
+            "word": 8
+        },
+        {
+            "charBegin": 3007,
+            "charEnd": 3008,
+            "id": 470,
+            "sentence": 24,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 3009,
+            "charEnd": 3012,
+            "id": 471,
+            "sentence": 24,
+            "text": "die",
+            "word": 10
+        },
+        {
+            "charBegin": 3013,
+            "charEnd": 3016,
+            "id": 472,
+            "sentence": 24,
+            "text": "auf",
+            "word": 11
+        },
+        {
+            "charBegin": 3017,
+            "charEnd": 3021,
+            "id": 473,
+            "sentence": 24,
+            "text": "eine",
+            "word": 12
+        },
+        {
+            "charBegin": 3022,
+            "charEnd": 3034,
+            "id": 474,
+            "sentence": 24,
+            "text": "polizeiliche",
+            "word": 13
+        },
+        {
+            "charBegin": 3035,
+            "charEnd": 3051,
+            "id": 475,
+            "sentence": 24,
+            "text": "Hausdurchsuchung",
+            "word": 14
+        },
+        {
+            "charBegin": 3052,
+            "charEnd": 3058,
+            "id": 476,
+            "sentence": 24,
+            "text": "folgte",
+            "word": 15
+        },
+        {
+            "charBegin": 3058,
+            "charEnd": 3059,
+            "id": 477,
+            "sentence": 24,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 3060,
+            "charEnd": 3062,
+            "id": 478,
+            "sentence": 24,
+            "text": "in",
+            "word": 17
+        },
+        {
+            "charBegin": 3063,
+            "charEnd": 3066,
+            "id": 479,
+            "sentence": 24,
+            "text": "der",
+            "word": 18
+        },
+        {
+            "charBegin": 3067,
+            "charEnd": 3071,
+            "id": 480,
+            "sentence": 24,
+            "text": "Nähe",
+            "word": 19
+        },
+        {
+            "charBegin": 3072,
+            "charEnd": 3075,
+            "id": 481,
+            "sentence": 24,
+            "text": "von",
+            "word": 20
+        },
+        {
+            "charBegin": 3076,
+            "charEnd": 3082,
+            "id": 482,
+            "sentence": 24,
+            "text": "Kaxgar",
+            "word": 21
+        },
+        {
+            "charBegin": 3083,
+            "charEnd": 3085,
+            "id": 483,
+            "sentence": 24,
+            "text": "21",
+            "word": 22
+        },
+        {
+            "charBegin": 3086,
+            "charEnd": 3094,
+            "id": 484,
+            "sentence": 24,
+            "text": "Menschen",
+            "word": 23
+        },
+        {
+            "charBegin": 3095,
+            "charEnd": 3102,
+            "id": 485,
+            "sentence": 24,
+            "text": "getötet",
+            "word": 24
+        },
+        {
+            "charBegin": 3102,
+            "charEnd": 3103,
+            "id": 486,
+            "sentence": 24,
+            "text": ".",
+            "word": 25
+        }
+    ]
+}

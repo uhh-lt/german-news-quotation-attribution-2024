@@ -1,0 +1,1251 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 63,
+                        "charBegin": 382,
+                        "charEnd": 390,
+                        "end": 64
+                    }
+                ],
+                "text": "glaubten",
+                "tokenIds": [
+                    63
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 62,
+                        "charBegin": 376,
+                        "charEnd": 391,
+                        "end": 65
+                    }
+                ],
+                "text": "Diese glaubten,",
+                "tokenIds": [
+                    62,
+                    63,
+                    64
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "ST",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 65,
+                        "charBegin": 392,
+                        "charEnd": 420,
+                        "end": 69
+                    }
+                ],
+                "text": "er sei inzwischen verstorben",
+                "tokenIds": [
+                    65,
+                    66,
+                    67,
+                    68
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 62,
+                        "charBegin": 376,
+                        "charEnd": 381,
+                        "end": 63
+                    }
+                ],
+                "text": "Diese",
+                "tokenIds": [
+                    62
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "73035 - US-amerikanischer Deserteur gibt sich nach 28 Jahren in Schweden zu erkennen (2012-06-23)",
+    "originalText": "Der heute 49-jährige US-Amerikaner David Hemler desertierte 1984 in Deutschland. Damals war er auf dem Luftwaffenstützpunkt in Augsburg stationiert. Als er eine Pazifistin kennengelernt hatte, floh er über Dänemark nach Schweden. In seiner neuen Heimat studierte und heiratete er. Jetzt meldete er sich bei seinem Bruder in den USA, er hatte Sehnsucht nach seinen Verwandten. Diese glaubten, er sei inzwischen verstorben. Da Hemler immer noch zur Fahndung ausgeschrieben ist, kann er sein Heimatland nicht besuchen, ohne verhaftet zu werden. Er hofft auf eine Begnadigung. Schweden liefert ihn nicht in die USA aus.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 80,
+            "end": 11,
+            "id": 0,
+            "text": "Der heute 49-jährige US-Amerikaner David Hemler desertierte 1984 in Deutschland. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "tokens": [
+                "Der",
+                "heute",
+                "49-jährige",
+                "US-Amerikaner",
+                "David",
+                "Hemler",
+                "desertierte",
+                "1984",
+                "in",
+                "Deutschland",
+                "."
+            ]
+        },
+        {
+            "begin": 11,
+            "charBegin": 81,
+            "charEnd": 148,
+            "end": 21,
+            "id": 1,
+            "text": "Damals war er auf dem Luftwaffenstützpunkt in Augsburg stationiert. ",
+            "tokenIds": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "Damals",
+                "war",
+                "er",
+                "auf",
+                "dem",
+                "Luftwaffenstützpunkt",
+                "in",
+                "Augsburg",
+                "stationiert",
+                "."
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 149,
+            "charEnd": 229,
+            "end": 35,
+            "id": 2,
+            "text": "Als er eine Pazifistin kennengelernt hatte, floh er über Dänemark nach Schweden. ",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "tokens": [
+                "Als",
+                "er",
+                "eine",
+                "Pazifistin",
+                "kennengelernt",
+                "hatte",
+                ",",
+                "floh",
+                "er",
+                "über",
+                "Dänemark",
+                "nach",
+                "Schweden",
+                "."
+            ]
+        },
+        {
+            "begin": 35,
+            "charBegin": 230,
+            "charEnd": 280,
+            "end": 44,
+            "id": 3,
+            "text": "In seiner neuen Heimat studierte und heiratete er. ",
+            "tokenIds": [
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+            ],
+            "tokens": [
+                "In",
+                "seiner",
+                "neuen",
+                "Heimat",
+                "studierte",
+                "und",
+                "heiratete",
+                "er",
+                "."
+            ]
+        },
+        {
+            "begin": 44,
+            "charBegin": 281,
+            "charEnd": 375,
+            "end": 62,
+            "id": 4,
+            "text": "Jetzt meldete er sich bei seinem Bruder in den USA, er hatte Sehnsucht nach seinen Verwandten. ",
+            "tokenIds": [
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "tokens": [
+                "Jetzt",
+                "meldete",
+                "er",
+                "sich",
+                "bei",
+                "seinem",
+                "Bruder",
+                "in",
+                "den",
+                "USA",
+                ",",
+                "er",
+                "hatte",
+                "Sehnsucht",
+                "nach",
+                "seinen",
+                "Verwandten",
+                "."
+            ]
+        },
+        {
+            "begin": 62,
+            "charBegin": 376,
+            "charEnd": 421,
+            "end": 70,
+            "id": 5,
+            "text": "Diese glaubten, er sei inzwischen verstorben. ",
+            "tokenIds": [
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69
+            ],
+            "tokens": [
+                "Diese",
+                "glaubten",
+                ",",
+                "er",
+                "sei",
+                "inzwischen",
+                "verstorben",
+                "."
+            ]
+        },
+        {
+            "begin": 70,
+            "charBegin": 422,
+            "charEnd": 541,
+            "end": 91,
+            "id": 6,
+            "text": "Da Hemler immer noch zur Fahndung ausgeschrieben ist, kann er sein Heimatland nicht besuchen, ohne verhaftet zu werden. ",
+            "tokenIds": [
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90
+            ],
+            "tokens": [
+                "Da",
+                "Hemler",
+                "immer",
+                "noch",
+                "zur",
+                "Fahndung",
+                "ausgeschrieben",
+                "ist",
+                ",",
+                "kann",
+                "er",
+                "sein",
+                "Heimatland",
+                "nicht",
+                "besuchen",
+                ",",
+                "ohne",
+                "verhaftet",
+                "zu",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 91,
+            "charBegin": 542,
+            "charEnd": 572,
+            "end": 97,
+            "id": 7,
+            "text": "Er hofft auf eine Begnadigung. ",
+            "tokenIds": [
+                91,
+                92,
+                93,
+                94,
+                95,
+                96
+            ],
+            "tokens": [
+                "Er",
+                "hofft",
+                "auf",
+                "eine",
+                "Begnadigung",
+                "."
+            ]
+        },
+        {
+            "begin": 97,
+            "charBegin": 573,
+            "charEnd": 615,
+            "end": 106,
+            "id": 8,
+            "text": "Schweden liefert ihn nicht in die USA aus.",
+            "tokenIds": [
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105
+            ],
+            "tokens": [
+                "Schweden",
+                "liefert",
+                "ihn",
+                "nicht",
+                "in",
+                "die",
+                "USA",
+                "aus",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 9,
+            "id": 1,
+            "sentence": 1,
+            "text": "heute",
+            "word": 2
+        },
+        {
+            "charBegin": 10,
+            "charEnd": 20,
+            "id": 2,
+            "sentence": 1,
+            "text": "49-jährige",
+            "word": 3
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 34,
+            "id": 3,
+            "sentence": 1,
+            "text": "US-Amerikaner",
+            "word": 4
+        },
+        {
+            "charBegin": 35,
+            "charEnd": 40,
+            "id": 4,
+            "sentence": 1,
+            "text": "David",
+            "word": 5
+        },
+        {
+            "charBegin": 41,
+            "charEnd": 47,
+            "id": 5,
+            "sentence": 1,
+            "text": "Hemler",
+            "word": 6
+        },
+        {
+            "charBegin": 48,
+            "charEnd": 59,
+            "id": 6,
+            "sentence": 1,
+            "text": "desertierte",
+            "word": 7
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 64,
+            "id": 7,
+            "sentence": 1,
+            "text": "1984",
+            "word": 8
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 67,
+            "id": 8,
+            "sentence": 1,
+            "text": "in",
+            "word": 9
+        },
+        {
+            "charBegin": 68,
+            "charEnd": 79,
+            "id": 9,
+            "sentence": 1,
+            "text": "Deutschland",
+            "word": 10
+        },
+        {
+            "charBegin": 79,
+            "charEnd": 80,
+            "id": 10,
+            "sentence": 1,
+            "text": ".",
+            "word": 11
+        },
+        {
+            "charBegin": 81,
+            "charEnd": 87,
+            "id": 11,
+            "sentence": 2,
+            "text": "Damals",
+            "word": 1
+        },
+        {
+            "charBegin": 88,
+            "charEnd": 91,
+            "id": 12,
+            "sentence": 2,
+            "text": "war",
+            "word": 2
+        },
+        {
+            "charBegin": 92,
+            "charEnd": 94,
+            "id": 13,
+            "sentence": 2,
+            "text": "er",
+            "word": 3
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 98,
+            "id": 14,
+            "sentence": 2,
+            "text": "auf",
+            "word": 4
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 102,
+            "id": 15,
+            "sentence": 2,
+            "text": "dem",
+            "word": 5
+        },
+        {
+            "charBegin": 103,
+            "charEnd": 123,
+            "id": 16,
+            "sentence": 2,
+            "text": "Luftwaffenstützpunkt",
+            "word": 6
+        },
+        {
+            "charBegin": 124,
+            "charEnd": 126,
+            "id": 17,
+            "sentence": 2,
+            "text": "in",
+            "word": 7
+        },
+        {
+            "charBegin": 127,
+            "charEnd": 135,
+            "id": 18,
+            "sentence": 2,
+            "text": "Augsburg",
+            "word": 8
+        },
+        {
+            "charBegin": 136,
+            "charEnd": 147,
+            "id": 19,
+            "sentence": 2,
+            "text": "stationiert",
+            "word": 9
+        },
+        {
+            "charBegin": 147,
+            "charEnd": 148,
+            "id": 20,
+            "sentence": 2,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 152,
+            "id": 21,
+            "sentence": 3,
+            "text": "Als",
+            "word": 1
+        },
+        {
+            "charBegin": 153,
+            "charEnd": 155,
+            "id": 22,
+            "sentence": 3,
+            "text": "er",
+            "word": 2
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 160,
+            "id": 23,
+            "sentence": 3,
+            "text": "eine",
+            "word": 3
+        },
+        {
+            "charBegin": 161,
+            "charEnd": 171,
+            "id": 24,
+            "sentence": 3,
+            "text": "Pazifistin",
+            "word": 4
+        },
+        {
+            "charBegin": 172,
+            "charEnd": 185,
+            "id": 25,
+            "sentence": 3,
+            "text": "kennengelernt",
+            "word": 5
+        },
+        {
+            "charBegin": 186,
+            "charEnd": 191,
+            "id": 26,
+            "sentence": 3,
+            "text": "hatte",
+            "word": 6
+        },
+        {
+            "charBegin": 191,
+            "charEnd": 192,
+            "id": 27,
+            "sentence": 3,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 193,
+            "charEnd": 197,
+            "id": 28,
+            "sentence": 3,
+            "text": "floh",
+            "word": 8
+        },
+        {
+            "charBegin": 198,
+            "charEnd": 200,
+            "id": 29,
+            "sentence": 3,
+            "text": "er",
+            "word": 9
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 205,
+            "id": 30,
+            "sentence": 3,
+            "text": "über",
+            "word": 10
+        },
+        {
+            "charBegin": 206,
+            "charEnd": 214,
+            "id": 31,
+            "sentence": 3,
+            "text": "Dänemark",
+            "word": 11
+        },
+        {
+            "charBegin": 215,
+            "charEnd": 219,
+            "id": 32,
+            "sentence": 3,
+            "text": "nach",
+            "word": 12
+        },
+        {
+            "charBegin": 220,
+            "charEnd": 228,
+            "id": 33,
+            "sentence": 3,
+            "text": "Schweden",
+            "word": 13
+        },
+        {
+            "charBegin": 228,
+            "charEnd": 229,
+            "id": 34,
+            "sentence": 3,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 230,
+            "charEnd": 232,
+            "id": 35,
+            "sentence": 4,
+            "text": "In",
+            "word": 1
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 239,
+            "id": 36,
+            "sentence": 4,
+            "text": "seiner",
+            "word": 2
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 245,
+            "id": 37,
+            "sentence": 4,
+            "text": "neuen",
+            "word": 3
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 252,
+            "id": 38,
+            "sentence": 4,
+            "text": "Heimat",
+            "word": 4
+        },
+        {
+            "charBegin": 253,
+            "charEnd": 262,
+            "id": 39,
+            "sentence": 4,
+            "text": "studierte",
+            "word": 5
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 266,
+            "id": 40,
+            "sentence": 4,
+            "text": "und",
+            "word": 6
+        },
+        {
+            "charBegin": 267,
+            "charEnd": 276,
+            "id": 41,
+            "sentence": 4,
+            "text": "heiratete",
+            "word": 7
+        },
+        {
+            "charBegin": 277,
+            "charEnd": 279,
+            "id": 42,
+            "sentence": 4,
+            "text": "er",
+            "word": 8
+        },
+        {
+            "charBegin": 279,
+            "charEnd": 280,
+            "id": 43,
+            "sentence": 4,
+            "text": ".",
+            "word": 9
+        },
+        {
+            "charBegin": 281,
+            "charEnd": 286,
+            "id": 44,
+            "sentence": 5,
+            "text": "Jetzt",
+            "word": 1
+        },
+        {
+            "charBegin": 287,
+            "charEnd": 294,
+            "id": 45,
+            "sentence": 5,
+            "text": "meldete",
+            "word": 2
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 297,
+            "id": 46,
+            "sentence": 5,
+            "text": "er",
+            "word": 3
+        },
+        {
+            "charBegin": 298,
+            "charEnd": 302,
+            "id": 47,
+            "sentence": 5,
+            "text": "sich",
+            "word": 4
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 306,
+            "id": 48,
+            "sentence": 5,
+            "text": "bei",
+            "word": 5
+        },
+        {
+            "charBegin": 307,
+            "charEnd": 313,
+            "id": 49,
+            "sentence": 5,
+            "text": "seinem",
+            "word": 6
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 320,
+            "id": 50,
+            "sentence": 5,
+            "text": "Bruder",
+            "word": 7
+        },
+        {
+            "charBegin": 321,
+            "charEnd": 323,
+            "id": 51,
+            "sentence": 5,
+            "text": "in",
+            "word": 8
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 327,
+            "id": 52,
+            "sentence": 5,
+            "text": "den",
+            "word": 9
+        },
+        {
+            "charBegin": 328,
+            "charEnd": 331,
+            "id": 53,
+            "sentence": 5,
+            "text": "USA",
+            "word": 10
+        },
+        {
+            "charBegin": 331,
+            "charEnd": 332,
+            "id": 54,
+            "sentence": 5,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 333,
+            "charEnd": 335,
+            "id": 55,
+            "sentence": 5,
+            "text": "er",
+            "word": 12
+        },
+        {
+            "charBegin": 336,
+            "charEnd": 341,
+            "id": 56,
+            "sentence": 5,
+            "text": "hatte",
+            "word": 13
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 351,
+            "id": 57,
+            "sentence": 5,
+            "text": "Sehnsucht",
+            "word": 14
+        },
+        {
+            "charBegin": 352,
+            "charEnd": 356,
+            "id": 58,
+            "sentence": 5,
+            "text": "nach",
+            "word": 15
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 363,
+            "id": 59,
+            "sentence": 5,
+            "text": "seinen",
+            "word": 16
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 374,
+            "id": 60,
+            "sentence": 5,
+            "text": "Verwandten",
+            "word": 17
+        },
+        {
+            "charBegin": 374,
+            "charEnd": 375,
+            "id": 61,
+            "sentence": 5,
+            "text": ".",
+            "word": 18
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 381,
+            "id": 62,
+            "sentence": 6,
+            "text": "Diese",
+            "word": 1
+        },
+        {
+            "charBegin": 382,
+            "charEnd": 390,
+            "id": 63,
+            "sentence": 6,
+            "text": "glaubten",
+            "word": 2
+        },
+        {
+            "charBegin": 390,
+            "charEnd": 391,
+            "id": 64,
+            "sentence": 6,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 394,
+            "id": 65,
+            "sentence": 6,
+            "text": "er",
+            "word": 4
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 398,
+            "id": 66,
+            "sentence": 6,
+            "text": "sei",
+            "word": 5
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 409,
+            "id": 67,
+            "sentence": 6,
+            "text": "inzwischen",
+            "word": 6
+        },
+        {
+            "charBegin": 410,
+            "charEnd": 420,
+            "id": 68,
+            "sentence": 6,
+            "text": "verstorben",
+            "word": 7
+        },
+        {
+            "charBegin": 420,
+            "charEnd": 421,
+            "id": 69,
+            "sentence": 6,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 424,
+            "id": 70,
+            "sentence": 7,
+            "text": "Da",
+            "word": 1
+        },
+        {
+            "charBegin": 425,
+            "charEnd": 431,
+            "id": 71,
+            "sentence": 7,
+            "text": "Hemler",
+            "word": 2
+        },
+        {
+            "charBegin": 432,
+            "charEnd": 437,
+            "id": 72,
+            "sentence": 7,
+            "text": "immer",
+            "word": 3
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 442,
+            "id": 73,
+            "sentence": 7,
+            "text": "noch",
+            "word": 4
+        },
+        {
+            "charBegin": 443,
+            "charEnd": 446,
+            "id": 74,
+            "sentence": 7,
+            "text": "zur",
+            "word": 5
+        },
+        {
+            "charBegin": 447,
+            "charEnd": 455,
+            "id": 75,
+            "sentence": 7,
+            "text": "Fahndung",
+            "word": 6
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 470,
+            "id": 76,
+            "sentence": 7,
+            "text": "ausgeschrieben",
+            "word": 7
+        },
+        {
+            "charBegin": 471,
+            "charEnd": 474,
+            "id": 77,
+            "sentence": 7,
+            "text": "ist",
+            "word": 8
+        },
+        {
+            "charBegin": 474,
+            "charEnd": 475,
+            "id": 78,
+            "sentence": 7,
+            "text": ",",
+            "word": 9
+        },
+        {
+            "charBegin": 476,
+            "charEnd": 480,
+            "id": 79,
+            "sentence": 7,
+            "text": "kann",
+            "word": 10
+        },
+        {
+            "charBegin": 481,
+            "charEnd": 483,
+            "id": 80,
+            "sentence": 7,
+            "text": "er",
+            "word": 11
+        },
+        {
+            "charBegin": 484,
+            "charEnd": 488,
+            "id": 81,
+            "sentence": 7,
+            "text": "sein",
+            "word": 12
+        },
+        {
+            "charBegin": 489,
+            "charEnd": 499,
+            "id": 82,
+            "sentence": 7,
+            "text": "Heimatland",
+            "word": 13
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 505,
+            "id": 83,
+            "sentence": 7,
+            "text": "nicht",
+            "word": 14
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 514,
+            "id": 84,
+            "sentence": 7,
+            "text": "besuchen",
+            "word": 15
+        },
+        {
+            "charBegin": 514,
+            "charEnd": 515,
+            "id": 85,
+            "sentence": 7,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 516,
+            "charEnd": 520,
+            "id": 86,
+            "sentence": 7,
+            "text": "ohne",
+            "word": 17
+        },
+        {
+            "charBegin": 521,
+            "charEnd": 530,
+            "id": 87,
+            "sentence": 7,
+            "text": "verhaftet",
+            "word": 18
+        },
+        {
+            "charBegin": 531,
+            "charEnd": 533,
+            "id": 88,
+            "sentence": 7,
+            "text": "zu",
+            "word": 19
+        },
+        {
+            "charBegin": 534,
+            "charEnd": 540,
+            "id": 89,
+            "sentence": 7,
+            "text": "werden",
+            "word": 20
+        },
+        {
+            "charBegin": 540,
+            "charEnd": 541,
+            "id": 90,
+            "sentence": 7,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 544,
+            "id": 91,
+            "sentence": 8,
+            "text": "Er",
+            "word": 1
+        },
+        {
+            "charBegin": 545,
+            "charEnd": 550,
+            "id": 92,
+            "sentence": 8,
+            "text": "hofft",
+            "word": 2
+        },
+        {
+            "charBegin": 551,
+            "charEnd": 554,
+            "id": 93,
+            "sentence": 8,
+            "text": "auf",
+            "word": 3
+        },
+        {
+            "charBegin": 555,
+            "charEnd": 559,
+            "id": 94,
+            "sentence": 8,
+            "text": "eine",
+            "word": 4
+        },
+        {
+            "charBegin": 560,
+            "charEnd": 571,
+            "id": 95,
+            "sentence": 8,
+            "text": "Begnadigung",
+            "word": 5
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 572,
+            "id": 96,
+            "sentence": 8,
+            "text": ".",
+            "word": 6
+        },
+        {
+            "charBegin": 573,
+            "charEnd": 581,
+            "id": 97,
+            "sentence": 9,
+            "text": "Schweden",
+            "word": 1
+        },
+        {
+            "charBegin": 582,
+            "charEnd": 589,
+            "id": 98,
+            "sentence": 9,
+            "text": "liefert",
+            "word": 2
+        },
+        {
+            "charBegin": 590,
+            "charEnd": 593,
+            "id": 99,
+            "sentence": 9,
+            "text": "ihn",
+            "word": 3
+        },
+        {
+            "charBegin": 594,
+            "charEnd": 599,
+            "id": 100,
+            "sentence": 9,
+            "text": "nicht",
+            "word": 4
+        },
+        {
+            "charBegin": 600,
+            "charEnd": 602,
+            "id": 101,
+            "sentence": 9,
+            "text": "in",
+            "word": 5
+        },
+        {
+            "charBegin": 603,
+            "charEnd": 606,
+            "id": 102,
+            "sentence": 9,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 607,
+            "charEnd": 610,
+            "id": 103,
+            "sentence": 9,
+            "text": "USA",
+            "word": 7
+        },
+        {
+            "charBegin": 611,
+            "charEnd": 614,
+            "id": 104,
+            "sentence": 9,
+            "text": "aus",
+            "word": 8
+        },
+        {
+            "charBegin": 614,
+            "charEnd": 615,
+            "id": 105,
+            "sentence": 9,
+            "text": ".",
+            "word": 9
+        }
+    ]
+}

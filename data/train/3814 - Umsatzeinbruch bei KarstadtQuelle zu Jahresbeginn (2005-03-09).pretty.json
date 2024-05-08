@@ -1,0 +1,772 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 4,
+                        "end": 1
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    0
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 55,
+                        "end": 9
+                    }
+                ],
+                "text": "Nach einem Bericht der „Frankfurter Allgemeine Zeitung“",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 9,
+                        "charBegin": 56,
+                        "charEnd": 149,
+                        "end": 21
+                    }
+                ],
+                "text": "ist der kriselnde Handelskonzern KarstadtQuelle mit einem Umsatzminus ins neue Jahr gestartet",
+                "tokenIds": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 1,
+                        "charBegin": 5,
+                        "charEnd": 55,
+                        "end": 9
+                    }
+                ],
+                "text": "einem Bericht der „Frankfurter Allgemeine Zeitung“",
+                "tokenIds": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "3814 - Umsatzeinbruch bei KarstadtQuelle zu Jahresbeginn (2005-03-09)",
+    "originalText": "Nach einem Bericht der „Frankfurter Allgemeine Zeitung“ ist der kriselnde Handelskonzern KarstadtQuelle mit einem Umsatzminus ins neue Jahr gestartet. \n\nAm Jahresbeginn wurde ein Umsatzrückgang von zehn Prozent verzeichnet. Im Januar waren es zunächst mehr als zehn Prozent, allerdings hat sich das Minus bis Ende Februar wieder abgeschwächt. Insbesondere ist das Inlandsgeschäft der Versandtochter Quelle problematisch.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 150,
+            "end": 22,
+            "id": 0,
+            "text": "Nach einem Bericht der „Frankfurter Allgemeine Zeitung“ ist der kriselnde Handelskonzern KarstadtQuelle mit einem Umsatzminus ins neue Jahr gestartet. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Nach",
+                "einem",
+                "Bericht",
+                "der",
+                "„",
+                "Frankfurter",
+                "Allgemeine",
+                "Zeitung",
+                "“",
+                "ist",
+                "der",
+                "kriselnde",
+                "Handelskonzern",
+                "KarstadtQuelle",
+                "mit",
+                "einem",
+                "Umsatzminus",
+                "ins",
+                "neue",
+                "Jahr",
+                "gestartet",
+                "."
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 153,
+            "charEnd": 223,
+            "end": 32,
+            "id": 1,
+            "text": "Am Jahresbeginn wurde ein Umsatzrückgang von zehn Prozent verzeichnet. ",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31
+            ],
+            "tokens": [
+                "Am",
+                "Jahresbeginn",
+                "wurde",
+                "ein",
+                "Umsatzrückgang",
+                "von",
+                "zehn",
+                "Prozent",
+                "verzeichnet",
+                "."
+            ]
+        },
+        {
+            "begin": 32,
+            "charBegin": 224,
+            "charEnd": 342,
+            "end": 53,
+            "id": 2,
+            "text": "Im Januar waren es zunächst mehr als zehn Prozent, allerdings hat sich das Minus bis Ende Februar wieder abgeschwächt. ",
+            "tokenIds": [
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52
+            ],
+            "tokens": [
+                "Im",
+                "Januar",
+                "waren",
+                "es",
+                "zunächst",
+                "mehr",
+                "als",
+                "zehn",
+                "Prozent",
+                ",",
+                "allerdings",
+                "hat",
+                "sich",
+                "das",
+                "Minus",
+                "bis",
+                "Ende",
+                "Februar",
+                "wieder",
+                "abgeschwächt",
+                "."
+            ]
+        },
+        {
+            "begin": 53,
+            "charBegin": 343,
+            "charEnd": 420,
+            "end": 62,
+            "id": 3,
+            "text": "Insbesondere ist das Inlandsgeschäft der Versandtochter Quelle problematisch.",
+            "tokenIds": [
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "tokens": [
+                "Insbesondere",
+                "ist",
+                "das",
+                "Inlandsgeschäft",
+                "der",
+                "Versandtochter",
+                "Quelle",
+                "problematisch",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 4,
+            "id": 0,
+            "sentence": 1,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 5,
+            "charEnd": 10,
+            "id": 1,
+            "sentence": 1,
+            "text": "einem",
+            "word": 2
+        },
+        {
+            "charBegin": 11,
+            "charEnd": 18,
+            "id": 2,
+            "sentence": 1,
+            "text": "Bericht",
+            "word": 3
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 22,
+            "id": 3,
+            "sentence": 1,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 23,
+            "charEnd": 24,
+            "id": 4,
+            "sentence": 1,
+            "text": "„",
+            "word": 5
+        },
+        {
+            "charBegin": 24,
+            "charEnd": 35,
+            "id": 5,
+            "sentence": 1,
+            "text": "Frankfurter",
+            "word": 6
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 46,
+            "id": 6,
+            "sentence": 1,
+            "text": "Allgemeine",
+            "word": 7
+        },
+        {
+            "charBegin": 47,
+            "charEnd": 54,
+            "id": 7,
+            "sentence": 1,
+            "text": "Zeitung",
+            "word": 8
+        },
+        {
+            "charBegin": 54,
+            "charEnd": 55,
+            "id": 8,
+            "sentence": 1,
+            "text": "“",
+            "word": 9
+        },
+        {
+            "charBegin": 56,
+            "charEnd": 59,
+            "id": 9,
+            "sentence": 1,
+            "text": "ist",
+            "word": 10
+        },
+        {
+            "charBegin": 60,
+            "charEnd": 63,
+            "id": 10,
+            "sentence": 1,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 64,
+            "charEnd": 73,
+            "id": 11,
+            "sentence": 1,
+            "text": "kriselnde",
+            "word": 12
+        },
+        {
+            "charBegin": 74,
+            "charEnd": 88,
+            "id": 12,
+            "sentence": 1,
+            "text": "Handelskonzern",
+            "word": 13
+        },
+        {
+            "charBegin": 89,
+            "charEnd": 103,
+            "id": 13,
+            "sentence": 1,
+            "text": "KarstadtQuelle",
+            "word": 14
+        },
+        {
+            "charBegin": 104,
+            "charEnd": 107,
+            "id": 14,
+            "sentence": 1,
+            "text": "mit",
+            "word": 15
+        },
+        {
+            "charBegin": 108,
+            "charEnd": 113,
+            "id": 15,
+            "sentence": 1,
+            "text": "einem",
+            "word": 16
+        },
+        {
+            "charBegin": 114,
+            "charEnd": 125,
+            "id": 16,
+            "sentence": 1,
+            "text": "Umsatzminus",
+            "word": 17
+        },
+        {
+            "charBegin": 126,
+            "charEnd": 129,
+            "id": 17,
+            "sentence": 1,
+            "text": "ins",
+            "word": 18
+        },
+        {
+            "charBegin": 130,
+            "charEnd": 134,
+            "id": 18,
+            "sentence": 1,
+            "text": "neue",
+            "word": 19
+        },
+        {
+            "charBegin": 135,
+            "charEnd": 139,
+            "id": 19,
+            "sentence": 1,
+            "text": "Jahr",
+            "word": 20
+        },
+        {
+            "charBegin": 140,
+            "charEnd": 149,
+            "id": 20,
+            "sentence": 1,
+            "text": "gestartet",
+            "word": 21
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 150,
+            "id": 21,
+            "sentence": 1,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 153,
+            "charEnd": 155,
+            "id": 22,
+            "sentence": 2,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 156,
+            "charEnd": 168,
+            "id": 23,
+            "sentence": 2,
+            "text": "Jahresbeginn",
+            "word": 2
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 174,
+            "id": 24,
+            "sentence": 2,
+            "text": "wurde",
+            "word": 3
+        },
+        {
+            "charBegin": 175,
+            "charEnd": 178,
+            "id": 25,
+            "sentence": 2,
+            "text": "ein",
+            "word": 4
+        },
+        {
+            "charBegin": 179,
+            "charEnd": 193,
+            "id": 26,
+            "sentence": 2,
+            "text": "Umsatzrückgang",
+            "word": 5
+        },
+        {
+            "charBegin": 194,
+            "charEnd": 197,
+            "id": 27,
+            "sentence": 2,
+            "text": "von",
+            "word": 6
+        },
+        {
+            "charBegin": 198,
+            "charEnd": 202,
+            "id": 28,
+            "sentence": 2,
+            "text": "zehn",
+            "word": 7
+        },
+        {
+            "charBegin": 203,
+            "charEnd": 210,
+            "id": 29,
+            "sentence": 2,
+            "text": "Prozent",
+            "word": 8
+        },
+        {
+            "charBegin": 211,
+            "charEnd": 222,
+            "id": 30,
+            "sentence": 2,
+            "text": "verzeichnet",
+            "word": 9
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 223,
+            "id": 31,
+            "sentence": 2,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 224,
+            "charEnd": 226,
+            "id": 32,
+            "sentence": 3,
+            "text": "Im",
+            "word": 1
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 233,
+            "id": 33,
+            "sentence": 3,
+            "text": "Januar",
+            "word": 2
+        },
+        {
+            "charBegin": 234,
+            "charEnd": 239,
+            "id": 34,
+            "sentence": 3,
+            "text": "waren",
+            "word": 3
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 242,
+            "id": 35,
+            "sentence": 3,
+            "text": "es",
+            "word": 4
+        },
+        {
+            "charBegin": 243,
+            "charEnd": 251,
+            "id": 36,
+            "sentence": 3,
+            "text": "zunächst",
+            "word": 5
+        },
+        {
+            "charBegin": 252,
+            "charEnd": 256,
+            "id": 37,
+            "sentence": 3,
+            "text": "mehr",
+            "word": 6
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 260,
+            "id": 38,
+            "sentence": 3,
+            "text": "als",
+            "word": 7
+        },
+        {
+            "charBegin": 261,
+            "charEnd": 265,
+            "id": 39,
+            "sentence": 3,
+            "text": "zehn",
+            "word": 8
+        },
+        {
+            "charBegin": 266,
+            "charEnd": 273,
+            "id": 40,
+            "sentence": 3,
+            "text": "Prozent",
+            "word": 9
+        },
+        {
+            "charBegin": 273,
+            "charEnd": 274,
+            "id": 41,
+            "sentence": 3,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 285,
+            "id": 42,
+            "sentence": 3,
+            "text": "allerdings",
+            "word": 11
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 289,
+            "id": 43,
+            "sentence": 3,
+            "text": "hat",
+            "word": 12
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 294,
+            "id": 44,
+            "sentence": 3,
+            "text": "sich",
+            "word": 13
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 298,
+            "id": 45,
+            "sentence": 3,
+            "text": "das",
+            "word": 14
+        },
+        {
+            "charBegin": 299,
+            "charEnd": 304,
+            "id": 46,
+            "sentence": 3,
+            "text": "Minus",
+            "word": 15
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 308,
+            "id": 47,
+            "sentence": 3,
+            "text": "bis",
+            "word": 16
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 313,
+            "id": 48,
+            "sentence": 3,
+            "text": "Ende",
+            "word": 17
+        },
+        {
+            "charBegin": 314,
+            "charEnd": 321,
+            "id": 49,
+            "sentence": 3,
+            "text": "Februar",
+            "word": 18
+        },
+        {
+            "charBegin": 322,
+            "charEnd": 328,
+            "id": 50,
+            "sentence": 3,
+            "text": "wieder",
+            "word": 19
+        },
+        {
+            "charBegin": 329,
+            "charEnd": 341,
+            "id": 51,
+            "sentence": 3,
+            "text": "abgeschwächt",
+            "word": 20
+        },
+        {
+            "charBegin": 341,
+            "charEnd": 342,
+            "id": 52,
+            "sentence": 3,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 343,
+            "charEnd": 355,
+            "id": 53,
+            "sentence": 4,
+            "text": "Insbesondere",
+            "word": 1
+        },
+        {
+            "charBegin": 356,
+            "charEnd": 359,
+            "id": 54,
+            "sentence": 4,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 360,
+            "charEnd": 363,
+            "id": 55,
+            "sentence": 4,
+            "text": "das",
+            "word": 3
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 379,
+            "id": 56,
+            "sentence": 4,
+            "text": "Inlandsgeschäft",
+            "word": 4
+        },
+        {
+            "charBegin": 380,
+            "charEnd": 383,
+            "id": 57,
+            "sentence": 4,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 384,
+            "charEnd": 398,
+            "id": 58,
+            "sentence": 4,
+            "text": "Versandtochter",
+            "word": 6
+        },
+        {
+            "charBegin": 399,
+            "charEnd": 405,
+            "id": 59,
+            "sentence": 4,
+            "text": "Quelle",
+            "word": 7
+        },
+        {
+            "charBegin": 406,
+            "charEnd": 419,
+            "id": 60,
+            "sentence": 4,
+            "text": "problematisch",
+            "word": 8
+        },
+        {
+            "charBegin": 419,
+            "charEnd": 420,
+            "id": 61,
+            "sentence": 4,
+            "text": ".",
+            "word": 9
+        }
+    ]
+}

@@ -1,0 +1,1016 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 98,
+                        "end": 13
+                    }
+                ],
+                "text": "Die deutschen Brauer warnen vor der umstrittenen Gasförderung aus Tiefengestein mittels  Fracking.",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 20,
+                        "end": 3
+                    }
+                ],
+                "text": "Die deutschen Brauer",
+                "tokenIds": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 43,
+                        "charBegin": 318,
+                        "charEnd": 338,
+                        "end": 45
+                    }
+                ],
+                "text": "sechs Bundesminister",
+                "tokenIds": [
+                    43,
+                    44
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 27,
+                        "charBegin": 215,
+                        "charEnd": 221,
+                        "end": 28
+                    }
+                ],
+                "text": "warnte",
+                "tokenIds": [
+                    27
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 13,
+                        "charBegin": 99,
+                        "charEnd": 339,
+                        "end": 46
+                    }
+                ],
+                "text": "Da Brauereien auf die sichere Versorgung mit qualitativ einwandfreiem Trinkwasser notwendigerweise angewiesen sind, warnte der Hauptgeschäftsführer des Deutschen Brauer-Bundes, Peter Hahn, die Politik in einem Brief an sechs Bundesminister:",
+                "tokenIds": [
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39,
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 46,
+                        "charBegin": 340,
+                        "charEnd": 560,
+                        "end": 76
+                    }
+                ],
+                "text": "„Durch die Gewinnung von Erdgas aus unkonventionellen Lagerstätten wie Kohleflözen und Schiefergas, insbesondere mittels des sogenannten Frackingverfahrens, kann diese Sicherheit eingeschränkt oder gar beseitigt werden.“",
+                "tokenIds": [
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52,
+                    53,
+                    54,
+                    55,
+                    56,
+                    57,
+                    58,
+                    59,
+                    60,
+                    61,
+                    62,
+                    63,
+                    64,
+                    65,
+                    66,
+                    67,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 28,
+                        "charBegin": 222,
+                        "charEnd": 286,
+                        "end": 36
+                    }
+                ],
+                "text": "der Hauptgeschäftsführer des Deutschen Brauer-Bundes, Peter Hahn",
+                "tokenIds": [
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35
+                ]
+            },
+            "type": "Direct"
+        }
+    ],
+    "documentName": "75575 - Fracking gefährdet Wasserversorgung der Bierbrauer (2013-05-30)",
+    "originalText": "Die deutschen Brauer warnen vor der umstrittenen Gasförderung aus Tiefengestein mittels  Fracking. Da Brauereien auf die sichere Versorgung mit qualitativ einwandfreiem Trinkwasser notwendigerweise angewiesen sind, warnte der Hauptgeschäftsführer des Deutschen Brauer-Bundes, Peter Hahn, die Politik in einem Brief an sechs Bundesminister: „Durch die Gewinnung von Erdgas aus unkonventionellen Lagerstätten wie Kohleflözen und Schiefergas, insbesondere mittels des sogenannten Frackingverfahrens, kann diese Sicherheit eingeschränkt oder gar beseitigt werden.“",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 98,
+            "end": 13,
+            "id": 0,
+            "text": "Die deutschen Brauer warnen vor der umstrittenen Gasförderung aus Tiefengestein mittels  Fracking. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "tokens": [
+                "Die",
+                "deutschen",
+                "Brauer",
+                "warnen",
+                "vor",
+                "der",
+                "umstrittenen",
+                "Gasförderung",
+                "aus",
+                "Tiefengestein",
+                "mittels",
+                "Fracking",
+                "."
+            ]
+        },
+        {
+            "begin": 13,
+            "charBegin": 99,
+            "charEnd": 339,
+            "end": 46,
+            "id": 1,
+            "text": "Da Brauereien auf die sichere Versorgung mit qualitativ einwandfreiem Trinkwasser notwendigerweise angewiesen sind, warnte der Hauptgeschäftsführer des Deutschen Brauer-Bundes, Peter Hahn, die Politik in einem Brief an sechs Bundesminister: ",
+            "tokenIds": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45
+            ],
+            "tokens": [
+                "Da",
+                "Brauereien",
+                "auf",
+                "die",
+                "sichere",
+                "Versorgung",
+                "mit",
+                "qualitativ",
+                "einwandfreiem",
+                "Trinkwasser",
+                "notwendigerweise",
+                "angewiesen",
+                "sind",
+                ",",
+                "warnte",
+                "der",
+                "Hauptgeschäftsführer",
+                "des",
+                "Deutschen",
+                "Brauer-Bundes",
+                ",",
+                "Peter",
+                "Hahn",
+                ",",
+                "die",
+                "Politik",
+                "in",
+                "einem",
+                "Brief",
+                "an",
+                "sechs",
+                "Bundesminister",
+                ":"
+            ]
+        },
+        {
+            "begin": 46,
+            "charBegin": 340,
+            "charEnd": 560,
+            "end": 76,
+            "id": 2,
+            "text": "„Durch die Gewinnung von Erdgas aus unkonventionellen Lagerstätten wie Kohleflözen und Schiefergas, insbesondere mittels des sogenannten Frackingverfahrens, kann diese Sicherheit eingeschränkt oder gar beseitigt werden.“",
+            "tokenIds": [
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75
+            ],
+            "tokens": [
+                "„",
+                "Durch",
+                "die",
+                "Gewinnung",
+                "von",
+                "Erdgas",
+                "aus",
+                "unkonventionellen",
+                "Lagerstätten",
+                "wie",
+                "Kohleflözen",
+                "und",
+                "Schiefergas",
+                ",",
+                "insbesondere",
+                "mittels",
+                "des",
+                "sogenannten",
+                "Frackingverfahrens",
+                ",",
+                "kann",
+                "diese",
+                "Sicherheit",
+                "eingeschränkt",
+                "oder",
+                "gar",
+                "beseitigt",
+                "werden",
+                ".",
+                "“"
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 13,
+            "id": 1,
+            "sentence": 1,
+            "text": "deutschen",
+            "word": 2
+        },
+        {
+            "charBegin": 14,
+            "charEnd": 20,
+            "id": 2,
+            "sentence": 1,
+            "text": "Brauer",
+            "word": 3
+        },
+        {
+            "charBegin": 21,
+            "charEnd": 27,
+            "id": 3,
+            "sentence": 1,
+            "text": "warnen",
+            "word": 4
+        },
+        {
+            "charBegin": 28,
+            "charEnd": 31,
+            "id": 4,
+            "sentence": 1,
+            "text": "vor",
+            "word": 5
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 35,
+            "id": 5,
+            "sentence": 1,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 36,
+            "charEnd": 48,
+            "id": 6,
+            "sentence": 1,
+            "text": "umstrittenen",
+            "word": 7
+        },
+        {
+            "charBegin": 49,
+            "charEnd": 61,
+            "id": 7,
+            "sentence": 1,
+            "text": "Gasförderung",
+            "word": 8
+        },
+        {
+            "charBegin": 62,
+            "charEnd": 65,
+            "id": 8,
+            "sentence": 1,
+            "text": "aus",
+            "word": 9
+        },
+        {
+            "charBegin": 66,
+            "charEnd": 79,
+            "id": 9,
+            "sentence": 1,
+            "text": "Tiefengestein",
+            "word": 10
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 87,
+            "id": 10,
+            "sentence": 1,
+            "text": "mittels",
+            "word": 11
+        },
+        {
+            "charBegin": 89,
+            "charEnd": 97,
+            "id": 11,
+            "sentence": 1,
+            "text": "Fracking",
+            "word": 12
+        },
+        {
+            "charBegin": 97,
+            "charEnd": 98,
+            "id": 12,
+            "sentence": 1,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 101,
+            "id": 13,
+            "sentence": 2,
+            "text": "Da",
+            "word": 1
+        },
+        {
+            "charBegin": 102,
+            "charEnd": 112,
+            "id": 14,
+            "sentence": 2,
+            "text": "Brauereien",
+            "word": 2
+        },
+        {
+            "charBegin": 113,
+            "charEnd": 116,
+            "id": 15,
+            "sentence": 2,
+            "text": "auf",
+            "word": 3
+        },
+        {
+            "charBegin": 117,
+            "charEnd": 120,
+            "id": 16,
+            "sentence": 2,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 121,
+            "charEnd": 128,
+            "id": 17,
+            "sentence": 2,
+            "text": "sichere",
+            "word": 5
+        },
+        {
+            "charBegin": 129,
+            "charEnd": 139,
+            "id": 18,
+            "sentence": 2,
+            "text": "Versorgung",
+            "word": 6
+        },
+        {
+            "charBegin": 140,
+            "charEnd": 143,
+            "id": 19,
+            "sentence": 2,
+            "text": "mit",
+            "word": 7
+        },
+        {
+            "charBegin": 144,
+            "charEnd": 154,
+            "id": 20,
+            "sentence": 2,
+            "text": "qualitativ",
+            "word": 8
+        },
+        {
+            "charBegin": 155,
+            "charEnd": 168,
+            "id": 21,
+            "sentence": 2,
+            "text": "einwandfreiem",
+            "word": 9
+        },
+        {
+            "charBegin": 169,
+            "charEnd": 180,
+            "id": 22,
+            "sentence": 2,
+            "text": "Trinkwasser",
+            "word": 10
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 197,
+            "id": 23,
+            "sentence": 2,
+            "text": "notwendigerweise",
+            "word": 11
+        },
+        {
+            "charBegin": 198,
+            "charEnd": 208,
+            "id": 24,
+            "sentence": 2,
+            "text": "angewiesen",
+            "word": 12
+        },
+        {
+            "charBegin": 209,
+            "charEnd": 213,
+            "id": 25,
+            "sentence": 2,
+            "text": "sind",
+            "word": 13
+        },
+        {
+            "charBegin": 213,
+            "charEnd": 214,
+            "id": 26,
+            "sentence": 2,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 215,
+            "charEnd": 221,
+            "id": 27,
+            "sentence": 2,
+            "text": "warnte",
+            "word": 15
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 225,
+            "id": 28,
+            "sentence": 2,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 226,
+            "charEnd": 246,
+            "id": 29,
+            "sentence": 2,
+            "text": "Hauptgeschäftsführer",
+            "word": 17
+        },
+        {
+            "charBegin": 247,
+            "charEnd": 250,
+            "id": 30,
+            "sentence": 2,
+            "text": "des",
+            "word": 18
+        },
+        {
+            "charBegin": 251,
+            "charEnd": 260,
+            "id": 31,
+            "sentence": 2,
+            "text": "Deutschen",
+            "word": 19
+        },
+        {
+            "charBegin": 261,
+            "charEnd": 274,
+            "id": 32,
+            "sentence": 2,
+            "text": "Brauer-Bundes",
+            "word": 20
+        },
+        {
+            "charBegin": 274,
+            "charEnd": 275,
+            "id": 33,
+            "sentence": 2,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 281,
+            "id": 34,
+            "sentence": 2,
+            "text": "Peter",
+            "word": 22
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 286,
+            "id": 35,
+            "sentence": 2,
+            "text": "Hahn",
+            "word": 23
+        },
+        {
+            "charBegin": 286,
+            "charEnd": 287,
+            "id": 36,
+            "sentence": 2,
+            "text": ",",
+            "word": 24
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 291,
+            "id": 37,
+            "sentence": 2,
+            "text": "die",
+            "word": 25
+        },
+        {
+            "charBegin": 292,
+            "charEnd": 299,
+            "id": 38,
+            "sentence": 2,
+            "text": "Politik",
+            "word": 26
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 302,
+            "id": 39,
+            "sentence": 2,
+            "text": "in",
+            "word": 27
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 308,
+            "id": 40,
+            "sentence": 2,
+            "text": "einem",
+            "word": 28
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 314,
+            "id": 41,
+            "sentence": 2,
+            "text": "Brief",
+            "word": 29
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 317,
+            "id": 42,
+            "sentence": 2,
+            "text": "an",
+            "word": 30
+        },
+        {
+            "charBegin": 318,
+            "charEnd": 323,
+            "id": 43,
+            "sentence": 2,
+            "text": "sechs",
+            "word": 31
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 338,
+            "id": 44,
+            "sentence": 2,
+            "text": "Bundesminister",
+            "word": 32
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 339,
+            "id": 45,
+            "sentence": 2,
+            "text": ":",
+            "word": 33
+        },
+        {
+            "charBegin": 340,
+            "charEnd": 341,
+            "id": 46,
+            "sentence": 3,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 341,
+            "charEnd": 346,
+            "id": 47,
+            "sentence": 3,
+            "text": "Durch",
+            "word": 2
+        },
+        {
+            "charBegin": 347,
+            "charEnd": 350,
+            "id": 48,
+            "sentence": 3,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 351,
+            "charEnd": 360,
+            "id": 49,
+            "sentence": 3,
+            "text": "Gewinnung",
+            "word": 4
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 364,
+            "id": 50,
+            "sentence": 3,
+            "text": "von",
+            "word": 5
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 371,
+            "id": 51,
+            "sentence": 3,
+            "text": "Erdgas",
+            "word": 6
+        },
+        {
+            "charBegin": 372,
+            "charEnd": 375,
+            "id": 52,
+            "sentence": 3,
+            "text": "aus",
+            "word": 7
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 393,
+            "id": 53,
+            "sentence": 3,
+            "text": "unkonventionellen",
+            "word": 8
+        },
+        {
+            "charBegin": 394,
+            "charEnd": 406,
+            "id": 54,
+            "sentence": 3,
+            "text": "Lagerstätten",
+            "word": 9
+        },
+        {
+            "charBegin": 407,
+            "charEnd": 410,
+            "id": 55,
+            "sentence": 3,
+            "text": "wie",
+            "word": 10
+        },
+        {
+            "charBegin": 411,
+            "charEnd": 422,
+            "id": 56,
+            "sentence": 3,
+            "text": "Kohleflözen",
+            "word": 11
+        },
+        {
+            "charBegin": 423,
+            "charEnd": 426,
+            "id": 57,
+            "sentence": 3,
+            "text": "und",
+            "word": 12
+        },
+        {
+            "charBegin": 427,
+            "charEnd": 438,
+            "id": 58,
+            "sentence": 3,
+            "text": "Schiefergas",
+            "word": 13
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 439,
+            "id": 59,
+            "sentence": 3,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 440,
+            "charEnd": 452,
+            "id": 60,
+            "sentence": 3,
+            "text": "insbesondere",
+            "word": 15
+        },
+        {
+            "charBegin": 453,
+            "charEnd": 460,
+            "id": 61,
+            "sentence": 3,
+            "text": "mittels",
+            "word": 16
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 464,
+            "id": 62,
+            "sentence": 3,
+            "text": "des",
+            "word": 17
+        },
+        {
+            "charBegin": 465,
+            "charEnd": 476,
+            "id": 63,
+            "sentence": 3,
+            "text": "sogenannten",
+            "word": 18
+        },
+        {
+            "charBegin": 477,
+            "charEnd": 495,
+            "id": 64,
+            "sentence": 3,
+            "text": "Frackingverfahrens",
+            "word": 19
+        },
+        {
+            "charBegin": 495,
+            "charEnd": 496,
+            "id": 65,
+            "sentence": 3,
+            "text": ",",
+            "word": 20
+        },
+        {
+            "charBegin": 497,
+            "charEnd": 501,
+            "id": 66,
+            "sentence": 3,
+            "text": "kann",
+            "word": 21
+        },
+        {
+            "charBegin": 502,
+            "charEnd": 507,
+            "id": 67,
+            "sentence": 3,
+            "text": "diese",
+            "word": 22
+        },
+        {
+            "charBegin": 508,
+            "charEnd": 518,
+            "id": 68,
+            "sentence": 3,
+            "text": "Sicherheit",
+            "word": 23
+        },
+        {
+            "charBegin": 519,
+            "charEnd": 532,
+            "id": 69,
+            "sentence": 3,
+            "text": "eingeschränkt",
+            "word": 24
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 537,
+            "id": 70,
+            "sentence": 3,
+            "text": "oder",
+            "word": 25
+        },
+        {
+            "charBegin": 538,
+            "charEnd": 541,
+            "id": 71,
+            "sentence": 3,
+            "text": "gar",
+            "word": 26
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 551,
+            "id": 72,
+            "sentence": 3,
+            "text": "beseitigt",
+            "word": 27
+        },
+        {
+            "charBegin": 552,
+            "charEnd": 558,
+            "id": 73,
+            "sentence": 3,
+            "text": "werden",
+            "word": 28
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 559,
+            "id": 74,
+            "sentence": 3,
+            "text": ".",
+            "word": 29
+        },
+        {
+            "charBegin": 559,
+            "charEnd": 560,
+            "id": 75,
+            "sentence": 3,
+            "text": "“",
+            "word": 30
+        }
+    ]
+}

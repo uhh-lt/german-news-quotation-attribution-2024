@@ -1,0 +1,3347 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 72,
+                        "charBegin": 446,
+                        "charEnd": 450,
+                        "end": 73
+                    }
+                ],
+                "text": "nach",
+                "tokenIds": [
+                    72
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 72,
+                        "charBegin": 446,
+                        "charEnd": 479,
+                        "end": 76
+                    }
+                ],
+                "text": "nach Angaben der Fluggesellschaft",
+                "tokenIds": [
+                    72,
+                    73,
+                    74,
+                    75
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 71,
+                        "charBegin": 443,
+                        "charEnd": 445,
+                        "end": 72
+                    },
+                    {
+                        "begin": 76,
+                        "charBegin": 480,
+                        "charEnd": 542,
+                        "end": 86
+                    }
+                ],
+                "text": "da die Genehmigung für den Transport zu spät beantragt worden war",
+                "tokenIds": [
+                    71,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    84,
+                    85
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 73,
+                        "charBegin": 451,
+                        "charEnd": 479,
+                        "end": 76
+                    }
+                ],
+                "text": "Angaben der Fluggesellschaft",
+                "tokenIds": [
+                    73,
+                    74,
+                    75
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "28446 - Finnische Hunde jagen Bären (2006-06-14)",
+    "originalText": "Die Bärenhunde aus Finnland, die den zur Zeit bekanntesten Braunbären JJ1 alias Bruno aufspüren sollen, sind am Samstag eingetroffen. Der Bär streift nunmehr seit Wochen durch das deutsch-österreichische Grenzgebiet, doch alle Versuche ihn einzufangen oder abzuschießen, sind bisher gescheitert. Von den finnischen Hunden verspricht man sich nun Erfolg.\n\nDie Hunde, die schon letzte Woche erwartet wurden, trafen mit leichter Verzögerung ein, da nach Angaben der Fluggesellschaft die Genehmigung für den Transport zu spät beantragt worden war. Nach ihrer Ankunft in München wurde ihnen dann zunächst eine Ruhepause gegönnt, da sie durch den Flug sehr aufgeregt waren. Es handelt sich um fünf Hunde, die zur Rasse der norwegischen beziehungsweise schwedischen Elchhunde gehören, wie sie in Finnland meist zur Elchjagd eingesetzt werden. Mit den Hunden kommen auch vier Begleiter. Sie sind für zwei Wochen engagiert, die Kosten von 25.000 Euro teilen sich dabei die Länder Bayern und Tirol.\n\nDie Hunde nahmen zum ersten Mal am Sonntag die Spur des Bären auf, doch sie mussten die Verfolgung abbrechen, als Jagdpächter in Tirol es untersagten, ihr Gelände ohne entsprechende Genehmigung zu betreten. Ein entsprechender Bescheid des zuständigen Landesrates, der den Bärenjägern uneingeschränkte Betretungsrechte einräumt, soll ein solches Missgeschick in Zukunft verhindern.\n\nEin weiterer Einsatz der Hunde erfolgte Montagabend, als der Bär im Ahornboden im Karwendelgebirge in Tirol gesichtet wurde. Der Einsatz musste jedoch abgebrochen werden, da die Suche mit den Hunden in dem gebirgigen Gelände nachts zu gefährlich ist.\n\nDie Verfolgung wurde am Dienstagmorgen wieder aufgenommen, doch diesmal machte das Wetter einen Strich durch die Rechnung. Die finnischen Hunde sind keine große Hitze gewöhnt und so musste die Suche erneut abgebrochen werden, als es ihnen zu heiß wurde.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 133,
+            "end": 22,
+            "id": 0,
+            "text": "Die Bärenhunde aus Finnland, die den zur Zeit bekanntesten Braunbären JJ1 alias Bruno aufspüren sollen, sind am Samstag eingetroffen. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "tokens": [
+                "Die",
+                "Bärenhunde",
+                "aus",
+                "Finnland",
+                ",",
+                "die",
+                "den",
+                "zur",
+                "Zeit",
+                "bekanntesten",
+                "Braunbären",
+                "JJ1",
+                "alias",
+                "Bruno",
+                "aufspüren",
+                "sollen",
+                ",",
+                "sind",
+                "am",
+                "Samstag",
+                "eingetroffen",
+                "."
+            ]
+        },
+        {
+            "begin": 22,
+            "charBegin": 134,
+            "charEnd": 295,
+            "end": 45,
+            "id": 1,
+            "text": "Der Bär streift nunmehr seit Wochen durch das deutsch-österreichische Grenzgebiet, doch alle Versuche ihn einzufangen oder abzuschießen, sind bisher gescheitert. ",
+            "tokenIds": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44
+            ],
+            "tokens": [
+                "Der",
+                "Bär",
+                "streift",
+                "nunmehr",
+                "seit",
+                "Wochen",
+                "durch",
+                "das",
+                "deutsch-österreichische",
+                "Grenzgebiet",
+                ",",
+                "doch",
+                "alle",
+                "Versuche",
+                "ihn",
+                "einzufangen",
+                "oder",
+                "abzuschießen",
+                ",",
+                "sind",
+                "bisher",
+                "gescheitert",
+                "."
+            ]
+        },
+        {
+            "begin": 45,
+            "charBegin": 296,
+            "charEnd": 353,
+            "end": 55,
+            "id": 2,
+            "text": "Von den finnischen Hunden verspricht man sich nun Erfolg.",
+            "tokenIds": [
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "tokens": [
+                "Von",
+                "den",
+                "finnischen",
+                "Hunden",
+                "verspricht",
+                "man",
+                "sich",
+                "nun",
+                "Erfolg",
+                "."
+            ]
+        },
+        {
+            "begin": 55,
+            "charBegin": 355,
+            "charEnd": 543,
+            "end": 87,
+            "id": 3,
+            "text": "Die Hunde, die schon letzte Woche erwartet wurden, trafen mit leichter Verzögerung ein, da nach Angaben der Fluggesellschaft die Genehmigung für den Transport zu spät beantragt worden war. ",
+            "tokenIds": [
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86
+            ],
+            "tokens": [
+                "Die",
+                "Hunde",
+                ",",
+                "die",
+                "schon",
+                "letzte",
+                "Woche",
+                "erwartet",
+                "wurden",
+                ",",
+                "trafen",
+                "mit",
+                "leichter",
+                "Verzögerung",
+                "ein",
+                ",",
+                "da",
+                "nach",
+                "Angaben",
+                "der",
+                "Fluggesellschaft",
+                "die",
+                "Genehmigung",
+                "für",
+                "den",
+                "Transport",
+                "zu",
+                "spät",
+                "beantragt",
+                "worden",
+                "war",
+                "."
+            ]
+        },
+        {
+            "begin": 87,
+            "charBegin": 544,
+            "charEnd": 667,
+            "end": 109,
+            "id": 4,
+            "text": "Nach ihrer Ankunft in München wurde ihnen dann zunächst eine Ruhepause gegönnt, da sie durch den Flug sehr aufgeregt waren. ",
+            "tokenIds": [
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108
+            ],
+            "tokens": [
+                "Nach",
+                "ihrer",
+                "Ankunft",
+                "in",
+                "München",
+                "wurde",
+                "ihnen",
+                "dann",
+                "zunächst",
+                "eine",
+                "Ruhepause",
+                "gegönnt",
+                ",",
+                "da",
+                "sie",
+                "durch",
+                "den",
+                "Flug",
+                "sehr",
+                "aufgeregt",
+                "waren",
+                "."
+            ]
+        },
+        {
+            "begin": 109,
+            "charBegin": 668,
+            "charEnd": 835,
+            "end": 136,
+            "id": 5,
+            "text": "Es handelt sich um fünf Hunde, die zur Rasse der norwegischen beziehungsweise schwedischen Elchhunde gehören, wie sie in Finnland meist zur Elchjagd eingesetzt werden. ",
+            "tokenIds": [
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135
+            ],
+            "tokens": [
+                "Es",
+                "handelt",
+                "sich",
+                "um",
+                "fünf",
+                "Hunde",
+                ",",
+                "die",
+                "zur",
+                "Rasse",
+                "der",
+                "norwegischen",
+                "beziehungsweise",
+                "schwedischen",
+                "Elchhunde",
+                "gehören",
+                ",",
+                "wie",
+                "sie",
+                "in",
+                "Finnland",
+                "meist",
+                "zur",
+                "Elchjagd",
+                "eingesetzt",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 136,
+            "charBegin": 836,
+            "charEnd": 878,
+            "end": 144,
+            "id": 6,
+            "text": "Mit den Hunden kommen auch vier Begleiter. ",
+            "tokenIds": [
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143
+            ],
+            "tokens": [
+                "Mit",
+                "den",
+                "Hunden",
+                "kommen",
+                "auch",
+                "vier",
+                "Begleiter",
+                "."
+            ]
+        },
+        {
+            "begin": 144,
+            "charBegin": 879,
+            "charEnd": 988,
+            "end": 165,
+            "id": 7,
+            "text": "Sie sind für zwei Wochen engagiert, die Kosten von 25.000 Euro teilen sich dabei die Länder Bayern und Tirol.",
+            "tokenIds": [
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164
+            ],
+            "tokens": [
+                "Sie",
+                "sind",
+                "für",
+                "zwei",
+                "Wochen",
+                "engagiert",
+                ",",
+                "die",
+                "Kosten",
+                "von",
+                "25.000",
+                "Euro",
+                "teilen",
+                "sich",
+                "dabei",
+                "die",
+                "Länder",
+                "Bayern",
+                "und",
+                "Tirol",
+                "."
+            ]
+        },
+        {
+            "begin": 165,
+            "charBegin": 990,
+            "charEnd": 1196,
+            "end": 201,
+            "id": 8,
+            "text": "Die Hunde nahmen zum ersten Mal am Sonntag die Spur des Bären auf, doch sie mussten die Verfolgung abbrechen, als Jagdpächter in Tirol es untersagten, ihr Gelände ohne entsprechende Genehmigung zu betreten. ",
+            "tokenIds": [
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200
+            ],
+            "tokens": [
+                "Die",
+                "Hunde",
+                "nahmen",
+                "zum",
+                "ersten",
+                "Mal",
+                "am",
+                "Sonntag",
+                "die",
+                "Spur",
+                "des",
+                "Bären",
+                "auf",
+                ",",
+                "doch",
+                "sie",
+                "mussten",
+                "die",
+                "Verfolgung",
+                "abbrechen",
+                ",",
+                "als",
+                "Jagdpächter",
+                "in",
+                "Tirol",
+                "es",
+                "untersagten",
+                ",",
+                "ihr",
+                "Gelände",
+                "ohne",
+                "entsprechende",
+                "Genehmigung",
+                "zu",
+                "betreten",
+                "."
+            ]
+        },
+        {
+            "begin": 201,
+            "charBegin": 1197,
+            "charEnd": 1370,
+            "end": 223,
+            "id": 9,
+            "text": "Ein entsprechender Bescheid des zuständigen Landesrates, der den Bärenjägern uneingeschränkte Betretungsrechte einräumt, soll ein solches Missgeschick in Zukunft verhindern.",
+            "tokenIds": [
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222
+            ],
+            "tokens": [
+                "Ein",
+                "entsprechender",
+                "Bescheid",
+                "des",
+                "zuständigen",
+                "Landesrates",
+                ",",
+                "der",
+                "den",
+                "Bärenjägern",
+                "uneingeschränkte",
+                "Betretungsrechte",
+                "einräumt",
+                ",",
+                "soll",
+                "ein",
+                "solches",
+                "Missgeschick",
+                "in",
+                "Zukunft",
+                "verhindern",
+                "."
+            ]
+        },
+        {
+            "begin": 223,
+            "charBegin": 1372,
+            "charEnd": 1496,
+            "end": 243,
+            "id": 10,
+            "text": "Ein weiterer Einsatz der Hunde erfolgte Montagabend, als der Bär im Ahornboden im Karwendelgebirge in Tirol gesichtet wurde. ",
+            "tokenIds": [
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242
+            ],
+            "tokens": [
+                "Ein",
+                "weiterer",
+                "Einsatz",
+                "der",
+                "Hunde",
+                "erfolgte",
+                "Montagabend",
+                ",",
+                "als",
+                "der",
+                "Bär",
+                "im",
+                "Ahornboden",
+                "im",
+                "Karwendelgebirge",
+                "in",
+                "Tirol",
+                "gesichtet",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "begin": 243,
+            "charBegin": 1497,
+            "charEnd": 1622,
+            "end": 265,
+            "id": 11,
+            "text": "Der Einsatz musste jedoch abgebrochen werden, da die Suche mit den Hunden in dem gebirgigen Gelände nachts zu gefährlich ist.",
+            "tokenIds": [
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264
+            ],
+            "tokens": [
+                "Der",
+                "Einsatz",
+                "musste",
+                "jedoch",
+                "abgebrochen",
+                "werden",
+                ",",
+                "da",
+                "die",
+                "Suche",
+                "mit",
+                "den",
+                "Hunden",
+                "in",
+                "dem",
+                "gebirgigen",
+                "Gelände",
+                "nachts",
+                "zu",
+                "gefährlich",
+                "ist",
+                "."
+            ]
+        },
+        {
+            "begin": 265,
+            "charBegin": 1624,
+            "charEnd": 1746,
+            "end": 284,
+            "id": 12,
+            "text": "Die Verfolgung wurde am Dienstagmorgen wieder aufgenommen, doch diesmal machte das Wetter einen Strich durch die Rechnung. ",
+            "tokenIds": [
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273,
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283
+            ],
+            "tokens": [
+                "Die",
+                "Verfolgung",
+                "wurde",
+                "am",
+                "Dienstagmorgen",
+                "wieder",
+                "aufgenommen",
+                ",",
+                "doch",
+                "diesmal",
+                "machte",
+                "das",
+                "Wetter",
+                "einen",
+                "Strich",
+                "durch",
+                "die",
+                "Rechnung",
+                "."
+            ]
+        },
+        {
+            "begin": 284,
+            "charBegin": 1747,
+            "charEnd": 1877,
+            "end": 308,
+            "id": 13,
+            "text": "Die finnischen Hunde sind keine große Hitze gewöhnt und so musste die Suche erneut abgebrochen werden, als es ihnen zu heiß wurde.",
+            "tokenIds": [
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292,
+                293,
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306,
+                307
+            ],
+            "tokens": [
+                "Die",
+                "finnischen",
+                "Hunde",
+                "sind",
+                "keine",
+                "große",
+                "Hitze",
+                "gewöhnt",
+                "und",
+                "so",
+                "musste",
+                "die",
+                "Suche",
+                "erneut",
+                "abgebrochen",
+                "werden",
+                ",",
+                "als",
+                "es",
+                "ihnen",
+                "zu",
+                "heiß",
+                "wurde",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 14,
+            "id": 1,
+            "sentence": 1,
+            "text": "Bärenhunde",
+            "word": 2
+        },
+        {
+            "charBegin": 15,
+            "charEnd": 18,
+            "id": 2,
+            "sentence": 1,
+            "text": "aus",
+            "word": 3
+        },
+        {
+            "charBegin": 19,
+            "charEnd": 27,
+            "id": 3,
+            "sentence": 1,
+            "text": "Finnland",
+            "word": 4
+        },
+        {
+            "charBegin": 27,
+            "charEnd": 28,
+            "id": 4,
+            "sentence": 1,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 29,
+            "charEnd": 32,
+            "id": 5,
+            "sentence": 1,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 36,
+            "id": 6,
+            "sentence": 1,
+            "text": "den",
+            "word": 7
+        },
+        {
+            "charBegin": 37,
+            "charEnd": 40,
+            "id": 7,
+            "sentence": 1,
+            "text": "zur",
+            "word": 8
+        },
+        {
+            "charBegin": 41,
+            "charEnd": 45,
+            "id": 8,
+            "sentence": 1,
+            "text": "Zeit",
+            "word": 9
+        },
+        {
+            "charBegin": 46,
+            "charEnd": 58,
+            "id": 9,
+            "sentence": 1,
+            "text": "bekanntesten",
+            "word": 10
+        },
+        {
+            "charBegin": 59,
+            "charEnd": 69,
+            "id": 10,
+            "sentence": 1,
+            "text": "Braunbären",
+            "word": 11
+        },
+        {
+            "charBegin": 70,
+            "charEnd": 73,
+            "id": 11,
+            "sentence": 1,
+            "text": "JJ1",
+            "word": 12
+        },
+        {
+            "charBegin": 74,
+            "charEnd": 79,
+            "id": 12,
+            "sentence": 1,
+            "text": "alias",
+            "word": 13
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 85,
+            "id": 13,
+            "sentence": 1,
+            "text": "Bruno",
+            "word": 14
+        },
+        {
+            "charBegin": 86,
+            "charEnd": 95,
+            "id": 14,
+            "sentence": 1,
+            "text": "aufspüren",
+            "word": 15
+        },
+        {
+            "charBegin": 96,
+            "charEnd": 102,
+            "id": 15,
+            "sentence": 1,
+            "text": "sollen",
+            "word": 16
+        },
+        {
+            "charBegin": 102,
+            "charEnd": 103,
+            "id": 16,
+            "sentence": 1,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 104,
+            "charEnd": 108,
+            "id": 17,
+            "sentence": 1,
+            "text": "sind",
+            "word": 18
+        },
+        {
+            "charBegin": 109,
+            "charEnd": 111,
+            "id": 18,
+            "sentence": 1,
+            "text": "am",
+            "word": 19
+        },
+        {
+            "charBegin": 112,
+            "charEnd": 119,
+            "id": 19,
+            "sentence": 1,
+            "text": "Samstag",
+            "word": 20
+        },
+        {
+            "charBegin": 120,
+            "charEnd": 132,
+            "id": 20,
+            "sentence": 1,
+            "text": "eingetroffen",
+            "word": 21
+        },
+        {
+            "charBegin": 132,
+            "charEnd": 133,
+            "id": 21,
+            "sentence": 1,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 134,
+            "charEnd": 137,
+            "id": 22,
+            "sentence": 2,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 138,
+            "charEnd": 141,
+            "id": 23,
+            "sentence": 2,
+            "text": "Bär",
+            "word": 2
+        },
+        {
+            "charBegin": 142,
+            "charEnd": 149,
+            "id": 24,
+            "sentence": 2,
+            "text": "streift",
+            "word": 3
+        },
+        {
+            "charBegin": 150,
+            "charEnd": 157,
+            "id": 25,
+            "sentence": 2,
+            "text": "nunmehr",
+            "word": 4
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 162,
+            "id": 26,
+            "sentence": 2,
+            "text": "seit",
+            "word": 5
+        },
+        {
+            "charBegin": 163,
+            "charEnd": 169,
+            "id": 27,
+            "sentence": 2,
+            "text": "Wochen",
+            "word": 6
+        },
+        {
+            "charBegin": 170,
+            "charEnd": 175,
+            "id": 28,
+            "sentence": 2,
+            "text": "durch",
+            "word": 7
+        },
+        {
+            "charBegin": 176,
+            "charEnd": 179,
+            "id": 29,
+            "sentence": 2,
+            "text": "das",
+            "word": 8
+        },
+        {
+            "charBegin": 180,
+            "charEnd": 203,
+            "id": 30,
+            "sentence": 2,
+            "text": "deutsch-österreichische",
+            "word": 9
+        },
+        {
+            "charBegin": 204,
+            "charEnd": 215,
+            "id": 31,
+            "sentence": 2,
+            "text": "Grenzgebiet",
+            "word": 10
+        },
+        {
+            "charBegin": 215,
+            "charEnd": 216,
+            "id": 32,
+            "sentence": 2,
+            "text": ",",
+            "word": 11
+        },
+        {
+            "charBegin": 217,
+            "charEnd": 221,
+            "id": 33,
+            "sentence": 2,
+            "text": "doch",
+            "word": 12
+        },
+        {
+            "charBegin": 222,
+            "charEnd": 226,
+            "id": 34,
+            "sentence": 2,
+            "text": "alle",
+            "word": 13
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 235,
+            "id": 35,
+            "sentence": 2,
+            "text": "Versuche",
+            "word": 14
+        },
+        {
+            "charBegin": 236,
+            "charEnd": 239,
+            "id": 36,
+            "sentence": 2,
+            "text": "ihn",
+            "word": 15
+        },
+        {
+            "charBegin": 240,
+            "charEnd": 251,
+            "id": 37,
+            "sentence": 2,
+            "text": "einzufangen",
+            "word": 16
+        },
+        {
+            "charBegin": 252,
+            "charEnd": 256,
+            "id": 38,
+            "sentence": 2,
+            "text": "oder",
+            "word": 17
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 269,
+            "id": 39,
+            "sentence": 2,
+            "text": "abzuschießen",
+            "word": 18
+        },
+        {
+            "charBegin": 269,
+            "charEnd": 270,
+            "id": 40,
+            "sentence": 2,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 275,
+            "id": 41,
+            "sentence": 2,
+            "text": "sind",
+            "word": 20
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 282,
+            "id": 42,
+            "sentence": 2,
+            "text": "bisher",
+            "word": 21
+        },
+        {
+            "charBegin": 283,
+            "charEnd": 294,
+            "id": 43,
+            "sentence": 2,
+            "text": "gescheitert",
+            "word": 22
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 295,
+            "id": 44,
+            "sentence": 2,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 296,
+            "charEnd": 299,
+            "id": 45,
+            "sentence": 3,
+            "text": "Von",
+            "word": 1
+        },
+        {
+            "charBegin": 300,
+            "charEnd": 303,
+            "id": 46,
+            "sentence": 3,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 304,
+            "charEnd": 314,
+            "id": 47,
+            "sentence": 3,
+            "text": "finnischen",
+            "word": 3
+        },
+        {
+            "charBegin": 315,
+            "charEnd": 321,
+            "id": 48,
+            "sentence": 3,
+            "text": "Hunden",
+            "word": 4
+        },
+        {
+            "charBegin": 322,
+            "charEnd": 332,
+            "id": 49,
+            "sentence": 3,
+            "text": "verspricht",
+            "word": 5
+        },
+        {
+            "charBegin": 333,
+            "charEnd": 336,
+            "id": 50,
+            "sentence": 3,
+            "text": "man",
+            "word": 6
+        },
+        {
+            "charBegin": 337,
+            "charEnd": 341,
+            "id": 51,
+            "sentence": 3,
+            "text": "sich",
+            "word": 7
+        },
+        {
+            "charBegin": 342,
+            "charEnd": 345,
+            "id": 52,
+            "sentence": 3,
+            "text": "nun",
+            "word": 8
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 352,
+            "id": 53,
+            "sentence": 3,
+            "text": "Erfolg",
+            "word": 9
+        },
+        {
+            "charBegin": 352,
+            "charEnd": 353,
+            "id": 54,
+            "sentence": 3,
+            "text": ".",
+            "word": 10
+        },
+        {
+            "charBegin": 355,
+            "charEnd": 358,
+            "id": 55,
+            "sentence": 4,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 359,
+            "charEnd": 364,
+            "id": 56,
+            "sentence": 4,
+            "text": "Hunde",
+            "word": 2
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 365,
+            "id": 57,
+            "sentence": 4,
+            "text": ",",
+            "word": 3
+        },
+        {
+            "charBegin": 366,
+            "charEnd": 369,
+            "id": 58,
+            "sentence": 4,
+            "text": "die",
+            "word": 4
+        },
+        {
+            "charBegin": 370,
+            "charEnd": 375,
+            "id": 59,
+            "sentence": 4,
+            "text": "schon",
+            "word": 5
+        },
+        {
+            "charBegin": 376,
+            "charEnd": 382,
+            "id": 60,
+            "sentence": 4,
+            "text": "letzte",
+            "word": 6
+        },
+        {
+            "charBegin": 383,
+            "charEnd": 388,
+            "id": 61,
+            "sentence": 4,
+            "text": "Woche",
+            "word": 7
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 397,
+            "id": 62,
+            "sentence": 4,
+            "text": "erwartet",
+            "word": 8
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 404,
+            "id": 63,
+            "sentence": 4,
+            "text": "wurden",
+            "word": 9
+        },
+        {
+            "charBegin": 404,
+            "charEnd": 405,
+            "id": 64,
+            "sentence": 4,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 406,
+            "charEnd": 412,
+            "id": 65,
+            "sentence": 4,
+            "text": "trafen",
+            "word": 11
+        },
+        {
+            "charBegin": 413,
+            "charEnd": 416,
+            "id": 66,
+            "sentence": 4,
+            "text": "mit",
+            "word": 12
+        },
+        {
+            "charBegin": 417,
+            "charEnd": 425,
+            "id": 67,
+            "sentence": 4,
+            "text": "leichter",
+            "word": 13
+        },
+        {
+            "charBegin": 426,
+            "charEnd": 437,
+            "id": 68,
+            "sentence": 4,
+            "text": "Verzögerung",
+            "word": 14
+        },
+        {
+            "charBegin": 438,
+            "charEnd": 441,
+            "id": 69,
+            "sentence": 4,
+            "text": "ein",
+            "word": 15
+        },
+        {
+            "charBegin": 441,
+            "charEnd": 442,
+            "id": 70,
+            "sentence": 4,
+            "text": ",",
+            "word": 16
+        },
+        {
+            "charBegin": 443,
+            "charEnd": 445,
+            "id": 71,
+            "sentence": 4,
+            "text": "da",
+            "word": 17
+        },
+        {
+            "charBegin": 446,
+            "charEnd": 450,
+            "id": 72,
+            "sentence": 4,
+            "text": "nach",
+            "word": 18
+        },
+        {
+            "charBegin": 451,
+            "charEnd": 458,
+            "id": 73,
+            "sentence": 4,
+            "text": "Angaben",
+            "word": 19
+        },
+        {
+            "charBegin": 459,
+            "charEnd": 462,
+            "id": 74,
+            "sentence": 4,
+            "text": "der",
+            "word": 20
+        },
+        {
+            "charBegin": 463,
+            "charEnd": 479,
+            "id": 75,
+            "sentence": 4,
+            "text": "Fluggesellschaft",
+            "word": 21
+        },
+        {
+            "charBegin": 480,
+            "charEnd": 483,
+            "id": 76,
+            "sentence": 4,
+            "text": "die",
+            "word": 22
+        },
+        {
+            "charBegin": 484,
+            "charEnd": 495,
+            "id": 77,
+            "sentence": 4,
+            "text": "Genehmigung",
+            "word": 23
+        },
+        {
+            "charBegin": 496,
+            "charEnd": 499,
+            "id": 78,
+            "sentence": 4,
+            "text": "für",
+            "word": 24
+        },
+        {
+            "charBegin": 500,
+            "charEnd": 503,
+            "id": 79,
+            "sentence": 4,
+            "text": "den",
+            "word": 25
+        },
+        {
+            "charBegin": 504,
+            "charEnd": 513,
+            "id": 80,
+            "sentence": 4,
+            "text": "Transport",
+            "word": 26
+        },
+        {
+            "charBegin": 514,
+            "charEnd": 516,
+            "id": 81,
+            "sentence": 4,
+            "text": "zu",
+            "word": 27
+        },
+        {
+            "charBegin": 517,
+            "charEnd": 521,
+            "id": 82,
+            "sentence": 4,
+            "text": "spät",
+            "word": 28
+        },
+        {
+            "charBegin": 522,
+            "charEnd": 531,
+            "id": 83,
+            "sentence": 4,
+            "text": "beantragt",
+            "word": 29
+        },
+        {
+            "charBegin": 532,
+            "charEnd": 538,
+            "id": 84,
+            "sentence": 4,
+            "text": "worden",
+            "word": 30
+        },
+        {
+            "charBegin": 539,
+            "charEnd": 542,
+            "id": 85,
+            "sentence": 4,
+            "text": "war",
+            "word": 31
+        },
+        {
+            "charBegin": 542,
+            "charEnd": 543,
+            "id": 86,
+            "sentence": 4,
+            "text": ".",
+            "word": 32
+        },
+        {
+            "charBegin": 544,
+            "charEnd": 548,
+            "id": 87,
+            "sentence": 5,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 554,
+            "id": 88,
+            "sentence": 5,
+            "text": "ihrer",
+            "word": 2
+        },
+        {
+            "charBegin": 555,
+            "charEnd": 562,
+            "id": 89,
+            "sentence": 5,
+            "text": "Ankunft",
+            "word": 3
+        },
+        {
+            "charBegin": 563,
+            "charEnd": 565,
+            "id": 90,
+            "sentence": 5,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 566,
+            "charEnd": 573,
+            "id": 91,
+            "sentence": 5,
+            "text": "München",
+            "word": 5
+        },
+        {
+            "charBegin": 574,
+            "charEnd": 579,
+            "id": 92,
+            "sentence": 5,
+            "text": "wurde",
+            "word": 6
+        },
+        {
+            "charBegin": 580,
+            "charEnd": 585,
+            "id": 93,
+            "sentence": 5,
+            "text": "ihnen",
+            "word": 7
+        },
+        {
+            "charBegin": 586,
+            "charEnd": 590,
+            "id": 94,
+            "sentence": 5,
+            "text": "dann",
+            "word": 8
+        },
+        {
+            "charBegin": 591,
+            "charEnd": 599,
+            "id": 95,
+            "sentence": 5,
+            "text": "zunächst",
+            "word": 9
+        },
+        {
+            "charBegin": 600,
+            "charEnd": 604,
+            "id": 96,
+            "sentence": 5,
+            "text": "eine",
+            "word": 10
+        },
+        {
+            "charBegin": 605,
+            "charEnd": 614,
+            "id": 97,
+            "sentence": 5,
+            "text": "Ruhepause",
+            "word": 11
+        },
+        {
+            "charBegin": 615,
+            "charEnd": 622,
+            "id": 98,
+            "sentence": 5,
+            "text": "gegönnt",
+            "word": 12
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 623,
+            "id": 99,
+            "sentence": 5,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 626,
+            "id": 100,
+            "sentence": 5,
+            "text": "da",
+            "word": 14
+        },
+        {
+            "charBegin": 627,
+            "charEnd": 630,
+            "id": 101,
+            "sentence": 5,
+            "text": "sie",
+            "word": 15
+        },
+        {
+            "charBegin": 631,
+            "charEnd": 636,
+            "id": 102,
+            "sentence": 5,
+            "text": "durch",
+            "word": 16
+        },
+        {
+            "charBegin": 637,
+            "charEnd": 640,
+            "id": 103,
+            "sentence": 5,
+            "text": "den",
+            "word": 17
+        },
+        {
+            "charBegin": 641,
+            "charEnd": 645,
+            "id": 104,
+            "sentence": 5,
+            "text": "Flug",
+            "word": 18
+        },
+        {
+            "charBegin": 646,
+            "charEnd": 650,
+            "id": 105,
+            "sentence": 5,
+            "text": "sehr",
+            "word": 19
+        },
+        {
+            "charBegin": 651,
+            "charEnd": 660,
+            "id": 106,
+            "sentence": 5,
+            "text": "aufgeregt",
+            "word": 20
+        },
+        {
+            "charBegin": 661,
+            "charEnd": 666,
+            "id": 107,
+            "sentence": 5,
+            "text": "waren",
+            "word": 21
+        },
+        {
+            "charBegin": 666,
+            "charEnd": 667,
+            "id": 108,
+            "sentence": 5,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 670,
+            "id": 109,
+            "sentence": 6,
+            "text": "Es",
+            "word": 1
+        },
+        {
+            "charBegin": 671,
+            "charEnd": 678,
+            "id": 110,
+            "sentence": 6,
+            "text": "handelt",
+            "word": 2
+        },
+        {
+            "charBegin": 679,
+            "charEnd": 683,
+            "id": 111,
+            "sentence": 6,
+            "text": "sich",
+            "word": 3
+        },
+        {
+            "charBegin": 684,
+            "charEnd": 686,
+            "id": 112,
+            "sentence": 6,
+            "text": "um",
+            "word": 4
+        },
+        {
+            "charBegin": 687,
+            "charEnd": 691,
+            "id": 113,
+            "sentence": 6,
+            "text": "fünf",
+            "word": 5
+        },
+        {
+            "charBegin": 692,
+            "charEnd": 697,
+            "id": 114,
+            "sentence": 6,
+            "text": "Hunde",
+            "word": 6
+        },
+        {
+            "charBegin": 697,
+            "charEnd": 698,
+            "id": 115,
+            "sentence": 6,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 699,
+            "charEnd": 702,
+            "id": 116,
+            "sentence": 6,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 706,
+            "id": 117,
+            "sentence": 6,
+            "text": "zur",
+            "word": 9
+        },
+        {
+            "charBegin": 707,
+            "charEnd": 712,
+            "id": 118,
+            "sentence": 6,
+            "text": "Rasse",
+            "word": 10
+        },
+        {
+            "charBegin": 713,
+            "charEnd": 716,
+            "id": 119,
+            "sentence": 6,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 717,
+            "charEnd": 729,
+            "id": 120,
+            "sentence": 6,
+            "text": "norwegischen",
+            "word": 12
+        },
+        {
+            "charBegin": 730,
+            "charEnd": 745,
+            "id": 121,
+            "sentence": 6,
+            "text": "beziehungsweise",
+            "word": 13
+        },
+        {
+            "charBegin": 746,
+            "charEnd": 758,
+            "id": 122,
+            "sentence": 6,
+            "text": "schwedischen",
+            "word": 14
+        },
+        {
+            "charBegin": 759,
+            "charEnd": 768,
+            "id": 123,
+            "sentence": 6,
+            "text": "Elchhunde",
+            "word": 15
+        },
+        {
+            "charBegin": 769,
+            "charEnd": 776,
+            "id": 124,
+            "sentence": 6,
+            "text": "gehören",
+            "word": 16
+        },
+        {
+            "charBegin": 776,
+            "charEnd": 777,
+            "id": 125,
+            "sentence": 6,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 778,
+            "charEnd": 781,
+            "id": 126,
+            "sentence": 6,
+            "text": "wie",
+            "word": 18
+        },
+        {
+            "charBegin": 782,
+            "charEnd": 785,
+            "id": 127,
+            "sentence": 6,
+            "text": "sie",
+            "word": 19
+        },
+        {
+            "charBegin": 786,
+            "charEnd": 788,
+            "id": 128,
+            "sentence": 6,
+            "text": "in",
+            "word": 20
+        },
+        {
+            "charBegin": 789,
+            "charEnd": 797,
+            "id": 129,
+            "sentence": 6,
+            "text": "Finnland",
+            "word": 21
+        },
+        {
+            "charBegin": 798,
+            "charEnd": 803,
+            "id": 130,
+            "sentence": 6,
+            "text": "meist",
+            "word": 22
+        },
+        {
+            "charBegin": 804,
+            "charEnd": 807,
+            "id": 131,
+            "sentence": 6,
+            "text": "zur",
+            "word": 23
+        },
+        {
+            "charBegin": 808,
+            "charEnd": 816,
+            "id": 132,
+            "sentence": 6,
+            "text": "Elchjagd",
+            "word": 24
+        },
+        {
+            "charBegin": 817,
+            "charEnd": 827,
+            "id": 133,
+            "sentence": 6,
+            "text": "eingesetzt",
+            "word": 25
+        },
+        {
+            "charBegin": 828,
+            "charEnd": 834,
+            "id": 134,
+            "sentence": 6,
+            "text": "werden",
+            "word": 26
+        },
+        {
+            "charBegin": 834,
+            "charEnd": 835,
+            "id": 135,
+            "sentence": 6,
+            "text": ".",
+            "word": 27
+        },
+        {
+            "charBegin": 836,
+            "charEnd": 839,
+            "id": 136,
+            "sentence": 7,
+            "text": "Mit",
+            "word": 1
+        },
+        {
+            "charBegin": 840,
+            "charEnd": 843,
+            "id": 137,
+            "sentence": 7,
+            "text": "den",
+            "word": 2
+        },
+        {
+            "charBegin": 844,
+            "charEnd": 850,
+            "id": 138,
+            "sentence": 7,
+            "text": "Hunden",
+            "word": 3
+        },
+        {
+            "charBegin": 851,
+            "charEnd": 857,
+            "id": 139,
+            "sentence": 7,
+            "text": "kommen",
+            "word": 4
+        },
+        {
+            "charBegin": 858,
+            "charEnd": 862,
+            "id": 140,
+            "sentence": 7,
+            "text": "auch",
+            "word": 5
+        },
+        {
+            "charBegin": 863,
+            "charEnd": 867,
+            "id": 141,
+            "sentence": 7,
+            "text": "vier",
+            "word": 6
+        },
+        {
+            "charBegin": 868,
+            "charEnd": 877,
+            "id": 142,
+            "sentence": 7,
+            "text": "Begleiter",
+            "word": 7
+        },
+        {
+            "charBegin": 877,
+            "charEnd": 878,
+            "id": 143,
+            "sentence": 7,
+            "text": ".",
+            "word": 8
+        },
+        {
+            "charBegin": 879,
+            "charEnd": 882,
+            "id": 144,
+            "sentence": 8,
+            "text": "Sie",
+            "word": 1
+        },
+        {
+            "charBegin": 883,
+            "charEnd": 887,
+            "id": 145,
+            "sentence": 8,
+            "text": "sind",
+            "word": 2
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 891,
+            "id": 146,
+            "sentence": 8,
+            "text": "für",
+            "word": 3
+        },
+        {
+            "charBegin": 892,
+            "charEnd": 896,
+            "id": 147,
+            "sentence": 8,
+            "text": "zwei",
+            "word": 4
+        },
+        {
+            "charBegin": 897,
+            "charEnd": 903,
+            "id": 148,
+            "sentence": 8,
+            "text": "Wochen",
+            "word": 5
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 913,
+            "id": 149,
+            "sentence": 8,
+            "text": "engagiert",
+            "word": 6
+        },
+        {
+            "charBegin": 913,
+            "charEnd": 914,
+            "id": 150,
+            "sentence": 8,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 915,
+            "charEnd": 918,
+            "id": 151,
+            "sentence": 8,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 919,
+            "charEnd": 925,
+            "id": 152,
+            "sentence": 8,
+            "text": "Kosten",
+            "word": 9
+        },
+        {
+            "charBegin": 926,
+            "charEnd": 929,
+            "id": 153,
+            "sentence": 8,
+            "text": "von",
+            "word": 10
+        },
+        {
+            "charBegin": 930,
+            "charEnd": 936,
+            "id": 154,
+            "sentence": 8,
+            "text": "25.000",
+            "word": 11
+        },
+        {
+            "charBegin": 937,
+            "charEnd": 941,
+            "id": 155,
+            "sentence": 8,
+            "text": "Euro",
+            "word": 12
+        },
+        {
+            "charBegin": 942,
+            "charEnd": 948,
+            "id": 156,
+            "sentence": 8,
+            "text": "teilen",
+            "word": 13
+        },
+        {
+            "charBegin": 949,
+            "charEnd": 953,
+            "id": 157,
+            "sentence": 8,
+            "text": "sich",
+            "word": 14
+        },
+        {
+            "charBegin": 954,
+            "charEnd": 959,
+            "id": 158,
+            "sentence": 8,
+            "text": "dabei",
+            "word": 15
+        },
+        {
+            "charBegin": 960,
+            "charEnd": 963,
+            "id": 159,
+            "sentence": 8,
+            "text": "die",
+            "word": 16
+        },
+        {
+            "charBegin": 964,
+            "charEnd": 970,
+            "id": 160,
+            "sentence": 8,
+            "text": "Länder",
+            "word": 17
+        },
+        {
+            "charBegin": 971,
+            "charEnd": 977,
+            "id": 161,
+            "sentence": 8,
+            "text": "Bayern",
+            "word": 18
+        },
+        {
+            "charBegin": 978,
+            "charEnd": 981,
+            "id": 162,
+            "sentence": 8,
+            "text": "und",
+            "word": 19
+        },
+        {
+            "charBegin": 982,
+            "charEnd": 987,
+            "id": 163,
+            "sentence": 8,
+            "text": "Tirol",
+            "word": 20
+        },
+        {
+            "charBegin": 987,
+            "charEnd": 988,
+            "id": 164,
+            "sentence": 8,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 990,
+            "charEnd": 993,
+            "id": 165,
+            "sentence": 9,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 994,
+            "charEnd": 999,
+            "id": 166,
+            "sentence": 9,
+            "text": "Hunde",
+            "word": 2
+        },
+        {
+            "charBegin": 1000,
+            "charEnd": 1006,
+            "id": 167,
+            "sentence": 9,
+            "text": "nahmen",
+            "word": 3
+        },
+        {
+            "charBegin": 1007,
+            "charEnd": 1010,
+            "id": 168,
+            "sentence": 9,
+            "text": "zum",
+            "word": 4
+        },
+        {
+            "charBegin": 1011,
+            "charEnd": 1017,
+            "id": 169,
+            "sentence": 9,
+            "text": "ersten",
+            "word": 5
+        },
+        {
+            "charBegin": 1018,
+            "charEnd": 1021,
+            "id": 170,
+            "sentence": 9,
+            "text": "Mal",
+            "word": 6
+        },
+        {
+            "charBegin": 1022,
+            "charEnd": 1024,
+            "id": 171,
+            "sentence": 9,
+            "text": "am",
+            "word": 7
+        },
+        {
+            "charBegin": 1025,
+            "charEnd": 1032,
+            "id": 172,
+            "sentence": 9,
+            "text": "Sonntag",
+            "word": 8
+        },
+        {
+            "charBegin": 1033,
+            "charEnd": 1036,
+            "id": 173,
+            "sentence": 9,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 1037,
+            "charEnd": 1041,
+            "id": 174,
+            "sentence": 9,
+            "text": "Spur",
+            "word": 10
+        },
+        {
+            "charBegin": 1042,
+            "charEnd": 1045,
+            "id": 175,
+            "sentence": 9,
+            "text": "des",
+            "word": 11
+        },
+        {
+            "charBegin": 1046,
+            "charEnd": 1051,
+            "id": 176,
+            "sentence": 9,
+            "text": "Bären",
+            "word": 12
+        },
+        {
+            "charBegin": 1052,
+            "charEnd": 1055,
+            "id": 177,
+            "sentence": 9,
+            "text": "auf",
+            "word": 13
+        },
+        {
+            "charBegin": 1055,
+            "charEnd": 1056,
+            "id": 178,
+            "sentence": 9,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 1057,
+            "charEnd": 1061,
+            "id": 179,
+            "sentence": 9,
+            "text": "doch",
+            "word": 15
+        },
+        {
+            "charBegin": 1062,
+            "charEnd": 1065,
+            "id": 180,
+            "sentence": 9,
+            "text": "sie",
+            "word": 16
+        },
+        {
+            "charBegin": 1066,
+            "charEnd": 1073,
+            "id": 181,
+            "sentence": 9,
+            "text": "mussten",
+            "word": 17
+        },
+        {
+            "charBegin": 1074,
+            "charEnd": 1077,
+            "id": 182,
+            "sentence": 9,
+            "text": "die",
+            "word": 18
+        },
+        {
+            "charBegin": 1078,
+            "charEnd": 1088,
+            "id": 183,
+            "sentence": 9,
+            "text": "Verfolgung",
+            "word": 19
+        },
+        {
+            "charBegin": 1089,
+            "charEnd": 1098,
+            "id": 184,
+            "sentence": 9,
+            "text": "abbrechen",
+            "word": 20
+        },
+        {
+            "charBegin": 1098,
+            "charEnd": 1099,
+            "id": 185,
+            "sentence": 9,
+            "text": ",",
+            "word": 21
+        },
+        {
+            "charBegin": 1100,
+            "charEnd": 1103,
+            "id": 186,
+            "sentence": 9,
+            "text": "als",
+            "word": 22
+        },
+        {
+            "charBegin": 1104,
+            "charEnd": 1115,
+            "id": 187,
+            "sentence": 9,
+            "text": "Jagdpächter",
+            "word": 23
+        },
+        {
+            "charBegin": 1116,
+            "charEnd": 1118,
+            "id": 188,
+            "sentence": 9,
+            "text": "in",
+            "word": 24
+        },
+        {
+            "charBegin": 1119,
+            "charEnd": 1124,
+            "id": 189,
+            "sentence": 9,
+            "text": "Tirol",
+            "word": 25
+        },
+        {
+            "charBegin": 1125,
+            "charEnd": 1127,
+            "id": 190,
+            "sentence": 9,
+            "text": "es",
+            "word": 26
+        },
+        {
+            "charBegin": 1128,
+            "charEnd": 1139,
+            "id": 191,
+            "sentence": 9,
+            "text": "untersagten",
+            "word": 27
+        },
+        {
+            "charBegin": 1139,
+            "charEnd": 1140,
+            "id": 192,
+            "sentence": 9,
+            "text": ",",
+            "word": 28
+        },
+        {
+            "charBegin": 1141,
+            "charEnd": 1144,
+            "id": 193,
+            "sentence": 9,
+            "text": "ihr",
+            "word": 29
+        },
+        {
+            "charBegin": 1145,
+            "charEnd": 1152,
+            "id": 194,
+            "sentence": 9,
+            "text": "Gelände",
+            "word": 30
+        },
+        {
+            "charBegin": 1153,
+            "charEnd": 1157,
+            "id": 195,
+            "sentence": 9,
+            "text": "ohne",
+            "word": 31
+        },
+        {
+            "charBegin": 1158,
+            "charEnd": 1171,
+            "id": 196,
+            "sentence": 9,
+            "text": "entsprechende",
+            "word": 32
+        },
+        {
+            "charBegin": 1172,
+            "charEnd": 1183,
+            "id": 197,
+            "sentence": 9,
+            "text": "Genehmigung",
+            "word": 33
+        },
+        {
+            "charBegin": 1184,
+            "charEnd": 1186,
+            "id": 198,
+            "sentence": 9,
+            "text": "zu",
+            "word": 34
+        },
+        {
+            "charBegin": 1187,
+            "charEnd": 1195,
+            "id": 199,
+            "sentence": 9,
+            "text": "betreten",
+            "word": 35
+        },
+        {
+            "charBegin": 1195,
+            "charEnd": 1196,
+            "id": 200,
+            "sentence": 9,
+            "text": ".",
+            "word": 36
+        },
+        {
+            "charBegin": 1197,
+            "charEnd": 1200,
+            "id": 201,
+            "sentence": 10,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 1201,
+            "charEnd": 1215,
+            "id": 202,
+            "sentence": 10,
+            "text": "entsprechender",
+            "word": 2
+        },
+        {
+            "charBegin": 1216,
+            "charEnd": 1224,
+            "id": 203,
+            "sentence": 10,
+            "text": "Bescheid",
+            "word": 3
+        },
+        {
+            "charBegin": 1225,
+            "charEnd": 1228,
+            "id": 204,
+            "sentence": 10,
+            "text": "des",
+            "word": 4
+        },
+        {
+            "charBegin": 1229,
+            "charEnd": 1240,
+            "id": 205,
+            "sentence": 10,
+            "text": "zuständigen",
+            "word": 5
+        },
+        {
+            "charBegin": 1241,
+            "charEnd": 1252,
+            "id": 206,
+            "sentence": 10,
+            "text": "Landesrates",
+            "word": 6
+        },
+        {
+            "charBegin": 1252,
+            "charEnd": 1253,
+            "id": 207,
+            "sentence": 10,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 1254,
+            "charEnd": 1257,
+            "id": 208,
+            "sentence": 10,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 1258,
+            "charEnd": 1261,
+            "id": 209,
+            "sentence": 10,
+            "text": "den",
+            "word": 9
+        },
+        {
+            "charBegin": 1262,
+            "charEnd": 1273,
+            "id": 210,
+            "sentence": 10,
+            "text": "Bärenjägern",
+            "word": 10
+        },
+        {
+            "charBegin": 1274,
+            "charEnd": 1290,
+            "id": 211,
+            "sentence": 10,
+            "text": "uneingeschränkte",
+            "word": 11
+        },
+        {
+            "charBegin": 1291,
+            "charEnd": 1307,
+            "id": 212,
+            "sentence": 10,
+            "text": "Betretungsrechte",
+            "word": 12
+        },
+        {
+            "charBegin": 1308,
+            "charEnd": 1316,
+            "id": 213,
+            "sentence": 10,
+            "text": "einräumt",
+            "word": 13
+        },
+        {
+            "charBegin": 1316,
+            "charEnd": 1317,
+            "id": 214,
+            "sentence": 10,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 1318,
+            "charEnd": 1322,
+            "id": 215,
+            "sentence": 10,
+            "text": "soll",
+            "word": 15
+        },
+        {
+            "charBegin": 1323,
+            "charEnd": 1326,
+            "id": 216,
+            "sentence": 10,
+            "text": "ein",
+            "word": 16
+        },
+        {
+            "charBegin": 1327,
+            "charEnd": 1334,
+            "id": 217,
+            "sentence": 10,
+            "text": "solches",
+            "word": 17
+        },
+        {
+            "charBegin": 1335,
+            "charEnd": 1347,
+            "id": 218,
+            "sentence": 10,
+            "text": "Missgeschick",
+            "word": 18
+        },
+        {
+            "charBegin": 1348,
+            "charEnd": 1350,
+            "id": 219,
+            "sentence": 10,
+            "text": "in",
+            "word": 19
+        },
+        {
+            "charBegin": 1351,
+            "charEnd": 1358,
+            "id": 220,
+            "sentence": 10,
+            "text": "Zukunft",
+            "word": 20
+        },
+        {
+            "charBegin": 1359,
+            "charEnd": 1369,
+            "id": 221,
+            "sentence": 10,
+            "text": "verhindern",
+            "word": 21
+        },
+        {
+            "charBegin": 1369,
+            "charEnd": 1370,
+            "id": 222,
+            "sentence": 10,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 1372,
+            "charEnd": 1375,
+            "id": 223,
+            "sentence": 11,
+            "text": "Ein",
+            "word": 1
+        },
+        {
+            "charBegin": 1376,
+            "charEnd": 1384,
+            "id": 224,
+            "sentence": 11,
+            "text": "weiterer",
+            "word": 2
+        },
+        {
+            "charBegin": 1385,
+            "charEnd": 1392,
+            "id": 225,
+            "sentence": 11,
+            "text": "Einsatz",
+            "word": 3
+        },
+        {
+            "charBegin": 1393,
+            "charEnd": 1396,
+            "id": 226,
+            "sentence": 11,
+            "text": "der",
+            "word": 4
+        },
+        {
+            "charBegin": 1397,
+            "charEnd": 1402,
+            "id": 227,
+            "sentence": 11,
+            "text": "Hunde",
+            "word": 5
+        },
+        {
+            "charBegin": 1403,
+            "charEnd": 1411,
+            "id": 228,
+            "sentence": 11,
+            "text": "erfolgte",
+            "word": 6
+        },
+        {
+            "charBegin": 1412,
+            "charEnd": 1423,
+            "id": 229,
+            "sentence": 11,
+            "text": "Montagabend",
+            "word": 7
+        },
+        {
+            "charBegin": 1423,
+            "charEnd": 1424,
+            "id": 230,
+            "sentence": 11,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 1425,
+            "charEnd": 1428,
+            "id": 231,
+            "sentence": 11,
+            "text": "als",
+            "word": 9
+        },
+        {
+            "charBegin": 1429,
+            "charEnd": 1432,
+            "id": 232,
+            "sentence": 11,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 1433,
+            "charEnd": 1436,
+            "id": 233,
+            "sentence": 11,
+            "text": "Bär",
+            "word": 11
+        },
+        {
+            "charBegin": 1437,
+            "charEnd": 1439,
+            "id": 234,
+            "sentence": 11,
+            "text": "im",
+            "word": 12
+        },
+        {
+            "charBegin": 1440,
+            "charEnd": 1450,
+            "id": 235,
+            "sentence": 11,
+            "text": "Ahornboden",
+            "word": 13
+        },
+        {
+            "charBegin": 1451,
+            "charEnd": 1453,
+            "id": 236,
+            "sentence": 11,
+            "text": "im",
+            "word": 14
+        },
+        {
+            "charBegin": 1454,
+            "charEnd": 1470,
+            "id": 237,
+            "sentence": 11,
+            "text": "Karwendelgebirge",
+            "word": 15
+        },
+        {
+            "charBegin": 1471,
+            "charEnd": 1473,
+            "id": 238,
+            "sentence": 11,
+            "text": "in",
+            "word": 16
+        },
+        {
+            "charBegin": 1474,
+            "charEnd": 1479,
+            "id": 239,
+            "sentence": 11,
+            "text": "Tirol",
+            "word": 17
+        },
+        {
+            "charBegin": 1480,
+            "charEnd": 1489,
+            "id": 240,
+            "sentence": 11,
+            "text": "gesichtet",
+            "word": 18
+        },
+        {
+            "charBegin": 1490,
+            "charEnd": 1495,
+            "id": 241,
+            "sentence": 11,
+            "text": "wurde",
+            "word": 19
+        },
+        {
+            "charBegin": 1495,
+            "charEnd": 1496,
+            "id": 242,
+            "sentence": 11,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 1497,
+            "charEnd": 1500,
+            "id": 243,
+            "sentence": 12,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 1501,
+            "charEnd": 1508,
+            "id": 244,
+            "sentence": 12,
+            "text": "Einsatz",
+            "word": 2
+        },
+        {
+            "charBegin": 1509,
+            "charEnd": 1515,
+            "id": 245,
+            "sentence": 12,
+            "text": "musste",
+            "word": 3
+        },
+        {
+            "charBegin": 1516,
+            "charEnd": 1522,
+            "id": 246,
+            "sentence": 12,
+            "text": "jedoch",
+            "word": 4
+        },
+        {
+            "charBegin": 1523,
+            "charEnd": 1534,
+            "id": 247,
+            "sentence": 12,
+            "text": "abgebrochen",
+            "word": 5
+        },
+        {
+            "charBegin": 1535,
+            "charEnd": 1541,
+            "id": 248,
+            "sentence": 12,
+            "text": "werden",
+            "word": 6
+        },
+        {
+            "charBegin": 1541,
+            "charEnd": 1542,
+            "id": 249,
+            "sentence": 12,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 1543,
+            "charEnd": 1545,
+            "id": 250,
+            "sentence": 12,
+            "text": "da",
+            "word": 8
+        },
+        {
+            "charBegin": 1546,
+            "charEnd": 1549,
+            "id": 251,
+            "sentence": 12,
+            "text": "die",
+            "word": 9
+        },
+        {
+            "charBegin": 1550,
+            "charEnd": 1555,
+            "id": 252,
+            "sentence": 12,
+            "text": "Suche",
+            "word": 10
+        },
+        {
+            "charBegin": 1556,
+            "charEnd": 1559,
+            "id": 253,
+            "sentence": 12,
+            "text": "mit",
+            "word": 11
+        },
+        {
+            "charBegin": 1560,
+            "charEnd": 1563,
+            "id": 254,
+            "sentence": 12,
+            "text": "den",
+            "word": 12
+        },
+        {
+            "charBegin": 1564,
+            "charEnd": 1570,
+            "id": 255,
+            "sentence": 12,
+            "text": "Hunden",
+            "word": 13
+        },
+        {
+            "charBegin": 1571,
+            "charEnd": 1573,
+            "id": 256,
+            "sentence": 12,
+            "text": "in",
+            "word": 14
+        },
+        {
+            "charBegin": 1574,
+            "charEnd": 1577,
+            "id": 257,
+            "sentence": 12,
+            "text": "dem",
+            "word": 15
+        },
+        {
+            "charBegin": 1578,
+            "charEnd": 1588,
+            "id": 258,
+            "sentence": 12,
+            "text": "gebirgigen",
+            "word": 16
+        },
+        {
+            "charBegin": 1589,
+            "charEnd": 1596,
+            "id": 259,
+            "sentence": 12,
+            "text": "Gelände",
+            "word": 17
+        },
+        {
+            "charBegin": 1597,
+            "charEnd": 1603,
+            "id": 260,
+            "sentence": 12,
+            "text": "nachts",
+            "word": 18
+        },
+        {
+            "charBegin": 1604,
+            "charEnd": 1606,
+            "id": 261,
+            "sentence": 12,
+            "text": "zu",
+            "word": 19
+        },
+        {
+            "charBegin": 1607,
+            "charEnd": 1617,
+            "id": 262,
+            "sentence": 12,
+            "text": "gefährlich",
+            "word": 20
+        },
+        {
+            "charBegin": 1618,
+            "charEnd": 1621,
+            "id": 263,
+            "sentence": 12,
+            "text": "ist",
+            "word": 21
+        },
+        {
+            "charBegin": 1621,
+            "charEnd": 1622,
+            "id": 264,
+            "sentence": 12,
+            "text": ".",
+            "word": 22
+        },
+        {
+            "charBegin": 1624,
+            "charEnd": 1627,
+            "id": 265,
+            "sentence": 13,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1628,
+            "charEnd": 1638,
+            "id": 266,
+            "sentence": 13,
+            "text": "Verfolgung",
+            "word": 2
+        },
+        {
+            "charBegin": 1639,
+            "charEnd": 1644,
+            "id": 267,
+            "sentence": 13,
+            "text": "wurde",
+            "word": 3
+        },
+        {
+            "charBegin": 1645,
+            "charEnd": 1647,
+            "id": 268,
+            "sentence": 13,
+            "text": "am",
+            "word": 4
+        },
+        {
+            "charBegin": 1648,
+            "charEnd": 1662,
+            "id": 269,
+            "sentence": 13,
+            "text": "Dienstagmorgen",
+            "word": 5
+        },
+        {
+            "charBegin": 1663,
+            "charEnd": 1669,
+            "id": 270,
+            "sentence": 13,
+            "text": "wieder",
+            "word": 6
+        },
+        {
+            "charBegin": 1670,
+            "charEnd": 1681,
+            "id": 271,
+            "sentence": 13,
+            "text": "aufgenommen",
+            "word": 7
+        },
+        {
+            "charBegin": 1681,
+            "charEnd": 1682,
+            "id": 272,
+            "sentence": 13,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 1683,
+            "charEnd": 1687,
+            "id": 273,
+            "sentence": 13,
+            "text": "doch",
+            "word": 9
+        },
+        {
+            "charBegin": 1688,
+            "charEnd": 1695,
+            "id": 274,
+            "sentence": 13,
+            "text": "diesmal",
+            "word": 10
+        },
+        {
+            "charBegin": 1696,
+            "charEnd": 1702,
+            "id": 275,
+            "sentence": 13,
+            "text": "machte",
+            "word": 11
+        },
+        {
+            "charBegin": 1703,
+            "charEnd": 1706,
+            "id": 276,
+            "sentence": 13,
+            "text": "das",
+            "word": 12
+        },
+        {
+            "charBegin": 1707,
+            "charEnd": 1713,
+            "id": 277,
+            "sentence": 13,
+            "text": "Wetter",
+            "word": 13
+        },
+        {
+            "charBegin": 1714,
+            "charEnd": 1719,
+            "id": 278,
+            "sentence": 13,
+            "text": "einen",
+            "word": 14
+        },
+        {
+            "charBegin": 1720,
+            "charEnd": 1726,
+            "id": 279,
+            "sentence": 13,
+            "text": "Strich",
+            "word": 15
+        },
+        {
+            "charBegin": 1727,
+            "charEnd": 1732,
+            "id": 280,
+            "sentence": 13,
+            "text": "durch",
+            "word": 16
+        },
+        {
+            "charBegin": 1733,
+            "charEnd": 1736,
+            "id": 281,
+            "sentence": 13,
+            "text": "die",
+            "word": 17
+        },
+        {
+            "charBegin": 1737,
+            "charEnd": 1745,
+            "id": 282,
+            "sentence": 13,
+            "text": "Rechnung",
+            "word": 18
+        },
+        {
+            "charBegin": 1745,
+            "charEnd": 1746,
+            "id": 283,
+            "sentence": 13,
+            "text": ".",
+            "word": 19
+        },
+        {
+            "charBegin": 1747,
+            "charEnd": 1750,
+            "id": 284,
+            "sentence": 14,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 1751,
+            "charEnd": 1761,
+            "id": 285,
+            "sentence": 14,
+            "text": "finnischen",
+            "word": 2
+        },
+        {
+            "charBegin": 1762,
+            "charEnd": 1767,
+            "id": 286,
+            "sentence": 14,
+            "text": "Hunde",
+            "word": 3
+        },
+        {
+            "charBegin": 1768,
+            "charEnd": 1772,
+            "id": 287,
+            "sentence": 14,
+            "text": "sind",
+            "word": 4
+        },
+        {
+            "charBegin": 1773,
+            "charEnd": 1778,
+            "id": 288,
+            "sentence": 14,
+            "text": "keine",
+            "word": 5
+        },
+        {
+            "charBegin": 1779,
+            "charEnd": 1784,
+            "id": 289,
+            "sentence": 14,
+            "text": "große",
+            "word": 6
+        },
+        {
+            "charBegin": 1785,
+            "charEnd": 1790,
+            "id": 290,
+            "sentence": 14,
+            "text": "Hitze",
+            "word": 7
+        },
+        {
+            "charBegin": 1791,
+            "charEnd": 1798,
+            "id": 291,
+            "sentence": 14,
+            "text": "gewöhnt",
+            "word": 8
+        },
+        {
+            "charBegin": 1799,
+            "charEnd": 1802,
+            "id": 292,
+            "sentence": 14,
+            "text": "und",
+            "word": 9
+        },
+        {
+            "charBegin": 1803,
+            "charEnd": 1805,
+            "id": 293,
+            "sentence": 14,
+            "text": "so",
+            "word": 10
+        },
+        {
+            "charBegin": 1806,
+            "charEnd": 1812,
+            "id": 294,
+            "sentence": 14,
+            "text": "musste",
+            "word": 11
+        },
+        {
+            "charBegin": 1813,
+            "charEnd": 1816,
+            "id": 295,
+            "sentence": 14,
+            "text": "die",
+            "word": 12
+        },
+        {
+            "charBegin": 1817,
+            "charEnd": 1822,
+            "id": 296,
+            "sentence": 14,
+            "text": "Suche",
+            "word": 13
+        },
+        {
+            "charBegin": 1823,
+            "charEnd": 1829,
+            "id": 297,
+            "sentence": 14,
+            "text": "erneut",
+            "word": 14
+        },
+        {
+            "charBegin": 1830,
+            "charEnd": 1841,
+            "id": 298,
+            "sentence": 14,
+            "text": "abgebrochen",
+            "word": 15
+        },
+        {
+            "charBegin": 1842,
+            "charEnd": 1848,
+            "id": 299,
+            "sentence": 14,
+            "text": "werden",
+            "word": 16
+        },
+        {
+            "charBegin": 1848,
+            "charEnd": 1849,
+            "id": 300,
+            "sentence": 14,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 1850,
+            "charEnd": 1853,
+            "id": 301,
+            "sentence": 14,
+            "text": "als",
+            "word": 18
+        },
+        {
+            "charBegin": 1854,
+            "charEnd": 1856,
+            "id": 302,
+            "sentence": 14,
+            "text": "es",
+            "word": 19
+        },
+        {
+            "charBegin": 1857,
+            "charEnd": 1862,
+            "id": 303,
+            "sentence": 14,
+            "text": "ihnen",
+            "word": 20
+        },
+        {
+            "charBegin": 1863,
+            "charEnd": 1865,
+            "id": 304,
+            "sentence": 14,
+            "text": "zu",
+            "word": 21
+        },
+        {
+            "charBegin": 1866,
+            "charEnd": 1870,
+            "id": 305,
+            "sentence": 14,
+            "text": "heiß",
+            "word": 22
+        },
+        {
+            "charBegin": 1871,
+            "charEnd": 1876,
+            "id": 306,
+            "sentence": 14,
+            "text": "wurde",
+            "word": 23
+        },
+        {
+            "charBegin": 1876,
+            "charEnd": 1877,
+            "id": 307,
+            "sentence": 14,
+            "text": ".",
+            "word": 24
+        }
+    ]
+}

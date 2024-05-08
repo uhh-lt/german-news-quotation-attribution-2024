@@ -1,0 +1,1314 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 43,
+                        "charBegin": 316,
+                        "charEnd": 322,
+                        "end": 45
+                    }
+                ],
+                "text": "gab an",
+                "tokenIds": [
+                    43,
+                    44
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 41,
+                        "charBegin": 305,
+                        "charEnd": 323,
+                        "end": 46
+                    }
+                ],
+                "text": "Der Sachse gab an,",
+                "tokenIds": [
+                    41,
+                    42,
+                    43,
+                    44,
+                    45
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 46,
+                        "charBegin": 324,
+                        "charEnd": 369,
+                        "end": 53
+                    }
+                ],
+                "text": "lediglich einen Liter Bier getrunken zu haben",
+                "tokenIds": [
+                    46,
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    52
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 41,
+                        "charBegin": 305,
+                        "charEnd": 315,
+                        "end": 43
+                    }
+                ],
+                "text": "Der Sachse",
+                "tokenIds": [
+                    41,
+                    42
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "81786 - München-Hauptbahnhof: Sachse mit 6,52 Promille in Gewahrsam genommen (2017-10-18)",
+    "originalText": "Am Dienstagnachmittag wurde eine 61-jähriger Zwickauer im Münchner Hauptbahnhof von einer Streife der Bundespolizei völlig orientierungslos am Boden liegend aufgefunden. Die Person wurde in Schutzgewahrsam genommen, wo ein Atemalkoholtest durchgeführt wurde. Das außergewöhnliche Ergebnis: 6,52 Promille. Der Sachse gab an, lediglich einen Liter Bier getrunken zu haben. Hätte er tatsächlich nur Bier getrunken, so müsste er etwa 12 Liter davon konsumiert haben, um diesen Alkoholpegel zu erreichen. \n\nDer 61-Jährige wurde von einem Arzt untersucht und anschließend zur Ausnüchterung in eine Klinik verbracht. Der Mann muss über einen langen Zeitraum extensiv Alkohol konsumiert haben, nur so konnte er diesem extremen Alkoholwert überleben.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 169,
+            "end": 21,
+            "id": 0,
+            "text": "Am Dienstagnachmittag wurde eine 61-jähriger Zwickauer im Münchner Hauptbahnhof von einer Streife der Bundespolizei völlig orientierungslos am Boden liegend aufgefunden. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "tokens": [
+                "Am",
+                "Dienstagnachmittag",
+                "wurde",
+                "eine",
+                "61-jähriger",
+                "Zwickauer",
+                "im",
+                "Münchner",
+                "Hauptbahnhof",
+                "von",
+                "einer",
+                "Streife",
+                "der",
+                "Bundespolizei",
+                "völlig",
+                "orientierungslos",
+                "am",
+                "Boden",
+                "liegend",
+                "aufgefunden",
+                "."
+            ]
+        },
+        {
+            "begin": 21,
+            "charBegin": 170,
+            "charEnd": 258,
+            "end": 34,
+            "id": 1,
+            "text": "Die Person wurde in Schutzgewahrsam genommen, wo ein Atemalkoholtest durchgeführt wurde. ",
+            "tokenIds": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33
+            ],
+            "tokens": [
+                "Die",
+                "Person",
+                "wurde",
+                "in",
+                "Schutzgewahrsam",
+                "genommen",
+                ",",
+                "wo",
+                "ein",
+                "Atemalkoholtest",
+                "durchgeführt",
+                "wurde",
+                "."
+            ]
+        },
+        {
+            "begin": 34,
+            "charBegin": 259,
+            "charEnd": 304,
+            "end": 41,
+            "id": 2,
+            "text": "Das außergewöhnliche Ergebnis: 6,52 Promille. ",
+            "tokenIds": [
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40
+            ],
+            "tokens": [
+                "Das",
+                "außergewöhnliche",
+                "Ergebnis",
+                ":",
+                "6,52",
+                "Promille",
+                "."
+            ]
+        },
+        {
+            "begin": 41,
+            "charBegin": 305,
+            "charEnd": 370,
+            "end": 54,
+            "id": 3,
+            "text": "Der Sachse gab an, lediglich einen Liter Bier getrunken zu haben. ",
+            "tokenIds": [
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53
+            ],
+            "tokens": [
+                "Der",
+                "Sachse",
+                "gab",
+                "an",
+                ",",
+                "lediglich",
+                "einen",
+                "Liter",
+                "Bier",
+                "getrunken",
+                "zu",
+                "haben",
+                "."
+            ]
+        },
+        {
+            "begin": 54,
+            "charBegin": 371,
+            "charEnd": 499,
+            "end": 77,
+            "id": 4,
+            "text": "Hätte er tatsächlich nur Bier getrunken, so müsste er etwa 12 Liter davon konsumiert haben, um diesen Alkoholpegel zu erreichen. ",
+            "tokenIds": [
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76
+            ],
+            "tokens": [
+                "Hätte",
+                "er",
+                "tatsächlich",
+                "nur",
+                "Bier",
+                "getrunken",
+                ",",
+                "so",
+                "müsste",
+                "er",
+                "etwa",
+                "12",
+                "Liter",
+                "davon",
+                "konsumiert",
+                "haben",
+                ",",
+                "um",
+                "diesen",
+                "Alkoholpegel",
+                "zu",
+                "erreichen",
+                "."
+            ]
+        },
+        {
+            "begin": 77,
+            "charBegin": 502,
+            "charEnd": 609,
+            "end": 93,
+            "id": 5,
+            "text": "Der 61-Jährige wurde von einem Arzt untersucht und anschließend zur Ausnüchterung in eine Klinik verbracht. ",
+            "tokenIds": [
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92
+            ],
+            "tokens": [
+                "Der",
+                "61-Jährige",
+                "wurde",
+                "von",
+                "einem",
+                "Arzt",
+                "untersucht",
+                "und",
+                "anschließend",
+                "zur",
+                "Ausnüchterung",
+                "in",
+                "eine",
+                "Klinik",
+                "verbracht",
+                "."
+            ]
+        },
+        {
+            "begin": 93,
+            "charBegin": 610,
+            "charEnd": 741,
+            "end": 114,
+            "id": 6,
+            "text": "Der Mann muss über einen langen Zeitraum extensiv Alkohol konsumiert haben, nur so konnte er diesem extremen Alkoholwert überleben.",
+            "tokenIds": [
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113
+            ],
+            "tokens": [
+                "Der",
+                "Mann",
+                "muss",
+                "über",
+                "einen",
+                "langen",
+                "Zeitraum",
+                "extensiv",
+                "Alkohol",
+                "konsumiert",
+                "haben",
+                ",",
+                "nur",
+                "so",
+                "konnte",
+                "er",
+                "diesem",
+                "extremen",
+                "Alkoholwert",
+                "überleben",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 2,
+            "id": 0,
+            "sentence": 1,
+            "text": "Am",
+            "word": 1
+        },
+        {
+            "charBegin": 3,
+            "charEnd": 21,
+            "id": 1,
+            "sentence": 1,
+            "text": "Dienstagnachmittag",
+            "word": 2
+        },
+        {
+            "charBegin": 22,
+            "charEnd": 27,
+            "id": 2,
+            "sentence": 1,
+            "text": "wurde",
+            "word": 3
+        },
+        {
+            "charBegin": 28,
+            "charEnd": 32,
+            "id": 3,
+            "sentence": 1,
+            "text": "eine",
+            "word": 4
+        },
+        {
+            "charBegin": 33,
+            "charEnd": 44,
+            "id": 4,
+            "sentence": 1,
+            "text": "61-jähriger",
+            "word": 5
+        },
+        {
+            "charBegin": 45,
+            "charEnd": 54,
+            "id": 5,
+            "sentence": 1,
+            "text": "Zwickauer",
+            "word": 6
+        },
+        {
+            "charBegin": 55,
+            "charEnd": 57,
+            "id": 6,
+            "sentence": 1,
+            "text": "im",
+            "word": 7
+        },
+        {
+            "charBegin": 58,
+            "charEnd": 66,
+            "id": 7,
+            "sentence": 1,
+            "text": "Münchner",
+            "word": 8
+        },
+        {
+            "charBegin": 67,
+            "charEnd": 79,
+            "id": 8,
+            "sentence": 1,
+            "text": "Hauptbahnhof",
+            "word": 9
+        },
+        {
+            "charBegin": 80,
+            "charEnd": 83,
+            "id": 9,
+            "sentence": 1,
+            "text": "von",
+            "word": 10
+        },
+        {
+            "charBegin": 84,
+            "charEnd": 89,
+            "id": 10,
+            "sentence": 1,
+            "text": "einer",
+            "word": 11
+        },
+        {
+            "charBegin": 90,
+            "charEnd": 97,
+            "id": 11,
+            "sentence": 1,
+            "text": "Streife",
+            "word": 12
+        },
+        {
+            "charBegin": 98,
+            "charEnd": 101,
+            "id": 12,
+            "sentence": 1,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 102,
+            "charEnd": 115,
+            "id": 13,
+            "sentence": 1,
+            "text": "Bundespolizei",
+            "word": 14
+        },
+        {
+            "charBegin": 116,
+            "charEnd": 122,
+            "id": 14,
+            "sentence": 1,
+            "text": "völlig",
+            "word": 15
+        },
+        {
+            "charBegin": 123,
+            "charEnd": 139,
+            "id": 15,
+            "sentence": 1,
+            "text": "orientierungslos",
+            "word": 16
+        },
+        {
+            "charBegin": 140,
+            "charEnd": 142,
+            "id": 16,
+            "sentence": 1,
+            "text": "am",
+            "word": 17
+        },
+        {
+            "charBegin": 143,
+            "charEnd": 148,
+            "id": 17,
+            "sentence": 1,
+            "text": "Boden",
+            "word": 18
+        },
+        {
+            "charBegin": 149,
+            "charEnd": 156,
+            "id": 18,
+            "sentence": 1,
+            "text": "liegend",
+            "word": 19
+        },
+        {
+            "charBegin": 157,
+            "charEnd": 168,
+            "id": 19,
+            "sentence": 1,
+            "text": "aufgefunden",
+            "word": 20
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 169,
+            "id": 20,
+            "sentence": 1,
+            "text": ".",
+            "word": 21
+        },
+        {
+            "charBegin": 170,
+            "charEnd": 173,
+            "id": 21,
+            "sentence": 2,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 174,
+            "charEnd": 180,
+            "id": 22,
+            "sentence": 2,
+            "text": "Person",
+            "word": 2
+        },
+        {
+            "charBegin": 181,
+            "charEnd": 186,
+            "id": 23,
+            "sentence": 2,
+            "text": "wurde",
+            "word": 3
+        },
+        {
+            "charBegin": 187,
+            "charEnd": 189,
+            "id": 24,
+            "sentence": 2,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 190,
+            "charEnd": 205,
+            "id": 25,
+            "sentence": 2,
+            "text": "Schutzgewahrsam",
+            "word": 5
+        },
+        {
+            "charBegin": 206,
+            "charEnd": 214,
+            "id": 26,
+            "sentence": 2,
+            "text": "genommen",
+            "word": 6
+        },
+        {
+            "charBegin": 214,
+            "charEnd": 215,
+            "id": 27,
+            "sentence": 2,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 216,
+            "charEnd": 218,
+            "id": 28,
+            "sentence": 2,
+            "text": "wo",
+            "word": 8
+        },
+        {
+            "charBegin": 219,
+            "charEnd": 222,
+            "id": 29,
+            "sentence": 2,
+            "text": "ein",
+            "word": 9
+        },
+        {
+            "charBegin": 223,
+            "charEnd": 238,
+            "id": 30,
+            "sentence": 2,
+            "text": "Atemalkoholtest",
+            "word": 10
+        },
+        {
+            "charBegin": 239,
+            "charEnd": 251,
+            "id": 31,
+            "sentence": 2,
+            "text": "durchgeführt",
+            "word": 11
+        },
+        {
+            "charBegin": 252,
+            "charEnd": 257,
+            "id": 32,
+            "sentence": 2,
+            "text": "wurde",
+            "word": 12
+        },
+        {
+            "charBegin": 257,
+            "charEnd": 258,
+            "id": 33,
+            "sentence": 2,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 262,
+            "id": 34,
+            "sentence": 3,
+            "text": "Das",
+            "word": 1
+        },
+        {
+            "charBegin": 263,
+            "charEnd": 279,
+            "id": 35,
+            "sentence": 3,
+            "text": "außergewöhnliche",
+            "word": 2
+        },
+        {
+            "charBegin": 280,
+            "charEnd": 288,
+            "id": 36,
+            "sentence": 3,
+            "text": "Ergebnis",
+            "word": 3
+        },
+        {
+            "charBegin": 288,
+            "charEnd": 289,
+            "id": 37,
+            "sentence": 3,
+            "text": ":",
+            "word": 4
+        },
+        {
+            "charBegin": 290,
+            "charEnd": 294,
+            "id": 38,
+            "sentence": 3,
+            "text": "6,52",
+            "word": 5
+        },
+        {
+            "charBegin": 295,
+            "charEnd": 303,
+            "id": 39,
+            "sentence": 3,
+            "text": "Promille",
+            "word": 6
+        },
+        {
+            "charBegin": 303,
+            "charEnd": 304,
+            "id": 40,
+            "sentence": 3,
+            "text": ".",
+            "word": 7
+        },
+        {
+            "charBegin": 305,
+            "charEnd": 308,
+            "id": 41,
+            "sentence": 4,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 309,
+            "charEnd": 315,
+            "id": 42,
+            "sentence": 4,
+            "text": "Sachse",
+            "word": 2
+        },
+        {
+            "charBegin": 316,
+            "charEnd": 319,
+            "id": 43,
+            "sentence": 4,
+            "text": "gab",
+            "word": 3
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 322,
+            "id": 44,
+            "sentence": 4,
+            "text": "an",
+            "word": 4
+        },
+        {
+            "charBegin": 322,
+            "charEnd": 323,
+            "id": 45,
+            "sentence": 4,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 324,
+            "charEnd": 333,
+            "id": 46,
+            "sentence": 4,
+            "text": "lediglich",
+            "word": 6
+        },
+        {
+            "charBegin": 334,
+            "charEnd": 339,
+            "id": 47,
+            "sentence": 4,
+            "text": "einen",
+            "word": 7
+        },
+        {
+            "charBegin": 340,
+            "charEnd": 345,
+            "id": 48,
+            "sentence": 4,
+            "text": "Liter",
+            "word": 8
+        },
+        {
+            "charBegin": 346,
+            "charEnd": 350,
+            "id": 49,
+            "sentence": 4,
+            "text": "Bier",
+            "word": 9
+        },
+        {
+            "charBegin": 351,
+            "charEnd": 360,
+            "id": 50,
+            "sentence": 4,
+            "text": "getrunken",
+            "word": 10
+        },
+        {
+            "charBegin": 361,
+            "charEnd": 363,
+            "id": 51,
+            "sentence": 4,
+            "text": "zu",
+            "word": 11
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 369,
+            "id": 52,
+            "sentence": 4,
+            "text": "haben",
+            "word": 12
+        },
+        {
+            "charBegin": 369,
+            "charEnd": 370,
+            "id": 53,
+            "sentence": 4,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 371,
+            "charEnd": 376,
+            "id": 54,
+            "sentence": 5,
+            "text": "Hätte",
+            "word": 1
+        },
+        {
+            "charBegin": 377,
+            "charEnd": 379,
+            "id": 55,
+            "sentence": 5,
+            "text": "er",
+            "word": 2
+        },
+        {
+            "charBegin": 380,
+            "charEnd": 391,
+            "id": 56,
+            "sentence": 5,
+            "text": "tatsächlich",
+            "word": 3
+        },
+        {
+            "charBegin": 392,
+            "charEnd": 395,
+            "id": 57,
+            "sentence": 5,
+            "text": "nur",
+            "word": 4
+        },
+        {
+            "charBegin": 396,
+            "charEnd": 400,
+            "id": 58,
+            "sentence": 5,
+            "text": "Bier",
+            "word": 5
+        },
+        {
+            "charBegin": 401,
+            "charEnd": 410,
+            "id": 59,
+            "sentence": 5,
+            "text": "getrunken",
+            "word": 6
+        },
+        {
+            "charBegin": 410,
+            "charEnd": 411,
+            "id": 60,
+            "sentence": 5,
+            "text": ",",
+            "word": 7
+        },
+        {
+            "charBegin": 412,
+            "charEnd": 414,
+            "id": 61,
+            "sentence": 5,
+            "text": "so",
+            "word": 8
+        },
+        {
+            "charBegin": 415,
+            "charEnd": 421,
+            "id": 62,
+            "sentence": 5,
+            "text": "müsste",
+            "word": 9
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 424,
+            "id": 63,
+            "sentence": 5,
+            "text": "er",
+            "word": 10
+        },
+        {
+            "charBegin": 425,
+            "charEnd": 429,
+            "id": 64,
+            "sentence": 5,
+            "text": "etwa",
+            "word": 11
+        },
+        {
+            "charBegin": 430,
+            "charEnd": 432,
+            "id": 65,
+            "sentence": 5,
+            "text": "12",
+            "word": 12
+        },
+        {
+            "charBegin": 433,
+            "charEnd": 438,
+            "id": 66,
+            "sentence": 5,
+            "text": "Liter",
+            "word": 13
+        },
+        {
+            "charBegin": 439,
+            "charEnd": 444,
+            "id": 67,
+            "sentence": 5,
+            "text": "davon",
+            "word": 14
+        },
+        {
+            "charBegin": 445,
+            "charEnd": 455,
+            "id": 68,
+            "sentence": 5,
+            "text": "konsumiert",
+            "word": 15
+        },
+        {
+            "charBegin": 456,
+            "charEnd": 461,
+            "id": 69,
+            "sentence": 5,
+            "text": "haben",
+            "word": 16
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 462,
+            "id": 70,
+            "sentence": 5,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 463,
+            "charEnd": 465,
+            "id": 71,
+            "sentence": 5,
+            "text": "um",
+            "word": 18
+        },
+        {
+            "charBegin": 466,
+            "charEnd": 472,
+            "id": 72,
+            "sentence": 5,
+            "text": "diesen",
+            "word": 19
+        },
+        {
+            "charBegin": 473,
+            "charEnd": 485,
+            "id": 73,
+            "sentence": 5,
+            "text": "Alkoholpegel",
+            "word": 20
+        },
+        {
+            "charBegin": 486,
+            "charEnd": 488,
+            "id": 74,
+            "sentence": 5,
+            "text": "zu",
+            "word": 21
+        },
+        {
+            "charBegin": 489,
+            "charEnd": 498,
+            "id": 75,
+            "sentence": 5,
+            "text": "erreichen",
+            "word": 22
+        },
+        {
+            "charBegin": 498,
+            "charEnd": 499,
+            "id": 76,
+            "sentence": 5,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 502,
+            "charEnd": 505,
+            "id": 77,
+            "sentence": 6,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 506,
+            "charEnd": 516,
+            "id": 78,
+            "sentence": 6,
+            "text": "61-Jährige",
+            "word": 2
+        },
+        {
+            "charBegin": 517,
+            "charEnd": 522,
+            "id": 79,
+            "sentence": 6,
+            "text": "wurde",
+            "word": 3
+        },
+        {
+            "charBegin": 523,
+            "charEnd": 526,
+            "id": 80,
+            "sentence": 6,
+            "text": "von",
+            "word": 4
+        },
+        {
+            "charBegin": 527,
+            "charEnd": 532,
+            "id": 81,
+            "sentence": 6,
+            "text": "einem",
+            "word": 5
+        },
+        {
+            "charBegin": 533,
+            "charEnd": 537,
+            "id": 82,
+            "sentence": 6,
+            "text": "Arzt",
+            "word": 6
+        },
+        {
+            "charBegin": 538,
+            "charEnd": 548,
+            "id": 83,
+            "sentence": 6,
+            "text": "untersucht",
+            "word": 7
+        },
+        {
+            "charBegin": 549,
+            "charEnd": 552,
+            "id": 84,
+            "sentence": 6,
+            "text": "und",
+            "word": 8
+        },
+        {
+            "charBegin": 553,
+            "charEnd": 565,
+            "id": 85,
+            "sentence": 6,
+            "text": "anschließend",
+            "word": 9
+        },
+        {
+            "charBegin": 566,
+            "charEnd": 569,
+            "id": 86,
+            "sentence": 6,
+            "text": "zur",
+            "word": 10
+        },
+        {
+            "charBegin": 570,
+            "charEnd": 583,
+            "id": 87,
+            "sentence": 6,
+            "text": "Ausnüchterung",
+            "word": 11
+        },
+        {
+            "charBegin": 584,
+            "charEnd": 586,
+            "id": 88,
+            "sentence": 6,
+            "text": "in",
+            "word": 12
+        },
+        {
+            "charBegin": 587,
+            "charEnd": 591,
+            "id": 89,
+            "sentence": 6,
+            "text": "eine",
+            "word": 13
+        },
+        {
+            "charBegin": 592,
+            "charEnd": 598,
+            "id": 90,
+            "sentence": 6,
+            "text": "Klinik",
+            "word": 14
+        },
+        {
+            "charBegin": 599,
+            "charEnd": 608,
+            "id": 91,
+            "sentence": 6,
+            "text": "verbracht",
+            "word": 15
+        },
+        {
+            "charBegin": 608,
+            "charEnd": 609,
+            "id": 92,
+            "sentence": 6,
+            "text": ".",
+            "word": 16
+        },
+        {
+            "charBegin": 610,
+            "charEnd": 613,
+            "id": 93,
+            "sentence": 7,
+            "text": "Der",
+            "word": 1
+        },
+        {
+            "charBegin": 614,
+            "charEnd": 618,
+            "id": 94,
+            "sentence": 7,
+            "text": "Mann",
+            "word": 2
+        },
+        {
+            "charBegin": 619,
+            "charEnd": 623,
+            "id": 95,
+            "sentence": 7,
+            "text": "muss",
+            "word": 3
+        },
+        {
+            "charBegin": 624,
+            "charEnd": 628,
+            "id": 96,
+            "sentence": 7,
+            "text": "über",
+            "word": 4
+        },
+        {
+            "charBegin": 629,
+            "charEnd": 634,
+            "id": 97,
+            "sentence": 7,
+            "text": "einen",
+            "word": 5
+        },
+        {
+            "charBegin": 635,
+            "charEnd": 641,
+            "id": 98,
+            "sentence": 7,
+            "text": "langen",
+            "word": 6
+        },
+        {
+            "charBegin": 642,
+            "charEnd": 650,
+            "id": 99,
+            "sentence": 7,
+            "text": "Zeitraum",
+            "word": 7
+        },
+        {
+            "charBegin": 651,
+            "charEnd": 659,
+            "id": 100,
+            "sentence": 7,
+            "text": "extensiv",
+            "word": 8
+        },
+        {
+            "charBegin": 660,
+            "charEnd": 667,
+            "id": 101,
+            "sentence": 7,
+            "text": "Alkohol",
+            "word": 9
+        },
+        {
+            "charBegin": 668,
+            "charEnd": 678,
+            "id": 102,
+            "sentence": 7,
+            "text": "konsumiert",
+            "word": 10
+        },
+        {
+            "charBegin": 679,
+            "charEnd": 684,
+            "id": 103,
+            "sentence": 7,
+            "text": "haben",
+            "word": 11
+        },
+        {
+            "charBegin": 684,
+            "charEnd": 685,
+            "id": 104,
+            "sentence": 7,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 686,
+            "charEnd": 689,
+            "id": 105,
+            "sentence": 7,
+            "text": "nur",
+            "word": 13
+        },
+        {
+            "charBegin": 690,
+            "charEnd": 692,
+            "id": 106,
+            "sentence": 7,
+            "text": "so",
+            "word": 14
+        },
+        {
+            "charBegin": 693,
+            "charEnd": 699,
+            "id": 107,
+            "sentence": 7,
+            "text": "konnte",
+            "word": 15
+        },
+        {
+            "charBegin": 700,
+            "charEnd": 702,
+            "id": 108,
+            "sentence": 7,
+            "text": "er",
+            "word": 16
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 709,
+            "id": 109,
+            "sentence": 7,
+            "text": "diesem",
+            "word": 17
+        },
+        {
+            "charBegin": 710,
+            "charEnd": 718,
+            "id": 110,
+            "sentence": 7,
+            "text": "extremen",
+            "word": 18
+        },
+        {
+            "charBegin": 719,
+            "charEnd": 730,
+            "id": 111,
+            "sentence": 7,
+            "text": "Alkoholwert",
+            "word": 19
+        },
+        {
+            "charBegin": 731,
+            "charEnd": 740,
+            "id": 112,
+            "sentence": 7,
+            "text": "überleben",
+            "word": 20
+        },
+        {
+            "charBegin": 740,
+            "charEnd": 741,
+            "id": 113,
+            "sentence": 7,
+            "text": ".",
+            "word": 21
+        }
+    ]
+}

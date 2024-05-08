@@ -1,0 +1,5442 @@
+{
+    "annotations": [
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 3,
+                        "charBegin": 28,
+                        "charEnd": 55,
+                        "end": 7
+                    }
+                ],
+                "text": "hat sich darauf verständigt",
+                "tokenIds": [
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 56,
+                        "end": 8
+                    }
+                ],
+                "text": "Die schwarz-gelbe Koalition hat sich darauf verständigt,",
+                "tokenIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            "hasNested": false,
+            "id": 0,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 8,
+                        "charBegin": 57,
+                        "charEnd": 183,
+                        "end": 24
+                    }
+                ],
+                "text": "bei der Bundesversammlung am 30. Juni den bisherigen niedersächsischen Ministerpräsidenten Christian Wulff (CDU) vorzuschlagen",
+                "tokenIds": [
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 0,
+                        "charBegin": 0,
+                        "charEnd": 27,
+                        "end": 3
+                    }
+                ],
+                "text": "Die schwarz-gelbe Koalition",
+                "tokenIds": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 29,
+                        "charBegin": 227,
+                        "charEnd": 232,
+                        "end": 30
+                    }
+                ],
+                "text": "Wulff",
+                "tokenIds": [
+                    29
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 28,
+                        "charBegin": 215,
+                        "charEnd": 226,
+                        "end": 29
+                    },
+                    {
+                        "begin": 39,
+                        "charBegin": 271,
+                        "charEnd": 274,
+                        "end": 40
+                    }
+                ],
+                "text": "bezeichnete als",
+                "tokenIds": [
+                    28,
+                    39
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 25,
+                        "charBegin": 185,
+                        "charEnd": 274,
+                        "end": 40
+                    }
+                ],
+                "text": "Bundeskanzlerin Angela Merkel bezeichnete Wulff am Donnerstag, den 3. Juni, in Berlin als",
+                "tokenIds": [
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    37,
+                    38,
+                    39
+                ]
+            },
+            "hasNested": false,
+            "id": 1,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 40,
+                        "charBegin": 275,
+                        "charEnd": 318,
+                        "end": 46
+                    }
+                ],
+                "text": "„einen wunderbaren zukünftigen Präsidenten“",
+                "tokenIds": [
+                    40,
+                    41,
+                    42,
+                    43,
+                    44,
+                    45
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 25,
+                        "charBegin": 185,
+                        "charEnd": 214,
+                        "end": 28
+                    }
+                ],
+                "text": "Bundeskanzlerin Angela Merkel",
+                "tokenIds": [
+                    25,
+                    26,
+                    27
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 50,
+                        "charBegin": 350,
+                        "charEnd": 356,
+                        "end": 51
+                    },
+                    {
+                        "begin": 57,
+                        "charBegin": 389,
+                        "charEnd": 395,
+                        "end": 58
+                    }
+                ],
+                "text": "strich hervor",
+                "tokenIds": [
+                    50,
+                    57
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 47,
+                        "charBegin": 320,
+                        "charEnd": 363,
+                        "end": 52
+                    },
+                    {
+                        "begin": 57,
+                        "charBegin": 389,
+                        "charEnd": 395,
+                        "end": 58
+                    }
+                ],
+                "text": "Vizekanzler Guido Westerwelle strich Wulffs hervor",
+                "tokenIds": [
+                    47,
+                    48,
+                    49,
+                    50,
+                    51,
+                    57
+                ]
+            },
+            "hasNested": false,
+            "id": 2,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 52,
+                        "charBegin": 364,
+                        "charEnd": 388,
+                        "end": 57
+                    }
+                ],
+                "text": "„klaren inneren Kompass“",
+                "tokenIds": [
+                    52,
+                    53,
+                    54,
+                    55,
+                    56
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 47,
+                        "charBegin": 320,
+                        "charEnd": 349,
+                        "end": 50
+                    }
+                ],
+                "text": "Vizekanzler Guido Westerwelle",
+                "tokenIds": [
+                    47,
+                    48,
+                    49
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 100,
+                        "charBegin": 711,
+                        "charEnd": 722,
+                        "end": 101
+                    }
+                ],
+                "text": "kritisierte",
+                "tokenIds": [
+                    100
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 97,
+                        "charBegin": 678,
+                        "charEnd": 723,
+                        "end": 102
+                    }
+                ],
+                "text": "SPD-Vorsitzender Siegmar Gabriel kritisierte,",
+                "tokenIds": [
+                    97,
+                    98,
+                    99,
+                    100,
+                    101
+                ]
+            },
+            "hasNested": false,
+            "id": 3,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 102,
+                        "charBegin": 724,
+                        "charEnd": 792,
+                        "end": 111
+                    }
+                ],
+                "text": "die Kanzlerin habe sich für eine parteipolitische Lösung entschieden",
+                "tokenIds": [
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 97,
+                        "charBegin": 678,
+                        "charEnd": 710,
+                        "end": 100
+                    }
+                ],
+                "text": "SPD-Vorsitzender Siegmar Gabriel",
+                "tokenIds": [
+                    97,
+                    98,
+                    99
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [
+                    {
+                        "begin": 145,
+                        "charBegin": 965,
+                        "charEnd": 990,
+                        "end": 149
+                    }
+                ],
+                "text": "im heute-journal des ZDFs",
+                "tokenIds": [
+                    145,
+                    146,
+                    147,
+                    148
+                ]
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 143,
+                        "charBegin": 948,
+                        "charEnd": 956,
+                        "end": 144
+                    }
+                ],
+                "text": "erklärte",
+                "tokenIds": [
+                    143
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 142,
+                        "charBegin": 946,
+                        "charEnd": 990,
+                        "end": 149
+                    }
+                ],
+                "text": ", erklärte Gabriel im heute-journal des ZDFs",
+                "tokenIds": [
+                    142,
+                    143,
+                    144,
+                    145,
+                    146,
+                    147,
+                    148
+                ]
+            },
+            "hasNested": false,
+            "id": 4,
+            "isNested": false,
+            "medium": "Speech",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 112,
+                        "charBegin": 794,
+                        "charEnd": 946,
+                        "end": 142
+                    }
+                ],
+                "text": "„Wir haben gesagt, wir nehmen auch einen von der CDU, aber doch bitte nicht jemanden, der nur dazu dient, das parteipolitische Interesse zu befriedigen“",
+                "tokenIds": [
+                    112,
+                    113,
+                    114,
+                    115,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120,
+                    121,
+                    122,
+                    123,
+                    124,
+                    125,
+                    126,
+                    127,
+                    128,
+                    129,
+                    130,
+                    131,
+                    132,
+                    133,
+                    134,
+                    135,
+                    136,
+                    137,
+                    138,
+                    139,
+                    140,
+                    141
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 144,
+                        "charBegin": 957,
+                        "charEnd": 964,
+                        "end": 145
+                    }
+                ],
+                "text": "Gabriel",
+                "tokenIds": [
+                    144
+                ]
+            },
+            "type": "Direct"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 5,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 150,
+                        "charBegin": 992,
+                        "charEnd": 1134,
+                        "end": 173
+                    }
+                ],
+                "text": "Für die SPD wäre etwa der frühere Umweltminister Klaus Töpfer ein Kandidat gewesen, der auch von den Sozialdemokraten unterstützt worden wäre.",
+                "tokenIds": [
+                    150,
+                    151,
+                    152,
+                    153,
+                    154,
+                    155,
+                    156,
+                    157,
+                    158,
+                    159,
+                    160,
+                    161,
+                    162,
+                    163,
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    169,
+                    170,
+                    171,
+                    172
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 144,
+                        "charBegin": 957,
+                        "charEnd": 964,
+                        "end": 145
+                    }
+                ],
+                "text": "Gabriel",
+                "tokenIds": [
+                    144
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 197,
+                        "charBegin": 1321,
+                        "charEnd": 1325,
+                        "end": 198
+                    }
+                ],
+                "text": "Nach",
+                "tokenIds": [
+                    197
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 197,
+                        "charBegin": 1321,
+                        "charEnd": 1371,
+                        "end": 205
+                    }
+                ],
+                "text": "Nach Berichten der „Mitteldeutsche Zeitung“ jedoch",
+                "tokenIds": [
+                    197,
+                    198,
+                    199,
+                    200,
+                    201,
+                    202,
+                    203,
+                    204
+                ]
+            },
+            "hasNested": false,
+            "id": 6,
+            "isNested": false,
+            "medium": "Writing",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 205,
+                        "charBegin": 1372,
+                        "charEnd": 1589,
+                        "end": 229
+                    }
+                ],
+                "text": "haben sich Baden-Württembergs Ministerpräsident Stefan Mappus und der scheidende hessische Ministerpräsident Roland Koch sich gegen die Tochter des früheren niedersächsischen Ministerpräsidenten Ernst Albrecht gewandt",
+                "tokenIds": [
+                    205,
+                    206,
+                    207,
+                    208,
+                    209,
+                    210,
+                    211,
+                    212,
+                    213,
+                    214,
+                    215,
+                    216,
+                    217,
+                    218,
+                    219,
+                    220,
+                    221,
+                    222,
+                    223,
+                    224,
+                    225,
+                    226,
+                    227,
+                    228
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 198,
+                        "charBegin": 1326,
+                        "charEnd": 1364,
+                        "end": 204
+                    }
+                ],
+                "text": "Berichten der „Mitteldeutsche Zeitung“",
+                "tokenIds": [
+                    198,
+                    199,
+                    200,
+                    201,
+                    202,
+                    203
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 7,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 235,
+                        "charBegin": 1632,
+                        "charEnd": 1770,
+                        "end": 255
+                    }
+                ],
+                "text": "Vielmehr habe sich Merkel bereits unmittelbar nach Köhlers Rücktritt für Wulff entschieden, dieser habe sich jedoch Bedenkzeit auserbeten.",
+                "tokenIds": [
+                    235,
+                    236,
+                    237,
+                    238,
+                    239,
+                    240,
+                    241,
+                    242,
+                    243,
+                    244,
+                    245,
+                    246,
+                    247,
+                    248,
+                    249,
+                    250,
+                    251,
+                    252,
+                    253,
+                    254
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 230,
+                        "charBegin": 1591,
+                        "charEnd": 1601,
+                        "end": 231
+                    }
+                ],
+                "text": "CDU-Kreise",
+                "tokenIds": [
+                    230
+                ]
+            },
+            "type": "IndirectFreeIndirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "hasNested": false,
+            "id": 8,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 270,
+                        "charBegin": 1854,
+                        "charEnd": 1954,
+                        "end": 279
+                    }
+                ],
+                "text": "FDP-Fraktionsvizevorsitzender Jürgen Koppelin bezeichnete die 52-Jährige zwar als durchsetzungsfähig",
+                "tokenIds": [
+                    270,
+                    271,
+                    272,
+                    273,
+                    274,
+                    275,
+                    276,
+                    277,
+                    278
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 270,
+                        "charBegin": 1854,
+                        "charEnd": 1899,
+                        "end": 273
+                    }
+                ],
+                "text": "FDP-Fraktionsvizevorsitzender Jürgen Koppelin",
+                "tokenIds": [
+                    270,
+                    271,
+                    272
+                ]
+            },
+            "type": "Reported"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 270,
+                        "charBegin": 1854,
+                        "charEnd": 1955,
+                        "end": 280
+                    }
+                ],
+                "text": "FDP-Fraktionsvizevorsitzender Jürgen Koppelin bezeichnete die 52-Jährige zwar als durchsetzungsfähig,",
+                "tokenIds": [
+                    270,
+                    271,
+                    272,
+                    273,
+                    274,
+                    275,
+                    276,
+                    277,
+                    278,
+                    279
+                ]
+            },
+            "hasNested": false,
+            "id": 9,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 280,
+                        "charBegin": 1956,
+                        "charEnd": 2099,
+                        "end": 303
+                    }
+                ],
+                "text": "aber von der Leyen sei vor allem in der jüngeren Generation wegen ihrer Internetzensurpläne in ihrer Zeit als Familienministerin  ein „Antityp“",
+                "tokenIds": [
+                    280,
+                    281,
+                    282,
+                    283,
+                    284,
+                    285,
+                    286,
+                    287,
+                    288,
+                    289,
+                    290,
+                    291,
+                    292,
+                    293,
+                    294,
+                    295,
+                    296,
+                    297,
+                    298,
+                    299,
+                    300,
+                    301,
+                    302
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 270,
+                        "charBegin": 1854,
+                        "charEnd": 1899,
+                        "end": 273
+                    }
+                ],
+                "text": "FDP-Fraktionsvizevorsitzender Jürgen Koppelin",
+                "tokenIds": [
+                    270,
+                    271,
+                    272
+                ]
+            },
+            "type": "Indirect"
+        },
+        {
+            "addressee": {
+                "spans": [],
+                "text": "",
+                "tokenIds": []
+            },
+            "cue": {
+                "spans": [
+                    {
+                        "begin": 389,
+                        "charBegin": 2622,
+                        "charEnd": 2625,
+                        "end": 390
+                    },
+                    {
+                        "begin": 391,
+                        "charBegin": 2631,
+                        "charEnd": 2642,
+                        "end": 392
+                    }
+                ],
+                "text": "hat angekündigt",
+                "tokenIds": [
+                    389,
+                    391
+                ]
+            },
+            "frame": {
+                "spans": [
+                    {
+                        "begin": 388,
+                        "charBegin": 2618,
+                        "charEnd": 2643,
+                        "end": 393
+                    }
+                ],
+                "text": "Sie hat aber angekündigt,",
+                "tokenIds": [
+                    388,
+                    389,
+                    390,
+                    391,
+                    392
+                ]
+            },
+            "hasNested": false,
+            "id": 10,
+            "isNested": false,
+            "medium": "SW",
+            "quote": {
+                "spans": [
+                    {
+                        "begin": 393,
+                        "charBegin": 2644,
+                        "charEnd": 2689,
+                        "end": 400
+                    }
+                ],
+                "text": "weder Wulff noch Gauck unterstützen zu wollen",
+                "tokenIds": [
+                    393,
+                    394,
+                    395,
+                    396,
+                    397,
+                    398,
+                    399
+                ]
+            },
+            "speaker": {
+                "spans": [
+                    {
+                        "begin": 388,
+                        "charBegin": 2618,
+                        "charEnd": 2621,
+                        "end": 389
+                    }
+                ],
+                "text": "Sie",
+                "tokenIds": [
+                    388
+                ]
+            },
+            "type": "Indirect"
+        }
+    ],
+    "documentName": "62849 - Köhler-Nachfolge: Kandidaten von Schwarz-Gelb und Rot-Grün stehen fest (2010-06-05)",
+    "originalText": "Die schwarz-gelbe Koalition hat sich darauf verständigt, bei der Bundesversammlung am 30. Juni den bisherigen niedersächsischen Ministerpräsidenten Christian Wulff (CDU) vorzuschlagen. Bundeskanzlerin Angela Merkel bezeichnete Wulff am Donnerstag, den 3. Juni, in Berlin als „einen wunderbaren zukünftigen Präsidenten“, Vizekanzler Guido Westerwelle strich Wulffs „klaren inneren Kompass“ hervor.\n\nAls Gegenkandidat haben SPD und Grüne\/Bündnis 90 gemeinsam den parteilosen früheren Präsidenten der Stasi-Unterlagen-Behörde Joachim Gauck aufgestellt. SPD und Grüne hatten Gauck der Bundeskanzlerin als parteiübergreifenden Kandidaten vorgeschlagen. Doch die Kanzlerin lehnte ab. SPD-Vorsitzender Siegmar Gabriel kritisierte, die Kanzlerin habe sich für eine parteipolitische Lösung entschieden. „Wir haben gesagt, wir nehmen auch einen von der CDU, aber doch bitte nicht jemanden, der nur dazu dient, das parteipolitische Interesse zu befriedigen“, erklärte Gabriel im heute-journal des ZDFs. Für die SPD wäre etwa der frühere Umweltminister Klaus Töpfer ein Kandidat gewesen, der auch von den Sozialdemokraten unterstützt worden wäre.\n\nEigentlich galt Arbeitsministerin Ursula von der Leyen als Favoritin, auch Finanzminister Wolfgang Schäuble und Bundestagspräsident Norbert Lammert waren ins Gespräch gebracht worden.  Nach Berichten der „Mitteldeutsche Zeitung“ jedoch haben sich Baden-Württembergs Ministerpräsident Stefan Mappus und der scheidende hessische Ministerpräsident Roland Koch sich gegen die Tochter des früheren niedersächsischen Ministerpräsidenten Ernst Albrecht gewandt. CDU-Kreise verneinten diese Darstellung. Vielmehr habe sich Merkel bereits unmittelbar nach Köhlers Rücktritt für Wulff entschieden, dieser habe sich jedoch Bedenkzeit auserbeten.\n\nDoch auch die FDP war mit einer Kandidatur Ursula von der Leyens nicht glücklich. FDP-Fraktionsvizevorsitzender Jürgen Koppelin bezeichnete die 52-Jährige zwar als durchsetzungsfähig, aber von der Leyen sei vor allem in der jüngeren Generation wegen ihrer Internetzensurpläne in ihrer Zeit als Familienministerin  ein „Antityp“.\n\nDen evangelischen Theologen Gauck, der bei der Wahl am 30. Juni gegen Wulff antreten soll, hatte der Fraktionsvorsitzende von Grüne\/Bündnis 90, Jürgen Trittin, ins Gespräch gebracht. Wulff ist katholisch und wäre erst der zweite Katholik im höchsten deutschen Staatsamt.\n\nAnhand der Mehrheitenverteilung in der Bundesversammlung ist die Wahl Wulffs wahrscheinlich, da CDU\/CSU und FDP über eine Mehrheit von 21 Mitgliedern verfügen.\n\nOb die Linkspartei einen eigenen Kandidaten vorschlägt, ist bislang nicht bekannt. Sie hat aber angekündigt, weder Wulff noch Gauck unterstützen zu wollen.\n\nDie Nachfolge Wulffs in Ministerpräsident könnte der 39-Jährige David McAllister werden. Dieser ist bislang CDU-Fraktionsvorsitzender in niedersächsischen Landtag.",
+    "sentences": [
+        {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 184,
+            "end": 25,
+            "id": 0,
+            "text": "Die schwarz-gelbe Koalition hat sich darauf verständigt, bei der Bundesversammlung am 30. Juni den bisherigen niedersächsischen Ministerpräsidenten Christian Wulff (CDU) vorzuschlagen. ",
+            "tokenIds": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24
+            ],
+            "tokens": [
+                "Die",
+                "schwarz-gelbe",
+                "Koalition",
+                "hat",
+                "sich",
+                "darauf",
+                "verständigt",
+                ",",
+                "bei",
+                "der",
+                "Bundesversammlung",
+                "am",
+                "30.",
+                "Juni",
+                "den",
+                "bisherigen",
+                "niedersächsischen",
+                "Ministerpräsidenten",
+                "Christian",
+                "Wulff",
+                "(",
+                "CDU",
+                ")",
+                "vorzuschlagen",
+                "."
+            ]
+        },
+        {
+            "begin": 25,
+            "charBegin": 185,
+            "charEnd": 396,
+            "end": 59,
+            "id": 1,
+            "text": "Bundeskanzlerin Angela Merkel bezeichnete Wulff am Donnerstag, den 3. Juni, in Berlin als „einen wunderbaren zukünftigen Präsidenten“, Vizekanzler Guido Westerwelle strich Wulffs „klaren inneren Kompass“ hervor.",
+            "tokenIds": [
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58
+            ],
+            "tokens": [
+                "Bundeskanzlerin",
+                "Angela",
+                "Merkel",
+                "bezeichnete",
+                "Wulff",
+                "am",
+                "Donnerstag",
+                ",",
+                "den",
+                "3.",
+                "Juni",
+                ",",
+                "in",
+                "Berlin",
+                "als",
+                "„",
+                "einen",
+                "wunderbaren",
+                "zukünftigen",
+                "Präsidenten",
+                "“",
+                ",",
+                "Vizekanzler",
+                "Guido",
+                "Westerwelle",
+                "strich",
+                "Wulffs",
+                "„",
+                "klaren",
+                "inneren",
+                "Kompass",
+                "“",
+                "hervor",
+                "."
+            ]
+        },
+        {
+            "begin": 59,
+            "charBegin": 398,
+            "charEnd": 549,
+            "end": 79,
+            "id": 2,
+            "text": "Als Gegenkandidat haben SPD und Grüne\/Bündnis 90 gemeinsam den parteilosen früheren Präsidenten der Stasi-Unterlagen-Behörde Joachim Gauck aufgestellt. ",
+            "tokenIds": [
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78
+            ],
+            "tokens": [
+                "Als",
+                "Gegenkandidat",
+                "haben",
+                "SPD",
+                "und",
+                "Grüne",
+                "\/",
+                "Bündnis",
+                "90",
+                "gemeinsam",
+                "den",
+                "parteilosen",
+                "früheren",
+                "Präsidenten",
+                "der",
+                "Stasi-Unterlagen-Behörde",
+                "Joachim",
+                "Gauck",
+                "aufgestellt",
+                "."
+            ]
+        },
+        {
+            "begin": 79,
+            "charBegin": 550,
+            "charEnd": 647,
+            "end": 91,
+            "id": 3,
+            "text": "SPD und Grüne hatten Gauck der Bundeskanzlerin als parteiübergreifenden Kandidaten vorgeschlagen. ",
+            "tokenIds": [
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90
+            ],
+            "tokens": [
+                "SPD",
+                "und",
+                "Grüne",
+                "hatten",
+                "Gauck",
+                "der",
+                "Bundeskanzlerin",
+                "als",
+                "parteiübergreifenden",
+                "Kandidaten",
+                "vorgeschlagen",
+                "."
+            ]
+        },
+        {
+            "begin": 91,
+            "charBegin": 648,
+            "charEnd": 677,
+            "end": 97,
+            "id": 4,
+            "text": "Doch die Kanzlerin lehnte ab. ",
+            "tokenIds": [
+                91,
+                92,
+                93,
+                94,
+                95,
+                96
+            ],
+            "tokens": [
+                "Doch",
+                "die",
+                "Kanzlerin",
+                "lehnte",
+                "ab",
+                "."
+            ]
+        },
+        {
+            "begin": 97,
+            "charBegin": 678,
+            "charEnd": 793,
+            "end": 112,
+            "id": 5,
+            "text": "SPD-Vorsitzender Siegmar Gabriel kritisierte, die Kanzlerin habe sich für eine parteipolitische Lösung entschieden. ",
+            "tokenIds": [
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111
+            ],
+            "tokens": [
+                "SPD-Vorsitzender",
+                "Siegmar",
+                "Gabriel",
+                "kritisierte",
+                ",",
+                "die",
+                "Kanzlerin",
+                "habe",
+                "sich",
+                "für",
+                "eine",
+                "parteipolitische",
+                "Lösung",
+                "entschieden",
+                "."
+            ]
+        },
+        {
+            "begin": 112,
+            "charBegin": 794,
+            "charEnd": 991,
+            "end": 150,
+            "id": 6,
+            "text": "„Wir haben gesagt, wir nehmen auch einen von der CDU, aber doch bitte nicht jemanden, der nur dazu dient, das parteipolitische Interesse zu befriedigen“, erklärte Gabriel im heute-journal des ZDFs. ",
+            "tokenIds": [
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149
+            ],
+            "tokens": [
+                "„",
+                "Wir",
+                "haben",
+                "gesagt",
+                ",",
+                "wir",
+                "nehmen",
+                "auch",
+                "einen",
+                "von",
+                "der",
+                "CDU",
+                ",",
+                "aber",
+                "doch",
+                "bitte",
+                "nicht",
+                "jemanden",
+                ",",
+                "der",
+                "nur",
+                "dazu",
+                "dient",
+                ",",
+                "das",
+                "parteipolitische",
+                "Interesse",
+                "zu",
+                "befriedigen",
+                "“",
+                ",",
+                "erklärte",
+                "Gabriel",
+                "im",
+                "heute-journal",
+                "des",
+                "ZDFs",
+                "."
+            ]
+        },
+        {
+            "begin": 150,
+            "charBegin": 992,
+            "charEnd": 1134,
+            "end": 173,
+            "id": 7,
+            "text": "Für die SPD wäre etwa der frühere Umweltminister Klaus Töpfer ein Kandidat gewesen, der auch von den Sozialdemokraten unterstützt worden wäre.",
+            "tokenIds": [
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172
+            ],
+            "tokens": [
+                "Für",
+                "die",
+                "SPD",
+                "wäre",
+                "etwa",
+                "der",
+                "frühere",
+                "Umweltminister",
+                "Klaus",
+                "Töpfer",
+                "ein",
+                "Kandidat",
+                "gewesen",
+                ",",
+                "der",
+                "auch",
+                "von",
+                "den",
+                "Sozialdemokraten",
+                "unterstützt",
+                "worden",
+                "wäre",
+                "."
+            ]
+        },
+        {
+            "begin": 173,
+            "charBegin": 1136,
+            "charEnd": 1319,
+            "end": 197,
+            "id": 8,
+            "text": "Eigentlich galt Arbeitsministerin Ursula von der Leyen als Favoritin, auch Finanzminister Wolfgang Schäuble und Bundestagspräsident Norbert Lammert waren ins Gespräch gebracht worden.  ",
+            "tokenIds": [
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196
+            ],
+            "tokens": [
+                "Eigentlich",
+                "galt",
+                "Arbeitsministerin",
+                "Ursula",
+                "von",
+                "der",
+                "Leyen",
+                "als",
+                "Favoritin",
+                ",",
+                "auch",
+                "Finanzminister",
+                "Wolfgang",
+                "Schäuble",
+                "und",
+                "Bundestagspräsident",
+                "Norbert",
+                "Lammert",
+                "waren",
+                "ins",
+                "Gespräch",
+                "gebracht",
+                "worden",
+                "."
+            ]
+        },
+        {
+            "begin": 197,
+            "charBegin": 1321,
+            "charEnd": 1590,
+            "end": 230,
+            "id": 9,
+            "text": "Nach Berichten der „Mitteldeutsche Zeitung“ jedoch haben sich Baden-Württembergs Ministerpräsident Stefan Mappus und der scheidende hessische Ministerpräsident Roland Koch sich gegen die Tochter des früheren niedersächsischen Ministerpräsidenten Ernst Albrecht gewandt. ",
+            "tokenIds": [
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229
+            ],
+            "tokens": [
+                "Nach",
+                "Berichten",
+                "der",
+                "„",
+                "Mitteldeutsche",
+                "Zeitung",
+                "“",
+                "jedoch",
+                "haben",
+                "sich",
+                "Baden-Württembergs",
+                "Ministerpräsident",
+                "Stefan",
+                "Mappus",
+                "und",
+                "der",
+                "scheidende",
+                "hessische",
+                "Ministerpräsident",
+                "Roland",
+                "Koch",
+                "sich",
+                "gegen",
+                "die",
+                "Tochter",
+                "des",
+                "früheren",
+                "niedersächsischen",
+                "Ministerpräsidenten",
+                "Ernst",
+                "Albrecht",
+                "gewandt",
+                "."
+            ]
+        },
+        {
+            "begin": 230,
+            "charBegin": 1591,
+            "charEnd": 1631,
+            "end": 235,
+            "id": 10,
+            "text": "CDU-Kreise verneinten diese Darstellung. ",
+            "tokenIds": [
+                230,
+                231,
+                232,
+                233,
+                234
+            ],
+            "tokens": [
+                "CDU-Kreise",
+                "verneinten",
+                "diese",
+                "Darstellung",
+                "."
+            ]
+        },
+        {
+            "begin": 235,
+            "charBegin": 1632,
+            "charEnd": 1770,
+            "end": 255,
+            "id": 11,
+            "text": "Vielmehr habe sich Merkel bereits unmittelbar nach Köhlers Rücktritt für Wulff entschieden, dieser habe sich jedoch Bedenkzeit auserbeten.",
+            "tokenIds": [
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254
+            ],
+            "tokens": [
+                "Vielmehr",
+                "habe",
+                "sich",
+                "Merkel",
+                "bereits",
+                "unmittelbar",
+                "nach",
+                "Köhlers",
+                "Rücktritt",
+                "für",
+                "Wulff",
+                "entschieden",
+                ",",
+                "dieser",
+                "habe",
+                "sich",
+                "jedoch",
+                "Bedenkzeit",
+                "auserbeten",
+                "."
+            ]
+        },
+        {
+            "begin": 255,
+            "charBegin": 1772,
+            "charEnd": 1853,
+            "end": 270,
+            "id": 12,
+            "text": "Doch auch die FDP war mit einer Kandidatur Ursula von der Leyens nicht glücklich. ",
+            "tokenIds": [
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269
+            ],
+            "tokens": [
+                "Doch",
+                "auch",
+                "die",
+                "FDP",
+                "war",
+                "mit",
+                "einer",
+                "Kandidatur",
+                "Ursula",
+                "von",
+                "der",
+                "Leyens",
+                "nicht",
+                "glücklich",
+                "."
+            ]
+        },
+        {
+            "begin": 270,
+            "charBegin": 1854,
+            "charEnd": 2100,
+            "end": 304,
+            "id": 13,
+            "text": "FDP-Fraktionsvizevorsitzender Jürgen Koppelin bezeichnete die 52-Jährige zwar als durchsetzungsfähig, aber von der Leyen sei vor allem in der jüngeren Generation wegen ihrer Internetzensurpläne in ihrer Zeit als Familienministerin  ein „Antityp“.",
+            "tokenIds": [
+                270,
+                271,
+                272,
+                273,
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292,
+                293,
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303
+            ],
+            "tokens": [
+                "FDP-Fraktionsvizevorsitzender",
+                "Jürgen",
+                "Koppelin",
+                "bezeichnete",
+                "die",
+                "52-Jährige",
+                "zwar",
+                "als",
+                "durchsetzungsfähig",
+                ",",
+                "aber",
+                "von",
+                "der",
+                "Leyen",
+                "sei",
+                "vor",
+                "allem",
+                "in",
+                "der",
+                "jüngeren",
+                "Generation",
+                "wegen",
+                "ihrer",
+                "Internetzensurpläne",
+                "in",
+                "ihrer",
+                "Zeit",
+                "als",
+                "Familienministerin",
+                "ein",
+                "„",
+                "Antityp",
+                "“",
+                "."
+            ]
+        },
+        {
+            "begin": 304,
+            "charBegin": 2102,
+            "charEnd": 2284,
+            "end": 337,
+            "id": 14,
+            "text": "Den evangelischen Theologen Gauck, der bei der Wahl am 30. Juni gegen Wulff antreten soll, hatte der Fraktionsvorsitzende von Grüne\/Bündnis 90, Jürgen Trittin, ins Gespräch gebracht. ",
+            "tokenIds": [
+                304,
+                305,
+                306,
+                307,
+                308,
+                309,
+                310,
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322,
+                323,
+                324,
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332,
+                333,
+                334,
+                335,
+                336
+            ],
+            "tokens": [
+                "Den",
+                "evangelischen",
+                "Theologen",
+                "Gauck",
+                ",",
+                "der",
+                "bei",
+                "der",
+                "Wahl",
+                "am",
+                "30.",
+                "Juni",
+                "gegen",
+                "Wulff",
+                "antreten",
+                "soll",
+                ",",
+                "hatte",
+                "der",
+                "Fraktionsvorsitzende",
+                "von",
+                "Grüne",
+                "\/",
+                "Bündnis",
+                "90",
+                ",",
+                "Jürgen",
+                "Trittin",
+                ",",
+                "ins",
+                "Gespräch",
+                "gebracht",
+                "."
+            ]
+        },
+        {
+            "begin": 337,
+            "charBegin": 2285,
+            "charEnd": 2372,
+            "end": 351,
+            "id": 15,
+            "text": "Wulff ist katholisch und wäre erst der zweite Katholik im höchsten deutschen Staatsamt.",
+            "tokenIds": [
+                337,
+                338,
+                339,
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346,
+                347,
+                348,
+                349,
+                350
+            ],
+            "tokens": [
+                "Wulff",
+                "ist",
+                "katholisch",
+                "und",
+                "wäre",
+                "erst",
+                "der",
+                "zweite",
+                "Katholik",
+                "im",
+                "höchsten",
+                "deutschen",
+                "Staatsamt",
+                "."
+            ]
+        },
+        {
+            "begin": 351,
+            "charBegin": 2374,
+            "charEnd": 2533,
+            "end": 375,
+            "id": 16,
+            "text": "Anhand der Mehrheitenverteilung in der Bundesversammlung ist die Wahl Wulffs wahrscheinlich, da CDU\/CSU und FDP über eine Mehrheit von 21 Mitgliedern verfügen.",
+            "tokenIds": [
+                351,
+                352,
+                353,
+                354,
+                355,
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365,
+                366,
+                367,
+                368,
+                369,
+                370,
+                371,
+                372,
+                373,
+                374
+            ],
+            "tokens": [
+                "Anhand",
+                "der",
+                "Mehrheitenverteilung",
+                "in",
+                "der",
+                "Bundesversammlung",
+                "ist",
+                "die",
+                "Wahl",
+                "Wulffs",
+                "wahrscheinlich",
+                ",",
+                "da",
+                "CDU\/CSU",
+                "und",
+                "FDP",
+                "über",
+                "eine",
+                "Mehrheit",
+                "von",
+                "21",
+                "Mitgliedern",
+                "verfügen",
+                "."
+            ]
+        },
+        {
+            "begin": 375,
+            "charBegin": 2535,
+            "charEnd": 2617,
+            "end": 388,
+            "id": 17,
+            "text": "Ob die Linkspartei einen eigenen Kandidaten vorschlägt, ist bislang nicht bekannt. ",
+            "tokenIds": [
+                375,
+                376,
+                377,
+                378,
+                379,
+                380,
+                381,
+                382,
+                383,
+                384,
+                385,
+                386,
+                387
+            ],
+            "tokens": [
+                "Ob",
+                "die",
+                "Linkspartei",
+                "einen",
+                "eigenen",
+                "Kandidaten",
+                "vorschlägt",
+                ",",
+                "ist",
+                "bislang",
+                "nicht",
+                "bekannt",
+                "."
+            ]
+        },
+        {
+            "begin": 388,
+            "charBegin": 2618,
+            "charEnd": 2690,
+            "end": 401,
+            "id": 18,
+            "text": "Sie hat aber angekündigt, weder Wulff noch Gauck unterstützen zu wollen.",
+            "tokenIds": [
+                388,
+                389,
+                390,
+                391,
+                392,
+                393,
+                394,
+                395,
+                396,
+                397,
+                398,
+                399,
+                400
+            ],
+            "tokens": [
+                "Sie",
+                "hat",
+                "aber",
+                "angekündigt",
+                ",",
+                "weder",
+                "Wulff",
+                "noch",
+                "Gauck",
+                "unterstützen",
+                "zu",
+                "wollen",
+                "."
+            ]
+        },
+        {
+            "begin": 401,
+            "charBegin": 2692,
+            "charEnd": 2780,
+            "end": 413,
+            "id": 19,
+            "text": "Die Nachfolge Wulffs in Ministerpräsident könnte der 39-Jährige David McAllister werden. ",
+            "tokenIds": [
+                401,
+                402,
+                403,
+                404,
+                405,
+                406,
+                407,
+                408,
+                409,
+                410,
+                411,
+                412
+            ],
+            "tokens": [
+                "Die",
+                "Nachfolge",
+                "Wulffs",
+                "in",
+                "Ministerpräsident",
+                "könnte",
+                "der",
+                "39-Jährige",
+                "David",
+                "McAllister",
+                "werden",
+                "."
+            ]
+        },
+        {
+            "begin": 413,
+            "charBegin": 2781,
+            "charEnd": 2855,
+            "end": 421,
+            "id": 20,
+            "text": "Dieser ist bislang CDU-Fraktionsvorsitzender in niedersächsischen Landtag.",
+            "tokenIds": [
+                413,
+                414,
+                415,
+                416,
+                417,
+                418,
+                419,
+                420
+            ],
+            "tokens": [
+                "Dieser",
+                "ist",
+                "bislang",
+                "CDU-Fraktionsvorsitzender",
+                "in",
+                "niedersächsischen",
+                "Landtag",
+                "."
+            ]
+        }
+    ],
+    "tokens": [
+        {
+            "charBegin": 0,
+            "charEnd": 3,
+            "id": 0,
+            "sentence": 1,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 4,
+            "charEnd": 17,
+            "id": 1,
+            "sentence": 1,
+            "text": "schwarz-gelbe",
+            "word": 2
+        },
+        {
+            "charBegin": 18,
+            "charEnd": 27,
+            "id": 2,
+            "sentence": 1,
+            "text": "Koalition",
+            "word": 3
+        },
+        {
+            "charBegin": 28,
+            "charEnd": 31,
+            "id": 3,
+            "sentence": 1,
+            "text": "hat",
+            "word": 4
+        },
+        {
+            "charBegin": 32,
+            "charEnd": 36,
+            "id": 4,
+            "sentence": 1,
+            "text": "sich",
+            "word": 5
+        },
+        {
+            "charBegin": 37,
+            "charEnd": 43,
+            "id": 5,
+            "sentence": 1,
+            "text": "darauf",
+            "word": 6
+        },
+        {
+            "charBegin": 44,
+            "charEnd": 55,
+            "id": 6,
+            "sentence": 1,
+            "text": "verständigt",
+            "word": 7
+        },
+        {
+            "charBegin": 55,
+            "charEnd": 56,
+            "id": 7,
+            "sentence": 1,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 57,
+            "charEnd": 60,
+            "id": 8,
+            "sentence": 1,
+            "text": "bei",
+            "word": 9
+        },
+        {
+            "charBegin": 61,
+            "charEnd": 64,
+            "id": 9,
+            "sentence": 1,
+            "text": "der",
+            "word": 10
+        },
+        {
+            "charBegin": 65,
+            "charEnd": 82,
+            "id": 10,
+            "sentence": 1,
+            "text": "Bundesversammlung",
+            "word": 11
+        },
+        {
+            "charBegin": 83,
+            "charEnd": 85,
+            "id": 11,
+            "sentence": 1,
+            "text": "am",
+            "word": 12
+        },
+        {
+            "charBegin": 86,
+            "charEnd": 89,
+            "id": 12,
+            "sentence": 1,
+            "text": "30.",
+            "word": 13
+        },
+        {
+            "charBegin": 90,
+            "charEnd": 94,
+            "id": 13,
+            "sentence": 1,
+            "text": "Juni",
+            "word": 14
+        },
+        {
+            "charBegin": 95,
+            "charEnd": 98,
+            "id": 14,
+            "sentence": 1,
+            "text": "den",
+            "word": 15
+        },
+        {
+            "charBegin": 99,
+            "charEnd": 109,
+            "id": 15,
+            "sentence": 1,
+            "text": "bisherigen",
+            "word": 16
+        },
+        {
+            "charBegin": 110,
+            "charEnd": 127,
+            "id": 16,
+            "sentence": 1,
+            "text": "niedersächsischen",
+            "word": 17
+        },
+        {
+            "charBegin": 128,
+            "charEnd": 147,
+            "id": 17,
+            "sentence": 1,
+            "text": "Ministerpräsidenten",
+            "word": 18
+        },
+        {
+            "charBegin": 148,
+            "charEnd": 157,
+            "id": 18,
+            "sentence": 1,
+            "text": "Christian",
+            "word": 19
+        },
+        {
+            "charBegin": 158,
+            "charEnd": 163,
+            "id": 19,
+            "sentence": 1,
+            "text": "Wulff",
+            "word": 20
+        },
+        {
+            "charBegin": 164,
+            "charEnd": 165,
+            "id": 20,
+            "sentence": 1,
+            "text": "(",
+            "word": 21
+        },
+        {
+            "charBegin": 165,
+            "charEnd": 168,
+            "id": 21,
+            "sentence": 1,
+            "text": "CDU",
+            "word": 22
+        },
+        {
+            "charBegin": 168,
+            "charEnd": 169,
+            "id": 22,
+            "sentence": 1,
+            "text": ")",
+            "word": 23
+        },
+        {
+            "charBegin": 170,
+            "charEnd": 183,
+            "id": 23,
+            "sentence": 1,
+            "text": "vorzuschlagen",
+            "word": 24
+        },
+        {
+            "charBegin": 183,
+            "charEnd": 184,
+            "id": 24,
+            "sentence": 1,
+            "text": ".",
+            "word": 25
+        },
+        {
+            "charBegin": 185,
+            "charEnd": 200,
+            "id": 25,
+            "sentence": 2,
+            "text": "Bundeskanzlerin",
+            "word": 1
+        },
+        {
+            "charBegin": 201,
+            "charEnd": 207,
+            "id": 26,
+            "sentence": 2,
+            "text": "Angela",
+            "word": 2
+        },
+        {
+            "charBegin": 208,
+            "charEnd": 214,
+            "id": 27,
+            "sentence": 2,
+            "text": "Merkel",
+            "word": 3
+        },
+        {
+            "charBegin": 215,
+            "charEnd": 226,
+            "id": 28,
+            "sentence": 2,
+            "text": "bezeichnete",
+            "word": 4
+        },
+        {
+            "charBegin": 227,
+            "charEnd": 232,
+            "id": 29,
+            "sentence": 2,
+            "text": "Wulff",
+            "word": 5
+        },
+        {
+            "charBegin": 233,
+            "charEnd": 235,
+            "id": 30,
+            "sentence": 2,
+            "text": "am",
+            "word": 6
+        },
+        {
+            "charBegin": 236,
+            "charEnd": 246,
+            "id": 31,
+            "sentence": 2,
+            "text": "Donnerstag",
+            "word": 7
+        },
+        {
+            "charBegin": 246,
+            "charEnd": 247,
+            "id": 32,
+            "sentence": 2,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 248,
+            "charEnd": 251,
+            "id": 33,
+            "sentence": 2,
+            "text": "den",
+            "word": 9
+        },
+        {
+            "charBegin": 252,
+            "charEnd": 254,
+            "id": 34,
+            "sentence": 2,
+            "text": "3.",
+            "word": 10
+        },
+        {
+            "charBegin": 255,
+            "charEnd": 259,
+            "id": 35,
+            "sentence": 2,
+            "text": "Juni",
+            "word": 11
+        },
+        {
+            "charBegin": 259,
+            "charEnd": 260,
+            "id": 36,
+            "sentence": 2,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 261,
+            "charEnd": 263,
+            "id": 37,
+            "sentence": 2,
+            "text": "in",
+            "word": 13
+        },
+        {
+            "charBegin": 264,
+            "charEnd": 270,
+            "id": 38,
+            "sentence": 2,
+            "text": "Berlin",
+            "word": 14
+        },
+        {
+            "charBegin": 271,
+            "charEnd": 274,
+            "id": 39,
+            "sentence": 2,
+            "text": "als",
+            "word": 15
+        },
+        {
+            "charBegin": 275,
+            "charEnd": 276,
+            "id": 40,
+            "sentence": 2,
+            "text": "„",
+            "word": 16
+        },
+        {
+            "charBegin": 276,
+            "charEnd": 281,
+            "id": 41,
+            "sentence": 2,
+            "text": "einen",
+            "word": 17
+        },
+        {
+            "charBegin": 282,
+            "charEnd": 293,
+            "id": 42,
+            "sentence": 2,
+            "text": "wunderbaren",
+            "word": 18
+        },
+        {
+            "charBegin": 294,
+            "charEnd": 305,
+            "id": 43,
+            "sentence": 2,
+            "text": "zukünftigen",
+            "word": 19
+        },
+        {
+            "charBegin": 306,
+            "charEnd": 317,
+            "id": 44,
+            "sentence": 2,
+            "text": "Präsidenten",
+            "word": 20
+        },
+        {
+            "charBegin": 317,
+            "charEnd": 318,
+            "id": 45,
+            "sentence": 2,
+            "text": "“",
+            "word": 21
+        },
+        {
+            "charBegin": 318,
+            "charEnd": 319,
+            "id": 46,
+            "sentence": 2,
+            "text": ",",
+            "word": 22
+        },
+        {
+            "charBegin": 320,
+            "charEnd": 331,
+            "id": 47,
+            "sentence": 2,
+            "text": "Vizekanzler",
+            "word": 23
+        },
+        {
+            "charBegin": 332,
+            "charEnd": 337,
+            "id": 48,
+            "sentence": 2,
+            "text": "Guido",
+            "word": 24
+        },
+        {
+            "charBegin": 338,
+            "charEnd": 349,
+            "id": 49,
+            "sentence": 2,
+            "text": "Westerwelle",
+            "word": 25
+        },
+        {
+            "charBegin": 350,
+            "charEnd": 356,
+            "id": 50,
+            "sentence": 2,
+            "text": "strich",
+            "word": 26
+        },
+        {
+            "charBegin": 357,
+            "charEnd": 363,
+            "id": 51,
+            "sentence": 2,
+            "text": "Wulffs",
+            "word": 27
+        },
+        {
+            "charBegin": 364,
+            "charEnd": 365,
+            "id": 52,
+            "sentence": 2,
+            "text": "„",
+            "word": 28
+        },
+        {
+            "charBegin": 365,
+            "charEnd": 371,
+            "id": 53,
+            "sentence": 2,
+            "text": "klaren",
+            "word": 29
+        },
+        {
+            "charBegin": 372,
+            "charEnd": 379,
+            "id": 54,
+            "sentence": 2,
+            "text": "inneren",
+            "word": 30
+        },
+        {
+            "charBegin": 380,
+            "charEnd": 387,
+            "id": 55,
+            "sentence": 2,
+            "text": "Kompass",
+            "word": 31
+        },
+        {
+            "charBegin": 387,
+            "charEnd": 388,
+            "id": 56,
+            "sentence": 2,
+            "text": "“",
+            "word": 32
+        },
+        {
+            "charBegin": 389,
+            "charEnd": 395,
+            "id": 57,
+            "sentence": 2,
+            "text": "hervor",
+            "word": 33
+        },
+        {
+            "charBegin": 395,
+            "charEnd": 396,
+            "id": 58,
+            "sentence": 2,
+            "text": ".",
+            "word": 34
+        },
+        {
+            "charBegin": 398,
+            "charEnd": 401,
+            "id": 59,
+            "sentence": 3,
+            "text": "Als",
+            "word": 1
+        },
+        {
+            "charBegin": 402,
+            "charEnd": 415,
+            "id": 60,
+            "sentence": 3,
+            "text": "Gegenkandidat",
+            "word": 2
+        },
+        {
+            "charBegin": 416,
+            "charEnd": 421,
+            "id": 61,
+            "sentence": 3,
+            "text": "haben",
+            "word": 3
+        },
+        {
+            "charBegin": 422,
+            "charEnd": 425,
+            "id": 62,
+            "sentence": 3,
+            "text": "SPD",
+            "word": 4
+        },
+        {
+            "charBegin": 426,
+            "charEnd": 429,
+            "id": 63,
+            "sentence": 3,
+            "text": "und",
+            "word": 5
+        },
+        {
+            "charBegin": 430,
+            "charEnd": 435,
+            "id": 64,
+            "sentence": 3,
+            "text": "Grüne",
+            "word": 6
+        },
+        {
+            "charBegin": 435,
+            "charEnd": 436,
+            "id": 65,
+            "sentence": 3,
+            "text": "\/",
+            "word": 7
+        },
+        {
+            "charBegin": 436,
+            "charEnd": 443,
+            "id": 66,
+            "sentence": 3,
+            "text": "Bündnis",
+            "word": 8
+        },
+        {
+            "charBegin": 444,
+            "charEnd": 446,
+            "id": 67,
+            "sentence": 3,
+            "text": "90",
+            "word": 9
+        },
+        {
+            "charBegin": 447,
+            "charEnd": 456,
+            "id": 68,
+            "sentence": 3,
+            "text": "gemeinsam",
+            "word": 10
+        },
+        {
+            "charBegin": 457,
+            "charEnd": 460,
+            "id": 69,
+            "sentence": 3,
+            "text": "den",
+            "word": 11
+        },
+        {
+            "charBegin": 461,
+            "charEnd": 472,
+            "id": 70,
+            "sentence": 3,
+            "text": "parteilosen",
+            "word": 12
+        },
+        {
+            "charBegin": 473,
+            "charEnd": 481,
+            "id": 71,
+            "sentence": 3,
+            "text": "früheren",
+            "word": 13
+        },
+        {
+            "charBegin": 482,
+            "charEnd": 493,
+            "id": 72,
+            "sentence": 3,
+            "text": "Präsidenten",
+            "word": 14
+        },
+        {
+            "charBegin": 494,
+            "charEnd": 497,
+            "id": 73,
+            "sentence": 3,
+            "text": "der",
+            "word": 15
+        },
+        {
+            "charBegin": 498,
+            "charEnd": 522,
+            "id": 74,
+            "sentence": 3,
+            "text": "Stasi-Unterlagen-Behörde",
+            "word": 16
+        },
+        {
+            "charBegin": 523,
+            "charEnd": 530,
+            "id": 75,
+            "sentence": 3,
+            "text": "Joachim",
+            "word": 17
+        },
+        {
+            "charBegin": 531,
+            "charEnd": 536,
+            "id": 76,
+            "sentence": 3,
+            "text": "Gauck",
+            "word": 18
+        },
+        {
+            "charBegin": 537,
+            "charEnd": 548,
+            "id": 77,
+            "sentence": 3,
+            "text": "aufgestellt",
+            "word": 19
+        },
+        {
+            "charBegin": 548,
+            "charEnd": 549,
+            "id": 78,
+            "sentence": 3,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 550,
+            "charEnd": 553,
+            "id": 79,
+            "sentence": 4,
+            "text": "SPD",
+            "word": 1
+        },
+        {
+            "charBegin": 554,
+            "charEnd": 557,
+            "id": 80,
+            "sentence": 4,
+            "text": "und",
+            "word": 2
+        },
+        {
+            "charBegin": 558,
+            "charEnd": 563,
+            "id": 81,
+            "sentence": 4,
+            "text": "Grüne",
+            "word": 3
+        },
+        {
+            "charBegin": 564,
+            "charEnd": 570,
+            "id": 82,
+            "sentence": 4,
+            "text": "hatten",
+            "word": 4
+        },
+        {
+            "charBegin": 571,
+            "charEnd": 576,
+            "id": 83,
+            "sentence": 4,
+            "text": "Gauck",
+            "word": 5
+        },
+        {
+            "charBegin": 577,
+            "charEnd": 580,
+            "id": 84,
+            "sentence": 4,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 581,
+            "charEnd": 596,
+            "id": 85,
+            "sentence": 4,
+            "text": "Bundeskanzlerin",
+            "word": 7
+        },
+        {
+            "charBegin": 597,
+            "charEnd": 600,
+            "id": 86,
+            "sentence": 4,
+            "text": "als",
+            "word": 8
+        },
+        {
+            "charBegin": 601,
+            "charEnd": 621,
+            "id": 87,
+            "sentence": 4,
+            "text": "parteiübergreifenden",
+            "word": 9
+        },
+        {
+            "charBegin": 622,
+            "charEnd": 632,
+            "id": 88,
+            "sentence": 4,
+            "text": "Kandidaten",
+            "word": 10
+        },
+        {
+            "charBegin": 633,
+            "charEnd": 646,
+            "id": 89,
+            "sentence": 4,
+            "text": "vorgeschlagen",
+            "word": 11
+        },
+        {
+            "charBegin": 646,
+            "charEnd": 647,
+            "id": 90,
+            "sentence": 4,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 648,
+            "charEnd": 652,
+            "id": 91,
+            "sentence": 5,
+            "text": "Doch",
+            "word": 1
+        },
+        {
+            "charBegin": 653,
+            "charEnd": 656,
+            "id": 92,
+            "sentence": 5,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 657,
+            "charEnd": 666,
+            "id": 93,
+            "sentence": 5,
+            "text": "Kanzlerin",
+            "word": 3
+        },
+        {
+            "charBegin": 667,
+            "charEnd": 673,
+            "id": 94,
+            "sentence": 5,
+            "text": "lehnte",
+            "word": 4
+        },
+        {
+            "charBegin": 674,
+            "charEnd": 676,
+            "id": 95,
+            "sentence": 5,
+            "text": "ab",
+            "word": 5
+        },
+        {
+            "charBegin": 676,
+            "charEnd": 677,
+            "id": 96,
+            "sentence": 5,
+            "text": ".",
+            "word": 6
+        },
+        {
+            "charBegin": 678,
+            "charEnd": 694,
+            "id": 97,
+            "sentence": 6,
+            "text": "SPD-Vorsitzender",
+            "word": 1
+        },
+        {
+            "charBegin": 695,
+            "charEnd": 702,
+            "id": 98,
+            "sentence": 6,
+            "text": "Siegmar",
+            "word": 2
+        },
+        {
+            "charBegin": 703,
+            "charEnd": 710,
+            "id": 99,
+            "sentence": 6,
+            "text": "Gabriel",
+            "word": 3
+        },
+        {
+            "charBegin": 711,
+            "charEnd": 722,
+            "id": 100,
+            "sentence": 6,
+            "text": "kritisierte",
+            "word": 4
+        },
+        {
+            "charBegin": 722,
+            "charEnd": 723,
+            "id": 101,
+            "sentence": 6,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 724,
+            "charEnd": 727,
+            "id": 102,
+            "sentence": 6,
+            "text": "die",
+            "word": 6
+        },
+        {
+            "charBegin": 728,
+            "charEnd": 737,
+            "id": 103,
+            "sentence": 6,
+            "text": "Kanzlerin",
+            "word": 7
+        },
+        {
+            "charBegin": 738,
+            "charEnd": 742,
+            "id": 104,
+            "sentence": 6,
+            "text": "habe",
+            "word": 8
+        },
+        {
+            "charBegin": 743,
+            "charEnd": 747,
+            "id": 105,
+            "sentence": 6,
+            "text": "sich",
+            "word": 9
+        },
+        {
+            "charBegin": 748,
+            "charEnd": 751,
+            "id": 106,
+            "sentence": 6,
+            "text": "für",
+            "word": 10
+        },
+        {
+            "charBegin": 752,
+            "charEnd": 756,
+            "id": 107,
+            "sentence": 6,
+            "text": "eine",
+            "word": 11
+        },
+        {
+            "charBegin": 757,
+            "charEnd": 773,
+            "id": 108,
+            "sentence": 6,
+            "text": "parteipolitische",
+            "word": 12
+        },
+        {
+            "charBegin": 774,
+            "charEnd": 780,
+            "id": 109,
+            "sentence": 6,
+            "text": "Lösung",
+            "word": 13
+        },
+        {
+            "charBegin": 781,
+            "charEnd": 792,
+            "id": 110,
+            "sentence": 6,
+            "text": "entschieden",
+            "word": 14
+        },
+        {
+            "charBegin": 792,
+            "charEnd": 793,
+            "id": 111,
+            "sentence": 6,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 794,
+            "charEnd": 795,
+            "id": 112,
+            "sentence": 7,
+            "text": "„",
+            "word": 1
+        },
+        {
+            "charBegin": 795,
+            "charEnd": 798,
+            "id": 113,
+            "sentence": 7,
+            "text": "Wir",
+            "word": 2
+        },
+        {
+            "charBegin": 799,
+            "charEnd": 804,
+            "id": 114,
+            "sentence": 7,
+            "text": "haben",
+            "word": 3
+        },
+        {
+            "charBegin": 805,
+            "charEnd": 811,
+            "id": 115,
+            "sentence": 7,
+            "text": "gesagt",
+            "word": 4
+        },
+        {
+            "charBegin": 811,
+            "charEnd": 812,
+            "id": 116,
+            "sentence": 7,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 813,
+            "charEnd": 816,
+            "id": 117,
+            "sentence": 7,
+            "text": "wir",
+            "word": 6
+        },
+        {
+            "charBegin": 817,
+            "charEnd": 823,
+            "id": 118,
+            "sentence": 7,
+            "text": "nehmen",
+            "word": 7
+        },
+        {
+            "charBegin": 824,
+            "charEnd": 828,
+            "id": 119,
+            "sentence": 7,
+            "text": "auch",
+            "word": 8
+        },
+        {
+            "charBegin": 829,
+            "charEnd": 834,
+            "id": 120,
+            "sentence": 7,
+            "text": "einen",
+            "word": 9
+        },
+        {
+            "charBegin": 835,
+            "charEnd": 838,
+            "id": 121,
+            "sentence": 7,
+            "text": "von",
+            "word": 10
+        },
+        {
+            "charBegin": 839,
+            "charEnd": 842,
+            "id": 122,
+            "sentence": 7,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 843,
+            "charEnd": 846,
+            "id": 123,
+            "sentence": 7,
+            "text": "CDU",
+            "word": 12
+        },
+        {
+            "charBegin": 846,
+            "charEnd": 847,
+            "id": 124,
+            "sentence": 7,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 848,
+            "charEnd": 852,
+            "id": 125,
+            "sentence": 7,
+            "text": "aber",
+            "word": 14
+        },
+        {
+            "charBegin": 853,
+            "charEnd": 857,
+            "id": 126,
+            "sentence": 7,
+            "text": "doch",
+            "word": 15
+        },
+        {
+            "charBegin": 858,
+            "charEnd": 863,
+            "id": 127,
+            "sentence": 7,
+            "text": "bitte",
+            "word": 16
+        },
+        {
+            "charBegin": 864,
+            "charEnd": 869,
+            "id": 128,
+            "sentence": 7,
+            "text": "nicht",
+            "word": 17
+        },
+        {
+            "charBegin": 870,
+            "charEnd": 878,
+            "id": 129,
+            "sentence": 7,
+            "text": "jemanden",
+            "word": 18
+        },
+        {
+            "charBegin": 878,
+            "charEnd": 879,
+            "id": 130,
+            "sentence": 7,
+            "text": ",",
+            "word": 19
+        },
+        {
+            "charBegin": 880,
+            "charEnd": 883,
+            "id": 131,
+            "sentence": 7,
+            "text": "der",
+            "word": 20
+        },
+        {
+            "charBegin": 884,
+            "charEnd": 887,
+            "id": 132,
+            "sentence": 7,
+            "text": "nur",
+            "word": 21
+        },
+        {
+            "charBegin": 888,
+            "charEnd": 892,
+            "id": 133,
+            "sentence": 7,
+            "text": "dazu",
+            "word": 22
+        },
+        {
+            "charBegin": 893,
+            "charEnd": 898,
+            "id": 134,
+            "sentence": 7,
+            "text": "dient",
+            "word": 23
+        },
+        {
+            "charBegin": 898,
+            "charEnd": 899,
+            "id": 135,
+            "sentence": 7,
+            "text": ",",
+            "word": 24
+        },
+        {
+            "charBegin": 900,
+            "charEnd": 903,
+            "id": 136,
+            "sentence": 7,
+            "text": "das",
+            "word": 25
+        },
+        {
+            "charBegin": 904,
+            "charEnd": 920,
+            "id": 137,
+            "sentence": 7,
+            "text": "parteipolitische",
+            "word": 26
+        },
+        {
+            "charBegin": 921,
+            "charEnd": 930,
+            "id": 138,
+            "sentence": 7,
+            "text": "Interesse",
+            "word": 27
+        },
+        {
+            "charBegin": 931,
+            "charEnd": 933,
+            "id": 139,
+            "sentence": 7,
+            "text": "zu",
+            "word": 28
+        },
+        {
+            "charBegin": 934,
+            "charEnd": 945,
+            "id": 140,
+            "sentence": 7,
+            "text": "befriedigen",
+            "word": 29
+        },
+        {
+            "charBegin": 945,
+            "charEnd": 946,
+            "id": 141,
+            "sentence": 7,
+            "text": "“",
+            "word": 30
+        },
+        {
+            "charBegin": 946,
+            "charEnd": 947,
+            "id": 142,
+            "sentence": 7,
+            "text": ",",
+            "word": 31
+        },
+        {
+            "charBegin": 948,
+            "charEnd": 956,
+            "id": 143,
+            "sentence": 7,
+            "text": "erklärte",
+            "word": 32
+        },
+        {
+            "charBegin": 957,
+            "charEnd": 964,
+            "id": 144,
+            "sentence": 7,
+            "text": "Gabriel",
+            "word": 33
+        },
+        {
+            "charBegin": 965,
+            "charEnd": 967,
+            "id": 145,
+            "sentence": 7,
+            "text": "im",
+            "word": 34
+        },
+        {
+            "charBegin": 968,
+            "charEnd": 981,
+            "id": 146,
+            "sentence": 7,
+            "text": "heute-journal",
+            "word": 35
+        },
+        {
+            "charBegin": 982,
+            "charEnd": 985,
+            "id": 147,
+            "sentence": 7,
+            "text": "des",
+            "word": 36
+        },
+        {
+            "charBegin": 986,
+            "charEnd": 990,
+            "id": 148,
+            "sentence": 7,
+            "text": "ZDFs",
+            "word": 37
+        },
+        {
+            "charBegin": 990,
+            "charEnd": 991,
+            "id": 149,
+            "sentence": 7,
+            "text": ".",
+            "word": 38
+        },
+        {
+            "charBegin": 992,
+            "charEnd": 995,
+            "id": 150,
+            "sentence": 8,
+            "text": "Für",
+            "word": 1
+        },
+        {
+            "charBegin": 996,
+            "charEnd": 999,
+            "id": 151,
+            "sentence": 8,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 1000,
+            "charEnd": 1003,
+            "id": 152,
+            "sentence": 8,
+            "text": "SPD",
+            "word": 3
+        },
+        {
+            "charBegin": 1004,
+            "charEnd": 1008,
+            "id": 153,
+            "sentence": 8,
+            "text": "wäre",
+            "word": 4
+        },
+        {
+            "charBegin": 1009,
+            "charEnd": 1013,
+            "id": 154,
+            "sentence": 8,
+            "text": "etwa",
+            "word": 5
+        },
+        {
+            "charBegin": 1014,
+            "charEnd": 1017,
+            "id": 155,
+            "sentence": 8,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 1018,
+            "charEnd": 1025,
+            "id": 156,
+            "sentence": 8,
+            "text": "frühere",
+            "word": 7
+        },
+        {
+            "charBegin": 1026,
+            "charEnd": 1040,
+            "id": 157,
+            "sentence": 8,
+            "text": "Umweltminister",
+            "word": 8
+        },
+        {
+            "charBegin": 1041,
+            "charEnd": 1046,
+            "id": 158,
+            "sentence": 8,
+            "text": "Klaus",
+            "word": 9
+        },
+        {
+            "charBegin": 1047,
+            "charEnd": 1053,
+            "id": 159,
+            "sentence": 8,
+            "text": "Töpfer",
+            "word": 10
+        },
+        {
+            "charBegin": 1054,
+            "charEnd": 1057,
+            "id": 160,
+            "sentence": 8,
+            "text": "ein",
+            "word": 11
+        },
+        {
+            "charBegin": 1058,
+            "charEnd": 1066,
+            "id": 161,
+            "sentence": 8,
+            "text": "Kandidat",
+            "word": 12
+        },
+        {
+            "charBegin": 1067,
+            "charEnd": 1074,
+            "id": 162,
+            "sentence": 8,
+            "text": "gewesen",
+            "word": 13
+        },
+        {
+            "charBegin": 1074,
+            "charEnd": 1075,
+            "id": 163,
+            "sentence": 8,
+            "text": ",",
+            "word": 14
+        },
+        {
+            "charBegin": 1076,
+            "charEnd": 1079,
+            "id": 164,
+            "sentence": 8,
+            "text": "der",
+            "word": 15
+        },
+        {
+            "charBegin": 1080,
+            "charEnd": 1084,
+            "id": 165,
+            "sentence": 8,
+            "text": "auch",
+            "word": 16
+        },
+        {
+            "charBegin": 1085,
+            "charEnd": 1088,
+            "id": 166,
+            "sentence": 8,
+            "text": "von",
+            "word": 17
+        },
+        {
+            "charBegin": 1089,
+            "charEnd": 1092,
+            "id": 167,
+            "sentence": 8,
+            "text": "den",
+            "word": 18
+        },
+        {
+            "charBegin": 1093,
+            "charEnd": 1109,
+            "id": 168,
+            "sentence": 8,
+            "text": "Sozialdemokraten",
+            "word": 19
+        },
+        {
+            "charBegin": 1110,
+            "charEnd": 1121,
+            "id": 169,
+            "sentence": 8,
+            "text": "unterstützt",
+            "word": 20
+        },
+        {
+            "charBegin": 1122,
+            "charEnd": 1128,
+            "id": 170,
+            "sentence": 8,
+            "text": "worden",
+            "word": 21
+        },
+        {
+            "charBegin": 1129,
+            "charEnd": 1133,
+            "id": 171,
+            "sentence": 8,
+            "text": "wäre",
+            "word": 22
+        },
+        {
+            "charBegin": 1133,
+            "charEnd": 1134,
+            "id": 172,
+            "sentence": 8,
+            "text": ".",
+            "word": 23
+        },
+        {
+            "charBegin": 1136,
+            "charEnd": 1146,
+            "id": 173,
+            "sentence": 9,
+            "text": "Eigentlich",
+            "word": 1
+        },
+        {
+            "charBegin": 1147,
+            "charEnd": 1151,
+            "id": 174,
+            "sentence": 9,
+            "text": "galt",
+            "word": 2
+        },
+        {
+            "charBegin": 1152,
+            "charEnd": 1169,
+            "id": 175,
+            "sentence": 9,
+            "text": "Arbeitsministerin",
+            "word": 3
+        },
+        {
+            "charBegin": 1170,
+            "charEnd": 1176,
+            "id": 176,
+            "sentence": 9,
+            "text": "Ursula",
+            "word": 4
+        },
+        {
+            "charBegin": 1177,
+            "charEnd": 1180,
+            "id": 177,
+            "sentence": 9,
+            "text": "von",
+            "word": 5
+        },
+        {
+            "charBegin": 1181,
+            "charEnd": 1184,
+            "id": 178,
+            "sentence": 9,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 1185,
+            "charEnd": 1190,
+            "id": 179,
+            "sentence": 9,
+            "text": "Leyen",
+            "word": 7
+        },
+        {
+            "charBegin": 1191,
+            "charEnd": 1194,
+            "id": 180,
+            "sentence": 9,
+            "text": "als",
+            "word": 8
+        },
+        {
+            "charBegin": 1195,
+            "charEnd": 1204,
+            "id": 181,
+            "sentence": 9,
+            "text": "Favoritin",
+            "word": 9
+        },
+        {
+            "charBegin": 1204,
+            "charEnd": 1205,
+            "id": 182,
+            "sentence": 9,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 1206,
+            "charEnd": 1210,
+            "id": 183,
+            "sentence": 9,
+            "text": "auch",
+            "word": 11
+        },
+        {
+            "charBegin": 1211,
+            "charEnd": 1225,
+            "id": 184,
+            "sentence": 9,
+            "text": "Finanzminister",
+            "word": 12
+        },
+        {
+            "charBegin": 1226,
+            "charEnd": 1234,
+            "id": 185,
+            "sentence": 9,
+            "text": "Wolfgang",
+            "word": 13
+        },
+        {
+            "charBegin": 1235,
+            "charEnd": 1243,
+            "id": 186,
+            "sentence": 9,
+            "text": "Schäuble",
+            "word": 14
+        },
+        {
+            "charBegin": 1244,
+            "charEnd": 1247,
+            "id": 187,
+            "sentence": 9,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 1248,
+            "charEnd": 1267,
+            "id": 188,
+            "sentence": 9,
+            "text": "Bundestagspräsident",
+            "word": 16
+        },
+        {
+            "charBegin": 1268,
+            "charEnd": 1275,
+            "id": 189,
+            "sentence": 9,
+            "text": "Norbert",
+            "word": 17
+        },
+        {
+            "charBegin": 1276,
+            "charEnd": 1283,
+            "id": 190,
+            "sentence": 9,
+            "text": "Lammert",
+            "word": 18
+        },
+        {
+            "charBegin": 1284,
+            "charEnd": 1289,
+            "id": 191,
+            "sentence": 9,
+            "text": "waren",
+            "word": 19
+        },
+        {
+            "charBegin": 1290,
+            "charEnd": 1293,
+            "id": 192,
+            "sentence": 9,
+            "text": "ins",
+            "word": 20
+        },
+        {
+            "charBegin": 1294,
+            "charEnd": 1302,
+            "id": 193,
+            "sentence": 9,
+            "text": "Gespräch",
+            "word": 21
+        },
+        {
+            "charBegin": 1303,
+            "charEnd": 1311,
+            "id": 194,
+            "sentence": 9,
+            "text": "gebracht",
+            "word": 22
+        },
+        {
+            "charBegin": 1312,
+            "charEnd": 1318,
+            "id": 195,
+            "sentence": 9,
+            "text": "worden",
+            "word": 23
+        },
+        {
+            "charBegin": 1318,
+            "charEnd": 1319,
+            "id": 196,
+            "sentence": 9,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 1321,
+            "charEnd": 1325,
+            "id": 197,
+            "sentence": 10,
+            "text": "Nach",
+            "word": 1
+        },
+        {
+            "charBegin": 1326,
+            "charEnd": 1335,
+            "id": 198,
+            "sentence": 10,
+            "text": "Berichten",
+            "word": 2
+        },
+        {
+            "charBegin": 1336,
+            "charEnd": 1339,
+            "id": 199,
+            "sentence": 10,
+            "text": "der",
+            "word": 3
+        },
+        {
+            "charBegin": 1340,
+            "charEnd": 1341,
+            "id": 200,
+            "sentence": 10,
+            "text": "„",
+            "word": 4
+        },
+        {
+            "charBegin": 1341,
+            "charEnd": 1355,
+            "id": 201,
+            "sentence": 10,
+            "text": "Mitteldeutsche",
+            "word": 5
+        },
+        {
+            "charBegin": 1356,
+            "charEnd": 1363,
+            "id": 202,
+            "sentence": 10,
+            "text": "Zeitung",
+            "word": 6
+        },
+        {
+            "charBegin": 1363,
+            "charEnd": 1364,
+            "id": 203,
+            "sentence": 10,
+            "text": "“",
+            "word": 7
+        },
+        {
+            "charBegin": 1365,
+            "charEnd": 1371,
+            "id": 204,
+            "sentence": 10,
+            "text": "jedoch",
+            "word": 8
+        },
+        {
+            "charBegin": 1372,
+            "charEnd": 1377,
+            "id": 205,
+            "sentence": 10,
+            "text": "haben",
+            "word": 9
+        },
+        {
+            "charBegin": 1378,
+            "charEnd": 1382,
+            "id": 206,
+            "sentence": 10,
+            "text": "sich",
+            "word": 10
+        },
+        {
+            "charBegin": 1383,
+            "charEnd": 1401,
+            "id": 207,
+            "sentence": 10,
+            "text": "Baden-Württembergs",
+            "word": 11
+        },
+        {
+            "charBegin": 1402,
+            "charEnd": 1419,
+            "id": 208,
+            "sentence": 10,
+            "text": "Ministerpräsident",
+            "word": 12
+        },
+        {
+            "charBegin": 1420,
+            "charEnd": 1426,
+            "id": 209,
+            "sentence": 10,
+            "text": "Stefan",
+            "word": 13
+        },
+        {
+            "charBegin": 1427,
+            "charEnd": 1433,
+            "id": 210,
+            "sentence": 10,
+            "text": "Mappus",
+            "word": 14
+        },
+        {
+            "charBegin": 1434,
+            "charEnd": 1437,
+            "id": 211,
+            "sentence": 10,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 1438,
+            "charEnd": 1441,
+            "id": 212,
+            "sentence": 10,
+            "text": "der",
+            "word": 16
+        },
+        {
+            "charBegin": 1442,
+            "charEnd": 1452,
+            "id": 213,
+            "sentence": 10,
+            "text": "scheidende",
+            "word": 17
+        },
+        {
+            "charBegin": 1453,
+            "charEnd": 1462,
+            "id": 214,
+            "sentence": 10,
+            "text": "hessische",
+            "word": 18
+        },
+        {
+            "charBegin": 1463,
+            "charEnd": 1480,
+            "id": 215,
+            "sentence": 10,
+            "text": "Ministerpräsident",
+            "word": 19
+        },
+        {
+            "charBegin": 1481,
+            "charEnd": 1487,
+            "id": 216,
+            "sentence": 10,
+            "text": "Roland",
+            "word": 20
+        },
+        {
+            "charBegin": 1488,
+            "charEnd": 1492,
+            "id": 217,
+            "sentence": 10,
+            "text": "Koch",
+            "word": 21
+        },
+        {
+            "charBegin": 1493,
+            "charEnd": 1497,
+            "id": 218,
+            "sentence": 10,
+            "text": "sich",
+            "word": 22
+        },
+        {
+            "charBegin": 1498,
+            "charEnd": 1503,
+            "id": 219,
+            "sentence": 10,
+            "text": "gegen",
+            "word": 23
+        },
+        {
+            "charBegin": 1504,
+            "charEnd": 1507,
+            "id": 220,
+            "sentence": 10,
+            "text": "die",
+            "word": 24
+        },
+        {
+            "charBegin": 1508,
+            "charEnd": 1515,
+            "id": 221,
+            "sentence": 10,
+            "text": "Tochter",
+            "word": 25
+        },
+        {
+            "charBegin": 1516,
+            "charEnd": 1519,
+            "id": 222,
+            "sentence": 10,
+            "text": "des",
+            "word": 26
+        },
+        {
+            "charBegin": 1520,
+            "charEnd": 1528,
+            "id": 223,
+            "sentence": 10,
+            "text": "früheren",
+            "word": 27
+        },
+        {
+            "charBegin": 1529,
+            "charEnd": 1546,
+            "id": 224,
+            "sentence": 10,
+            "text": "niedersächsischen",
+            "word": 28
+        },
+        {
+            "charBegin": 1547,
+            "charEnd": 1566,
+            "id": 225,
+            "sentence": 10,
+            "text": "Ministerpräsidenten",
+            "word": 29
+        },
+        {
+            "charBegin": 1567,
+            "charEnd": 1572,
+            "id": 226,
+            "sentence": 10,
+            "text": "Ernst",
+            "word": 30
+        },
+        {
+            "charBegin": 1573,
+            "charEnd": 1581,
+            "id": 227,
+            "sentence": 10,
+            "text": "Albrecht",
+            "word": 31
+        },
+        {
+            "charBegin": 1582,
+            "charEnd": 1589,
+            "id": 228,
+            "sentence": 10,
+            "text": "gewandt",
+            "word": 32
+        },
+        {
+            "charBegin": 1589,
+            "charEnd": 1590,
+            "id": 229,
+            "sentence": 10,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 1591,
+            "charEnd": 1601,
+            "id": 230,
+            "sentence": 11,
+            "text": "CDU-Kreise",
+            "word": 1
+        },
+        {
+            "charBegin": 1602,
+            "charEnd": 1612,
+            "id": 231,
+            "sentence": 11,
+            "text": "verneinten",
+            "word": 2
+        },
+        {
+            "charBegin": 1613,
+            "charEnd": 1618,
+            "id": 232,
+            "sentence": 11,
+            "text": "diese",
+            "word": 3
+        },
+        {
+            "charBegin": 1619,
+            "charEnd": 1630,
+            "id": 233,
+            "sentence": 11,
+            "text": "Darstellung",
+            "word": 4
+        },
+        {
+            "charBegin": 1630,
+            "charEnd": 1631,
+            "id": 234,
+            "sentence": 11,
+            "text": ".",
+            "word": 5
+        },
+        {
+            "charBegin": 1632,
+            "charEnd": 1640,
+            "id": 235,
+            "sentence": 12,
+            "text": "Vielmehr",
+            "word": 1
+        },
+        {
+            "charBegin": 1641,
+            "charEnd": 1645,
+            "id": 236,
+            "sentence": 12,
+            "text": "habe",
+            "word": 2
+        },
+        {
+            "charBegin": 1646,
+            "charEnd": 1650,
+            "id": 237,
+            "sentence": 12,
+            "text": "sich",
+            "word": 3
+        },
+        {
+            "charBegin": 1651,
+            "charEnd": 1657,
+            "id": 238,
+            "sentence": 12,
+            "text": "Merkel",
+            "word": 4
+        },
+        {
+            "charBegin": 1658,
+            "charEnd": 1665,
+            "id": 239,
+            "sentence": 12,
+            "text": "bereits",
+            "word": 5
+        },
+        {
+            "charBegin": 1666,
+            "charEnd": 1677,
+            "id": 240,
+            "sentence": 12,
+            "text": "unmittelbar",
+            "word": 6
+        },
+        {
+            "charBegin": 1678,
+            "charEnd": 1682,
+            "id": 241,
+            "sentence": 12,
+            "text": "nach",
+            "word": 7
+        },
+        {
+            "charBegin": 1683,
+            "charEnd": 1690,
+            "id": 242,
+            "sentence": 12,
+            "text": "Köhlers",
+            "word": 8
+        },
+        {
+            "charBegin": 1691,
+            "charEnd": 1700,
+            "id": 243,
+            "sentence": 12,
+            "text": "Rücktritt",
+            "word": 9
+        },
+        {
+            "charBegin": 1701,
+            "charEnd": 1704,
+            "id": 244,
+            "sentence": 12,
+            "text": "für",
+            "word": 10
+        },
+        {
+            "charBegin": 1705,
+            "charEnd": 1710,
+            "id": 245,
+            "sentence": 12,
+            "text": "Wulff",
+            "word": 11
+        },
+        {
+            "charBegin": 1711,
+            "charEnd": 1722,
+            "id": 246,
+            "sentence": 12,
+            "text": "entschieden",
+            "word": 12
+        },
+        {
+            "charBegin": 1722,
+            "charEnd": 1723,
+            "id": 247,
+            "sentence": 12,
+            "text": ",",
+            "word": 13
+        },
+        {
+            "charBegin": 1724,
+            "charEnd": 1730,
+            "id": 248,
+            "sentence": 12,
+            "text": "dieser",
+            "word": 14
+        },
+        {
+            "charBegin": 1731,
+            "charEnd": 1735,
+            "id": 249,
+            "sentence": 12,
+            "text": "habe",
+            "word": 15
+        },
+        {
+            "charBegin": 1736,
+            "charEnd": 1740,
+            "id": 250,
+            "sentence": 12,
+            "text": "sich",
+            "word": 16
+        },
+        {
+            "charBegin": 1741,
+            "charEnd": 1747,
+            "id": 251,
+            "sentence": 12,
+            "text": "jedoch",
+            "word": 17
+        },
+        {
+            "charBegin": 1748,
+            "charEnd": 1758,
+            "id": 252,
+            "sentence": 12,
+            "text": "Bedenkzeit",
+            "word": 18
+        },
+        {
+            "charBegin": 1759,
+            "charEnd": 1769,
+            "id": 253,
+            "sentence": 12,
+            "text": "auserbeten",
+            "word": 19
+        },
+        {
+            "charBegin": 1769,
+            "charEnd": 1770,
+            "id": 254,
+            "sentence": 12,
+            "text": ".",
+            "word": 20
+        },
+        {
+            "charBegin": 1772,
+            "charEnd": 1776,
+            "id": 255,
+            "sentence": 13,
+            "text": "Doch",
+            "word": 1
+        },
+        {
+            "charBegin": 1777,
+            "charEnd": 1781,
+            "id": 256,
+            "sentence": 13,
+            "text": "auch",
+            "word": 2
+        },
+        {
+            "charBegin": 1782,
+            "charEnd": 1785,
+            "id": 257,
+            "sentence": 13,
+            "text": "die",
+            "word": 3
+        },
+        {
+            "charBegin": 1786,
+            "charEnd": 1789,
+            "id": 258,
+            "sentence": 13,
+            "text": "FDP",
+            "word": 4
+        },
+        {
+            "charBegin": 1790,
+            "charEnd": 1793,
+            "id": 259,
+            "sentence": 13,
+            "text": "war",
+            "word": 5
+        },
+        {
+            "charBegin": 1794,
+            "charEnd": 1797,
+            "id": 260,
+            "sentence": 13,
+            "text": "mit",
+            "word": 6
+        },
+        {
+            "charBegin": 1798,
+            "charEnd": 1803,
+            "id": 261,
+            "sentence": 13,
+            "text": "einer",
+            "word": 7
+        },
+        {
+            "charBegin": 1804,
+            "charEnd": 1814,
+            "id": 262,
+            "sentence": 13,
+            "text": "Kandidatur",
+            "word": 8
+        },
+        {
+            "charBegin": 1815,
+            "charEnd": 1821,
+            "id": 263,
+            "sentence": 13,
+            "text": "Ursula",
+            "word": 9
+        },
+        {
+            "charBegin": 1822,
+            "charEnd": 1825,
+            "id": 264,
+            "sentence": 13,
+            "text": "von",
+            "word": 10
+        },
+        {
+            "charBegin": 1826,
+            "charEnd": 1829,
+            "id": 265,
+            "sentence": 13,
+            "text": "der",
+            "word": 11
+        },
+        {
+            "charBegin": 1830,
+            "charEnd": 1836,
+            "id": 266,
+            "sentence": 13,
+            "text": "Leyens",
+            "word": 12
+        },
+        {
+            "charBegin": 1837,
+            "charEnd": 1842,
+            "id": 267,
+            "sentence": 13,
+            "text": "nicht",
+            "word": 13
+        },
+        {
+            "charBegin": 1843,
+            "charEnd": 1852,
+            "id": 268,
+            "sentence": 13,
+            "text": "glücklich",
+            "word": 14
+        },
+        {
+            "charBegin": 1852,
+            "charEnd": 1853,
+            "id": 269,
+            "sentence": 13,
+            "text": ".",
+            "word": 15
+        },
+        {
+            "charBegin": 1854,
+            "charEnd": 1883,
+            "id": 270,
+            "sentence": 14,
+            "text": "FDP-Fraktionsvizevorsitzender",
+            "word": 1
+        },
+        {
+            "charBegin": 1884,
+            "charEnd": 1890,
+            "id": 271,
+            "sentence": 14,
+            "text": "Jürgen",
+            "word": 2
+        },
+        {
+            "charBegin": 1891,
+            "charEnd": 1899,
+            "id": 272,
+            "sentence": 14,
+            "text": "Koppelin",
+            "word": 3
+        },
+        {
+            "charBegin": 1900,
+            "charEnd": 1911,
+            "id": 273,
+            "sentence": 14,
+            "text": "bezeichnete",
+            "word": 4
+        },
+        {
+            "charBegin": 1912,
+            "charEnd": 1915,
+            "id": 274,
+            "sentence": 14,
+            "text": "die",
+            "word": 5
+        },
+        {
+            "charBegin": 1916,
+            "charEnd": 1926,
+            "id": 275,
+            "sentence": 14,
+            "text": "52-Jährige",
+            "word": 6
+        },
+        {
+            "charBegin": 1927,
+            "charEnd": 1931,
+            "id": 276,
+            "sentence": 14,
+            "text": "zwar",
+            "word": 7
+        },
+        {
+            "charBegin": 1932,
+            "charEnd": 1935,
+            "id": 277,
+            "sentence": 14,
+            "text": "als",
+            "word": 8
+        },
+        {
+            "charBegin": 1936,
+            "charEnd": 1954,
+            "id": 278,
+            "sentence": 14,
+            "text": "durchsetzungsfähig",
+            "word": 9
+        },
+        {
+            "charBegin": 1954,
+            "charEnd": 1955,
+            "id": 279,
+            "sentence": 14,
+            "text": ",",
+            "word": 10
+        },
+        {
+            "charBegin": 1956,
+            "charEnd": 1960,
+            "id": 280,
+            "sentence": 14,
+            "text": "aber",
+            "word": 11
+        },
+        {
+            "charBegin": 1961,
+            "charEnd": 1964,
+            "id": 281,
+            "sentence": 14,
+            "text": "von",
+            "word": 12
+        },
+        {
+            "charBegin": 1965,
+            "charEnd": 1968,
+            "id": 282,
+            "sentence": 14,
+            "text": "der",
+            "word": 13
+        },
+        {
+            "charBegin": 1969,
+            "charEnd": 1974,
+            "id": 283,
+            "sentence": 14,
+            "text": "Leyen",
+            "word": 14
+        },
+        {
+            "charBegin": 1975,
+            "charEnd": 1978,
+            "id": 284,
+            "sentence": 14,
+            "text": "sei",
+            "word": 15
+        },
+        {
+            "charBegin": 1979,
+            "charEnd": 1982,
+            "id": 285,
+            "sentence": 14,
+            "text": "vor",
+            "word": 16
+        },
+        {
+            "charBegin": 1983,
+            "charEnd": 1988,
+            "id": 286,
+            "sentence": 14,
+            "text": "allem",
+            "word": 17
+        },
+        {
+            "charBegin": 1989,
+            "charEnd": 1991,
+            "id": 287,
+            "sentence": 14,
+            "text": "in",
+            "word": 18
+        },
+        {
+            "charBegin": 1992,
+            "charEnd": 1995,
+            "id": 288,
+            "sentence": 14,
+            "text": "der",
+            "word": 19
+        },
+        {
+            "charBegin": 1996,
+            "charEnd": 2004,
+            "id": 289,
+            "sentence": 14,
+            "text": "jüngeren",
+            "word": 20
+        },
+        {
+            "charBegin": 2005,
+            "charEnd": 2015,
+            "id": 290,
+            "sentence": 14,
+            "text": "Generation",
+            "word": 21
+        },
+        {
+            "charBegin": 2016,
+            "charEnd": 2021,
+            "id": 291,
+            "sentence": 14,
+            "text": "wegen",
+            "word": 22
+        },
+        {
+            "charBegin": 2022,
+            "charEnd": 2027,
+            "id": 292,
+            "sentence": 14,
+            "text": "ihrer",
+            "word": 23
+        },
+        {
+            "charBegin": 2028,
+            "charEnd": 2047,
+            "id": 293,
+            "sentence": 14,
+            "text": "Internetzensurpläne",
+            "word": 24
+        },
+        {
+            "charBegin": 2048,
+            "charEnd": 2050,
+            "id": 294,
+            "sentence": 14,
+            "text": "in",
+            "word": 25
+        },
+        {
+            "charBegin": 2051,
+            "charEnd": 2056,
+            "id": 295,
+            "sentence": 14,
+            "text": "ihrer",
+            "word": 26
+        },
+        {
+            "charBegin": 2057,
+            "charEnd": 2061,
+            "id": 296,
+            "sentence": 14,
+            "text": "Zeit",
+            "word": 27
+        },
+        {
+            "charBegin": 2062,
+            "charEnd": 2065,
+            "id": 297,
+            "sentence": 14,
+            "text": "als",
+            "word": 28
+        },
+        {
+            "charBegin": 2066,
+            "charEnd": 2084,
+            "id": 298,
+            "sentence": 14,
+            "text": "Familienministerin",
+            "word": 29
+        },
+        {
+            "charBegin": 2086,
+            "charEnd": 2089,
+            "id": 299,
+            "sentence": 14,
+            "text": "ein",
+            "word": 30
+        },
+        {
+            "charBegin": 2090,
+            "charEnd": 2091,
+            "id": 300,
+            "sentence": 14,
+            "text": "„",
+            "word": 31
+        },
+        {
+            "charBegin": 2091,
+            "charEnd": 2098,
+            "id": 301,
+            "sentence": 14,
+            "text": "Antityp",
+            "word": 32
+        },
+        {
+            "charBegin": 2098,
+            "charEnd": 2099,
+            "id": 302,
+            "sentence": 14,
+            "text": "“",
+            "word": 33
+        },
+        {
+            "charBegin": 2099,
+            "charEnd": 2100,
+            "id": 303,
+            "sentence": 14,
+            "text": ".",
+            "word": 34
+        },
+        {
+            "charBegin": 2102,
+            "charEnd": 2105,
+            "id": 304,
+            "sentence": 15,
+            "text": "Den",
+            "word": 1
+        },
+        {
+            "charBegin": 2106,
+            "charEnd": 2119,
+            "id": 305,
+            "sentence": 15,
+            "text": "evangelischen",
+            "word": 2
+        },
+        {
+            "charBegin": 2120,
+            "charEnd": 2129,
+            "id": 306,
+            "sentence": 15,
+            "text": "Theologen",
+            "word": 3
+        },
+        {
+            "charBegin": 2130,
+            "charEnd": 2135,
+            "id": 307,
+            "sentence": 15,
+            "text": "Gauck",
+            "word": 4
+        },
+        {
+            "charBegin": 2135,
+            "charEnd": 2136,
+            "id": 308,
+            "sentence": 15,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 2137,
+            "charEnd": 2140,
+            "id": 309,
+            "sentence": 15,
+            "text": "der",
+            "word": 6
+        },
+        {
+            "charBegin": 2141,
+            "charEnd": 2144,
+            "id": 310,
+            "sentence": 15,
+            "text": "bei",
+            "word": 7
+        },
+        {
+            "charBegin": 2145,
+            "charEnd": 2148,
+            "id": 311,
+            "sentence": 15,
+            "text": "der",
+            "word": 8
+        },
+        {
+            "charBegin": 2149,
+            "charEnd": 2153,
+            "id": 312,
+            "sentence": 15,
+            "text": "Wahl",
+            "word": 9
+        },
+        {
+            "charBegin": 2154,
+            "charEnd": 2156,
+            "id": 313,
+            "sentence": 15,
+            "text": "am",
+            "word": 10
+        },
+        {
+            "charBegin": 2157,
+            "charEnd": 2160,
+            "id": 314,
+            "sentence": 15,
+            "text": "30.",
+            "word": 11
+        },
+        {
+            "charBegin": 2161,
+            "charEnd": 2165,
+            "id": 315,
+            "sentence": 15,
+            "text": "Juni",
+            "word": 12
+        },
+        {
+            "charBegin": 2166,
+            "charEnd": 2171,
+            "id": 316,
+            "sentence": 15,
+            "text": "gegen",
+            "word": 13
+        },
+        {
+            "charBegin": 2172,
+            "charEnd": 2177,
+            "id": 317,
+            "sentence": 15,
+            "text": "Wulff",
+            "word": 14
+        },
+        {
+            "charBegin": 2178,
+            "charEnd": 2186,
+            "id": 318,
+            "sentence": 15,
+            "text": "antreten",
+            "word": 15
+        },
+        {
+            "charBegin": 2187,
+            "charEnd": 2191,
+            "id": 319,
+            "sentence": 15,
+            "text": "soll",
+            "word": 16
+        },
+        {
+            "charBegin": 2191,
+            "charEnd": 2192,
+            "id": 320,
+            "sentence": 15,
+            "text": ",",
+            "word": 17
+        },
+        {
+            "charBegin": 2193,
+            "charEnd": 2198,
+            "id": 321,
+            "sentence": 15,
+            "text": "hatte",
+            "word": 18
+        },
+        {
+            "charBegin": 2199,
+            "charEnd": 2202,
+            "id": 322,
+            "sentence": 15,
+            "text": "der",
+            "word": 19
+        },
+        {
+            "charBegin": 2203,
+            "charEnd": 2223,
+            "id": 323,
+            "sentence": 15,
+            "text": "Fraktionsvorsitzende",
+            "word": 20
+        },
+        {
+            "charBegin": 2224,
+            "charEnd": 2227,
+            "id": 324,
+            "sentence": 15,
+            "text": "von",
+            "word": 21
+        },
+        {
+            "charBegin": 2228,
+            "charEnd": 2233,
+            "id": 325,
+            "sentence": 15,
+            "text": "Grüne",
+            "word": 22
+        },
+        {
+            "charBegin": 2233,
+            "charEnd": 2234,
+            "id": 326,
+            "sentence": 15,
+            "text": "\/",
+            "word": 23
+        },
+        {
+            "charBegin": 2234,
+            "charEnd": 2241,
+            "id": 327,
+            "sentence": 15,
+            "text": "Bündnis",
+            "word": 24
+        },
+        {
+            "charBegin": 2242,
+            "charEnd": 2244,
+            "id": 328,
+            "sentence": 15,
+            "text": "90",
+            "word": 25
+        },
+        {
+            "charBegin": 2244,
+            "charEnd": 2245,
+            "id": 329,
+            "sentence": 15,
+            "text": ",",
+            "word": 26
+        },
+        {
+            "charBegin": 2246,
+            "charEnd": 2252,
+            "id": 330,
+            "sentence": 15,
+            "text": "Jürgen",
+            "word": 27
+        },
+        {
+            "charBegin": 2253,
+            "charEnd": 2260,
+            "id": 331,
+            "sentence": 15,
+            "text": "Trittin",
+            "word": 28
+        },
+        {
+            "charBegin": 2260,
+            "charEnd": 2261,
+            "id": 332,
+            "sentence": 15,
+            "text": ",",
+            "word": 29
+        },
+        {
+            "charBegin": 2262,
+            "charEnd": 2265,
+            "id": 333,
+            "sentence": 15,
+            "text": "ins",
+            "word": 30
+        },
+        {
+            "charBegin": 2266,
+            "charEnd": 2274,
+            "id": 334,
+            "sentence": 15,
+            "text": "Gespräch",
+            "word": 31
+        },
+        {
+            "charBegin": 2275,
+            "charEnd": 2283,
+            "id": 335,
+            "sentence": 15,
+            "text": "gebracht",
+            "word": 32
+        },
+        {
+            "charBegin": 2283,
+            "charEnd": 2284,
+            "id": 336,
+            "sentence": 15,
+            "text": ".",
+            "word": 33
+        },
+        {
+            "charBegin": 2285,
+            "charEnd": 2290,
+            "id": 337,
+            "sentence": 16,
+            "text": "Wulff",
+            "word": 1
+        },
+        {
+            "charBegin": 2291,
+            "charEnd": 2294,
+            "id": 338,
+            "sentence": 16,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 2295,
+            "charEnd": 2305,
+            "id": 339,
+            "sentence": 16,
+            "text": "katholisch",
+            "word": 3
+        },
+        {
+            "charBegin": 2306,
+            "charEnd": 2309,
+            "id": 340,
+            "sentence": 16,
+            "text": "und",
+            "word": 4
+        },
+        {
+            "charBegin": 2310,
+            "charEnd": 2314,
+            "id": 341,
+            "sentence": 16,
+            "text": "wäre",
+            "word": 5
+        },
+        {
+            "charBegin": 2315,
+            "charEnd": 2319,
+            "id": 342,
+            "sentence": 16,
+            "text": "erst",
+            "word": 6
+        },
+        {
+            "charBegin": 2320,
+            "charEnd": 2323,
+            "id": 343,
+            "sentence": 16,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 2324,
+            "charEnd": 2330,
+            "id": 344,
+            "sentence": 16,
+            "text": "zweite",
+            "word": 8
+        },
+        {
+            "charBegin": 2331,
+            "charEnd": 2339,
+            "id": 345,
+            "sentence": 16,
+            "text": "Katholik",
+            "word": 9
+        },
+        {
+            "charBegin": 2340,
+            "charEnd": 2342,
+            "id": 346,
+            "sentence": 16,
+            "text": "im",
+            "word": 10
+        },
+        {
+            "charBegin": 2343,
+            "charEnd": 2351,
+            "id": 347,
+            "sentence": 16,
+            "text": "höchsten",
+            "word": 11
+        },
+        {
+            "charBegin": 2352,
+            "charEnd": 2361,
+            "id": 348,
+            "sentence": 16,
+            "text": "deutschen",
+            "word": 12
+        },
+        {
+            "charBegin": 2362,
+            "charEnd": 2371,
+            "id": 349,
+            "sentence": 16,
+            "text": "Staatsamt",
+            "word": 13
+        },
+        {
+            "charBegin": 2371,
+            "charEnd": 2372,
+            "id": 350,
+            "sentence": 16,
+            "text": ".",
+            "word": 14
+        },
+        {
+            "charBegin": 2374,
+            "charEnd": 2380,
+            "id": 351,
+            "sentence": 17,
+            "text": "Anhand",
+            "word": 1
+        },
+        {
+            "charBegin": 2381,
+            "charEnd": 2384,
+            "id": 352,
+            "sentence": 17,
+            "text": "der",
+            "word": 2
+        },
+        {
+            "charBegin": 2385,
+            "charEnd": 2405,
+            "id": 353,
+            "sentence": 17,
+            "text": "Mehrheitenverteilung",
+            "word": 3
+        },
+        {
+            "charBegin": 2406,
+            "charEnd": 2408,
+            "id": 354,
+            "sentence": 17,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 2409,
+            "charEnd": 2412,
+            "id": 355,
+            "sentence": 17,
+            "text": "der",
+            "word": 5
+        },
+        {
+            "charBegin": 2413,
+            "charEnd": 2430,
+            "id": 356,
+            "sentence": 17,
+            "text": "Bundesversammlung",
+            "word": 6
+        },
+        {
+            "charBegin": 2431,
+            "charEnd": 2434,
+            "id": 357,
+            "sentence": 17,
+            "text": "ist",
+            "word": 7
+        },
+        {
+            "charBegin": 2435,
+            "charEnd": 2438,
+            "id": 358,
+            "sentence": 17,
+            "text": "die",
+            "word": 8
+        },
+        {
+            "charBegin": 2439,
+            "charEnd": 2443,
+            "id": 359,
+            "sentence": 17,
+            "text": "Wahl",
+            "word": 9
+        },
+        {
+            "charBegin": 2444,
+            "charEnd": 2450,
+            "id": 360,
+            "sentence": 17,
+            "text": "Wulffs",
+            "word": 10
+        },
+        {
+            "charBegin": 2451,
+            "charEnd": 2465,
+            "id": 361,
+            "sentence": 17,
+            "text": "wahrscheinlich",
+            "word": 11
+        },
+        {
+            "charBegin": 2465,
+            "charEnd": 2466,
+            "id": 362,
+            "sentence": 17,
+            "text": ",",
+            "word": 12
+        },
+        {
+            "charBegin": 2467,
+            "charEnd": 2469,
+            "id": 363,
+            "sentence": 17,
+            "text": "da",
+            "word": 13
+        },
+        {
+            "charBegin": 2470,
+            "charEnd": 2477,
+            "id": 364,
+            "sentence": 17,
+            "text": "CDU\/CSU",
+            "word": 14
+        },
+        {
+            "charBegin": 2478,
+            "charEnd": 2481,
+            "id": 365,
+            "sentence": 17,
+            "text": "und",
+            "word": 15
+        },
+        {
+            "charBegin": 2482,
+            "charEnd": 2485,
+            "id": 366,
+            "sentence": 17,
+            "text": "FDP",
+            "word": 16
+        },
+        {
+            "charBegin": 2486,
+            "charEnd": 2490,
+            "id": 367,
+            "sentence": 17,
+            "text": "über",
+            "word": 17
+        },
+        {
+            "charBegin": 2491,
+            "charEnd": 2495,
+            "id": 368,
+            "sentence": 17,
+            "text": "eine",
+            "word": 18
+        },
+        {
+            "charBegin": 2496,
+            "charEnd": 2504,
+            "id": 369,
+            "sentence": 17,
+            "text": "Mehrheit",
+            "word": 19
+        },
+        {
+            "charBegin": 2505,
+            "charEnd": 2508,
+            "id": 370,
+            "sentence": 17,
+            "text": "von",
+            "word": 20
+        },
+        {
+            "charBegin": 2509,
+            "charEnd": 2511,
+            "id": 371,
+            "sentence": 17,
+            "text": "21",
+            "word": 21
+        },
+        {
+            "charBegin": 2512,
+            "charEnd": 2523,
+            "id": 372,
+            "sentence": 17,
+            "text": "Mitgliedern",
+            "word": 22
+        },
+        {
+            "charBegin": 2524,
+            "charEnd": 2532,
+            "id": 373,
+            "sentence": 17,
+            "text": "verfügen",
+            "word": 23
+        },
+        {
+            "charBegin": 2532,
+            "charEnd": 2533,
+            "id": 374,
+            "sentence": 17,
+            "text": ".",
+            "word": 24
+        },
+        {
+            "charBegin": 2535,
+            "charEnd": 2537,
+            "id": 375,
+            "sentence": 18,
+            "text": "Ob",
+            "word": 1
+        },
+        {
+            "charBegin": 2538,
+            "charEnd": 2541,
+            "id": 376,
+            "sentence": 18,
+            "text": "die",
+            "word": 2
+        },
+        {
+            "charBegin": 2542,
+            "charEnd": 2553,
+            "id": 377,
+            "sentence": 18,
+            "text": "Linkspartei",
+            "word": 3
+        },
+        {
+            "charBegin": 2554,
+            "charEnd": 2559,
+            "id": 378,
+            "sentence": 18,
+            "text": "einen",
+            "word": 4
+        },
+        {
+            "charBegin": 2560,
+            "charEnd": 2567,
+            "id": 379,
+            "sentence": 18,
+            "text": "eigenen",
+            "word": 5
+        },
+        {
+            "charBegin": 2568,
+            "charEnd": 2578,
+            "id": 380,
+            "sentence": 18,
+            "text": "Kandidaten",
+            "word": 6
+        },
+        {
+            "charBegin": 2579,
+            "charEnd": 2589,
+            "id": 381,
+            "sentence": 18,
+            "text": "vorschlägt",
+            "word": 7
+        },
+        {
+            "charBegin": 2589,
+            "charEnd": 2590,
+            "id": 382,
+            "sentence": 18,
+            "text": ",",
+            "word": 8
+        },
+        {
+            "charBegin": 2591,
+            "charEnd": 2594,
+            "id": 383,
+            "sentence": 18,
+            "text": "ist",
+            "word": 9
+        },
+        {
+            "charBegin": 2595,
+            "charEnd": 2602,
+            "id": 384,
+            "sentence": 18,
+            "text": "bislang",
+            "word": 10
+        },
+        {
+            "charBegin": 2603,
+            "charEnd": 2608,
+            "id": 385,
+            "sentence": 18,
+            "text": "nicht",
+            "word": 11
+        },
+        {
+            "charBegin": 2609,
+            "charEnd": 2616,
+            "id": 386,
+            "sentence": 18,
+            "text": "bekannt",
+            "word": 12
+        },
+        {
+            "charBegin": 2616,
+            "charEnd": 2617,
+            "id": 387,
+            "sentence": 18,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 2618,
+            "charEnd": 2621,
+            "id": 388,
+            "sentence": 19,
+            "text": "Sie",
+            "word": 1
+        },
+        {
+            "charBegin": 2622,
+            "charEnd": 2625,
+            "id": 389,
+            "sentence": 19,
+            "text": "hat",
+            "word": 2
+        },
+        {
+            "charBegin": 2626,
+            "charEnd": 2630,
+            "id": 390,
+            "sentence": 19,
+            "text": "aber",
+            "word": 3
+        },
+        {
+            "charBegin": 2631,
+            "charEnd": 2642,
+            "id": 391,
+            "sentence": 19,
+            "text": "angekündigt",
+            "word": 4
+        },
+        {
+            "charBegin": 2642,
+            "charEnd": 2643,
+            "id": 392,
+            "sentence": 19,
+            "text": ",",
+            "word": 5
+        },
+        {
+            "charBegin": 2644,
+            "charEnd": 2649,
+            "id": 393,
+            "sentence": 19,
+            "text": "weder",
+            "word": 6
+        },
+        {
+            "charBegin": 2650,
+            "charEnd": 2655,
+            "id": 394,
+            "sentence": 19,
+            "text": "Wulff",
+            "word": 7
+        },
+        {
+            "charBegin": 2656,
+            "charEnd": 2660,
+            "id": 395,
+            "sentence": 19,
+            "text": "noch",
+            "word": 8
+        },
+        {
+            "charBegin": 2661,
+            "charEnd": 2666,
+            "id": 396,
+            "sentence": 19,
+            "text": "Gauck",
+            "word": 9
+        },
+        {
+            "charBegin": 2667,
+            "charEnd": 2679,
+            "id": 397,
+            "sentence": 19,
+            "text": "unterstützen",
+            "word": 10
+        },
+        {
+            "charBegin": 2680,
+            "charEnd": 2682,
+            "id": 398,
+            "sentence": 19,
+            "text": "zu",
+            "word": 11
+        },
+        {
+            "charBegin": 2683,
+            "charEnd": 2689,
+            "id": 399,
+            "sentence": 19,
+            "text": "wollen",
+            "word": 12
+        },
+        {
+            "charBegin": 2689,
+            "charEnd": 2690,
+            "id": 400,
+            "sentence": 19,
+            "text": ".",
+            "word": 13
+        },
+        {
+            "charBegin": 2692,
+            "charEnd": 2695,
+            "id": 401,
+            "sentence": 20,
+            "text": "Die",
+            "word": 1
+        },
+        {
+            "charBegin": 2696,
+            "charEnd": 2705,
+            "id": 402,
+            "sentence": 20,
+            "text": "Nachfolge",
+            "word": 2
+        },
+        {
+            "charBegin": 2706,
+            "charEnd": 2712,
+            "id": 403,
+            "sentence": 20,
+            "text": "Wulffs",
+            "word": 3
+        },
+        {
+            "charBegin": 2713,
+            "charEnd": 2715,
+            "id": 404,
+            "sentence": 20,
+            "text": "in",
+            "word": 4
+        },
+        {
+            "charBegin": 2716,
+            "charEnd": 2733,
+            "id": 405,
+            "sentence": 20,
+            "text": "Ministerpräsident",
+            "word": 5
+        },
+        {
+            "charBegin": 2734,
+            "charEnd": 2740,
+            "id": 406,
+            "sentence": 20,
+            "text": "könnte",
+            "word": 6
+        },
+        {
+            "charBegin": 2741,
+            "charEnd": 2744,
+            "id": 407,
+            "sentence": 20,
+            "text": "der",
+            "word": 7
+        },
+        {
+            "charBegin": 2745,
+            "charEnd": 2755,
+            "id": 408,
+            "sentence": 20,
+            "text": "39-Jährige",
+            "word": 8
+        },
+        {
+            "charBegin": 2756,
+            "charEnd": 2761,
+            "id": 409,
+            "sentence": 20,
+            "text": "David",
+            "word": 9
+        },
+        {
+            "charBegin": 2762,
+            "charEnd": 2772,
+            "id": 410,
+            "sentence": 20,
+            "text": "McAllister",
+            "word": 10
+        },
+        {
+            "charBegin": 2773,
+            "charEnd": 2779,
+            "id": 411,
+            "sentence": 20,
+            "text": "werden",
+            "word": 11
+        },
+        {
+            "charBegin": 2779,
+            "charEnd": 2780,
+            "id": 412,
+            "sentence": 20,
+            "text": ".",
+            "word": 12
+        },
+        {
+            "charBegin": 2781,
+            "charEnd": 2787,
+            "id": 413,
+            "sentence": 21,
+            "text": "Dieser",
+            "word": 1
+        },
+        {
+            "charBegin": 2788,
+            "charEnd": 2791,
+            "id": 414,
+            "sentence": 21,
+            "text": "ist",
+            "word": 2
+        },
+        {
+            "charBegin": 2792,
+            "charEnd": 2799,
+            "id": 415,
+            "sentence": 21,
+            "text": "bislang",
+            "word": 3
+        },
+        {
+            "charBegin": 2800,
+            "charEnd": 2825,
+            "id": 416,
+            "sentence": 21,
+            "text": "CDU-Fraktionsvorsitzender",
+            "word": 4
+        },
+        {
+            "charBegin": 2826,
+            "charEnd": 2828,
+            "id": 417,
+            "sentence": 21,
+            "text": "in",
+            "word": 5
+        },
+        {
+            "charBegin": 2829,
+            "charEnd": 2846,
+            "id": 418,
+            "sentence": 21,
+            "text": "niedersächsischen",
+            "word": 6
+        },
+        {
+            "charBegin": 2847,
+            "charEnd": 2854,
+            "id": 419,
+            "sentence": 21,
+            "text": "Landtag",
+            "word": 7
+        },
+        {
+            "charBegin": 2854,
+            "charEnd": 2855,
+            "id": 420,
+            "sentence": 21,
+            "text": ".",
+            "word": 8
+        }
+    ]
+}
